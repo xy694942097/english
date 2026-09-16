@@ -1,0 +1,181 @@
+{
+  "sources": {
+    "cet4": {
+      "raw_rows": 7508,
+      "unique_words": 4544,
+      "raw_phrase_mentions": 66649,
+      "selected_phrase_senses": 30478,
+      "kept_examples": 8288,
+      "omitted_fragment_examples": 161
+    },
+    "cet6": {
+      "raw_rows": 5651,
+      "unique_words": 3991,
+      "raw_phrase_mentions": 33636,
+      "selected_phrase_senses": 18236,
+      "kept_examples": 6736,
+      "omitted_fragment_examples": 173
+    },
+    "tem8": {
+      "raw_rows": 12881,
+      "unique_words": 12410,
+      "raw_phrase_mentions": 59266,
+      "selected_phrase_senses": 39430,
+      "kept_examples": 17197,
+      "omitted_fragment_examples": 614
+    },
+    "ngsl-core": {
+      "unique_words": 2809
+    }
+  },
+  "files": [
+    {
+      "id": "cet4",
+      "title": "四级词汇 · 社区整理",
+      "source_url": "https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/四级.jsonl",
+      "sha256": "e70511755f8da283ce25d37dd0662b0db35180aad0735c0767eedb37b8508e98",
+      "file": "references/downloads/CET4-rich.jsonl",
+      "download_url": "https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/四级.jsonl",
+      "description": "上游合并了多个词书，非最新版官方大纲逐词核验。资料释义与例句未经逐条教学审校。按字母浏览，源顺序不是频率排名。",
+      "license": "上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。",
+      "downloaded_at": "2026-09-14T12:23:49.037127+00:00"
+    },
+    {
+      "id": "cet6",
+      "title": "六级词汇 · 社区整理",
+      "source_url": "https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/六级.jsonl",
+      "sha256": "2c2f65773b7d272334efeb5ad302382b18f791c58bb238a6feb777a7c4b81f8b",
+      "file": "references/downloads/CET6-rich.jsonl",
+      "download_url": "https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/六级.jsonl",
+      "description": "上游合并了多个词书，非最新版官方大纲逐词核验。资料释义与例句未经逐条教学审校。按字母浏览，源顺序不是频率排名。",
+      "license": "上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。",
+      "downloaded_at": "2026-09-14T12:23:46.106880+00:00"
+    },
+    {
+      "id": "tem8",
+      "title": "专八词汇 · 社区整理",
+      "source_url": "https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/专八.jsonl",
+      "sha256": "ee202ddcde9abefe02d5ed423991899f6141daee7ca3c264c6b7434e422d420f",
+      "file": "references/downloads/TEM8-rich.jsonl",
+      "download_url": "https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/专八.jsonl",
+      "description": "上游合并了多个词书，非最新版官方大纲逐词核验。资料释义与例句未经逐条教学审校。按字母浏览，源顺序不是频率排名。",
+      "license": "上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。",
+      "downloaded_at": "2026-09-14T12:23:57.044382+00:00"
+    },
+    {
+      "id": "ngsl-core",
+      "title": "NGSL 1.2 · 高频核心词",
+      "source_url": "https://github.com/zhghx/qwerty-learner/blob/0b29037/public/dicts/NGSL_1.2.json",
+      "download_url": "https://cdn.jsdelivr.net/gh/zhghx/qwerty-learner@0b29037/public/dicts/NGSL_1.2.json",
+      "official_url": "https://www.newgeneralservicelist.com/new-general-service-list",
+      "file": "references/downloads/NGSL-1.2-community.json",
+      "sha256": "bec407ca0042ed19e8b6c8e107ef4865e7fb9ccde70e0a78dd4df5c49cf71ac3",
+      "description": "2809词社区镜像；原词表官方发布CC BY-SA 4.0。镜像加入了中英文解释，尚未与官方CSV逐项比对。顺序不是已核实词频，不能把前1000项称为频率前1000。",
+      "license": "NGSL原词表：Browne/Culligan/Phillips，CC BY-SA 4.0；镜像释义来自社区，保留上游GPL与出处，不将原表许可自动扩展到所有解释。"
+    }
+  ],
+  "dry_run": false,
+  "backup": "english/data/backups/20260914T123408-6f29f17b.sqlite3",
+  "before": {
+    "items": 255,
+    "studied": 0,
+    "due": 0,
+    "minutes": 0
+  },
+  "imports": [
+    {
+      "collection": "cet4",
+      "input": 4544,
+      "members": 4544,
+      "added": 4497
+    },
+    {
+      "collection": "cet4-phrases",
+      "input": 30478,
+      "members": 30478,
+      "added": 30478
+    },
+    {
+      "collection": "cet6",
+      "input": 3991,
+      "members": 3991,
+      "added": 2118
+    },
+    {
+      "collection": "cet6-phrases",
+      "input": 18236,
+      "members": 18236,
+      "added": 4128
+    },
+    {
+      "collection": "tem8",
+      "input": 12410,
+      "members": 12410,
+      "added": 6419
+    },
+    {
+      "collection": "tem8-phrases",
+      "input": 39430,
+      "members": 39430,
+      "added": 6025
+    },
+    {
+      "collection": "ngsl-core",
+      "input": 2809,
+      "members": 2809,
+      "added": 52
+    }
+  ],
+  "integrity": "ok",
+  "evidence_unchanged": true,
+  "after": {
+    "items": 53972,
+    "studied": 0,
+    "due": 0,
+    "minutes": 0
+  },
+  "collections": [
+    {
+      "id": "cet4",
+      "title": "四级词汇 · 社区整理",
+      "metadata": "{\"id\": \"cet4\", \"title\": \"四级词汇 · 社区整理\", \"source_url\": \"https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/四级.jsonl\", \"sha256\": \"e70511755f8da283ce25d37dd0662b0db35180aad0735c0767eedb37b8508e98\", \"file\": \"references/downloads/CET4-rich.jsonl\", \"download_url\": \"https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/四级.jsonl\", \"description\": \"上游合并了多个词书，非最新版官方大纲逐词核验。资料释义与例句未经逐条教学审校。按字母浏览，源顺序不是频率排名。\", \"license\": \"上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。\", \"downloaded_at\": \"2026-09-14T12:23:49.037127+00:00\"}",
+      "count": 4544
+    },
+    {
+      "id": "cet4-phrases",
+      "title": "四级关联词组 · 筛选资料",
+      "metadata": "{\"id\": \"cet4-phrases\", \"title\": \"四级关联词组 · 筛选资料\", \"source_url\": \"https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/四级.jsonl\", \"sha256\": \"e70511755f8da283ce25d37dd0662b0db35180aad0735c0767eedb37b8508e98\", \"file\": \"references/downloads/CET4-rich.jsonl\", \"download_url\": \"https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/四级.jsonl\", \"description\": \"从该考试词目附带搭配中筛选2–6个词、至多1个词不在NGSL集合的条目。此规则筛阅读难度，不是词频排名，也不是官方必考词组。\", \"license\": \"上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。\", \"downloaded_at\": \"2026-09-14T12:23:49.037127+00:00\"}",
+      "count": 30478
+    },
+    {
+      "id": "cet6",
+      "title": "六级词汇 · 社区整理",
+      "metadata": "{\"id\": \"cet6\", \"title\": \"六级词汇 · 社区整理\", \"source_url\": \"https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/六级.jsonl\", \"sha256\": \"2c2f65773b7d272334efeb5ad302382b18f791c58bb238a6feb777a7c4b81f8b\", \"file\": \"references/downloads/CET6-rich.jsonl\", \"download_url\": \"https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/六级.jsonl\", \"description\": \"上游合并了多个词书，非最新版官方大纲逐词核验。资料释义与例句未经逐条教学审校。按字母浏览，源顺序不是频率排名。\", \"license\": \"上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。\", \"downloaded_at\": \"2026-09-14T12:23:46.106880+00:00\"}",
+      "count": 3991
+    },
+    {
+      "id": "cet6-phrases",
+      "title": "六级关联词组 · 筛选资料",
+      "metadata": "{\"id\": \"cet6-phrases\", \"title\": \"六级关联词组 · 筛选资料\", \"source_url\": \"https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/六级.jsonl\", \"sha256\": \"2c2f65773b7d272334efeb5ad302382b18f791c58bb238a6feb777a7c4b81f8b\", \"file\": \"references/downloads/CET6-rich.jsonl\", \"download_url\": \"https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/六级.jsonl\", \"description\": \"从该考试词目附带搭配中筛选2–6个词、至多1个词不在NGSL集合的条目。此规则筛阅读难度，不是词频排名，也不是官方必考词组。\", \"license\": \"上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。\", \"downloaded_at\": \"2026-09-14T12:23:46.106880+00:00\"}",
+      "count": 18236
+    },
+    {
+      "id": "ngsl-core",
+      "title": "NGSL 1.2 · 高频核心词",
+      "metadata": "{\"id\": \"ngsl-core\", \"title\": \"NGSL 1.2 · 高频核心词\", \"source_url\": \"https://github.com/zhghx/qwerty-learner/blob/0b29037/public/dicts/NGSL_1.2.json\", \"download_url\": \"https://cdn.jsdelivr.net/gh/zhghx/qwerty-learner@0b29037/public/dicts/NGSL_1.2.json\", \"official_url\": \"https://www.newgeneralservicelist.com/new-general-service-list\", \"file\": \"references/downloads/NGSL-1.2-community.json\", \"sha256\": \"bec407ca0042ed19e8b6c8e107ef4865e7fb9ccde70e0a78dd4df5c49cf71ac3\", \"description\": \"2809词社区镜像；原词表官方发布CC BY-SA 4.0。镜像加入了中英文解释，尚未与官方CSV逐项比对。顺序不是已核实词频，不能把前1000项称为频率前1000。\", \"license\": \"NGSL原词表：Browne/Culligan/Phillips，CC BY-SA 4.0；镜像释义来自社区，保留上游GPL与出处，不将原表许可自动扩展到所有解释。\"}",
+      "count": 2809
+    },
+    {
+      "id": "tem8",
+      "title": "专八词汇 · 社区整理",
+      "metadata": "{\"id\": \"tem8\", \"title\": \"专八词汇 · 社区整理\", \"source_url\": \"https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/专八.jsonl\", \"sha256\": \"ee202ddcde9abefe02d5ed423991899f6141daee7ca3c264c6b7434e422d420f\", \"file\": \"references/downloads/TEM8-rich.jsonl\", \"download_url\": \"https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/专八.jsonl\", \"description\": \"上游合并了多个词书，非最新版官方大纲逐词核验。资料释义与例句未经逐条教学审校。按字母浏览，源顺序不是频率排名。\", \"license\": \"上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。\", \"downloaded_at\": \"2026-09-14T12:23:57.044382+00:00\"}",
+      "count": 12410
+    },
+    {
+      "id": "tem8-phrases",
+      "title": "专八关联词组 · 筛选资料",
+      "metadata": "{\"id\": \"tem8-phrases\", \"title\": \"专八关联词组 · 筛选资料\", \"source_url\": \"https://github.com/KyleBing/english-vocabulary/blob/master/full_line_jsonl/sentence/正序/专八.jsonl\", \"sha256\": \"ee202ddcde9abefe02d5ed423991899f6141daee7ca3c264c6b7434e422d420f\", \"file\": \"references/downloads/TEM8-rich.jsonl\", \"download_url\": \"https://cdn.jsdelivr.net/gh/KyleBing/english-vocabulary@master/full_line_jsonl/sentence/正序/专八.jsonl\", \"description\": \"从该考试词目附带搭配中筛选2–6个词、至多1个词不在NGSL集合的条目。此规则筛阅读难度，不是词频排名，也不是官方必考词组。\", \"license\": \"上游未列独立数据许可；保留原出处，不宣称拥有再分发授权。当前仅本机使用。\", \"downloaded_at\": \"2026-09-14T12:23:57.044382+00:00\"}",
+      "count": 39430
+    }
+  ]
+}

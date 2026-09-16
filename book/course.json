@@ -1,0 +1,173 @@
+{
+  "version": "topics-2026-09-16",
+  "start": "book/08-frames/01-degree-comparison.md",
+  "featured": {
+    "label": "从你拆过的句子开始",
+    "sample": "a plan more ambitious than anyone had thought feasible",
+    "question": "比任何人认为可行的还更雄心勃勃——这句话的骨架是什么？从框架入手，比语法规则高一层。"
+  },
+  "topics": [
+    {
+      "id": "familiar",
+      "title": "熟词生义",
+      "question": "单词认识，为什么放进句子就不是那个意思？",
+      "lessons": [
+        {
+          "path": "book/02-chunks/01-resigned.md",
+          "title": "resigned：从你的原句回看“认命”",
+          "focus": "区分辞职、无奈接受与做好准备；这章复用已聊过的内容。",
+          "level": "回顾"
+        },
+        {
+          "path": "book/03-四六级词汇/01-familiar-verbs.md",
+          "title": "address、assume：抽象宾语改变了什么",
+          "focus": "从处理问题、承担责任等搭配理解动词扩展义。",
+          "level": "深化"
+        },
+        {
+          "path": "book/03-四六级词汇/08-abstract-meanings.md",
+          "title": "qualify、entertain、inform：评论文章里的动作",
+          "focus": "读懂限定主张、考虑想法和为决定提供依据。",
+          "level": "进阶"
+        }
+      ]
+    },
+    {
+      "id": "chunks",
+      "title": "读懂整句的词组",
+      "question": "哪些组合必须连起来读，才能理解作者在说什么？",
+      "lessons": [
+        {
+          "path": "book/02-chunks/02-evidence.md",
+          "title": "take issue with：提出异议，不只是有疑问",
+          "focus": "比较支持、质疑、异议与批评，避免夸大结论。",
+          "level": "深化"
+        },
+        {
+          "path": "book/02-chunks/03-outcomes.md",
+          "title": "fall flat：事情有进展，效果却未必好",
+          "focus": "理解gain traction、fall flat和leave much to be desired。",
+          "level": "深化"
+        }
+      ]
+    },
+    {
+      "id": "patterns",
+      "title": "常用句型结构",
+      "question": "nothing、but、until这些小词，怎样控制整句意义？",
+      "lessons": [
+        {
+          "path": "book/05-patterns/01-nothing-but.md",
+          "title": "nothing but / anything but / all but",
+          "focus": "分清“只有”“一点也不”和“几乎／除了”。",
+          "level": "建议先读",
+          "unit_kinds": {
+            "nothing but": "grammar",
+            "anything but": "grammar",
+            "all but": "grammar"
+          }
+        },
+        {
+          "path": "book/05-patterns/02-not-until.md",
+          "title": "not until：先看“什么时候才”，再看倒装",
+          "focus": "对照普通语序、否定状语前置与it…that…强调。",
+          "level": "深化",
+          "unit_kinds": {
+            "not until": "grammar",
+            "Not until": "grammar",
+            "It was not until": "grammar"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences",
+      "title": "特殊句子解析",
+      "question": "句子明明不长，哪里省略了、哪里嵌套了？",
+      "lessons": [
+        {
+          "path": "book/06-sentences/01-unfamiliar-shapes.md",
+          "title": "the man he used to be：句尾怎么少了东西",
+          "focus": "并读what little与Try as he might，练习还原结构与语义。",
+          "level": "进阶",
+          "unit_kinds": {
+            "used to be": "grammar",
+            "what little": "grammar",
+            "Try as he might": "grammar"
+          }
+        }
+      ]
+    },
+    {
+      "id": "frames",
+      "title": "句式框架",
+      "question": "同一类意思，母语者用的固定骨架是什么？",
+      "lessons": [
+        {
+          "path": "book/08-frames/00-guide.md",
+          "title": "什么是框架：比语法分析高一层",
+          "focus": "框架的定义、四步学习法与六大家族索引；诊断句已登记。",
+          "level": "方法"
+        },
+        {
+          "path": "book/08-frames/01-degree-comparison.md",
+          "title": "家族A：程度与比较",
+          "focus": "more than anyone thought B、let alone、not so much A as B等七个框架。",
+          "level": "建议先读",
+          "unit_kinds": {
+            "more than anyone thought": "grammar",
+            "let alone": "grammar",
+            "not so much as": "grammar",
+            "if anything": "grammar",
+            "nothing short of": "grammar"
+          }
+        },
+        {
+          "path": "book/08-frames/_样式样张A-紧凑学习卡.md",
+          "title": "[样张]A 紧凑学习卡",
+          "focus": "排版候选A：引用块+表格+代码块混用，选完删除"
+        },
+        {
+          "path": "book/08-frames/_样式样张B-代码块主体.md",
+          "title": "[样张]B 代码块主体",
+          "focus": "排版候选B：英语例句全用代码块，选完删除"
+        },
+        {
+          "path": "book/08-frames/_样式样张C-对照表主体.md",
+          "title": "[样张]C 对照表主体",
+          "focus": "排版候选C：例句/中文/结构注三列表格，选完删除"
+        },
+        {
+          "path": "book/08-frames/_样式样张D-沉浸叙事.md",
+          "title": "[样张]D 沉浸叙事",
+          "focus": "排版候选D：无表格无代码块的连贯文章，选完删除"
+        }
+      ]
+    },
+    {
+      "id": "word-topics",
+      "title": "单词专题与辨析",
+      "question": "围绕一个词，或一组近义词，建立能迁移的理解。",
+      "lessons": [
+        {
+          "path": "book/07-word-topics/01-take.md",
+          "title": "take专题：理解、接管与想当然",
+          "focus": "把take for granted、take in、take over、take for放回情境。",
+          "level": "深化"
+        },
+        {
+          "path": "book/03-四六级词汇/06-degree-quality.md",
+          "title": "efficient与effective：高效和有效差在哪",
+          "focus": "顺带区分significant、substantial和sufficient的评价维度。",
+          "level": "深化"
+        },
+        {
+          "path": "book/03-四六级词汇/02-evidence-claims.md",
+          "title": "suggest、imply、confirm：一句话说到了哪一步",
+          "focus": "区分提示、暗示、确立与确认，不把它们机械排成强弱表。",
+          "level": "进阶"
+        }
+      ]
+    }
+  ]
+}

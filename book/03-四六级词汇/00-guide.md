@@ -1,0 +1,64 @@
+# 四六级词汇：学习路线与词汇索引
+
+版本 B0002。面向已有四、六级考试基础、希望恢复实际阅读熟练度的学习者。当前包含 8 个主题章、48 个核心词、每词 3 个英汉例句、每词 4 项主要搭配，以及每章 4 道迁移练习。另有章首短段落、词义辨析、语法边界和词族补充。
+
+## 这批内容的范围
+
+这是四、六级学习场景下的实用精选，不是完整官方词表，也不声称每个扩展义都是考试大纲要求。四级巩固指常见基础义、搭配和结构；六级深化指抽象义、评价、论证与语气理解。同一个词可以横跨两层，不按词形一刀切。
+
+选择依据是你已表现出的需要：认识单词，却可能因陌生义项、搭配或语境而无法理解全句。因此 account、apply 等看似基础的词也保留，但学习重点不是重新背“账户、申请”。
+
+本批英文释义为教学改写，例句和练习均为自造。它们不是真题、引文或现实事件报道。尚未进行逐词真题频次统计，也未对照某一版本官方词表进行完整覆盖核验。
+
+## 怎么使用
+
+先读章首自然段，指出你本来认识、推断出来和完全不确定的地方。一次选择 2–4 个词深入学习，剩余词可用作查阅；48 个词不等于要求一次学完。
+
+每个词按“核心义 → 搭配 → 三个例句 → 易错点”阅读。理解之后回到段落，再做章末新语境练习。答案单独折叠；刚看过答案的成功复述不能算独立掌握。
+
+对你而言，可以先从第1章和第4章选取卡点，再读第8章提高难度；第2、3、6、7章帮助理解议论文和研究类文章。实际顺序可随答题调整，不强制线性通关。
+
+## 八个章节
+
+1. [熟悉动词，陌生宾语](01-familiar-verbs.md)：account、address、approach、apply、assume、involve。
+2. [证据究竟说明了什么](02-evidence-claims.md)：evidence、indicate、suggest、imply、establish、confirm。
+3. [原因、影响与结果](03-causes-effects.md)：affect、contribute、attribute、result、arise、stem。
+4. [介词改变了句子的意思](04-preposition-patterns.md)：concern、expose、subject、commit、entitle、owe。
+5. [变化、改进与持续](05-change-development.md)：maintain、sustain、decline、enhance、adapt、adopt。
+6. [别把所有评价都读成“很大、很好”](06-degree-quality.md)：considerable、substantial、significant、sufficient、efficient、effective。
+7. [评估、估算与论证](07-judgment-reasoning.md)：assess、estimate、evaluate、justify、challenge、acknowledge。
+8. [六级深化：抽象语境中的熟词](08-abstract-meanings.md)：qualify、entertain、register、inform、compromise、reserve。
+
+按用途找表达，见 [词组速查与结构对照](09-phrase-index.md)。也可在网页搜索具体英文词，结果包含正文。
+
+## 按字母查词
+
+- [account](01-familiar-verbs.md)、[acknowledge](07-judgment-reasoning.md)、[adapt](05-change-development.md)、[address](01-familiar-verbs.md)、[adopt](05-change-development.md)、[affect](03-causes-effects.md)
+- [apply](01-familiar-verbs.md)、[approach](01-familiar-verbs.md)、[arise](03-causes-effects.md)、[assess](07-judgment-reasoning.md)、[assume](01-familiar-verbs.md)、[attribute](03-causes-effects.md)
+- [challenge](07-judgment-reasoning.md)、[commit](04-preposition-patterns.md)、[compromise](08-abstract-meanings.md)、[concern](04-preposition-patterns.md)、[confirm](02-evidence-claims.md)、[considerable](06-degree-quality.md)、[contribute](03-causes-effects.md)
+- [decline](05-change-development.md)、[effective](06-degree-quality.md)、[efficient](06-degree-quality.md)、[enhance](05-change-development.md)、[entertain](08-abstract-meanings.md)、[entitle](04-preposition-patterns.md)
+- [establish](02-evidence-claims.md)、[estimate](07-judgment-reasoning.md)、[evaluate](07-judgment-reasoning.md)、[evidence](02-evidence-claims.md)、[expose](04-preposition-patterns.md)
+- [imply](02-evidence-claims.md)、[indicate](02-evidence-claims.md)、[inform](08-abstract-meanings.md)、[involve](01-familiar-verbs.md)、[justify](07-judgment-reasoning.md)、[maintain](05-change-development.md)、[owe](04-preposition-patterns.md)
+- [qualify](08-abstract-meanings.md)、[register](08-abstract-meanings.md)、[reserve](08-abstract-meanings.md)、[result](03-causes-effects.md)、[significant](06-degree-quality.md)、[stem](03-causes-effects.md)
+- [subject](04-preposition-patterns.md)、[substantial](06-degree-quality.md)、[sufficient](06-degree-quality.md)、[suggest](02-evidence-claims.md)、[sustain](05-change-development.md)
+
+链接进入该词所在章节；当前阅读器尚无词条内部锚点，可在章内用浏览器查找定位。
+
+## 本批重点用法的外部核查
+
+核查日期：2026-09-14。以下用于确认容易误读的义项或结构；不是声称 48 个词的全部内容都逐条外部审校。释义重新组织，例句独立编写，不复制词典例句。
+
+- [Collins：account for](https://www.collinsdictionary.com/dictionary/english/account-for)：解释、占比以及交代情况。
+- [Collins：allow for](https://www.collinsdictionary.com/dictionary/english/allow-for)：计划中考虑额外时间、费用或差异。
+- [Collins：subject to](https://www.collinsdictionary.com/dictionary/english/subject-to)：附加条件；[subject](https://www.collinsdictionary.com/dictionary/english/subject)：受影响和使经受等用法。
+- [Collins：qualify](https://www.collinsdictionary.com/dictionary/english/qualify)：资格义，以及对陈述加限定。
+- [Collins：entertain an idea](https://www.collinsdictionary.com/us/dictionary/english/entertain-an-idea)：正式语体中的考虑。
+- [Collins：register](https://www.collinsdictionary.com/dictionary/english/register)：登记、显露感情、注意到信息。
+- [Oxford：inform](https://www.oxfordlearnersdictionaries.com/definition/english/inform)：通知，以及影响决策等抽象义。
+- [Collins：compromise](https://www.collinsdictionary.com/dictionary/english/compromise)：折中与损害；[compromise security](https://www.collinsdictionary.com/us/dictionary/english/compromise-security)：安全语境中的搭配。
+
+## 怎样继续扩编
+
+下一批可补日常社会、教育、环境、经济、科技阅读中的名词与形容词，以及动词加介词的常见组合。若需要完整备考覆盖，应先指定或找到可核验的词表版本，逐项建立覆盖索引，不能用当前精选替代完整词表。
+
+材料扩充不会自动改变个人掌握状态；学习表现仍记录在独立的学习档案与进度文件中。

@@ -1,0 +1,13 @@
+{
+  "built_at": "2026-09-16T12:46:00.639631+00:00",
+  "source": "https://github.com/zhenghaoyang24/english-vocabulary (master)",
+  "files": {
+    "examples": "tb_voc_examples.json",
+    "vocab": "tb_vocabulary.json"
+  },
+  "source_examples": 141724,
+  "inserted": 141204,
+  "already_in_db_total": 141704,
+  "skipped_no_word": 0,
+  "duplicates_in_file": 20
+}

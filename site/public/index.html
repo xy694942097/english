@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="你的英语知识书、学习档案与对话课堂。">
+  <title>English Book</title>
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/learning.css">
+  <link rel="stylesheet" href="/topics.css">
+  <script defer src="/app.js"></script>
+  <script defer src="/learning.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#"><span class="brand-mark">E</span><span><strong>English Book</strong><small>A personal reading practice</small></span></a>
+    <input id="search" type="search" aria-label="搜索知识书" placeholder="搜索词组、知识点或章节…">
+    <button id="theme" aria-label="切换深浅主题">切换主题</button>
+  </header>
+  <div class="shell">
+    <aside class="sidebar"><nav class="work-nav" aria-label="学习工作台"><a href="#topics">专题课程</a><a href="#reviews">今日复习 <span id="due-count"></span></a></nav><div class="nav-heading">专题目录 <button id="refresh" title="读取最新教材">刷新</button></div><nav id="nav" aria-label="知识目录"></nav><div class="reference-tools"><span>查阅与整理</span><a href="#dictionary">查词典</a><a href="#library">词表资料库</a><a href="#import">录入词句</a></div><p class="sidebar-note">每章解决一个阅读难点。<br>学到需要的地方，再查词与复习。</p></aside>
+    <main id="main">
+      <div class="reading-top"><span id="breadcrumb">学习起点</span><span class="reading-actions"><button id="dict-selection">查选中词</button><button id="teach">和老师学这一章 →</button></span></div>
+      <article id="article" class="prose"><p>正在打开知识书…</p></article>
+      <section id="chapter-learning"></section>
+      <footer id="source"></footer>
+    </main>
+    <aside class="classroom" aria-label="老师对话">
+      <div class="chat-head"><div><span class="eyebrow">YOUR ENGLISH TEACHER</span><h2>一起读懂英语</h2></div><button id="new-chat">新对话</button></div>
+      <p class="chat-intro">带着你的背景与当前章节提问。原始回答会保存，随时接着学。</p>
+      <label class="history-label">课堂记录<select id="history"><option value="">本次新对话</option></select></label>
+      <div id="chat-context"></div>
+      <div id="messages" aria-live="polite"></div>
+      <div id="chat-status" role="status"></div>
+      <button id="retry" hidden>重试这条问题</button>
+      <form id="chat-form"><label class="sr-only" for="question">向老师提问</label><textarea id="question" rows="3" maxlength="6000" placeholder="这句话哪里没读懂？也可以在这里提交练习答案。"></textarea><div class="send-row"><small>⌘ / Ctrl + Enter 发送</small><button id="send" type="submit">发送</button></div></form>
+      <p class="connection" id="connection">连接本机老师…</p>
+    </aside>
+  </div>
+  <div id="notice" role="status" hidden></div>
+</body>
+</html>
