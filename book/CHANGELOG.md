@@ -1,5 +1,25 @@
 # 编纂记录
 
+## 2026-09-16 · 雅思资料归一化（normalize_ielts.py）
+
+按总则「文字层完好的 PDF 收下不算完成，必须当场派生并抽查」执行：新脚本 references/normalize_ielts.py（可重跑幂等已验证）——①15 册剑桥真题逐册文字层分级（pdftotext 全文抽取 + 完整英文句计数 + 混淆词检测）：剑4（1,005 句/无瑕疵）、剑9（1,599 句/沪江水印中文噪音 9.3 千字）、剑14（1,943 句/OCR 嵌入层 36 处 i/l 混淆如 invoIves）、IELTS16 体验版（113 句）四件文字层完好，派生 txt+原件旁 md+可读层页；剑5-8、10-13、15-18 共 12 册为扫描件（含「扫描全能王」水印、个别只有沪江推广水印），如实登记「人读原件，不进挖掘/导入管线」，不做 OCR 硬转。②fanhongtao 词表 txt 转原件旁 md（代码块包裹保排版）。③可读层 11 页入 materials/readable/papers/ielts/（4 册真题+3 作文范文+考试介绍 3 件+词表索引页），运行中服务 catalog 实时发现验证通过，服务端 8 项回归全过。manifest 哈希以原件为准，153 条全量复验通过，派生物不登记。
+
+## 2026-09-16 · 雅思资料批次（+24 件，为后续编纂备料）
+
+按用户指令搜集雅思资料入库，manifest 现 153 条全量 SHA-256 复验通过。词表两件：IELTS-rich.jsonl 7002 词（KyleBing/english-vocabulary sentence 版，与 CET rich 同构可直接进导入管线）、IELTS-wordlist-fanhongtao.txt 3722 行（新东方乱序版手抄词表）。真题与参考 22 件（zeeklog/IELTS）：剑桥雅思真题 4-18 全 15 册 PDF + IELTS16 官方体验版 + 考试介绍 3 件 + 剑桥19 图表作文范文 3 篇；听力音频 238 个未收录（用户明确）。选源级别如实登记：真题 PDF 属「文字层完好的 PDF」，用于挖掘前须先派生 txt 并抽查。同批修复：22 条考研精翻 manifest 路径双重前缀（materials/materials/→materials/，哈希复验通过）。materials/README.md 更新（共 153 条）。
+
+## 2026-09-16 · 文本类资料全量 Markdown 化
+
+按用户定版（纯文本全转 md，json/csv/jsonl 豁免）：新脚本 references/normalize_text_to_md.py——①papers/ 全部 78 个真题 txt（含 OCR 版）转原件旁同名 md，带来源头与质量边界注记；②词源书三册全文按词目首字母分册转 materials/dictionaries/wordbooks-md/（77 册，四级 4283/六级 2109/专八 3594 共 9986 词条，词条判定经音标行核验、中文行误匹配已修，单册 ≤440KB）。catalog 白名单更新为层级精确匹配（顶层/readable/textbooks/wordbooks-md 三级），test_server 夹具与断言扩充（词源分册可见、papers 原件 md 与第三方 README 屏蔽），8 项全过；浏览器验证词源分册渲染正常（264 词条+目录）。总则与 AGENTS.md 同步更新。json/jsonl/csv（词表/词频表/句子索引/ECDICT）按有损降维理由豁免，查询走学习库与脚本。
+
+## 2026-09-16 · 下载与归一化总则定版
+
+按用户要求把本轮沉淀的规则写入文档，后续下载不再临场决策：references/README.md 顶部新增「下载与归一化总则」——下载原则（优先公开仓库/官方平台、gh api 探仓+raw 直链、manifest 唯一登记处、许可记录、优先文本原生格式、质量差换源不硬转、边界如实披露）、目录分类（按形态与用途五类）、归一化规则（数据层原件不改写/派生物放原件旁哈希以原件为准/可读层走 build_materials_readable.py 生成/catalog 放行范围与测试同步/批量前先抽查质量）。AGENTS.md 目录体系补 materials/ 条目、排除扫描说明更新（materials 只扫顶层 md 与 readable/ 子树），「记录与边界」节新增执行摘要条目。同时补记：初高中教材语料已于本轮前段入库（materials/textbooks/：初中人教 5 册全文 md、高中句子倒排索引 30110 句 MIT、人教高中词汇表 2569 词）。
+
+## 2026-09-16 · materials 归一化：可读层 + PDF 数据层
+
+数据层与可读层分两线归一。可读层：新脚本 references/build_materials_readable.py 把 papers/ 全部真题文本转成 materials/readable/ 下 46 页 md（真题 22 页、考研英一阅读精翻 22 页、词源书说明、索引页），catalog 放行 readable/ 子目录，「学习资料」组在前端可见；test_server 用例同步，8 项全过。数据层：下载考研英一 2005-2026 阅读精翻 22 份 md（Destinnnnn/kaoyan-english-1-2005-2026，逐句原文+精译+搭配+长难句拆解，已登记 manifest，现 122 条）；2020 英一扫描卷经 pytesseract OCR（8 页 2.6 万字符，英文正文可用、中文头部不可靠）；词源书三册经 pdftotext -layout 提取全文（etymology-*-full.txt，共约 850 万字符，含词源叙述与双语例句——官方精简 txt 只是裸词表）。诚实边界：手译版 5 册中文层无 ToUnicode 映射不可机读，留作原件阅读，机读层由精翻替代；PDF skill 的 OCR 层仅英文模型可用（lang=eng）。
+
 ## 2026-09-16 · materials 接入左侧目录
 
 materials/ 从 catalog 排除名单移出：server.py 新增分组规则（section=reference、group=学习资料），只发现顶层 md、屏蔽子目录第三方 README（ecdict 仓库说明等）；新建 materials/README.md 作为浏览索引（四类目录内容、来源、许可与使用边界）；.gitignore 白名单放行该 README；前端 app.js 参考资料节改为嵌套子分组渲染，「学习资料」单独可见。新增 test_server 用例（materials 索引发现+第三方 README 排除），8 项回归全过；4174 已重启，浏览器验证侧边栏与页面渲染正常。

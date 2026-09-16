@@ -14,6 +14,7 @@ CHAPTERS = [
     "01-degree-comparison.md", "02-emphasis-focus.md", "03-concession-contrast.md",
     "04-stance-commentary.md", "05-narrative-logic.md", "06-condition-subjunctive.md",
     "07-school-recall.md", "09-exam-recall.md",
+    "10-junior-recall.md", "11-senior-recall.md",
 ]
 SKIP = ("迁移练习", "参考答案", "新语境练习", "练习", "总目录", "本章预览")
 

@@ -5,11 +5,12 @@
 ## 目录体系（2026-09-16 定版）
 
 - **engineering/**：工程文档总目录，左侧对应顶层资源「工程文档」，内含子目录 agents/（agent 文档，与根目录 AGENTS.md 同组）、design/（设计方案→组「设计」）、methodology/（调研方法→组「调研与方法」）、archive/（已完成或被取代的历史文档→组「历史归档」，只进不出，不删除）。新增工程文档放对应子目录，前端自动发现。整理原则：文档失去现实效力（计划全部完成、被新文档取代、纯历史记录）就移入 archive/，保留路径与引用。
-- **AGENTS.md**：根目录唯一保留的 agent 入口文档；被它引用的其它 agent 文档放 engineering/agents/（目录职责见其 README.md）。
+- **AGENTS.md**：根目录唯一保留的 agent 文档；被它引用的其它 agent 文档放 engineering/agents/（目录职责见其 README.md）。
 - **progress/**：学习进度与能力诊断（非工程建设进度），保持根目录，对应资源「进度与诊断」。
 - **book/**：教材。子目录=左侧资源（如 08-frames→句式框架）；book 目录本身不对应左侧资源——根目录的 README 为书入口（前端不进导航，专题页底部「关于本书」可达），TEMPLATE/BACKLOG/CHANGELOG 归「工程文档→Agent 文档」组。
 - **references/**、**vocabulary/**：分别对应「参考资料」「历史课堂」。
-- 排除扫描：site/、data/、sessions/、.git/、node_modules/、references 的 downloads/ 与 imports/。
+- **materials/**：下载资料总库（词表/词典/真题/教材/语料），侧边栏对应「参考资料→学习资料」。下载来源优先公开仓库/官方平台，每个文件登记 materials/downloads-manifest.json（SHA-256+URL+许可）；归一化守数据层/可读层分离——原件不改写，纯文本类（txt）一律转 md（真题原件旁 md + 词源书 wordbooks-md/ 分册，脚本 normalize_text_to_md.py；papers 可读汇总层 readable/ 由 build_materials_readable.py 生成），json/csv/jsonl 结构化数据豁免不转；wordbooks-md/readable 为生成物不手改，重跑脚本重建。完整规则见 references/README.md 顶部「下载与归一化总则」。
+- 排除扫描：site/、data/、sessions/、.git/、node_modules/、references 的 imports/；materials 只发现白名单路径——顶层 md、readable/、textbooks/、dictionaries/wordbooks-md/（层级精确匹配，实现见 server.py `_materials_doc`）。
 
 ## 恢复
 
@@ -33,7 +34,17 @@ course.json可用unit_kinds显式指定章节知识点类型，如grammar。目�
 
 用户只说扩增时，默认一批 1–2 个主题、约 6–10 个表达，深入辨析，避免以词条数量代替质量。可增加新主题目录，前端无需改代码。更新 book/CHANGELOG.md 和 BACKLOG.md；材料扩增不修改掌握等级。
 
+## 框架挖掘
+
+挖掘成文语料（教材/真题/字幕）中的句子框架时，先读 methodology/2026-09-16-frame-mining.md：发现框架靠 LLM 逐句通读（每批300句，框架须≥2句重复验证，例句逐字复制并双重校验），regex 仅用于为已确认框架回收例句。通读对象是所有成文内容（含听力原文），不是只有课文正文。
+
+## 下载资料选源
+
+下载新资料前先读 materials/README.md 的「下载资料选源规则」（2026-09-16 定）：结构化带元数据 > 规整纯文本/Markdown > 文字层完好 PDF（须当场派生 txt/md 并抽查）> 扫描型 PDF（默认不收，仅阅读件）。下载即登记 manifest，无许可声明的仓库仅本地学习用，不为收而不用而收。
+
 ## 记录与边界
+
+**资料下载与归一化（2026-09-16 定版）**：新资料一律入 materials/ 对应子目录并登记 manifest（含 SHA-256/URL/许可），流程、工具选择与质量边界规则见 references/README.md「下载与归一化总则」——下载先探仓库再取 raw 直链、优先文本原生格式、原件不改写、可读层由脚本生成、批量前先抽查质量。执行时不需要重新决策，照总则走即可。
 
 **对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 engineering/design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→LEARNER.md/METHOD.md/engineering/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
 

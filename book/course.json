@@ -122,6 +122,18 @@
           "level": "回收"
         },
         {
+          "path": "book/08-frames/10-junior-recall.md",
+          "title": "教材回收：初中篇",
+          "focus": "从人教版初中五册全文扫出9个框架（so…that、too…to、used to、by the time、get+过去分词、感叹句等），例句全部取自教材原文。",
+          "level": "回收"
+        },
+        {
+          "path": "book/08-frames/11-senior-recall.md",
+          "title": "教材回收：高中篇",
+          "focus": "从人教 2019 高中教材句库扫出11个框架（It is V-ed that、as if、句首分词状语、no matter、when it comes to、what if等），例句带册别出处。",
+          "level": "回收"
+        },
+        {
           "path": "book/08-frames/09-exam-recall.md",
           "title": "真题回收：四六级考研句式框架",
           "focus": "从9份真题文本挖取7个框架（as long as/rather than/end up/turns out/when it comes to/likely to/even if），每条附真题原句与出处",

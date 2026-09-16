@@ -139,9 +139,20 @@ def catalog(root=ROOT):
     paths += sorted((root / 'vocabulary').rglob('*.md'))
     # 其余仓库文档（知识文档与 agent 文档）全量发现：跳过工程运行目录、原始下载库与机器导入报告
     seen = set(paths)
+    def _materials_doc(rel_parts):
+        # materials 发现白名单：顶层文档、readable/ 可读层、textbooks/ 教材语料（二级）、
+        # dictionaries/wordbooks-md/ 词源书分册（三级）；其余（dictionaries/wordbooks 数据、
+        # papers 原件、第三方 README）不入目录——papers 可读版在 readable/，不重复
+        if rel_parts[0] != 'materials' or len(rel_parts) < 3:
+            return False
+        if rel_parts[1] in ('readable', 'textbooks'):
+            return False
+        if rel_parts[1] == 'dictionaries' and len(rel_parts) > 3 and rel_parts[2] == 'wordbooks-md':
+            return False
+        return True
     paths += [p for p in sorted(root.rglob('*.md'))
               if p not in seen and not (set(p.relative_to(root).parts[:-1]) & DOC_SKIP_PARTS)
-              and not (p.relative_to(root).parts[0] == 'materials' and len(p.relative_to(root).parts) > 2)]
+              and not _materials_doc(p.relative_to(root).parts)]
     items = []
     for p in paths:
         if not p.is_file() or not p.resolve().is_relative_to(root.resolve()):

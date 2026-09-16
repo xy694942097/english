@@ -1,0 +1,680 @@
+{
+ "frames": [
+  {
+   "frame": "同位语插入：[A], [B同位语], [C]",
+   "gloss": "在句子中间插入对前面名词的补充说明（人名、身份、地名）。",
+   "pattern_notes": "两种形态：带逗号同位（My mother, Liu Shurong, ...）与无标点专有名词同位（the site Machu Picchu）。同位语删去后句子主干仍完整；专有名词同位常出现在职位/身份名词后。",
+   "examples": [
+    {
+     "id": "S4285",
+     "src": "选择性必修第一册·Unit 1",
+     "s": "T F My mother, Liu Shurong, is my greatest inspiration."
+    },
+    {
+     "id": "S6078",
+     "src": "必修第二册·Unit 4",
+     "s": "The first group, the Romans, came in the first century."
+    },
+    {
+     "id": "S4287",
+     "src": "必修第三册·Unit 4",
+     "s": "The vehicle carried the astronauts Jing Haipeng and Chen Dong."
+    },
+    {
+     "id": "S5726",
+     "src": "必修第一册·Unit 2",
+     "s": "The Inca emperor lived in the now-famous site Machu Picchu."
+    }
+   ]
+  },
+  {
+   "frame": "非限定性关系从句：[A], who/which [B]",
+   "gloss": "对先行词追加补充信息，主句先行，逗号后接 who/which 从句。",
+   "pattern_notes": "从句只作补充、删去不影响主干；限定性 which（无逗号）是变体（本批 S6157/S3378）。who 指人、which 指物，从句内可含副词（immediately）。",
+   "examples": [
+    {
+     "id": "S6001",
+     "src": "选择性必修第一册·Unit 1",
+     "s": "The book tells us about Alexander Fleming, who discovered penicillin."
+    },
+    {
+     "id": "S6141",
+     "src": "选择性必修第四册·Unit 1",
+     "s": "He spoke to the woman, who immediately changed her attitude."
+    }
+   ]
+  },
+  {
+   "frame": "the reason(s) why + 从句",
+   "gloss": "……的原因是（why 引导的名词性从句修饰 reason）。",
+   "pattern_notes": "reason 与 why 是固定搭配，why 可换 that；教材中高频以 There are many reasons why... / What are the reasons why... 出现，why 从句陈述语序。",
+   "examples": [
+    {
+     "id": "S5269",
+     "src": "必修第一册·Unit 5",
+     "s": "There are many reasons why people learn a foreign language."
+    },
+    {
+     "id": "S6942",
+     "src": "选择性必修第二册·Unit 3",
+     "s": "What are the reasons why Hunan people like spicy food?"
+    }
+   ]
+  },
+  {
+   "frame": "疑问词 + do you think + 陈述语序",
+   "gloss": "你认为……（do you think 作插入语的特殊疑问句）。",
+   "pattern_notes": "疑问词提前，do you think 插在句中，其后部分保持陈述语序而非倒装；介词可悬空（most appealing to）。S3133（Who do some people think...by）为换主语的变体；S6585 中 what 作表语故动词用 are。",
+   "examples": [
+    {
+     "id": "S3725",
+     "src": "必修第二册·Unit 3",
+     "s": "How do you think the writer feels about the topic?"
+    },
+    {
+     "id": "S5594",
+     "src": "必修第一册·Unit 2",
+     "s": "What do you think the tense in the sentences expresses?"
+    },
+    {
+     "id": "S6585",
+     "src": "必修第一册·Unit 5",
+     "s": "What do you think are some of the other factors?"
+    },
+    {
+     "id": "S7072",
+     "src": "选择性必修第三册·Unit 1",
+     "s": "Who do you think the painting is most appealing to?"
+    }
+   ]
+  },
+  {
+   "frame": "It be [adj/N] + to [V]（不定式外置）",
+   "gloss": "做某事是怎样的（不定式主语外置到句尾）。",
+   "pattern_notes": "区别于已有的 It is adj that（that 从句版）：此框架外置的是 to 不定式。可用于疑问（Why would it be difficult to...）与嵌入句（believes that it is important to...）。It be 后可为名词（an enjoyable experience）。",
+   "examples": [
+    {
+     "id": "S6385",
+     "src": "选择性必修第三册·Unit 5",
+     "s": "It can be an enjoyable experience to recite these poems."
+    },
+    {
+     "id": "S6853",
+     "src": "选择性必修第三册·Unit 4",
+     "s": "It was easy to imagine the danger ahead of them."
+    },
+    {
+     "id": "S5166",
+     "src": "必修第一册·Unit 4",
+     "s": "Why would it be difficult to deliver food and supplies?"
+    },
+    {
+     "id": "S7059",
+     "src": "必修第一册·Unit 3",
+     "s": "Michael Jordan believes that it is important to help others."
+    }
+   ]
+  },
+  {
+   "frame": "make/let + [O] + [V原形]（使役）",
+   "gloss": "使/让某人做某事（不带 to 的裸不定式补语）。",
+   "pattern_notes": "make 与 let 都接宾语加动词原形，不加 to；被动化时需补 to（本批未出现）。let 多用于口语允许义。",
+   "examples": [
+    {
+     "id": "S3294",
+     "src": "必修第二册·Unit 3",
+     "s": "They make students turn off social media at certain times."
+    },
+    {
+     "id": "S6747",
+     "src": "选择性必修第二册·Unit 5",
+     "s": "B: Well, they let us ride along with some paramedics."
+    },
+    {
+     "id": "S5062",
+     "src": "必修第二册·Unit 1",
+     "s": "Example: Reporting verbs—These let the reader know who said what."
+    }
+   ]
+  },
+  {
+   "frame": "see + [O] + [V-ing]（感官进行补语）",
+   "gloss": "看见某人正在做某事。",
+   "pattern_notes": "感官动词 see + 宾语 + 现在分词表进行中的动作（对比裸不定式表完整动作）；本框架可作宾补或名词后置修饰。S4388 为挖空练习句（预期 lie/lying）。",
+   "examples": [
+    {
+     "id": "S3191",
+     "src": "必修第三册·Unit 5",
+     "s": "They see a poor young man walking outside their house."
+    },
+    {
+     "id": "S6092",
+     "src": "必修第三册·Unit 1",
+     "s": "I saw a lot of people wearing fancy Mongolian robes."
+    },
+    {
+     "id": "S4388",
+     "src": "必修第三册·Unit 5",
+     "s": "B: I saw an injured man (lie) on the floor."
+    }
+   ]
+  },
+  {
+   "frame": "V-ing 作主语：[A-ing] + [谓语]",
+   "gloss": "做某事（动名词短语整体作主语）。",
+   "pattern_notes": "动名词短语作主语按单数处理，谓语可为 be like/can be adj/will V 等描述性谓语，常见于格言与议论文开头。属正则难捕捉的句子骨架（主语位置由整个动作占据）。",
+   "examples": [
+    {
+     "id": "S7078",
+     "src": "选择性必修第三册·Unit 2",
+     "s": "Balancing one’s work and personal life can be rather difficult."
+    },
+    {
+     "id": "S5033",
+     "src": "选择性必修第四册·Unit 3",
+     "s": "Mining for resources is very damaging, especially in the Arctic."
+    },
+    {
+     "id": "S6579",
+     "src": "选择性必修第四册·Unit 5",
+     "s": "Travelling Travelling will build your confidence and broaden your horizons."
+    }
+   ]
+  },
+  {
+   "frame": "[A], and [B]（并列连写与承前省略）",
+   "gloss": "……，然后/并且……（逗号加 and 连接两个谓语/分句）。",
+   "pattern_notes": "逗号 + and 的叙事推进式并列；后段可承前省略主语（and lived）甚至助动词（and our love forgotten）。S6663 中 drunk 为原句拼写（教材勘误项），保留原文。",
+   "examples": [
+    {
+     "id": "S5889",
+     "src": "选择性必修第二册·Unit 4",
+     "s": "Night came again, and the train turned south towards Toronto."
+    },
+    {
+     "id": "S4988",
+     "src": "必修第二册·Unit 5",
+     "s": "Time is ticking away and more animals are dying out."
+    },
+    {
+     "id": "S6663",
+     "src": "选择性必修第二册·Unit 1",
+     "s": "Some people drunk the water from the pump, and lived."
+    },
+    {
+     "id": "S5152",
+     "src": "选择性必修第三册·Unit 5",
+     "s": "Our lives will be carried apart, and our love forgotten."
+    }
+   ]
+  },
+  {
+   "frame": "明喻框架：[A] be/V + like [B]",
+   "gloss": "……就像……（like 引出的明喻）。",
+   "pattern_notes": "谓语（is/sound/V）+ like + 名词构成明喻，格言体常成对出现（living without an aim is like sailing without a compass）；like 短语也可前置作状语（Like an impatient fool, ...）。",
+   "examples": [
+    {
+     "id": "S3945",
+     "src": "选择性必修第一册·Unit 4",
+     "s": "Living without an aim is like sailing without a compass."
+    },
+    {
+     "id": "S6293",
+     "src": "选择性必修第二册·Unit 4",
+     "s": "Seeing the annoying sight, he had a face like thunder."
+    },
+    {
+     "id": "S7053",
+     "src": "必修第一册·Unit 5",
+     "s": "Its beautiful melody Floats like a balloon. by Danielle Owens"
+    },
+    {
+     "id": "S4721",
+     "src": "选择性必修第四册·Unit 1",
+     "s": "Like an impatient fool, I pulled the lever backwards hard."
+    }
+   ]
+  },
+  {
+   "frame": "同级比较：as [adj] as [B]",
+   "gloss": "和……一样……（as...as 结构作后置修饰或谓语）。",
+   "pattern_notes": "可作名词后置修饰（the hot springs, as colourful as rainbows）或谓语补语（wasn't as big as I had expected）；否定式 as...as 表不如。S7077 兼含 had expected 过去完成。",
+   "examples": [
+    {
+     "id": "S3316",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "Then there were the hot springs, as colourful as rainbows."
+    },
+    {
+     "id": "S7077",
+     "src": "必修第二册·Unit 4",
+     "s": "Paul sounded It wasn’t as big as I had expected."
+    }
+   ]
+  },
+  {
+   "frame": "指示回指：This/That is (exactly) [why/what] [从句]",
+   "gloss": "这就是……的原因/这正是……所指。",
+   "pattern_notes": "this/that 回指前文整段内容，后接 why/what 从句收束段落；exactly 加强。S5559 为挖空练习句（预期填 why 或 because），句式骨架不变。",
+   "examples": [
+    {
+     "id": "S3620",
+     "src": "必修第二册·Unit 5",
+     "s": "And that is exactly what you are meant to think."
+    },
+    {
+     "id": "S5559",
+     "src": "选择性必修第二册·Unit 1",
+     "s": "This is they want everyone to benefit from their work!"
+    }
+   ]
+  },
+  {
+   "frame": "主谓间插入语：[S], [however/they said], [V]",
+   "gloss": "主语和谓语之间插入语篇标记或转述语。",
+   "pattern_notes": "插入成分（however、they said 等评注性副词/主谓短语）夹在主谓之间，前后用逗号隔开，删去后句子主干完整。however 表对比，they said 表转述口吻降调。",
+   "examples": [
+    {
+     "id": "S5452",
+     "src": "选择性必修第二册·Unit 3",
+     "s": "Fraud, however, has become a problem in the farm-to-table movement."
+    },
+    {
+     "id": "S7235",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "Bita Lake, however, is absolutely my favourite place in Potatso."
+    },
+    {
+     "id": "S5263",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "The autumn scenery, they said, would be absolutely picture- perfect."
+    }
+   ]
+  },
+  {
+   "frame": "认知/言语动词 + (that) 从句",
+   "gloss": "意识到/观察到/认为……（宾语从句，that 可省略）。",
+   "pattern_notes": "realise/observe/state/think/know 等动词接 that 从句，that 常省略（They think it means...）；从句保持陈述语序。是学术转述文体的基础骨架。",
+   "examples": [
+    {
+     "id": "S3661",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "Yuan Longping realised that larger fields were not the solution."
+    },
+    {
+     "id": "S6132",
+     "src": "选择性必修第二册·Unit 3",
+     "s": "I observed that family is important to the people there."
+    },
+    {
+     "id": "S2889",
+     "src": "选择性必修第四册·Unit 5",
+     "s": "Firstly, Ericsson stated that 10,000 hours was an average figure."
+    },
+    {
+     "id": "S6611",
+     "src": "必修第一册·Unit 5",
+     "s": "They think it means better job chances in the future."
+    }
+   ]
+  },
+  {
+   "frame": "be (better) known/regarded as [B]",
+   "gloss": "被称为/被视为……（被动 + as 补语）。",
+   "pattern_notes": "be + V-ed + as 固定搭配型被动，副词 better 可插入；相关变体：be presented with（S3356）、be equipped with（S5551）。属被动堆叠里的介词保留型。",
+   "examples": [
+    {
+     "id": "S3846",
+     "src": "选择性必修第四册·Unit 3",
+     "s": "Kexue is regarded as a moving laboratory/factory on the sea."
+    },
+    {
+     "id": "S5385",
+     "src": "必修第三册·Unit 5",
+     "s": "China’s Five-hundred-metre Aperture Spherical Telescope is better known as FAST."
+    }
+   ]
+  },
+  {
+   "frame": "完成体被动：have/had been + [V-ed]",
+   "gloss": "（到某参照点为止）已经被……。",
+   "pattern_notes": "完成体与被动叠加；have been 表到现在为止（you have been given much），had been 表先于过去（homes had been destroyed）。受事作主语，施事可省。",
+   "examples": [
+    {
+     "id": "S4853",
+     "src": "必修第三册·Unit 2",
+     "s": "(Indian proverb) Be thankful, because you have been given much!"
+    },
+    {
+     "id": "S6473",
+     "src": "选择性必修第三册·Unit 3",
+     "s": "T F After decades, about 60,000 trees have been planted."
+    },
+    {
+     "id": "S7236",
+     "src": "必修第一册·Unit 4",
+     "s": "Workers built shelters for survivors whose homes had been destroyed."
+    }
+   ]
+  },
+  {
+   "frame": "进行体被动：was/were being + [V-ed]",
+   "gloss": "（过去某时）正在被……。",
+   "pattern_notes": "进行体与被动叠加，强调动作当时正在进行、施事可不出现（posted by someone 可加）。S3377 为挖空练习句（预期填 judged 等），结构骨架一致。",
+   "examples": [
+    {
+     "id": "S4477",
+     "src": "必修第二册·Unit 3",
+     "s": "Mean comments were being posted by someone we didn’t know."
+    },
+    {
+     "id": "S3377",
+     "src": "必修第三册·Unit 5",
+     "s": "Gary was angry that he was being by his clothes."
+    }
+   ]
+  },
+  {
+   "frame": "Tomorrow, + be V-ing / be going to [V]",
+   "gloss": "明天我将……（已定安排的将来表达）。",
+   "pattern_notes": "将来时间词前置 + 现在进行体（am going hiking）或 be going to 表既定计划，而非临时决定；对比 will 表一般预测。",
+   "examples": [
+    {
+     "id": "S3933",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "Tomorrow, I am going hiking at the Tiger Leaping Gorge."
+    },
+    {
+     "id": "S6552",
+     "src": "必修第二册·Unit 5",
+     "s": "Tomorrow, I’m going to see the changing of the guard."
+    }
+   ]
+  },
+  {
+   "frame": "What are the advantages (and disadvantages) of [A]?",
+   "gloss": "……有什么优缺点？（评估性讨论题模板）",
+   "pattern_notes": "what are + 复数名词 + of 短语的疑问骨架，pros and cons / advantages and disadvantages 同义替换；情态版 What might be the advantages of... 更显推测性。教材讨论环节高频模板。",
+   "examples": [
+    {
+     "id": "S3125",
+     "src": "选择性必修第三册·Unit 3",
+     "s": "So, what are the pros and cons of renewable energy?"
+    },
+    {
+     "id": "S4814",
+     "src": "选择性必修第一册·Unit 2",
+     "s": "What are the advantages and disadvantages of these future careers?"
+    },
+    {
+     "id": "S4497",
+     "src": "选择性必修第一册·Unit 2",
+     "s": "What might be the advantages of living in remote areas?"
+    }
+   ]
+  },
+  {
+   "frame": "help + [O] + (to) [V]",
+   "gloss": "帮助某人做某事（不定式符号可省）。",
+   "pattern_notes": "help 后的 to 可有可无；宾语可为人（help me get fit）或祈使句中省略（Help us choose...）。区别于 make/let 强制性使役的必裸形式。",
+   "examples": [
+    {
+     "id": "S2784",
+     "src": "必修第二册·Unit 3",
+     "s": "I imagine this app would help me get fit faster."
+    },
+    {
+     "id": "S7136",
+     "src": "必修第二册·Unit 3",
+     "s": "Laura needs an app that will help her get discounts."
+    },
+    {
+     "id": "S3444",
+     "src": "必修第一册·Unit 3",
+     "s": "Michael Jordan Help us choose some “Living Legends of Sports”."
+    }
+   ]
+  },
+  {
+   "frame": "祈使句 + using [A]（方式分词后置）",
+   "gloss": "用……来做……（指令句尾的分词方式状语）。",
+   "pattern_notes": "练习指令语高频骨架：动词短语在前，using + 工具/材料短语作方式状语置于句尾；是已有框架『句首分词状语』的位置变体（分词后置）。属教材指令语域，用于任务说明。",
+   "examples": [
+    {
+     "id": "S5749",
+     "src": "选择性必修第二册·Unit 2",
+     "s": "Combine each pair of sentences using the words in brackets."
+    },
+    {
+     "id": "S5750",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "Combine each pair of sentences using the word in brackets."
+    },
+    {
+     "id": "S6327",
+     "src": "必修第三册·Unit 4",
+     "s": "Prepare a slide presentation using the information you have found."
+    },
+    {
+     "id": "S2787",
+     "src": "选择性必修第一册·Unit 2",
+     "s": "Paraphrase the sentences using the words and phrases in brackets."
+    }
+   ]
+  },
+  {
+   "frame": "疑问词 + might + [S] [V]?（推测性提问）",
+   "gloss": "为什么/什么可能会……（might 表推测的特殊疑问）。",
+   "pattern_notes": "疑问句中 might 表推测性评估而非过去：Why might... be a bad idea? 邀请对方作可能性分析；常见于 Why/What might... 骨架。",
+   "examples": [
+    {
+     "id": "S5338",
+     "src": "选择性必修第一册·Unit 3",
+     "s": "Why might so few Sami want to live in Sarek?"
+    },
+    {
+     "id": "S5798",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "Why might cloning an extinct animal be a bad idea?"
+    }
+   ]
+  },
+  {
+   "frame": "过去进行体作背景：[时间/从句], [S] was/were [V-ing]",
+   "gloss": "（当时）我们正……（背景铺陈，后续句推进情节）。",
+   "pattern_notes": "过去进行体提供场景背景，可由 Last year、as/when 从句引出；随后句子转入一般过去时推进情节。叙事文体的典型时体骨架。",
+   "examples": [
+    {
+     "id": "S3059",
+     "src": "必修第二册·Unit 3",
+     "s": "Last year, we were having problems in our chat room."
+    },
+    {
+     "id": "S5970",
+     "src": "必修第三册·Unit 5",
+     "s": "As we pulled up, two nurses were waiting for us."
+    }
+   ]
+  },
+  {
+   "frame": "advise/persuade + [O] + to [V]",
+   "gloss": "劝说/说服某人做某事。",
+   "pattern_notes": "劝说类动词接宾语 + to 不定式补语；advise 表建议、persuade 表说服成功。与 want/ask sb to do 同族。",
+   "examples": [
+    {
+     "id": "S6684",
+     "src": "必修第三册·Unit 1",
+     "s": "In Conversation 2, Carla advises Li Mei to change her."
+    },
+    {
+     "id": "S5138",
+     "src": "选择性必修第三册·Unit 2",
+     "s": "Then I persuaded my father to see a lung specialist."
+    }
+   ]
+  },
+  {
+   "frame": "过去完成体：[S] had [V-ed]（先于过去参照点）",
+   "gloss": "（在那之前）已经……。",
+   "pattern_notes": "had + 过去分词表先于过去某参照点：与 before 从句（before we went there）或过去语境（wasn't as big as I had expected）共现。S6286 为挖空练习句（预期 had heard）。",
+   "examples": [
+    {
+     "id": "S7064",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "We wanted to know where he had lost the laptop."
+    },
+    {
+     "id": "S6286",
+     "src": "选择性必修第二册·Unit 3",
+     "s": "But I about haggis many times before we went there."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "note": "wh- + to 不定式作表语（My biggest headache is how to...），单句出现，值得后续验证。",
+   "example": {
+    "id": "S3791",
+    "src": "必修第一册·Unit 5",
+    "s": "My biggest headache is how to be polite in English."
+   }
+  },
+  {
+   "note": "It doesn't matter + wh- 从句（让步性评价框架），单句出现。",
+   "example": {
+    "id": "S4338",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "It doesn’t matter what dreams you have for your future."
+   }
+  },
+  {
+   "note": "否定疑问修辞性问句（Isn't it pleasanter to...?），单句出现。",
+   "example": {
+    "id": "S7162",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "Isn’t it pleasanter to have daily duties and then relax?"
+   }
+  },
+  {
+   "note": "wh- 从句作主语（Where farms were located was...），单句出现。",
+   "example": {
+    "id": "S3877",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Where farms were located was often critical to success, too."
+   }
+  },
+  {
+   "note": "X is where + 从句（表语 where 从句），单句出现。",
+   "example": {
+    "id": "S6082",
+    "src": "必修第二册·Unit 4",
+    "s": "Buckingham Palace C is where the king or queen lives."
+   }
+  },
+  {
+   "note": "比较级 + than + 主语 + think（sooner than you think），已知框架 more A than anyone thought 的近亲变体。",
+   "example": {
+    "id": "S6227",
+    "src": "必修第一册·Unit 5",
+    "s": "You will get over tough times sooner than you think."
+   }
+  },
+  {
+   "note": "spend + 时间 + V-ing 与 anywhere but 组合，单句出现。",
+   "example": {
+    "id": "S4942",
+    "src": "选择性必修第一册·Unit 4",
+    "s": "They spend all their time looking anywhere but at me."
+   }
+  },
+  {
+   "note": "keep + O + V-ed/adj（keeps you updated on...），状态使役单句出现。",
+   "example": {
+    "id": "S4951",
+    "src": "必修第二册·Unit 3",
+    "s": "This app keeps you updated on all your favourite topics."
+   }
+  },
+  {
+   "note": "Have you + V-ed ... yet? 现在完成疑问，单句出现。",
+   "example": {
+    "id": "S5974",
+    "src": "必修第二册·Unit 3",
+    "s": "Have you pressed the button yet to copy the file?"
+   }
+  },
+  {
+   "note": "take turns + V-ing（轮流做某事），单句出现。",
+   "example": {
+    "id": "S3874",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "Take turns giving directions to different places in the park."
+   }
+  },
+  {
+   "note": "make sure + (that) 从句；内含 be equipped with 被动介词保留。",
+   "example": {
+    "id": "S5551",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "• Make sure your home is equipped with fire extinguishers."
+   }
+  },
+  {
+   "note": "A, not B 修正式同位（Salt, not sugar），对话修正语单句出现。",
+   "example": {
+    "id": "S3034",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "“Salt, not sugar, and the cream is sour,” replied Meg."
+   }
+  },
+  {
+   "note": "介词前置式 wh- 从句（on which day Father's Day falls），正式语体变体，单句出现。",
+   "example": {
+    "id": "S3553",
+    "src": "必修第三册·Unit 5",
+    "s": "I don’t know exactly on which day Father’s Day falls."
+   }
+  },
+  {
+   "note": "双宾转移 give sb sth（gives him a hug），单句出现。",
+   "example": {
+    "id": "S7020",
+    "src": "必修第三册·Unit 5",
+    "s": "(Portia walks over to Roderick and gives him a hug."
+   }
+  },
+  {
+   "note": "诗歌体：副词叠用（slowly, slowly）与分词前置（Dimming, Hiding...），文学语体骨架。",
+   "example": {
+    "id": "S5819",
+    "src": "选择性必修第四册·Unit 4",
+    "s": "Rose slowly, slowly, Dimming, Hiding, The light of my dream."
+   }
+  },
+  {
+   "note": "省略式/回声疑问（you start searching...?，疑为 Why don't you... 的截断），单句出现。",
+   "example": {
+    "id": "S4565",
+    "src": "必修第三册·Unit 5",
+    "s": "you start searching from the other side of the room?"
+   }
+  },
+  {
+   "note": "I can safely say + that 从句（强化断言框架），单句出现。",
+   "example": {
+    "id": "S6499",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Well, now I can safely say that I’ve been there!"
+   }
+  },
+  {
+   "note": "may be A but B（让步推测：Anderson may be young but...），单句出现。",
+   "example": {
+    "id": "S6534",
+    "src": "选择性必修第二册·Unit 3",
+    "s": "Anderson may be young but he’s certainly rolling in dough!"
+   }
+  }
+ ]
+}

@@ -130,8 +130,13 @@ class LearningSiteTests(unittest.TestCase):
     def test_materials_index_is_discovered_and_vendor_docs_are_skipped(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
-            for rel in ['materials/README.md', 'materials/vocabulary/notes.md',
-                        'materials/dictionaries/ecdict/repo/README.md']:
+            for rel in ['materials/README.md', 'materials/readable/papers/cet6-2016.md',
+                        'materials/vocabulary/notes.md',
+                        'materials/dictionaries/wordbooks-md/cet4/cet4-a.md',
+                        'materials/dictionaries/wordbooks/ecdict-repo-readme.md',
+                        'materials/dictionaries/ecdict/repo/README.md',
+                        'materials/textbooks/初中人教版/七年级上.md',
+                        'materials/papers/exams/cet4-2022-06.md']:
                 path = root / rel
                 path.parent.mkdir(parents=True, exist_ok=True)
                 path.write_text('# 学习资料\n\n索引', encoding='utf-8')
@@ -140,8 +145,13 @@ class LearningSiteTests(unittest.TestCase):
             self.assertIn('materials/README.md', by_id)
             self.assertEqual(by_id['materials/README.md']['section'], 'reference')
             self.assertEqual(by_id['materials/README.md']['group'], '学习资料')
+            self.assertIn('materials/readable/papers/cet6-2016.md', by_id)
+            self.assertIn('materials/dictionaries/wordbooks-md/cet4/cet4-a.md', by_id)
+            self.assertIn('materials/textbooks/初中人教版/七年级上.md', by_id)
             self.assertNotIn('materials/vocabulary/notes.md', by_id)
+            self.assertNotIn('materials/dictionaries/wordbooks/ecdict-repo-readme.md', by_id)
             self.assertNotIn('materials/dictionaries/ecdict/repo/README.md', by_id)
+            self.assertNotIn('materials/papers/exams/cet4-2022-06.md', by_id)
 
     def test_prompt_includes_profile_chapter_and_actual_history(self):
         prompt = server.teaching_prompt(
