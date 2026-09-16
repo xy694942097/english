@@ -1,0 +1,241 @@
+{
+ "frames": [
+  {
+   "frame": "one in [X] / [X] out of [Y] / [a third] of [复数N] + [谓语]",
+   "gloss": "报告调查统计比例的主语句型（六分之一/十分之七/三分之一的人如何）",
+   "notes": "比例短语作主语接复数谓语，one in six do 易错读",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3050",
+     "text": "However, this concern does not always carry through to practice—one in six do not feel confident enough to do it."
+    },
+    {
+     "id": "cet6-2026-06-03-3051",
+     "text": "More than one in every four parents think children should take responsibility for understanding money themselves."
+    },
+    {
+     "id": "cet6-2026-06-03-3079",
+     "text": "N) Seven out of ten teachers think children are now faced with financial decisions earlier."
+    },
+    {
+     "id": "cet6-2026-06-03-3081",
+     "text": "O) Only a third of parents involve their children in discussions about their household finances, even though less than half of young people aged seven to seventeen receive financial education at school, another survey shows."
+    }
+   ]
+  },
+  {
+   "frame": "[主语/分句], [he says / it seems / she noted], [谓语]",
+   "gloss": "主干中间插入报道或评注语，把主语和谓语隔开",
+   "notes": "先跳过逗号插入语，找回真正的主干谓语",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3046",
+     "text": "The warmer the place, it seems, the \"warmer\" the people and the less space they needed between them and others."
+    },
+    {
+     "id": "cet6-cet6-2018-06-3154",
+     "text": "Such findings, he says, suggest that “ this network can be called on to process and store the kind of information taught in school—potentially giving stu dents access to a range of untapped mental powers.” J."
+    },
+    {
+     "id": "cet6-cet6-2018-06-3160",
+     "text": "Y et, she noted, many young people are especially risk averse at school—afraid that one low test score or mediocre grade could cost them a spot at a selective university."
+    }
+   ]
+  },
+  {
+   "frame": "[主语]—[同位语/评注/举例]—[谓语]",
+   "gloss": "破折号对隔开主谓，插入同位说明、评注或举例",
+   "notes": "双破折号等于括号，需跨过插入把主干接回",
+   "examples": [
+    {
+     "id": "cet6-2026-06-02-3030",
+     "text": "The convenience of communication—when they need a ride home from school after practice, for instance—often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage \"real-life\" activities outside and with friends and family."
+    },
+    {
+     "id": "cet6-2026-06-03-3080",
+     "text": "On Wednesday, Lifesavers—a new project which promotes financial education in primary schools—is hosting a conference to encourage teachers to join its programme and get free classroom resources and training."
+    },
+    {
+     "id": "cet6-cet6-2018-06-3153",
+     "text": "But thinking about or remembering descriptions in terms of their social meaning acti vated the dorsomedial prefrontal cortex—part of the brain‘s social network—even as traditional memory regions registered low levels of activity."
+    }
+   ]
+  },
+  {
+   "frame": "[be] essential to [V-ing] / the key to [V-ing]",
+   "gloss": "对……必不可少 / 是……的关键（此处 to 为介词）",
+   "notes": "to 后必须接动名词，勿误读为不定式",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3122",
+     "text": "Deploying modern grid infrastructure with speed and at scale is essential to replacing these temporary solutions with reliable and affordable alternatives."
+    },
+    {
+     "id": "cet6-2026-06-03-3123",
+     "text": "The rapidly growing private power sector in Africa holds the key to achieving the speed and scale necessary to close the continent's energy access gap."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "Just as [Adj], if not more so, is that [S V]",
+   "gloss": "同样（甚至更）令人警醒的是……",
+   "notes": "表语前置倒装，if not more so 插入让步",
+   "examples": [
+    {
+     "id": "cet6-2026-06-02-3022",
+     "text": "Just as alarming, if not more so, is that the amount of time teens spend on social media can lead to anxiety and depression."
+    }
+   ]
+  },
+  {
+   "frame": "If [A] can [V], so can [B]",
+   "gloss": "既然 A 能（合法）做到，B 也能",
+   "notes": "条件+so+倒装，类比论证收尾句",
+   "related": "Just as [A], so [B]",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3097",
+     "text": "If streaming music can be accomplished within the law, so can AI products."
+    }
+   ]
+  },
+  {
+   "frame": "[X] is what [S] [V] [介词] by",
+   "gloss": "X 正是许多生成模型作者声称其训练数据受其保护的东西",
+   "notes": "假分裂句，从句尾留介词",
+   "related": "What … is/was …",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3103",
+     "text": "Fair use, a legal doctrine that allows for a limited usage of copyrighted materials without permission by the original creators for purposes such as teaching and news sharing, is what a lot of generative model creators claim that their training data is covered by."
+    }
+   ]
+  },
+  {
+   "frame": "[S] is one of [复数N], many of whom [V], who [V]",
+   "gloss": "他是数亿……之一（其中许多是……），他们仍……",
+   "notes": "many of whom 与 who 双层关系从句叠加",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3113",
+     "text": "Agok is just one of the hundreds of millions of people in sub- Saharan Africa, many of whom are business owners, who still do not have dependable electricity."
+    }
+   ]
+  },
+  {
+   "frame": "Not only [助/be+S+V], but [S] have also [V-ed]",
+   "gloss": "不仅许多艺术家愤怒，而且他们还一直受挫",
+   "notes": "not only 居句首须主谓倒装",
+   "related": "not only [A] but (also) [B]",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3099",
+     "text": "Not only are many artists furious at the possible copyright violations of AI art, but they have also been frustrated by how AI tools are able to sidestep the labor and art processes they are required to go through."
+    }
+   ]
+  },
+  {
+   "frame": "[X] is not just [A]; [S] will [B]",
+   "gloss": "不只是 A；更会 B（分号递进升级）",
+   "notes": "分号引出比 not just 更重的后果",
+   "related": "not only [A] but (also) [B]",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3095",
+     "text": "AI image products are not just an infringement of artists' rights; they will eliminate 'artist' as a viable career path."
+    }
+   ]
+  },
+  {
+   "frame": "[主句], which [research suggests] is (not always) the case",
+   "gloss": "而研究表明情况（并非总是）如此",
+   "notes": "which 后嵌套报道插入再接谓语，易读断",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3063",
+     "text": "This is dependent on the children receiving enough pocket money to need an app to track their spending, which research suggests is not always the case."
+    }
+   ]
+  },
+  {
+   "frame": "—[NP], [V-ed], being a notable exception",
+   "gloss": "——……是显著的例外",
+   "notes": "being 分词短语作例外补述收尾",
+   "examples": [
+    {
+     "id": "cet6-2026-06-03-3064",
+     "text": "J) Surprisingly, given the research about habit-forming in young children, there are very few gaming apps that can help under-sevens—Pigby's Fair, developed by NatWest, being a notable exception."
+    }
+   ]
+  },
+  {
+   "frame": "even as [S V]",
+   "gloss": "与此同时却……（对照：A 被激活，而 B 保持低位）",
+   "notes": "勿与 even though 混淆，表同时对照",
+   "examples": [
+    {
+     "id": "cet6-cet6-2018-06-3153",
+     "text": "But thinking about or remembering descriptions in terms of their social meaning acti vated the dorsomedial prefrontal cortex—part of the brain‘s social network—even as traditional memory regions registered low levels of activity."
+    }
+   ]
+  },
+  {
+   "frame": "just the act of [V-ing]—and not [V-ing it]—had [效果]",
+   "gloss": "仅仅计划拍照这一行为本身（而非实际拍摄）就有同样效果",
+   "notes": "名词化对比：行为本身 vs 行为执行",
+   "examples": [
+    {
+     "id": "cet6-cet6-2018-06-3165",
+     "text": "No, they found; just the act of planning to take a photo—and not actually taking it—had the same joy-boosting effect. “If you want to take mental photos, that works the same way,” Diehl says. “Thinking about what you would want to photograph also gets you more engaged.” 51."
+    }
+   ]
+  },
+  {
+   "frame": "[This finding] could have important implications for [wh-小句]",
+   "gloss": "这一发现对如何看待……可能有重要启示",
+   "notes": "学术评述句，implications 后接 for+how 从句",
+   "examples": [
+    {
+     "id": "cet6-cet6-2018-06-3150",
+     "text": "And this finding could have important implications for how we think about educating adolescents."
+    }
+   ]
+  },
+  {
+   "frame": "[同位语NP] that's \"[引语片段],\" [sb] points out",
+   "gloss": "——一个『小但相近』的量，某考古学家指出",
+   "notes": "引语片段作同位语谓语+尾置报道",
+   "related": "引语后置报道：'[直接引语]', says/explains [NP]",
+   "examples": [
+    {
+     "id": "cet6-cet6-2018-06-3143",
+     "text": "seconds north of due east) —an amount that’s “tiny, but similar,” archeologist Atlas Obscura points out."
+    }
+   ]
+  },
+  {
+   "frame": "：[wh-小句], [wh-小句], [wh-小句], ...",
+   "gloss": "冒号后用一串 wh 短语铺陈细节（谁入圈、谁出圈、谁喜欢谁）",
+   "notes": "排比补述，who likes whom 宾格易读错",
+   "examples": [
+    {
+     "id": "cet6-cet6-2018-06-3155",
+     "text": "If humans are generally geared to recall details about one another, this pattern is probably even more powerful among teenagers who are very attentive to social details: who is in, who is out, who likes whom, who is mad at whom."
+    }
+   ]
+  },
+  {
+   "frame": "[人名], [多重同位语], and author of [书名], [V] that",
+   "gloss": "利伯曼——加州大学洛杉矶分校社会认知神经科学家、2013 年某书作者——怀疑……",
+   "notes": "同位语堆叠拉开主谓距离，谓语易跟丢",
+   "examples": [
+    {
+     "id": "cet6-cet6-2018-06-3151",
+     "text": "Lieberman, a social cognitive neuroscientist at the University of California, Los Angeles, and author of the 2013 book Social: Why Our Brains Are Wired to Connect , suspects that the human brain is especially adept at learning socially salient information."
+    }
+   ]
+  }
+ ]
+}

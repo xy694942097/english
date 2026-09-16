@@ -1,0 +1,123 @@
+{
+ "frames": [
+  {
+   "frame": "[N] times as [Adj] as [B] / [N] times what [S V]",
+   "gloss": "是B的N倍 / 是（过去）那个数的N倍",
+   "notes": "倍数表达两式：as...as 式与 times+what 名词性从句式，死词 times/as/what 撑骨架。考研读者经典卡点：times what it was 读成『多了3.5倍』或把 what 从句当疑问句。批内两式各见一例，归一族。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-1-0020",
+     "text": "productivity, which he thought would lead to a standard of living “between four and eight times as high as it is today.” But Keynes got that right: Technology has made the economy massively more productive."
+    },
+    {
+     "id": "cet4-cet4-2024-06-1-0035",
+     "text": "For them, output by 2029 is likely to be around 3.5 times what it was when Keynes was writing."
+    }
+   ]
+  },
+  {
+   "frame": "be more [A] than [B]（定性取舍）",
+   "gloss": "与其说是B，不如说是A",
+   "notes": "more...than 非程度比较而是性质取舍，than 后项被否定。死词 more/than 固定，槽位填名词短语。误读点：读成『比B更A』的程度义，弄反褒贬。0154 例 than 后 one 回指前项 a behavior，更添一层回指负担。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-1-0081",
+     "text": "Some people have said aging is more a slide into forgetfulness than a journey towards wisdom."
+    },
+    {
+     "id": "cet4-cet4-2024-06-2-0154",
+     "text": "It is a behavior we are born with more than one we learn."
+    }
+   ],
+   "related": "not so much [A] as [B]（同功能异形：肯定式取舍 vs 否定式取舍）"
+  },
+  {
+   "frame": "[主句比较级] than [be/助动词 + 名词主语]（比较从句倒装）",
+   "gloss": "比……更……（than 后主谓倒装）",
+   "notes": "than 从句主语较长或为对比重量时倒装，be/助动词提到主语前。死词 than+倒装语序固定。误读点：找不到 than 从句的主语，把 were women / were participants 读成新句子或漏掉比较对象。0104 为 OCR 断句残片，框架本身完整。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-2-0106",
+     "text": "They found that participants in a high-power interviewer role were more likely to give abstract descriptions of behaviors than were participants in a low-power interviewee role."
+    },
+    {
+     "id": "cet4-cet4-2024-06-2-0104",
+     "text": "likely to speak in the abstract than were women."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "if [NP] is anything to go by",
+   "gloss": "从……来看（可见一斑）",
+   "notes": "卡在重复判据：批内仅 1 例（0214）。骨架死（if...is anything to go by 全固定），误读点明确（anything to go by 读不出『据以判断』义），建议跨批复查频率。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-3-0214",
+     "text": "E) But some parents object to the new policy if the vigorous debate on the Facebook page of Anderson County school district is anything to go by. “When it snows, let the kids enjoy it.” said one commenter."
+    }
+   ]
+  },
+  {
+   "frame": "It pays to [V]",
+   "gloss": "做……是值得的/有好处的",
+   "notes": "卡在重复判据：批内仅 1 例（0191）。pays 非『付钱』义，it 虚主语+不定式真主语，考研读者易在 pays 处停顿。区别于已登记 It takes [sb] [time] to [V]。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-2-0191",
+     "text": "Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care."
+    }
+   ]
+  },
+  {
+   "frame": "It's not that [S V]. It's that [S V].",
+   "gloss": "不是……，而是……（分裂式先否后纠）",
+   "notes": "卡在重复判据：批内仅 1 组（0097+0098 两句成对）。与已登记 not [A] but (rather) [B] 同功能但实现为两个独立强调句，口语评注语域，长对话/引语中拦截力强。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-1-0097",
+     "text": "That’s why brain scientist Richard Kennedy says “It’s not that old dogs can't learn new tricks."
+    },
+    {
+     "id": "cet4-cet4-2024-06-1-0098",
+     "text": "It's that maybe old dogs don't realize why they should."
+    }
+   ],
+   "related": "not [A] but (rather) [B]（先否后纠）"
+  },
+  {
+   "frame": "[祈使句], and [S will V]",
+   "gloss": "如果做了……，就会……（条件-结果）",
+   "notes": "卡在重复判据：批内仅 1 例（0064 引语内）。and 非并列而表结果，祈使句实为条件，考研读者按并列读会丢失警告口吻。变体 or/otherwise 表反面结果本批未见。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-1-0064",
+     "text": "Lao Zi once said, “Care about what other people think and you will always be their prisoner.” People-pleasing, or seeking self-worth through others' approval, is unproductive and an exhausting way to go through life."
+    }
+   ]
+  },
+  {
+   "frame": "Who says [S V]?",
+   "gloss": "谁说……？（反问反驳：未必如此）",
+   "notes": "卡在重复判据：批内仅 1 例（0138）。修辞问句表反驳，骨架 who says+从句固定，误读点：按字面疑问句找答句。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-2-0138",
+     "text": "Who says instant gratification has to be a bad thing ?"
+    }
+   ]
+  },
+  {
+   "frame": "neither/nor + [助动词/be] + [S]（否定呼应倒装）",
+   "gloss": "……也同样不……",
+   "notes": "卡在重复判据+误读判据双重：批内仅 1 例（0056）；neither do I 短式初中已会，但 0056 主语 those shorter working weeks 长且承前省略，倒装处仍可能读慢。建议跨批复查。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2024-06-1-0056",
+     "text": "And, as a result, neither are those shorter working weeks."
+    }
+   ]
+  }
+ ]
+}

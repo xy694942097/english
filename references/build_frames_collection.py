@@ -20,10 +20,14 @@ CHAPTERS = [
     ("04-stance-commentary.md", "家族D · 评述与立场", "句子之外的作者态度信号"),
     ("05-narrative-logic.md", "家族E · 叙事与逻辑推进", "复盘、postmortem 的因果推进骨架"),
     ("06-condition-subjunctive.md", "家族F · 条件与虚拟", "技术文档与正式邮件的省 if 结构"),
-    ("07-school-recall.md", "教材回收 · 初高中成对结构", "当年当语法点背的成对结构，升级为预制件"),
-    ("09-exam-recall.md", "真题回收 · 四六级考研句式", "9 份真题试卷里反复出现、教材没当框架教的句式骨架"),
-    ("10-junior-recall.md", "教材回收 · 初中篇", "从人教版初中五册全文里扫出的高频句式框架，例句全部取自教材原文"),
-    ("11-senior-recall.md", "教材回收 · 高中篇", "从人教版 2019 高中教材句子库里扫出的句式框架，例句全部带册别出处"),
+    ("07-school-recall.md", "教材回收 · 初高中句式骨架", "初中五册+高中人教句库扫描与课标项目回收的合成章，例句带册别出处"),
+    ("09-exam-recall.md", "真题回收 · 四六级考研句式", "9 份真题试卷里反复出现、教材没当句式骨架教的句式骨架"),
+    ("12-readthrough-recall.md", "教材回收 · 通读篇", "LLM 逐句通读挖出的无钩子词结构型句式骨架，regex 扫不出来的那批"),
+    ("13-cet4-readthrough.md", "真题通读 · 四级篇", "四级 7 份真题逐句通读：29 个句式骨架 + 短语档（anything but、Gone are the days、at best、Who says、just because doesn't mean 等）"),
+    ("14-cet6-readthrough.md", "真题通读 · 六级篇", "六级 48 份真题逐句通读：66 个句式骨架 + 短语档（evidence that、Of 前置分母、双破折号插入、find oneself、It's simply not true that、anything but、However [Adj] 让步、Thus was born、known as 命名同位等）"),
+    ("15-kaoyan-readthrough.md", "真题通读 · 考研篇", "考研真题+精翻逐句通读：60 个句式骨架 + 短语档（never to、not enough to say、It's not as if、being what it is、has it that、can't afford not to、It is all very well…but 等）"),
+    ("16-oral-dialogue-actions.md", "小说通读 · 口语对话动作", "《Normal People》全书通读：23 个口语对话句式骨架（It's not like/Not that/How was I supposed to know/not really 等），攻防与体面的表达动作"),
+    ("17-narrative-cognition-actions.md", "小说通读 · 叙事与认知动作", "《Normal People》全书通读：18 个叙事句式骨架（only to 反转、Later would 回望、without ever 归零、To his relief 注脚等），讲故事的发动机"),
 ]
 
 
@@ -59,7 +63,7 @@ def main():
         part = f"\n---\n\n# {title}\n\n{demote(body)}\n"
         parts.append(part)
 
-    header = f"""# 句式框架总集：六大家族与教材回收
+    header = f"""# 句式骨架总集：六大家族与教材回收
 
 > 单篇合集，供通读与打印。分章学习仍推荐用各家族独立章（含课程导航与练习折叠）。合成日期：{today}。标注约定全文一致：例句后标（语料）为词典例句库真实例句，标（自造）为教学自造。
 
@@ -76,7 +80,7 @@ def main():
     entry = {
         "path": "book/08-frames/08-frames-collection.md",
         "title": "总集：六大家族与教材回收（单篇通读版）",
-        "focus": "A-F 六家族 31 框架 + 教材回收 9 框架的单篇合集，适合通读与打印；分章学习仍用独立章。",
+        "focus": "A-F 六家族 31 句式骨架 + 教材回收 9 句式骨架的单篇合集，适合通读与打印；分章学习仍用独立章。",
         "level": "通读",
     }
     for topic in course["topics"]:

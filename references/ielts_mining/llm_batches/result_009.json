@@ -1,0 +1,112 @@
+{
+  "frames": [
+    {
+      "frame": "[NP] [V] [that/which] [S V]（关系从句后移）",
+      "gloss": "主语名词的定语从句被谓语（多为被动或不及物动词）挤到句尾，关系代词隔动词回指主语。",
+      "pattern_notes": "关系从句不紧跟先行词，而是越过谓语后移（extraposed relative），学习者极易把 that/which 误当宾语从句或误找先行词。属查表优势明显的骨架：先行词+谓语+that/which 从句整体模板。三例分别搭配被动 identified、不及物 took place、被动 developed。",
+      "examples": [
+        {"id": "I01260", "src": "剑9", "s": "Tidal sites have already been identified that will produce one sixth or more of the UK’s power—and at prices competitive with modern gas turbines and undercutting those of the already ailing nuclear industry."},
+        {"id": "I01301", "src": "剑9", "s": "In April 2002 an event took place which demonstrated one of the many applications of information theory."},
+        {"id": "I01341", "src": "剑9", "s": "Products have now been developed which can convey more information than Shannon had anticipated as possible."}
+      ]
+    },
+    {
+      "frame": "Born [in 时间/地点], [S] [V]",
+      "gloss": "出生于某年某地的某人后来如何——传记开头的过去分词悬垂结构。",
+      "pattern_notes": "固定虚词 Born + 时间/地点状语，逻辑主语与主句主语一致（悬垂但合习惯）。学习者常误读为被动谓语或写错逻辑主语。整存整取的传记套语。",
+      "examples": [
+        {"id": "I01312", "src": "剑9", "s": "Born in 1916 in Petoskey, Michigan, Shannon showed an early talent for maths and for building gadgets, and made breakthroughs in the foundations of computer technology when still a student."},
+        {"id": "I01396", "src": "剑9", "s": "Born Maria Sklodowska in Poland in 1867, she is famous for her work on radioactivity, and was twice a winner of the Nobel Prize."}
+      ]
+    },
+    {
+      "frame": "the first [N] to [V]",
+      "gloss": "第一个做某事的某类人。",
+      "pattern_notes": "序数词/最高级 + 名词后接 to 不定式作后置定语（= who first V-ed）。学习者易误写 *the first woman who win*，且易忽略不定式回指过去事。与清单中 one of the最高级不同：这是单数 first + to do 的预制件。",
+      "examples": [
+        {"id": "I01398", "src": "剑9", "s": "She was the first woman to win a Noble Prize."},
+        {"id": "I01420", "src": "剑9", "s": "On May 13,1906, she was appointed to the professorship that had been left vacant on her husband’s death, becoming the first woman to teach at the Sorbonne."}
+      ]
+    },
+    {
+      "frame": "As [NP] [show/observe 等动词], [主句]",
+      "gloss": "正如某人/某物所表明的那样，……（as 作关系代词指代整个主句）。",
+      "pattern_notes": "句首 As 引导评注性从句，as 在从句内作 show/observe/suggest 的主语或宾语，回指主句整体。学习者普遍把 as 读成『当/因为』而卡壳。固定语序：As + NP + V + 逗号 + 主句。",
+      "examples": [
+        {"id": "I01332", "src": "剑9", "s": "As mobile phone text messages like ‘ I CN C U’ show, it is often possible to leave out a lot of data without losing much meaning."},
+        {"id": "I01499", "src": "剑9", "s": "As one writer observes: ‘Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.’ Such conviction was, until recently, reflected in museum displays."}
+      ]
+    },
+    {
+      "frame": "Unlike [A], [主句]",
+      "gloss": "与 A 不同，……（否定式对比状语）。",
+      "pattern_notes": "清单『Compared to/with [A], 主句』的新变体：Unlike 否定语义。可置句首或插入 but 之后。误读点：学习者易把 Unlike wind 当作主语，或与 dislike 混淆。三例覆盖句首与插入两种位置。",
+      "examples": [
+        {"id": "I01256", "src": "剑9", "s": "Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships propellers, but, unlike wind, the tides are predictable and the power input is constant."},
+        {"id": "I01259", "src": "剑9", "s": "Unlike wind power which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand."},
+        {"id": "I01273", "src": "剑9", "s": "Unlike wind power, there are unlikely to be environmental objections."}
+      ]
+    },
+    {
+      "frame": "[X] was to [V]",
+      "gloss": "X 当时将/后来注定会……（过去将来、命运式安排）。",
+      "pattern_notes": "清单『[X] is to [V]』的新变体：过去式 was to V 表『后来果然发生』的历史叙事将来，常配 soon/henceforth。学习者易误认为情态错误而读慢。两例分别带 soon 和 henceforth。",
+      "examples": [
+        {"id": "I01406", "src": "剑9", "s": "Their marriage in 1895 marked the start of a partnership that was soon to achieve results of world significance."},
+        {"id": "I01419", "src": "剑9", "s": "The sudden death of her husband in 1906 was a bitter blow to Marie Curie, but was also a turning point in her career: henceforth she was to devote all her energy to completing alone the scientific work that they had undertaken."}
+      ]
+    },
+    {
+      "frame": "not only [A] but (also) [B]",
+      "gloss": "不仅 A，而且 B（累加式关联结构）。",
+      "pattern_notes": "与清单『not [A] but [B]先否后纠』同族但语义相反：累加而非纠正，且要求 A/B 平行对称（介词短语、不定式各成对）。误读点：平行层级易切错（I01431 中 not only 接介词短语、but 接 because of 短语，跨度极大）。",
+      "examples": [
+        {"id": "I01428", "src": "剑9", "s": "One of Marie Curie’s outstanding achievements was to have understood the need to accumulate intense radioactive sources, not only to treat illness but also to maintain an abundant supply for research. …The existence in Pairs at the Radium Institute of a stock of 1.5 grams of radium made a decisive contribution to the success of the experiments undertaken in the years around 1930.This work prepared the way for the discovery of the neutron by Sir James Chadwick and, above all, for the discovery in 1934 by Irene and Frederic Joliot-Curie of artificial radioactivity."},
+        {"id": "I01431", "src": "剑9", "s": "Her contribution to physics had been immense, not only in her own work, the importance of which had been demonstrated by her two Nobel Prizes, but because of her influence on subsequent generations of nuclear physicists and chemists."}
+      ]
+    },
+    {
+      "frame": "The [solution/trick] was/is to [V]",
+      "gloss": "解决办法/诀窍就是去……。",
+      "pattern_notes": "固定模板 The + solution/trick/answer + be + to 不定式作表语。学习者易受中式思维影响写成 *The solution was V-ing* 或把 to 误读为介词。两例中 trick 句还嵌入了主谓间插入语（Shannon showed），是更完整的真实用法。",
+      "examples": [
+        {"id": "I01305", "src": "剑9", "s": "The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts."},
+        {"id": "I01325", "src": "剑9", "s": "The trick, Shannon showed, is to find ways of packaging up—‘coding’—information to cope with the ravages of noise, while staying within the information-carrying capacity—‘bandwidth’—of the communication system being used."}
+      ]
+    },
+    {
+      "frame": "[V] as easily [over A] as [over B]（as…as 副词平行比较）",
+      "gloss": "在 A 上和在 B 上同样容易地……（同等程度对比，两介词短语平行）。",
+      "pattern_notes": "清单『比较级介词短语平行省略』的新变体：as + 副词 + 介词短语 + as + 介词短语。误读点：第二个 as 是关闭比较的关联词，学习者常误读为『作为/例如』而断错句；I01499 版本则是 as easily V-ed as B（被动平行）。",
+      "examples": [
+        {"id": "I01219", "src": "剑9", "s": "Arguments can start as easily over minor points of usage as over major policies of linguistic education."},
+        {"id": "I01499", "src": "剑9", "s": "As one writer observes: ‘Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.’ Such conviction was, until recently, reflected in museum displays."}
+      ]
+    }
+  ],
+  "candidates": [
+    {"s": "Having identified this fundamental unit, Shannon set about defining otherwise vague ideas about information and how to transit it from place to place.", "id": "I01318", "note": "Having V-ed, S V（完成式分词状语表先后）。另见 I01378 听力对话问句 Having completed the year, how does Kira feel? 共 2 例，但骨架判据拿不准：更接近语法书里的分词时体知识点，而非查表型预制件。"},
+    {"s": "Linguistic issues, it is argued, cannot be solved by logic and legislation.", "id": "I01237", "note": "[S], it is argued, [V] 主谓间被动报道插入，是清单『主谓间插入语』的被动评注变体；仅此 1 句，凑不满 2 句。"},
+    {"s": "This approach is summarized in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change.", "id": "I01235", "note": "[to V], not [to V] 后置否定对比（describe, not prescribe），修辞感强但仅 1 句。"},
+    {"s": "In this early period, there were no half-measures: usage was either right or wrong, and it was the task of the grammarian not simply to record alternatives, but to pronounce judgment upon them.", "id": "I01232", "note": "not simply to [V], but to [V]；仅 1 句。"},
+    {"s": "It is still too early to predict the extent of the impact they may have, but all the signs are that they will play a significant role in the future A.", "id": "I01255", "note": "all the signs are that [S V] 预测性表语从句；另见 I01284 all the signs that we can do it are good 结构不同，凑不满 2 句同构。"},
+    {"s": "Undersea turbines which produce electricity from the tides are set to become an important source of renewable energy for Britain.", "id": "I01254", "note": "be set to [V]（即将、注定）；仅 1 句。"},
+    {"s": "So far we do not know how much of a problem it might be.", "id": "I01283", "note": "how much of a [N]（有多大程度的问题）；仅 1 句。"},
+    {"s": "She often worked far into the night and lived on little more than bread and butter and tea.", "id": "I01403", "note": "little more than [N]（不过是、仅仅）；仅 1 句。"},
+    {"s": "From her earnings she was able to finance her sister Bronia’s medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education.", "id": "I01401", "note": "on the understanding that [S V]（以……为条件）；仅 1 句。"},
+    {"s": "This is not to say that infants recognize the reflection as their own image (a later development).", "id": "I01461", "note": "This is not to say that [S V]（这并非是说）；仅 1 句，防过度引申的学术套语，很有价值。"},
+    {"s": "This is because they, and only they, can change the reflection in the mirror.", "id": "I01463", "note": "This is because [S V] 表语从句；本批仅 1 句。"},
+    {"s": "Museums used to look – and some still do – much like storage rooms of objects packed together in showcases: good for scholars who wanted to study the subtle differences in design, but not for the ordinary visitor, to whom it all looked alike.", "id": "I01500", "note": "[S] used to [V] – and some still do –（破折号插入 + do 承前省略）；仅 1 句。"},
+    {"s": "On so-called heritage sites the re-enactment of historical events is increasingly popular, and computers will soon provide virtual reality experiences, which will present visitors with a vivid image of the period of their choice, in which they themselves can act as if part of the historical environment.", "id": "I01508", "note": "act as if [NP]（as if 后接无动词名词短语，省略 they were）；仅 1 句，误读风险高。"},
+    {"s": "The key word in heritage display is now ‘experience’, the more exciting the better and if possible, involving all the senses.", "id": "I01504", "note": "the [比较级], the better（越……越好）；仅 1 句。"},
+    {"s": "The life and work of Marie Curie Marie Curie is probably the most famous woman scientist who has ever lived.", "id": "I01395", "note": "the most [adj] [N] who has ever [V-ed]（最高级+ever 强化）；仅 1 句。"},
+    {"s": "In the 1940s, he singe-handedly created an entire science of communication which has since inveigled its way into a host of applications, from DVDs to satellite communications to bar codes— any area, in short, where data has to be conveyed rapidly yet accurately.", "id": "I01314", "note": "has since [V-ed]（since 作副词＝此后一直）；仅 1 句，学习者易把 since 误读为连词。"},
+    {"s": "During World War I, Marie Curie, with the help of her daughter Irene devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘little curies’, used for the treatment of wounded soldiers.", "id": "I01422", "note": "came to be known as（come to [V] 渐变，清单 be known/regarded as 的渐变变体；另见 I01472 come to see themselves）；骨架判据拿不准：偏词汇性语法。"},
+    {"s": "Fish and other creatures are thought unlikely to be at risk from the relatively slow-turning blades.", "id": "I01274", "note": "be thought unlikely to [V]（被动提升+unlikely）；仅 1 句。"},
+    {"s": "Write about the following topic: Some people say that the best way to improve public health is by increasing the number of sports facilities.", "id": "I01346", "note": "the best way to [V] is by [V-ing]；语域判据拿不准：出自写作题干引语，半自然语篇。"},
+    {"s": "This development is a response to market forces and , although museums and heritage sites have a special, rather distinct, role to fulfil, they are also operating in a very competitive environments, where visitors make choices on how and where to spend their free time.", "id": "I01516", "note": "疑问词并列 + to do（how and where to spend）；仅 1 句。"},
+    {"s": "The technology raises the prospect of Britain becoming self-sufficient in renewable energy and drastically reducing its carbon dioxide emissions.", "id": "I01257", "note": "the prospect of [NP] [V-ing]（名词+of+名词化主语动名词）；仅 1 句。"},
+    {"s": "marine turbine blade needs to be only one third of the size of a wind generator to produce three times as much power.", "id": "I01271", "note": "[分数] of the size of [NP]（尺寸分数比较）；仅 1 句。"},
+    {"s": "Adherents to this variety are said to speak or write ‘correctly’ deviations from it are said to be ‘incorrect’.", "id": "I01227", "note": "be said to [V]；同句内出现 2 次但不足 2 个不同句子，凑不满复现判据。"}
+  ]
+}

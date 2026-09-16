@@ -1,0 +1,211 @@
+{
+ "frames": [
+  {
+   "frame": "What [A] is/was (that) [B]",
+   "gloss": "伪裂句（wh-分裂句）：把想强调的内容装进 what 主语从句，再用系动词接出解释或评价，整句＝「……的是……」。",
+   "pattern_notes": "前半 What 引导的是主语从句而非疑问句（What surprised Xie Lei was...＝Xie Lei 感到惊讶的是...），后半 be 后接 that-从句或名词补语。\n误读点：学习者易把 What...was 当成疑问句+意外系动词，应整存整取为「先抛悬念再给解释」的句式。\n变体：What is worse is that... 是话语连接语用法（＝worse still / to make matters worse），正文用法则如 What surprised X was that...。",
+   "examples": [
+    {
+     "id": "S07523",
+     "src": "选择性必修第二册·Unit 2",
+     "s": "What surprised Xie Lei was that she found herself speaking up in class after just a few weeks."
+    },
+    {
+     "id": "S06210",
+     "src": "选择性必修第四册·Unit 5",
+     "s": "What is worse is that do not need to be blind at all."
+    }
+   ]
+  },
+  {
+   "frame": "the [minute/second(s)] [A], [B]",
+   "gloss": "一……就……／就在……那一瞬：用「the＋时间名词＋零关系词从句」代替 when/as soon as 引导时间从句。",
+   "pattern_notes": "时间名词 minute/second(s) 等直接带零关系词从句，从句可前置（The minute I sat down, ...）也可后置（... in the 30 seconds the earth moved）。\n误读点：学习者会把 The minute I sat down 读成「这一分钟我坐下」的名词短语，意识不到 minute 在此起连词作用。\n对应显性连词是 as soon as（本批 S03659 另有一例），the minute 是其名词性变体。",
+   "examples": [
+    {
+     "id": "J04618",
+     "src": "初中·英语八年级下册",
+     "s": "The minute I sat down in front of the TV, my mom came over."
+    },
+    {
+     "id": "S01373",
+     "src": "必修第一册·Unit 5",
+     "s": "All of the ways man had made to keep the city safe were gone in the 30 seconds the earth moved."
+    }
+   ]
+  },
+  {
+   "frame": "(in) the way (in which/that/零) [A]",
+   "gloss": "……的方式：way 作先行词接关系从句，in which／that／零关系词三种形式。",
+   "pattern_notes": "与已有框架 the reason(s) why 完全平行，way 后的关系词可整体省略：in the way they express anger（他们表达愤怒的方式）。\n误读点：in the way＋从句易被错切成「挡道的 in the way」状语＋新主句；且学习者常误产出 the way how。\n正式语体保留 in which（The way in which he did the experiment），口语和教材最常见的是零关系词。",
+   "examples": [
+    {
+     "id": "S03939",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "How are humans and chimps alike in the way they express anger?"
+    },
+    {
+     "id": "S08456",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "The way in which he did the experiment was puzzling to other people."
+    }
+   ]
+  },
+  {
+   "frame": "[S] have trouble (in) [A-ing]",
+   "gloss": "做……有困难／吃力（＝have difficulty doing）。",
+   "pattern_notes": "trouble 后必须接动名词，不能接 to do；介词 in 通常省略，主语是人。\n误读点：学习者产出 have trouble to see 等错误形式，需把「have trouble＋V-ing」整存整取。\n属动词补语构式，与已有清单中的 end up（V-ing）同一收录层级；另有 have trouble with sth 变体。",
+   "examples": [
+    {
+     "id": "S06550",
+     "src": "选择性必修第三册·Unit 1",
+     "s": "Indeed, they thought the statue was too good to go on top of the cathedral where people would have trouble seeing it."
+    },
+    {
+     "id": "S07723",
+     "src": "选择性必修第二册·Unit 5",
+     "s": "MAKING YOUR HOME SAFE FOR THE ELDERLY The elderly present special challenges, as they may have trouble moving about and can be seriously hurt in falls."
+    }
+   ]
+  },
+  {
+   "frame": "The aim/purpose of [A] is/was to [B]",
+   "gloss": "（某物／某事）的目的／宗旨是……：名词化主语＋系动词＋不定式表语的定义性句式。",
+   "pattern_notes": "主语是名词化 NP（the aim/purpose of X），表语位置固定用 to 不定式，不用 for V-ing；aim 可换 goal/objective。\n误读点：学习者在 be 后期待名词，或把 to V 误读成目的状语，实为表语；学术／说明语篇开头的高频句式。\n两句分别用 aim 与 purpose、is 与 was，证明框架对时态和名词选择有开放槽位。",
+   "examples": [
+    {
+     "id": "S01958",
+     "src": "选择性必修第二册·Unit 5",
+     "s": "The aim of the programme is to between the two nations."
+    },
+    {
+     "id": "S08453",
+     "src": "选择性必修第三册·Unit 1",
+     "s": "The Middle Ages (from the 5th to the 15th century) During the Middle Ages, the purpose of Western art was to teach people about Christianity."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "note": "「the＋最高级＋(that)＋S＋ever＋V-ed」（最……过的）：骨架与误读判据均满足，但本批仅 1 例，需跨批找到第 2 例验证后收录。",
+   "example": {
+    "id": "S00130",
+    "src": "选择性必修第二册·Unit 4",
+    "s": "Looking at the beautiful scenery, they both agreed that it was the most awesome journey they had ever taken."
+   }
+  },
+  {
+   "note": "「be to blame」：该受责备／是……的问题；误读判据极强（学习者误说 is to be blamed），但本批仅 1 例，且偏短语级。",
+   "example": {
+    "id": "S04907",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "Snow suspected that the water pump was to blame."
+   }
+  },
+  {
+   "note": "「Contrary to what＋从句,＋主句」：与普遍看法相反……；前置评注状语，仅 1 例。",
+   "example": {
+    "id": "S07074",
+    "src": "选择性必修第二册·Unit 4",
+    "s": "Daiyu: Well, contrary contrary to what many people believe, there are a lot of vast and empty spaces in China, actually."
+   }
+  },
+  {
+   "note": "「Speaking of＋N,＋主句」：与已有 when it comes to 同功能的话语标记变体，仅 1 例。",
+   "example": {
+    "id": "S05875",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Speaking of medicine, through new technology, people who have brain or spinal injuries will be able to find new hope."
+   }
+  },
+  {
+   "note": "「Especially＋adj＋be＋NP」（补语前置倒装）：误读判据强（表语提前、主语后置），仅 1 例。",
+   "example": {
+    "id": "S07871",
+    "src": "必修第一册·Unit 2",
+    "s": "Especially amazing is the Incas’ dry stone method of building."
+   }
+  },
+  {
+   "note": "「序数/最高级＋N＋to＋V」：the first person in the world to enter space；不定式后置修饰名词，仅 1 例。",
+   "example": {
+    "id": "S01187",
+    "src": "必修第三册·Unit 4",
+    "s": "Afterwards, the USSR focused on sending people into space, and on 12 April 1961, Yuri Gagarin became the first person in the world to enter space."
+   }
+  },
+  {
+   "note": "「ever since」收句尾（has been in use ... ever since＝从那以后一直）：仅 1 例，短语级。",
+   "example": {
+    "id": "S02300",
+    "src": "必修第二册·Unit 5",
+    "s": "The samovar was then proudly placed in her main room and has been in use by my family ever since."
+   }
+  },
+  {
+   "note": "「For those who＋V,＋评论」：对那些……的人来说；量限性评注框架，仅 1 例。",
+   "example": {
+    "id": "S02651",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "For those who live in cities like we do, spending time in nature can be an incredibly rejuvenating experience."
+   }
+  },
+  {
+   "note": "「Have you ever＋V-ed?」经验问句：本批 3 例（另 S04396、J05224），重复充分，但本质是现在完成时问句，判据 1（时体范畴不报）边界拿不准。",
+   "example": {
+    "id": "J05140",
+    "src": "初中·英语八年级下册",
+    "s": "A: Have you ever been to the space museum?"
+   }
+  },
+  {
+   "note": "「概括NP：冒号展开」：预告性名词＋冒号同位展开（另见 S02595 full name...: the United Kingdom...、S01311 two things...: to eat...）；骨架只靠标点无固定虚词，判据 1 拿不准。",
+   "example": {
+    "id": "J03558",
+    "src": "初中·英语八年级上册",
+    "s": "All these shows have one thing in common: They try to look for the best singers, the most talented dancers, the most exciting magicians, the funniest actors and so on."
+   }
+  },
+  {
+   "note": "「Whoever＋V,＋主句」：自由关系代词＝the person who（谁要是……），与已有 no matter wh- 的让步义不同，仅 1 例。",
+   "example": {
+    "id": "J01507",
+    "src": "初中·英语九年级全册",
+    "s": "Whoever took this could live forever, and Hou Yi planned to take it with Chang'e."
+   }
+  },
+  {
+   "note": "「few would not＋V」：litotes 双重否定（几乎人人都会）；修辞构式，仅 1 例。",
+   "example": {
+    "id": "S01694",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "From Bill Gates to Steve Jobs to Jack Ma, few would not recognise their names."
+   }
+  },
+  {
+   "note": "「This is because＋从句」：指示回指整句＋原因，已有清单含 This is why/what，此为 because 变体；仅 1 例。",
+   "example": {
+    "id": "S02403",
+    "src": "选择性必修第一册·Unit 2",
+    "s": "This is because any big computer problem could cause one or more planes full of people to crash!"
+   }
+  },
+  {
+   "note": "「N is easy/difficult for X to V」tough 构式：loans are becoming easier ... to obtain 中主语是不定式的逻辑宾语；误读强但本批仅 1 例，判据 1 构式语法边界拿不准。",
+   "example": {
+    "id": "S06348",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Business development loans are becoming easier for these young people to obtain, too."
+   }
+  },
+  {
+   "note": "「thanks to＋NP」：多亏了／由于（褒义原因）；仅 1 例，短语级。",
+   "example": {
+    "id": "S06898",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "Today, more than people have had their eyesight restored, thanks to the work of the foundation."
+   }
+  }
+ ]
+}

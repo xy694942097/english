@@ -1,0 +1,221 @@
+{
+ "frames": [
+  {
+   "frame": "According to [来源NP], [主句]",
+   "gloss": "据某来源所说，先标注信息出处再陈述内容",
+   "pattern_notes": "句首 According to 接人名/著作/机构等来源，逗号后接主句，整块表'据……所说'。\n学习者易把 According to 的辖域误挂到主语上或误当作主语的一部分。\n变体 According to the speaker 见于听力题干，属指令语域，不计作例句。",
+   "examples": [
+    {
+     "id": "J01871",
+     "src": "初中·英语九年级全册",
+     "s": "According to Chinese history, sky lanterns were first used by Zhuge Kongming."
+    },
+    {
+     "id": "S00655",
+     "src": "选择性必修第二册·Unit 2",
+     "s": "According to Oberg, there are several stages of culture shock."
+    }
+   ]
+  },
+  {
+   "frame": "[主句], with/each with [NP] + [补足语]",
+   "gloss": "附带说明：'其中带有/连同'，对主句内容作伴随补充",
+   "pattern_notes": "with 后接名词短语，再加介词短语或 V-ed 等补足语，构成独立于主句主谓的伴随结构（with 复合结构）；each with 表示'每一个都带有'。\n可置于句首（With [NP]+补足语, [主句]）或句尾。\n学习者最易把 with 后的 V-ed 误读为主句被动的一部分（如 with questions answered by...）。",
+   "examples": [
+    {
+     "id": "S03068",
+     "src": "选择性必修第四册·Unit 2",
+     "s": "major attraction of Thailand is its amazing selection of islands, each with long sandy beaches and clear blue water."
+    },
+    {
+     "id": "S00943",
+     "src": "选择性必修第一册·Unit 3",
+     "s": "With trees, bushes, and colourful flowers along the riversides, the park shows different sides of beauty in different seasons."
+    },
+    {
+     "id": "S04269",
+     "src": "选择性必修第四册·Unit 2",
+     "s": "Our topic today is “Creatures Unique to Australia”, with questions answered by wildlife expert, Dr Jim Smith."
+    }
+   ]
+  },
+  {
+   "frame": "[主句] by + V-ing",
+   "gloss": "通过做某事（方式/手段），by 短语表方式而非被动施动者",
+   "pattern_notes": "by + 动名词短语修饰主句谓语，表'以……方式'。\n在被动句中与 by+施动者同形，是主要误读点：rented by using online apps 是'通过使用 app 租'，不是施动者。\n判据1 边界：介词接动名词属规则，但'by V-ing=方式'整块查表价值高，与既有 have trouble V-ing 同类。",
+   "examples": [
+    {
+     "id": "S05928",
+     "src": "必修第二册·Unit 3",
+     "s": "Bikes can be rented by using online apps—no need for paperwork or payment."
+    },
+    {
+     "id": "S00371",
+     "src": "选择性必修第二册·Unit 5",
+     "s": "However, the need for such robots does not seem to be as critical as our need for intelligent machines that can solve problems by learning from their observations and experience."
+    },
+    {
+     "id": "S06634",
+     "src": "选择性必修第一册·Unit 2",
+     "s": ", we can still keep ahead of our competitors by developing new innovations."
+    }
+   ]
+  },
+  {
+   "frame": "those who + [V 小句]",
+   "gloss": "'……的人们'，those 指代一类人后接定语从句",
+   "pattern_notes": "those who 整体当作名词短语（= the people who）使用，常见于比较从句（than those who...）和主语位置，从句谓语用复数。\n学习者易把 those 孤立理解为'那些（东西）'而丢失'者'义，或纠结与 these 的指代。",
+   "examples": [
+    {
+     "id": "S01624",
+     "src": "选择性必修第二册·Unit 1",
+     "s": "The people who drank this water were much more likely to get cholera than those who drank pure or boiled water."
+    },
+    {
+     "id": "S07144",
+     "src": "选择性必修第二册·Unit 3",
+     "s": "Or, that those who like spicy food tend to have a hot temper?"
+    }
+   ]
+  },
+  {
+   "frame": "Given that + [小句], [主句]（及后置 given [NP]）",
+   "gloss": "鉴于/考虑到某事实，可接完整小句，也可后置",
+   "pattern_notes": "既有框架 Given [NP], [主句] 的新变体：\n(1) that 后接完整小句：Given that China has many areas where...；\n(2) given 短语后置到句尾：..., given its large population。\n两例均为自然语篇，非练习指令。",
+   "examples": [
+    {
+     "id": "S07706",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "Given that China has many areas where soil conditions are poor, Chinese researchers have been experimenting with hydroponics since the 1970s."
+    },
+    {
+     "id": "S03114",
+     "src": "选择性必修第二册·Unit 4",
+     "s": "EXAMPLE Anna: I thought China would be very crowded, given its large population."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "note": "one...and the other... 成对回指框架，骨架成立但本批仅 1 例，未达 2 例门槛",
+   "example": {
+    "id": "J01522",
+    "src": "初中·英语九年级全册",
+    "s": "One is Mother's Day on the second Sunday of May, and the other is Father's Day on the third Sunday of June."
+   }
+  },
+  {
+   "note": "否定副词句首倒装 Nowhere else can you + V，骨架与误读均成立，本批仅 1 例",
+   "example": {
+    "id": "S02748",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "Nowhere else can you see such great herds of wildebeests and zebras, in addition to lions, rhinoceroses, elephants, and many other rare creatures."
+   }
+  },
+  {
+   "note": "比较级 + than in any other（表最高级义），典型查表点，本批仅 1 例",
+   "example": {
+    "id": "S01567",
+    "src": "必修第三册·Unit 3",
+    "s": "However, some survived these terrible times, and today there are more Native Americans living in California than in any other state of America."
+   }
+  },
+  {
+   "note": "The problem/is that + 小句：that 易被误读为指示词（判据2成立），但表语从句偏语法范畴（判据1存疑），且本批仅 1 例（S01627 'The other was that...' 为同构弱例）",
+   "example": {
+    "id": "S01854",
+    "src": "选择性必修第一册·Unit 2",
+    "s": "The problem was that none of these futurists were scientists or engineers."
+   }
+  },
+  {
+   "note": "While 表对比/让步（非'当……时'），真实的误读点，本批仅 1 例",
+   "example": {
+    "id": "S08041",
+    "src": "选择性必修第三册·Unit 4",
+    "s": "While he was successful in his climb, the mountain was hit by bad weather that day, and eight other climbers— some of his good friends—were killed."
+   }
+  },
+  {
+   "note": "Unlike [A], [B]：句首 Like 类比框架的否定变体，本批仅 1 例",
+   "example": {
+    "id": "S05418",
+    "src": "必修第三册·Unit 5",
+    "s": "Unlike other information, this information is completely safe from people who may want to steal it."
+   }
+  },
+  {
+   "note": "the first time + 小句作时间状语，the minute/way 零关系从句家族的新变体，本批仅 1 例",
+   "example": {
+    "id": "S00982",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "The first time I observed the process of water being split into oxygen and , I was deeply attracted by the charm of chemistry."
+   }
+  },
+  {
+   "note": "最高级 + that + ever 强化（the biggest one that I have ever seen），本批仅 1 例",
+   "example": {
+    "id": "S04585",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "And he was the biggest one that I have ever seen."
+   }
+  },
+  {
+   "note": "In order to [VP] 句首目的状语：本批 2 例（S05568、S07504）但结构透明，判据2（误读）存疑",
+   "example": {
+    "id": "S05568",
+    "src": "必修第二册·Unit 5",
+    "s": "A: In order to avoid complications, I wanted to collect some truthful information."
+   }
+  },
+  {
+   "note": "have (never) been to 表经历：属现在完成时范畴（判据1存疑），查表点在 been/gone 之别；本批 2 例（J05518、J05567）",
+   "example": {
+    "id": "J05567",
+    "src": "初中·英语八年级下册",
+    "s": "I've never been to the water park before."
+   }
+  },
+  {
+   "note": "For example/For instance 句首话语标记：regex 盲区（话语标记框架），本批 2+ 例（J03563、S06179）但过于基础，判据2存疑",
+   "example": {
+    "id": "J03563",
+    "src": "初中·英语八年级上册",
+    "s": "For example, some people say they are poor farmers, but in fact they are just actors."
+   }
+  },
+  {
+   "note": "Would you like to 礼貌邀请框架：本批 2 例（S06428、S08365）但初中低阶已熟练，判据2弱",
+   "example": {
+    "id": "S06428",
+    "src": "选择性必修第三册·Unit 4",
+    "s": "Would you like to join an expedition like this?"
+   }
+  },
+  {
+   "note": "Despite + NP 句首让步介词短语（与 Given 同族），本批仅 1 例",
+   "example": {
+    "id": "S04938",
+    "src": "必修第三册·Unit 4",
+    "s": "Despite the difficulties, scientists hope to make more valuable discoveries that will enable the human race to survive well into the future."
+   }
+  },
+  {
+   "note": "as well as 连接两个谓语动词（use...as well as share），比常见的连接名词罕见，本批仅 1 例",
+   "example": {
+    "id": "S01126",
+    "src": "必修第二册·Unit 4",
+    "s": "They use the same flag, known as the Union Jack, as well as share the same currency and military defence."
+   }
+  },
+  {
+   "note": "Why + 裸动词修辞问句（why not 家族的变体），本批仅 1 例",
+   "example": {
+    "id": "S07660",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "“Why simply imagine things that might happen in space or on an interstellar journey?"
+   }
+  }
+ ]
+}

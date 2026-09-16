@@ -1,0 +1,5851 @@
+[
+ {
+  "frame": "[N] times as [Adj] as [B] / [N] times what [S V]",
+  "gloss": "是B的N倍 / 是（过去）那个数的N倍",
+  "notes": "倍数表达两式：as...as 式与 times+what 名词性从句式，死词 times/as/what 撑骨架。考研读者经典卡点：times what it was 读成『多了3.5倍』或把 what 从句当疑问句。批内两式各见一例，归一族。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-1-0020",
+    "text": "productivity, which he thought would lead to a standard of living “between four and eight times as high as it is today.” But Keynes got that right: Technology has made the economy massively more productive."
+   },
+   {
+    "id": "cet4-cet4-2024-06-1-0035",
+    "text": "For them, output by 2029 is likely to be around 3.5 times what it was when Keynes was writing."
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "A"
+ },
+ {
+  "frame": "be more [A] than [B]（定性取舍）",
+  "gloss": "与其说是B，不如说是A",
+  "notes": "more...than 非程度比较而是性质取舍，than 后项被否定。死词 more/than 固定，槽位填名词短语。误读点：读成『比B更A』的程度义，弄反褒贬。0154 例 than 后 one 回指前项 a behavior，更添一层回指负担。",
+  "related": "not so much [A] as [B]（同功能异形：肯定式取舍 vs 否定式取舍）",
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-1-0081",
+    "text": "Some people have said aging is more a slide into forgetfulness than a journey towards wisdom."
+   },
+   {
+    "id": "cet4-cet4-2024-06-2-0154",
+    "text": "It is a behavior we are born with more than one we learn."
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "A"
+ },
+ {
+  "frame": "[主句比较级] than [be/助动词 + 名词主语]（比较从句倒装）",
+  "gloss": "比……更……（than 后主谓倒装）",
+  "notes": "than 从句主语较长或为对比重量时倒装，be/助动词提到主语前。死词 than+倒装语序固定。误读点：找不到 than 从句的主语，把 were women / were participants 读成新句子或漏掉比较对象。0104 为 OCR 断句残片，框架本身完整。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-2-0106",
+    "text": "They found that participants in a high-power interviewer role were more likely to give abstract descriptions of behaviors than were participants in a low-power interviewee role."
+   },
+   {
+    "id": "cet4-cet4-2024-06-2-0104",
+    "text": "likely to speak in the abstract than were women."
+   },
+   {
+    "id": "cet6-2026-06-02-2962",
+    "text": "By 2030, the goal is to reach 350 million hectares—20% more land than India."
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "A",
+  "aliases": [
+   "[数字] [比较级] [N] than [锚点NP]"
+  ],
+  "levels_seen": [
+   "cet4",
+   "cet6"
+  ],
+  "multi_batch": [
+   1,
+   12
+  ]
+ },
+ {
+  "frame": "if [NP] is anything to go by",
+  "gloss": "从……来看（可见一斑）",
+  "notes": "卡在重复判据：批内仅 1 例（0214）。骨架死（if...is anything to go by 全固定），误读点明确（anything to go by 读不出『据以判断』义），建议跨批复查频率。 【09-21裁决】已编 13章#3（09-18返工）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-3-0214",
+    "text": "E) But some parents object to the new policy if the vigorous debate on the Facebook page of Anderson County school district is anything to go by. “When it snows, let the kids enjoy it.” said one commenter."
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "A"
+ },
+ {
+  "frame": "It pays to [V]",
+  "gloss": "做……是值得的/有好处的",
+  "notes": "卡在重复判据：批内仅 1 例（0191）。pays 非『付钱』义，it 虚主语+不定式真主语，考研读者易在 pays 处停顿。区别于已登记 It takes [sb] [time] to [V]。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-2-0191",
+    "text": "Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care."
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "A"
+ },
+ {
+  "frame": "It's not that [S V]. It's that [S V].",
+  "gloss": "不是……，而是……（分裂式先否后纠）",
+  "notes": "卡在重复判据：批内仅 1 组（0097+0098 两句成对）。与已登记 not [A] but (rather) [B] 同功能但实现为两个独立强调句，口语评注语域，长对话/引语中拦截力强。 【09-21裁决】已编 13章#6（09-18返工）",
+  "related": "not [A] but (rather) [B]（先否后纠）",
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-1-0097",
+    "text": "That’s why brain scientist Richard Kennedy says “It’s not that old dogs can't learn new tricks."
+   },
+   {
+    "id": "cet4-cet4-2024-06-1-0098",
+    "text": "It's that maybe old dogs don't realize why they should."
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "A"
+ },
+ {
+  "frame": "[祈使句], and [S will V]",
+  "gloss": "如果做了……，就会……（条件-结果）",
+  "notes": "卡在重复判据：批内仅 1 例（0064 引语内）。and 非并列而表结果，祈使句实为条件，考研读者按并列读会丢失警告口吻。变体 or/otherwise 表反面结果本批未见。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-1-0064",
+    "text": "Lao Zi once said, “Care about what other people think and you will always be their prisoner.” People-pleasing, or seeking self-worth through others' approval, is unproductive and an exhausting way to go through life."
+   },
+   {
+    "id": "cet6-2017-12_03-0688",
+    "text": "Apple argues that it is fighting to preserve a principle that most of us who are addicted to our smartphones can defend: Weaken a single iPhone so that its contents can be viewed by the American government and you risk weakening all iPhones for any government intruder, anywhere."
+   },
+   {
+    "id": "cet6-2017-12_03-0722",
+    "text": "Three –quarters of the world’s flamingos fly over from other salt lakes in the Rift Valley and nest on salt- crystal islands that appear when the water is at specific level- too high and the birds can’t build their nests, too low and predators can more briskly across the lake bed and attack."
+   },
+   {
+    "id": "cet6-2020-12_03-1496",
+    "text": "Yet take a closer look, and the diploma is the perfect ending to the modem tragedy of education."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1363",
+    "text": "But take a longer view and there is a surprising amount that we can say with considerable assurance."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1370",
+    "text": "Take a broader look at our species' place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2014-1390",
+    "text": "Ask anyone newly unemployed what they want and the answer is always: a job."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2025-2018",
+    "text": "Visit any antiques store and you’ll encounter artifacts from the past: photographs, letters, a brochure detailing the Sinclair dinosaur exhibit from the 1964-1965 World’s Fair, the ephemera of history."
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "A",
+  "aliases": [
+   "[祈使/条件短语], and [结果主句]",
+   "[祈使句], and [主句 will]",
+   "[祈使句], and [主句]"
+  ],
+  "levels_seen": [
+   "cet4",
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   1,
+   5,
+   7,
+   18,
+   20
+  ]
+ },
+ {
+  "frame": "Who says [S V]?",
+  "gloss": "谁说……？（反问反驳：未必如此）",
+  "notes": "卡在重复判据：批内仅 1 例（0138）。修辞问句表反驳，骨架 who says+从句固定，误读点：按字面疑问句找答句。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-2-0138",
+    "text": "Who says instant gratification has to be a bad thing ?"
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "A"
+ },
+ {
+  "frame": "neither/nor + [助动词/be] + [S]（否定呼应倒装）",
+  "gloss": "……也同样不……",
+  "notes": "卡在重复判据+误读判据双重：批内仅 1 例（0056）；neither do I 短式初中已会，但 0056 主语 those shorter working weeks 长且承前省略，倒装处仍可能读慢。建议跨批复查。 【09-21裁决】考研篇#10「Nor+助动词」已登记族变体，级联去重",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2024-06-1-0056",
+    "text": "And, as a result, neither are those shorter working weeks."
+   }
+  ],
+  "level": "cet4",
+  "batch": 1,
+  "status": "skip"
+ },
+ {
+  "frame": "[A] be (also/now) linked to/with [B]",
+  "gloss": "A 被认为与 B 存在关联（多指健康风险的统计关联）。",
+  "notes": "健康/科普报道的高频被动框架：has/have been linked to + 结果（风险、收益、结论）。学习者易按主动义『连接』理解而丢失被动统计含义，也易忽略 linked to 与 linked with 可互换。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-2-0349",
+    "text": "Fruit juice also has been linked to claims that it can help you both lose weight and stay healthy."
+   },
+   {
+    "id": "cet4-cet4-2025-06-2-0360",
+    "text": "Diets high in fibre have been linked to a lower risk of developing heart disease, stroke, high blood pressure and diabetes, and it’s recommended adults consume 30g per day."
+   },
+   {
+    "id": "cet4-cet4-2025-06-3-0489",
+    "text": "Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, l ower average blood sugar, and lower cholesterol levels."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "[A方 did X], while [B方] would have (preferred/liked) [Y]",
+  "gloss": "A 方（事实）如何如何，而我本会更想要 Y——隐含对过去的虚拟对比。",
+  "notes": "while 连接对比双方，后接 would have + 过去分词，虚拟条件（如果我可以选择）隐含在上下文，全句无 if。学习者易把 would have preferred 读成一般过去『当时更喜欢』，丢失反事实义。",
+  "related": "Whereas/while 对比从句（前置/句尾）",
+  "examples": [
+   {
+    "id": "cet4-cet4-2022-06-0505",
+    "text": "They favored a more rigid, closed-door, corporate atmosphere, while I would have preferred something more collaborative and open."
+   },
+   {
+    "id": "cet4-cet4-2022-06-0506",
+    "text": "They were complete clock watchers, while I would have liked a more flexible schedule."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "what it’s (really) like (to [V])",
+  "gloss": "……（实际）是什么样子/什么感受。",
+  "notes": "what 引导的名词性从句：what + 形式主语 it + 介词 like（『像什么样』）。like 是介词不是动词，学习者易误读为『喜欢』；常出现在 ask/reveal/tell about 之后，问询或揭示真实体验。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2022-06-0534",
+    "text": "So yes, you can definitely ask your interviewer about what it's like to work for that particular organization."
+   },
+   {
+    "id": "cet4-cet4-2022-06-0535",
+    "text": "Simple questions like, “What three words would you use to describe the culture here?” or “What's your favorite part about working for this company?can reveal a lot about what it's really like behind closed doors."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "What’s something you [V], but [V/系表]?",
+  "gloss": "你有什么……？（自省式设问，but 后常省略宾语）",
+  "notes": "what 作主语的口语化反思问句：What’s something you + 定语从句，后接 but 时从句宾语常省略（aren’t good at = aren’t good at it；gave up = gave it up）。学习者易因成分省略而读断句或找不到 at 的宾语。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-1-0336",
+    "text": "Think about it: what’s something you ’ve always wanted to do, but gave up because you “don’t have the skills for it”?"
+   },
+   {
+    "id": "cet4-cet4-2025-06-1-0337",
+    "text": "What’s something you love but aren’t good at?"
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "There’s [a need/potential] for [N] to be [V-ed]",
+  "gloss": "存在让……被……的必要/可能。",
+  "notes": "there be + 名词 + for + NP + 被动不定式：to be V-ed 是被动关系的非谓语，中国学习者常漏掉被动或误读为主动；need/potential 槽决定语义方向（必要性 vs 可能性）。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2022-06-0580",
+    "text": "When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public."
+   },
+   {
+    "id": "cet4-cet4-2022-06-0589",
+    "text": "With the validity of science coming under attack, there's a need for scientific debates to be perceived as open and true to life."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "just because [S V] doesn’t mean [S V]",
+  "gloss": "仅仅因为……并不代表……。",
+  "notes": "just because 从句做主语的整体用法（because 从句名词化），主句用 doesn’t mean。本批仅 1 例，但价值高：学习者易把 just because 当原因状语、找不到主句主语。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-3-0490",
+    "text": "However, just because it ’s plant-based doesn’t mean i t’s health food."
+   },
+   {
+    "id": "cet6-2024-06_03-2344",
+    "text": "Just because you might have temporarily strayed off course doesn’t mean you can’t start afresh the next day."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A",
+  "aliases": [
+   "Just because [S V] doesn't mean [S V]"
+  ],
+  "levels_seen": [
+   "cet4",
+   "cet6"
+  ]
+ },
+ {
+  "frame": "[A] be different from [B] in that [S V]",
+  "gloss": "A 与 B 的不同之处在于……（in that = 因为/在于）。",
+  "notes": "in that 引导的限定从句表『差异所在/原因』，是书面正式语域的固定搭配。本批仅 1 例；学习者常把 in that 误拆为介词短语。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-2-0376",
+    "text": "Fruit juice is different from whole fruit in that it contains much less fibre."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "[S] would otherwise (not) [V]",
+  "gloss": "若不是如此，……本会（无法）……（隐含虚拟）。",
+  "notes": "otherwise 承担虚拟条件（= if it were not for the present case），would otherwise 后接动词原形或 not be able to。本批仅 1 例；学习者易把 otherwise 只当『否则』读而丢掉虚拟义。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2022-06-0571",
+    "text": "Offering online classes certainly helps students who would otherwise not be able to attend classroom sessions."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "It should come as no surprise (to [sb]) that [S V]",
+  "gloss": "……不足为奇/完全在意料之中。",
+  "notes": "it 外置主语 + come as no surprise 固定搭配 + that 从句。本批仅 1 例；学习者易读慢 it 的归属和 come as 的搭配。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-2-0414",
+    "text": "So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "there are few [N] that are more [A] (than [B])",
+  "gloss": "几乎没有什么比……更……（隐性最高级的低调陈述）。",
+  "notes": "few + 比较级的反说式最高级：『很少有更……的』≈ 『几乎是最……的』。本批仅 1 例；学习者易按字面读成否定句。 【09-21裁决】已编 13章#5（09-18返工）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-2-0413",
+    "text": "Fans of classical music can also tell you that there are few types of music that are more expressive."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "Now comes the part/time when [S V]",
+  "gloss": "现在到了……的环节/时候。",
+  "notes": "叙事推进句：Now comes + 单数名词 + when 定语从句，主谓倒装（comes 在主语前）。本批仅 1 例；学习者易把倒装读成疑问或断错主语。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2022-06-0519",
+    "text": "Now comes the part when you put on your detective hat and do a little digging."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "You know that [N] when [S V]?",
+  "gloss": "你知道那种……的时候吗？（唤起共同经验的口语设问）",
+  "notes": "口语框架：You know that + 场景名词 + when 定语从句（关系副词 when 修饰 part/time 类名词），句末问号但功能是共鸣而非真提问。本批仅 1 例。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2022-06-0532",
+    "text": "You know that part at the end of a job interview when the hiring manager asks if you have any questions, and you just stare across the table blankly with your mouth hanging open?"
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "be as much of a [A] as a [B]",
+  "gloss": "既是 B 同样也是 A（好坏并置的持平评价）。",
+  "notes": "as much of a + 名词 + as + 名词：『与……一样程度上是……』，常用于 curse/blessing 等对立词并置，表利弊各半。本批仅 1 例。 【09-21裁决】已编 13章（09-21补编）",
+  "related": "[V] [A] as much as [B]（程度比较）",
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-3-0464",
+    "text": "Outer beauty can be as much of a curse as a blessing."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "It takes [time] for [S] to [V]",
+  "gloss": "（某事发生/被完成）需要多长时间。",
+  "notes": "It takes + 时间 + for + 逻辑主语 + to do：与已登记的『It takes sb time to V』不同，这里时间后直接接 for 引出对象，对象可为被动（for cells to be digested）。本批干净例句仅 1 例（另一例为两种结构混用）。 【09-21裁决】初中级核心+已登记 It takes sb time 变体，掠过",
+  "related": "It takes [sb] [time] to [V]",
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-2-0381",
+    "text": "It takes some time for fruit’s cells to be digested and for fructose to be absorbed."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "skip"
+ },
+ {
+  "frame": "There’s a reason [S V]",
+  "gloss": "……是有原因的（为零连词定语从句）。",
+  "notes": "reason 后省略 why/that 的定语从句：There’s a reason (why) S V。本批仅 1 例；学习者易在 reason 后找不到连词而读断。 【09-21裁决】已编 13章（09-21补编）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-2-0392",
+    "text": "There’s a reason tailored jackets are associated with being “dressed for success”."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "A"
+ },
+ {
+  "frame": "With the rise of [X], [主句]",
+  "gloss": "随着 X 的兴起，……。",
+  "notes": "with the rise of + 名词做句首伴随状语引出历史变迁，主句多为『旧事物衰落/新格局出现』。本批仅 1 例。 【09-21裁决】with 组合（判例库：组合不整收），掠过",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet4-cet4-2025-06-2-0406",
+    "text": "With the rise of pop music, jazz, and electronic music, both opera and classical music started to fade away from the public eye."
+   }
+  ],
+  "level": "cet4",
+  "batch": 2,
+  "status": "skip"
+ },
+ {
+  "frame": "There’s (solid/no) evidence that [S V]",
+  "gloss": "有确凿证据/毫无证据表明……。",
+  "notes": "solid/no 反义槽，证据宣告框。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-06_01-0063",
+    "text": "So what you need to know is that there’s no evidence whatsoever to back these claims."
+   },
+   {
+    "id": "cet6-2016-06_03-0173",
+    "text": "There’s solid evidence that there are huge differences in the effectiveness of teachers."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A"
+ },
+ {
+  "frame": "Get [a N], and it’s (the same) as if [S V]",
+  "gloss": "假设碰上 X，效果就如同……（条件祈使+类比）。",
+  "notes": "祈使+and 表条件；as if 类比结果。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-06_03-0175",
+    "text": "Get a bottom 1% teacher, and the effect is the same as if a child misses 40% of the school year."
+   },
+   {
+    "id": "cet6-2016-06_03-0176",
+    "text": "Get a teacher from the top 20%, and it’s as if a child has gone to school for an extra month or two."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2017-0040",
+    "text": "The same curiosity to find what lies beyond the horizon that first brought early Polynesians to Hawaii's shores inspires astronomers today to explore the heavens."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "B",
+  "aliases": [
+   "The same [N] to [V] that [S V] [V] [O]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   3,
+   14
+  ],
+  "verdict_note": "口语祈使+类比，组合"
+ },
+ {
+  "frame": "[V] more like [A] than [B]",
+  "gloss": "更像 A 而不是 B（感受/类比对比）。",
+  "notes": "more like 连读整体，勿拆 more+like。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-06_03-0132",
+    "text": "If you are at of impersonal and intimidating globalization, a young person’s family feels more like a friendly haven than an oppressive trap."
+   },
+   {
+    "id": "cet6-2016-06_03-0133",
+    "text": "And perhaps parents are acting more like parents than in the recent past."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A"
+ },
+ {
+  "frame": "[A] or, [评注副词], [B]（or 后插评注）",
+  "gloss": "……，或者，更（重要/传神）地说，……。",
+  "notes": "or 后逗号夹评注副词，易读断并列。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_01-0201",
+    "text": "Yet the persistent question of \" Why do I need that?\"--or, perhaps more tellingly, \"Why do you need to know that?\"--dogs the steps of many new ventures."
+   },
+   {
+    "id": "cet6-2016-12_01-0226",
+    "text": "There is also very little detail on who will provide the funds or, importantly, who is responsible for their provision."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A"
+ },
+ {
+  "frame": "have little choice but to [V]",
+  "gloss": "别无选择只能……。",
+  "notes": "but to 表『除了』，易误读转折。；【09-21裁决】降短语档（but=除了，短语级误读点）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_02-0282",
+    "text": "School-leavers may moan, but they have little choice but to embrace university and the student debt that comes with it."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "B"
+ },
+ {
+  "frame": "Otherwise, [S] would [V]",
+  "gloss": "否则/若不如此，就会……（隐含虚拟）。",
+  "notes": "otherwise 承担虚拟条件接 would。；【09-21裁决】已编族：四级篇 would otherwise",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_03-0293",
+    "text": "Otherwise, it would be unable to grow from a seedling."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "skip"
+ },
+ {
+  "frame": "It is important that [S] be [V-ed]",
+  "gloss": "重要的是……被……（原形虚拟）。",
+  "notes": "that 从句用原形 be，易误当错句。；【09-21裁决】并入 ##46（It is [V-ed] that 虚拟原形族）",
+  "related": "It is [Adj] that [S]",
+  "examples": [
+   {
+    "id": "cet6-2016-12_01-0190",
+    "text": "It is important that scientists be seen as normal people asking and answering important questions."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A"
+ },
+ {
+  "frame": "less a [A] than a [B]",
+  "gloss": "与其说是 A，不如说是 B。",
+  "notes": "not so much A as B 的 less 版。；【09-21裁决】已编族：01 章比较 not so much [A] as [B]",
+  "related": "not so much [A] as [B]",
+  "examples": [
+   {
+    "id": "cet6-2016-06_03-0164",
+    "text": "America’s education system has become less a ladder of opportunity than a structure to transmit inequality from one generation to the next."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "skip"
+ },
+ {
+  "frame": "It (still) pays to [V]",
+  "gloss": "做……是划算/有回报的。",
+  "notes": "pay 此处为『有回报』非付钱。；【09-21裁决】已编族：四级篇 It pays to",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_02-0274",
+    "text": "Yet it still pays to go to university."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "skip"
+ },
+ {
+  "frame": "Whatever [your N], [主句]",
+  "gloss": "无论你……，……（无动词 whatever）。",
+  "notes": "whatever 后无动词直连主句。",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_02-0280",
+    "text": "Whatever your talents, it is extraordinarily difficult to get a leading job in most fields without having been to university."
+   },
+   {
+    "id": "cet6-2023-12_02-2157",
+    "text": "Whatever it is, you cannot but recognize the effect competition is exerting in academics and many other areas of contemporary life."
+   },
+   {
+    "id": "cet6-2024-06_03-2351",
+    "text": "Whatever your reward, it has to be more than just the activity itself to get you going."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2007-0933",
+    "text": "In other words, whatever inborn differences two people may exhibit in their abilities to memorize, those differences are swamped by how well each person \"encodes\" the information."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A",
+  "aliases": [
+   "Whatever [NP] [S may V], [主句]",
+   "Whatever [it is / NP], [主句]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   3,
+   10,
+   17
+  ]
+ },
+ {
+  "frame": "In cases where [S V], [主句]",
+  "gloss": "在……的情形下，……（正式条件框）。",
+  "notes": "cases where=在……情况下，书面语。；【09-21裁决】语法层：正式条件框读不错",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-06_02-0104",
+    "text": "In cases where sewage mud is used, expensive chemical fertilizer use can be avoided."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "skip"
+ },
+ {
+  "frame": "There has never been a time when [S V]",
+  "gloss": "从未有过……的时候（否定式最高级）。",
+  "notes": "never a time when 反说峰值。；【09-21裁决】入章 ##27（否定式最高级·历史纵深）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-06_03-0137",
+    "text": "In fact, other recent studies have found there has never been a time in American history when so small a proportion of young people have sought or accepted leadership roles in local civic organizations."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A"
+ },
+ {
+  "frame": "so [Adj] a [N]",
+  "gloss": "如此……的一个……（倒装形容词序）。",
+  "notes": "so+形+a+名倒序，易误写成 a so 形 n。；【09-21裁决】语法层：倒装形容词序",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-06_03-0137",
+    "text": "In fact, other recent studies have found there has never been a time in American history when so small a proportion of young people have sought or accepted leadership roles in local civic organizations."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "skip"
+ },
+ {
+  "frame": "It’s simply not true that [S V]",
+  "gloss": "……根本不是事实（直斥驳论）。",
+  "notes": "simply 强化驳斥，非让步语气。；【09-21裁决】入章 ##20（直斥驳论重锤）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-06_01-0028",
+    "text": "It’s simply not true that economic growth will surely make our world cleaner. [M] Clearly, richer societies are able to provide environmental improvements which lie well beyond the reach of poorer communities."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A"
+ },
+ {
+  "frame": "[We] aren’t [V-ing] from [A]; we’re [V-ing] from [B]",
+  "gloss": "我们受苦不是因为 A，而是因为 B（先否后立并行）。",
+  "notes": "分号重复谓语，否立并行结构。；【09-21裁决】并入 ##21（先否后立分号重复动词版变体）",
+  "related": "not [A] but (rather) [B]",
+  "examples": [
+   {
+    "id": "cet6-2016-06_01-0064",
+    "text": "We aren’t suffering from a shortage of needed skills; we’re suffering from a lack of policy resolve."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A"
+ },
+ {
+  "frame": "As if that were not enough, [主句]",
+  "gloss": "仿佛这还不够似的，……（负面递进加码）。",
+  "notes": "固定让步递进导入，were 用虚拟。；【09-21裁决】入章 ##43（负面递进加码）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_02-0261",
+    "text": "As if that were not enough. a Brazilian C-130 Hercules military transport plane has remained stranded near the runway of Chile’s air base here since it crash-landed in 2014."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "A"
+ },
+ {
+  "frame": "When [S V]—and they do sometimes—[主句]",
+  "gloss": "当……时——而他们确实时有——……。",
+  "notes": "and they do 中插助动词强调。；【09-21裁决】个案修辞（插入回声），难迁移",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_03-0297",
+    "text": "When the birds forget to retrieve their food---and they do sometimes—a seedling has a chance to grow."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "skip"
+ },
+ {
+  "frame": "This isn’t a battle between [A] and [B]",
+  "gloss": "这不是 A 与 B 之争（否定重定义）。",
+  "notes": "否定常识框架再重定义。；【09-21裁决】个案（否定重定义，语料仅 1 例）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-06_03-0182",
+    "text": "This isn’t a battle between garment workers and greedy bosses."
+   }
+  ],
+  "level": "cet6",
+  "batch": 3,
+  "status": "skip"
+ },
+ {
+  "frame": "[统计/陈述], compared with [对比数据/群体]（句尾后置对照）",
+  "gloss": "先给一组数字或断言，再后置 compared with 引出对照组数据，形成'甲 vs 乙'的统计对照",
+  "notes": "已登记的是句首版 'Compared to/with [A], [主句]'；本变体把 compared with 挂在句尾，学习者常把它误析为主句谓语的一部分（尤其前面 say/are 已出现限定动词时），需识别它是无动词的补充状语。本批出现 5 次（0498/0500/0503/0509/0343）",
+  "related": "Compared to/with [A] / Unlike [A], [主句]（已登记句首版；此为句尾后置统计对照新变体）",
+  "examples": [
+   {
+    "id": "cet6-2017-06_03-0500",
+    "text": "71% of parents with a college degree say they do it every day, compared with 33% of those with a high school diploma or less."
+   },
+   {
+    "id": "cet6-2017-06_03-0503",
+    "text": "Discipline techniques vary by education level: 8% of those with a postgraduate degree say they often beat their children, compared with 22% of those with a high school degree or less."
+   },
+   {
+    "id": "cet6-2017-06_03-0509",
+    "text": "While bullying is parents' greatest concern over all, nearly half of low-income parents worry their child will get shot, compared with one-fifth of high-income parents."
+   },
+   {
+    "id": "cet6-2026-06-01-2911",
+    "text": "About half of affected girls suffered disrupted sleep, compared with 20% of depressed boys."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A",
+  "aliases": [
+   "[数据A] [V], compared with [数据B]"
+  ],
+  "levels_seen": [
+   "cet6"
+  ],
+  "multi_batch": [
+   4,
+   12
+  ]
+ },
+ {
+  "frame": "Of [限定群体], [X%/those who] [V]（of 前置分母）",
+  "gloss": "句首 Of 短语先限定'分母'人群，逗号后主句给出该人群中的百分比或 those who 子集的行为",
+  "notes": "分母被前移到句首，主句主语只剩百分比或 those 指代；学习者易把 Of 短语误当作后面动词的宾语或漏掉它对百分比的限定范围。本批出现 4 次（0319/0495/0496/0505，其中 0505 百分比数字被 OCR 吞掉但仍可辨骨架）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_03-0319",
+    "text": "Of the 300 employees participating in the study, those who experienced high levels of telepressure were more likely to agree with statements assessing burnout, like “I’ve no energy for going to work in the morning,” and to report feeling fatigued and unfocused."
+   },
+   {
+    "id": "cet6-2017-06_03-0495",
+    "text": "Of families earning more than $75,000 a year, 84% say their children have participated in organized sports over the past year, 64% have done volunteer work and 62% have taken lessons in music, dance or art."
+   },
+   {
+    "id": "cet6-2017-06_03-0496",
+    "text": "Of families earning less than $30,000, 59% of children have done sports, 37% have volunteered and 41% have taken arts classes."
+   },
+   {
+    "id": "cet6-2023-12_03-2237",
+    "text": "Of around 650 spider species regularly recorded in the UK, the majority thrive in marshes and wasteland."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A",
+  "aliases": [
+   "Of [整体NP], [the majority/部分] [V]"
+  ],
+  "levels_seen": [
+   "cet6"
+  ],
+  "multi_batch": [
+   4,
+   10
+  ]
+ },
+ {
+  "frame": "[A] failure to [V], (插入语), [谓语 + 宾语]（名词化主语）",
+  "gloss": "failure to do 整体名词化作主语，谓语（indicates/exposes 等）在其后，中间可再插入 however 或长修饰",
+  "notes": "名词化 failure to + 动词原形占据主语位，真正谓语被推后；0388 中 however 插在主谓之间、且 to 的宾语被副词隔开（address comprehensively the problem），是典型读慢点：学习者易把 failure/expose 错配为主谓。本批 2 次（0322/0388）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_03-0322",
+    "text": "And because a failure to accept these increased demands indicates a lack of commitment to one’s work, the employee complies. [K] To address skyrocketing employee stress levels, many companies have implemented workplace wellness programs, partnering with health care providers that have created programs to promote employee health and well- being."
+   },
+   {
+    "id": "cet6-2017-06_01-0388",
+    "text": "Failure to address compre hensively the problem of greenhouse gas emissions, however, exposes all generations, present and future, to incalcul able risks."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A"
+ },
+ {
+  "frame": "[A of X] … than/other than that of [B]（that 回指对照）",
+  "gloss": "that of B 回指前文同类名词，形成'A 的标准/款式'与'B 的'之间的对照",
+  "notes": "that 指代上位名词（standard/sportswear），再接 of 短语；other than that of pure beauty 中双重虚词叠加（other than + that of），回指链需要回跳到主语名词，是真实读慢点。本批 2 次（0445/0452）",
+  "related": "[A组] than those who did(n't)（对照回指）——同一'替代词回指对照'家族，that of 回指物、those who 回指人",
+  "examples": [
+   {
+    "id": "cet6-2017-06_02-0445",
+    "text": "Designer sportswear was not modeled on that of Europe, as “modem art” would later be; it was genuinely invented and developed in America."
+   },
+   {
+    "id": "cet6-2017-06_02-0452",
+    "text": "Designer sportswear would have to be verified by a standard other than that of pure beauty; the emulation of a designer’s life in designer sportswear was a crude version of this relationship."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A"
+ },
+ {
+  "frame": "[X]—[插入语]—[续写]（双破折号插入打断）",
+  "gloss": "双破折号把插入语（同位语、if any、来源评注）塞进句子中间，被隔开的前后两段必须跨过插入语接续成句",
+  "notes": "标点对骨架：插入语可打在主谓之间（0407 sharers—…—get noticed）、并列名词与 and 之间（0514 households—…—and）或 wh-词与名词之间（0354 which—if any—battery technology）。读慢点在恢复被隔断的主谓/修饰线；本批 3 次（0354/0407/0514），另有尾随单破折号展开（见 candidates）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_03-0354",
+    "text": "No one knows which---if any---battery technology will ultimately dominate, but one thing remains clear."
+   },
+   {
+    "id": "cet6-2017-06_01-0407",
+    "text": "The most successful sharers—those whose data are downloaded and cite d the most often---get noticed, and their work gets used."
+   },
+   {
+    "id": "cet6-2017-06_03-0514",
+    "text": "More than a quarter of children live in single-parent households—a historic high, according to Pew—and these children are three times as likely to live in poverty as those who live with married parents."
+   },
+   {
+    "id": "cet6-2017-12_01-0579",
+    "text": "Aristotle and Socrates debated the nature of “akrasia”--our tendency to do things against our interests."
+   },
+   {
+    "id": "cet6-2017-12_01-0569",
+    "text": "Our phones are like cigarettes-something to do when we’re anxious, bored or when our fingers need something to toy with Seeing others enjoy a smoke, or sneak a quick glance, is too tempting to resist and soon everyone is doing it."
+   },
+   {
+    "id": "cet6-2026-06-02-3030",
+    "text": "The convenience of communication—when they need a ride home from school after practice, for instance—often feels like it isn't worth the battle to keep their screen time low and productive, and continue to encourage \"real-life\" activities outside and with friends and family."
+   },
+   {
+    "id": "cet6-2026-06-03-3080",
+    "text": "On Wednesday, Lifesavers—a new project which promotes financial education in primary schools—is hosting a conference to encourage teachers to join its programme and get free classroom resources and training."
+   },
+   {
+    "id": "cet6-cet6-2018-06-3153",
+    "text": "But thinking about or remembering descriptions in terms of their social meaning acti vated the dorsomedial prefrontal cortex—part of the brain‘s social network—even as traditional memory regions registered low levels of activity."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A",
+  "aliases": [
+   "[NP]—[同位语解释]（尾随单破折号展开）",
+   "[主句], (—) a [评注N] [that/V-ed/of N]",
+   "[主语]—[同位语/评注/举例]—[谓语]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   4,
+   13,
+   16
+  ]
+ },
+ {
+  "frame": "[主句], including [A, B and C]（回指列举）",
+  "gloss": "including 引导的清单回指前文的复数名词或整个事件",
+  "notes": "【09-21裁决】语法层：including 列举读不错",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_03-0320",
+    "text": "Telepressure was also correlated with sleeping poorly and missing work. [J] Harvard Business School professor Leslie Perlow explains that when people feel the pressure to be always “on,” they find ways to accommodate that pressure, including altering their schedules, work habits and interactions with family and friends."
+   },
+   {
+    "id": "cet6-2017-06_01-0406",
+    "text": "Researchers who share get plenty of personal benefits, including more connections with colleagues, i mproved visibility and increased citations."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "skip"
+ },
+ {
+  "frame": "[主句], in part because [S V]",
+  "gloss": "原因从句被 in part 限定为'部分原因'",
+  "notes": "【09-21裁决】降短语档（in part 限定归因）",
+  "related": "not least because / not least of which（已登记，同族限定归因）",
+  "examples": [
+   {
+    "id": "cet6-2017-06_01-0402",
+    "text": "But the barriers are disappearing, in part because journals and funding agencies worldwide are encouraging scie ntists to make their data public."
+   },
+   {
+    "id": "cet6-2017-06_03-0494",
+    "text": "No, I really doubt it.\" I) Social scientists say the differences arise in part because low-income parents have less money to spend on music class or preschool, and less flexible schedules to take children to museums or attend school events."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "B"
+ },
+ {
+  "frame": "[N] times as likely to [V] as [B]（倍数概率对照）",
+  "gloss": "三倍/几倍的可能性对比",
+  "notes": "【09-21裁决】语法层：倍数表达（四级篇同族 times what 已裁砍）",
+  "related": "be (more / less) likely to [V]（已登记）",
+  "examples": [
+   {
+    "id": "cet6-2017-06_03-0514",
+    "text": "More than a quarter of children live in single-parent households—a historic high, according to Pew—and these children are three times as likely to live in poverty as those who live with married parents."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "skip"
+ },
+ {
+  "frame": "In a [world/era] where/when",
+  "gloss": "'在……的时代/当口'背景框，when 从句修饰 time",
+  "notes": "",
+  "related": "[时间NP] when [S V]（when 关系从句，已登记）",
+  "examples": [
+   {
+    "id": "cet6-2017-06_01-0416",
+    "text": "At a time when young beauty shoppers are often turning to Sephora or Ulta instead of department store beauty co unters, Macy's hopes Bluemercury will help strengthen its position in the category."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0482",
+    "text": "In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1604",
+    "text": "The infrastructure required to make a physical newspaper - printing presses, delivery trucks - isn't just expensive; it's excessive at a time when online-only competitors don't have the same set of financial constraints."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2020-1697",
+    "text": "Scientific publishers routinely report profit margins approaching 40% on their operations at a time when the rest of the publishing industry is in an existential crisis."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A",
+  "aliases": [
+   "at a time when [S V]",
+   "at a time when [S V], [主句]",
+   "At a time when [S V], [主句]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   4,
+   15,
+   19
+  ]
+ },
+ {
+  "frame": "Thus was born [NP], [同位语 which/that 展开]",
+  "gloss": "thus 引发的完全倒装叙事：'于是……应运而生'",
+  "notes": "【09-21裁决】入章 ##50（thus 倒装叙事）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-06_03-0541",
+    "text": "Thus was born the idea of the Grand Tour, a practice which introduced Englishmen, Germans, Scandinavians, and also Americans to the art and culture of France and Italy for the next 300 years."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A"
+ },
+ {
+  "frame": "there’s still such a thing as [N]（肯定式变体）",
+  "gloss": "'……这种事仍然存在'——已登记否定式的肯定+still 变体",
+  "notes": "【09-21裁决】已编族：四级篇 There's no such thing as",
+  "related": "there’s no such thing as [N]（已登记）",
+  "examples": [
+   {
+    "id": "cet6-2017-06_03-0476",
+    "text": "At any __35__, there's still such a thing as too much information."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "skip"
+ },
+ {
+  "frame": "You may have heard that [S V]",
+  "gloss": "情态+完成体的'你可能听说过'引入旧知",
+  "notes": "【09-21裁决】入章 ##38（引旧知设靶）",
+  "related": "You hear that [S V]（立靶-引语版，已登记）",
+  "examples": [
+   {
+    "id": "cet6-2017-12_01-0597",
+    "text": "You may have heard that Coca-Cola once contained an ingredient capable of sparking particular devotion in consumers: cocaine."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A"
+ },
+ {
+  "frame": "[V] when, where and how [S V]（wh 词并列宾语）",
+  "gloss": "when/where/how 三连作 determine/know 类动词的宾语从句（陈述语序）",
+  "notes": "【09-21裁决】语法层：wh 并列宾语读不错",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2016-12_03-0326",
+    "text": "The ROWE participants were allowed to freely determine when, where and how they worked---the only thing that mattered was that they got the job done."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "skip"
+ },
+ {
+  "frame": "[A] are more likely to [V]…, as are [B]（as 倒装回指）",
+  "gloss": "as + be 倒装把前句谓语整个套到另一主语上",
+  "notes": "【09-21裁决】并入 ##57（倒装回指族首例）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-06_03-0501",
+    "text": "White parents are more likely than others to read to their children daily, as are married parents."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A"
+ },
+ {
+  "frame": "Part of [X] is [A]; part of [X] is [B]（拆分归因）",
+  "gloss": "把一个现象拆成两部分分别归因",
+  "notes": "【09-21裁决】个案排比",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-06_02-0424",
+    "text": "Part of it is communication; part of it is transportation.” [J] It’s no secret in the advanced-math community that diversity is a problem."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "skip"
+ },
+ {
+  "frame": "many [V-ed] to [A], some to [B], and a very few [N] to [C]（动词省略排比）",
+  "gloss": "动词只出现一次，后续分项承前省略，只留 to 短语",
+  "notes": "【09-21裁决】修辞省略个案，难迁移",
+  "related": "Some [A], (and) others [B]（已登记，但无动词省略）",
+  "examples": [
+   {
+    "id": "cet6-2017-06_03-0546",
+    "text": "London was a frequent starting point for Grand Tourists, and Paris a compulsory destination; many traveled to the Netherlands, some to Switzerland and Germany, and a very few adventurers to Spain, Greece, or Turkey."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "skip"
+ },
+ {
+  "frame": "The problem isn’t [A], but that [S V]（名词与 that 从句不对称并列）",
+  "gloss": "先否定一个名词性归因，再用 that 从句给出真正原因——表语位置上名词与从句混搭",
+  "notes": "【09-21裁决】入章 ##21（先否后立归因纠偏）",
+  "related": "not [A] but (rather) [B]（先否后纠，已登记；此为其 that 从句变体）",
+  "examples": [
+   {
+    "id": "cet6-2016-12_03-0316",
+    "text": "The problem isn’t the technology itself, but that the technology is being used to create more flexibility for the employer rather than the employee."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A"
+ },
+ {
+  "frame": "Even as [S V], [主句]",
+  "gloss": "'即便在……的同时'——让步性时间对照",
+  "notes": "【09-21裁决】入章 ##42（让步性时间对照）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-06_03-0517",
+    "text": "In the past decade, even as income inequality has grown, some of the socioeconomic differences in parenting, like reading to children and going to libraries, have narrowed."
+   },
+   {
+    "id": "cet6-cet6-2018-06-3153",
+    "text": "But thinking about or remembering descriptions in terms of their social meaning acti vated the dorsomedial prefrontal cortex—part of the brain‘s social network—even as traditional memory regions registered low levels of activity."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2019-0585",
+    "text": "Even as we humans count on forests to soak up a good share of the carbon dioxide we produce, we are threatening their ability to do so."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2026-2048",
+    "text": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year."
+   }
+  ],
+  "level": "cet6",
+  "batch": 4,
+  "status": "A",
+  "aliases": [
+   "Even as [S V], [主句]",
+   "even as [S V]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ]
+ },
+ {
+  "frame": "[S1], but not [S2], [谓语]",
+  "gloss": "插入式对比排除：谓语只适用 S1，不适用 S2",
+  "notes": "but not…是插入语，谓语数与含义只挂 S1",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_01-0752",
+    "text": "In contrast, adults behaved in similar ways regardless of whether they were on their own or observed by others. “The presence of peers makes adolescents and youth, but not adults, more likely to take risks,” Steinberg and Gardner concluded."
+   },
+   {
+    "id": "cet6-2018-06_01-0755",
+    "text": "The brains of teenagers, but not adults, showed greater activity in two regions associated with rewards when they were being observed by same-age peers than when alone."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "B",
+  "verdict_note": "but not 插入，初中可解"
+ },
+ {
+  "frame": "[V] just how [Adj/Adv] [S V]",
+  "gloss": "动词后接 just how 引导的感叹式程度从句作宾语，just 加强程度",
+  "notes": "非疑问句；表程度之深，常被读慢",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_02-0667",
+    "text": "Our world now moves so fast that we seldom stop to see just how far we have come in just a few years."
+   },
+   {
+    "id": "cet6-2017-12_03-0728",
+    "text": "It is the season for some frantic last-minute math across the country, employees of all stripe are counting backward in an attempt to figure out just how much paid time-off they have left it their reserves."
+   },
+   {
+    "id": "cet6-2017-12_03-0733",
+    "text": "In a series of several experiments, the researchers illustrated just how much we’ve come to admire busyness, or at least was over-worked and over –scheduled; when asked to determine which of the two had a higher social status, the majority of the participants said the latter."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "[S] (do) not necessarily [V/A]",
+  "gloss": "未必、不一定（部分否定的缓和限定）",
+  "notes": "不等于全盘否定；经典误读为“一定不”",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_03-0862",
+    "text": "Maybe. “I do think there are advantages to schools with more recognition,” notes Marybeth Gasman, a professor of higher education at the University of Pennsylvania. “I don’t necessarily think that’s a reason to go to one.” [C]."
+   },
+   {
+    "id": "cet6-2018-06_03-0888",
+    "text": "In fact, lower-tier school alumni networks are arguably stronger, because fellow alumni recognize that you didn’t necessarily have an easy path to follow."
+   },
+   {
+    "id": "cet6-2018-06_03-0893",
+    "text": "Big name schools are not necessarily the best places for professors; plus, many professors split teaching time between multiple colleges and/or universities."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "[S] came/have come to [V]",
+  "gloss": "逐渐进入某认知或状态（come to 渐变助动用法）",
+  "notes": "非字面“来”，读作“逐渐开始”",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_03-0733",
+    "text": "In a series of several experiments, the researchers illustrated just how much we’ve come to admire busyness, or at least was over-worked and over –scheduled; when asked to determine which of the two had a higher social status, the majority of the participants said the latter."
+   },
+   {
+    "id": "cet6-2018-06_01-0753",
+    "text": "As he and other researchers examined the question of why teens were more apt to take risks in the company of other teenagers, they came to suspect that a crowd‘s influence need not always be negative."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "B",
+  "verdict_note": "come to 渐变，语义弱"
+ },
+ {
+  "frame": "the way [S V]",
+  "gloss": "the way 后直接跟从句作定语，相当于 how/in which",
+  "notes": "way 本身兼关系词，省略 in which",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_03-0734",
+    "text": "In part, the authors wrote in HBR, this pattern may have to do with the way work itself has changed over the past several decades."
+   },
+   {
+    "id": "cet6-2018-06_01-0758",
+    "text": "In his latest experiment, published online in August, Steinberg and his colleagues used a computerized version of a card game called the Iowa Gambling Task to investigate how the presence of peers affects the way young people gather and apply information."
+   },
+   {
+    "id": "cet6-2019-12_03-1311",
+    "text": "Maple Hill signs a contract pledging to buy the farmer's milk at a guaranteed base price, plus quality premiums and incentives for higher protein, butter-fat and other solids. [ G ] While Maple Hill's conversion program is unusually hands-on and comprehensive, it's just one of a growing number of businesses committed to slowly changing the way America farms."
+   },
+   {
+    "id": "cet6-2020-12_02-1436",
+    "text": "Yet there are real reasons to think that things will not return to the way they were last week."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2018-0186",
+    "text": "That misses the way the surveillance economy works."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2019-0279",
+    "text": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2017-0417",
+    "text": "Like, ‘Wait a minute, is this OK?’ Do we want instead to redirect those funds to concentrate on lower-hazard parts of the landscape?” Such a view would require a corresponding shift in the way US society today views fire, researchers say."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0528",
+    "text": "When our brains switch between being focused and unfocused on a task, they tend to be more efficient. “What people don’t realise is that in order to complete these tasks they need to use both the focus and unfocus circuits in their brain,” says Pillay."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A",
+  "aliases": [
+   "[V] the way [S V]",
+   "[介词] the way [S V]",
+   "the way [S V]",
+   "in the same way(s) (that) [S V]",
+   "in a way that [S V]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   5,
+   7,
+   14,
+   15
+  ]
+ },
+ {
+  "frame": "[NP], one that [S V]",
+  "gloss": "同位语 one that 复指前面的名词并追加限定说明",
+  "notes": "one 回指前名词，勿当成新事物",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_01-0782",
+    "text": "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil War, is now the setting for a different contest, one that is pitting rice farmers against two enemies: the rice-eating giant apple snail, and rising sea levels."
+   },
+   {
+    "id": "cet6-2018-06_03-0878",
+    "text": "In fact, almost every interview I’ve ever had was due to a connection—one that I’ve gained through pure determination, not a school brand. [I]."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "[The] question is [wh-焦点（可省略式）]",
+  "gloss": "问题即 wh 焦点；答语常只剩 when/who 等省略残留",
+  "notes": "not if… but when 后省略整个从句",
+  "related": "What [小句] is/was [焦点]",
+  "examples": [
+   {
+    "id": "cet6-2018-06_01-0789",
+    "text": "But the snail continues its march to new territory, says Serrat. “The question is not if it will reach other rice-growing areas of Europe, but when.” Over the next year and a half investigators will test the various strains of saline-tolerant rice they’ve concocted."
+   },
+   {
+    "id": "cet6-2018-06_02-0825",
+    "text": "The actual question we debate is who should pay for people to go to college."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "It's no wonder (that) [S V]",
+  "gloss": "难怪、不足为奇",
+  "notes": "形式主语+名词表语从句；【09-21裁决】词典级",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_02-0670",
+    "text": "It’s no wonder shat new applications for the Internet of Things are moving ahead fast when almost every new device we buy has a plug on the end of it or a wireless connection to the internet."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "skip"
+ },
+ {
+  "frame": "That's not to say that [S V]",
+  "gloss": "但这并不意味着（防绝对化的让步修正）",
+  "notes": "承接前句再收口；【09-21裁决】并入 ##24（防绝对化护栏第二例）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_03-0703",
+    "text": "L) That’s not to say that the outcome of the San Bernardino case is insignificant."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "for fear that [S might V]",
+  "gloss": "生怕、以免（否定动机连词）",
+  "notes": "that 从句常带 might；【09-21裁决】降短语档（否定动机连词）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_02-0645",
+    "text": "Some researchers are hesitant to make their data public for fear that others might publish something similar before them."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "B"
+ },
+ {
+  "frame": "There is a demand that [S (should) V原形]",
+  "gloss": "demand 后同位语从句用虚拟语气（动词原形）",
+  "notes": "be open 易被误当错误；【09-21裁决】并入 ##46（demand 名词版变体）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_02-0647",
+    "text": "There is a growing demand in the science community that research data be open to the public."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "Whether [S V] is [表语]",
+  "gloss": "whether 从句作主语后置接表语",
+  "notes": "主语从句长时读慢；【09-21裁决】语法层：主语从句",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_02-0660",
+    "text": "Whether it's possible to program a robot with safeguards such as Asimov's laws is debatable A word such as \"harm\" is The robots in Asimov's fiction expose complications and loopholes in the three laws, and even when the laws work, robots still have to assess situations."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "skip"
+ },
+ {
+  "frame": "find oneself [V-ing/PP]",
+  "gloss": "（不知不觉）发现自己处于某状态",
+  "notes": "非“找到自己”，表状态转变",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_03-0698",
+    "text": "So now, for many cases involving governmental intrusions into data, once-lonely privacy advocates find themselves fighting alongside the most powerful company in the world."
+   },
+   {
+    "id": "cet6-2018-06_03-0932",
+    "text": "If you've ever started a sentence with,\"If I were you...\"or found yourself scratching your head at a colleague's agony over a decision when the answer is crystal-clear, there's a scientific reason behind it."
+   },
+   {
+    "id": "cet6-2018-12_01-0952",
+    "text": "Parents who share their parenting experiences may find themselves intruding into their children’s privacy."
+   },
+   {
+    "id": "cet6-2017-12_01-0570",
+    "text": "The technology, your boss, and your friends, all influence how often you find yourself using (or overusing )these gadgets."
+   },
+   {
+    "id": "cet6-2017-12_01-0573",
+    "text": "Like Schwartz and so many others, I often find myself distracted and off tack."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A",
+  "aliases": [
+   "[S] find oneself [V-ing/介词短语]",
+   "[S] find oneself / find yourself [V-ing/补语]（不自觉进入状态）"
+  ],
+  "levels_seen": [
+   "cet6"
+  ],
+  "multi_batch": [
+   5,
+   6
+  ]
+ },
+ {
+  "frame": "[A], not to mention [B]",
+  "gloss": "更不用说 B（递进追加）",
+  "notes": "插入式补强，B 比A更甚；【09-21裁决】词典级",
+  "related": "[前项], let alone [后项]",
+  "examples": [
+   {
+    "id": "cet6-2017-12_03-0697",
+    "text": "H) Appl’s emerging global brand is privacy; it has staked its corporate reputation, not to mention the investment of considerable technical and financial resources, on limiting the sort of mass surveillance that was uncovered by Mr."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "skip"
+ },
+ {
+  "frame": "Whether or not [S V], [主句]",
+  "gloss": "无论是否……，主句照旧",
+  "notes": "whether or not 连写让步；【09-21裁决】入章 ##41（两可让步）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_03-0702",
+    "text": "Experts said that whether or not Apple loses this specific case, measures that it could put into place in the future will almost certainly be able to further limit the government’s reach."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "nowhere more so than in [X]",
+  "gloss": " nowhere 较级聚焦：没有任何地方比 X 更甚",
+  "notes": "承接前句程度，再极致聚焦；【09-21裁决】并入 ##28（so 回指变体）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_02-0814",
+    "text": "Food security and fortunes depend on sufficient rain, and nowhere more so than in Africa, where 96% of farmland depends on rain instead of the irrigation common in more developed places."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "Ever since [S V-ed], [S have V-ed]",
+  "gloss": "自从……以来一直（主句完成体）",
+  "notes": "since 从句一般过去，主句完成；【09-21裁决】语法层：since 完成时搭配",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_02-0813",
+    "text": "Ever since humanity began to farm our own food, we've faced the unpredictable rain that is both friend and enemy."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "skip"
+ },
+ {
+  "frame": "The first year [S V], [主句]",
+  "gloss": "名词短语直接作时间连词（无 when/in）",
+  "notes": "the+时间名词即引导从句；【09-21裁决】已编族：16 章首末次锚定",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2017-12_01-0610",
+    "text": "The first year it was available, Coca-Cola averaged nine servings a day across all the Atlanta soda fountains where it billion Cokes are purchased daily."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "skip"
+ },
+ {
+  "frame": "What would happen if [S V-ed]?",
+  "gloss": "反事实设问：如果……会怎样",
+  "notes": "段落立靶常用；【09-21裁决】读不错（设问反事实）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_01-0766",
+    "text": "What would happen if educators instead took advantage of the fact that teens are powerfully compelled to think in social terms?"
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "skip"
+ },
+ {
+  "frame": "if [NP] is to be trusted, [主句]",
+  "gloss": "如果……可信的话（证据限定让步）",
+  "notes": "对信源的怀疑性框架；【09-21裁决】偶见评注件",
+  "related": "If [S] is to [V]",
+  "examples": [
+   {
+    "id": "cet6-2018-06_02-0811",
+    "text": "However, if a 1916 piece by her great-niece is to be trusted, Hale claimed for the her life that “Some other people pretended that someone else wrote the poem”."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "skip"
+ },
+ {
+  "frame": "[V] [O] more, not less",
+  "gloss": "“更多而非更少”式纠偏补充",
+  "notes": "句尾反预期更正；【09-21裁决】入章 ##23（句尾纠偏补笔）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_01-0800",
+    "text": "Taking photos actually makes people enjoy what they’re doing more, not less. “What we find is you actually look at the world slightly differently, because you’re looking for things you want to capture, that you may want to hang onto,” Diehl explains. “That gets people more engaged in the experience, and they tend to enjoy it more.” Take sightseeing."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "A"
+ },
+ {
+  "frame": "[S] be determined to.（to 后省略动词）",
+  "gloss": "句尾 to 后省略前文动词（不定词省略）",
+  "notes": "determined to. 句点收尾勿当残句；【09-21裁决】省略语法点",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_03-0897",
+    "text": "Maybe students who choose less prestigious universities are bound to succeed because they are determined to."
+   }
+  ],
+  "level": "cet6",
+  "batch": 5,
+  "status": "skip"
+ },
+ {
+  "frame": "In a [world/era] where/when [S V], [主句]",
+  "gloss": "在一个…的世界/时代里（为论断设定背景）",
+  "notes": "句首时代名词带定语从句，先铺背景再入正题",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_02-0986",
+    "text": "In a world where people are increasingly dependent on their phones, though, such strategies often fail."
+   },
+   {
+    "id": "cet6-2019-06_03-1188",
+    "text": "In an era when you can simply buy a CubeSat kit off the shelf, how can we trust the satellites over our heads were developed with good intentions by people who knew what they were doing?"
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "A"
+ },
+ {
+  "frame": "Instead of [V-ing], [S V]",
+  "gloss": "不做A，而（改）做B",
+  "notes": "句首instead of接动名词短语，后接全句替换",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_02-1001",
+    "text": "And instead of showing just the typical pair of eggs in a hummingbird nest, she painted four."
+   },
+   {
+    "id": "cet6-2018-12_03-1057",
+    "text": "Now, instead of swimming upstream, we relax, sleep, watch movies, or listen to music."
+   },
+   {
+    "id": "cet6-2018-12_03-1058",
+    "text": "And when we get off the plane, instead of being depleted, we feel recovered and ready to return to the performance zone."
+   },
+   {
+    "id": "cet6-2020-12_03-1592",
+    "text": "Instead of focusing only on the conservation of genetically based entities like species, we now need to also consider culturally based entities,\" says Andrew Whiten."
+   },
+   {
+    "id": "cet6-2020-12_03-1553",
+    "text": "Because instead of being real life, it is, for the most part, impression management, a way of marketing yourself, carefully choosing and filtering the pictures and words to put your best face forward. • Online \"friends\" made through social ·media do not follow the normal psychological progression of an interpersonal relationship."
+   },
+   {
+    "id": "cet6-2021-06_02-1652",
+    "text": "Rather than ·think of drawing as a talent that some creative people are gifted in, we should consider it as a tool for seeing and understanding the world better-one that just so happens to double as an art form."
+   },
+   {
+    "id": "cet6-2021-12_02-1795",
+    "text": "That's because rather than indulging employees or neglecting them, ethical leaders communicate very direct and clear expectations."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1210",
+    "text": "Rather than cloaking his exit in the usual vague excuses, he came right out and said he was leaving “to pursue my goal of running a company."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "A",
+  "aliases": [
+   "Instead of [V-ing/NP], [主句]",
+   "Rather than [V/V-ing A], [S] [V B]"
+  ],
+  "levels_seen": [
+   "cet6"
+  ],
+  "multi_batch": [
+   6,
+   8
+  ]
+ },
+ {
+  "frame": "[前项]—[NP] that [S V]",
+  "gloss": "破折号引出同位语并加that从句展开",
+  "notes": "解释或重述前项，that从句非新谓语",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_03-1081",
+    "text": "On Jan.9,2007, Steve Jobs formally announced Apple’s “revolutionary mobile phone” — a device that combined the functionality of an iPod, phone and Internet communication into a single unit, navigated by touch."
+   },
+   {
+    "id": "cet6-2019-06_03-1184",
+    "text": "The greatest concern the authors raise is space debris— pieces of“junk”that orbit the earth, with the potential to cause serious damage if they collide with operational units, including the ISS."
+   },
+   {
+    "id": "cet6-2019-06_03-1190",
+    "text": "It continued the efforts, begun in 1961, by Project OSCAR—a U.S.-based group that built and launched the very first nongovernmental satellite just four years after Sputnik."
+   },
+   {
+    "id": "cet6-2020-12_01-1403",
+    "text": "But the researchers are annoyed that new dietary recommendations of the USDA ( United States Department of Agriculture) released yesterday seem to utterly ignore that fact."
+   },
+   {
+    "id": "cet6-2020-12_01-1415",
+    "text": "Miriam Nelson chaired the subcommittee in charge of sustainability for the report, and is disappointed that eating less meat and buying local food aren't in the final product."
+   },
+   {
+    "id": "cet6-2023-12_01-2135",
+    "text": "The team finds that the majority of editors in top psychology and neuroscience journals are male and based in the United States: a situation that may be amplifying existing gender inequalities in the field and influencing the kind of research that gets published."
+   },
+   {
+    "id": "cet6-2023-12_01-2140",
+    "text": "In this case, the proportion of female editors was not significantly lower than the proportion of female researchers working in neuroscience — a finding that reveals enduring gender disparities in the field more broadly."
+   },
+   {
+    "id": "cet6-2023-12_02-2165",
+    "text": "Darwin’s theory has even been summarized as “survival of the fittest” — a phrase Darwin himself never used — further highlighting competition’s role in success."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "A",
+  "aliases": [
+   "That [S V] [谓语]",
+   "[N] (that) [S] [said/felt] [V]",
+   "[S] be [情感adj] that [S V]",
+   "[argument/N]: that [S V]",
+   "[主句]—/： a [N] that [S V]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   6,
+   7,
+   10,
+   14,
+   15,
+   16
+  ]
+ },
+ {
+  "frame": "[V] that [S V], and that [S V]",
+  "gloss": "并列that从句共享前面的动词",
+  "notes": "第二个that须保留，易漏读从句归属",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_02-1022",
+    "text": "The Bureau of Labor Statistics projects that while the number of nurses will increase by 19 percent by 2022, demand will grow faster than supply, and that there will be over one million unfilled nursing jobs by then."
+   },
+   {
+    "id": "cet6-2018-12_03-1069",
+    "text": "They found that early attention skills were the most consistent predictor of academic success, and that likability by peers also had a modest effect on academic performance."
+   },
+   {
+    "id": "cet6-2021-06_02-1668",
+    "text": "What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as it is to benefit us, and that thoughtful regulation is necessary for a better future."
+   },
+   {
+    "id": "cet6-2021-06_03-1746",
+    "text": "As a rule, mirroring means that conversationalists enjoy their communication and that there's a certain level of agreement between them."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "B",
+  "aliases": [
+   "[V/系] that [S V], and that [S V]"
+  ],
+  "levels_seen": [
+   "cet6"
+  ],
+  "multi_batch": [
+   6,
+   8
+  ],
+  "verdict_note": "that 平行只是并列，无新骨架"
+ },
+ {
+  "frame": "[S] no more [V] [A] than [do/does] [B]",
+  "gloss": "A并不比B更…（两者同样不…）",
+  "notes": "than后可倒装，双重否定比较；【09-21裁决】语法层嵌套（六级读得懂，产出难迁移）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_02-1003",
+    "text": "Merian's work than do well-known misconceptions published by Charles Darwin or Isaac Newton,” Dr."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "skip"
+ },
+ {
+  "frame": "[S V] when in reality [S V]",
+  "gloss": "…而实际上却…",
+  "notes": "when引出与预期相反的实情；【09-21裁决】入章 ##26（揭穿错觉）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_01-0976",
+    "text": "The impact of a basic discovery on human health can be exaggerated so that the public thinks a miraculous cure is a few months to years away when in reality the significance of the study is far more limited."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "A"
+ },
+ {
+  "frame": "Just because [S V], it doesn't mean [S V]",
+  "gloss": "仅仅因为A并不意味着B",
+  "notes": "because从句被当作主语否定；【09-21裁决】已编族：四级篇 ##27（skill 判例库命中）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_03-1041",
+    "text": "And lack of recovery—whether by disrupting sleep with thoughts of work or having continuous cognitive arousal by watching our phones—is costing our companies $62 billion a year in lost productivity. [E] And just because work stops, it doesn’t mean we are recovering."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "skip"
+ },
+ {
+  "frame": "It is [V-ed] that [S (should) V原形]",
+  "gloss": "建议类被动句接虚拟语气原形",
+  "notes": "advised类分词后谓语用原形",
+  "related": "It is V-ed that [S]",
+  "examples": [
+   {
+    "id": "cet6-2018-12_03-1063",
+    "text": "It is advised that technology be used to prevent people from overworking."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2019-0634",
+    "text": "It’s important to acknowledge that the environment isn’t everyone’s priority – or even most people’s."
+   },
+   {
+    "id": "kaoyan-kaoyan1-2020-0677",
+    "text": "It is also wise to recall that such titles are not a cure-all."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "A",
+  "aliases": [
+   "It is [Adj] to [V] that [S V]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   6,
+   16
+  ],
+  "seed_hit": true
+ },
+ {
+  "frame": "[Adj] enough that [S V]",
+  "gloss": "足够…以至于",
+  "notes": "enough后接结果从句；【09-21裁决】语法层",
+  "related": "so [Adj] that [S] / such [N] that [S]",
+  "examples": [
+   {
+    "id": "cet6-2018-06_03-0928",
+    "text": "Their approach is flexible enough that in principle other important quality-of- life changes could be incorporated—for example, decreases in total emissions of pollutants and declines in crime rates."
+   },
+   {
+    "id": "cet6-2025-12_03-2801",
+    "text": "The new design was inexpensive enough that it allowed the installation of a lot more lights."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "skip",
+  "aliases": [
+   "[Adj] enough that [S V]"
+  ],
+  "levels_seen": [
+   "cet6"
+  ]
+ },
+ {
+  "frame": "now that [S V], [主句]",
+  "gloss": "既然…（新情况已成立）",
+  "notes": "表时间性原因；【09-21裁决】语法层连词",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_01-0953",
+    "text": "Perhaps it is time for farmers to put their feet up now that robots are used to inspect crops, dig up weeds, and even have become shepherds, too."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "skip"
+ },
+ {
+  "frame": "the [最高级] of any [单数N]",
+  "gloss": "任何…之中最…",
+  "notes": "of any后接单数名词，易误；【09-21裁决】读不错",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-06_03-0924",
+    "text": "According to this measure, as of the early-to-mid-2000s, the U.S. had the highest economic welfare of any large country."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "skip"
+ },
+ {
+  "frame": "[V] to the point that [S V]",
+  "gloss": "…到某种程度以致",
+  "notes": "表程度临界引发结果；【09-21裁决】降短语档（point=程度非观点）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2018-12_01-0975",
+    "text": "Unfortunately, pieces of science journalism can also oversimplify and generalize their subject material to the point that the basic information conveyed is obscured or at worst, obviously wrong."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "B"
+ },
+ {
+  "frame": "[比较级] than could be [V-ed]",
+  "gloss": "比（可能被做到的）还…",
+  "notes": "than后无主语直接情态动词；【09-21裁决】语法层省略",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2019-06_03-1171",
+    "text": "These mini-satellites can fit in a launch vehicle's formerly“wasted space.”Multiples can be deployed in combination for more complex missions than could be achieved by one CubeSat alone."
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "skip"
+ },
+ {
+  "frame": "The question (here) is no longer “[A?]” but “[B?]”",
+  "gloss": "问题不再是'能否'而是'该否'",
+  "notes": "引号极问句对举，重设议题；【09-21裁决】入章 ##40（设问升维推进）",
+  "related": "not [A] but (rather) [B]（先否后纠）",
+  "examples": [
+   {
+    "id": "cet6-2019-06_03-1167",
+    "text": "The question here is no longer“Can we?”but“Should we?”What are the potential downsides of having a slice of space densely populated by equipment built by people not traditionally labeled as“professionals”?"
+   }
+  ],
+  "level": "cet6",
+  "batch": 6,
+  "status": "A"
+ },
+ {
+  "frame": "Contrary to [预期], [主句]",
+  "gloss": "考虑到X（给评价附上依据）",
+  "notes": "when非时间义，是“鉴于”，修饰前面的评价",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2019-06_03-1212",
+    "text": "This is surprising when you consider the prevailing emphasis by scholars and trainers and managers on the importance of cultivating close interpersonal relationships at work."
+   },
+   {
+    "id": "cet6-2019-12_03-1300",
+    "text": "But convincing open-minded dairy people is actually not that hard, when you look at the economics ."
+   },
+   {
+    "id": "cet6-2026-06-01-2874",
+    "text": "Contrary to what some people might think, I don't get paid to travel—I simply choose the lifestyle."
+   },
+   {
+    "id": "cet6-2026-06-01-2879",
+    "text": "Contrary to the perception that he works under a mango tree in a tropical haven, Adams says the reality of this life means that he often ends up staying in more western style places in globalised cities—ones that are sure to have air conditioning and a decent connection—rather than exotic beachfront cafés."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "A",
+  "aliases": [
+   "[评价], when you consider/look at [X]",
+   "Contrary to [what S might think / the perception that [S V]], [主句]"
+  ]
+ },
+ {
+  "frame": "It wasn't until [X] that [S V]",
+  "gloss": "直到X才……（否定时间强调）",
+  "notes": "强调句否定式，not until整体被强调；【09-21裁决】入章 ##37（否定时间强调；两批同名条目合并）",
+  "related": "It was [X] that …",
+  "examples": [
+   {
+    "id": "cet6-2019-06_03-1211",
+    "text": "It wasn’t until I entered the corporate world that I realized, for me at least, being friends with colleagues didn’t emerge as a priority at all."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "A"
+ },
+ {
+  "frame": "and even more [Adj] is [NP]",
+  "gloss": "更……的是NP（比较级倒装递进）",
+  "notes": "比较级作表语前置，主语后置；【09-21裁决】入章 ##58（倒装递进强调）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2019-06_03-1231",
+    "text": "According to a report, Google’s self-driving cars clocked 1,023,330 krn, and even more impressive is the progress in just a single year: human interventions fell from 0.8 times per thousand miles to 0.2, a 400% improvement."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "A"
+ },
+ {
+  "frame": "[X] isn't a question of if, only when",
+  "gloss": "不是会不会发生，只是何时发生",
+  "notes": "if/when名词化对举，表达不可避免；【09-21裁决】##40 已收同功能（no longer 版）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2019-12_01-1263",
+    "text": "For hundreds of thousands of Cascadia residents, \" The Big One \" isn't a question of if, only when."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "skip"
+ },
+ {
+  "frame": "it's never too [Adj] to [V]",
+  "gloss": "再早/再……也不为过",
+  "notes": "too...to的否定反转，表肯定；【09-21裁决】词典级谚语句",
+  "related": "too [Adj] (for sb) to [V]",
+  "examples": [
+   {
+    "id": "cet6-2019-12_01-1264",
+    "text": "And it's never too early to get ready for the inevitable."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "skip"
+ },
+ {
+  "frame": "Nowhere is this more [Adj] than in [X]",
+  "gloss": "这在X体现得最明显",
+  "notes": "否定副词开头倒装，表最高级；【09-21裁决】入章 ##28（负比较聚焦倒装）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2020-12_02-1447",
+    "text": "Yet the reverse compulsion (�it) is hidden in the proposals for a new plant-based \"planetary diet.\" Nowhere is this more visible than in India."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "A"
+ },
+ {
+  "frame": "[S] would like to have [V-ed]",
+  "gloss": "本想……而未得（虚拟遗憾）",
+  "notes": "完成不定式表未实现的愿望；【09-21裁决】入章 ##65（虚拟遗憾）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2020-09_01-1327",
+    "text": "I would like to have seen more protection for coral reefs,\" says Terry Hughes, director of the Centre of Excellence for Coral Reef Studies at James Cook University in Queensland."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "A"
+ },
+ {
+  "frame": "if [S] were to [V], [主句would…]",
+  "gloss": "假如……（对将来的虚拟）",
+  "notes": "were to虚拟式，与is to将来式对照",
+  "related": "If [S] is to [V]",
+  "examples": [
+   {
+    "id": "cet6-2020-12_02-1471",
+    "text": "For example, if I were to discover a newborn at my front door, it wouldn't be my fault, but it most certainly would be my responsibility."
+   },
+   {
+    "id": "cet6-2020-12_03-1521",
+    "text": "If all of a university's alumni (..fi,��:Ik.1.) were to become students again, the student body would be much bigger than it is now, and it could become unsustainable for the campus in terms of both size and resources."
+   },
+   {
+    "id": "cet6-2020-12_03-1526",
+    "text": "L) If lifelong learning were to become a priority and the new norm, diplomas, just like passports, could be revalidated periodically."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "A",
+  "aliases": [
+   "If [S] were to [V], [主句 would/could V]"
+  ],
+  "levels_seen": [
+   "cet6"
+  ],
+  "multi_batch": [
+   7,
+   8
+  ]
+ },
+ {
+  "frame": "and so do [S]",
+  "gloss": "……也是如此（so倒装）",
+  "notes": "so+助动词+主语，肯定附和；【09-21裁决】并入 ##57（倒装回指族）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2020-12_01-1390",
+    "text": "Having walked through the planted rows before the flight to gain a physical understanding of the situation on the ground, he knows the instant he sees the data on his screen �hat the plant count is not correct, and so do the farmers, even with their limited understanding of _how to read remote sensing maps."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "A"
+ },
+ {
+  "frame": "more [N] than almost any other [N]",
+  "gloss": "比几乎所有其他……都多",
+  "notes": "比较级表最高级，避免直说the most；【09-21裁决】读不错",
+  "related": "[A组] than those who did(n't)（对照回指）",
+  "examples": [
+   {
+    "id": "cet6-2020-12_01-1405",
+    "text": "But Americans consume more calories per capita than almost any other country in the- world."
+   }
+  ],
+  "level": "cet6",
+  "batch": 7,
+  "status": "skip"
+ },
+ {
+  "frame": "However [Adj] ([S V]), [主句]",
+  "gloss": "无论多么…（however 引导让步，后可省略主谓）",
+  "notes": "however 后紧跟形/副，是让步义非转折",
+  "related": "no matter how/what/where",
+  "examples": [
+   {
+    "id": "cet6-2021-06_03-1702",
+    "text": "H) A recreation, however lifelike, will never be indistinguishable from a real actor, says Webber."
+   },
+   {
+    "id": "cet6-2021-06_03-1721",
+    "text": "However advanced the COi technology is, the recreated image will differ in a way from the real actor."
+   },
+   {
+    "id": "cet6-2026-06-01-2884",
+    "text": "However inconvenient, a trip to a local doctor, immigration office or laundry—or a conflict with a local Airbnb host (the accommodation style of choice for most nomads)—can be far more culturally instructive than a trip to the national museum."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "A",
+  "aliases": [
+   "However [Adj], [主句]"
+  ],
+  "levels_seen": [
+   "cet6"
+  ],
+  "multi_batch": [
+   8,
+   12
+  ]
+ },
+ {
+  "frame": "[X] be measured/assessed by/with statements such as/like \"[引语]\"",
+  "gloss": "研究方法句：用如“…”的陈述来测量某变量",
+  "notes": "研究报道语域高频，引语即量表条目",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2021-12_02-1793",
+    "text": "Employee entitlement was measured by statements such as \"I honestly feel I'm just more deserving than others.\" The respondents had to rate the extent of their agreement."
+   },
+   {
+    "id": "cet6-2021-12_02-1794",
+    "text": "Employee engagement, meanwhile, was assessed with statements like \"I really throw myself into my work.\" The findings revealed ethical leadership is precisely what alleviates the negative effects of employee entitlement."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "A"
+ },
+ {
+  "frame": "[主句], [S] said/says, [接续/引语续]",
+  "gloss": "报道语插入句中，前后仍属同一句",
+  "notes": "插入后主干不中断，需跳读插入语",
+  "related": "引语后置报道：'[直接引语]', says/explains [NP]",
+  "examples": [
+   {
+    "id": "cet6-2020-12_03-1581",
+    "text": "It was evidence, the team said, that chimps have their own cultures."
+   },
+   {
+    "id": "cet6-2021-06_02-1648",
+    "text": "The fire at Notre Dame reminds us that we will always have challenges to overcome,\" Macron said, \"Notre Dame is our history, our literature, the centre of our life."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "A"
+ },
+ {
+  "frame": "But (now) just when/as [S V], [转折主句]",
+  "gloss": "正当…之际却…（时机反讽式反转）",
+  "notes": "此处 just as 是时间义非比较",
+  "related": "Just as [S V], so too [S V]",
+  "examples": [
+   {
+    "id": "cet6-2020-12_03-1583",
+    "text": "But just when many scientists have come to accept the existence of animal cultures, many of those cultures might vanish."
+   },
+   {
+    "id": "cet6-2020-12_03-1586",
+    "text": "But now, just as we are truly getting to know our primate ()t *�) cousins, the actions of humans are closing the window on all we have discovered.\" Cat Hobaiter, a professor at the University of St."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "A"
+ },
+ {
+  "frame": "To [A] should be added [B]",
+  "gloss": "应把 B 增加到 A 上（介词短语前置的被动倒装）",
+  "notes": "识别倒装，真正主语在句尾；【09-21裁决】入章 ##51（介词前置被动倒装）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2020-12_03-1550",
+    "text": "To the traditional subjects of math and physics should be added a new discipline which combines computer science with statistics and other components."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "A"
+ },
+ {
+  "frame": "This is not to say that [S V]",
+  "gloss": "这并不是说…（防误读澄清套语）",
+  "notes": "先立论后自我限定；【09-21裁决】入章 ##24（防绝对化护栏）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2020-12_03-1556",
+    "text": "This is not to say that your social inedia friends can't be real friends."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2022-1795",
+    "text": "This is not to say that there is no point in getting a degree, but rather stress that a degree is not for everyone, that the switch from classroom to lecture hall is not an inevitable one and that other options are available."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "A",
+  "aliases": [
+   "This is not to say that [A], but rather [B]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ]
+ },
+ {
+  "frame": "How come [S V]?",
+  "gloss": "怎么会…？（口语问原因）",
+  "notes": "陈述语序，无倒装；【09-21裁决】词典级口语",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2021-06_01-1632",
+    "text": "How come the UK has been slow in imposing the tourist tax?"
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "skip"
+ },
+ {
+  "frame": "[主句], which [S] did",
+  "gloss": "…而（后来）真做到了（which 回指动作）",
+  "notes": "which 指谓语动作，did 替代动词；【09-21裁决】个案回指",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2021-06_02-1639",
+    "text": "He said, on her income, with some changes, she would be able to buy an investment unit within two years, which she did."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "skip"
+ },
+ {
+  "frame": "[否定句]; nor does [S] [V]",
+  "gloss": "…也不…（nor 引起倒装，后可接 when 从句）",
+  "notes": "nor 倒装+回指省略叠加；【09-21裁决】语法层：nor 倒装",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2021-06_03-1730",
+    "text": "When children are regarded as vessels to be filled with facts, creativity does not prosper; nor does it when teachers' sole objective is coaching children towards exams."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "skip"
+ },
+ {
+  "frame": "[NP of sb], that of [NP2], or (that) of [NP3]",
+  "gloss": "甲的 N、乙的 N 或丙的 N（that 替代前文名词）",
+  "notes": "that of 避免重复，末项省 that；【09-21裁决】并入 ##34（that 回指对照族）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2020-12_03-1533",
+    "text": "That'.s the etern�l debate: should it be the learner's responsibility, that of his employer, or of the state?"
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "A"
+ },
+ {
+  "frame": "those that have [V-ed（动词短语省略）]",
+  "gloss": "做到过…的那些（have 后省略整个动词短语）",
+  "notes": "回指省略，勿读作悬空完成时；【09-21裁决】省略语法点",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2020-12_03-1591",
+    "text": "Few places have tracked chimp behavior over long periods, and those that have are also more likely to have protected their animals from human influence. animal traditions as well as bodies and genes."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "skip"
+ },
+ {
+  "frame": "One only has to [V] to [V]",
+  "gloss": "只需看 X 即可明白 Y（举证修辞）",
+  "notes": "轻证据框架，后接目的不定式；【09-21裁决】入章 ##61（举证修辞）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2021-06_03-1734",
+    "text": "One only has to look at the remarkable arts facilities at Britain's top private schools to comprehend this."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "A"
+ },
+ {
+  "frame": "whom [S] may not otherwise [V]",
+  "gloss": "否则本不会…（otherwise 反事实）",
+  "notes": "otherwise=若非如此，常误读成转折；【09-21裁决】otherwise 挂定语从句个案",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2020-12_03-1569",
+    "text": "It has opened doors for businesses and allowed us to stay connected to people whom we may not otherwise get to follow."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "skip"
+ },
+ {
+  "frame": "Not only will [S] [V], but [S] will [V]",
+  "gloss": "不仅…而且…（not only 前置引发倒装）",
+  "notes": "已登记框架的倒装变体；【09-21裁决】语法层：not only 倒装",
+  "related": "not only [A] but (also) [B]",
+  "examples": [
+   {
+    "id": "cet6-2020-12_03-1517",
+    "text": "Not only will those skills be actually integrated into the curriculum but they will be very important to have in the future because they are difficult to automate."
+   }
+  ],
+  "level": "cet6",
+  "batch": 8,
+  "status": "skip"
+ },
+ {
+  "frame": "Imagine [V-ing]/[if 从句]：[场景]",
+  "gloss": "让读者设想一个具体场景或反事实情形，为后文翻转或论证铺垫",
+  "notes": "语篇立景后常接But/should翻转",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2023-06_03-2072",
+    "text": "Imagine sitting down to a big dinner: a massive steak, a large portion of fried potatoes, and cake for dessert."
+   },
+   {
+    "id": "cet6-2022-06_02-1947",
+    "text": "One cannot assume communication expertise-imagine if someone just decided that they were a physicist and started trying to contribute to the field without the necessary background."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "A"
+ },
+ {
+  "frame": "[NP], known as [名]",
+  "gloss": "长名词短语后置补一个通用叫法，即命名同位语",
+  "notes": "known as 回指前面整个长NP，易错挂",
+  "related": "what we call / what are known as [X]",
+  "examples": [
+   {
+    "id": "cet6-2023-06_01-2030",
+    "text": "Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics."
+   },
+   {
+    "id": "cet6-2023-06_01-2031",
+    "text": "Others support an immersive approach (using pictures of a cat to learn the word cat), known as “whole language”."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "A"
+ },
+ {
+  "frame": "[S] double down (on [N])",
+  "gloss": "遭挫或被质疑后不退反进，加码死守原立场",
+  "notes": "赌注加倍引申义，非字面击打",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2021-12_03-1851",
+    "text": "When confronted with an uncomfortable set of facts, the tendency is often to double down on their current position rather than publicly admit to being wrong."
+   },
+   {
+    "id": "cet6-2023-06_03-2092",
+    "text": "They revisit these archives constantly, thinking, as Pryor puts it, “I need to make myself feel terrible so I don’t do this again.” Then they double down, “raising the expectation bar even higher, which increases the likelihood of defeat, which makes you self-critical, so you raise the bar higher, work even harder,” she says."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "B",
+  "verdict_note": "词组级动词短语"
+ },
+ {
+  "frame": "Perhaps it is not [X], but [Y], that [V]",
+  "gloss": "用分裂强调句做「不是A而是B」的委婉纠偏",
+  "notes": "强调句+先否后纠叠加；【09-21裁决】##22 已编家族变体（强调句先否后纠）",
+  "related": "It was [X] that …",
+  "examples": [
+   {
+    "id": "cet6-2021-12_03-1834",
+    "text": "J) Perhaps it is not difference, but di stance, that breeds tribalism and hostility."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "skip"
+ },
+ {
+  "frame": "So much so that [S V]",
+  "gloss": "承接前句：程度深到以至于产生后述结果",
+  "notes": "独立承接前句，that从句为度；【09-21裁决】入章 ##63（程度承接）",
+  "related": "so [Adj] that [S] / such [N] that [S]",
+  "examples": [
+   {
+    "id": "cet6-2023-06_01-2026",
+    "text": "So much so that some teachers have had to sneak phonics teaching materials into the classroom."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "A"
+ },
+ {
+  "frame": "It could be that [S V]",
+  "gloss": "提出一种可能的解释（未必是结论）",
+  "notes": "情态推想，别读成确定判断；【09-21裁决】入章 ##25（试探性解释）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2023-06_02-2050",
+    "text": "It could be that our raw intelligence gave us an unprecedented ability to think outside the box, innovating solutions to thorny problems as people migrated across the globe."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "A"
+ },
+ {
+  "frame": "[The] next time [S V], [you might V]",
+  "gloss": "「下次再遇到X时，你不妨Y」——以时间从句收尾劝告",
+  "notes": "next time作连词用，易误当名词短语",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2023-06_02-2066",
+    "text": "So the next time you hear someone arguing passionately that everyone should embrace nonconformity and avoid imitating others, you might laugh a little bit."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2019-0326",
+    "text": "Next time you state your position, formulate an argument for what you claim and honestly ask yourself whether your argument is any good."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2019-0327",
+    "text": "Next time you talk with someone who takes a stand, ask them to give you a reason for their view."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "A",
+  "aliases": [
+   "Next time [S V], [祈使句]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   9,
+   15
+  ]
+ },
+ {
+  "frame": "[时间NP] saw [X]",
+  "gloss": "某时代见证了某变化（时间拟人作主语）",
+  "notes": "时代/地点拟人主语+saw/witnessed；【09-21裁决】入章 ##49（时间拟人主语）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2022-06_02-1914",
+    "text": "The late 19th and early 20th century saw an increasing recognition that forests serve as habitats for countless animal and plant species that all rely on each other."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "A"
+ },
+ {
+  "frame": "[Sb] have argued that [S V], but this is absurd",
+  "gloss": "立靶（有人主张X）后直接斥为荒谬",
+  "notes": "立靶-直斥，比驳论更强硬；【09-21裁决】个案（立靶直斥）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2022-06_02-1938",
+    "text": "Some have argued that the public is not educated enough to understand scientific information, especially for any complex phenomena, but this is absurd."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "skip"
+ },
+ {
+  "frame": "The extent to which [S V] is a function of [X]",
+  "gloss": "能做到什么程度取决于X",
+  "notes": "extent后接to which；a function of=取决于；【09-21裁决】学术套语读不错",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2022-06_01-1891",
+    "text": "But the extent to which individuals can do this on their own is a function of how well integrated they are with communities of systematic inquiry in the first place."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "skip"
+ },
+ {
+  "frame": "[主句] in case [S V]",
+  "gloss": "做某事以防/以免后述情况发生",
+  "notes": "in case≠if，易读反；负面目的；【09-21裁决】语法层连词",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2021-12_03-1811",
+    "text": "They plan everything for their children, make all the decisions for them, and do not allow them to explore on their own in case they make mistakes or get hurt."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "skip"
+ },
+ {
+  "frame": "Next comes [N]",
+  "gloss": "叙事推进倒装：接下来出现的是X",
+  "notes": "方位/时序副词开头的倒装；【09-21裁决】已编族：四级篇 Now comes",
+  "related": "Gone are the days of/when",
+  "examples": [
+   {
+    "id": "cet6-2023-06_03-2093",
+    "text": "Next comes failure, shame, and pushing yourself even harder toward even higher and more impossible goals."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "skip"
+ },
+ {
+  "frame": "There is another reason [S V], which is that [S V]",
+  "gloss": "补充另一原因并用which is that展开解释",
+  "notes": "which is that 引导解释性从句；【09-21裁决】组合",
+  "related": "[前句], which [谓语]",
+  "examples": [
+   {
+    "id": "cet6-2021-12_03-1854",
+    "text": "0) There is another reason bad ideas continue to li ve on, which is that people continue to down dies with the person who conceiv ed it."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "skip"
+ },
+ {
+  "frame": "[A] is [Adj], but so is [B]",
+  "gloss": "A重要，B也同样重要（so倒装回指）",
+  "notes": "so is后可接V-ing，易漏读倒装；【09-21裁决】并入 ##57（倒装回指族）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2021-12_03-1822",
+    "text": "Becoming separated from the tribe-or worse, being cast out-was a death sentence.\" E) Understanding the truth of a situation is important, but so is remaining part of a tribe."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "A"
+ },
+ {
+  "frame": "As [A] increases, so does [B]",
+  "gloss": "A增长，B也随之增长（正比联动）",
+  "notes": "as…so…呼应倒装，省just；【09-21裁决】并入 ##57（正比联动变体）",
+  "related": "Just as [A], so [B]",
+  "examples": [
+   {
+    "id": "cet6-2021-12_03-1835",
+    "text": "As proximity increases, so does understanding. lam reminded of Abraham Lincoln 's quote, \"I don't like that man."
+   }
+  ],
+  "level": "cet6",
+  "batch": 9,
+  "status": "A"
+ },
+ {
+  "frame": "The [second/third/fourth/final] one to avoid is [V-ing/N]",
+  "gloss": "第N个要避免的误区是做某事（序数列举）",
+  "notes": "one后接不定式to avoid后置修饰",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2324",
+    "text": "The second one to avoid is focusing on negative goals."
+   },
+   {
+    "id": "cet6-2024-06_03-2330",
+    "text": "The third one to avoid is using the same strategies in different circumstances."
+   },
+   {
+    "id": "cet6-2024-06_03-2338",
+    "text": "The fourth one to avoid is not forgiving ourselves for slipping up."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "B",
+  "verdict_note": "列举指令变体，语域可疑"
+ },
+ {
+  "frame": "[V] [A] differently than [S] do (to [B])",
+  "gloss": "对A的反应或做法不同于对B",
+  "notes": "than后用do替代重复动词，勿误读主干",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2023-12_01-2130",
+    "text": "Our brains respond to language expressing facts differently than they do to words conveying possibility, scientists at New York University have recently found."
+   },
+   {
+    "id": "cet6-2024-06_03-2376",
+    "text": "We may recognise that we feel and act differently in these roles and relationships than we do at work."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "B",
+  "verdict_note": "比较搭配"
+ },
+ {
+  "frame": "Part of the issue is that",
+  "gloss": "一种理论认为…，另一种理论认为…（假设列举）",
+  "notes": "another后省略theory，科技文常见路标",
+  "related": "考研批追加例句",
+  "examples": [
+   {
+    "id": "cet6-2024-06_01-2269",
+    "text": "One theory is that more variable input can highlight which aspects of a task are relevant and which are not."
+   },
+   {
+    "id": "cet6-2024-06_01-2270",
+    "text": "Another theory is that greater variability leads to broader generalisations."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2017-0010",
+    "text": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2017-0011",
+    "text": "Part of the issue is that airports have only so much room for screening lanes."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2017-0012",
+    "text": "Another factor may be that more people are trying to overpack their carry-on bags to avoid checked baggage fees, though the airlines strongly dispute this."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A",
+  "aliases": [
+   "One theory is that [S V] / Another (theory) is that [S V]"
+  ]
+ },
+ {
+  "frame": "[S] be found / have been shown to [V]",
+  "gloss": "研究发现某人或某物具有某特征（无施动者）",
+  "notes": "被动+不定式报道，研究者隐含",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2023-12_01-2136",
+    "text": "Men were found to account for 60% of the editors of psychology journals."
+   },
+   {
+    "id": "cet6-2023-12_03-2210",
+    "text": "Bilingual individuals have been shown to have smaller vocabularies and to take longer in retrieving words from memory when compared to monolinguals."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "B",
+  "verdict_note": "被动+不定式，语法点"
+ },
+ {
+  "frame": "[比较级] than [S] might think / might lead you to believe",
+  "gloss": "比你以为的更…（暗示读者预期不准）",
+  "notes": "比较级后接认知动词从句表反预期",
+  "related": "more [A] than anyone had thought [B]",
+  "examples": [
+   {
+    "id": "cet6-2023-12_03-2200",
+    "text": "Bilingualism and multilingualism are actually more common than you might think."
+   },
+   {
+    "id": "cet6-2023-12_03-2223",
+    "text": "Once again, however, the results are far less clear than the popular media might lead you to believe."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "That's why [S V] / Which is why [S V]",
+  "gloss": "这就是为什么；which回指前整句",
+  "notes": "Which is why可独立成句，口语笔调",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2328",
+    "text": "That’s why rather than giving up something, think with the behaviors you want to stop."
+   },
+   {
+    "id": "cet6-2024-06_03-2358",
+    "text": "Which is why it’s so hard to maintain new behaviors."
+   },
+   {
+    "id": "cet6-2019-12_02-1276",
+    "text": "Our long-term operation in the region depends on a healthy and thriving Antarctic marine ecosystem, which is why we have always had an open dialogue with the environmental non-governmental organisations."
+   },
+   {
+    "id": "cet6-2020-12_02-1456",
+    "text": "Which is why calls for a plant-based diet modeled on India risk offering another whip with which to beat already vulnerable communities in developing countries."
+   },
+   {
+    "id": "cet6-2020-12_02-1478",
+    "text": "The other person “might realise she’s not as trapped as you are saying she is, or as she feels.” Which illustrates the irony of the responsibility fault fallacy: evading responsibility feels comfortable, but turns out to be a prison; whereas assuming responsibility feels unpleasant, but ends up being freeing."
+   },
+   {
+    "id": "cet6-2024-12_02-2461",
+    "text": "This is why it’s important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty."
+   },
+   {
+    "id": "cet6-2025-06_03-2673",
+    "text": "Nowadays, the This explains why the first question we will be asked in any new social context is “What do you do?” and according to how we answer, snobs will either welcome us with broad smiles, or leave us in the cold."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A",
+  "aliases": [
+   "[前句]. Which is why [S V]",
+   "This [is/explains] why [S V]"
+  ]
+ },
+ {
+  "frame": "There’s (solid/no) evidence that",
+  "gloss": "有理由或有证据认为…",
+  "notes": "存在句引出依据，语气留有余地",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2023-12_03-2198",
+    "text": "However, there is some reason to believe that learning languages might be different."
+   },
+   {
+    "id": "cet6-2023-12_03-2213",
+    "text": "In fact, there is evidence to support this claim."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A",
+  "aliases": [
+   "There is (some) reason/evidence to believe (that) [S V]"
+  ]
+ },
+ {
+  "frame": "have trouble/difficulty [V-ing]",
+  "gloss": "做某事有困难（如睡不好、想不起词）",
+  "notes": "trouble/difficulty后直接接V-ing，无介词",
+  "related": "[N] difficulty/difficulties in/with [V-ing/N]",
+  "examples": [
+   {
+    "id": "cet6-2023-12_03-2187",
+    "text": "At any age, we might experience difficulty finding the exact word we want or have trouble remembering the name of the person we just met."
+   },
+   {
+    "id": "cet6-2024-06_02-2281",
+    "text": "Classical music can also be a great tool to help people who have trouble sleeping."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "B",
+  "verdict_note": "have+n+V-ing 搭配"
+ },
+ {
+  "frame": "be (quite) another [N] / a whole other [N]",
+  "gloss": "完全是另一码事",
+  "notes": "whole other为口语化搭配，＝entirely different",
+  "related": "[X] is one thing; [Y] is another",
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2317",
+    "text": "Once we’ve successfully made that change, we then have to make other adjustments to our lives to ensure that we continue to maintain it, which is often a whole other challenge in itself."
+   },
+   {
+    "id": "cet6-2024-06_03-2364",
+    "text": "Research shows it is quite another challenge to maintain a behavioral change after you have initiated it."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "[S] be anything but [Adj]",
+  "gloss": "绝非、一点也不（后接形容词）",
+  "notes": "anything but与nothing but相反；【09-21裁决】入章 ##30（逆说强调）",
+  "related": "nothing less than [X] / nothing short of [X]",
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2367",
+    "text": "And here’s the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality. “In this era of choice, entertainment media are what captures hearts and minds,” Kim writes. “Its political consequences are anything but trivial”."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "despite the fact that [S V]",
+  "gloss": "尽管（although的名词化包装）",
+  "notes": "fact that同位语从句作despite宾语；【09-21裁决】词典级",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2023-12_01-2141",
+    "text": "Yet this study showed that even the junior roles in psychology journals tended to be held disproportionately by men, despite the fact that there are actually more female than male junior psychology faculty."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "skip"
+ },
+ {
+  "frame": "If [前提], then we would expect to see [推论]",
+  "gloss": "若假设成立，按理应观察到某结果",
+  "notes": "假设-演绎推理句式；【09-21裁决】组合（研究方法句式）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2023-12_03-2212",
+    "text": "If the benefits of being bilingual spill over to other aspects of cognition, then we would expect to see a lower incidence of Alzheimer’s disease in bilinguals than in monolinguals, or at least a later onset of Alzheimer’s for bilinguals."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "skip"
+ },
+ {
+  "frame": "In an age where [S V], [主句]",
+  "gloss": "在一个…的时代（背景化开头）",
+  "notes": "where引导时代名词的定语从句；【09-21裁决】并入 ##48（时代背景框族）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2387",
+    "text": "In an age where career progression may lead us into new sectors it is ever more important to challenge our sense of self and explore whether you can create a new experience of your you who define who you are."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "There is general consensus among [X] that [S V]",
+  "gloss": "在某群体中有普遍共识认为…",
+  "notes": "consensus后接同位语that从句；【09-21裁决】并入 ##1（共识版变体）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2362",
+    "text": "There is general consensus among experts that willpower alone cannot guarantee one’s success in changing and maintaining a habit."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "Say [S V], and [S V]",
+  "gloss": "比如说…（祈使词引入假设）",
+  "notes": "Say＝let us say，假设举例；【09-21裁决】入章 ##60（口语假设件）",
+  "related": "Take [N].（拿…来说）",
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2349",
+    "text": "Say your goal is to run five miles three times a week, and this week you ran one mile on Monday, Wednesday, and Friday."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "It's not [A] that [V], but [B] that [V]",
+  "gloss": "不是A而是B（强调句版先否后纠）",
+  "notes": "分裂句框架内嵌not...but对比；【09-21裁决】入章 ##22（强调句先否后纠）",
+  "related": "not [A] but (rather) [B]（先否后纠）",
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2325",
+    "text": "Sometimes, it’s not your process that lets you down, but the habit that you want to change in the first place."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "On one side are [A] who [V]",
+  "gloss": "一派是…（下句常接The opposing side…）",
+  "notes": "地点倒装引出争论一方；【09-21裁决】个案倒装",
+  "related": "Some [A], (and) others [B]",
+  "examples": [
+   {
+    "id": "cet6-2024-06_02-2288",
+    "text": "The distinction between these two strands of environmentalism is the cause of a split within the scientific On one side are purists who believe nuclear power isn’t worth the risk and the exclusive solution to the climate crisis is renewable energy."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "skip"
+ },
+ {
+  "frame": "supposing [S V], [主句]",
+  "gloss": "假如…（条件连词）",
+  "notes": "supposing＝if，口语化；【09-21裁决】并入 ##60（假设连词变体）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-12_01-2395",
+    "text": "It is reasonable to conclude that spending is praiseworthy, supposing it is not beyond your means."
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "The question is: [疑问句]",
+  "gloss": "问题在于…（后接直接疑问句）",
+  "notes": "冒号后保留疑问语序；【09-21裁决】并入 ##18（直接疑问句版变体）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-06_03-2361",
+    "text": "The question is: how badly do you really want to change?"
+   }
+  ],
+  "level": "cet6",
+  "batch": 10,
+  "status": "A"
+ },
+ {
+  "frame": "Given [NP], [主句]",
+  "gloss": "鉴于/考虑到某情况，主句由此成立。",
+  "notes": "given为介词勿视为分词",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-06_03-2649",
+    "text": "Still, given projected population growth in the developing world, there will certainly be an opportunity for countries such as the United States to bring their sustainable livestock rearing practices to the table."
+   },
+   {
+    "id": "cet6-2025-06_03-2653",
+    "text": "It’s hard to make a compelling argument that the United States has a calorie deficit, given its high national rates of adult and child obesity."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "A"
+ },
+ {
+  "frame": "[S] be bound to [V]",
+  "gloss": "注定/必然会发生某事。",
+  "notes": "推断语气，勿混被动被绑义",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-12_03-2476",
+    "text": "This observation is bound to set Marxist alarm bells ringing in the minds of some readers, but it was first made by Alexis de Tocqueville in 1840."
+   },
+   {
+    "id": "cet6-2024-12_03-2520",
+    "text": "Otherwise, the inborn biological upper hand that protectionists have in the form of nationalist solidarity is bound to win the day at the ballot box."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "B",
+  "verdict_note": "情态词组"
+ },
+ {
+  "frame": "Is [S] not [X]? / Don’t [S V]?",
+  "gloss": "难道…不…吗（反诘设问，不需回答）。",
+  "notes": "立靶引出作者反驳",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-06_02-2591",
+    "text": "Is happiness not a fleeting and subjective psychological state?"
+   },
+   {
+    "id": "cet6-2025-06_02-2592",
+    "text": "Don’t different people experience different levels of happiness?"
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "B",
+  "verdict_note": "否定疑问初中已会"
+ },
+ {
+  "frame": "[S] can/could and should [V]",
+  "gloss": "既能够也应当做某事。",
+  "notes": "情态并列强化义务",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-06_02-2602",
+    "text": "But it sets the bar far too low for what governments can and should be doing for their citizens."
+   },
+   {
+    "id": "cet6-2025-06_02-2605",
+    "text": "Over and above a vastly improved provision of therapeutic mental healthcare, there are preventative measures for improving mental health that governments could and should adopt."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "B",
+  "verdict_note": "并列情态，无骨架"
+ },
+ {
+  "frame": "[S V-ed X], but [Y]（but后省略谓语）",
+  "gloss": "而后者则…（but后省去与前面重复的动词）。",
+  "notes": "需补出谓语再理解",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-12_02-2444",
+    "text": "The study found that shared taste was most common for faces and natural landscapes, but least common among works of architecture and art."
+   },
+   {
+    "id": "cet6-2025-06_03-2632",
+    "text": "The problem was that analysts from the FAO used a comprehensive life-cycle assessment to study the climate impact of livestock, but a different method when they analyzed transportation."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "B",
+  "verdict_note": "省略承前，熟练度问题"
+ },
+ {
+  "frame": "It wasn’t until [X] that [S V]",
+  "gloss": "直到X才发生Y（not until强调句）。",
+  "notes": "X后that引出主句；【09-21裁决】并入 ##37（同族两批合并）",
+  "related": "It was [X] that …",
+  "examples": [
+   {
+    "id": "cet6-2025-06_01-2560",
+    "text": "For almost a decade, I told everyone I encountered that they should do the same. “Follow your passion,” I counseled. “You can figure out the employment stuff later.” It wasn’t until I began to research this widely accepted career advice that I understood how problematic it really was."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "A"
+ },
+ {
+  "frame": "It isn’t [A] (that) [S V], it is [B] (that) [S V]",
+  "gloss": "我们追求的并非A而是B（假分裂否定再肯定）。",
+  "notes": "强调对比结构；【09-21裁决】并入 ##22（假分裂变体）",
+  "related": "not [A] but (rather) [B]（先否后纠）",
+  "examples": [
+   {
+    "id": "cet6-2025-06_03-2677",
+    "text": "It isn’t the goods themselves we seek, it is the love we stand to gain through our possession of them."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "A"
+ },
+ {
+  "frame": "To [V1] is to [V2]",
+  "gloss": "做V1就等于做V2。",
+  "notes": "不定式主表语等同；【09-21裁决】入章 ##62（定义等同句）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-06_02-2609",
+    "text": "To demand that governments set the “happiness” of citizens as their highest priority is to demand that they view citizens as ends in themselves."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0526",
+    "text": "In order to make the most of our focus and energy, we also need to embrace downtime, or as Newport suggests, “be lazy”. “Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body...[idleness] is, paradoxically, necessary to getting any work done,” he argues."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "A",
+  "aliases": [
+   "as [Adj] to [A] as [B] is to [C]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ]
+ },
+ {
+  "frame": "more [N] than [复数NP] combined",
+  "gloss": "比…全部加起来还多。",
+  "notes": "combined后置修饰；【09-21裁决】入章 ##66（总和碾压对照）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-06_03-2630",
+    "text": "The agency drew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation combined."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "A"
+ },
+ {
+  "frame": "There is scarcely a single [N] that isn’t [V-ed]",
+  "gloss": "几乎没有一个X不…（双重否定表全称）。",
+  "notes": "scarcely...isn’t叠加；【09-21裁决】入章 ##32（双重否定全称）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-12_03-2488",
+    "text": "There is scarcely a single commodity in any American household that isn’t dependent for its manufacture and sale, through one supply chain or another, on scores of different people spread out across the entire globe."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "A"
+ },
+ {
+  "frame": "the last [N] but one",
+  "gloss": "倒数第二个…。",
+  "notes": "but=except，易误读为最后；【09-21裁决】词典级古旧",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2024-12_03-2513",
+    "text": "The last sentence but one is as apt a summary as one could hope to come by of how each of us functions in the modern economy: “He touches them, but he does not feel them.” L."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "skip"
+ },
+ {
+  "frame": "a means to an end, not an end in itself",
+  "gloss": "是手段而非目的本身。",
+  "notes": "成对习语，先立后否；【09-21裁决】降短语档（end=目的）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-06_02-2590",
+    "text": "But while a sustainable economy is vital to our future, it is a means to an end, not an end in itself. can be measured."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "B"
+ },
+ {
+  "frame": "In order for [sb] to [V], [主句]",
+  "gloss": "为了使某人能做某事。",
+  "notes": "for引出不定式逻辑主语；【09-21裁决】语法层",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-06_02-2584",
+    "text": "In order for women to gain half of the seats in Congress, more women need to run, 33 on Republican tickets."
+   }
+  ],
+  "level": "cet6",
+  "batch": 11,
+  "status": "skip"
+ },
+ {
+  "frame": "However [Adj]",
+  "gloss": "尽管/诚然……（让步），主句",
+  "notes": "as…as表让步非比较，易误读",
+  "related": "[A/Adv/N] as/though [S V]",
+  "examples": [
+   {
+    "id": "cet6-2025-12_02-2754",
+    "text": "As uncomfortable as it may make you continuously receiving unwanted advice, if you can respond with compassion, the situation will likely diffuse much faster."
+   },
+   {
+    "id": "cet6-2026-06-01-2897",
+    "text": "As much as that sounds like a politically correct TV advertisement, it's great that that's the time we're in now."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "A",
+  "aliases": [
+   "As [Adj/much] as [S V], [主句]"
+  ]
+ },
+ {
+  "frame": "[否定前句]; rather, [S V]",
+  "gloss": "……；更确切地说/恰恰相反，……",
+  "notes": "句级矫正，勿读成rather than",
+  "related": "not [A] but (rather) [B]（先否后纠）",
+  "examples": [
+   {
+    "id": "cet6-2025-12_02-2736",
+    "text": "Rather, it is inclusive and is not forced."
+   },
+   {
+    "id": "cet6-2025-12_03-2765",
+    "text": "In other words, no one speaks “standard English”; rather, it is an imagined way of using language that exists only in grammar and style books."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "A"
+ },
+ {
+  "frame": "[The finding/fact that [S V]] [谓语]",
+  "gloss": "「……这一发现/事实」+谓语：该发现表明/令人担忧",
+  "notes": "同位语从句作长主语，主谓分离易误读",
+  "related": "the [抽象名词] that [S V]（同位语 that 从句）",
+  "examples": [
+   {
+    "id": "cet6-2026-06-01-2908",
+    "text": "The finding that the alarmingly high rate of depression in British teenage girls is closely correlated to time spent on social media is extremely concerning."
+   },
+   {
+    "id": "cet6-2026-06-01-2912",
+    "text": "Although the research does not prove that social media causes depression, the importance of the finding that there is a connection should not be underestimated."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2017-0430",
+    "text": "Across the country, factory owners are now grappling with a new challenge: instead of having too many workers, they may end up with too few."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0486",
+    "text": "The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0524",
+    "text": "While the researchers assumed that the well-structured da ily plans would be most effective when it came to the execution of tasks, they were wrong: the detailed daily plans demotivated students."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "A",
+  "aliases": [
+   "[主句]: [S V / NP]（冒号展开）"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   12,
+   15
+  ],
+  "seed_hit": true
+ },
+ {
+  "frame": "[NP] keen to [V]",
+  "gloss": "急于/热衷做某事的（人或机构），后置修饰",
+  "notes": "keen to后置修饰NP，非谓语",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-01-2920",
+    "text": "Of course, social media companies are not the source of all our ills, and can offer a too- easy target for politicians keen to divert attention from inadequately resourced schools and health services."
+   },
+   {
+    "id": "cet6-2026-06-02-2966",
+    "text": "You can take note of how much carbon dioxide your forest is capturing and sell carbon credits to companies keen to offset their emissions."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "B",
+  "verdict_note": "形容词搭配，初中后已知"
+ },
+ {
+  "frame": "[术语], (a [N] which/known as [X])",
+  "gloss": "（术语）——即……（括号内嵌定义）",
+  "notes": "括号对内嵌定义，跳读易丢信息",
+  "related": "what we call / what are known as [X]",
+  "examples": [
+   {
+    "id": "cet6-2026-06-02-2963",
+    "text": "These targets include both the rehabilitation of forested areas that have lost density or look a bit weak (a process known as 'restoration' in forestry jargon) and the recovery of forest cover in areas where it was completely cleared (what's known as 'reforestation')."
+   },
+   {
+    "id": "cet6-2026-06-02-2973",
+    "text": "Although not technically reforestation, agroforestry (a system of land use in which harvestable trees or shrubs are grown among or around crops or on pasture land, as a means of preserving or enhancing the productivity of the land) provides an opportunity for small-holder farmers to sustain their livelihoods while adding some forest cover to their farms."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "A"
+ },
+ {
+  "frame": "[N] after [N] [V]",
+  "gloss": "一项接一项（研究）反复表明……",
+  "notes": "强调反复验证；【09-21裁决】入章 ##29（同名词复叠频度）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-12_01-2708",
+    "text": "Study after study shows that inequity has had appalling consequences."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "A"
+ },
+ {
+  "frame": "It's been [时间] since [S did], but [主句]",
+  "gloss": "自从……以来已过…之久，但……",
+  "notes": "since时间义，勿读成原因；【09-21裁决】语法层（since 完成时+but 组合）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-12_02-2732",
+    "text": "It’s been a quarter of a century since a computer beat world champion Garry Kasparov, but human chess hasn’t gone away."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "skip"
+ },
+ {
+  "frame": "[S] be at [one's] [最高级]",
+  "gloss": "处于最……的状态",
+  "notes": "at+物主代词+最高级；【09-21裁决】个案",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-12_02-2747",
+    "text": "It is possible that their emotions were only validated in childhood when they were at their loudest, encouraging them to adopt responses to discomfort that are excessive in most situations."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "skip"
+ },
+ {
+  "frame": "could not be/have a more [Adj] [N] than [B]",
+  "gloss": "再没有比……更……的了（逆说最高级）",
+  "notes": "否定+比较=最高级；【09-21裁决】入章 ##31（否定比较表最高级）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2025-12_03-2790",
+    "text": "The evolution of traffic light signals could not have a more appropriate context than Motor City."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "A"
+ },
+ {
+  "frame": "A is not necessarily [X], but neither is B",
+  "gloss": "A不必如此，B也同样不必",
+  "notes": "neither倒装回指对称否定；【09-21裁决】##17/##57 已编家族变体",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-01-2871",
+    "text": "Travel isn't necessarily required for them to do their jobs, but neither is staying in one place."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "skip"
+ },
+ {
+  "frame": "[数据句]—with half/twice as many [N] [V-ed]",
+  "gloss": "……，而……只有其一半（对照数据回声）",
+  "notes": "half as many是数量折半；【09-21裁决】个案数据回声",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-01-2909",
+    "text": "Research found that two in five girls are on social media for at least three hours a day—with half as many boys engaged to the same extent."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "skip"
+ },
+ {
+  "frame": "[There will/Now] come(s)",
+  "gloss": "同样将于今年出台的是……（表语前置倒装）",
+  "notes": "倒装识别：主语在句尾",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-01-2917",
+    "text": "Also due this year is information commissioner Elizabeth Denham's Age Appropriate Design Code, covering the use of children's personal data."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2012-1266",
+    "text": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1345",
+    "text": "Also unclear is why Microsoft has gone it alone."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1591",
+    "text": "Exactly when that day will be is a matter of debate."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2019-1672",
+    "text": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. “We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2021-1732",
+    "text": "Whether this research translates elsewhere is anybody's guess."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "A",
+  "aliases": [
+   "[Exactly when/Just how/Whether 小句] is [表语]",
+   "[表语Adj] is [wh-从句]（表语前置倒装）",
+   "[Also/Now] [Adj/V-ed] [时间] is [NP]"
+  ],
+  "levels_seen": [
+   "cet6",
+   "kaoyan"
+  ],
+  "multi_batch": [
+   12,
+   18,
+   19
+  ]
+ },
+ {
+  "frame": "Is it [X]? Or is it [Y]?",
+  "gloss": "它是……吗？还是……？（设问二分）",
+  "notes": "二选一设问引导下文；【09-21裁决】语法层设问",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-02-2997",
+    "text": "Is it something that runs on internal energy that is spent with use?"
+   },
+   {
+    "id": "cet6-2026-06-02-2998",
+    "text": "Or is it something that is bolstered as you apply it and persist?"
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "skip"
+ },
+ {
+  "frame": "Sometimes, it's [A]. Other times, it's [B].",
+  "gloss": "有时是……，有时则是……（因时而异）",
+  "notes": "成对展开下定义；【09-21裁决】平行结构读不错",
+  "related": "For one thing...; For another...",
+  "examples": [
+   {
+    "id": "cet6-2026-06-02-2994",
+    "text": "Sometimes, it's the ability to resist temptation, such as distractions to avoid a particular task."
+   },
+   {
+    "id": "cet6-2026-06-02-2995",
+    "text": "Other times it's the ability to persist with a task when your energy and motivation seem low."
+   }
+  ],
+  "level": "cet6",
+  "batch": 12,
+  "status": "skip"
+ },
+ {
+  "frame": "one in [X] / [X] out of [Y] / [a third] of [复数N] + [谓语]",
+  "gloss": "报告调查统计比例的主语句型（六分之一/十分之七/三分之一的人如何）",
+  "notes": "比例短语作主语接复数谓语，one in six do 易错读",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3050",
+    "text": "However, this concern does not always carry through to practice—one in six do not feel confident enough to do it."
+   },
+   {
+    "id": "cet6-2026-06-03-3051",
+    "text": "More than one in every four parents think children should take responsibility for understanding money themselves."
+   },
+   {
+    "id": "cet6-2026-06-03-3079",
+    "text": "N) Seven out of ten teachers think children are now faced with financial decisions earlier."
+   },
+   {
+    "id": "cet6-2026-06-03-3081",
+    "text": "O) Only a third of parents involve their children in discussions about their household finances, even though less than half of young people aged seven to seventeen receive financial education at school, another survey shows."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "B",
+  "verdict_note": "分母表达，数词结构"
+ },
+ {
+  "frame": "[be] essential to [V-ing] / the key to [V-ing]",
+  "gloss": "对……必不可少 / 是……的关键（此处 to 为介词）",
+  "notes": "to 后必须接动名词，勿误读为不定式",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3122",
+    "text": "Deploying modern grid infrastructure with speed and at scale is essential to replacing these temporary solutions with reliable and affordable alternatives."
+   },
+   {
+    "id": "cet6-2026-06-03-3123",
+    "text": "The rapidly growing private power sector in Africa holds the key to achieving the speed and scale necessary to close the continent's energy access gap."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "B",
+  "verdict_note": "介词搭配，初中后已知"
+ },
+ {
+  "frame": "Just as [Adj], if not more so, is that [S V]",
+  "gloss": "同样（甚至更）令人警醒的是……",
+  "notes": "表语前置倒装，if not more so 插入让步；【09-21裁决】并入 ##58（倒装递进族变体）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-02-3022",
+    "text": "Just as alarming, if not more so, is that the amount of time teens spend on social media can lead to anxiety and depression."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "A"
+ },
+ {
+  "frame": "If [A] can [V], so can [B]",
+  "gloss": "既然 A 能（合法）做到，B 也能",
+  "notes": "条件+so+倒装，类比论证收尾句；【09-21裁决】入章 ##59（类比论证）",
+  "related": "Just as [A], so [B]",
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3097",
+    "text": "If streaming music can be accomplished within the law, so can AI products."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "A"
+ },
+ {
+  "frame": "[X] is what [S] [V] [介词] by",
+  "gloss": "X 正是许多生成模型作者声称其训练数据受其保护的东西",
+  "notes": "假分裂句，从句尾留介词；【09-21裁决】个案",
+  "related": "What … is/was …",
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3103",
+    "text": "Fair use, a legal doctrine that allows for a limited usage of copyrighted materials without permission by the original creators for purposes such as teaching and news sharing, is what a lot of generative model creators claim that their training data is covered by."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "[S] is one of [复数N], many of whom [V], who [V]",
+  "gloss": "他是数亿……之一（其中许多是……），他们仍……",
+  "notes": "many of whom 与 who 双层关系从句叠加；【09-21裁决】链",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3113",
+    "text": "Agok is just one of the hundreds of millions of people in sub- Saharan Africa, many of whom are business owners, who still do not have dependable electricity."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "Not only [助/be+S+V], but [S] have also [V-ed]",
+  "gloss": "不仅许多艺术家愤怒，而且他们还一直受挫",
+  "notes": "not only 居句首须主谓倒装；【09-21裁决】语法层倒装",
+  "related": "not only [A] but (also) [B]",
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3099",
+    "text": "Not only are many artists furious at the possible copyright violations of AI art, but they have also been frustrated by how AI tools are able to sidestep the labor and art processes they are required to go through."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "[X] is not just [A]; [S] will [B]",
+  "gloss": "不只是 A；更会 B（分号递进升级）",
+  "notes": "分号引出比 not just 更重的后果；【09-21裁决】组合",
+  "related": "not only [A] but (also) [B]",
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3095",
+    "text": "AI image products are not just an infringement of artists' rights; they will eliminate 'artist' as a viable career path."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "[主句], which [research suggests] is (not always) the case",
+  "gloss": "而研究表明情况（并非总是）如此",
+  "notes": "which 后嵌套报道插入再接谓语，易读断；【09-21裁决】插入个案",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3063",
+    "text": "This is dependent on the children receiving enough pocket money to need an app to track their spending, which research suggests is not always the case."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "—[NP], [V-ed], being a notable exception",
+  "gloss": "——……是显著的例外",
+  "notes": "being 分词短语作例外补述收尾；【09-21裁决】个案（同位语例外注）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-2026-06-03-3064",
+    "text": "J) Surprisingly, given the research about habit-forming in young children, there are very few gaming apps that can help under-sevens—Pigby's Fair, developed by NatWest, being a notable exception."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "just the act of [V-ing]—and not [V-ing it]—had [效果]",
+  "gloss": "仅仅计划拍照这一行为本身（而非实际拍摄）就有同样效果",
+  "notes": "名词化对比：行为本身 vs 行为执行；【09-21裁决】个案对照",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-cet6-2018-06-3165",
+    "text": "No, they found; just the act of planning to take a photo—and not actually taking it—had the same joy-boosting effect. “If you want to take mental photos, that works the same way,” Diehl says. “Thinking about what you would want to photograph also gets you more engaged.” 51."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "[This finding] could have important implications for [wh-小句]",
+  "gloss": "这一发现对如何看待……可能有重要启示",
+  "notes": "学术评述句，implications 后接 for+how 从句；【09-21裁决】词典级套语",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-cet6-2018-06-3150",
+    "text": "And this finding could have important implications for how we think about educating adolescents."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "[同位语NP] that's \"[引语片段],\" [sb] points out",
+  "gloss": "——一个『小但相近』的量，某考古学家指出",
+  "notes": "引语片段作同位语谓语+尾置报道；【09-21裁决】已编族：##19 报道插入族",
+  "related": "引语后置报道：'[直接引语]', says/explains [NP]",
+  "examples": [
+   {
+    "id": "cet6-cet6-2018-06-3143",
+    "text": "seconds north of due east) —an amount that’s “tiny, but similar,” archeologist Atlas Obscura points out."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "：[wh-小句], [wh-小句], [wh-小句], ...",
+  "gloss": "冒号后用一串 wh 短语铺陈细节（谁入圈、谁出圈、谁喜欢谁）",
+  "notes": "排比补述，who likes whom 宾格易读错；【09-21裁决】个案（冒号铺陈）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-cet6-2018-06-3155",
+    "text": "If humans are generally geared to recall details about one another, this pattern is probably even more powerful among teenagers who are very attentive to social details: who is in, who is out, who likes whom, who is mad at whom."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "[人名], [多重同位语], and author of [书名], [V] that",
+  "gloss": "利伯曼——加州大学洛杉矶分校社会认知神经科学家、2013 年某书作者——怀疑……",
+  "notes": "同位语堆叠拉开主谓距离，谓语易跟丢；【09-21裁决】链（人名同位语堆叠）",
+  "related": null,
+  "examples": [
+   {
+    "id": "cet6-cet6-2018-06-3151",
+    "text": "Lieberman, a social cognitive neuroscientist at the University of California, Los Angeles, and author of the 2013 book Social: Why Our Brains Are Wired to Connect , suspects that the human brain is especially adept at learning socially salient information."
+   }
+  ],
+  "level": "cet6",
+  "batch": 13,
+  "status": "skip"
+ },
+ {
+  "frame": "[S V ...], and/or [助动词/情态词]（独用）",
+  "gloss": "助动词后省去与前文相同的谓语，只剩 do/will/can 等回指前文动作。",
+  "notes": "勿把助动词当完整谓语，省略回指前句",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2017-0006",
+    "text": "And it should: Wasted time is a drag on Americans' economic and private lives, not to mention infuriating."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2018-0131",
+    "text": "But many middle-class occupations - trucking, financial advice, software engineering - have aroused their interest, or soon will."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2018-0192",
+    "text": "If software promises to save lives on the scale that drugs now can, big data may be expected to behave as a big pharma has done."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "A"
+ },
+ {
+  "frame": "[V/be] less [on/about] [A] and more [on/about] [B]",
+  "gloss": "与其说重在A，不如说重在B——重心后置的取舍对照。",
+  "notes": "非程度比较，是重心对照",
+  "related": "not so much [A] as [B]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2018-0138",
+    "text": "Curriculums - from grammar school to college - should evolve to focus less on memorizing facts and more on creativity and complex communication."
+   },
+   {
+    "id": "kaoyan-kaoyan-1-2019-0265",
+    "text": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "A"
+ },
+ {
+  "frame": "[A], combined with [B], [谓语]",
+  "gloss": "A 连同 B 一起造成…；谓语数只与 A 一致。",
+  "notes": "插入语不改主谓一致 09-21裁决：主谓一致语法层，combined with 插入不改变主语数——语法书内容",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2017-0008",
+    "text": "Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago's O'Hare International."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "skip"
+ },
+ {
+  "frame": "At issue is [NP]",
+  "gloss": "争议焦点在于…（表语前置倒装）。",
+  "notes": "主语在 is 之后 09-21裁决：倒装表语前置=14章##13 已编族（Also missing is 同款），四级池未见不重复收",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2017-0031",
+    "text": "At issue is the TMT' s planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "skip"
+ },
+ {
+  "frame": "There is no reason why [S] cannot [V]",
+  "gloss": "没有理由不让…＝完全可以。",
+  "notes": "双重否定表充分许可 09-21裁决：三判据过——晋升入 15章 ## 22",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2017-0046",
+    "text": "There is no reason why everyone cannot be welcomed on Mauna Kea to embrace their cultural heritage and to study the stars."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "A"
+ },
+ {
+  "frame": "everything except that which [S V]",
+  "gloss": "除了…之外的一切；that which 是正式书面关系代词。",
+  "notes": "that which 相当于 what 09-21裁决：that which=what 的书面关系代词，语法层；measure everything except that which… 骨架死度不足",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2017-0050",
+    "text": "Kennedy once said that a country's GDP measures \"everything except that which makes life worthwhile."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "skip"
+ },
+ {
+  "frame": "[S V], never to [V]",
+  "gloss": "…了，从此再未…（不定式表结果）。",
+  "notes": "结果不定式，常带悲剧色彩 09-21裁决：三判据过——晋升入 15章 ## 23",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2017-0106",
+    "text": "Yet two years before Dickens's birth, his mother's father was caught stealing and fled to Europe, never to return."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "A"
+ },
+ {
+  "frame": "In this as in much else, [S V]",
+  "gloss": "此事一如其他许多事……类比引入总括。",
+  "notes": "in A as in B 固定类比 09-21裁决：三判据过——晋升入 15章 ## 24",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2017-0120",
+    "text": "In this as in much else, those who wish to influence the future must prepare for it."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "A"
+ },
+ {
+  "frame": "Any [评价N] of [A] must start by [V-ing] that [B]",
+  "gloss": "任何对A的评判都得先承认B。",
+  "notes": "先让步再立论的开场 09-21裁决：三判据过——晋升入 15章 ## 25",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2018-0175",
+    "text": "QslèQlO\u0017S÷0\u0010Q°gàgB'ú0\u0011QM9SÖfôY\u001a\u0003x\u0014De Text3 Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "A"
+ },
+ {
+  "frame": "It is not enough to say that [S V]",
+  "gloss": "仅说…并不够，为反驳铺垫。",
+  "notes": "让步后转出真正论点 09-21裁决：三判据过——晋升入 15章 ## 26",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2018-0190",
+    "text": "It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "A"
+ },
+ {
+  "frame": "Now comes word that [S V]",
+  "gloss": "如今传来消息说……倒装加同位语从句。",
+  "notes": "不及物倒装，word 后接 that 09-21裁决：并入 15章##12 变体注（与 13章##28/14章##13 家族呼应）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2018-0205",
+    "text": "Now comes word that everyone involved - Democrats, Republicans, the Postal Service, the unions and the system's heaviest users - has finally agreed on a plan to fix the system."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "skip"
+ },
+ {
+  "frame": "Also missing is [NP]",
+  "gloss": "同样缺失的是……分词表语前置倒装。",
+  "notes": "表语前置，主语后置 09-21裁决：分词表语前置倒装=14章##13 已编族（Gone are the days 亦是同族）",
+  "related": "Gone are the days of/when",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2018-0210",
+    "text": "Also missing is any discussion of eliminating Saturday letter delivery."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "skip"
+ },
+ {
+  "frame": "[主语], [S] [notes/says], [谓语]",
+  "gloss": "句中插入报道语，隔开主语和谓语。",
+  "notes": "主谓间插入语，勿误断句 09-21裁决：主谓间插入=15章##12 变体注（he notes 例已收入）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2019-0247",
+    "text": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "skip",
+  "seed_hit": true
+ },
+ {
+  "frame": "That said, [主句]",
+  "gloss": "话虽如此……让步后转折。",
+  "notes": "承接让步再转 09-21裁决：话语标记降短语档（考研篇短语档已编，同 04章##2 族）",
+  "related": "admittedly / granted / to be sure",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2019-0266",
+    "text": "Ultimately,\" said Jack Miner, Ohio State University's registrar, \"we see students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time.\" That said, there is a way in which grade forgiveness satisfies colleges' own needs as well."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "B"
+ },
+ {
+  "frame": "But that doesn't mean (that) [S V]",
+  "gloss": "但这并不意味着……驳斥表面推论。",
+  "notes": "切断让步与结论 09-21裁决：just because doesn't mean 反向版=13章##26 已编族",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2019-0281",
+    "text": "We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\" But that doesn't mean crucial ethical issues involving AI aren't at hand."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "skip"
+ },
+ {
+  "frame": "So does [NP that [S V]]",
+  "gloss": "……也一样；so 倒装回指前句。",
+  "notes": "so+助动词+主语倒装 09-21裁决：so 倒装回指=14章##57 已编族",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2019-0292",
+    "text": "So does the idea that decisions made by AI systems should be explainable, transparent, and fair."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 14,
+  "status": "skip"
+ },
+ {
+  "frame": "whether that be [A] / be it [A], [B] or [C]",
+  "gloss": "无论是…还是…（让步虚拟）",
+  "notes": "省略should的让步虚拟，be前移倒装",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2017-0405",
+    "text": "There's always a constant fear of falling behind everyone else on the socially perpetuated \"race to the finish line,\" whether that be toward graduate school, medical school or lucrative career."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0518",
+    "text": "There are a number of approaches to mastering the art of deep work – be it lengthy retreats dedicated to a specif ic task; developing a daily ritual; or taking a “journalistic” approach to seizing moments of deep work when you can throughout the day."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "Suppose/Imagine (that) [情景]，[推演]",
+  "gloss": "设想某情景，再展开推演",
+  "notes": "思想实验开场，替代if从句且更口语化",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2019-0337",
+    "text": "Imagine that you favor increasing the minimum wage in our state, and I do not."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0535",
+    "text": "Suppose you are in a room with someone you don’t know and something within you says “I want to talk with this person” – this is something that mostly happens with all of us."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0548",
+    "text": "Imagine you are pouring your heart out to someone and they are just busy on their phone, and if you ask for their attention you get the response “I can multitask”."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "[S] is where [S V]",
+  "gloss": "…正是…所在/症结所在",
+  "notes": "where从句作表语表定位，非地点义",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2017-0448",
+    "text": "It's that gap in between, and that's where the problem is."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2018-0550",
+    "text": "Trust me, eye contact is where all the magic happens."
+   },
+   {
+    "id": "cet6-2019-06_03-1200",
+    "text": "M) This is where a culture of social responsibility around CubeSats becomes important—not simply to ensure that physical risks are minimized, but to engage with a much larger community in anticipating and managing less obvious consequences of the technology."
+   },
+   {
+    "id": "cet6-2019-06_03-1203",
+    "text": "Here's where there needs to be a much wider public conversation that extends beyond government agencies and scientific communities to include students, hobbyists, and anyone who may potentially stand to be affected by the use of CubeSat technology."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A",
+  "aliases": [
+   "This/Here is where [S V]"
+  ]
+ },
+ {
+  "frame": "[主句], [S] says/said, [主句续]",
+  "gloss": "报道动词作插入语，分隔前后成分",
+  "notes": "插入语打断主谓或从句与主句，易误读",
+  "related": "引语后置报道：'[直接引语]', says/explains [NP]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2019-0313",
+    "text": "The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2017-0420",
+    "text": "While climate is a key element, Moritz says, it shouldn’t come at the expense of the rest of the equation. “ The human systems and the landscapes we live on are linked, and the interactions go both ways,” he says."
+   },
+   {
+    "id": "cet6-2016-06_01-0059",
+    "text": "Unemployment cannot be brought down rapidly, declared one 1935 analysis, because the workforce is “unadaptable and untrained."
+   },
+   {
+    "id": "cet6-2016-06_02-0114",
+    "text": "The average budget for a “major” kitchen overhaul in 2006, calculates Remodeling magazine, was a staggering $54,000; even a “minor” improvement cost on average $18,000."
+   },
+   {
+    "id": "cet6-2016-12_01-0245",
+    "text": "And early identification, support and treatment for mental health issues, he says, are the best ways to keep them from turning into full-blown disorders."
+   },
+   {
+    "id": "cet6-2017-12_02-0630",
+    "text": "In some cases, says data scientist Karthik Ram, it may be difficult for junior researchers to embrace openness when senior colleagues— many of whom head selection and promotion committees —might ridicule what they may view as misplaced energies."
+   },
+   {
+    "id": "cet6-2018-06_01-0762",
+    "text": "Such findings, he says, suggest that “this network can be called on to process and store the kind of information taught in school—potentially giving students access to a range of untapped mental powers.” among teenagers who are very attentive to social details: who is in, who is out, who likes whom, who is mad at whom."
+   },
+   {
+    "id": "cet6-2018-06_03-0858",
+    "text": "The right college, I thought, was one with prestige, one with a name."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A",
+  "aliases": [
+   "[主语+谓语前半], [declared/calculates/he says + 主语], [谓语后半]（主谓间插入报道）",
+   "[陈述句], says [来源NP]",
+   "[引语], as [身份 NP] puts it",
+   "[从句/主语], [人名] told me / found, [谓语]",
+   "'[引语前半]', [wrote/said] [NP(同位语)], '[引语后半]'"
+  ]
+ },
+ {
+  "frame": "Rather than/Instead of [A], [新主语] [V]",
+  "gloss": "与其A，B反而…（主语常换）",
+  "notes": "对比短语开头，后接换主语陈述句",
+  "related": "rather than + V-ing + 祈使句（与其A不如B）",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2017-0407",
+    "text": "Rather than pulling students back, a gap year pushes them ahead by preparing them for independence, new responsibilities and environmental changes—all things that first-year students often struggle with the most."
+   },
+   {
+    "id": "kaoyan-kaoyan-2-2017-0392",
+    "text": "Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "were you to [V]",
+  "gloss": "如果你要…（虚拟倒装）",
+  "notes": "were倒装条件句，与should you同族 09-21裁决：虚拟倒装=14章##45 were to + 06章##2 Should you 同族已编",
+  "related": "Should you [V]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2017-0412",
+    "text": "At Boston College, for example, you would have to complete an extra year were you to switch to the nursing school from another department."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "skip"
+ },
+ {
+  "frame": "It may be that [S V]",
+  "gloss": "可能情况是…/关键其实在于…",
+  "notes": "may be被拆读成maybe是高频误读点 09-21裁决：情态弱化判断=14章##25 It could be that 同族变体，已编族不重复收",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2018-0505",
+    "text": "It may be that the value of Whole Foods to Amazon is not so much the 460 shops it owns, but the records of which customers have purchased what."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "skip"
+ },
+ {
+  "frame": "[主句], most of them [补语]",
+  "gloss": "…，其中大多数…（独立主格）",
+  "notes": "most of them+名词/介词短语作绝对结构 09-21裁决：独立主格=12章##5 with+NP+补语同层语法结构，语法层不收",
+  "related": "with + [NP] + [补语]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2019-0595",
+    "text": "Already, since 2010, drought and insects have killed over 100 million trees in California, most of them in 2016 alone, and wildfires have burned hundreds of thousands of acres."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "skip"
+ },
+ {
+  "frame": "that would otherwise [V]",
+  "gloss": "否则原本会…的（暗含反事实）",
+  "notes": "otherwise承前指代，省译则句意不通 09-21裁决：13章##10 would otherwise 已编",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2019-0598",
+    "text": "The strategy also aims to ensure that carbon in woody material removed from the forests is locked away in the form of solid lumber or burned as biofuel in vehicles that would otherwise run on fossil fuels."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "skip"
+ },
+ {
+  "frame": "[S] was, and still is, [C]",
+  "gloss": "过去是且现在仍是…",
+  "notes": "插入and still is强调延续 09-21裁决：三判据过——晋升入 15章 ## 27",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2017-0455",
+    "text": "Before applying for university I told everyone that I would study journalism, because writing was, and still is, one of my favourite activities."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "There is as much [A] as there is [B]",
+  "gloss": "对A的…丝毫不亚于对B的…",
+  "notes": "存在句套as much as平行比较 09-21裁决：三判据过——晋升入 15章 ## 28",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2017-0387",
+    "text": "There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "Whichever [N], [主句]",
+  "gloss": "无论选哪个…，（关键都是）…",
+  "notes": "wh-限定词悬空省略句，后主句另起 09-21裁决：三判据过——晋升入 15章 ## 29",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2018-0519",
+    "text": "Whichever approach, the key is to determine your length of focus time and stick to it."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "Never mind [A], [祈使句]",
+  "gloss": "别管A了，（先）B吧",
+  "notes": "never mind让步切换话题再给指令 09-21裁决：三判据过——晋升入 15章 ## 30",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-1-2019-0346",
+    "text": "Never mind the quality, then, count the number. ( 48) Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant's papers."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "[A] is succeeding where [B] is failing",
+  "gloss": "A恰在B失败之处成功",
+  "notes": "where引对照场域，褒贬对照 09-21裁决：三判据过——晋升入 15章 ## 31",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2017-0378",
+    "text": "Parkrun is succeeding where London's Olympic \"legacy\" is failing."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "[S] be born [V-ing]",
+  "gloss": "并非天生就…/生来就…",
+  "notes": "born后直接跟现在分词补语 09-21裁决：三判据过——晋升入 15章 ## 32",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2019-0568",
+    "text": "Children aren’t born knowing how to say “I’m sorry”; rather, they learn over time that such statements appease parents and friends – and their own consciences."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "A"
+ },
+ {
+  "frame": "[how-much/how-adj 小句] [V]（wh小句作主语）",
+  "gloss": "「他们分享多少」取决于「他们多内疚」",
+  "notes": "两个how小句分别作主语和宾语 09-21裁决：wh小句主语=02章##1 What…is/was 同族语法层",
+  "related": "What … is/was …",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2019-0583",
+    "text": "For the low-sympathy kids, how much they shared appeared to turn on how inclined they were to feel guilty."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 15,
+  "status": "skip"
+ },
+ {
+  "frame": "It is crucial that [S (should) V原形] / the demand that [S V原形]",
+  "gloss": "关键/要求类that从句用虚拟语气动词原形",
+  "notes": "单数主语后接be/do原形，勿当成语法错误",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0805",
+    "text": "If we are ever going to protect the atmosphere, it is crucial that those new plants be environmentally sound."
+   },
+   {
+    "id": "kaoyan-kaoyan1-2020-0698",
+    "text": "Publishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "A"
+ },
+ {
+  "frame": "all too [Adj/Adv]",
+  "gloss": "实在太…（常含无奈或贬义）",
+  "notes": "all too human=人之常情，勿读成all+too",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-2020-0708",
+    "text": "But all too often such policies are an insincere form of virtue-signaling that benefits only the most privileged and does little to help average people."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0790",
+    "text": "Such behaviour is regarded as \"all too human\", with the underlying assumption that other animals would not be capable of this finely developed sense of grievance."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0791",
+    "text": "But a study by Sarah Brosnan and Frans de Waal of Emory University in Atlanta, Georgia, which has just been published in Nature, suggests that it is all too monkey as well."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "B",
+  "verdict_note": "程度副词组"
+ },
+ {
+  "frame": "[if/when/whether] + [表语/介词短语]（省略主语+be）",
+  "gloss": "连词后直接接形容词或介短，省去主语和系动词",
+  "notes": "还原'主语+is'再读；whether in A or in B同款 09-21裁决：例句错位（1/2 例非省略结构）+省略主语 be 属语法层；whether in A or in B 由 15章##3 be it 覆盖",
+  "related": "when/while [V-ed (with/by NP)], [主句]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2019-0647",
+    "text": "Greg Jaroszewski, real estate broker with Gagliardo Realty Associates, said he’s not convinced that kids should be involved in selecting a home – but their opinions should be considered in regards to proximity to friends and social activities, if possible."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0814",
+    "text": "The brain is as active during REM (rapid eye movement) sleep — when most vivid dreams occur — as it is when fully awake, says Dr."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0829",
+    "text": "Americans no longer expect public figures, whether in speech or in writing, to command the English language with skill and gift."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "[S/连词], it seems/appears, [谓语/从句]",
+  "gloss": "评注插入语it seems把主谓或连词与从句切开",
+  "notes": "跳过插入语先接主干，是评注不是真主语",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0788",
+    "text": "Feelings of righteous indignation, it seems, are not the preserve of people alone."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0817",
+    "text": "Because our conscious mind is occupied with daily life we don't always think about the emotional significance of the day's events until, it appears, we begin to dream."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "A"
+ },
+ {
+  "frame": "[S] responded (to [X]) by [V-ing]",
+  "gloss": "以…方式回应",
+  "notes": "by短语回挂responded，中间可隔长从句",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2019-0620",
+    "text": "Some western farmers have responded by moving operations to Mexico."
+   },
+   {
+    "id": "kaoyan-kaoyan1-2020-0698",
+    "text": "Publishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "A"
+ },
+ {
+  "frame": "Nor do [S] [V]",
+  "gloss": "前句否定后，nor+助动词倒装续接",
+  "notes": "09-21裁决：15章##10 Nor 倒装已编",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0830",
+    "text": "Nor do they aspire to such command themselves."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "[比较级] than do [S]",
+  "gloss": "than后接倒装助动词",
+  "notes": "09-21裁决：than 后倒装=14章##57 回指族变体，语法层",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2006-0857",
+    "text": "Foreign-born Asians and Hispanics \"have higher rates of intermarriage than do U.S.-born whites and blacks."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "[祈使句] — and [S will V]",
+  "gloss": "祈使句+and相当于条件句",
+  "notes": "09-21裁决：祈使句+and 条件义=09-18 四级重裁已定语法层砍（同祈使句+and）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0823",
+    "text": "Sleep — or rather dream on it — and you'll feel better in the morning."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "Hence the [N] of [X] as [Y]",
+  "gloss": "hence直接接名词短语，无谓语",
+  "notes": "09-21裁决：三判据过——晋升入 15章 ## 33",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2006-0855",
+    "text": "Hence the description of America as a \"graveyard\" for languages."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "A"
+ },
+ {
+  "frame": "have a long way to go before [S V]",
+  "gloss": "距…还很远",
+  "notes": "09-21裁决：三判据过——晋升入 15章 ## 34",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2019-0614",
+    "text": "Even dairy farms, where robots do a small share of milking, have a long way to go before they’re automated."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "A"
+ },
+ {
+  "frame": "The mere [N] (of X) was enough to [V]",
+  "gloss": "仅凭…就足以…",
+  "notes": "09-21裁决：三判据过——晋升入 15章 ## 35",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2005-0785",
+    "text": "Indeed, the mere presence of a grape in the other chamber (without an actual monkey to eat it) was enough to induce resentment in a female capuchin."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "A"
+ },
+ {
+  "frame": "the best way to [V] is for [NP] to [V]",
+  "gloss": "表语用for-to不定式，'关键在于让…'",
+  "notes": "09-21裁决：for-to 不定式表语，语法层；产出侧判据不足",
+  "related": "The/One/Best way to [V] is [by V-ing / to V]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan-2-2019-0636",
+    "text": "DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "It was the [抽象N] of [sb] to [V]",
+  "gloss": "外置：做…是某人的职责/特点",
+  "notes": "09-21裁决：外置主语 it=形式主语，语法层",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-2020-0771",
+    "text": "It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "[N] in which to [V]",
+  "gloss": "介词+which+不定式作后置定语",
+  "notes": "09-21裁决：介词+which+不定式后置定语，语法层",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-2020-0686",
+    "text": "Scientists need journals in which to publish their research, so they will supply the articles without monetary reward."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "needs only [V原形]",
+  "gloss": "need作半情态动词接原形",
+  "notes": "09-21裁决：need 半情态用法，词典语法条目",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-2020-0688",
+    "text": "With the content of papers secured for free, the publisher needs only find a market for its journal."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "which [S] must [短语动词] (take … into account)",
+  "gloss": "which充当被拆开的短语动词宾语",
+  "notes": "09-21裁决：短语动词宾语前置，语法层（碎片式条目，链中局部）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2006-0899",
+    "text": "Worm argue that their work gives a correct baseline, which future management efforts must take into account."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": ", which you may be sure will [V]",
+  "gloss": "which从句内插you may be sure评注语",
+  "notes": "09-21裁决：从句内插评注=15章##15 it seems 插入同功能，碎片段不单独成节",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2006-0874",
+    "text": "Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "such as when [S V]",
+  "gloss": "such as后接整个when从句举例",
+  "notes": "09-21裁决：三判据过——晋升入 15章 ## 36",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-2020-0752",
+    "text": "But it can also be antagonistic such as when a political candidate turns toward their competitor during a debate and makes eve contact that signals hostility."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "A"
+ },
+ {
+  "frame": "[N] characteristic of [N]",
+  "gloss": "后置形容词短语'…所特有的'",
+  "notes": "09-21裁决：后置形容词短语，语法层",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2006-0845",
+    "text": "There is \"the democratizing uniformity of dress and discourse, and the casualness and absence of deference\" characteristic of popular culture."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 16,
+  "status": "skip"
+ },
+ {
+  "frame": "All [S] have/needs to do is (to) [V]",
+  "gloss": "（某人）只需做…就行了",
+  "notes": "all后省关系词，表语不定式可省to",
+  "related": "[The/Another/one] thing (that) [S V] is [to V/表语]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1183",
+    "text": "All I have to do is to go to my CD shelf, or boot up my computer and download still more recorded music from iTunes."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2009-1072",
+    "text": "All he needs to do is shell out $30 for a paternity testing kit (PTK) at his local drugstore - and another $120 to get the results."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "A"
+ },
+ {
+  "frame": "There is/are [类别N], where [S V]",
+  "gloss": "有一类/一种…，在其中…（列举类别并用where定义）",
+  "notes": "where非地点，给前面的类别下定义 09-21裁决：非限定 where=15章##11 is where 同族语法层（where 非地点义的句型版已编）",
+  "related": "[NP], where [S V]（非限定 where 从句）",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2008-1005",
+    "text": "There is the so-called big deal, where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2008-1006",
+    "text": "Finally, there are open-access archives, where organizations such as universities or international laboratories support institutional repositories."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2008-1007",
+    "text": "Other models exist that are hybrids of these three, such as delayed open-access, where journals allow only subscribers to read a paper for the first six months, before making it freely available to everyone who wishes to see it."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "[X] come(s) as a surprise (to [sb])",
+  "gloss": "…（对某人来说）出人意料",
+  "notes": "come非\"来\"，常带such/should表意外",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2007-0980",
+    "text": "The mystery is that this should come as a surprise to any boss."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1180",
+    "text": "One of the reasons why the appointment came as such a surprise, however, is that Gilbert is comparatively little known."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "A"
+ },
+ {
+  "frame": "the very [N]",
+  "gloss": "正是/恰是那个N（强调该名词本身）",
+  "notes": "very作形容词，勿当副词\"非常\"",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2006-0922",
+    "text": "And since these messages have an agenda - to lure us to open our wallets - they make the very idea of happiness seem unreliable."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2009-1087",
+    "text": "However, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1240",
+    "text": "Even though the day-to-day experience of raising kids can be soul-crushingly hard, Senior writes that “the very things that in the moment dampen our moods can later be sources of intense gratification and delight."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2014-1392",
+    "text": "Even the very phrase \"jobseeker's allowance\" is about redefining the unemployed as a \"jobseeker\" who had no fundamental right to a benefit he or she has earned through making national insurance contributions."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "B",
+  "aliases": [
+   "the very [N] (that [S V])"
+  ],
+  "levels_seen": [
+   "kaoyan"
+  ],
+  "multi_batch": [
+   17,
+   18
+  ],
+  "verdict_note": "very 强调形容词，词级"
+ },
+ {
+  "frame": "[S] would not [V] without [NP]",
+  "gloss": "没有…就不会…（句内双重否定）",
+  "notes": "without短语后置句尾，勿拆读漏否",
+  "related": "Without [NP], [主句(would…)]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2008-1033",
+    "text": "The southern states would not have signed the Constitution without protections for the “peculiar institution,” including a clause that counted a slave as three fifths of a man for purposes of congressional representation."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2009-1086",
+    "text": "Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "A"
+ },
+ {
+  "frame": "[farther/two degrees等] removed from [NP]",
+  "gloss": "与…相隔/远离（某种程度）",
+  "notes": "removed非\"被移除\"，表距离程度",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2010-1118",
+    "text": "We are even farther removed from the unfocused newspaper reviews published in England between the turn of the 20th century and the eve of World War II, at a time when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2010-1148",
+    "text": "If people in the network just two degrees removed from the initial influential prove resistant, for example, the cascade of change won't propagate very far or affect many people."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "A"
+ },
+ {
+  "frame": "To [V] is/means to [V]",
+  "gloss": "做…就是/意味着做…",
+  "notes": "句首To非目的状语，不定式作主语+表语",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2010-1108",
+    "text": "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2009-1095",
+    "text": "To take this approach to the New Englanders normally means to start with the Puritans' theological innovations and their distinctive ideas about the church - important subjects that we may not neglect."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "A"
+ },
+ {
+  "frame": "It's not as if [S V]",
+  "gloss": "又不是/并非…（反驳对方预设）",
+  "notes": "as if从句表虚拟反驳，常配否定 09-21裁决：三判据过——晋升入 15章 ## 37",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2006-0908",
+    "text": "But it's not as if earlier times didn't know perpetual war, disaster and the massacre of innocents."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "A"
+ },
+ {
+  "frame": "It is a [adj] [N] that [V]（反语）",
+  "gloss": "再…的N也未必V（反语，非强调句）",
+  "notes": "形似强调句，实为让步反语 09-21裁决：三判据过——晋升入 15章 ## 38",
+  "related": "It was [X] that …",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2009-1064",
+    "text": "It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom - or at least confirm that he's the kid's dad."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "A"
+ },
+ {
+  "frame": "Nowhere (else) [助动词/be] [S]（倒装）",
+  "gloss": "没有哪个地方…",
+  "notes": "否定副词句首引起部分倒装 09-21裁决：14章##28 Nowhere is this more 已编（六级篇同款）",
+  "related": "Only [状语] did …",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2009-1102",
+    "text": "According to the standard history of American philosophy, nowhere else in colonial America was “so much importance attached to intellectual pursuits."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "[主句], if only as [NP]",
+  "gloss": "…，哪怕只是作为…",
+  "notes": "if only非\"但愿\"，表最低限度让步 09-21裁决：三判据过——晋升入 15章 ## 39",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2010-1130",
+    "text": "Later, more established companies raced to add such patents to their files, if only as a defensive move against rivals that might beat them to the punch."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "A"
+ },
+ {
+  "frame": "[NP], coupled with [NP], [V]",
+  "gloss": "…加上/连同…，（导致）…",
+  "notes": "插入分词，主语与谓语易被隔开误找 09-21裁决：与 combined with 同款插入分词，主谓一致语法层",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2007-0928",
+    "text": "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "be more of a [A] than (a) [B]",
+  "gloss": "与其说是B，不如说是A",
+  "notes": "of不可漏，比较两名词性质 09-21裁决：13章##22 as much of a…as 同族已编",
+  "related": "not so much [A] as [B]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2007-0928",
+    "text": "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "This is where [S V]",
+  "gloss": "这就是…的用武之地/关键所在",
+  "notes": "where引导表语从句，非地点状语 09-21裁决：15章##11 is where 已编",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2009-1063",
+    "text": "This is where developing new habits comes in."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "Few things are more [adj] than [NP]",
+  "gloss": "没有什么比…更…",
+  "notes": "few+more than表最高级意味 09-21裁决：few 隐性最高级=13章##5 已编",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2007-0981",
+    "text": "Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore - and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "[V] more … than do/does [NP]",
+  "gloss": "比…更…（than后主谓倒装）",
+  "notes": "than后do代前动，主谓倒装勿乱序 09-21裁决：than 后倒装=14章##57 族变体，语法层",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2008-0994",
+    "text": "Studies of both animals and humans have shown that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "Of all [复数N] (that [S V]), [最高级] [主句]",
+  "gloss": "在所有…之中，最…的是…",
+  "notes": "of all提前限范围，主句取最高级 09-21裁决：of all 限定最高级=13章##5 few 隐性最高级邻近族+初中已会，掠过",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2010-1116",
+    "text": "Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "[X] strike(s) [sb] as [NP/adj]",
+  "gloss": "…给某人以…的印象/感觉",
+  "notes": "strike非\"打击\"，as引出印象 09-21裁决：strike sb as=词典级搭配（给…以…印象），搭配层肉，骨架死度不足",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1181",
+    "text": "As a description of the next music director of an orchestra that has hitherto been led by musicians like Gustav Mahler and Pierre Boulez, that seems likely to have struck at least some *Times* readers as faint praise."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 17,
+  "status": "skip"
+ },
+ {
+  "frame": "As so often (is the case), [主句]",
+  "gloss": "正如惯常的情形（照例如此）",
+  "notes": "话语标记整存整取；勿按 as 从句硬拆",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1369",
+    "text": "As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts about the situations in which our descendants will find themselves."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2015-1495",
+    "text": "As so often is the case, stating that principle doesn't ease the challenge of line-drawing."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "Had [S] [V-ed], [S] would [V]（倒装虚拟）",
+  "gloss": "如果当初…，就会…（对过去的假设）",
+  "notes": "if 省略+had 提前；考研高频倒装 09-21裁决：had 倒装虚拟=14章##45 were to/06章倒装虚拟族已编",
+  "related": "Should you [V] / Were it not for [X]（倒装同族）",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2012-1274",
+    "text": "But had Entergy kept its word, that debate would be beside the point."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1534",
+    "text": "The bans, if fully enforced, would suggest to women (and many men) that they should not let others be arbiters of their beauty."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "skip",
+  "aliases": [
+   "[主语], if [V-ed], would [V]"
+  ],
+  "levels_seen": [
+   "kaoyan"
+  ]
+ },
+ {
+  "frame": "[N] being what it is, [主句]",
+  "gloss": "鉴于N本来就是这副样子，…",
+  "notes": "独立主格+what it is 固定死词；表无奈归因 09-21裁决：三判据过——晋升入 15章 ## 40",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1342",
+    "text": "Human nature being what it is, most people stick with default settings."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "[说法/谚语] has it that [S V]",
+  "gloss": "俗话说/据称…",
+  "notes": "have it that=据说；it 为形式宾语 09-21裁决：三判据过——晋升入 15章 ## 33（与 hence 无动词句合节）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1348",
+    "text": "An old saying has it that half of all advertising budgets are wasted - the trouble is, no one knows which half."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "only too [adj] to [V]",
+  "gloss": "非常乐意去…（求之不得）",
+  "notes": "与 too…to（太…而不能）语义相反，极易读反 09-21裁决：短语级——降考研篇短语档",
+  "related": "too [Adj] (for sb) to [V]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2014-1391",
+    "text": "But in Osborneland, your first instinct is to fall into dependency - permanent dependency if you can get it - supported by a state only too ready to indulge your falsehood."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "B"
+ },
+ {
+  "frame": "so much the [比较级]",
+  "gloss": "那就更…了（反倒更好/更容易）",
+  "notes": "the+比较级固定搭配；勿按 so much 字面读 09-21裁决：短语级——降考研篇短语档",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2015-1485",
+    "text": "The development of \"cloud computing\", meanwhile, has made that exploration so much the easier."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "B"
+ },
+ {
+  "frame": "nothing more than [N/V-ing]",
+  "gloss": "只不过是…（仅此而已）",
+  "notes": "表贬低限定；与 nothing less than 方向相反 09-21裁决：三判据过——晋升入 15章 ## 42",
+  "related": "nothing less than [X] / nothing short of [X]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2012-1254",
+    "text": "Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers - teenagers, who desire nothing more than fitting in."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "anything less than [NP]",
+  "gloss": "绝非/算不上…（丝毫不是）",
+  "notes": "否定语境=完全不是；勿按『少于』读 09-21裁决：降为 15章##42 nothing more than 条目的对举变体注（天花板/地板对已说明），不另立节",
+  "related": "nothing less than [X] / nothing short of [X]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1234",
+    "text": "It's no surprise that Jennifer Senior's insightful, provocative magazine cover story, “I love My Children, I Hate My Life,” is arousing much chatter - nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "skip"
+ },
+ {
+  "frame": "to hear [sb] tell it, [主句]",
+  "gloss": "照某人的说法，…（暗含不信）",
+  "notes": "固定插入语；引他人说法后常带反驳 09-21裁决：三判据过——晋升入 15章 ## 43",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1246",
+    "text": "No shock there, considering how much work it is to raise a kid without a partner to lean on; yet to hear Sandra and Britney tell it, raising a kid on their “own” (read: with round-the-clock help) is a piece of cake."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "is it any wonder (that) [S V]?",
+  "gloss": "难怪…（…有什么可奇怪的）",
+  "notes": "反问表肯定；wonder 非『想知道』 09-21裁决：三判据过——晋升入 15章 ## 44",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1243",
+    "text": "In a society that so persistently celebrates procreation, is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing?"
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "It is/was [时段] before [S did]",
+  "gloss": "过了…才…（…之后才发生）",
+  "notes": "before 从句表『才』，时间先后易读反",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1205",
+    "text": "It was a year before she became head of a tiny Internet-based commodities exchange."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2018-1638",
+    "text": "It is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients in 2015 on the basis of a vague agreement which took far too little account of the patients’ rights and their expectations of privacy."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1581",
+    "text": "Their analysis ruled out the possibility that it was firms' political influence, rather than their CSR stand, that accounted for the leniency: Companies that contributed more to political campaigns did not receive lower fines."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A",
+  "aliases": [
+   "It is/was [介词短语/A rather than B] that [S V]"
+  ],
+  "levels_seen": [
+   "kaoyan"
+  ],
+  "multi_batch": [
+   18,
+   19
+  ]
+ },
+ {
+  "frame": "nothing gets [sb] [V-ing] like [NP]",
+  "gloss": "没有什么比…更能让某人…",
+  "notes": "like 表比较而非喜欢；gets sb doing 使动 09-21裁决：三判据过——晋升入 15章 ## 45",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1234",
+    "text": "It's no surprise that Jennifer Senior's insightful, provocative magazine cover story, “I love My Children, I Hate My Life,” is arousing much chatter - nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "be it in [A] or in [B]",
+  "gloss": "无论是A还是B（都一样）",
+  "notes": "虚拟让步倒装；=whether it is A or B 09-21裁决：15章##3 whether that be/be it 已编族扩展例（in A or in B 填槽变体）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1332",
+    "text": "She exhibits the idealism common to many advocates of sustainability, be it in food or in energy."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "skip"
+ },
+ {
+  "frame": "[A], if not [B],（插入让步）",
+  "gloss": "即便算不上B，至少也是A",
+  "notes": "if not 插入表递进让步；标点成对",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1370",
+    "text": "Take a broader look at our species' place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2022-1838",
+    "text": "If not placing jobs at risk, to the extent employment protection laws constrain business owners from dismissing under-performing managers, those laws act as a constraint on firm productivity and therefore on workers' wages."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2025-2014",
+    "text": "When it comes to born-digital information, the terrifying answer can be: if not librarians and archivists, then no one."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A",
+  "aliases": [
+   "if not [A], (then) [B]"
+  ],
+  "levels_seen": [
+   "kaoyan"
+  ],
+  "multi_batch": [
+   18,
+   20
+  ]
+ },
+ {
+  "frame": "can't afford not to [V]",
+  "gloss": "不能不…（承担不起不做的后果）",
+  "notes": "双重否定表必须；易漏读第二个否定 09-21裁决：三判据过——晋升入 15章 ## 46",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1336",
+    "text": "Vanity is a constant; people will only start shopping more sustainably when they can't afford not to."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "couldn't be more [adj]",
+  "gloss": "再…不过了（极其…）",
+  "notes": "否定+比较级=最高级强调 09-21裁决：否定+比较级=最高级=14章##31 could not be more 已编",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2013-1335",
+    "text": "This top-down conception of the fashion business couldn't be more out of date or at odds with the feverish world described in *Overdressed*, Elizabeth Cline's three-year indictment of \"fast fashion\"."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "skip"
+ },
+ {
+  "frame": "wonder if [S] aren't [V-ing]（揣度否定）",
+  "gloss": "琢磨…是不是正在…（其实但愿如此）",
+  "notes": "if 从句否定表期望；否定转移易读反 09-21裁决：三判据过——晋升入 15章 ## 47",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2011-1247",
+    "text": "But it's interesting to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting “the Rachel” might make us look just a little bit like Jennifer Aniston."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 18,
+  "status": "A"
+ },
+ {
+  "frame": "[介词短语] is/was [真正主语(+修饰从句)]",
+  "gloss": "介词短语前置的倒装判断句：系动词前的名词才是表语，后面的名词短语才是真正主语。",
+  "notes": "主语后置带长修饰，易误把表语当主语。",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2017-1614",
+    "text": "At issue is the TMT's planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2018-1622",
+    "text": "Among the annoying challenges facing the middle class is one that will probably go unmentioned in the next presidential campaign: What happens when the robots come for their jobs?"
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "[There will/Now] come(s) [NP] [when/that 从句]",
+  "gloss": "come 携带后置主语引出即将到来的事件，when/that 从句补充说明该名词。",
+  "notes": "come后主语倒置，word/day带同位从句。 09-21裁决：13章##28 Now comes + 14章##13 家族注已覆盖（Now comes word 例已在 15章##12 变体注）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1590",
+    "text": "There will eventually come a day when The New York Times ceases to publish stories on newsprint."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2018-1641",
+    "text": "Now comes word that everyone involved – Democrats, Republicans, the Postal Service, the unions and the system’s heaviest users – has finally agreed on a plan to fix the system."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "skip"
+ },
+ {
+  "frame": "[句子], the [argument/idea] goes, [句子]",
+  "gloss": "插入语「照通行说法/其思路是」，标记前后内容是他人流传的观点而非作者立场。",
+  "notes": "goes=说法是，插入句中易漏读立场标记。",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1607",
+    "text": "I would raise prices and make it into more of a legacy product.\" The most loyal customers would still get the product they favor, the idea goes, and they'd feel like they were helping sustain the quality of something they believe in."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2021-1718",
+    "text": "Why, the argument goes, should a car-driving pensioner from Lincolnshire have to subsidise the daily commute of a stockbroker from Surrey?"
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "[A], not [B]（后置否定对比）",
+  "gloss": "先给肯定项再用逗号加 not 否定对照项，可嵌在 for A to do 或句尾。",
+  "notes": "否定项后置修正，嵌套时最易读错。",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2017-1621",
+    "text": "But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2018-1632",
+    "text": "The implication is that Millennials prefer news from the White House to be filtered through other sources, not a president’s social media platform."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2015-1513",
+    "text": "But \"it's us, human beings, we the people who create the society we want, not profit."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "on the grounds that [S V]",
+  "gloss": "以……为理由/依据。",
+  "notes": "正式归因框架。 09-21裁决：三判据过——晋升入 15章 ## 48",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2021-1717",
+    "text": "Successive governments have permitted such increases on the grounds that the cost of investing in and running the rail network should be borne by those who use it, rather than the general taxpayer."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "Nor does/did [S] [V]",
+  "gloss": "前一否定句延续：也不……（助动词倒装）。",
+  "notes": "否定倒装续句。 09-21裁决：15章##10 Nor 倒装已编（与 Nor do 重复报，合并）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1589",
+    "text": "Nor does it reveal how much companies are banking on the halo effect, rather than the other possible benefits, when they decide their do-gooding policies."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "skip"
+ },
+ {
+  "frame": "have no option/choice but to [V]",
+  "gloss": "别无选择只能做某事。",
+  "notes": "but后接to do。 09-21裁决：三判据过——晋升入 15章 ## 49",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2021-1711",
+    "text": "It has become a grimly reliable annual ritual: every January the cost of travelling by train rises, imposing a significant extra burden on those who have no option but to use the rail network to get to work or otherwise."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "not nearly as [A] as [B]",
+  "gloss": "远远不及……（程度差得远的否定同级比较）。",
+  "notes": "nearly加强否定差值。 09-21裁决：短语级——降考研篇短语档",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2019-1673",
+    "text": "AI “vision” today is not nearly as sophisticated as that of humans."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "B"
+ },
+ {
+  "frame": "albeit [短语]",
+  "gloss": "尽管/纵然（让步缩略，接短语不接从句）。",
+  "notes": "书面让步缩略语。 09-21裁决：短语级——降考研篇短语档",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2022-1778",
+    "text": "She is proud that several sculptures have even gone on display again, albeit sometimes beneath protective cases."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "B"
+ },
+ {
+  "frame": "[NP] aside, [主句]",
+  "gloss": "撇开……不谈，则……（名词+aside 让步）。",
+  "notes": "前置让步缩略。 09-21裁决：三判据过——晋升入 15章 ## 50",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1593",
+    "text": "Nostalgia for ink on paper and the rustle of pages aside, there's plenty of incentive to ditch print."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "It is all very well [S V-ing], but [主句]",
+  "gloss": "……固然不错，但是……（先让后驳）。",
+  "notes": "口语化让步反驳。 09-21裁决：三判据过（先让后驳，产出侧强命中）——晋升入 15章 ## 60",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2021-1719",
+    "text": "It is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "There is a strong case that [S should V]",
+  "gloss": "有充分理由主张……（论证引入）。",
+  "notes": "a case for/that 论证框架。 09-21裁决：三判据过——晋升入 15章 ## 51",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2021-1720",
+    "text": "However, there is a strong case that those who have been worst affected by industrial action should receive compensation for the disruption they have suffered."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "[S V-ed], or soon will",
+  "gloss": "句尾省略回指：或很快也会（如此）。",
+  "notes": "gapping省略，需补回动词。 09-21裁决：助动词独用省略=15章##1 已编族变体",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2018-1626",
+    "text": "But many middle-class occupations – trucking, financial advice, software engineering – have aroused their interest, or soon will."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "skip"
+ },
+ {
+  "frame": "may turn out to [V]",
+  "gloss": "结果可能证明是……（推测+事后检验）。",
+  "notes": "主语直接接turn out to。 09-21裁决：09章##4 it turns out 已编族变体（主语直连版），不重复收",
+  "related": "it turns out (that) [S V]",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2018-1640",
+    "text": "We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "skip"
+ },
+ {
+  "frame": "And if [S were/be [X]]?",
+  "gloss": "悬置条件问句：那要是……呢？（主句刻意省略）",
+  "notes": "无主句的条件反问。 09-21裁决：三判据过——晋升入 15章 ## 52",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2016-1597",
+    "text": "And if Peretti were in charge at the Times?"
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "[清单], to name but a few",
+  "gloss": "仅举几例（列举收尾，示清单未尽）。",
+  "notes": "but=only。 09-21裁决：降短语档（but=only 误读点足，结构撑不起节）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2020-1706",
+    "text": "They have included Britain's DPT. (diverted profits tax), Australia's MAAL (multinational anti-avoidance law), and India's SEP (significant economic presence) test, to name but a few."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "B"
+ },
+ {
+  "frame": ", which in turn [V]",
+  "gloss": "非限定从句表连锁反应：这反过来又……。",
+  "notes": "in turn标记因果链。 09-21裁决：三判据过——晋升入 15章 ## 53",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2020-1708",
+    "text": "But it has already sparked significant controversy, with the United States trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "A"
+ },
+ {
+  "frame": "For those for whom [S V], [主句]",
+  "gloss": "对那些……的人来说，（则如何）。",
+  "notes": "for+those+for whom双介词嵌套。 09-21裁决：双介词嵌套=语法层（长难句训练素材，链）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2022-1799",
+    "text": "For those for whom a degree is the desired route, consider that this may well be the first of many."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "skip"
+ },
+ {
+  "frame": "[NP] is [almost] impossible to [V]",
+  "gloss": "……几乎无法被……（tough句：主语是不定式的逻辑宾语）。",
+  "notes": "不定式后不带宾语。 09-21裁决：tough 句型主语=逻辑宾语，初中语法层",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2021-1755",
+    "text": "Yet that demand has been almost impossible to fill—in part because of pushback from broadband providers, anti-regulatory conservatives and the courts."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 19,
+  "status": "skip"
+ },
+ {
+  "frame": "Nor + [助动词/be] + [S] [V]",
+  "gloss": "（承接前句否定）…同样也不…",
+  "notes": "句首Nor独立成句倒装，须回找被否对象；读得懂但自己写不出",
+  "related": "Only [状语] did …（倒装家族，Nor 为跨句否定承接）",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2022-1816",
+    "text": "Nor should their work be considered only as an object of study."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2022-1829",
+    "text": "Nor are highly paid managers themselves immune from the harm caused by the ERA's unjustified dismissal procedures."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "A"
+ },
+ {
+  "frame": "It is (all) too easy to [V]",
+  "gloss": "很容易就（会）…",
+  "notes": "警示动作：极易滑向某行为；all 可加可省",
+  "related": "too [Adj] (for sb) to [V]（那是『太…而不能』，极性相反，易混）",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2024-1957",
+    "text": "It is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors."
+   },
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2025-1985",
+    "text": "It is all too easy to feel paralysed in the face of daunting problems such as climate change and to do nothing."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "B",
+  "verdict_note": "too…to 家族，已编07章第2条变体"
+ },
+ {
+  "frame": "hence [NP]（无动词句）",
+  "gloss": "由此得名／这就是…的由来",
+  "notes": "hence 后无动词，易当残句读错；书面语高频 09-21裁决：三判据过——晋升入 15章 ## 33（与 [说法] has it that 合节）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2022-1807",
+    "text": "The founders deliberately focused their projects around light—hence the \"visual studies\" in the name."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "A"
+ },
+ {
+  "frame": "There's no [N] like [N]",
+  "gloss": "没有什么比得上…",
+  "notes": "谚语式夸张；本批仅1例但骨架极固定 09-21裁决：三判据过——晋升入 15章 ## 54",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2026-2045",
+    "text": "There’s no business like show business — but in Los Angeles, it feels like there’s no business at all."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "A"
+ },
+ {
+  "frame": "the same may be true of [X]",
+  "gloss": "…可能同样如此",
+  "notes": "类比外推标记，写作整存整取 09-21裁决：三判据过——晋升入 15章 ## 55",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2023-1878",
+    "text": "If you’re heading for your nearest branch of Waterstones, the biggest book retailer in the UK, in search of the Duchess of Sussex’s new children’s book The Bench, you might have to be prepared to hunt around a bit; the same may be true of The President’s Daughter, the new thriller by Bill Clinton and James Patterson."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "A"
+ },
+ {
+  "frame": "I'd be lying if I said [S V]",
+  "gloss": "我要说…就是撒谎（委婉否定）",
+  "notes": "虚拟语气表断然否认，口语书面皆见 09-21裁决：三判据过——晋升入 15章 ## 56",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2025-2028",
+    "text": "As a librarian whose day job revolves around special collections and digital assets, I share the night terrors of historians, and I’d be lying if I said a comprehensive preservation solution currently exists."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "A"
+ },
+ {
+  "frame": "It's enough to make [sb] [V]",
+  "gloss": "足以让人…（夸张评注）",
+  "notes": "读得懂但产出只会 very…so；评注收束句 09-21裁决：三判据过——晋升入 15章 ## 57",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2026-2069",
+    "text": "It’s enough to make a person put down the smartphone and go out front with a yard broom."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "A"
+ },
+ {
+  "frame": "to the extent (that) [S V]",
+  "gloss": "在…的程度上／既然",
+  "notes": "that 常省，易误读为 extent 名词短语 09-21裁决：短语级——降考研篇短语档",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2022-1838",
+    "text": "If not placing jobs at risk, to the extent employment protection laws constrain business owners from dismissing under-performing managers, those laws act as a constraint on firm productivity and therefore on workers' wages."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "B"
+ },
+ {
+  "frame": "[主句], but even more so [补足成分]",
+  "gloss": "…，但更在于…",
+  "notes": "递进强调，so 回指前面谓词，易读断 09-21裁决：even more so 回指=14章##58 已编族（递进回指）",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2023-1897",
+    "text": "The careers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce, but even more so on the citations attracted by these papers."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "skip"
+ },
+ {
+  "frame": "[S] have/has never been more [adj] than at present",
+  "gloss": "从未像现在这样…",
+  "notes": "今昔顶点夸张，否定词+比较级表最高级 09-21裁决：never+比较级=最高级=14章##31/27 已编族",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2026-2046",
+    "text": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "skip"
+ },
+ {
+  "frame": "It comes at a time when [S V]",
+  "gloss": "这发生在…之际",
+  "notes": "背景铺垫骨架，it 回指前文事件 09-21裁决：三判据过——晋升入 15章 ## 58",
+  "related": null,
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2023-1875",
+    "text": "It comes at a time when authors are already worried about the consequences of the proposed merger between PRH and another big publisher, Simon & Schuster — the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars, lower advances, and more conformity in terms of what is published."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "A"
+ },
+ {
+  "frame": "Some will say [S V]",
+  "gloss": "有人会说…（立靶待驳）",
+  "notes": "设靶-引述版新实现，后文常跟 though 转折 09-21裁决：设靶引述版=13章##7 You might think/but 设靶族已编（skill 判例库「设靶」同功能异形）",
+  "related": "You hear that [S V]（立靶-引语版）",
+  "examples": [
+   {
+    "id": "kaoyan-kaoyan1-jingfan-2026-2068",
+    "text": "Some will say the audiobook boom revives it, though I suppose you can then worry about the decline of reading."
+   }
+  ],
+  "level": "kaoyan",
+  "batch": 20,
+  "status": "skip"
+ }
+]

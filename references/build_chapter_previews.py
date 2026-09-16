@@ -15,8 +15,8 @@ FRAMES = ROOT / "book" / "08-frames"
 CHAPTERS = [
     "01-degree-comparison.md", "02-emphasis-focus.md", "03-concession-contrast.md",
     "04-stance-commentary.md", "05-narrative-logic.md", "06-condition-subjunctive.md",
-    "07-school-recall.md", "09-exam-recall.md",
-    "10-junior-recall.md", "11-senior-recall.md",
+    "07-school-recall.md", "09-exam-recall.md", "12-readthrough-recall.md",
+    "13-cet4-readthrough.md", "14-cet6-readthrough.md", "15-kaoyan-readthrough.md",
 ]
 
 
@@ -50,8 +50,8 @@ for name in CHAPTERS:
     text = path.read_text(encoding="utf-8")
 
     # 幂等：删除已存在的预览节
-    text = re.sub(r"\n## 本章预览\n\n\| 编号 \| 框架 \| 一句话语义 \|\n\|---\|---\|---\|\n(?:\| \d+ \|.*\n)+\n", "\n", text)
-    text = re.sub(r"\n## 本章预览\n[\\s\\S]*?(?=\n## )", "\n", text)
+    text = re.sub(r"\n## 本章预览\n\n\| 编号 \| (?:框架|句式骨架) \| 一句话语义 \|\n\|---\|---\|---\|\n(?:\| \d+ \|.*\n)+\n", "\n", text)
+    text = re.sub(r"\n## 本章预览\n[\s\S]*?(?=\n## )", "\n", text)
 
     entries = extract_semantics(text)
     if not entries:
@@ -64,8 +64,8 @@ for name in CHAPTERS:
         rows.append(f"| {n} | {title} | {sem or '（见节内）'} |")
     preview = "## 本章预览\n\n" + "\n".join(rows) + "\n"
 
-    # 插入位置：第一个 "## N. " 框架节之前
-    m = re.search(r"^## \d+\. ", text, re.M)
+    # 插入位置：第一个 "### " 分节标题或 "## N. " 框架节（取更靠前者）之前
+    m = re.search(r"^(?:### .+|## \d+\. )", text, re.M)
     if not m:
         print(f"{name}: 找不到插入点，跳过")
         continue

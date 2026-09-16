@@ -1,0 +1,140 @@
+{
+  "frames": [
+    {
+      "frame": "give [A] an idea of [B]",
+      "gloss": "让某人了解/大致知道某事",
+      "pattern_notes": "固定动宾搭配 give + 间宾 + an idea of + 名词/wh-从句。听力讲座与对话中高频的'告知/说明'套话，of 后接 wh-名词从句时学习者易把 idea 误读为'观点'而误解整句意图。本批出现 4 次，横跨独白与对话。",
+      "examples": [
+        {"id": "I03276", "src": "剑14", "s": "Now, I don't know Sydney very well, can you just give me an idea of the location of the hotel?"},
+        {"id": "I03295", "src": "剑14", "s": "Now rd like to tell you what some of our volunteers have said about what they do, to give you an idea of the range of ways in which they can help people."},
+        {"id": "I03315", "src": "剑14", "s": "OK, I hope thafs give n you an idea of what volun teeri ng is all about."},
+        {"id": "I03350", "src": "剑14", "s": "JOE： There are others too, but at least that gives you an idea of what Tm up against."}
+      ]
+    },
+    {
+      "frame": "[主语] start by [V-ing]",
+      "gloss": "以做某事作为开始（讲解/介绍的流程开场）",
+      "pattern_notes": "清单内'主句 by V-ing'的新变体：start 与 by V-ing 整存整取，是讲座/汇报开场流程套话（I'll start by... / Let me start by... / You'd better start by...）。本批出现 5 次。学习者易把 by 误读为施事或被动标记。",
+      "examples": [
+        {"id": "I03210", "src": "剑14", "s": "In this series of lectures about the history of weather forecasting, I'll start by examining its early history - thatll be the subject of today's talk."},
+        {"id": "I03283", "src": "剑14", "s": "Let me start by briefly explaining what we mean by volunteering."},
+        {"id": "I03319", "src": "剑14", "s": "You'd better start by giving me a bit of background."},
+        {"id": "I03422", "src": "剑14", "s": "Til start by telling you about some of the excursions that are available for guests."}
+      ]
+    },
+    {
+      "frame": "sound(s) as though [S V]",
+      "gloss": "听起来似乎……（据此推断）",
+      "pattern_notes": "系动词 sound + as though 引导的表语从句，表说话人基于听闻的推断；也可用 make it sound as though（使……听起来像）。学习者易把 sound 误读为名词'声音'，或把 as though 误读为同级比较。",
+      "examples": [
+        {"id": "I03478", "src": "剑14", "s": "So it sounds as though you think it's a good course."},
+        {"id": "I03483", "src": "剑14", "s": "STEPHANIE： The En glish name makes it sound as though Robinson is the family's surname, but a more accurate translation would be The Swiss Robinsons, because it's about a Swiss family who are shipwrecked, like Robins on Crusoe in the novel of a century earlier."}
+      ]
+    },
+    {
+      "frame": "be (not) up to [A] / be up to [A]",
+      "gloss": "达到（标准）/胜任（某事）；由（某人）决定",
+      "pattern_notes": "be up to + NP 两个固定义项：(1) 否定式表'达不到标准、胜任不了'（not up to standard/it）；(2) be up to you 表'由你决定'。up to 无方向义，学习者按字面'向上直到'读必错。",
+      "examples": [
+        {"id": "I03308", "src": "剑14", "s": "They*re not perhaps up to Tanya's standard yet, but she gains a lot of pleasure from doing it."},
+        {"id": "I03325", "src": "剑14", "s": "If you ask me, they arenl really up to it yet, and I need to get them functioning better as a band, and in a very short time."},
+        {"id": "I03437", "src": "剑14", "s": "If you want, you can buy some of the products but thafs entirely up to you."}
+      ]
+    },
+    {
+      "frame": "[门窗] look/lead out onto [景物]",
+      "gloss": "（门窗）朝向/通向（露台、湖景等）",
+      "pattern_notes": "酒店/场所介绍套话：开口物（windows/French windows/doors）作主语 + 方位动词 + 双小品词 out onto + 视野名词。out onto 连用双小品词是听读难点，学习者常断句错误。",
+      "examples": [
+        {"id": "I03394", "src": "剑14", "s": "Now the Adelphi Room is at the back of the hotel, and there are French windows leading out onto the terrace."},
+        {"id": "I03401", "src": "剑14", "s": "Andrew: No, the Carlton Room is on the first floor, but on one side the windows look out onto the lake."}
+      ]
+    },
+    {
+      "frame": "[房间/空间] can seat/hold/sleep [数字] (people)",
+      "gloss": "（场地）可容纳/可坐/可住……人",
+      "pattern_notes": "无生命的房间/小屋作主语 + 容量动词 seat/hold/sleep + 人数，是预订场景的标准表达。学习者期待被动式 accommodate 或把 hold/sleep 按本义（握住/睡觉）误读。三个动词可互换进同一槽位，本批两对话共 4 例。",
+      "examples": [
+        {"id": "I03389", "src": "剑14", "s": "Andrew: Well we have two rooms that can hold that number."},
+        {"id": "I03390", "src": "剑14", "s": "That can seat eighty-five, or hold over a hundred if people are standing for a buffet."},
+        {"id": "I03399", "src": "剑14", "s": "This is a bit bigger - it can hold up to a hundred and ten people - and it has the advantage of a stage, which is useful if you have any en tertai nment, or in deed a small band can fit onto it."},
+        {"id": "I03410", "src": "剑14", "s": "They each sleep two to four people and have their own living room, bathroom and small kitchen."}
+      ]
+    },
+    {
+      "frame": "As [S V], 主句 / 主句, as [S V]",
+      "gloss": "正如……（所知/所示/所发现的）",
+      "pattern_notes": "评注性 as 从句（as you all know / as ... shows / as ... have discovered），对整句内容作来源背书，可前置或后置。与清单内'as表伴随/原因'功能不同：此处 as=正如，从句不表时间或因果。学习者易误读为 because/while。",
+      "examples": [
+        {"id": "I03352", "src": "剑14", "s": "As you all know, the university is planning an arts festival for later this year, and here in the music department we've planned three con certs."},
+        {"id": "I03213", "src": "剑14", "s": "Generally, weather was attributed to the whims of the gods, as the wide range of weather gods in various cultures shows."},
+        {"id": "I03229", "src": "剑14", "s": "Many of these are based on very good observations and are accurate, as contemporary meteorologists have discovered."}
+      ]
+    },
+    {
+      "frame": "[A], as well as [B], [V] / As well as [B], [主句]",
+      "gloss": "除 B 之外还……；B 和……都",
+      "pattern_notes": "as well as 表添加（=in addition to），不是同级比较'和……一样好'。可中位插入（其后成分不影响主谓一致，I03364 中主语 orchestra 仍取单数 includes）或句首。误读风险高：比较义与添加义混淆、一致关系误判。",
+      "examples": [
+        {"id": "I03364", "src": "剑14", "s": "Its performed by six singers, a dancer, and an orchestra that, as well as s9ndard orchestra I in strume nts, in eludes electric guitar, and a traditional Turkish st「in ged in strume nt."},
+        {"id": "I03404", "src": "剑14", "s": "Andrew: As well as a meal, you can have an MC, a Master of Ceremonies, wholl be with you throughout the party."}
+      ]
+    },
+    {
+      "frame": "The [adj] thing about [A] is (that) [S V]",
+      "gloss": "关于 A（最）……的一点在于……",
+      "pattern_notes": "口语评价框架：the + 评价形容词（best/great）+ thing about + 话题 + is (that) + 评价内容从句。thing 为虚义名词，about 管界与 that 从句层次是学习者断句难点。",
+      "examples": [
+        {"id": "I03435", "src": "剑14", "s": "And the best thing about this trip is that it's completely free."},
+        {"id": "I03470", "src": "剑14", "s": "One of the great things about words is that you use your imagination, but with a comic you don't have to."}
+      ]
+    },
+    {
+      "frame": "(you can) have [A] for an extra [金额] / for an extra [金额], (you can) have [A]",
+      "gloss": "额外加……钱即可享/升级 A",
+      "pattern_notes": "服务场景加价套话：for an extra + 金额（或 for + 金额 + more）与 have 搭配，前置后置均可。学习者易把 for 误读为目的或受益对象。",
+      "examples": [
+        {"id": "I03265", "src": "剑14", "s": "Or you can have the special for $25 more."},
+        {"id": "I03449", "src": "剑14", "s": "Tickets are just 50 euros each, but for an extra 10 euros you can have a table right by the stage."}
+      ]
+    },
+    {
+      "frame": "[数量/分配 NP] each",
+      "gloss": "每人/每件各……",
+      "pattern_notes": "each 后置在数量短语末尾表分配（50 euros each / a whole chicken each），不引导从句。学习者常悬置等待 each 后的谓语而读崩。",
+      "examples": [
+        {"id": "I03449", "src": "剑14", "s": "Tickets are just 50 euros each, but for an extra 10 euros you can have a table right by the stage."},
+        {"id": "I03452", "src": "剑14", "s": "You're given a whole chicken each, which you eat in the medieval way, using your hands in stead of cutlery, and you're entertained by competiti ons where the horseback riders attempt to knock one another off their horses."}
+      ]
+    },
+    {
+      "frame": "be the first (person/one) to [V]",
+      "gloss": "是第一个做某事的（人）",
+      "pattern_notes": "the first + (名词) + 不定式后置修饰，表率先完成。不定式主动形式却常含被动/完成意味，学习者易误加 to be done 或错配语序。",
+      "examples": [
+        {"id": "I03219", "src": "剑14", "s": "The ancient Greeks were the first to develop a more scientific approach to explaining the weather."},
+        {"id": "I03236", "src": "剑14", "s": "This discovery was verified by English astro no mer Halley in 1686; and Halley was also the first pers on to map trade win ds."}
+      ]
+    }
+  ],
+  "candidates": [
+    {"id": "I03334", "src": "剑14", "s": "It depends on whether I can persuade the school to hire a coach or two to take us there.", "note": "It depends (on) whether... 口语保留判断框架，仅 1 句。"},
+    {"id": "I03335", "src": "剑14", "s": "JOE： Can I tell you about a few people in the band who I'm fin ding it quite difficult to cope with?", "note": "find it + adj + to V（形式宾语）嵌进关系从句，句法负担重，仅 1 句；与清单 find+O+补语 邻近但更深。"},
+    {"id": "I03344", "src": "剑14", "s": "He*d be much better off playing percussion, foNnstance, but he refuses to give up.", "note": "be better off V-ing（倒不如做某事），仅 1 句。"},
+    {"id": "I03448", "src": "剑14", "s": "Ifs hugely popular, so let me know now if you're interested because it's no good leaving it until the last minute.", "note": "it's no good V-ing，与清单 There is no V-ing 近缘但形式不同，仅 1 句。"},
+    {"id": "I03299", "src": "剑14", "s": "She has difficulty walking herself, but she doesn't let that stop her.", "note": "have difficulty (in) V-ing，可视为清单 have trouble V-ing 的新变体，但本批仅此 1 句。"},
+    {"id": "I03241", "src": "剑14", "s": "People in different locations began to keep records, and in the mid-nineteenth century, the invention of the telegraph made it possible for these records to be collated.", "note": "make it possible for [A] to [V] 形式宾语框架，仅 1 句。"},
+    {"id": "I03365", "src": "剑14", "s": "Lim wrote that because the stories in the tragedies are not easy to tell, the sounds she creates are also disturbi ng, and they in elude breathi ng, sobbi ng, laughing and whistling.", "note": "tough 结构 [NP] be + adj + to V（主语是不定式的逻辑宾语），误读判据高，但仅 1 例。"},
+    {"id": "I03217", "src": "剑14", "s": "It isn't known when people first started to observe the skies, but at around 650 BC, the Babylonians produced the first short-range weather forecasts, based on their observations of clouds and other phe nomena.", "note": "It is (not) known wh-... 学术被动外置框架，仅 1 句。"},
+    {"id": "I03285", "src": "剑14", "s": "Most volunteers devote two or three hours to this every week, while a few do much more.", "note": "中位对比 while（Most..., while a few...），与清单 Some[A], others[B] 邻近，本批仅 1 句。"},
+    {"id": "I03325", "src": "剑14", "s": "If you ask me, they arenl really up to it yet, and I need to get them functioning better as a band, and in a very short time.", "note": "If you ask me 口语评注插入语，与清单 to be honest 同类，仅 1 句。"},
+    {"id": "I03459", "src": "剑14", "s": "Stephanie: You mean, whether it should just entertain children or should be educational, as well.", "note": "You mean + 陈述语序(升调) 表理解确认，另见 I03472 'TREVOR： You mean, ifs better to read a comic than not to read at all?'。出现 2 次但误读判据拿不准（学习者一般读不错，只是口语反应速度问题）。"},
+    {"id": "I03251", "src": "剑14", "s": "ANGELA： Let me see ... our conference facilities are already booked for the weekend beginning January 28th.", "note": "the [时段] beginning [日期] 预订套话，另见 I03254 'So thafs the weekend beginning the 4th.'。2 次但出自同一对话，代表性拿不准。"},
+    {"id": "I03480", "src": "剑14", "s": "STEPHANIE： Yeah.「ve gone as far back as the late seventeenth century, though I know there were earlier children's stories.", "note": "as far back as + 时间（追溯到），仅 1 句。"},
+    {"id": "I03218", "src": "剑14", "s": "The Chin ese also recog nised weather patterns, and by 300 BC, astronomers had developed a calenda「which divided the year into 24 festivals, each associated with a different weather phenomenon.", "note": "each + 过去分词独立结构作同位补充，仅 1 句，但骨架与误读判据均强。"},
+    {"id": "I03418", "src": "剑14", "s": "We have four courts, and ifs worth booking in advanee if you possibly can, as there can be quite a long waiting list for them!", "note": "be worth V-ing（主动形式被动义），仅 1 句；同句 if you possibly can 为缩减条件式，也仅见此。"},
+    {"id": "I03393", "src": "剑14", "s": "sam: Yes, I really don't like it when you can't talk.", "note": "I (don't) like it when... 形式宾语 it + when 从句，仅 1 句。"},
+    {"id": "I03245", "src": "剑14", "s": "Have I come through to the right person?", "note": "电话核实套话，自然语域，仅 1 句。"},
+    {"id": "I03200", "src": "剑14", "s": "What about the section with the initial questions asked by the researchers?", "note": "What/How about + NP 话题转换/提议套话，另见 I03257、I03273、I03474，出现 4 次但误读判据拿不准（太常用，学习者不太会读错）。"}
+  ]
+}

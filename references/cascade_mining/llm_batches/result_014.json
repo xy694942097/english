@@ -1,0 +1,258 @@
+{
+ "frames": [
+  {
+   "frame": "[S V ...], and/or [助动词/情态词]（独用）",
+   "gloss": "助动词后省去与前文相同的谓语，只剩 do/will/can 等回指前文动作。",
+   "notes": "勿把助动词当完整谓语，省略回指前句",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0006",
+     "text": "And it should: Wasted time is a drag on Americans' economic and private lives, not to mention infuriating."
+    },
+    {
+     "id": "kaoyan-kaoyan-1-2018-0131",
+     "text": "But many middle-class occupations - trucking, financial advice, software engineering - have aroused their interest, or soon will."
+    },
+    {
+     "id": "kaoyan-kaoyan-1-2018-0192",
+     "text": "If software promises to save lives on the scale that drugs now can, big data may be expected to behave as a big pharma has done."
+    }
+   ]
+  },
+  {
+   "frame": "[V/be] less [on/about] [A] and more [on/about] [B]",
+   "gloss": "与其说重在A，不如说重在B——重心后置的取舍对照。",
+   "notes": "非程度比较，是重心对照",
+   "related": "not so much [A] as [B]",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2018-0138",
+     "text": "Curriculums - from grammar school to college - should evolve to focus less on memorizing facts and more on creativity and complex communication."
+    },
+    {
+     "id": "kaoyan-kaoyan-1-2019-0265",
+     "text": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty."
+    }
+   ]
+  },
+  {
+   "frame": "[V] the way [S V]",
+   "gloss": "the way 后省略 that/in which，直接跟句子作方式宾语。",
+   "notes": "way 后无关系词，勿另找宾语",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2018-0186",
+     "text": "That misses the way the surveillance economy works."
+    },
+    {
+     "id": "kaoyan-kaoyan-1-2019-0279",
+     "text": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists."
+    }
+   ]
+  },
+  {
+   "frame": "Part of the issue is that [S V] / Another factor may be that [S V]",
+   "gloss": "问题部分出在…——分项归因的表语从句，多句连用铺原因。",
+   "notes": "部分归因，后文逐项列举原因",
+   "related": "The [抽象N] is that [S V]（表语从句）",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0010",
+     "text": "Part of the issue is that the government did not anticipate the steep increase in airline travel, so the TSA is now rushing to get new screeners on the line."
+    },
+    {
+     "id": "kaoyan-kaoyan-1-2017-0011",
+     "text": "Part of the issue is that airports have only so much room for screening lanes."
+    },
+    {
+     "id": "kaoyan-kaoyan-1-2017-0012",
+     "text": "Another factor may be that more people are trying to overpack their carry-on bags to avoid checked baggage fees, though the airlines strongly dispute this."
+    }
+   ]
+  },
+  {
+   "frame": "[N] (that) [S] [said/felt] [V]",
+   "gloss": "关系从句里嵌入报道动词，that 兼作从句主语，真正谓语在 said/felt 之后。",
+   "notes": "易把 said/felt 当从句终点而读断",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0097",
+     "text": "After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose."
+    },
+    {
+     "id": "kaoyan-kaoyan-1-2019-0299",
+     "text": "The Supreme Court's opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "[A], combined with [B], [谓语]",
+   "gloss": "A 连同 B 一起造成…；谓语数只与 A 一致。",
+   "notes": "插入语不改主谓一致",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0008",
+     "text": "Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago's O'Hare International."
+    }
+   ]
+  },
+  {
+   "frame": "At issue is [NP]",
+   "gloss": "争议焦点在于…（表语前置倒装）。",
+   "notes": "主语在 is 之后",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0031",
+     "text": "At issue is the TMT' s planned location on Mauna Kea, a dormant volcano worshiped by some Hawaiians as the piko, that connects the Hawaiian Islands to the heavens."
+    }
+   ]
+  },
+  {
+   "frame": "The same [N] to [V] that [S V] [V] [O]",
+   "gloss": "同一个N（带远隔定语从句）如今仍…；主谓远隔句尾。",
+   "notes": "主语带双层修饰，谓语在句尾",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0040",
+     "text": "The same curiosity to find what lies beyond the horizon that first brought early Polynesians to Hawaii's shores inspires astronomers today to explore the heavens."
+    }
+   ]
+  },
+  {
+   "frame": "There is no reason why [S] cannot [V]",
+   "gloss": "没有理由不让…＝完全可以。",
+   "notes": "双重否定表充分许可",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0046",
+     "text": "There is no reason why everyone cannot be welcomed on Mauna Kea to embrace their cultural heritage and to study the stars."
+    }
+   ]
+  },
+  {
+   "frame": "everything except that which [S V]",
+   "gloss": "除了…之外的一切；that which 是正式书面关系代词。",
+   "notes": "that which 相当于 what",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0050",
+     "text": "Kennedy once said that a country's GDP measures \"everything except that which makes life worthwhile."
+    }
+   ]
+  },
+  {
+   "frame": "[S V], never to [V]",
+   "gloss": "…了，从此再未…（不定式表结果）。",
+   "notes": "结果不定式，常带悲剧色彩",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0106",
+     "text": "Yet two years before Dickens's birth, his mother's father was caught stealing and fled to Europe, never to return."
+    }
+   ]
+  },
+  {
+   "frame": "In this as in much else, [S V]",
+   "gloss": "此事一如其他许多事……类比引入总括。",
+   "notes": "in A as in B 固定类比",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2017-0120",
+     "text": "In this as in much else, those who wish to influence the future must prepare for it."
+    }
+   ]
+  },
+  {
+   "frame": "Any [评价N] of [A] must start by [V-ing] that [B]",
+   "gloss": "任何对A的评判都得先承认B。",
+   "notes": "先让步再立论的开场",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2018-0175",
+     "text": "QslèQlO\u0017S÷0\u0010Q°gàgB'ú0\u0011QM9SÖfôY\u001a\u0003x\u0014De Text3 Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well."
+    }
+   ]
+  },
+  {
+   "frame": "It is not enough to say that [S V]",
+   "gloss": "仅说…并不够，为反驳铺垫。",
+   "notes": "让步后转出真正论点",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2018-0190",
+     "text": "It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives."
+    }
+   ]
+  },
+  {
+   "frame": "Now comes word that [S V]",
+   "gloss": "如今传来消息说……倒装加同位语从句。",
+   "notes": "不及物倒装，word 后接 that",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2018-0205",
+     "text": "Now comes word that everyone involved - Democrats, Republicans, the Postal Service, the unions and the system's heaviest users - has finally agreed on a plan to fix the system."
+    }
+   ]
+  },
+  {
+   "frame": "Also missing is [NP]",
+   "gloss": "同样缺失的是……分词表语前置倒装。",
+   "notes": "表语前置，主语后置",
+   "related": "Gone are the days of/when",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2018-0210",
+     "text": "Also missing is any discussion of eliminating Saturday letter delivery."
+    }
+   ]
+  },
+  {
+   "frame": "[主语], [S] [notes/says], [谓语]",
+   "gloss": "句中插入报道语，隔开主语和谓语。",
+   "notes": "主谓间插入语，勿误断句",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2019-0247",
+     "text": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades."
+    }
+   ]
+  },
+  {
+   "frame": "That said, [主句]",
+   "gloss": "话虽如此……让步后转折。",
+   "notes": "承接让步再转",
+   "related": "admittedly / granted / to be sure",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2019-0266",
+     "text": "Ultimately,\" said Jack Miner, Ohio State University's registrar, \"we see students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time.\" That said, there is a way in which grade forgiveness satisfies colleges' own needs as well."
+    }
+   ]
+  },
+  {
+   "frame": "But that doesn't mean (that) [S V]",
+   "gloss": "但这并不意味着……驳斥表面推论。",
+   "notes": "切断让步与结论",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2019-0281",
+     "text": "We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.\" But that doesn't mean crucial ethical issues involving AI aren't at hand."
+    }
+   ]
+  },
+  {
+   "frame": "So does [NP that [S V]]",
+   "gloss": "……也一样；so 倒装回指前句。",
+   "notes": "so+助动词+主语倒装",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan-1-2019-0292",
+     "text": "So does the idea that decisions made by AI systems should be explainable, transparent, and fair."
+    }
+   ]
+  }
+ ]
+}

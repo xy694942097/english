@@ -1,0 +1,1747 @@
+[
+ {
+  "batch": 2,
+  "frame": "[A] be home to [B]",
+  "gloss": "A 是 B 的家园/栖息地（某类生物或事物大量所在之处）。",
+  "pattern_notes": "home 前零冠词、其后直接接 to 短语，功能上相当于 'be the home of'，A 为地点/环境，B 为栖息其中的生物或事物。\n误读点：学习者按字面回推成 the home of 或加冠词 a home to；此处 home 是不可数的介词性用法，整存整取有查表优势。",
+  "examples": [
+   {
+    "id": "S02671",
+    "src": "选择性必修第四册·Unit 2",
+    "s": "For one thing, there are the wide plains in the interior of the country, which are home to millions of grazing animals."
+   },
+   {
+    "id": "S05354",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "This green, watery world is home to many birds and fishes."
+   },
+   {
+    "id": "S02423",
+    "src": "选择性必修第四册·Unit 3",
+    "s": "The sea is home to life, not human beings’ possessions."
+   }
+  ]
+ },
+ {
+  "batch": 2,
+  "frame": "[S] be supposed/expected to [V]",
+  "gloss": "按规矩/按预期应当或被指望做某事（半情态被动式）。",
+  "pattern_notes": "被动形态表义：be supposed to 表'按规定理应'，be expected to 表'被预期/被指望'，主语是逻辑上的动作承受者。\n误读点：学习者易把 expected/supposed 还原成被动动作'被期待着去做'而读慢；整存整取有查表优势。同族还有 be allowed/permitted to（本批 S02534、S01228），但语义更接近普通情态被动，未计入例证。",
+  "examples": [
+   {
+    "id": "J02270",
+    "src": "初中·英语九年级全册",
+    "s": "Katie: That's how people in Japan are expected to greet each other."
+   },
+   {
+    "id": "J02278",
+    "src": "初中·英语九年级全册",
+    "s": "Later I found out French people are supposed to kiss when they see each other."
+   },
+   {
+    "id": "S01262",
+    "src": "选择性必修第四册·Unit 2",
+    "s": "The experiment is now in its and is expected to be completed next week."
+   }
+  ]
+ },
+ {
+  "batch": 2,
+  "frame": "[be] [A] enough to [V]",
+  "gloss": "足够 A，能做某事（A 为形容词，enough 后置）。",
+  "pattern_notes": "enough 固定后置于形容词/副词（修饰名词时则前置），后接 to 不定式表结果能力；可加否定或疑问（never brave enough to / Who is brave enough to）。\n与已收录的 too...to 方向相反：enough 表'足以能做'，too 表'太…而不能做'。误读点：中国学习者常错置为 enough brave；never 的否定辖域也易读错。",
+  "examples": [
+   {
+    "id": "J05436",
+    "src": "初中·英语八年级下册",
+    "s": "Wang Ming: Yu Gong said they could put it into the sea because it's big enough to hold everything."
+   },
+   {
+    "id": "J01715",
+    "src": "初中·英语九年级全册",
+    "s": "She was never brave enough to ask questions."
+   },
+   {
+    "id": "J04955",
+    "src": "初中·英语八年级下册",
+    "s": "Who is brave enough to eat my house?"
+   }
+  ]
+ },
+ {
+  "batch": 2,
+  "frame": "One of the [评价性复数NP] is that/to [B]",
+  "gloss": "（诸多原因/目标/特点中）一个主要的…是 B：用于归因、点明目的或给出评价。",
+  "pattern_notes": "主语槽为 'One of the + 最高级或评价性形容词 + 复数名词'（或 'One 评价名词 about X'），谓语 is 后接 that 从句或 to 不定式/V-ing 作表语。\n误读点：one of the 要求复数名词（易漏复数），且表语 that 从句不修饰前面的名词；变体 'One great thing about [X] is that...' 同功能。",
+  "examples": [
+   {
+    "id": "J05003",
+    "src": "初中·英语八年级下册",
+    "s": "One of the main reasons is that people want to challenge themselves in the face of difficulties."
+   },
+   {
+    "id": "S04481",
+    "src": "必修第三册·Unit 5",
+    "s": "One of the main goals of terraforming Mars is to warm it up because the average temperature there is about -60°C."
+   },
+   {
+    "id": "S04184",
+    "src": "必修第三册·Unit 4",
+    "s": "One of the most dangerous parts of space exploration is helping people to escape Earth’s g."
+   },
+   {
+    "id": "J05200",
+    "src": "初中·英语八年级下册",
+    "s": "One great thing about Singapore is that the temperature is almost the same all year round."
+   }
+  ]
+ },
+ {
+  "batch": 2,
+  "frame": "[A], (but) not [B]",
+  "gloss": "是 A 而不是 B：陈述后追补否定，做对比修正。",
+  "pattern_notes": "肯定陈述 A 之后用逗号加 not（或 but not）引出被排除的平行对比项 B，A、B 结构对仗。\n误读点：not 否定的是 B 这个对比焦点而非主句谓语，学习者易当全句否定而读反；常与 only 连用（only A, not B）。疑问句中 'in A, but not in B' 为同构。",
+  "examples": [
+   {
+    "id": "S02423",
+    "src": "选择性必修第四册·Unit 3",
+    "s": "The sea is home to life, not human beings’ possessions."
+   },
+   {
+    "id": "J03767",
+    "src": "初中·英语八年级上册",
+    "s": "Books will only be on computers, not on paper."
+   },
+   {
+    "id": "S07584",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "What is in the email, but not in the postcard?"
+   }
+  ]
+ },
+ {
+  "batch": 3,
+  "frame": "What [S+V] is/was [B]（假拟分裂句）",
+  "gloss": "……（的事情/东西）就是……，用 what 从句作主语把焦点后置到 be 之后。",
+  "pattern_notes": "固定骨架：What + 主谓从句 + be + 焦点成分。be 的单复数、时态随语境变，但 what-clause 与 be 的语序固定。\n与 This/That is what... 方向相反（焦点在前），学习者易把 what 从句误当疑问句或漏译 be 后的焦点。\n整存整取优势明显：看到 What 开头无问号即应按此框架解析。",
+  "examples": [
+   {
+    "id": "S00560",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "What John Snow showed to the world was how cholera could be overcome."
+   },
+   {
+    "id": "S03130",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "However, what she is unhappy about is the lower nutritional value and reduced flavour."
+   }
+  ]
+ },
+ {
+  "batch": 3,
+  "frame": "one of the + [最高级/限定形容词] + [复数名词]",
+  "gloss": "最……的……之一，强调整体中的一个。",
+  "pattern_notes": "固定语序 one of the + 形容词（多为最高级）+ 复数名词；名词必须复数而谓语用单数，是高频考点与易错点。\n学习者常误写单数名词或漏掉 the；读长句时易丢失中心名词的数。\n范围状语（in the world / of sb）常尾随其后，可一并整取。",
+  "examples": [
+   {
+    "id": "J04444",
+    "src": "初中·英语八年级下册",
+    "s": "Did you know that China is one of the oldest countries in the world?"
+   },
+   {
+    "id": "S02266",
+    "src": "必修第一册·Unit 3",
+    "s": "One of the most famous places in the world for karsts is Guilin."
+   },
+   {
+    "id": "S00775",
+    "src": "选择性必修第三册·Unit 1",
+    "s": "The highlight of this exhibition is the painting Clearing After Snow on a Mountain Pass, one of the great works of Tang Yin (1470–1524)."
+   }
+  ]
+ },
+ {
+  "batch": 3,
+  "frame": "[名词] + 介词 + which/whom + [主谓]",
+  "gloss": "介词提前的定语从句：……的，介词归属从句内部动词/搭配。",
+  "pattern_notes": "正式语体把从句内介词前置到关系词前：on which = where, to whom = to + 人。\n固定骨架为'名词 + prep + which/whom + 主谓（缺介词宾语）'，学习者易把介词误挂到先行词上而读错。\n还原法：把介词移回从句末尾即可按普通定语从句理解。",
+  "examples": [
+   {
+    "id": "S04931",
+    "src": "必修第一册·Unit 5",
+    "s": "These were animal bones and shells on which symbols were carved by ancient Chinese people."
+   },
+   {
+    "id": "S04276",
+    "src": "必修第一册·Unit 5",
+    "s": "The firefighters to whom the task was given did their best but there was no way to organise or communicate."
+   }
+  ]
+ },
+ {
+  "batch": 3,
+  "frame": "Could you (please/possibly) tell me + [the way to ... / wh-从句]?",
+  "gloss": "礼貌问路/求信息的固定句式：能告诉我……吗？",
+  "pattern_notes": "Could + 过去式表委婉，please/possibly 为加强礼貌的可选槽；后接名词短语或 wh-宾语从句（陈述语序）。\n误读点：从句用陈述语序不倒装；Could 不表过去。\n口语高频，整存整取价值高。",
+  "examples": [
+   {
+    "id": "J01697",
+    "src": "初中·英语九年级全册",
+    "s": "Could you possibly tell me the way to the village school?"
+   },
+   {
+    "id": "J01677",
+    "src": "初中·英语九年级全册",
+    "s": "For example, you may ask \"Where are the restrooms?\" or \"Could you please tell me where the restrooms are?\" These are similar requests for directions."
+   }
+  ]
+ },
+ {
+  "batch": 3,
+  "frame": "not even [A]",
+  "gloss": "甚至连……也不/没有，把否定范围推到最小极端项。",
+  "pattern_notes": "固定搭配 not even + 名词/介词短语，even 标记极端项，否定词常离 even 很远。\n学习者易只读到主句否定而漏掉 even 引出的递进极端项，或误判否定辖域。\n常出现于 not supposed to / cannot 等否定谓语之后。",
+  "examples": [
+   {
+    "id": "S08210",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "You may house their bodies but not their souls, For their souls dwell in the house of tomorrow, which you cannot visit, not even in your dreams."
+   },
+   {
+    "id": "J02349",
+    "src": "初中·英语九年级全册",
+    "s": "Another example is that you're not supposed to eat anything with your hands except bread, not even fruit."
+   }
+  ]
+ },
+ {
+  "batch": 3,
+  "frame": "[动词] + 疑问词(how/what/where...) + to do",
+  "gloss": "疑问词+不定式作宾语/介词宾语：……怎么做/做什么。",
+  "pattern_notes": "固定语序 wh-词 + to + 动词原形，前置动词多为 learn/know/explain/decide/ask。\n骨架紧凑（wh + to do 不可拆、语序固定），整取为名词性短语。\n易错边界：what to do 不接 it（what 兼作宾语），与 how to do it 对比。",
+  "examples": [
+   {
+    "id": "J01685",
+    "src": "初中·英语九年级全册",
+    "s": "However, it is important to learn how to use the right language in diﬀ erent situations."
+   },
+   {
+    "id": "J04663",
+    "src": "初中·英语八年级下册",
+    "s": "I think it is important for children to learn how to do chores and help their parents with housework."
+   },
+   {
+    "id": "S01054",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "The first-aid instructor should explain what to do, while the victim and the rescuer should act out the steps."
+   },
+   {
+    "id": "J03754",
+    "src": "初中·英语八年级上册",
+    "s": "The last resolution is about how to do better at school."
+   }
+  ]
+ },
+ {
+  "batch": 3,
+  "frame": "to be honest/frank（句首/句中坦言插入语）",
+  "gloss": "说实话/坦率说，引出说话人真实评价的话语标记。",
+  "pattern_notes": "固定形式 to be + 评价形容词（honest/frank），以逗号隔开插入主句，不改变主句结构。\n位置灵活（句首、连词后），识别后可整体跳过再补回语气。\n同类可扩展 to be sure / to be fair，本批仅 honest/frank 两例成对。",
+  "examples": [
+   {
+    "id": "S03109",
+    "src": "必修第三册·Unit 5",
+    "s": "Henry: Well, to be honest, I have none."
+   },
+   {
+    "id": "S01806",
+    "src": "必修第三册·Unit 1",
+    "s": "But, to be frank, the fireworks going off throughout the night were really annoying."
+   }
+  ]
+ },
+ {
+  "batch": 4,
+  "frame": "Instead of [V-ing/NP], [主句]",
+  "gloss": "不是……而是……：否定 of 后的内容，主句才是实际发生/被选择的情况。",
+  "pattern_notes": "介词性框架，of 后只能接名词或动名词，不能接不定式；可置于句首修饰整个主句，也可在句中作状语。\n误读判据强：学习者常误接 to do，或把否定范围读反（以为主句才是被否定的）。\n同族变体：句首副词 \"Instead, [主句]\"（本批 S00159）。",
+  "examples": [
+   {
+    "id": "S03187",
+    "src": "必修第一册·Unit 3",
+    "s": "Instead of saying “I want to lose three kilos”, I would say “I want to run two kilometres in eight minutes” or “I want to be able to do 30 push-ups”."
+   },
+   {
+    "id": "S00168",
+    "src": "必修第二册·Unit 5",
+    "s": "Instead of being kept in cages, wildlife can move about freely."
+   },
+   {
+    "id": "J04876",
+    "src": "初中·英语八年级下册",
+    "s": "Wang Ming: But what could Yu Gong do instead of moving the mountains?"
+   }
+  ]
+ },
+ {
+  "batch": 4,
+  "frame": "Could you tell me [wh-/whether + 陈述语序]?",
+  "gloss": "能否告诉我……：礼貌请求信息，嵌入问句必须用陈述语序。",
+  "pattern_notes": "直接疑问句嵌入 tell me 后倒装取消：where we could go next（而非 where could we go next），是疑问句转嵌套时最稳定的错序点。\n与已有框架“疑问词+do you think+陈述语序”难点相同但结构不同：这里是宾语从句嵌套，疑问词留在从句句首。\n同族：介词后接 whether（不接 if）的嵌入问句，本批 J04653 “write about whether they think...”。",
+  "examples": [
+   {
+    "id": "J01644",
+    "src": "初中·英语九年级全册",
+    "s": "Could you tell me where we could go next?"
+   },
+   {
+    "id": "J01650",
+    "src": "初中·英语九年级全册",
+    "s": "Could you tell me where I can get something to eat?"
+   }
+  ]
+ },
+ {
+  "batch": 4,
+  "frame": "Given [NP/wh-从句], [主句]",
+  "gloss": "鉴于、考虑到……：以已知条件为前提推出主句。",
+  "pattern_notes": "句首 Given 是介词/连词性凝固用法，后接名词短语或 how/that 从句，不是 give 的被动分词，不找施事。\n已有清单的“句首分词状语”指 V-ing 形式；Given+NP 是其词汇化变体，误读判据强：学习者会读成“被给予”。\n主句常配 would/情态动词表推断（one would think...）。",
+  "examples": [
+   {
+    "id": "S07092",
+    "src": "选择性必修第三册·Unit 1",
+    "s": "Given how narrow his legs are and how much he leans to his right, one would think that the statue would break or fall over, yet it still stands more than 500 years later."
+   },
+   {
+    "id": "S06418",
+    "src": "选择性必修第四册·Unit 2",
+    "s": "Given the fine weather, Australians love to eat"
+   }
+  ]
+ },
+ {
+  "batch": 4,
+  "frame": "[for/in + 时间名词] to come",
+  "gloss": "未来的、即将到来的：to come 后置修饰前面的时间名词。",
+  "pattern_notes": "to come = that is to come / that will come，作时间名词的后置定语：for generations to come（未来世世代代）、in years to come（未来岁月）。\n误读判据：学习者易把 to come 当作即将出现的谓语动词而断句失败。\n虚词 for/in 与名词槽固定，整存整取查表价值高。",
+  "examples": [
+   {
+    "id": "S06849",
+    "src": "选择性必修第三册·Unit 3",
+    "s": "With these measures, it is believed that the beauty of the Li River will be preserved for generations to come."
+   },
+   {
+    "id": "S07542",
+    "src": "选择性必修第四册·Unit 3",
+    "s": "Trading has grown greatly in recent years, and will continue to do so in years to come."
+   }
+  ]
+ },
+ {
+  "batch": 4,
+  "frame": "[前句], which [谓语+…]",
+  "gloss": "which 回指前面整句（这件事），而不是某个名词：“这意味着/这将导致……”。",
+  "pattern_notes": "已有清单含“非限定性关系从句”，此处报其新变体：先行项是整个前句或刚陈述的事件，如 which means（也就是说）、which will no doubt start...（此事将……）。\n误读判据：学习者回找最近名词作先行词会造成语义错位。\n逗号必现，which 从句自带完整主谓。",
+  "examples": [
+   {
+    "id": "S07330",
+    "src": "必修第二册·Unit 4",
+    "s": "People from the UK are called “British”, which means the UK is also often referred to as Britain or Great Britain."
+   },
+   {
+    "id": "S02556",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "“Barren” is also a new word to me, which means empty."
+   },
+   {
+    "id": "S03648",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "The famous designer released her new line on Wednesday, which will no doubt start a new fashion trend this year."
+   }
+  ]
+ },
+ {
+  "batch": 4,
+  "frame": "[S] be used to [V] / be used for [V-ing/NP]",
+  "gloss": "被用来做……：表用途或功能的被动框架。",
+  "pattern_notes": "三条形近结构需整存整取：used to [V]（过去惯常，无 be）、be used to [V-ing]（习惯于）、be used to [V]/for [V-ing]（被用来）。\n误读判据强：“were used to pay” 会被读成“过去常常支付”。\nused 是 use 的过去分词，后接目的不定式或 for+动名词/名词。",
+  "examples": [
+   {
+    "id": "S06177",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "The profits from the farm were then used to pay for the education of poor children."
+   },
+   {
+    "id": "S05454",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Horses, donkeys, mules, and water buffaloes were all used for farm work."
+   },
+   {
+    "id": "S08134",
+    "src": "选择性必修第三册·Unit 3",
+    "s": "Biofuel projects use up land, which could be used for growing food."
+   }
+  ]
+ },
+ {
+  "batch": 5,
+  "frame": "What [A] is/was (that) [B]",
+  "gloss": "伪裂句（wh-分裂句）：把想强调的内容装进 what 主语从句，再用系动词接出解释或评价，整句＝「……的是……」。",
+  "pattern_notes": "前半 What 引导的是主语从句而非疑问句（What surprised Xie Lei was...＝Xie Lei 感到惊讶的是...），后半 be 后接 that-从句或名词补语。\n误读点：学习者易把 What...was 当成疑问句+意外系动词，应整存整取为「先抛悬念再给解释」的句式。\n变体：What is worse is that... 是话语连接语用法（＝worse still / to make matters worse），正文用法则如 What surprised X was that...。",
+  "examples": [
+   {
+    "id": "S07523",
+    "src": "选择性必修第二册·Unit 2",
+    "s": "What surprised Xie Lei was that she found herself speaking up in class after just a few weeks."
+   },
+   {
+    "id": "S06210",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "What is worse is that do not need to be blind at all."
+   }
+  ]
+ },
+ {
+  "batch": 5,
+  "frame": "the [minute/second(s)] [A], [B]",
+  "gloss": "一……就……／就在……那一瞬：用「the＋时间名词＋零关系词从句」代替 when/as soon as 引导时间从句。",
+  "pattern_notes": "时间名词 minute/second(s) 等直接带零关系词从句，从句可前置（The minute I sat down, ...）也可后置（... in the 30 seconds the earth moved）。\n误读点：学习者会把 The minute I sat down 读成「这一分钟我坐下」的名词短语，意识不到 minute 在此起连词作用。\n对应显性连词是 as soon as（本批 S03659 另有一例），the minute 是其名词性变体。",
+  "examples": [
+   {
+    "id": "J04618",
+    "src": "初中·英语八年级下册",
+    "s": "The minute I sat down in front of the TV, my mom came over."
+   },
+   {
+    "id": "S01373",
+    "src": "必修第一册·Unit 5",
+    "s": "All of the ways man had made to keep the city safe were gone in the 30 seconds the earth moved."
+   }
+  ]
+ },
+ {
+  "batch": 5,
+  "frame": "(in) the way (in which/that/零) [A]",
+  "gloss": "……的方式：way 作先行词接关系从句，in which／that／零关系词三种形式。",
+  "pattern_notes": "与已有框架 the reason(s) why 完全平行，way 后的关系词可整体省略：in the way they express anger（他们表达愤怒的方式）。\n误读点：in the way＋从句易被错切成「挡道的 in the way」状语＋新主句；且学习者常误产出 the way how。\n正式语体保留 in which（The way in which he did the experiment），口语和教材最常见的是零关系词。",
+  "examples": [
+   {
+    "id": "S03939",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "How are humans and chimps alike in the way they express anger?"
+   },
+   {
+    "id": "S08456",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "The way in which he did the experiment was puzzling to other people."
+   }
+  ]
+ },
+ {
+  "batch": 5,
+  "frame": "[S] have trouble (in) [A-ing]",
+  "gloss": "做……有困难／吃力（＝have difficulty doing）。",
+  "pattern_notes": "trouble 后必须接动名词，不能接 to do；介词 in 通常省略，主语是人。\n误读点：学习者产出 have trouble to see 等错误形式，需把「have trouble＋V-ing」整存整取。\n属动词补语构式，与已有清单中的 end up（V-ing）同一收录层级；另有 have trouble with sth 变体。",
+  "examples": [
+   {
+    "id": "S06550",
+    "src": "选择性必修第三册·Unit 1",
+    "s": "Indeed, they thought the statue was too good to go on top of the cathedral where people would have trouble seeing it."
+   },
+   {
+    "id": "S07723",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "MAKING YOUR HOME SAFE FOR THE ELDERLY The elderly present special challenges, as they may have trouble moving about and can be seriously hurt in falls."
+   }
+  ]
+ },
+ {
+  "batch": 5,
+  "frame": "The aim/purpose of [A] is/was to [B]",
+  "gloss": "（某物／某事）的目的／宗旨是……：名词化主语＋系动词＋不定式表语的定义性句式。",
+  "pattern_notes": "主语是名词化 NP（the aim/purpose of X），表语位置固定用 to 不定式，不用 for V-ing；aim 可换 goal/objective。\n误读点：学习者在 be 后期待名词，或把 to V 误读成目的状语，实为表语；学术／说明语篇开头的高频句式。\n两句分别用 aim 与 purpose、is 与 was，证明框架对时态和名词选择有开放槽位。",
+  "examples": [
+   {
+    "id": "S01958",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "The aim of the programme is to between the two nations."
+   },
+   {
+    "id": "S08453",
+    "src": "选择性必修第三册·Unit 1",
+    "s": "The Middle Ages (from the 5th to the 15th century) During the Middle Ages, the purpose of Western art was to teach people about Christianity."
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "frame": "(Excuse me,) could/can you (please) tell me where [wh-从句·陈述语序]?",
+  "gloss": "礼貌地向陌生人问路、求助的固定开场句式。",
+  "pattern_notes": "固定礼貌开场（Excuse me / Could you please tell me / Do you know）后接 wh-宾语从句，从句必须用陈述语序（where the restrooms are）。学习者易直译为 where are the restrooms。开场成分可替换（Excuse me, can you tell me… / Do you know…），整存整取价值高。",
+  "examples": [
+   {
+    "id": "J01689",
+    "src": "初中·英语九年级全册",
+    "s": "Could you please tell me where the restrooms are?"
+   },
+   {
+    "id": "J01696",
+    "src": "初中·英语九年级全册",
+    "s": "Can you please tell me where the nearest station is?"
+   },
+   {
+    "id": "J02875",
+    "src": "初中·英语九年级全册",
+    "s": "Boy 1: Excuse me, can you tell me where I can buy some medicine?"
+   },
+   {
+    "id": "J01604",
+    "src": "初中·英语九年级全册",
+    "s": "A: Excuse me, do you know where I can get some postcards?"
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "frame": "[主句], V-ing [A] (and V-ing [B])",
+  "gloss": "句尾现在分词短语，对主句表自然结果、补充说明或附加评注。",
+  "pattern_notes": "逗号后的 -ing 分词逻辑主语是主句主语，表主句动作带来的结果或顺势补评，可多个并列（providing…, feeding…, and offering…）。区别于已收录的句首分词状语：句尾位置学习者易误读为修饰紧邻的名词，或漏掉其因果意味。",
+  "examples": [
+   {
+    "id": "S00903",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "All around the world, the Red Cross continues to help civilians caught in war, providing medical assistance, feeding the needy, and offering many other types of aid."
+   },
+   {
+    "id": "S03192",
+    "src": "选择性必修第二册·Unit 4",
+    "s": "The bushes and maple trees outside their windows were red, gold, and orange, and there was frost on the ground, confirming that autumn had arrived in Canada."
+   },
+   {
+    "id": "S02265",
+    "src": "选择性必修第二册·Unit 4",
+    "s": "Guangxi is full of karsts, giving it some of the most interesting—and beautiful—scenery in the world."
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "frame": "one of the + 最高级 + 复数名词 (+ 范围短语 / ever 完成体从句)",
+  "gloss": "表示“最……的……之一”，可再接范围或“有史以来”从句加强。",
+  "pattern_notes": "one of the 后固定接最高级加复数名词，学习者易漏名词复数或误用原级。加强版接 (that) sb has ever V-ed 表示“我所经历过的最……的”，从句用现在完成体。范围可用 in 短语或 of 短语给出。",
+  "examples": [
+   {
+    "id": "S07318",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "The Little Tramp chews on the lower part of the boot, treating it like something good to eat and making you believe that this is one of the best meals he has ever tasted."
+   },
+   {
+    "id": "S08376",
+    "src": "必修第一册·Unit 5",
+    "s": "UNIT 5 LANGUAGES AROUND THE WORLD THE BOOK THAT KEEPS ON GROWING It is one of the most famous books in the world; yet it has no story and no interesting characters, no exciting beginning and no satisfying ending."
+   },
+   {
+    "id": "S01486",
+    "src": "必修第一册·Unit 5",
+    "s": "This strangely popular book is one of the most famous dictionaries in the English- speaking world, the Oxford English Dictionary."
+   },
+   {
+    "id": "S03329",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "They were one of the most romantic literary couples of the Victorian era."
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "frame": "[数字] times as [形容词] (as/than) [B] / [数字] times [比较级] than [B]",
+  "gloss": "用倍数表达“是……的几倍”或“比……多几倍”。",
+  "pattern_notes": "倍数固定在 as...as 结构或比较级之前（four times larger than）。真实文本中存在 as...than 混用（twice as likely… than people who…），学习者容易把倍数放错位置，或把 twice as likely to die 误读成单纯“更容易”。",
+  "examples": [
+   {
+    "id": "S01642",
+    "src": "选择性必修第二册·Unit 3",
+    "s": "And in America, people who receive 25% of their daily calories or more through sugar are twice as likely to die from heart disease than people who receive less than 10% a day (Journal of the American Medical Association, 2014)."
+   },
+   {
+    "id": "S07799",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "This new park is nearly four times larger than the old wildlife park protecting Siberian tigers in Northeast China."
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "frame": "the way [(that/in which) S + V]",
+  "gloss": "“……的方式／样子”，way 后接省略关系词的定语从句。",
+  "pattern_notes": "way 后关系词 that 或 in which 通常整段省略，直接跟主谓结构（the way he was dressed）。学习者易误补 how（×the way how），或读不出省略导致断句错误；需与 the way to do / the way of doing 辨析。",
+  "examples": [
+   {
+    "id": "S03201",
+    "src": "必修第三册·Unit 5",
+    "s": "The shop assistant looked down on Gary because of the way he was dressed."
+   },
+   {
+    "id": "J01429",
+    "src": "初中·英语九年级全册",
+    "s": "Good learners know the best way they can study."
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "frame": "[S] have/get [O] [V-ed]",
+  "gloss": "让/请人把某事做完（使役被动：主语不是动作执行者）",
+  "pattern_notes": "have/get + 宾语 + 过去分词，分词与宾语是被动关系，执行者不出现。学习者易把 had...built 拆成两个动作或误判主语是执行者。get 版与已收录的 get+过去分词（系被动）不同：这里 get 带宾语，是使役构式。",
+  "examples": [
+   {
+    "id": "S05531",
+    "src": "必修第二册·Unit 4",
+    "s": "They had castles built all around England, and made changes to the legal system."
+   },
+   {
+    "id": "S06938",
+    "src": "选择性必修第二册·Unit 3",
+    "s": "We’ll need ten months at least to have the restaurant decorated."
+   },
+   {
+    "id": "S01734",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "The Florence Cathedral first decided to have the statue made in 1464 to stand on its roof, along with statues of other heroes from the Bible."
+   },
+   {
+    "id": "S01540",
+    "src": "必修第二册·Unit 4",
+    "s": "Judy and I had our car parked in an underground car park near Trafalgar Square, where we could get our car battery charged."
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "frame": "[S] was/were [V-ing] ... when [突发分句]",
+  "gloss": "正在做某事，这时突然……",
+  "pattern_notes": "进行体主句在前，when 分句在后表突发事件；when 不是“当……时”的从属时间状语，而接近 and then。语序固定不可调换，学习者按常规 when 从句读会读反因果。",
+  "examples": [
+   {
+    "id": "S05294",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "Peter was walking over to help the boy, when he heard a man shouting “Stop!"
+   },
+   {
+    "id": "S04096",
+    "src": "必修第一册·Unit 4",
+    "s": "“I was having breakfast with my three children when water started filling my home."
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "frame": "one of the + (最高级/形容词) + [复数N]",
+  "gloss": "最……的……之一",
+  "pattern_notes": "固定三块：one of the + 最高级或评价性形容词 + 复数名词；后接关系从句时从句修饰复数名词而非 one（who ever lived 修饰 men）。学习者易在从句归属和主谓一致上读错。",
+  "examples": [
+   {
+    "id": "S05534",
+    "src": "必修第一册·Unit 5",
+    "s": "One of the most popular sports of the Winter Olympic Games is skiing."
+   },
+   {
+    "id": "S00535",
+    "src": "选择性必修第一册·Unit 1",
+    "s": "Introduce someone you admire THE MAN WHO CHANGED OUR UNDERSTANDING OF THE UNIVERSE Albert Einstein, who is perhaps the greatest scientist in modern physics, is often considered one of the smartest men who ever lived."
+   },
+   {
+    "id": "J05464",
+    "src": "初中·英语八年级下册",
+    "s": "Did you know that China is one of the oldest countries in the world?"
+   },
+   {
+    "id": "S05204",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "Maria: This mix of theory and data is one of the key characteristics of what we call science."
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "frame": "[V] + 疑问词 + to do",
+  "gloss": "（知道/告诉某人）怎么做……",
+  "pattern_notes": "know/tell/understand 等后接 wh-词 + 不定式，作宾语，语序固定为疑问词紧贴 to do，不倒装。与宾语从句（how I can do）竞争，学习者易混用语序或误加主语。S01947 一句内三连 when to do 是典型排比用法。",
+  "examples": [
+   {
+    "id": "S00118",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "Fortunately, we now know how to prevent cholera, thanks to the work of John Snow."
+   },
+   {
+    "id": "S01947",
+    "src": "选择性必修第一册·Unit 4",
+    "s": "Their body language lets me know when to adjust class activities, when to intervene, and when to talk to students individually, so they can all get the most out of school."
+   },
+   {
+    "id": "J02869",
+    "src": "初中·英语九年级全册",
+    "s": "Girl: Oh, could you tell me how to get to Center Street?"
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "frame": "What [分句] is/was [补足成分]",
+  "gloss": "……的（东西/事情）就是……（假拟分裂句）",
+  "pattern_notes": "What 引导主语从句提前，谓语 is 后接真正焦点（名词、the fact that...、不定式）。学习者常把 What 当疑问词或期待从句后有问号，读长句时找不到主句谓语。S07006 原文后接练习指令，引语部分本身是自然口语。",
+  "examples": [
+   {
+    "id": "S01859",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "What keeps them from doing so is the fact that chemical farming serves the high demand for food around the world."
+   },
+   {
+    "id": "S07006",
+    "src": "必修第二册·Unit 3",
+    "s": "” “What we try to do here is to develop some self-regulation skills in young people so they understand when to , when to , …” AFTER YOU WATCH Discuss the questions in groups."
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "frame": "[keep/prevent/discourage 类动词] + [O] + from [V-ing]",
+  "gloss": "阻止/使某人不做某事",
+  "pattern_notes": "动词族共用 from + 动名词槽位，from 表“离开/不做”；keep...from doing so 中 so 回指整件事，易误读为 from 介词短语残缺。 discourage/keep 两例动词不同、骨架相同。",
+  "examples": [
+   {
+    "id": "S07068",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "Nevertheless, Qian did not let that discourage him from taking on the challenge."
+   },
+   {
+    "id": "S01859",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "What keeps them from doing so is the fact that chemical farming serves the high demand for food around the world."
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "frame": "be considered/thought + [补语]（无 as）",
+  "gloss": "被认为是……",
+  "pattern_notes": "与已收录 be known/regarded as 同族，但补语前无 as（或带 to be），补语可以很长（one of the smartest men who ever lived），学习者易在长补语中迷失句界。属已收录框架的新变体，单列以保留零标记形式。",
+  "examples": [
+   {
+    "id": "S00535",
+    "src": "选择性必修第一册·Unit 1",
+    "s": "Introduce someone you admire THE MAN WHO CHANGED OUR UNDERSTANDING OF THE UNIVERSE Albert Einstein, who is perhaps the greatest scientist in modern physics, is often considered one of the smartest men who ever lived."
+   },
+   {
+    "id": "S04356",
+    "src": "必修第二册·Unit 5",
+    "s": "However, unlike most classical music, they have never been considered high art."
+   },
+   {
+    "id": "S00363",
+    "src": "必修第二册·Unit 5",
+    "s": "Music in the Period is usually considered to be more expressive and emotional."
+   }
+  ]
+ },
+ {
+  "batch": 8,
+  "frame": "It is/was [A] who/that [B]",
+  "gloss": "强调句：正是 [A] 做了/是 [B]（把焦点成分提到 It is...who/that 之间）",
+  "pattern_notes": "固定虚词骨架 it is/was ... who/that ...，槽位 A 为被强调成分（主语/宾语/状语），B 用陈述语序。学习者极易把 it 当形式主语或把 who/that 读成定语从句关系词，属典型误读点。去掉 It is/was...who/that 后句子仍完整，可作识别检验。",
+  "examples": [
+   {
+    "id": "S08417",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "It’s my father who likes to eat fast food in front of the TV,” he laughs."
+   },
+   {
+    "id": "S00310",
+    "src": "必修第三册·Unit 5",
+    "s": "Although the majority of the current population is of European descent, it was the ethnic minority group known as the Maori who were the first to settle there."
+   }
+  ]
+ },
+ {
+  "batch": 8,
+  "frame": "one of the + 最高级 + 复数名词 [A]",
+  "gloss": "最……的……之一（A 为范围/补充说明）",
+  "pattern_notes": "固定骨架 one of the + 形容词最高级 + 复数名词，名词必须复数、最高级前 the 不可省，是中文无对应的高频整存整取块。常见误读：漏 the、名词用单数、或把 one of 理解成“其中一个”后接不动最高级。可后接地点范围或定语从句作 A 槽。",
+  "examples": [
+   {
+    "id": "J05122",
+    "src": "初中·英语八年级下册",
+    "s": "\"Garth is one of the most successful musicians in American history."
+   },
+   {
+    "id": "S03876",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Probably one of the most beneficial innovations is drip irrigation, which has made it possible to develop big, green farms in the middle of the desert."
+   },
+   {
+    "id": "S01443",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "Blank verse is probably one of the most common and influential forms of English."
+   },
+   {
+    "id": "S05091",
+    "src": "必修第三册·Unit 5",
+    "s": "Christiane Heinicke, one of the people who lived there, said that one of the biggest issues was feeling bored."
+   }
+  ]
+ },
+ {
+  "batch": 8,
+  "frame": "as + 形容词/副词 + as possible / as [sb] can",
+  "gloss": "尽可能……地",
+  "pattern_notes": "固定骨架 as...as possible 或 as...as sb can/could，中间槽位放形容词/副词原级（可带宾语如 as many things as...）。与清单中已有 as...as（两者比较）不同，这里 as 后接的是能力极限标记 possible/can，语义是“尽最大可能”，应作独立框架收录。",
+  "examples": [
+   {
+    "id": "S02948",
+    "src": "选择性必修第一册·Unit 4",
+    "s": "The dog will try making itself look as big as possible."
+   },
+   {
+    "id": "S02429",
+    "src": "必修第二册·Unit 3",
+    "s": "They often do not follow strict grammar rules, because writers use as few words as possible to catch the attention of the readers."
+   },
+   {
+    "id": "S07528",
+    "src": "选择性必修第四册·Unit 1",
+    "s": "Note down as many things as you can recall, and then retell the story using your notes."
+   }
+  ]
+ },
+ {
+  "batch": 8,
+  "frame": "This/That way, [主句]",
+  "gloss": "这样（一来），……（承前做法，引出结果/目的）",
+  "pattern_notes": "句首话语框架：This/That way 回指上文的办法，逗号后主句给出结果，常用将来时或 be able to。this way 在口语中还有“这边走”义，句首承前用法易被误读为指路。",
+  "examples": [
+   {
+    "id": "J02376",
+    "src": "初中·英语九年级全册",
+    "s": "That way, you will know what you are supposed to do in diﬀ erent situations."
+   },
+   {
+    "id": "S00256",
+    "src": "选择性必修第一册·Unit 2",
+    "s": "This way, you will be able to fix the problem before your home becomes flooded or catches fire."
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "[A] be supposed to [V]",
+  "gloss": "A 按惯例/按理应当做某事（外部规范，而非主观意愿的 should）",
+  "pattern_notes": "be supposed to 是固定情态链，整体表示'被期待/按规定应该'，不能拆成 suppose 的被动来读。疑问式 What are you supposed to do...? 专门用于询问习俗规范。\n三例中 J03041 为自然对话；另两例为习俗话题的问答句，结构真实。",
+  "examples": [
+   {
+    "id": "J03041",
+    "src": "初中·英语九年级全册",
+    "s": "Daisy: I guess next time you should ask what you're supposed to wear."
+   },
+   {
+    "id": "J02261",
+    "src": "初中·英语九年级全册",
+    "s": "A: What are people in Korea supposed to do when they meet for the first time?"
+   },
+   {
+    "id": "J02315",
+    "src": "初中·英语九年级全册",
+    "s": "What are you supposed to do when you meet someone for the ﬁ rst time?"
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "[S] tend(s) to [V]",
+  "gloss": "S 往往/倾向于做某事（规律性倾向）",
+  "pattern_notes": "tend 与 to 固定连用，后接原形动词；tend to 整体表主体的习性或规律倾向，不是一次性行为，也不是外部概率判断。\n与已有 likely to（外部看来可能）相对：tend to 指主体自身的惯常性。主语常为群体或抽象名词。",
+  "examples": [
+   {
+    "id": "S04414",
+    "src": "必修第三册·Unit 2",
+    "s": "Many studies have shown that shy, passive children tend to be socially by their classmates."
+   },
+   {
+    "id": "S07510",
+    "src": "选择性必修第四册·Unit 1",
+    "s": "Like humans, language tends to carry biases, which can lead to discrimination."
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "[not/no V] until [时间点/从句]",
+  "gloss": "直到 B 才发生 A（否定状态一直持续到 B 为止）",
+  "pattern_notes": "主句否定词与 until 连用，整句含义是'到 B 时 A 才发生'；中文极易反向理解为'到 B 为止一直 A'，极性反转是该框架的核心误读点。\n变体：[used to V] ... until [事件]（见 S01633），肯定式表状态持续到某转折点为止。",
+  "examples": [
+   {
+    "id": "J04936",
+    "src": "初中·英语八年级下册",
+    "s": "Don't eat it until you get to the forest."
+   },
+   {
+    "id": "S00340",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "While his notebooks were collected and prized by the kings of Europe, none of them were published until the late 19th century."
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "[NP] be one of the + [最高级/类别词] + [复数名词]",
+  "gloss": "……中最……之一",
+  "pattern_notes": "one of the 后强制出现：定冠词 the + 最高级（或类别词）+ 复数名词，三者绑定为整体，谓语与 one 一致取单数。\n典型误读是漏看复数或把最高级读成一般修饰；整存整取可避免'one of the most famous place'类错误。S02828 为无最高级的基本式（one of the + 复数类别名词）。",
+  "examples": [
+   {
+    "id": "S07774",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "Today, the Serengeti is one of the top tourist attractions in the world."
+   },
+   {
+    "id": "S01633",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "JOHN SNOW DEFEATS “KING CHOLERA” Cholera used to be one of the most feared diseases in the world, until a British doctor, John Snow, showed how it could be overcome."
+   },
+   {
+    "id": "S02828",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "Stretching over 2,300 kilometres, the Great Barrier Reef is considered one of the natural wonders of the world."
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "[NP] be located in/at [地点]",
+  "gloss": "A 位于 B",
+  "pattern_notes": "be located in/at 表静态方位，是高频整存组合；located 是状态化的过去分词，不表动作、无施事，勿追问'谁 locate 它'。\n接大范围用 in，接具体点位用 at；与 be situated in / lie in 同义但 be located in 最常用。",
+  "examples": [
+   {
+    "id": "S01035",
+    "src": "必修第三册·Unit 3",
+    "s": "The famous bar street is located in the area of the city."
+   },
+   {
+    "id": "S07195",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Earth University is located in Guacimo, Costa Rica."
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "What [小句] is/was [焦点]",
+  "gloss": "……的是……（Wh-伪分裂句，强调 is/was 之后的内容）",
+  "pattern_notes": "句首 what 引导主语从句（非疑问义），系动词 is/was 之后才是信息焦点。第二例 is 换 was 且焦点带 probably 等修饰。\n核心误读：把 what 当疑问词逐词翻译，导致整句读反；正确读法是先收住 what-从句，等系动词后的焦点。",
+  "examples": [
+   {
+    "id": "S06358",
+    "src": "选择性必修第二册·Unit 3",
+    "s": "What we can say, however, is that culture and cuisine go hand in hand, and if you do not experience one, you can never really know the other."
+   },
+   {
+    "id": "S04188",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "However, what might have made him such an outstanding and creative scientist was probably his strong interest in other things, such as music and drawing."
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "Like [A], [B] [V]",
+  "gloss": "像 A 一样，B 也……（句首类比框架）",
+  "pattern_notes": "句首 Like + 名词短语 + 逗号 + 主句：Like 的宾语 A 与主句主语 B 对位建立类比，而非修饰谓语动词。\n这是'明喻 like 框架'（like+NP 作动词后比拟）的句首新变体：整体前置后读者须把 A 挂靠到主句主语，逐词读容易挂错或读慢。",
+  "examples": [
+   {
+    "id": "S04380",
+    "src": "必修第三册·Unit 4",
+    "s": "Like Earth, Mars has volcanoes, valleys, polar ice caps, seasons, and weather."
+   },
+   {
+    "id": "S02192",
+    "src": "必修第二册·Unit 5",
+    "s": "Like his operas, the scores for Crouching Tiger, Hidden Dragon, and Hero use Chinese musical instruments and styles in a Western classical music score."
+   },
+   {
+    "id": "S07510",
+    "src": "选择性必修第四册·Unit 1",
+    "s": "Like humans, language tends to carry biases, which can lead to discrimination."
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "like + [限定小句]（表'仿佛'）",
+  "gloss": "就好像……（口语中 like 引出完整小句，相当于 as if）",
+  "pattern_notes": "已有'明喻 like 框架'为 like + 名词短语；本变体 like 后直接接完整限定小句，义同 as if，属口语/非正式语域，规范书面语用 as if。\n误读点：学习者预期 like 后只能接名词，遇到 like they are embarrassed 会读慢或误当作举例。第二例为省略式 like he had (seen it)。",
+  "examples": [
+   {
+    "id": "S00819",
+    "src": "选择性必修第一册·Unit 4",
+    "s": "They may also hide their faces in their hands like they are embarrassed or ashamed."
+   },
+   {
+    "id": "S07950",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "When he got absorbed in his world of music, he felt as if he could “see” the beauty of the world around him, like he had in his previous life."
+   }
+  ]
+ },
+ {
+  "batch": 9,
+  "frame": "[V] so as to [V] / in order to [V]",
+  "gloss": "为了……（目的）",
+  "pattern_notes": "so as to 是固定虚词链，不可拆读成 so + as；拆读会读慢且误解为比较结构。仅表目的，其逻辑主语与主句主语一致。\nin order to 为同义正式变体（可居句首），so as to 一般居句中动词后。",
+  "examples": [
+   {
+    "id": "S06256",
+    "src": "必修第三册·Unit 4",
+    "s": "Despite the huge risks though, people will always continue to explore this final f so as to learn its secrets."
+   },
+   {
+    "id": "S03949",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "Oddly, many of these notes are written backwards: You have to hold them up to the mirror in order to read them."
+   }
+  ]
+ },
+ {
+  "batch": 10,
+  "frame": "What will/would happen if [小句]?",
+  "gloss": "假如……会发生什么（后果）？",
+  "pattern_notes": "What + will/would + happen + if 条件从句，整句作假设性后果提问。骨架是 What...happen if 的固定组合，happen 不可换被动（学习者易造出 What will be happened）。真实语篇与讨论中反复出现的整存整取问句模板。",
+  "examples": [
+   {
+    "id": "J03981",
+    "src": "初中·英语八年级上册",
+    "s": "What will happen if they have the party tomorrow?"
+   },
+   {
+    "id": "S04539",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "What would happen if such knowledge ended up in the wrong hands?"
+   }
+  ]
+ },
+ {
+  "batch": 10,
+  "frame": "[单数名词] by [同一单数名词]",
+  "gloss": "一天天地／逐年地，表示渐进变化。",
+  "pattern_notes": "同一无冠词单数名词用 by 连接（day by day, year by year），整体作副词性短语，常与变化动词连用。学习者易误加冠词（the day by the day）或按字面译成介词短语，整存整取有查表优势。",
+  "examples": [
+   {
+    "id": "S02655",
+    "src": "选择性必修第二册·Unit 2",
+    "s": "I made friends and became more confident in my studies day by day."
+   },
+   {
+    "id": "S02563",
+    "src": "必修第二册·Unit 5",
+    "s": "The deer liked the cool, wet weather in England, and their numbers increased year by year."
+   }
+  ]
+ },
+ {
+  "batch": 10,
+  "frame": "While [让步从句], [主句]",
+  "gloss": "尽管……（但）……。",
+  "pattern_notes": "句首 While = Although，引导让步而非时间从句。学习者最熟 while=当……时，此处易误读成时间关系。与已收 much as 同族但语序不同，属高频让步骨架。",
+  "examples": [
+   {
+    "id": "S08202",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "While the Red Cross is mostly tasked with helping people in times of war, it also responds to natural disasters and gives aid to people who have to leave their homes."
+   },
+   {
+    "id": "S03657",
+    "src": "选择性必修第四册·Unit 4",
+    "s": "And, while the country is quite beautiful and has much natural wealth, many of the people are quite poor and live without things we take for granted, such as electricity, running water, cars and good transport systems, and supermarkets."
+   }
+  ]
+ },
+ {
+  "batch": 10,
+  "frame": "find + [宾语] + [过去分词/形容词补语]",
+  "gloss": "发现……（自己）处于某种状态。",
+  "pattern_notes": "find 不是'找到'而是'发觉处于'，宾语后接 V-ed/形容词补语（find itself influenced / found the doors closed / find their jobs replaced）。学习者易把 closed/replaced 误读成并列谓语或被动句主句动词。与已收 have/get+O+V-ed 同构但动词为 find。",
+  "examples": [
+   {
+    "id": "S04708",
+    "src": "选择性必修第三册·Unit 1",
+    "s": "Chinese sculpture thus found itself highly influenced by Buddhist art brought from India and Central Asia through the Silk Road."
+   },
+   {
+    "id": "S06315",
+    "src": "选择性必修第一册·Unit 1",
+    "s": "Einstein, who was Jewish, found the doors of academic institutions closed to him."
+   },
+   {
+    "id": "S02886",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "Lawyers, teachers, librarians, drivers, and receptionists may find their jobs replaced by AI in the future."
+   }
+  ]
+ },
+ {
+  "batch": 10,
+  "frame": "find/have (the) time to [动词原形]",
+  "gloss": "（尽管忙仍）腾出时间做某事／有时间做某事。",
+  "pattern_notes": "find time 不能按字面理解成'找到时间'；肯定式常与 still/even 共现表'仍抽空'，否定式 do not have the time to 表'无暇'。动词在 find/have 间替换、time 前 the 可有可无不影响骨架。",
+  "examples": [
+   {
+    "id": "S03412",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "However, even though da Vinci worked as an engineer, he still found time to paint, creating some of his greatest artworks during this period."
+   },
+   {
+    "id": "S01082",
+    "src": "选择性必修第一册·Unit 1",
+    "s": "She works long hours every day for the sake of our family, and she still finds the time to help with household chores and spend time with me."
+   },
+   {
+    "id": "S04196",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Farmers do not have the time to read and learnt from books on greenhouse farming."
+   }
+  ]
+ },
+ {
+  "batch": 10,
+  "frame": "Could you please [动词原形]…?",
+  "gloss": "请你……好吗？（礼貌请求）",
+  "pattern_notes": "Could you please + 动词原形（可接宾语从句 where.../并列动词），固定礼貌请求骨架。与已收 Could you tell me... 同族但更泛化；学习者易误用 to do 或在 please 后错接 -ing。",
+  "examples": [
+   {
+    "id": "J01620",
+    "src": "初中·英语九年级全册",
+    "s": "Could you please tell me where the restrooms are?"
+   },
+   {
+    "id": "J05369",
+    "src": "初中·英语八年级下册",
+    "s": "And could you please make your bed and fold your clothes?"
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "find + [O] + [V-ing/V-ed 补语]",
+  "gloss": "发现[某人/某物]正处于[某动作/某状态]",
+  "pattern_notes": "find 后接宾语再加 V-ing（进行中动作）或 V-ed（被动完成状态）作宾语补足语，整存整取为『发现…处于某状态』。\n误读点：学习者易把 V-ed 误当作主要谓语（he found his nest occupied 读成『他的巢被发现』），或把 find 与补语拆成两个独立事件。",
+  "examples": [
+   {
+    "id": "J04693",
+    "src": "初中·英语八年级下册",
+    "s": "Kim: Well, I found my sister looking through my things yesterday."
+   },
+   {
+    "id": "S05704",
+    "src": "必修第三册·Unit 2",
+    "s": "The king watched all day as many people complained about the stone, but he found nobody making an attempt to move it."
+   },
+   {
+    "id": "S06282",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "But when Buck finished his ration and returned, he found his nest occupied."
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "Some [A], (and) others [B]",
+  "gloss": "一些[人/物]…，另一些则…（承前省略并列）",
+  "pattern_notes": "some 与 others 对举分述同类对象，others 后常省去与前句相同的谓语（and others many more = and others needed many more），须回指前文复原。\n误读点：省略谓语后 others 后只剩碎片，学习者易读不通或误把 others 当形容词修饰后面成分。",
+  "examples": [
+   {
+    "id": "S05094",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "Some people, for example, needed far fewer than 10,000 hours, and others many more."
+   },
+   {
+    "id": "S04252",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "The spiders were terrible, huge hairy things inches across, or small but deadly black things hiding in the toilet; some lived in vast wheeling webs hanging between trees, some rocked inside webs in the grass, others dived into little holes in the ground complete with lids which shut after them."
+   },
+   {
+    "id": "S06776",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "And there were many other lizards, smaller but some no less frightening, with swollen, bright-blue tongues."
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "[前置介词短语(方位/伴随)] + are/is + [真正主语]",
+  "gloss": "在[某处]/连同[某物]的是[新信息主语]（完全倒装）",
+  "pattern_notes": "介词短语（behind…/along with…）提至句首，be 动词紧随其后，真正主语（通常是新信息）后置。\n误读点：学习者易把前置短语里的名词当主语，读到 are/is 时卡壳，或错判后面主语的单复数呼应。",
+  "examples": [
+   {
+    "id": "J02755",
+    "src": "初中·英语九年级全册",
+    "s": "Behind each door you open are chances to learn new things, and you have the ability to make your own choices."
+   },
+   {
+    "id": "S06548",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "Along with these drawings are notes describing his work."
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "Not all/every [A] + [肯定谓语]",
+  "gloss": "并非所有[A]都…（部分否定，= only some）",
+  "pattern_notes": "not 直接置于 all/everyone/everything 前构成部分否定，谓语仍用肯定形式。\n误读点：学习者易读成全否定『全都不…』，或与 not 在句中漂移的 all…not 混淆；本批另有一例前后对照（not all… but all…）可见其对举用法。",
+  "examples": [
+   {
+    "id": "J03673",
+    "src": "初中·英语八年级上册",
+    "s": "Not everyone knows what they want to be."
+   },
+   {
+    "id": "S07896",
+    "src": "选择性必修第二册·Unit 3",
+    "s": "While not all farm-to-table restaurants are part of the slow food movement, all slow food restaurants are essentially farm-to-table."
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "[主句(常含否定/条件)] + unless + [条件句]",
+  "gloss": "除非[B]，否则[A不成立]",
+  "pattern_notes": "unless = if…not，引导的是主句成立所必需的前提条件，常与 can't/will/would 等情态呼应。\n误读点：方向感易读反——学习者易把 unless 后内容当成结果而非条件，与『只要…就』混淆。",
+  "examples": [
+   {
+    "id": "J01424",
+    "src": "初中·英语九年级全册",
+    "s": "\" Even if you learn something well, you will forget it unless you use it."
+   },
+   {
+    "id": "J05447",
+    "src": "初中·英语八年级下册",
+    "s": "Well, the brothers kept everything for themselves and told the emperor that people couldn't see the clothes unless they were clever."
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "[主句] + so as (not) to + [V]",
+  "gloss": "以便[做某事]；so as not to 则是『以免[做某事]』",
+  "pattern_notes": "固定连接词 so as to 后接动词原形表目的，其否定形式 so as not to 为不可拆的整体。\n误读点：学习者易把 so 与 as 拆开误读成『如此…作为』；漏读 not 会把『以免』反向读成『为了』。",
+  "examples": [
+   {
+    "id": "S01893",
+    "src": "必修第三册·Unit 4",
+    "s": "→ In space, astronauts collect all dirty water so as to recycle it for later use."
+   },
+   {
+    "id": "S05842",
+    "src": "必修第三册·Unit 4",
+    "s": "What do they do so as not to float around while they sleep?"
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "For one thing, [A]; For another, [B]",
+  "gloss": "一来…，二来…（成对列举理由）",
+  "pattern_notes": "成对话语标记，分列两条平行理由，第二个分句常承前省略主干。\n误读点：单看 For another 会误读成『为了另一个』，须识别它是 For one thing 的呼应下文。注：本批两例均只出现 For another 半边（教材上下文承接前句 For one thing）。",
+  "examples": [
+   {
+    "id": "S01575",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "For another, it could be used to grow human organs or tissue in animals, which could be used for human organ transplants or medical treatments."
+   },
+   {
+    "id": "S06182",
+    "src": "必修第三册·Unit 5",
+    "s": "For another, almost anyone can play baseball, even if you do not have great skills or ability."
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "The number of [复数NP] + is + [B]",
+  "gloss": "[某类东西]的数量是[B]（中心词 number 为单数）",
+  "pattern_notes": "主语中心词是 the number（单数），后接 of 复数名词仍配单数谓语；与 a number of + 复数谓语（许多…）形成查表对比。\n误读点：就近的复数名词吸引学习者误配 are；语义上也易把 the number of X 误读成『那些X』。",
+  "examples": [
+   {
+    "id": "S00145",
+    "src": "必修第一册·Unit 5",
+    "s": "The number of problems from tourists is endless: walking in large groups without considering others who need to walk by, crossing roads without thinking of local traffic laws, and many more."
+   },
+   {
+    "id": "S05871",
+    "src": "必修第一册·Unit 4",
+    "s": "Thousands of people are missing and the number of deaths is expected to grow."
+   }
+  ]
+ },
+ {
+  "batch": 11,
+  "frame": "How long did it take (for) [A] to [V]",
+  "gloss": "[A]做某事花了多长时间",
+  "pattern_notes": "清单『It takes sb time to』的疑问式/无人称变体：it 为形式主语，sb 可换成 for+NP 引出的事件主语。\n误读点：疑问句里 it 无实义、take 的宾语是疑问词，学习者易把 take 误读为『拿』，或把 for half of the city centre 误读成目的状语。",
+  "examples": [
+   {
+    "id": "S04941",
+    "src": "必修第一册·Unit 4",
+    "s": "How long did it take for half of the city centre to burn?"
+   },
+   {
+    "id": "J02437",
+    "src": "初中·英语九年级全册",
+    "s": "How long did it take the general to find the happy man?"
+   }
+  ]
+ },
+ {
+  "batch": 12,
+  "frame": "with + [NP] + [补语]，[主句]（with-复合结构伴随状语）",
+  "gloss": "在……（某状态/情形）之下，与此同时主句发生——with 引出一个自带小主谓的伴随结构。",
+  "pattern_notes": "with 后接「名词 + 补语」的小主谓结构，补语可为形容词（fresh in his mind）、过去分词（generated in California）或介词短语（for almost everything）；with 整体作状语，不是「用……」的工具状语，也不追问分词的施事。\n误读点：学习者易把 NP + V-ed 切成「介词宾语 + 后置定语」，或把 with 短语读成修饰邻近名词的定语；整存整取才能读出 NP 与补语之间的主谓（或被动）关系。\n此前 result_009（S06884，V-ed）与 result_011（V-ing）各记 1 例候选，本批 3 例干净语料（形容词/过去分词/介词短语三种补语），达两句门槛，正式收录。另有弱形式「with + NP1 + of NP2」表属性（S01941 with clay floors and roofs of grass），无谓词性补语，不单独计。",
+  "examples": [
+   {
+    "id": "S06875",
+    "src": "选择性必修第二册·Unit 4",
+    "s": "With Alaska fresh in his mind, he tried to sell the story of his journey up north to several publishers and magazines, but no one seemed interested."
+   },
+   {
+    "id": "S03554",
+    "src": "选择性必修第三册·Unit 3",
+    "s": "The USA has the largest capacity, with over 80% generated in California."
+   },
+   {
+    "id": "S08358",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "There are various kinds of theme parks, with different parks for almost everything: food, culture, science, cartoons, movies, history, and so on."
+   }
+  ]
+ },
+ {
+  "batch": 12,
+  "frame": "The [评价性NP] is [to V / V-ing]（first step / main thing…）",
+  "gloss": "（做某事的）第一步/关键在于……——名词化主语 + 系动词 + 不定式或动名词表语的定义性句式。",
+  "pattern_notes": "已收「The aim/purpose of X is to」的同族新变体：aim/purpose 槽位可换成 the first step、the main thing 等评价性名词，且表语既可 to-V（J04034）也可 V-ing（S01065/S06772），两者可互换；result_005 候选「The best way to V is to」亦属本族。\n误读点：学习者在 be 后期待名词短语，或把 to-V/V-ing 误读成目的状语，实为表语；该句式是说明文、操作指南、建议段的高频定义性开头，整存整取可一次掌握槽位与表语形式。",
+  "examples": [
+   {
+    "id": "J04034",
+    "src": "初中·英语八年级上册",
+    "s": "\" He thinks the first step is to find someone you trust to talk to."
+   },
+   {
+    "id": "S01065",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "The first and most important step in the treatment of burns is giving first aid."
+   },
+   {
+    "id": "S06772",
+    "src": "选择性必修第一册·Unit 4",
+    "s": "The main thing is reminding distracted students that they need to pay attention in class."
+   }
+  ]
+ },
+ {
+  "batch": 12,
+  "frame": "What does [A] mean by [B]?",
+  "gloss": "A 说 B／用 B 这个说法是什么意思？——对措辞、引文、标题的追问句式。",
+  "pattern_notes": "mean 与 by 固定搭配：by 引出被追问的言语、引文或 V-ing 说法，全句询问「意图何在」，不是问词义本身；勿把 by 读成「被」或「通过」。\n同样结构常见于日常追问（What do you mean by that?）；两例为教材理解题但主语与被问内容各异，非模板同构。",
+  "examples": [
+   {
+    "id": "S00165",
+    "src": "必修第一册·Unit 4",
+    "s": "What does the writer mean by “Slowly, the city began to breathe again”?"
+   },
+   {
+    "id": "S08337",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "What does Nora mean by saying that she needs time to polish her writing?"
+   }
+  ]
+ },
+ {
+  "batch": 12,
+  "frame": "not/no longer as [A] as [before / it once was]",
+  "gloss": "不像从前那样……——同级比较的否定式，且比较基准是过去状态。",
+  "pattern_notes": "已收 as...as 为基础式，此为「今昔对比」变体：比较基准槽位填 before 或 it once was（主语与主句相同、谓语回到过去时），比较的是现在的 A 与过去的 A；no longer 可与 not as...as 叠加（S07553）。\n误读点：as it once was 里的过去时 was 与回指主语易被逐词读漏，导致今昔对比丢失；「not as successful as before」也易被读成单纯的比较而非「今不如昔」的评价。",
+  "examples": [
+   {
+    "id": "S07553",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Many come hoping to see wildlife, which is no longer as common in the American West as it once was."
+   },
+   {
+    "id": "S07312",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Unfortunately, his style of visual humour had gone out of style and so his films were not as successful as before."
+   }
+  ]
+ },
+ {
+  "batch": 12,
+  "frame": "[主句] + as + [小句]（表伴随进程或原因）",
+  "gloss": "随着……／由于……——as 从句后置，取「当…时/作为」之外的多义读法。",
+  "pattern_notes": "as 从句跟在主句之后，本批三种读法并存：表同步进程（as we approached＝随着我们接近）、表同步变化（as new roads and railways were built＝随着），表原因（as there is no natural light＝因为）。\n误读点：中文学习者默认把 as 读成「作为」或只认「当…时」，句尾 as 从句常被读慢或错挂成方式状语；需按主句语义（变化/状态+解释）选择「随着/因为」。\nas 单词成骨架、无多词固定链，按判据 1 处于边界；因三例误读方向一致且频率高，报出供人工裁决。",
+  "examples": [
+   {
+    "id": "S02835",
+    "src": "选择性必修第三册·Unit 4",
+    "s": "Endurance became stuck in the ice as we approached Antarctica."
+   },
+   {
+    "id": "S06959",
+    "src": "必修第二册·Unit 2",
+    "s": "Their habitats were becoming smaller as new roads and railways were built."
+   },
+   {
+    "id": "S01425",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "The tunnels are lit with pink LEDs as there is no natural light below the ground."
+   }
+  ]
+ },
+ {
+  "batch": 12,
+  "frame": "[NP] + when/while + [V-ing]（逻辑主语承前省略）",
+  "gloss": "……在（做某事）的时候——when/while 后直接接 V-ing，省略的主语从上下文找回。",
+  "pattern_notes": "when/while + V-ing 的时间状语从句省略「主语 + be」，逻辑主语承自主句主语或先行名词；位置可在句首（While diving in Greece, ...）也可插在名词与谓语之间（His lack of eye contact when talking with people shows...）。\n误读点：句中位置时 V-ing 的挂靠对象隔得较远，逐词读会把 when/while + V-ing 挂错到邻近名词或当成伴随修饰。属已收「句首分词状语」的 when/while 显性标记 + 句中位置新变体；result_004 曾记 when + V-ed 被动省略单例（When asked whether...）。",
+  "examples": [
+   {
+    "id": "S05164",
+    "src": "选择性必修第一册·Unit 4",
+    "s": "His lack of eye contact when talking with people shows that he lacks confidence."
+   },
+   {
+    "id": "S07428",
+    "src": "必修第三册·Unit 2",
+    "s": "A: Did you hear that James helped an old woman who fell down while crossing the street?"
+   },
+   {
+    "id": "S04883",
+    "src": "选择性必修第四册·Unit 3",
+    "s": "While diving in Greece, young Boyan Slat noticed there was more plastic waste than fish."
+   }
+  ]
+ },
+ {
+  "batch": 13,
+  "frame": "According to [来源NP], [主句]",
+  "gloss": "据某来源所说，先标注信息出处再陈述内容",
+  "pattern_notes": "句首 According to 接人名/著作/机构等来源，逗号后接主句，整块表'据……所说'。\n学习者易把 According to 的辖域误挂到主语上或误当作主语的一部分。\n变体 According to the speaker 见于听力题干，属指令语域，不计作例句。",
+  "examples": [
+   {
+    "id": "J01871",
+    "src": "初中·英语九年级全册",
+    "s": "According to Chinese history, sky lanterns were first used by Zhuge Kongming."
+   },
+   {
+    "id": "S00655",
+    "src": "选择性必修第二册·Unit 2",
+    "s": "According to Oberg, there are several stages of culture shock."
+   }
+  ]
+ },
+ {
+  "batch": 13,
+  "frame": "[主句], with/each with [NP] + [补足语]",
+  "gloss": "附带说明：'其中带有/连同'，对主句内容作伴随补充",
+  "pattern_notes": "with 后接名词短语，再加介词短语或 V-ed 等补足语，构成独立于主句主谓的伴随结构（with 复合结构）；each with 表示'每一个都带有'。\n可置于句首（With [NP]+补足语, [主句]）或句尾。\n学习者最易把 with 后的 V-ed 误读为主句被动的一部分（如 with questions answered by...）。",
+  "examples": [
+   {
+    "id": "S03068",
+    "src": "选择性必修第四册·Unit 2",
+    "s": "major attraction of Thailand is its amazing selection of islands, each with long sandy beaches and clear blue water."
+   },
+   {
+    "id": "S00943",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "With trees, bushes, and colourful flowers along the riversides, the park shows different sides of beauty in different seasons."
+   },
+   {
+    "id": "S04269",
+    "src": "选择性必修第四册·Unit 2",
+    "s": "Our topic today is “Creatures Unique to Australia”, with questions answered by wildlife expert, Dr Jim Smith."
+   }
+  ]
+ },
+ {
+  "batch": 13,
+  "frame": "[主句] by + V-ing",
+  "gloss": "通过做某事（方式/手段），by 短语表方式而非被动施动者",
+  "pattern_notes": "by + 动名词短语修饰主句谓语，表'以……方式'。\n在被动句中与 by+施动者同形，是主要误读点：rented by using online apps 是'通过使用 app 租'，不是施动者。\n判据1 边界：介词接动名词属规则，但'by V-ing=方式'整块查表价值高，与既有 have trouble V-ing 同类。",
+  "examples": [
+   {
+    "id": "S05928",
+    "src": "必修第二册·Unit 3",
+    "s": "Bikes can be rented by using online apps—no need for paperwork or payment."
+   },
+   {
+    "id": "S00371",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "However, the need for such robots does not seem to be as critical as our need for intelligent machines that can solve problems by learning from their observations and experience."
+   },
+   {
+    "id": "S06634",
+    "src": "选择性必修第一册·Unit 2",
+    "s": ", we can still keep ahead of our competitors by developing new innovations."
+   }
+  ]
+ },
+ {
+  "batch": 13,
+  "frame": "those who + [V 小句]",
+  "gloss": "'……的人们'，those 指代一类人后接定语从句",
+  "pattern_notes": "those who 整体当作名词短语（= the people who）使用，常见于比较从句（than those who...）和主语位置，从句谓语用复数。\n学习者易把 those 孤立理解为'那些（东西）'而丢失'者'义，或纠结与 these 的指代。",
+  "examples": [
+   {
+    "id": "S01624",
+    "src": "选择性必修第二册·Unit 1",
+    "s": "The people who drank this water were much more likely to get cholera than those who drank pure or boiled water."
+   },
+   {
+    "id": "S07144",
+    "src": "选择性必修第二册·Unit 3",
+    "s": "Or, that those who like spicy food tend to have a hot temper?"
+   }
+  ]
+ },
+ {
+  "batch": 13,
+  "frame": "Given that + [小句], [主句]（及后置 given [NP]）",
+  "gloss": "鉴于/考虑到某事实，可接完整小句，也可后置",
+  "pattern_notes": "既有框架 Given [NP], [主句] 的新变体：\n(1) that 后接完整小句：Given that China has many areas where...；\n(2) given 短语后置到句尾：..., given its large population。\n两例均为自然语篇，非练习指令。",
+  "examples": [
+   {
+    "id": "S07706",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Given that China has many areas where soil conditions are poor, Chinese researchers have been experimenting with hydroponics since the 1970s."
+   },
+   {
+    "id": "S03114",
+    "src": "选择性必修第二册·Unit 4",
+    "s": "EXAMPLE Anna: I thought China would be very crowded, given its large population."
+   }
+  ]
+ },
+ {
+  "batch": 14,
+  "frame": "now that [原因从句], [主句]",
+  "gloss": "既然、由于现在已经……（引出既成事实作为新决定/新情况的依据）",
+  "pattern_notes": "now that 是固定的双词连词，整存整取，不可拆成 now + that 理解。后接一般现在/现在完成从句表既成事实，主句常是新决定或新情况。没见过的学习者极易按字面读成“现在那个”而卡壳。句首、句中均可出现。",
+  "examples": [
+   {
+    "id": "S00224",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "” Most of the people who receive help from the Red Cross are very grateful for the help, and some even want to return the favour and help others now that they themselves have received help."
+   },
+   {
+    "id": "S03189",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Now that both of my grandparents have retired from their jobs in the city, how they are going to spend their retirement is an important decision for them."
+   }
+  ]
+ },
+ {
+  "batch": 14,
+  "frame": "Since [原因从句], [主句]",
+  "gloss": "既然、由于（since 表原因而非时间）",
+  "pattern_notes": "句首 Since + 从句 + 主句，从句用一般时/过去时、主句用 would 或一般现在表常态，是因果解读的信号。学习者的默认反应是 since = 自从（期待完成体），遇到因果用法会实际读错句子逻辑。本批两例主句均无完成体，歧义真实存在。",
+  "examples": [
+   {
+    "id": "S05335",
+    "src": "选择性必修第一册·Unit 3",
+    "s": "Since reindeer were always on the move, the Sami would pick up their tents and accompany them."
+   },
+   {
+    "id": "S05729",
+    "src": "选择性必修第四册·Unit 2",
+    "s": "Since the coastline is so long, each region has its own dishes that are related to the seafood found in its waters."
+   }
+  ]
+ },
+ {
+  "batch": 14,
+  "frame": "the + 最高级 + [N] (that) + [主语] + have/has/had ever + [V-ed]",
+  "gloss": "某人经历过的最……的……（最高级与 ever+完成体绑定）",
+  "pattern_notes": "最高级名词短语后接省略 that 的定语从句，从句内固定用 ever + 完成体。骨架在“最高级 … ever + have/had done”这一跨槽位搭配：学习者常把 ever 当独立副词“曾经”读，或改用一般过去时，导致理解偏差。整存整取查表价值高。",
+  "examples": [
+   {
+    "id": "S06379",
+    "src": "必修第二册·Unit 5",
+    "s": "Tasmania is the most unforgettable place I have ever been to."
+   },
+   {
+    "id": "S06866",
+    "src": "选择性必修第二册·Unit 3",
+    "s": "Effect A The chef just began filling our table with the best food we had ever eaten."
+   }
+  ]
+ },
+ {
+  "batch": 15,
+  "frame": "make + [O] + [adj]（宾语补足语，O 长时补语后移）",
+  "gloss": "使某物变得怎么样；宾语较长时形容词补语挪到宾语后面，容易被误读成修饰别的成分。",
+  "pattern_notes": "固定语序 make + 宾语 + 形容词补语，整存整取。S04401 是常规序（make hot water much easier），S04687 是重宾语后移序（make widespread cloning possible，possible 不贴宾语），没见过后移序的学习者会把 possible 误挂到别处。与已有 have/get+O+V-ed 互补但不同（此处补语为形容词，动词为 make）。",
+  "examples": [
+   {
+    "id": "S04401",
+    "src": "必修第二册·Unit 5",
+    "s": "The new samovar could make hot water much easier and could be transported anywhere, not to mention that it required much less fuel."
+   },
+   {
+    "id": "S04687",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "While there are technical issues that need to be worked through to make widespread cloning possible, the biggest concerns are moral."
+   }
+  ]
+ },
+ {
+  "batch": 15,
+  "frame": "[主句], with + [O] + [补语(doing/done/介词短语)]",
+  "gloss": "主句之外用 with 复合结构附带说明伴随的状态或动作，相当于一个压缩的状语从句。",
+  "pattern_notes": "固定虚词 with + 宾语 + 补语，语序固定，补语形式随主被动变化（businesses taking / his sling across his shoulder）。学习者容易把 with 当普通介词找宾语名词后就断开，漏掉后面的补语部分，或对 taking/across 的句法归属迟疑。",
+  "examples": [
+   {
+    "id": "S07753",
+    "src": "必修第三册·Unit 1",
+    "s": "Festivals are becoming more and more commercial, with businesses taking advantage of the celebrations."
+   },
+   {
+    "id": "S03752",
+    "src": "选择性必修第三册·Unit 5",
+    "s": "Michelangelo’s David is before the battle, looking ahead in confidence, with his sling across his shoulder."
+   }
+  ]
+ },
+ {
+  "batch": 15,
+  "frame": "be of + [抽象名词]",
+  "gloss": "具有某种性质，等于 be + 对应形容词（of equal size = equally sized, of exceptional beauty = exceptionally beautiful）。",
+  "pattern_notes": "固定虚词 of + 抽象名词槽位，常见于正式描写文体。没见过的学习者不知道 of 短语整体充当表语，会试图把 of 理解成所属关系而读错或卡住。",
+  "examples": [
+   {
+    "id": "S00611",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "For instance, in Japan, robots are used to spray individual grape clusters with insecticide, trim them so they are all of equal size, bag them so that they can be further protected from pests and the elements, and then harvest them when they are ripe."
+   },
+   {
+    "id": "S05194",
+    "src": "选择性必修第三册·Unit 1",
+    "s": "These works were intended to spread Buddhism and they are of exceptional beauty and quality."
+   }
+  ]
+ },
+ {
+  "batch": 15,
+  "frame": "be different from + [B]",
+  "gloss": "与……不同；from 后接比较对象，常用 the + 名词回指同类事物。",
+  "pattern_notes": "固定介词 from（学生常错用 than/with），整存整取。S08198 中比较对象是 the wrestling in the Olympic Games，用 the+名词替代同类事物，配合回指理解；S03632 后接非限定性 which 从句补充对比细节。",
+  "examples": [
+   {
+    "id": "S03632",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "This is very different from a dog, which will put its tail between its legs to show fear …"
+   },
+   {
+    "id": "S08198",
+    "src": "必修第三册·Unit 1",
+    "s": "Mongolian wrestling is different from the wrestling in the Olympic Games."
+   }
+  ]
+ },
+ {
+  "batch": 16,
+  "frame": "from [A] to [B]（无冠词 from…to… 循环/范围短语）",
+  "gloss": "名词不带冠词地夹在 from 与 to 之间，表示逐个遍历、空间范围或状态递进。",
+  "pattern_notes": "槽位 [A]/[B] 为光杆单数名词或形容词，不能加冠词或换 a/one：varies from culture to culture（因文化而异）、narrow from front to back（前后方向）。\n查表价值在于整存整取一类同构短语（from door to door / from place to place / from bad to worse），误读点正是冠词缺席：学习者易读成 from a culture to another 或在 the injured areas 之类的复数干扰后卡住。\n其中 go from bad to worse 是该框架的成语化极端（形容词槽位，表每况愈下）。",
+  "examples": [
+   {
+    "id": "S08049",
+    "src": "选择性必修第一册·Unit 4",
+    "s": "Just like spoken language, body language varies from culture to culture."
+   },
+   {
+    "id": "S00779",
+    "src": "选择性必修第三册·Unit 1",
+    "s": "Finally, the statue is quite narrow from front to back—by proportion much narrower than most people are in real life."
+   },
+   {
+    "id": "S02387",
+    "src": "选择性必修第三册·Unit 4",
+    "s": "Infer character traits and emotions May 1916 We have been struggling for days, but things on Elephant Island are going from bad to worse."
+   }
+  ]
+ },
+ {
+  "batch": 16,
+  "frame": "make sure (that) [小句]（变体：be sure to [V]）",
+  "gloss": "确保/务必：make sure 后接 that 小句（that 可省），be sure to 后接动词原形。",
+  "pattern_notes": "两种骨架分工固定：make sure [小句] 说\"确保某事成立\"；be sure to [V] 用于叮嘱\"务必去做\"，不可互换（make sure to 也存在但语感不同，教材中成对出现的是这两型）。\n误读点在 make sure 后的 that 省略：made sure that he was fine 可见 that，Make sure your home is equipped 则省略，学习者易把省略 that 的小句误当新主句。",
+  "examples": [
+   {
+    "id": "S07536",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "The doctors checked Zhang and made sure that he was fine."
+   },
+   {
+    "id": "S05551",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "• Make sure your home is equipped with fire extinguishers."
+   },
+   {
+    "id": "S05455",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Visitors have to bring in their own food and drink, and then be sure to carry out all their waste when they leave."
+   }
+  ]
+ },
+ {
+  "batch": 16,
+  "frame": "[V-ing 短语（含宾语/状语）] + 单数谓语（动名词作主语）",
+  "gloss": "把一个行为整体名词化充当主语，谓语动词用单数。",
+  "pattern_notes": "槽位是\"V-ing + 自己的宾语和状语\"的整个短语，之后直接接单数谓语（is/can be/helps 等）。\n误读点为花园路径：Applying oil to the injured areas is… 中复数名词 areas 紧邻单数动词 is，学习者容易在一致关系上读卡；产出时也常误写 *Apply oil… is a bad idea。\n本批三例分别接 can be / is / helps，覆盖情态、系词、实义动词三类谓语。",
+  "examples": [
+   {
+    "id": "S05236",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "Using this break wisely can be very beneficial."
+   },
+   {
+    "id": "S07276",
+    "src": "选择性必修第二册·Unit 5",
+    "s": "Applying oil to the injured areas is a bad idea, as it will keep the heat in the wounds and may cause infection."
+   },
+   {
+    "id": "S02750",
+    "src": "必修第一册·Unit 5",
+    "s": "Listening to English radio programmes helps me get used to how fast native speakers talk."
+   }
+  ]
+ },
+ {
+  "batch": 16,
+  "frame": "[动词/复杂介词] + 介词 + wh-词 + [小句]",
+  "gloss": "介词后面直接跟 how/what/which 等引导的宾语从句（陈述语序），不退化为名词。",
+  "pattern_notes": "骨架为 V + prep + wh-小句：learn about how…、decide on which…、according to how…，介词不因从句而删除。\n与已有框架\"介词+which/whom 从句\"（关系从句）同形不同质：decide on which two sailors Shackleton chose 中 which two sailors 是疑问限定词带内嵌疑问句（陈述语序），学习者极易与关系从句混淆而读错语序。\n误读点二在切分：learn about how the Red Cross was founded 易被切成 about 聚合到前文或把 how 后当成疑问倒装。",
+  "examples": [
+   {
+    "id": "S05362",
+    "src": "选择性必修第二册·Unit 4",
+    "s": "learn about how the Red Cross was founded and what it does."
+   },
+   {
+    "id": "S08068",
+    "src": "选择性必修第三册·Unit 4",
+    "s": "EXAMPLE A: We have to decide on which two sailors Shackleton chose for his rescue team."
+   },
+   {
+    "id": "S03586",
+    "src": "必修第一册·Unit 5",
+    "s": "Many Chinese characters symbolise their meanings, unlike English words which are spelt out according to how they sound."
+   }
+  ]
+ }
+]

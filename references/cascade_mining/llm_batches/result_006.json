@@ -1,0 +1,218 @@
+{
+ "frames": [
+  {
+   "frame": "In a [world/era] where/when [S V], [主句]",
+   "gloss": "在一个…的世界/时代里（为论断设定背景）",
+   "notes": "句首时代名词带定语从句，先铺背景再入正题",
+   "examples": [
+    {
+     "id": "cet6-2018-12_02-0986",
+     "text": "In a world where people are increasingly dependent on their phones, though, such strategies often fail."
+    },
+    {
+     "id": "cet6-2019-06_03-1188",
+     "text": "In an era when you can simply buy a CubeSat kit off the shelf, how can we trust the satellites over our heads were developed with good intentions by people who knew what they were doing?"
+    }
+   ]
+  },
+  {
+   "frame": "[陈述句], says [来源NP]",
+   "gloss": "上述论断出自某来源（无引号后置报道）",
+   "notes": "间接论断后置says，来源名词放动词后",
+   "related": "引语后置报道：'[直接引语]', says/explains [NP]",
+   "examples": [
+    {
+     "id": "cet6-2018-06_03-0934",
+     "text": "The problem is\"decision fatigue,\"a psychological phenomenon that takes a toll on the quality of your choices after a long day of decision making, says Evan Polman, a leading psychologist."
+    },
+    {
+     "id": "cet6-2018-12_03-1066",
+     "text": "Children with attention problems in early childhood were 40% less likely to graduate from high school, says a new study from Duke University."
+    }
+   ]
+  },
+  {
+   "frame": "[S] find oneself [V-ing/介词短语]",
+   "gloss": "发现自己不知不觉处于某状态",
+   "notes": "反身代词+分词，表意外陷入",
+   "examples": [
+    {
+     "id": "cet6-2018-06_03-0932",
+     "text": "If you've ever started a sentence with,\"If I were you...\"or found yourself scratching your head at a colleague's agony over a decision when the answer is crystal-clear, there's a scientific reason behind it."
+    },
+    {
+     "id": "cet6-2018-12_01-0952",
+     "text": "Parents who share their parenting experiences may find themselves intruding into their children’s privacy."
+    }
+   ]
+  },
+  {
+   "frame": "Instead of [V-ing], [S V]",
+   "gloss": "不做A，而（改）做B",
+   "notes": "句首instead of接动名词短语，后接全句替换",
+   "examples": [
+    {
+     "id": "cet6-2018-12_02-1001",
+     "text": "And instead of showing just the typical pair of eggs in a hummingbird nest, she painted four."
+    },
+    {
+     "id": "cet6-2018-12_03-1057",
+     "text": "Now, instead of swimming upstream, we relax, sleep, watch movies, or listen to music."
+    },
+    {
+     "id": "cet6-2018-12_03-1058",
+     "text": "And when we get off the plane, instead of being depleted, we feel recovered and ready to return to the performance zone."
+    }
+   ]
+  },
+  {
+   "frame": "[前项]—[NP] that [S V]",
+   "gloss": "破折号引出同位语并加that从句展开",
+   "notes": "解释或重述前项，that从句非新谓语",
+   "examples": [
+    {
+     "id": "cet6-2018-12_03-1081",
+     "text": "On Jan.9,2007, Steve Jobs formally announced Apple’s “revolutionary mobile phone” — a device that combined the functionality of an iPod, phone and Internet communication into a single unit, navigated by touch."
+    },
+    {
+     "id": "cet6-2019-06_03-1184",
+     "text": "The greatest concern the authors raise is space debris— pieces of“junk”that orbit the earth, with the potential to cause serious damage if they collide with operational units, including the ISS."
+    },
+    {
+     "id": "cet6-2019-06_03-1190",
+     "text": "It continued the efforts, begun in 1961, by Project OSCAR—a U.S.-based group that built and launched the very first nongovernmental satellite just four years after Sputnik."
+    }
+   ]
+  },
+  {
+   "frame": "[V] that [S V], and that [S V]",
+   "gloss": "并列that从句共享前面的动词",
+   "notes": "第二个that须保留，易漏读从句归属",
+   "examples": [
+    {
+     "id": "cet6-2018-12_02-1022",
+     "text": "The Bureau of Labor Statistics projects that while the number of nurses will increase by 19 percent by 2022, demand will grow faster than supply, and that there will be over one million unfilled nursing jobs by then."
+    },
+    {
+     "id": "cet6-2018-12_03-1069",
+     "text": "They found that early attention skills were the most consistent predictor of academic success, and that likability by peers also had a modest effect on academic performance."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "[S] no more [V] [A] than [do/does] [B]",
+   "gloss": "A并不比B更…（两者同样不…）",
+   "notes": "than后可倒装，双重否定比较",
+   "examples": [
+    {
+     "id": "cet6-2018-12_02-1003",
+     "text": "Merian's work than do well-known misconceptions published by Charles Darwin or Isaac Newton,” Dr."
+    }
+   ]
+  },
+  {
+   "frame": "[S V] when in reality [S V]",
+   "gloss": "…而实际上却…",
+   "notes": "when引出与预期相反的实情",
+   "examples": [
+    {
+     "id": "cet6-2018-12_01-0976",
+     "text": "The impact of a basic discovery on human health can be exaggerated so that the public thinks a miraculous cure is a few months to years away when in reality the significance of the study is far more limited."
+    }
+   ]
+  },
+  {
+   "frame": "Just because [S V], it doesn't mean [S V]",
+   "gloss": "仅仅因为A并不意味着B",
+   "notes": "because从句被当作主语否定",
+   "examples": [
+    {
+     "id": "cet6-2018-12_03-1041",
+     "text": "And lack of recovery—whether by disrupting sleep with thoughts of work or having continuous cognitive arousal by watching our phones—is costing our companies $62 billion a year in lost productivity. [E] And just because work stops, it doesn’t mean we are recovering."
+    }
+   ]
+  },
+  {
+   "frame": "It is [V-ed] that [S (should) V原形]",
+   "gloss": "建议类被动句接虚拟语气原形",
+   "notes": "advised类分词后谓语用原形",
+   "related": "It is V-ed that [S]",
+   "examples": [
+    {
+     "id": "cet6-2018-12_03-1063",
+     "text": "It is advised that technology be used to prevent people from overworking."
+    }
+   ]
+  },
+  {
+   "frame": "[Adj] enough that [S V]",
+   "gloss": "足够…以至于",
+   "notes": "enough后接结果从句",
+   "related": "so [Adj] that [S] / such [N] that [S]",
+   "examples": [
+    {
+     "id": "cet6-2018-06_03-0928",
+     "text": "Their approach is flexible enough that in principle other important quality-of- life changes could be incorporated—for example, decreases in total emissions of pollutants and declines in crime rates."
+    }
+   ]
+  },
+  {
+   "frame": "now that [S V], [主句]",
+   "gloss": "既然…（新情况已成立）",
+   "notes": "表时间性原因",
+   "examples": [
+    {
+     "id": "cet6-2018-12_01-0953",
+     "text": "Perhaps it is time for farmers to put their feet up now that robots are used to inspect crops, dig up weeds, and even have become shepherds, too."
+    }
+   ]
+  },
+  {
+   "frame": "the [最高级] of any [单数N]",
+   "gloss": "任何…之中最…",
+   "notes": "of any后接单数名词，易误",
+   "examples": [
+    {
+     "id": "cet6-2018-06_03-0924",
+     "text": "According to this measure, as of the early-to-mid-2000s, the U.S. had the highest economic welfare of any large country."
+    }
+   ]
+  },
+  {
+   "frame": "[V] to the point that [S V]",
+   "gloss": "…到某种程度以致",
+   "notes": "表程度临界引发结果",
+   "examples": [
+    {
+     "id": "cet6-2018-12_01-0975",
+     "text": "Unfortunately, pieces of science journalism can also oversimplify and generalize their subject material to the point that the basic information conveyed is obscured or at worst, obviously wrong."
+    }
+   ]
+  },
+  {
+   "frame": "[比较级] than could be [V-ed]",
+   "gloss": "比（可能被做到的）还…",
+   "notes": "than后无主语直接情态动词",
+   "examples": [
+    {
+     "id": "cet6-2019-06_03-1171",
+     "text": "These mini-satellites can fit in a launch vehicle's formerly“wasted space.”Multiples can be deployed in combination for more complex missions than could be achieved by one CubeSat alone."
+    }
+   ]
+  },
+  {
+   "frame": "The question (here) is no longer “[A?]” but “[B?]”",
+   "gloss": "问题不再是'能否'而是'该否'",
+   "notes": "引号极问句对举，重设议题",
+   "related": "not [A] but (rather) [B]（先否后纠）",
+   "examples": [
+    {
+     "id": "cet6-2019-06_03-1167",
+     "text": "The question here is no longer“Can we?”but“Should we?”What are the potential downsides of having a slice of space densely populated by equipment built by people not traditionally labeled as“professionals”?"
+    }
+   ]
+  }
+ ]
+}

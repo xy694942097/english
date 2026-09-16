@@ -1,0 +1,283 @@
+{
+ "frames": [
+  {
+   "frame": "[统计/陈述], compared with [对比数据/群体]（句尾后置对照）",
+   "gloss": "先给一组数字或断言，再后置 compared with 引出对照组数据，形成'甲 vs 乙'的统计对照",
+   "notes": "已登记的是句首版 'Compared to/with [A], [主句]'；本变体把 compared with 挂在句尾，学习者常把它误析为主句谓语的一部分（尤其前面 say/are 已出现限定动词时），需识别它是无动词的补充状语。本批出现 5 次（0498/0500/0503/0509/0343）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_03-0500",
+     "text": "71% of parents with a college degree say they do it every day, compared with 33% of those with a high school diploma or less."
+    },
+    {
+     "id": "cet6-2017-06_03-0503",
+     "text": "Discipline techniques vary by education level: 8% of those with a postgraduate degree say they often beat their children, compared with 22% of those with a high school degree or less."
+    },
+    {
+     "id": "cet6-2017-06_03-0509",
+     "text": "While bullying is parents' greatest concern over all, nearly half of low-income parents worry their child will get shot, compared with one-fifth of high-income parents."
+    }
+   ],
+   "related": "Compared to/with [A] / Unlike [A], [主句]（已登记句首版；此为句尾后置统计对照新变体）"
+  },
+  {
+   "frame": "Of [限定群体], [X%/those who] [V]（of 前置分母）",
+   "gloss": "句首 Of 短语先限定'分母'人群，逗号后主句给出该人群中的百分比或 those who 子集的行为",
+   "notes": "分母被前移到句首，主句主语只剩百分比或 those 指代；学习者易把 Of 短语误当作后面动词的宾语或漏掉它对百分比的限定范围。本批出现 4 次（0319/0495/0496/0505，其中 0505 百分比数字被 OCR 吞掉但仍可辨骨架）",
+   "examples": [
+    {
+     "id": "cet6-2016-12_03-0319",
+     "text": "Of the 300 employees participating in the study, those who experienced high levels of telepressure were more likely to agree with statements assessing burnout, like “I’ve no energy for going to work in the morning,” and to report feeling fatigued and unfocused."
+    },
+    {
+     "id": "cet6-2017-06_03-0495",
+     "text": "Of families earning more than $75,000 a year, 84% say their children have participated in organized sports over the past year, 64% have done volunteer work and 62% have taken lessons in music, dance or art."
+    },
+    {
+     "id": "cet6-2017-06_03-0496",
+     "text": "Of families earning less than $30,000, 59% of children have done sports, 37% have volunteered and 41% have taken arts classes."
+    }
+   ]
+  },
+  {
+   "frame": "[A] failure to [V], (插入语), [谓语 + 宾语]（名词化主语）",
+   "gloss": "failure to do 整体名词化作主语，谓语（indicates/exposes 等）在其后，中间可再插入 however 或长修饰",
+   "notes": "名词化 failure to + 动词原形占据主语位，真正谓语被推后；0388 中 however 插在主谓之间、且 to 的宾语被副词隔开（address comprehensively the problem），是典型读慢点：学习者易把 failure/expose 错配为主谓。本批 2 次（0322/0388）",
+   "examples": [
+    {
+     "id": "cet6-2016-12_03-0322",
+     "text": "And because a failure to accept these increased demands indicates a lack of commitment to one’s work, the employee complies. [K] To address skyrocketing employee stress levels, many companies have implemented workplace wellness programs, partnering with health care providers that have created programs to promote employee health and well- being."
+    },
+    {
+     "id": "cet6-2017-06_01-0388",
+     "text": "Failure to address compre hensively the problem of greenhouse gas emissions, however, exposes all generations, present and future, to incalcul able risks."
+    }
+   ]
+  },
+  {
+   "frame": "[A of X] … than/other than that of [B]（that 回指对照）",
+   "gloss": "that of B 回指前文同类名词，形成'A 的标准/款式'与'B 的'之间的对照",
+   "notes": "that 指代上位名词（standard/sportswear），再接 of 短语；other than that of pure beauty 中双重虚词叠加（other than + that of），回指链需要回跳到主语名词，是真实读慢点。本批 2 次（0445/0452）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_02-0445",
+     "text": "Designer sportswear was not modeled on that of Europe, as “modem art” would later be; it was genuinely invented and developed in America."
+    },
+    {
+     "id": "cet6-2017-06_02-0452",
+     "text": "Designer sportswear would have to be verified by a standard other than that of pure beauty; the emulation of a designer’s life in designer sportswear was a crude version of this relationship."
+    }
+   ],
+   "related": "[A组] than those who did(n't)（对照回指）——同一'替代词回指对照'家族，that of 回指物、those who 回指人"
+  },
+  {
+   "frame": "[S] find oneself / find yourself [V-ing/补语]（不自觉进入状态）",
+   "gloss": "find oneself + 状态补语：不知不觉发现自己处于某状态，而非主动'寻找'",
+   "notes": "反身代词 + 补语结构，学习者易按字面读成'发现自己'的主动搜寻义；实际语义是'（不知不觉）处于/变成'，后可接 V-ing（using）或形容词（distracted）。本批 2 次（0570/0573）",
+   "examples": [
+    {
+     "id": "cet6-2017-12_01-0570",
+     "text": "The technology, your boss, and your friends, all influence how often you find yourself using (or overusing )these gadgets."
+    },
+    {
+     "id": "cet6-2017-12_01-0573",
+     "text": "Like Schwartz and so many others, I often find myself distracted and off tack."
+    }
+   ]
+  },
+  {
+   "frame": "[X]—[插入语]—[续写]（双破折号插入打断）",
+   "gloss": "双破折号把插入语（同位语、if any、来源评注）塞进句子中间，被隔开的前后两段必须跨过插入语接续成句",
+   "notes": "标点对骨架：插入语可打在主谓之间（0407 sharers—…—get noticed）、并列名词与 and 之间（0514 households—…—and）或 wh-词与名词之间（0354 which—if any—battery technology）。读慢点在恢复被隔断的主谓/修饰线；本批 3 次（0354/0407/0514），另有尾随单破折号展开（见 candidates）",
+   "examples": [
+    {
+     "id": "cet6-2016-12_03-0354",
+     "text": "No one knows which---if any---battery technology will ultimately dominate, but one thing remains clear."
+    },
+    {
+     "id": "cet6-2017-06_01-0407",
+     "text": "The most successful sharers—those whose data are downloaded and cite d the most often---get noticed, and their work gets used."
+    },
+    {
+     "id": "cet6-2017-06_03-0514",
+     "text": "More than a quarter of children live in single-parent households—a historic high, according to Pew—and these children are three times as likely to live in poverty as those who live with married parents."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "[主句], including [A, B and C]（回指列举）",
+   "gloss": "including 引导的清单回指前文的复数名词或整个事件",
+   "stuck": "误读判据：including 本身较透明，卡在'是否值得报'——本批 4 次（0311/0320/0406/0549），难点只在回指对象是最近的复数名词还是整句内容",
+   "examples": [
+    {
+     "id": "cet6-2016-12_03-0320",
+     "text": "Telepressure was also correlated with sleeping poorly and missing work. [J] Harvard Business School professor Leslie Perlow explains that when people feel the pressure to be always “on,” they find ways to accommodate that pressure, including altering their schedules, work habits and interactions with family and friends."
+    },
+    {
+     "id": "cet6-2017-06_01-0406",
+     "text": "Researchers who share get plenty of personal benefits, including more connections with colleagues, i mproved visibility and increased citations."
+    }
+   ]
+  },
+  {
+   "frame": "[主句], in part because [S V]",
+   "gloss": "原因从句被 in part 限定为'部分原因'",
+   "stuck": "误读判据：because 基本款初中已会，in part 只是副词修饰；但'部分归因'的让步语气（还有其他原因没说）易被漏读。本批 2 次（0402/0494）",
+   "related": "not least because / not least of which（已登记，同族限定归因）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_01-0402",
+     "text": "But the barriers are disappearing, in part because journals and funding agencies worldwide are encouraging scie ntists to make their data public."
+    },
+    {
+     "id": "cet6-2017-06_03-0494",
+     "text": "No, I really doubt it.\" I) Social scientists say the differences arise in part because low-income parents have less money to spend on music class or preschool, and less flexible schedules to take children to museums or attend school events."
+    }
+   ]
+  },
+  {
+   "frame": "[NP]—[同位语解释]（尾随单破折号展开）",
+   "gloss": "句中名词后用单个破折号接同位语展开解释（our tendency to… / something to do…）",
+   "stuck": "误读判据：破折号本身已提示'解释'功能，比插入式更接近一眼读懂；本批 4 次（0542/0569/0571/0579）",
+   "examples": [
+    {
+     "id": "cet6-2017-12_01-0579",
+     "text": "Aristotle and Socrates debated the nature of “akrasia”--our tendency to do things against our interests."
+    },
+    {
+     "id": "cet6-2017-12_01-0569",
+     "text": "Our phones are like cigarettes-something to do when we’re anxious, bored or when our fingers need something to toy with Seeing others enjoy a smoke, or sneak a quick glance, is too tempting to resist and soon everyone is doing it."
+    }
+   ]
+  },
+  {
+   "frame": "[N] times as likely to [V] as [B]（倍数概率对照）",
+   "gloss": "三倍/几倍的可能性对比",
+   "stuck": "重复规则：仅 1 例（0514），骨架清晰但未达 ≥2",
+   "related": "be (more / less) likely to [V]（已登记）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_03-0514",
+     "text": "More than a quarter of children live in single-parent households—a historic high, according to Pew—and these children are three times as likely to live in poverty as those who live with married parents."
+    }
+   ]
+  },
+  {
+   "frame": "At a time when [S V], [主句]",
+   "gloss": "'在……的时代/当口'背景框，when 从句修饰 time",
+   "stuck": "重复规则：仅 1 例（0416）",
+   "related": "[时间NP] when [S V]（when 关系从句，已登记）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_01-0416",
+     "text": "At a time when young beauty shoppers are often turning to Sephora or Ulta instead of department store beauty co unters, Macy's hopes Bluemercury will help strengthen its position in the category."
+    }
+   ]
+  },
+  {
+   "frame": "Thus was born [NP], [同位语 which/that 展开]",
+   "gloss": "thus 引发的完全倒装叙事：'于是……应运而生'",
+   "stuck": "重复规则：仅 1 例（0541）；倒装误读风险高，值得在后续批次验证",
+   "examples": [
+    {
+     "id": "cet6-2017-06_03-0541",
+     "text": "Thus was born the idea of the Grand Tour, a practice which introduced Englishmen, Germans, Scandinavians, and also Americans to the art and culture of France and Italy for the next 300 years."
+    }
+   ]
+  },
+  {
+   "frame": "there’s still such a thing as [N]（肯定式变体）",
+   "gloss": "'……这种事仍然存在'——已登记否定式的肯定+still 变体",
+   "stuck": "重复规则：仅 1 例（0476）",
+   "related": "there’s no such thing as [N]（已登记）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_03-0476",
+     "text": "At any __35__, there's still such a thing as too much information."
+    }
+   ]
+  },
+  {
+   "frame": "You may have heard that [S V]",
+   "gloss": "情态+完成体的'你可能听说过'引入旧知",
+   "stuck": "重复规则：仅 1 例（0597）",
+   "related": "You hear that [S V]（立靶-引语版，已登记）",
+   "examples": [
+    {
+     "id": "cet6-2017-12_01-0597",
+     "text": "You may have heard that Coca-Cola once contained an ingredient capable of sparking particular devotion in consumers: cocaine."
+    }
+   ]
+  },
+  {
+   "frame": "[V] when, where and how [S V]（wh 词并列宾语）",
+   "gloss": "when/where/how 三连作 determine/know 类动词的宾语从句（陈述语序）",
+   "stuck": "重复规则：仅 1 例（0326）",
+   "examples": [
+    {
+     "id": "cet6-2016-12_03-0326",
+     "text": "The ROWE participants were allowed to freely determine when, where and how they worked---the only thing that mattered was that they got the job done."
+    }
+   ]
+  },
+  {
+   "frame": "[A] are more likely to [V]…, as are [B]（as 倒装回指）",
+   "gloss": "as + be 倒装把前句谓语整个套到另一主语上",
+   "stuck": "重复规则：仅 1 例（0501）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_03-0501",
+     "text": "White parents are more likely than others to read to their children daily, as are married parents."
+    }
+   ]
+  },
+  {
+   "frame": "Part of [X] is [A]; part of [X] is [B]（拆分归因）",
+   "gloss": "把一个现象拆成两部分分别归因",
+   "stuck": "重复规则：仅 1 例（0424）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_02-0424",
+     "text": "Part of it is communication; part of it is transportation.” [J] It’s no secret in the advanced-math community that diversity is a problem."
+    }
+   ]
+  },
+  {
+   "frame": "many [V-ed] to [A], some to [B], and a very few [N] to [C]（动词省略排比）",
+   "gloss": "动词只出现一次，后续分项承前省略，只留 to 短语",
+   "stuck": "重复规则：仅 1 例（0546）；省略点初读易困惑",
+   "related": "Some [A], (and) others [B]（已登记，但无动词省略）",
+   "examples": [
+    {
+     "id": "cet6-2017-06_03-0546",
+     "text": "London was a frequent starting point for Grand Tourists, and Paris a compulsory destination; many traveled to the Netherlands, some to Switzerland and Germany, and a very few adventurers to Spain, Greece, or Turkey."
+    }
+   ]
+  },
+  {
+   "frame": "The problem isn’t [A], but that [S V]（名词与 that 从句不对称并列）",
+   "gloss": "先否定一个名词性归因，再用 that 从句给出真正原因——表语位置上名词与从句混搭",
+   "stuck": "重复规则：仅 1 例（0316）",
+   "related": "not [A] but (rather) [B]（先否后纠，已登记；此为其 that 从句变体）",
+   "examples": [
+    {
+     "id": "cet6-2016-12_03-0316",
+     "text": "The problem isn’t the technology itself, but that the technology is being used to create more flexibility for the employer rather than the employee."
+    }
+   ]
+  },
+  {
+   "frame": "Even as [S V], [主句]",
+   "gloss": "'即便在……的同时'——让步性时间对照",
+   "stuck": "重复规则：仅 1 例（0517）；even as 与 while 的语感差异值得后续验证",
+   "examples": [
+    {
+     "id": "cet6-2017-06_03-0517",
+     "text": "In the past decade, even as income inequality has grown, some of the socioeconomic differences in parenting, like reading to children and going to libraries, have narrowed."
+    }
+   ]
+  }
+ ]
+}

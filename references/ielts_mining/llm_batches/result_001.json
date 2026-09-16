@@ -1,0 +1,81 @@
+{
+  "frames": [
+    {
+      "frame": "'[直接引语]', says/explains [NP]（倒装）；变体：'[引语]', [NP] says / ..., say the researchers, ...（中插）",
+      "gloss": "先给整段直接引语，再补一个报道小句点明说话人；报道动词可放在人名之前形成倒装。",
+      "pattern_notes": "新闻/访谈/学术引语体的高频预制件：引语 + 逗号 + [V] + [人名]（says Dr X / explains Dr Sara Baker / says Schimmelpennink）为倒装语序，学习者易把人名误读成 says 的宾语而找不到主语；正常语序为 '引语', he says；另有中插式把报道句嵌在被引句中间（..., say the researchers, ...），误读风险最高。本批倒装见 I02276/I02283/I02323，中插见 I02288，正常语序见 I02318（'The first Witte Fietsenplan was just a symbolic thing, he says.'）。",
+      "examples": [
+        {"id": "I02276", "src": "剑14", "s": "\"Play in all its rich variety is one of the highest achievements of the human species/ says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK. 4 It underpins how we develop as intellectual, problem-solving adults and is crucial to our success as a highly adaptable species?"},
+        {"id": "I02283", "src": "剑14", "s": "soon as you ask a five-year-old \"to play'： then you as the researcher have intervened,9 explains Dr Sara Baker."},
+        {"id": "I02288", "src": "剑14", "s": "If playful experiences do facilitate this aspect of development, say the researchers, it could be extremely significant for educational practices, because the ability to self-regulate has been shown to be a key predictor of academic performance."},
+        {"id": "I02323", "src": "剑14", "s": "They saw a glorious future for the car/ says Schimmelpennink."}
+      ]
+    },
+    {
+      "frame": "[主句], pointing out that [S V]（清单'主句, V-ing[A]'的新变体：言语动词分词作评注性状语）",
+      "gloss": "陈述完一个事实后，用分词短语 pointing out that 补充'指出'的内容，避免再起一句。",
+      "pattern_notes": "新变体，注明：清单已有'主句, V-ing[A]'，此处特指由言语动词充当的分词状语（pointing out that...），其 that 从句内还可再嵌让步从句等长结构，学习者常误判分词的逻辑主语（=主句主语）和 that 从句的边界。另有限定动词版本 '[S] points out that...'。整存整取优势明显：见到 ', pointing out that' 可预判后续为完整观点从句。",
+      "examples": [
+        {"id": "I02278", "src": "剑14", "s": "But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities."},
+        {"id": "I02285", "src": "剑14", "s": "Dr Jenny Gibson agrees, pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life."},
+        {"id": "I02373", "src": "剑14", "s": "Lucas also points out that 'the substance of HRM practices does not appear to be designed to foster constructive relations with employees or to represent a managerial approach that enables developing and drawing out the full potential of people, even though employees may be broadly satisfied with many aspects of their work5 (Lucas, 2002)."}
+      ]
+    },
+    {
+      "frame": "This [suggests/implies/requires] (that) [S V]",
+      "gloss": "句首 This 回指前面整句话（而非最近名词），后接评述动词引出推论或要求。",
+      "pattern_notes": "学术论述的段落衔接预制件：This 的先行语是整个前句命题，学习者常误找最近的名词作指代对象；动词槽为 suggest/imply/require/show 等，可带 that 或省略 that，也可接 wh-从句（understanding of what motivates...）。与清单'指示回指This/That is why'和'认知/言语动词+that从句'相关，但'回指整句的 This 作主语+评述动词'这一组合不在清单内。本批同段落连用三次，是段落推进的典型手段。",
+      "examples": [
+        {"id": "I02386", "src": "剑14", "s": "This suggests that there has been a dichotomy between the guest environment provided in luxury hotels and the working conditions of their employees・ It is therefore essential for hotel management to develop HRM practices that enable them to inspire and retain competent employees."},
+        {"id": "I02387", "src": "剑14", "s": "This requires an understanding of what motivates employees at different levels of management and different stages of their careers (Enz and Siguaw, 2000)."},
+        {"id": "I02388", "src": "剑14", "s": "This implies that it is beneficial for hotel managers to understand what practices are most favorable to increase employee satisfaction and retention."}
+      ]
+    },
+    {
+      "frame": "[时间NP], when [S V]（时间名词后的非限定 when 从句）",
+      "gloss": "说完一个年份/时段，用逗号加 when 从句补叙那时发生了什么。",
+      "pattern_notes": "when 在此不引导状语从句，而是附着在前面的时间名词上的非限定（关系性）从句，相当于 'and at that time...'；学习者易把 when 误当主句的时间状语，从而切错主句边界（尤其 I02294 中 when 从句内又嵌 ', as he describes,' 插入语）。可无逗号紧贴（I02494）。清单未收录（最近的是'非限定性关系从句[A], who/which[B]'，when 不在其列）。传记、史述文体极高频。",
+      "examples": [
+        {"id": "I02294", "src": "剑14", "s": "With the Lego building, however, not a single child said this through the whole year of the project.9 Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s? when, as he describes, 'the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate or controversy?"},
+        {"id": "I02494", "src": "剑14", "s": "He met with greater success in 1877 and 1878 in New York when he won first prizes in the exhibition held by E and H T Anthony and Company for landscapes using the Lambertype process."},
+        {"id": "I02504", "src": "剑14", "s": "He continued in this post until 1897, when he retired completely from photography."}
+      ]
+    },
+    {
+      "frame": "[NP], where [S V]（非限定 where 从句；清单'非限定性关系从句[A], who/which[B]'的 where 新变体）",
+      "gloss": "陈述涉及某地点/领域/市场后，用 where 从句补叙那里的情况。",
+      "pattern_notes": "新变体，注明：where 在此处并非严格地点——可接在 market（市场/行业）这类领域名词后（I02384），学习者易因先行语不是地理名词而识别不出这是关系从句；I02384 中 where 从句主谓之间还插有 requiring... 分词短语，进一步增加切分难度。",
+      "examples": [
+        {"id": "I02384", "src": "剑14", "s": "Such conditions are particularly troubling for the luxury hotel market, where high-quality service, requiring a sophisticated approach to HRM, is recognized as a critical source of competitive advantage (Maroudas et al., 2008)・ In a real sense, the services of hotel employees represent their industry (Schneider and Bowen, 1993)."},
+        {"id": "I02501", "src": "剑14", "s": "In 1876 he photographed bridges on the Quebec, Montreal, Ottawa and Occidental Railway between Montreal and Ottawa・ In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he took photographs of the mountains and the progress of construction."}
+      ]
+    },
+    {
+      "frame": "It [seems likely / was V-ed] that [S V]（形式主语 it 外置 that 从句；清单'It be[adj] to[V]外置'的 that 从句变体）",
+      "gloss": "用 it 占主语位，把真正的 that 从句（'似乎/据发现……'）甩到句末。",
+      "pattern_notes": "新变体，注明：清单只收了 to 不定式外置（It be[adj] to[V]），that 从句外置未收。that 从句内常含并列长句（I02397 中 that 后接两个并列分句），且 that 紧邻名词时学习者易误读为指示词（I02397 下文即出现 'the framing of that fun'）。本批 It was found that（被动报道）与 it seems likely that（认识情态）两种槽值各现一次，另 front matter 有 It is suggested that（非自然语篇不计例）。",
+      "examples": [
+        {"id": "I02380", "src": "剑14", "s": "These conditions are inherently linked to the working environment・ While it seems likely that employees' reactions to their job characteristics could be affected by a predisposition to view their work environment negatively, no evidence exists to support this hypothesis (Spector et al., 2000)."},
+        {"id": "I02397", "src": "剑14", "s": "It was found that fun activities had a favorable impact on performance and manager support for fun had a favorable impact in reducing turnover."}
+      ]
+    }
+  ],
+  "candidates": [
+    {"s": "Among the many cited reasons are low compensation, inadequate benefits, poor working conditions and compromised employee morale and attitudes (Maroudas et al., 2008).", "id": "I02375", "note": "'Among [复数NP] are [列举]' 部分倒装，骨架和误读判据都过硬（真正主语是后面的列举，学习者易把 reasons 当主语），但本批仅此 1 例，不满足至少 2 例的重复判据。"},
+    {"s": "Employees also have intrinsic motivation needs or motivators, which include such factors as achievement and recognition.", "id": "I02392", "note": "'such [类属N] as [列举]'，另有 I02489 'such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream' 共 2 例；误读判据拿不准——such as 本身学习者熟悉，仅类属名词隔在 such 与 as 之间时略读慢。"},
+    {"s": "His numerous photographs of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream.", "id": "I02489", "note": "同上（such [N] as 列举的第二例）；另注意句首 'photographs ... revealed in ... are alive with' 主谓被过去分词后置修饰隔开，属清单'主谓间插入语'的变体形态。"},
+    {"s": "Significantly, though, just fulfilling these needs does not result in satisfaction, but only in the reduction of dissatisfaction (Maroudas et al.? 2008).", "id": "I02391", "note": "'not [in A] but only [in B]' 转折省略并列 + 'Significantly, though,' 评注性副词；单例，且与清单 'not so much[A] as[B]' 家族相邻，报为候选。"},
+    {"s": "But he was not in the least discouraged.", "id": "I02324", "note": "'not in the least [A]' 强调否定（与清单 nothing if not 家族同域）；仅 1 例。"},
+    {"s": "With the Lego building, however, not a single child said this through the whole year of the project.9 Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s? when, as he describes, 'the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate or controversy?", "id": "I02294", "note": "句首 'not a single [N]' 强调否定，单例记观察。"},
+    {"s": "kilometre - would cost the municipality only 10% of what it contributed to public transport per person per kilometre.5 Nevertheless, the council unanimously rejected the plan.4They said that the bicycle belongs to the past.", "id": "I02322", "note": "'[N%] of what [S V]'——what 作融合关系代词充当 of 的宾语（相当于 the amount that it contributed）；单例。"},
+    {"s": "There was sufficient demand for these types of scenes and others he took depicting the lumber trade, steamboats and waterfalls to enable him to make a living.", "id": "I02490", "note": "'There be [N]...to [V]' 长距离目的不定式：to enable him to... 隔着两个后置修饰层回指 demand，误读率高但仅 1 例。"},
+    {"s": "By contrast, the service sector, and more specifically hotels, has traditionally not extended these practices to address basic employee needs, such as good working conditions.", "id": "I02369", "note": "'[A], and more specifically [B],' 收窄式同位插入（主谓间）；单例，与清单'同位语插入'相邻但是不同功能（收窄而非等同）。"},
+    {"s": "Alexander Henderson (1831-1913) Born in Scotland, Henderson emigrated to Canada in 1855 and became a well-known landscape photographer Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.", "id": "I02471", "note": "前置过去分词短语 'Born in [X], [S] V-ed'（无施动者型分词状语）；本批仅 1 例，未入清单。"},
+    {"s": "People wanted to buy photographs as souvenirs of a trip or as gifts, and catering to this market, Henderson had stock photographs on display at his studio for mounting, framing, or inclusion in albums.", "id": "I02492", "note": "前置 V-ing 原因状语带回指宾语 'catering to this market, [S] V'；清单只收后置'主句, V-ing[A]'，前置式为潜在新变体但单例。"},
+    {"s": "That same year, while in the lower St Lawrence River region, he took some photographs of the construction of the Intercolonial Railway.", "id": "I02499", "note": "'while + 介词短语'（while 后无主谓的省略式），学习者易等一个完整从句而读慢；单例。"},
+    {"s": "1 really have no idea what people did with them, because they could instantly be recognised as white bikes.5 But the biggest blow came when Postbank decided to abolish the chip card, because it wasn't profitable.", "id": "I02334", "note": "'The [最高级N] came when [S V]' 叙事转折预制件；单例。"},
+    {"s": "Unlike extrinsic factors, motivator factors may ideally result in job satisfaction (Maroudas et at, 2008).", "id": "I02393", "note": "'Unlike [A], [B]'——清单 'Like[A],[B]' 的否定变体；单例故记候选。"},
+    {"s": "Even after he went to school at Murcheston Academy on the outskirts of Edinburgh, Henderson returned to Press at weekends.", "id": "I02475", "note": "'Even after [S V], 主句'——even 强化时间从句，清单 'even if/even though' 的 after 变体；单例。"},
+    {"s": "soon as you ask a five-year-old \"to play'： then you as the researcher have intervened,9 explains Dr Sara Baker.", "id": "I02283", "note": "引语内 'as soon as [A], then [B]'——then 复指回接，学习者易把 then 后当新句；另 I02316（OCR 断裂）有 'almost as soon as [A], [S] removed them' 同族；合计仅 2 例且一句残损，记候选。"}
+  ]
+}

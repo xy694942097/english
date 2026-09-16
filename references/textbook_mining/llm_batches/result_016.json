@@ -1,0 +1,122 @@
+{
+  "frames": [
+    {
+      "frame": "from [A] to [B]（无冠词 from…to… 循环/范围短语）",
+      "gloss": "名词不带冠词地夹在 from 与 to 之间，表示逐个遍历、空间范围或状态递进。",
+      "pattern_notes": "槽位 [A]/[B] 为光杆单数名词或形容词，不能加冠词或换 a/one：varies from culture to culture（因文化而异）、narrow from front to back（前后方向）。\n查表价值在于整存整取一类同构短语（from door to door / from place to place / from bad to worse），误读点正是冠词缺席：学习者易读成 from a culture to another 或在 the injured areas 之类的复数干扰后卡住。\n其中 go from bad to worse 是该框架的成语化极端（形容词槽位，表每况愈下）。",
+      "examples": [
+        {"id": "S08049", "src": "选择性必修第一册·Unit 4", "s": "Just like spoken language, body language varies from culture to culture."},
+        {"id": "S00779", "src": "选择性必修第三册·Unit 1", "s": "Finally, the statue is quite narrow from front to back—by proportion much narrower than most people are in real life."},
+        {"id": "S02387", "src": "选择性必修第三册·Unit 4", "s": "Infer character traits and emotions May 1916 We have been struggling for days, but things on Elephant Island are going from bad to worse."}
+      ]
+    },
+    {
+      "frame": "make sure (that) [小句]（变体：be sure to [V]）",
+      "gloss": "确保/务必：make sure 后接 that 小句（that 可省），be sure to 后接动词原形。",
+      "pattern_notes": "两种骨架分工固定：make sure [小句] 说\"确保某事成立\"；be sure to [V] 用于叮嘱\"务必去做\"，不可互换（make sure to 也存在但语感不同，教材中成对出现的是这两型）。\n误读点在 make sure 后的 that 省略：made sure that he was fine 可见 that，Make sure your home is equipped 则省略，学习者易把省略 that 的小句误当新主句。",
+      "examples": [
+        {"id": "S07536", "src": "选择性必修第二册·Unit 5", "s": "The doctors checked Zhang and made sure that he was fine."},
+        {"id": "S05551", "src": "选择性必修第二册·Unit 5", "s": "• Make sure your home is equipped with fire extinguishers."},
+        {"id": "S05455", "src": "选择性必修第一册·Unit 5", "s": "Visitors have to bring in their own food and drink, and then be sure to carry out all their waste when they leave."}
+      ]
+    },
+    {
+      "frame": "[V-ing 短语（含宾语/状语）] + 单数谓语（动名词作主语）",
+      "gloss": "把一个行为整体名词化充当主语，谓语动词用单数。",
+      "pattern_notes": "槽位是\"V-ing + 自己的宾语和状语\"的整个短语，之后直接接单数谓语（is/can be/helps 等）。\n误读点为花园路径：Applying oil to the injured areas is… 中复数名词 areas 紧邻单数动词 is，学习者容易在一致关系上读卡；产出时也常误写 *Apply oil… is a bad idea。\n本批三例分别接 can be / is / helps，覆盖情态、系词、实义动词三类谓语。",
+      "examples": [
+        {"id": "S05236", "src": "选择性必修第四册·Unit 5", "s": "Using this break wisely can be very beneficial."},
+        {"id": "S07276", "src": "选择性必修第二册·Unit 5", "s": "Applying oil to the injured areas is a bad idea, as it will keep the heat in the wounds and may cause infection."},
+        {"id": "S02750", "src": "必修第一册·Unit 5", "s": "Listening to English radio programmes helps me get used to how fast native speakers talk."}
+      ]
+    },
+    {
+      "frame": "[动词/复杂介词] + 介词 + wh-词 + [小句]",
+      "gloss": "介词后面直接跟 how/what/which 等引导的宾语从句（陈述语序），不退化为名词。",
+      "pattern_notes": "骨架为 V + prep + wh-小句：learn about how…、decide on which…、according to how…，介词不因从句而删除。\n与已有框架\"介词+which/whom 从句\"（关系从句）同形不同质：decide on which two sailors Shackleton chose 中 which two sailors 是疑问限定词带内嵌疑问句（陈述语序），学习者极易与关系从句混淆而读错语序。\n误读点二在切分：learn about how the Red Cross was founded 易被切成 about 聚合到前文或把 how 后当成疑问倒装。",
+      "examples": [
+        {"id": "S05362", "src": "选择性必修第二册·Unit 4", "s": "learn about how the Red Cross was founded and what it does."},
+        {"id": "S08068", "src": "选择性必修第三册·Unit 4", "s": "EXAMPLE A: We have to decide on which two sailors Shackleton chose for his rescue team."},
+        {"id": "S03586", "src": "必修第一册·Unit 5", "s": "Many Chinese characters symbolise their meanings, unlike English words which are spelt out according to how they sound."}
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "note": "What other [NP] do you [V]…?：本批 3 例（S08038、S01744、S02981）重复达标，但均为教材读前/读后讨论题，语域判据存疑（疑为提问模板）；且学习者基本一眼读懂，误读判据弱，故不入 frames。",
+      "example": {"id": "S08038", "src": "必修第二册·Unit 1", "s": "What other kinds of ICH do you know about?"}
+    },
+    {
+      "note": "How often do you [V]…?：2 例（J03183、J03383）重复达标，但出自教材健康调查操练，语域判据存疑；wh-疑问句构成本身属基础语法，无查表优势。",
+      "example": {"id": "J03183", "src": "初中·英语八年级上册", "s": "How oft en do you go to the movies?"}
+    },
+    {
+      "note": "疑问/不定代词 + else（Who else…、Everyone else…）：2 例（S03762、J03040）重复达标，但 else 位置属早期教学内容，误读判据弱，拿不准。",
+      "example": {"id": "J03040", "src": "初中·英语九年级全册", "s": "Everyone else was in a T-shirt and jeans."}
+    },
+    {
+      "note": "be of + 形容词 + 抽象名词（= be + 形容词）：误读与查表判据均成立，但本批仅 1 例，重复不足。",
+      "example": {"id": "S08048", "src": "必修第一册·Unit 5", "s": "That writing system was of great importance in uniting the Chinese people and culture."}
+    },
+    {
+      "note": "no more than + 数量（仅仅/至多，强调少）：判据均成立，仅 1 例。",
+      "example": {"id": "S03756", "src": "选择性必修第三册·Unit 1", "s": "Qingming Shang He Tu is no more than 24 cm wide and 520 cm long."}
+    },
+    {
+      "note": "the + 最高级 + (that) there is（现存的极致评价结构，there is 作定语）：解析难度高（学习者会把 there is 当主句），仅 1 例。",
+      "example": {"id": "S05368", "src": "选择性必修第三册·Unit 4", "s": "” Bless Frank Wild, the kindest man there is after our leader, Ernest Shackleton."}
+    },
+    {
+      "note": "[NP], if [V-ed/adj], [主句]：条件状语从句省略主语与 be（if left unchecked = if they are left unchecked），学习者常误问\"谁 left\"；仅 1 例。",
+      "example": {"id": "S08398", "src": "选择性必修第三册·Unit 2", "s": "These bad habits, if left unchecked, could lead to more serious ones when they become adults."}
+    },
+    {
+      "note": "feel like + 小句（觉得好像，非\"想要\"义）：误读判据成立（与 would like 义混淆），仅 1 例。",
+      "example": {"id": "S06109", "src": "选择性必修第四册·Unit 5", "s": "I felt like I was on some distant planet, and was both amazed and rather scared."}
+    },
+    {
+      "note": "but what about [NP]?（反问转移话题框架）：口语自然，仅 1 例。",
+      "example": {"id": "J04151", "src": "初中·英语八年级上册", "s": "Jack: Yes, but what about the long waiting time to get movie tickets?"}
+    },
+    {
+      "note": "[礼貌道歉语], but [问句]（I beg your pardon, but… / Excuse me, but…）：真实口语套语框架，但本批仅此 1 个 id（功能性语言框内同 id 含 3 个套语），不同句重复不足，且疑属教材功能句型框，语域判据拿不准。",
+      "example": {"id": "S05923", "src": "必修第二册·Unit 1", "s": "• The part of Moscow • Place for parades, concerts, and even The Forbidden City I beg your pardon, but … Forgive me for asking, but … Excuse me, but what is …?"}
+    },
+    {
+      "note": "句尾 , as [小句]（表原因，非\"当…时\"非\"像\"）：as 三义辨析是真实误读点，本批仅 1 例明确表原因。",
+      "example": {"id": "S07276", "src": "选择性必修第二册·Unit 5", "s": "Applying oil to the injured areas is a bad idea, as it will keep the heat in the wounds and may cause infection."}
+    },
+    {
+      "note": "unlike [A], [B] / [A] …, unlike [B]（对比框架）：判据基本成立，仅 1 例。",
+      "example": {"id": "S03586", "src": "必修第一册·Unit 5", "s": "Many Chinese characters symbolise their meanings, unlike English words which are spelt out according to how they sound."}
+    },
+    {
+      "note": "To [V]…, [主句]（句首目的不定式）：仅 1 例，且目的不定式接近语法范畴，拿不准骨架判据。",
+      "example": {"id": "S04024", "src": "选择性必修第四册·Unit 3", "s": "Text 2 To truly understand our planet, we must explore the oceans which cover most of it."}
+    },
+    {
+      "note": "those who [小句]（凡…之人）：本批仅 1 例（all those who died）。",
+      "example": {"id": "S06094", "src": "选择性必修第二册·Unit 1", "s": "Snow began by marking on a map the exact places where all those who died had lived."}
+    },
+    {
+      "note": "You can never imagine how [小句]（修辞性强调开场）：误读风险低（表层直读即懂），仅 1 例。",
+      "example": {"id": "J01738", "src": "初中·英语九年级全册", "s": "Y ou can never imagine how difficult the road to success is."}
+    },
+    {
+      "note": "[A], while [B]（对比连词 while）：真实框架但本批仅 1 例。",
+      "example": {"id": "S07299", "src": "选择性必修第一册·Unit 4", "s": "Most students favour the plan, while their teachers are not in favour of it."}
+    },
+    {
+      "note": "Why [小句] is that [B]（假拟分裂的 why-主语变体，已有框架只登记了 What-型）：仅 1 例且原句本身可疑，暂记变体线索。",
+      "example": {"id": "S02295", "src": "选择性必修第一册·Unit 5", "s": "Why different crops are grown is that they put important minerals back into the ground, making it ready for the next batch of crops."}
+    },
+    {
+      "note": "help + [O] + (to) [V]（helps me get used to… 等）：本批 5+ 例重复充足，但属使役/带动词范畴，按判据 1（纯语法范畴不报）排除，仅记录备查。",
+      "example": {"id": "S06363", "src": "选择性必修第二册·Unit 5", "s": "This knowledge, people argue, helps customers make the best choices for themselves and their families."}
+    },
+    {
+      "note": "make it + adj + for [sb] + to [V]（形式宾语外置）：本批 1 例，且属不定式外置，判据 1 明确排除，仅记录备查。",
+      "example": {"id": "S07239", "src": "必修第一册·Unit 4", "s": "The damage caused by the tsunami is making it difficult for rescue workers to help the survivors."}
+    }
+  ]
+}

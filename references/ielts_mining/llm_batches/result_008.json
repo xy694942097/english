@@ -1,0 +1,365 @@
+{
+  "frames": [
+    {
+      "frame": "the question of whether [S V] / whether to [V]",
+      "gloss": "关于是否……的问题",
+      "pattern_notes": "名词 question 后固定接 of + whether 从句（或 whether to do），不可换成 that；整体可作主语（The question of whether ... has haunted ...）或作动词宾语（debate the question of whether to ...）。学习者易误加 about、或把长 whether 从句误当主句谓语而读丢主干。",
+      "examples": [
+        {
+          "id": "I00861",
+          "src": "剑9",
+          "s": "The Search for Extra-terrestrial Intelligence The question of whether we are alone in the Universe has haunted humanity for centuries, but we may now stand poised on the brick of the answer to that question, as the search for radio signals from other intelligent civilizations."
+        },
+        {
+          "id": "I00897",
+          "src": "剑9",
+          "s": "While the human race debates the question of whether to reply, and perhaps carefully drafts a reply."
+        }
+      ]
+    },
+    {
+      "frame": "Quite apart from [NP/V-ing/whether 从句], [主句]",
+      "gloss": "且不说……、更何况……（撇开……不谈）",
+      "pattern_notes": "固定语块 quite apart from 引导排除性补充，可置于句首或句中，后接 NP、V-ing 或 whether 从句；在 apart from '除……外'之上叠加 quite 的递进语气（'更遑论'）。学习者易读慢、漏掉 quite 的递进义或误当作地点状语。",
+      "examples": [
+        {
+          "id": "I00876",
+          "src": "剑9",
+          "s": "Second, we make a very conservative assumption that we are looking for a life form that is pretty well like us, since if it differs radically from us we may well not recognize it as a life form, quite apart from whether we are able to communicate with it."
+        },
+        {
+          "id": "I00893",
+          "src": "剑9",
+          "s": "Quite apart from the impracticality of sending a reply over such large distances at short notice, it raises a host of ethical questions that would have to be addressed by the global community before any reply could be sent."
+        }
+      ]
+    },
+    {
+      "frame": "[S] may well [V] / may well not [V]",
+      "gloss": "很可能……、完全有可能……（may well not：很可能不……）",
+      "pattern_notes": "情态词 may 后固定加副词 well 作程度强化，整体等于高概率语气（≈ very probably），well 并非'好'义，不可拆读；否定式 may well not 也整存整取。学习者常把 well 拆开当普通副词误读。",
+      "examples": [
+        {
+          "id": "I00876",
+          "src": "剑9",
+          "s": "Second, we make a very conservative assumption that we are looking for a life form that is pretty well like us, since if it differs radically from us we may well not recognize it as a life form, quite apart from whether we are able to communicate with it."
+        },
+        {
+          "id": "I00877",
+          "src": "剑9",
+          "s": "In other words, the life form we are looking for may well have two green heads and seven fingers, but it will nevertheless resemble us in that it should communicate with its fellows, be interested in the Universe, live on a planet orbiting a star like our Sun, and perhaps most restrictively, have a chemistry, like us, based on carbon and water."
+        }
+      ]
+    },
+    {
+      "frame": "the/these [最高级] of (all) [复数N]",
+      "gloss": "所有……之中最……的（最高级后名词省略，of 引出整体范围）",
+      "pattern_notes": "新变体（相对已收录'be one of the最高级复数'）。最高级形容词后直接接 of 所有格短语、被修饰名词省略：this most basic of all the questions = the most basic question of all the questions；the driest of deserts 同理。学习者易在最高级后乱找名词、或把 of 短语误当修饰语逐词硬译。",
+      "examples": [
+        {
+          "id": "I00866",
+          "src": "剑9",
+          "s": "The simple detection of a radio signal will be sufficient to answer this most basic of all the questions."
+        },
+        {
+          "id": "I00942",
+          "src": "剑9",
+          "s": "And finally they returned yet again to the land as tortoises, some of which now live in the driest of deserts."
+        },
+        {
+          "id": "I01064",
+          "src": "剑9",
+          "s": "Halley was aware that the AU was one of the most fundamental of all astronomical measurements."
+        }
+      ]
+    },
+    {
+      "frame": "[make/find] it [adj] to [V]",
+      "gloss": "使/觉得做……很困难（不可能）",
+      "pattern_notes": "动词后接形式宾语 it + 形容词宾补 + 后移的不定式真宾语：makes it difficult to establish timings；find it difficult to screen out ...。可与句子型 which 连用（..., which makes it difficult to ...）。学习者易把 it 误当指代前文某名词。",
+      "examples": [
+        {
+          "id": "I01025",
+          "src": "剑9",
+          "s": "Children experiencing these disorders find it difficult to screen out unimportant information, and focus on everything in the environment rather than attending to a singe activity."
+        },
+        {
+          "id": "I01081",
+          "src": "剑9",
+          "s": "When Venus begins to cross the Sun’s disc, it looks smeared not circular—which makes it difficult to establish timings."
+        },
+        {
+          "id": "I01083",
+          "src": "剑9",
+          "s": "While this showed astronomers that Venus was surrounded by thick layer of gases refracting sunlight around it, both effects made it impossible to obtain accurate timings."
+        }
+      ]
+    },
+    {
+      "frame": "The problem (with/of [NP]) is that [S V]",
+      "gloss": "问题（在于……方面）是……",
+      "pattern_notes": "problem 作主语 + that 表语从句点明问题内容，with 短语给问题定位（The problem with novelty ... is that ...）；序数变体 the second problem is that ...。that 从句用陈述语序。学习者易把 that 从句误当定语从句读丢表语关系。",
+      "examples": [
+        {
+          "id": "I01082",
+          "src": "剑9",
+          "s": "The second problem is that Venus exhibits a halo of light when it is seen just outside the Sun’s disc."
+        },
+        {
+          "id": "I01135",
+          "src": "剑9",
+          "s": "The problem with novelty, however, is that it tends to trigger the brain’s fear system."
+        }
+      ]
+    },
+    {
+      "frame": "The/One/Best way to [V] is [by [V-ing] / to [V]]",
+      "gloss": "做 X 的办法是 Y",
+      "pattern_notes": "way 后接 to do 定语，主系表模板，表语槽位由 by + V-ing 或 to do 充当（One way to tell is by measuring ... / The best way to see things differently ... is to bombard ...）。学术说明文体高频半固定件。学习者易在 is 后错配时态或漏掉 by。",
+      "examples": [
+        {
+          "id": "I00925",
+          "src": "剑9",
+          "s": "One way to tell is by measuring the bones of their forelimbs."
+        },
+        {
+          "id": "I01131",
+          "src": "剑9",
+          "s": "The best way to see things differently to other people is to bombard the brain with things it has never encouraged before."
+        }
+      ]
+    },
+    {
+      "frame": "[V] [A] as much as [B] / not [V] as much as [B]",
+      "gloss": "A 与 B 同等程度（否定式：不像 B 那么程度深）",
+      "pattern_notes": "as much as 直接比较两个非数量名词性成分，谓语动词同时支配 A、B 两个宾语（involve A as much as B）；否定式 not ... as much as ... 表'不及'。学习者易把 as much as 只当不可数数量比较，读不懂接 NP 时的等同义。",
+      "examples": [
+        {
+          "id": "I01008",
+          "src": "剑9",
+          "s": "Education researchers Nelson and Soli have also suggested that recent trends in learning often involve collaborative interaction of multiple minds and tools as much as individual possession of information."
+        },
+        {
+          "id": "I01123",
+          "src": "剑9",
+          "s": "Their brains do not fail into efficiency pitfalls as much as the average person’s brain."
+        }
+      ]
+    },
+    {
+      "frame": "[S] be characterized by [NP]",
+      "gloss": "……的特征是……（以……为特征）",
+      "pattern_notes": "学术定义惯用式：be + characterized + by 引出特征（常为长并列枚举），与已收录 be known/regarded as 同族的名词化定义框架。学习者易按被动字面译'被特征化'而读不顺长枚举。",
+      "examples": [
+        {
+          "id": "I01017",
+          "src": "剑9",
+          "s": "This disorder is characterized by interlinking problems with social imagination, social communication and social interaction."
+        },
+        {
+          "id": "I01024",
+          "src": "剑9",
+          "s": "The attention deficit disorders are indicative of neurological and genetic disorders and are characterized by difficulties with sustaining attention, effort and persistence, organization skills and disinhibition."
+        }
+      ]
+    },
+    {
+      "frame": "when/while [V-ed (with/by NP)], [主句]",
+      "gloss": "当被……时/当与……相对照时，……",
+      "pattern_notes": "新变体（相对已收录 when/while V-ing）：从句省略'主语 + be'，用过去分词表被动（when confronted with... / when set against...），主句主语即分词的逻辑主语。学习者易把 confronted/set 误读成过去式谓语而断错句界。",
+      "examples": [
+        {
+          "id": "I01027",
+          "src": "剑9",
+          "s": "Children experiencing an auditory function deficit can often find speech and communication very difficult to isolate and process when set against high levels of background noise."
+        },
+        {
+          "id": "I01117",
+          "src": "剑9",
+          "s": "For example, when confronted with information streaming from the eyes, the brain will interpret this information in the quickest way possible."
+        }
+      ]
+    },
+    {
+      "frame": "[N] difficulty/difficulties in/with [V-ing/N]",
+      "gloss": "在……方面的困难",
+      "pattern_notes": "新变体（相对已收录 have trouble V-ing）：difficulty 作名词，后接 in/with 引出困难所在（介词后接动名词或名词），常被 exacerbate/experience 等动词支配，也可作 find ... difficult 的先行语。学习者易漏介词或在 in 后接动词原形。",
+      "examples": [
+        {
+          "id": "I01010",
+          "src": "剑9",
+          "s": "Noise in classroom can only exacerbate their difficulty in comprehending and processing verbal communication with other children and instructions from the teacher."
+        },
+        {
+          "id": "I01024",
+          "src": "剑9",
+          "s": "The attention deficit disorders are indicative of neurological and genetic disorders and are characterized by difficulties with sustaining attention, effort and persistence, organization skills and disinhibition."
+        }
+      ]
+    },
+    {
+      "frame": "the effects of [A] on [B]",
+      "gloss": "A 对 B 的影响",
+      "pattern_notes": "effect 名词化框架：of 引出原因、on 引出受影响对象；A、B 槽位常为带后置修饰的长名词短语，学习者易把 on 短语误附到 of 短语内部的名词上（effects of noise on the ability of children to learn）。of 部分可承前省略（the effects on ...）。",
+      "examples": [
+        {
+          "id": "I01012",
+          "src": "剑9",
+          "s": "The effects of noise on the ability of children to learn effectively in typical classroom environment are now the subjects of increasing concern."
+        },
+        {
+          "id": "I01030",
+          "src": "剑9",
+          "s": "In particular, the effects of noisy classrooms and activities on those experiencing disabilities in the form of auditory function deficit need thorough investigation."
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "s": "We want to know whether life evolves naturally if given the right conditions, or whether there is something very special about the Earth to have fostered the variety of life forms that we see around us on the planet.",
+      "id": "I00865",
+      "note": "whether [A], or whether [B] 双 whether 选择并列；骨架与误读判据均过，但本批仅此一例。"
+    },
+    {
+      "s": "Although groups around the world have been searching intermittently for three decades, it is only now that we have reached the level of technology where we can make a determined attempt to search all nearby stars for any sign of life.",
+      "id": "I00863",
+      "note": "it is only now that [S V]：It-cleft 强调时间的变体，单句。"
+    },
+    {
+      "s": "In other words, the life form we are looking for may well have two green heads and seven fingers, but it will nevertheless resemble us in that it should communicate with its fellows, be interested in the Universe, live on a planet orbiting a star like our Sun, and perhaps most restrictively, have a chemistry, like us, based on carbon and water.",
+      "id": "I00877",
+      "note": "resemble us in that [S V]：in that（在于/因为）引导限定从句，误读强，本批仅一例。"
+    },
+    {
+      "s": "An alien civilization could choose many different ways of sending information across the galaxy, but many of these either require too much energy, or else are severely attenuated while traversing the vast distances across the galaxy.",
+      "id": "I00882",
+      "note": "either [A], or else [B]：or else 强化选择连词，单句。"
+    },
+    {
+      "s": "It turns out that, for a given amount of transmitted power, radio waves in the frequency range 1000 to 3000 MHz travel the greatest distance, and so all searches to date have concentrated on looking for radio waves in this frequency range.",
+      "id": "I00883",
+      "note": "It turns out that [S V]：已收录 It 外置家族的新变体，本批仅一例；句中另有 'all searches to date have concentrated' 的 to date 后置修饰（同句可互证）。"
+    },
+    {
+      "s": "In addition to the reptiles, birds, mammals and insects which we see all around us, other groups that have succeeded out of water include scorpions, snails, crustaceans such as woodlice and land crabs, millipedes and centipedes, spider and various worms.",
+      "id": "I00909",
+      "note": "In addition to [A 枚举], [主句]：误读判据过（与无 to 的 in addition 混淆），本批自然语篇仅一例（I01044 同结构但属题目指令，不计）。"
+    },
+    {
+      "s": "You might wonder how we can tell whether fossil animal lived on land or in water, especially if only fragments are found.",
+      "id": "I00921",
+      "note": "You might wonder [wh-从句]：作者介入式 You might + 认知动词；与 I00934 'You might think, therefore, that ...' 共 2 例，误读判据拿不准。"
+    },
+    {
+      "s": "You might think, therefore, that modern land tortoises have probably stayed on land ever since those early terrestrial times, as most mammals did after a few of them went back to the sea.",
+      "id": "I00934",
+      "note": "You might think, therefore, that [S V]：同上，与 I00921 构成 2 例；主谓间插入 therefore 加大跨度，但整族误读判据拿不准。"
+    },
+    {
+      "s": "In common with all mammals, reptiles and birds, their remote ancestors were marine fish and before that various more or less worm-like creatures stretching back, still in the sea, to the primeval bacteria.",
+      "id": "I00939",
+      "note": "In common with [A], [S V]：学术共比开头（与……一样），单句。"
+    },
+    {
+      "s": "71 species of living turtles and tortoises were examined and a total of 34…………….were taken from the bones of their forelimbs.",
+      "id": "I00950",
+      "note": "[时间NP] saw [事件]：时间名词作主语 + saw 的叙事框架，误读强，单句。"
+    },
+    {
+      "s": "The New Zealand Ministry of Health has found from research carried out over two decades that 6-10% of children in that country are affected by hearing loss.",
+      "id": "I01005",
+      "note": "[S] has found from [NP] that ...：谓语与 that 从句之间插入长状语，误读强，单句。"
+    },
+    {
+      "s": "They were based at a girl’s school, where—it is alleged—the combined forces of three schoolmistresses outperformed the professionals with the accuracy of their observations.",
+      "id": "I01056",
+      "note": "—it is alleged—：破折号插入的被动报道分句，单句。"
+    },
+    {
+      "s": "But there was a problem: transits of Venus, unlike those of Mercury, are rare, occurring in pairs roughly eight years apart every hundred or so years.",
+      "id": "I01071",
+      "note": "unlike those of [B]：those 平行对比插入（transits of Venus, unlike those of Mercury, are rare），单句。"
+    },
+    {
+      "s": "Nevertheless, he accurately predicted that Venus would cross the face of the Sun in both 1761 and 1769—though he didn’t survive to see either.",
+      "id": "I01072",
+      "note": "—though [S V]：句尾让步分句（didn't survive to see either），单句。"
+    },
+    {
+      "s": "Ironically after travelling nearly 50,000 kilometers, his view was clouded out at the last moment, a very dispiriting experience.",
+      "id": "I01079",
+      "note": "[主句], a [评注性NP]：句尾评注性同位语（a very dispiriting experience），单句。"
+    },
+    {
+      "s": "If we look at a star in January—when Earth is at one point in its orbit—it will seem to be in a different position from where it appears six months later.",
+      "id": "I01089",
+      "note": "in a different position from where [S V]：介词 + where 融合关系从句，单句。"
+    },
+    {
+      "s": "June 2004’s transit of Venus was thus more of an astronomical spectacle than a scientifically important event.",
+      "id": "I01091",
+      "note": "more of [a N] than [a N]：more of X than Y 框架，误读强，单句。"
+    },
+    {
+      "s": "But such transits have paved the way for what might prove to be one of the most vital breakthrough in the cosmos—detecting Earth-sized planets orbiting other stars.",
+      "id": "I01092",
+      "note": "paved the way for what might prove to be [N]：what might prove to be 缓冲语 + 习语 pave the way for，单句。"
+    },
+    {
+      "s": "The brain takes shortcuts that work so well we hardly ever aware of them.",
+      "id": "I01119",
+      "note": "so [adj] [that 省略] [S V]：so...that 省略 that 的变体（work so well we hardly ever aware of them），单句。"
+    },
+    {
+      "s": "More than the physical reality of photons or sound waves, perception is a product of the brain.",
+      "id": "I01122",
+      "note": "More than [NP], [主句]：前置'不只是'比较（More than the physical reality ..., perception is ...），误读强，单句。"
+    },
+    {
+      "s": "It is simply a common variant of human nature, one which iconoclasts do not let inhibit their reactions.",
+      "id": "I01140",
+      "note": ", one which [S V]：已收录 '[主句], something which [谓语]' 的新变体，本批仅一例。"
+    },
+    {
+      "s": "The perception of someone’s enthusiasm, or reputation, can make or beak a deal.",
+      "id": "I01146",
+      "note": "can make or beak a deal：make or break 习语（OCR 误作 beak），单句。"
+    },
+    {
+      "s": "However, there are other reasons for being interested in whether life exists elsewhere.",
+      "id": "I00868",
+      "note": "介词 + whether 从句（interested in whether [S V]）：与 I01145 'roles in whether ...' 共 2 例；骨架判据拿不准，可能属纯语法范畴。"
+    },
+    {
+      "s": "These brain regions play key roles in whether people convince others of their ideas.",
+      "id": "I01145",
+      "note": "介词 + whether 从句（play key roles in whether [S V]）：与 I00868 共 2 例；同上，骨架判据拿不准。"
+    },
+    {
+      "s": "The stars being searched are hundreds of light years away, so it takes hundreds of years for their signal to reach us, and a further few hundreds for our reply to reach them.",
+      "id": "I00895",
+      "note": "It takes [时长] for [NP] to [V], and [量] for [NP] to [V]：与承前省略叠加（and a further few hundreds for our reply to reach them），单句。"
+    },
+    {
+      "s": "This is difficult to scientifically quantify as such extra-sensory stimuli vary greatly from one autistic individual to another.",
+      "id": "I01022",
+      "note": "vary greatly from one [N] to another：from one X to another 框架，单句。"
+    },
+    {
+      "s": "The literature to date on noise in school rooms appears to focus on the effects on schoolchildren in general, their teachers and the hearing impaired.",
+      "id": "I01038",
+      "note": "[NP] to date [V]（The literature to date ... appears to focus on）：与 I00883 'all searches to date have concentrated' 共 2 例；骨架判据拿不准（偏词组级）。"
+    },
+    {
+      "s": "It is crucial for success in any field to understand how the iconoclastic mind works.",
+      "id": "I01151",
+      "note": "It is crucial for [NP] to [V]：已收录 'It be adj to V 外置' 的 for-变体，本批仅一例。"
+    },
+    {
+      "s": "Do you think markets are more suitable places for selling certain types of things?",
+      "id": "I00977",
+      "note": "Do you think [S V]？已收录 '疑问词+do you think' 的 yes/no 新变体；I00977/I00978/I00981 共 3 例（口语考官提问，自然语篇），误读判据拿不准。"
+    }
+  ]
+}

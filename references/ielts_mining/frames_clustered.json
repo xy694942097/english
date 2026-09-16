@@ -1,0 +1,2450 @@
+[
+ {
+  "frame": "引语后置报道：'[直接引语]', says/explains [NP]",
+  "level": "A",
+  "status": "新",
+  "gloss": "先给整段直接引语，再补一个报道小句点明说话人；报道动词可放在人名之前形成倒装。",
+  "members": [
+   "'[直接引语]', says/explains [NP]（倒装）；变体：'[引语]', [NP] says / ..., say the researchers, ...（中插）",
+   "主句/引语, says [NP]（+同位语/机构）"
+  ],
+  "batches": [
+   "001",
+   "006"
+  ],
+  "examples": [
+   {
+    "id": "I02276",
+    "src": "剑14",
+    "s": "\"Play in all its rich variety is one of the highest achievements of the human species/ says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK. 4 It underpins how we develop as intellectual, problem-solving adults and is crucial to our success as a highly adaptable species?"
+   },
+   {
+    "id": "I02283",
+    "src": "剑14",
+    "s": "soon as you ask a five-year-old \"to play'： then you as the researcher have intervened,9 explains Dr Sara Baker."
+   },
+   {
+    "id": "I02288",
+    "src": "剑14",
+    "s": "If playful experiences do facilitate this aspect of development, say the researchers, it could be extremely significant for educational practices, because the ability to self-regulate has been shown to be a key predictor of academic performance."
+   },
+   {
+    "id": "I02323",
+    "src": "剑14",
+    "s": "They saw a glorious future for the car/ says Schimmelpennink."
+   },
+   {
+    "id": "I00234",
+    "src": "剑4",
+    "s": "Never before has the planet’s linguistic diversity shrunk at such a pace. ‘At the moment, we are heading for about three or four languages dominating the world,’ says Mark Pagel, an evolutionary biologist at the University of Reading. ‘It’s a mass extinction, and whether we will ever rebound from the loss is difficult to know.’ Isolation breeds linguistic diversity: as a result, the world is peppered with languages spoken by only a few people."
+   },
+   {
+    "id": "I00241",
+    "src": "剑4",
+    "s": "It begins with a crisis of confidence, when a small community finds itself alongside a larger, wealthier society, says Nicholas Ostler, of Britain’s Foundation for Endangered Languages, in Bath."
+   },
+   {
+    "id": "I00346",
+    "src": "剑4",
+    "s": "G ‘People have not paid enough attention to the amount of the brain activated by play,’ says Marc Bekoff from Colorado University."
+   },
+   {
+    "id": "I00323",
+    "src": "剑4",
+    "s": "Playful young animals use around two or three percent of their energy cavorting, and in children that figure can be closer to fifteen percent.‘Even two or three percent is huge,’ says John Byers of Idaho University. ‘You just don’t find animals wasting energy like that,’ he adds."
+   }
+  ]
+ },
+ {
+  "frame": "not [A] but (rather) [B]（先否后纠）",
+  "level": "A",
+  "status": "新（教材'[A], but not [B]'的语序反向新方向）",
+  "gloss": "不是 A，而是 B（先否定再纠正的对比块）",
+  "members": [
+   "not [A] but rather [B]",
+   "not [A] but [B]"
+  ],
+  "batches": [
+   "002",
+   "006"
+  ],
+  "examples": [
+   {
+    "id": "I02666",
+    "src": "剑14",
+    "s": "These views are not based strictly, but rather, loosely, on the philosophies of Alexander Hamilton, Thomas Jefferson, and Andrew Jackson, three great statesmen in the history of the United States."
+   },
+   {
+    "id": "I02673",
+    "src": "剑14",
+    "s": "In the Jeffersonian view, the goal of education is not to favor or foster an elite, as in the Hamiltonian tradition, but rather to allow children the opportunities to make full use of the skills they have・ My own views are similar to these (Sternberg, 1997)."
+   },
+   {
+    "id": "I00245",
+    "src": "剑4",
+    "s": "But Salikoko Mufwene, who chairs the Linguistics department at the University of Chicago, argues that the deadliest weapon is not government policy but economic globalization."
+   },
+   {
+    "id": "I00432",
+    "src": "剑4",
+    "s": "Typically, children do not end up on the streets due to a single cause, but to a combination of factors: a dearth of adequately funded schools, the demand for income at home, family breakdown and violence."
+   }
+  ]
+ },
+ {
+  "frame": "[时间NP] when [S V]（when 关系从句）",
+  "level": "A",
+  "status": "新",
+  "gloss": "说完一个年份/时段，用逗号加 when 从句补叙那时发生了什么。",
+  "members": [
+   "[时间NP], when [S V]（时间名词后的非限定 when 从句）",
+   "[时间名词] when [S V]（when 关系从句）"
+  ],
+  "batches": [
+   "001",
+   "011"
+  ],
+  "examples": [
+   {
+    "id": "I02294",
+    "src": "剑14",
+    "s": "With the Lego building, however, not a single child said this through the whole year of the project.9 Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s? when, as he describes, 'the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate or controversy?"
+   },
+   {
+    "id": "I02494",
+    "src": "剑14",
+    "s": "He met with greater success in 1877 and 1878 in New York when he won first prizes in the exhibition held by E and H T Anthony and Company for landscapes using the Lambertype process."
+   },
+   {
+    "id": "I02504",
+    "src": "剑14",
+    "s": "He continued in this post until 1897, when he retired completely from photography."
+   },
+   {
+    "id": "I02086",
+    "src": "剑9",
+    "s": "It gets very crowded on Sundays, so I suggest you visit it on a quieter day, later in the week, but not on Thursdays which is market day - you won't find anywhere to park and it's also the only day of the week when they're not open!"
+   },
+   {
+    "id": "I02110",
+    "src": "剑9",
+    "s": "The lecturers must set aside certain times every week when they're available for students."
+   }
+  ]
+ },
+ {
+  "frame": "[NP], where [S V]（非限定 where 从句）",
+  "level": "A",
+  "status": "新（who/which 非限定的 where 变体，跨2批）",
+  "gloss": "陈述涉及某地点/领域/市场后，用 where 从句补叙那里的情况。",
+  "members": [
+   "[NP], where [S V]（非限定 where 从句；清单'非限定性关系从句[A], who/which[B]'的 where 新变体）",
+   "主句, where [S V]"
+  ],
+  "batches": [
+   "001",
+   "006"
+  ],
+  "examples": [
+   {
+    "id": "I02384",
+    "src": "剑14",
+    "s": "Such conditions are particularly troubling for the luxury hotel market, where high-quality service, requiring a sophisticated approach to HRM, is recognized as a critical source of competitive advantage (Maroudas et al., 2008)・ In a real sense, the services of hotel employees represent their industry (Schneider and Bowen, 1993)."
+   },
+   {
+    "id": "I02501",
+    "src": "剑14",
+    "s": "In 1876 he photographed bridges on the Quebec, Montreal, Ottawa and Occidental Railway between Montreal and Ottawa・ In 1885 he went west along the Canadian Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he took photographs of the mountains and the progress of construction."
+   },
+   {
+    "id": "I00260",
+    "src": "剑4",
+    "s": "But a written form is essential for this, so the mere possibility of revival has led many speakers of endangered languages to develop systems of writing where none existed before."
+   },
+   {
+    "id": "I00453",
+    "src": "剑4",
+    "s": "• There are tremendous advantages to involving parents or guardians in the program, where such relationships exist."
+   },
+   {
+    "id": "I00519",
+    "src": "剑4",
+    "s": "The biggest eruptions are deep on the mid-ocean floor, where new lava is forcing the continents apart and widening the Atlantic by perhaps five centimeters a year."
+   }
+  ]
+ },
+ {
+  "frame": "It [is/seems/was V-ed] that [S V]（it 外置 that 从句）",
+  "level": "A-v",
+  "status": "教材'It be adj to V'外置的 that 从句变体",
+  "gloss": "用 it 占主语位，把真正的 that 从句（'似乎/据发现……'）甩到句末。",
+  "members": [
+   "It [seems likely / was V-ed] that [S V]（形式主语 it 外置 that 从句；清单'It be[adj] to[V]外置'的 that 从句变体）",
+   "It is [Adj] / It has been [V-ed] that [S V]",
+   "It is/was [V-ed] that [S]"
+  ],
+  "batches": [
+   "001",
+   "003",
+   "005"
+  ],
+  "examples": [
+   {
+    "id": "I02380",
+    "src": "剑14",
+    "s": "These conditions are inherently linked to the working environment・ While it seems likely that employees' reactions to their job characteristics could be affected by a predisposition to view their work environment negatively, no evidence exists to support this hypothesis (Spector et al., 2000)."
+   },
+   {
+    "id": "I02397",
+    "src": "剑14",
+    "s": "It was found that fun activities had a favorable impact on performance and manager support for fun had a favorable impact in reducing turnover."
+   },
+   {
+    "id": "I00016",
+    "src": "剑4",
+    "s": "In the face of the frequent and often vivid media coverage, it is likely that children will have formed ideas about rainforests – what and where they are, why they are important, what endangers them – independent of any formal tuition."
+   },
+   {
+    "id": "I00017",
+    "src": "剑4",
+    "s": "It is also possible that some of these ideas will be mistaken."
+   },
+   {
+    "id": "I00085",
+    "src": "剑4",
+    "s": "It has been speculated that, as the blowholes evolved and migrated to the top of the head, the neural pathways serving sense of smell may have been nearly all sacrificed."
+   },
+   {
+    "id": "I00118",
+    "src": "剑4",
+    "s": "Visual Symbols and the Blind From a number of recent studies, it has become clear that blind people can appreciate the use of outlines and perspectives to describe the arrangement of objects and other surfaces in space."
+   },
+   {
+    "id": "I03100",
+    "src": "剑14",
+    "s": "Ifs estimated that electricity gen erated in this way will be relatively cheap, and that manu facturi ng the comporients would create more tha n 2,000 jobs, a big boost to the local economy."
+   },
+   {
+    "id": "I03149",
+    "src": "剑14",
+    "s": "However, whe n Queen Elizabeth Ian nounced that she was going to visit the castle in 1576 it was beginning to look a bit run down, and it was decided that rather than repair the guest rooms, they'd make a new house for her out of wood next to the main hall."
+   }
+  ]
+ },
+ {
+  "frame": "The [抽象N] is that [S V]（表语从句）",
+  "level": "A",
+  "status": "新，3批",
+  "gloss": "问题（在于……方面）是……",
+  "members": [
+   "The problem (with/of [NP]) is that [S V]",
+   "[The] [抽象N] is that [S V]",
+   "[The/Another 评价性名词] is that [S V]"
+  ],
+  "batches": [
+   "008",
+   "010",
+   "011"
+  ],
+  "examples": [
+   {
+    "id": "I01082",
+    "src": "剑9",
+    "s": "The second problem is that Venus exhibits a halo of light when it is seen just outside the Sun’s disc."
+   },
+   {
+    "id": "I01135",
+    "src": "剑9",
+    "s": "The problem with novelty, however, is that it tends to trigger the brain’s fear system."
+   },
+   {
+    "id": "I01527",
+    "src": "剑9",
+    "s": "The simple fact is that not everything from history survives the historical process."
+   },
+   {
+    "id": "I01725",
+    "src": "剑9",
+    "s": "growing concern is that loud noises in the ocean cause strandings."
+   },
+   {
+    "id": "I01845",
+    "src": "剑9",
+    "s": "Another characteristic is that communication usually takes the form of conversations rather than, say, formal meetings or written memos."
+   },
+   {
+    "id": "I01959",
+    "src": "剑9",
+    "s": "TUTOR: The drawback is that everyone in the group seems to share the same ideas ... they keep being repeated in all the dissertations."
+   },
+   {
+    "id": "I01965",
+    "src": "剑9",
+    "s": "TUTOR: They'll be a good source of reference but the problem is they are sometimes too general."
+   },
+   {
+    "id": "I02096",
+    "src": "剑9",
+    "s": "The main problem is that the lecturers expect you to be critical."
+   }
+  ]
+ },
+ {
+  "frame": "as [S] [V]（非限定评注从句）",
+  "level": "A",
+  "status": "新，4批（as you know / As [NP] show / as I said）",
+  "gloss": "正如……（所知/所示/所发现的）",
+  "members": [
+   "As [S V], 主句 / 主句, as [S V]",
+   "As [NP] [show/observe 等动词], [主句]",
+   "as [S] [V]（非限定评注/方式从句，位置可移动）",
+   "As [I've said/you know], [主句]"
+  ],
+  "batches": [
+   "004",
+   "009",
+   "010",
+   "011"
+  ],
+  "examples": [
+   {
+    "id": "I03352",
+    "src": "剑14",
+    "s": "As you all know, the university is planning an arts festival for later this year, and here in the music department we've planned three con certs."
+   },
+   {
+    "id": "I03213",
+    "src": "剑14",
+    "s": "Generally, weather was attributed to the whims of the gods, as the wide range of weather gods in various cultures shows."
+   },
+   {
+    "id": "I03229",
+    "src": "剑14",
+    "s": "Many of these are based on very good observations and are accurate, as contemporary meteorologists have discovered."
+   },
+   {
+    "id": "I01332",
+    "src": "剑9",
+    "s": "As mobile phone text messages like ‘ I CN C U’ show, it is often possible to leave out a lot of data without losing much meaning."
+   },
+   {
+    "id": "I01499",
+    "src": "剑9",
+    "s": "As one writer observes: ‘Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.’ Such conviction was, until recently, reflected in museum displays."
+   },
+   {
+    "id": "I01518",
+    "src": "剑9",
+    "s": "However, exhibits must be both based on artefacts and facts as we know them, and attractively presented."
+   },
+   {
+    "id": "I01718",
+    "src": "剑9",
+    "s": "Many toxins, as I'm sure you're aware, originate from plants, or animals."
+   },
+   {
+    "id": "I01793",
+    "src": "剑9",
+    "s": "As you can see, there's a lake in the north west of the park, with a bird hide to the west of it, at the end of a path."
+   },
+   {
+    "id": "I01799",
+    "src": "剑9",
+    "s": "As you know, I've asked you here today to discuss the future of our Self-Access Centre."
+   },
+   {
+    "id": "I01988",
+    "src": "剑9",
+    "s": "As I've said, it was a design for a sort of underground house, and it was built into the earth itself, with two storeys."
+   },
+   {
+    "id": "I02006",
+    "src": "剑9",
+    "s": "And, as you know, this is very damaging to the environment."
+   },
+   {
+    "id": "I02123",
+    "src": "剑9",
+    "s": "KIRA: Well, as I said before, the biggest problem for me was a lack of familiarity with the education system here."
+   }
+  ]
+ },
+ {
+  "frame": "[介词] + [wh-从句]",
+  "level": "A",
+  "status": "新（教材'动词+介词+wh-从句'的一般介词扩展）",
+  "gloss": "在……如何/是什么的方面（介词后接 wh-从句）",
+  "members": [
+   "[介词] [how/what] [S V]",
+   "the question of whether [S V] / whether to [V]"
+  ],
+  "batches": [
+   "007",
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I00627",
+    "src": "剑4",
+    "s": "— Limits to human sporting performance are not yet in sight — Since the early years of the twentieth century, when the International Athletic Federa- tion began keeping records, there has been a steady improvement in how fast athletes run, how high they jump and how far they are able to hurl massive objects, themselves included, through space."
+   },
+   {
+    "id": "I00840",
+    "src": "剑9",
+    "s": "And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria."
+   },
+   {
+    "id": "I00861",
+    "src": "剑9",
+    "s": "The Search for Extra-terrestrial Intelligence The question of whether we are alone in the Universe has haunted humanity for centuries, but we may now stand poised on the brick of the answer to that question, as the search for radio signals from other intelligent civilizations."
+   },
+   {
+    "id": "I00897",
+    "src": "剑9",
+    "s": "While the human race debates the question of whether to reply, and perhaps carefully drafts a reply."
+   }
+  ]
+ },
+ {
+  "frame": "[make/find] it [adj] to [V]（形式宾语）",
+  "level": "A",
+  "status": "新，单批3例，误读判据极强",
+  "gloss": "使/觉得做……很困难（不可能）",
+  "members": [
+   "[make/find] it [adj] to [V]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I01025",
+    "src": "剑9",
+    "s": "Children experiencing these disorders find it difficult to screen out unimportant information, and focus on everything in the environment rather than attending to a singe activity."
+   },
+   {
+    "id": "I01081",
+    "src": "剑9",
+    "s": "When Venus begins to cross the Sun’s disc, it looks smeared not circular—which makes it difficult to establish timings."
+   },
+   {
+    "id": "I01083",
+    "src": "剑9",
+    "s": "While this showed astronomers that Venus was surrounded by thick layer of gases refracting sunlight around it, both effects made it impossible to obtain accurate timings."
+   }
+  ]
+ },
+ {
+  "frame": "[NP] [V] [that/which] [S V]（关系从句后移）",
+  "level": "A",
+  "status": "新，单批3例（heavy-NP shift）",
+  "gloss": "主语名词的定语从句被谓语（多为被动或不及物动词）挤到句尾，关系代词隔动词回指主语。",
+  "members": [
+   "[NP] [V] [that/which] [S V]（关系从句后移）"
+  ],
+  "batches": [
+   "009"
+  ],
+  "examples": [
+   {
+    "id": "I01260",
+    "src": "剑9",
+    "s": "Tidal sites have already been identified that will produce one sixth or more of the UK’s power—and at prices competitive with modern gas turbines and undercutting those of the already ailing nuclear industry."
+   },
+   {
+    "id": "I01301",
+    "src": "剑9",
+    "s": "In April 2002 an event took place which demonstrated one of the many applications of information theory."
+   },
+   {
+    "id": "I01341",
+    "src": "剑9",
+    "s": "Products have now been developed which can convey more information than Shannon had anticipated as possible."
+   }
+  ]
+ },
+ {
+  "frame": "Whereas/while 对比从句（前置/句尾）",
+  "level": "A-v",
+  "status": "教材 While 让步的对比用法扩展，3批",
+  "gloss": "……，而与此同时/相比之下……（句尾对比性 while 从句）",
+  "members": [
+   "[主句], while [S V]",
+   "Whereas [主句A], [主句B]",
+   "[主句A], whereas [主句B]"
+  ],
+  "batches": [
+   "005",
+   "007",
+   "011"
+  ],
+  "examples": [
+   {
+    "id": "I03532",
+    "src": "剑14",
+    "s": "In many cases it's only these containers that remain, while the wooden ships have been buried under silt on the seabed."
+   },
+   {
+    "id": "I03592",
+    "src": "剑14",
+    "s": "Birds and animals can die gruesome deaths through being trapped or caught up in plastic bags or ropes, while the long process required for these plastics to decay means that they remain a threat for many years to come."
+   },
+   {
+    "id": "I00639",
+    "src": "剑4",
+    "s": "Whereas most exercises are designed to build up strength or endurance, plyometrics focuses on increasing power — the rate at which an athlete can expend energy."
+   },
+   {
+    "id": "I00686",
+    "src": "剑4",
+    "s": "Whereas cultural anthropolo- gists will often base their conclusions on the experience of living within contemporary communities, archaeologists study past societies primarily through their material remains — the buildings, tools and other artefacts that constitutes what is known as the material culture left over from former societies."
+   },
+   {
+    "id": "I01951",
+    "src": "剑9",
+    "s": "CAROLINE: Well, I found computer modelling fascinating - I have no problem following what's being taught, whereas quite a few of my classmates find it difficult."
+   },
+   {
+    "id": "I02107",
+    "src": "剑9",
+    "s": "PAUL: Maybe you found them different because you're a more mature student now, whereas when you were studying in your country you were younger and not so assertive."
+   }
+  ]
+ },
+ {
+  "frame": "Compared to/with [A] / Unlike [A], [主句]",
+  "level": "A",
+  "status": "新",
+  "gloss": "与 A 相比，……",
+  "members": [
+   "Compared to/with [A], [主句]",
+   "Unlike [A], [主句]"
+  ],
+  "batches": [
+   "003",
+   "009"
+  ],
+  "examples": [
+   {
+    "id": "I02875",
+    "src": "剑14",
+    "s": "The average captive animal will have a greater life expectancy compared with its wild counterpart, and will not die of drought, of starvation or in the jaws of a predator."
+   },
+   {
+    "id": "I02929",
+    "src": "剑14",
+    "s": "Compared to the number of studies investigating large-scale debris, Rochman's group found little research on the effects of these tiny bits."
+   },
+   {
+    "id": "I01256",
+    "src": "剑9",
+    "s": "Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships propellers, but, unlike wind, the tides are predictable and the power input is constant."
+   },
+   {
+    "id": "I01259",
+    "src": "剑9",
+    "s": "Unlike wind power which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand."
+   },
+   {
+    "id": "I01273",
+    "src": "剑9",
+    "s": "Unlike wind power, there are unlikely to be environmental objections."
+   }
+  ]
+ },
+ {
+  "frame": "Once [S V], [主句]",
+  "level": "A",
+  "status": "新（once 条件'一旦'，误读'一次'）",
+  "gloss": "一旦……（就）……：once 引导的从属从句表示条件达成后主句即成立",
+  "members": [
+   "Once [S V], [主句]"
+  ],
+  "batches": [
+   "011"
+  ],
+  "examples": [
+   {
+    "id": "I01862",
+    "src": "剑9",
+    "s": "And once these have been allocated, little day-to-day control is exercised from the top, because this would seem like 'breaking the rules'."
+   },
+   {
+    "id": "I02008",
+    "src": "剑9",
+    "s": "However, once the initial 'debt' has been cleared - and it's been calculated that this will only take fifteen years - this underground house won't cost anything - environmentally I mean - because unlike ordinary houses, it is run in a way that is completely environmentally friendly."
+   }
+  ]
+ },
+ {
+  "frame": "It's just that [S V]（口语委婉解释）",
+  "level": "A",
+  "status": "新",
+  "gloss": "只是因为……/只是……而已：为前面提到的情况给出解释或委婉的辩解",
+  "members": [
+   "It's just that [S V]"
+  ],
+  "batches": [
+   "011"
+  ],
+  "examples": [
+   {
+    "id": "I01953",
+    "src": "剑9",
+    "s": "It's just that I'm having difficulty thinking how I can do that."
+   },
+   {
+    "id": "I01973",
+    "src": "剑9",
+    "s": "It's just that I don't seem to be able to discipline myself."
+   }
+  ]
+ },
+ {
+  "frame": "[S] may well [V]",
+  "level": "A",
+  "status": "BACKLOG 教材回收候选'真题撞见'升级",
+  "gloss": "很可能……、完全有可能……（may well not：很可能不……）",
+  "members": [
+   "[S] may well [V] / may well not [V]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I00876",
+    "src": "剑9",
+    "s": "Second, we make a very conservative assumption that we are looking for a life form that is pretty well like us, since if it differs radically from us we may well not recognize it as a life form, quite apart from whether we are able to communicate with it."
+   },
+   {
+    "id": "I00877",
+    "src": "剑9",
+    "s": "In other words, the life form we are looking for may well have two green heads and seven fingers, but it will nevertheless resemble us in that it should communicate with its fellows, be interested in the Universe, live on a planet orbiting a star like our Sun, and perhaps most restrictively, have a chemistry, like us, based on carbon and water."
+   }
+  ]
+ },
+ {
+  "frame": "such [N] as [清单]",
+  "level": "A",
+  "status": "新（书内 such N that 的列举义）",
+  "gloss": "诸如……之类的 N（后接列举）",
+  "members": [
+   "such [N] as [清单]"
+  ],
+  "batches": [
+   "007"
+  ],
+  "examples": [
+   {
+    "id": "I00818",
+    "src": "剑9",
+    "s": "Historically, textile dyes were made from such natural sources as plants and animal excretions."
+   },
+   {
+    "id": "I00838",
+    "src": "剑9",
+    "s": "For instance, they were used to stain previously invisible microbes and bacteria, allowing researchers to identify such bacilli as tuberculosis, cholera, and anthrax."
+   }
+  ]
+ },
+ {
+  "frame": "at (about/exactly) the same time that/as [S V]",
+  "level": "A",
+  "status": "新，same-搭配误读强",
+  "gloss": "就在……的同时（same...that/as 关联结构）",
+  "members": [
+   "at (about/exactly) the same time that/as [S V], [主句]"
+  ],
+  "batches": [
+   "007"
+  ],
+  "examples": [
+   {
+    "id": "I00726",
+    "src": "剑4",
+    "s": "However, at exactly the same time as this new realization of the finite character of health-care resources was sinking in, an awareness of a contrary kind was developing in Western societies: that people have a basic right to health-care as a necessary condition of a proper human life."
+   },
+   {
+    "id": "I00745",
+    "src": "剑4",
+    "s": "Health-care came to be seen as a right at about the same time that the limits of health-care resources became evident."
+   }
+  ]
+ },
+ {
+  "frame": "[X] is/was to [V]（方案/安排表语）",
+  "level": "A",
+  "status": "教材'The aim of A is to B'概括化+was to 过去安排",
+  "gloss": "……（的目的/安排/内容）就是……",
+  "members": [
+   "[X] is to [V]",
+   "The [solution/trick] was/is to [V]",
+   "[X] was to [V]"
+  ],
+  "batches": [
+   "003",
+   "009"
+  ],
+  "examples": [
+   {
+    "id": "I03015",
+    "src": "剑14",
+    "s": "The important thing is to check with someone if you're not sure what to you out You're here to learn so make the most of that opportunity."
+   },
+   {
+    "id": "I03019",
+    "src": "剑14",
+    "s": "Their role is to provide help and support throughout your appre nticeship."
+   },
+   {
+    "id": "I03093",
+    "src": "剑14",
+    "s": "One curre nt plan is to create a tidal Iago on on the coast of Wales."
+   },
+   {
+    "id": "I03104",
+    "src": "剑14",
+    "s": "The idea is to bring cold water up to the surface using a submerged pipe."
+   },
+   {
+    "id": "I01305",
+    "src": "剑9",
+    "s": "The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts."
+   },
+   {
+    "id": "I01325",
+    "src": "剑9",
+    "s": "The trick, Shannon showed, is to find ways of packaging up—‘coding’—information to cope with the ravages of noise, while staying within the information-carrying capacity—‘bandwidth’—of the communication system being used."
+   },
+   {
+    "id": "I01406",
+    "src": "剑9",
+    "s": "Their marriage in 1895 marked the start of a partnership that was soon to achieve results of world significance."
+   },
+   {
+    "id": "I01419",
+    "src": "剑9",
+    "s": "The sudden death of her husband in 1906 was a bitter blow to Marie Curie, but was also a turning point in her career: henceforth she was to devote all her energy to completing alone the scientific work that they had undertaken."
+   }
+  ]
+ },
+ {
+  "frame": "be the first (person/N) to [V]",
+  "level": "A",
+  "status": "新，2批",
+  "gloss": "是第一个做某事的（人）",
+  "members": [
+   "be the first (person/one) to [V]",
+   "the first [N] to [V]"
+  ],
+  "batches": [
+   "004",
+   "009"
+  ],
+  "examples": [
+   {
+    "id": "I03219",
+    "src": "剑14",
+    "s": "The ancient Greeks were the first to develop a more scientific approach to explaining the weather."
+   },
+   {
+    "id": "I03236",
+    "src": "剑14",
+    "s": "This discovery was verified by English astro no mer Halley in 1686; and Halley was also the first pers on to map trade win ds."
+   },
+   {
+    "id": "I01398",
+    "src": "剑9",
+    "s": "She was the first woman to win a Noble Prize."
+   },
+   {
+    "id": "I01420",
+    "src": "剑9",
+    "s": "On May 13,1906, she was appointed to the professorship that had been left vacant on her husband’s death, becoming the first woman to teach at the Sorbonne."
+   }
+  ]
+ },
+ {
+  "frame": "what we call / what are known as [X]",
+  "level": "A",
+  "status": "新（自由关系从句'所谓'）",
+  "gloss": "所谓的……／我们称之为……的东西",
+  "members": [
+   "what [S] [call/know as] → what are known as / what we call [X]"
+  ],
+  "batches": [
+   "010"
+  ],
+  "examples": [
+   {
+    "id": "I01709",
+    "src": "剑9",
+    "s": "Well, with some of you about to go out on field work it's timely that in this afternoon's session I'll be sharing some ideas about the reasons why groups of whales and dolphins sometimes swim ashore from the sea right onto the beach and, most often, die in what are known as 'mass strandings'."
+   },
+   {
+    "id": "I01754",
+    "src": "剑9",
+    "s": "These are both what we call simple rooms."
+   }
+  ]
+ },
+ {
+  "frame": "go on to [V/NP]（叙事推进）",
+  "level": "A",
+  "status": "新",
+  "gloss": "继而、接着（做另一件事/进入下一处）",
+  "members": [
+   "go on to [V/NP]"
+  ],
+  "batches": [
+   "003"
+  ],
+  "examples": [
+   {
+    "id": "I02919",
+    "src": "剑14",
+    "s": "For example, a study could show that certain seabirds eat plastic bags, and go on to warn that whole bird populations are at risk of dying out."
+   },
+   {
+    "id": "I03069",
+    "src": "剑14",
+    "s": "CARLA： So then we'll go on to talk about what mction's being taken to deal with the problems of coastal cities."
+   },
+   {
+    "id": "I03102",
+    "src": "剑14",
+    "s": "There are other forms of tidal energy, but 111 go on to the third category of marine energy: ocean thermal energy conversion."
+   },
+   {
+    "id": "I03159",
+    "src": "剑14",
+    "s": "Well then go on to the long gallery, where there's a wonderful collection of photographs showing the family who owned the castle a hundred years ago having tea and cakes in the conservatory - and well then take you to the same place, where afternoon tea will be served to you."
+   }
+  ]
+ },
+ {
+  "frame": "Born [时间/地点], [S] [V]（传记开头）",
+  "level": "A",
+  "status": "新",
+  "gloss": "",
+  "members": [
+   "Born [时间/地点], [S] [V]"
+  ],
+  "batches": [],
+  "examples": []
+ },
+ {
+  "frame": "[V] [A] as much as [B]（程度比较）",
+  "level": "A",
+  "status": "新（含 not as much as 否定形）",
+  "gloss": "A 与 B 同等程度（否定式：不像 B 那么程度深）",
+  "members": [
+   "[V] [A] as much as [B] / not [V] as much as [B]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I01008",
+    "src": "剑9",
+    "s": "Education researchers Nelson and Soli have also suggested that recent trends in learning often involve collaborative interaction of multiple minds and tools as much as individual possession of information."
+   },
+   {
+    "id": "I01123",
+    "src": "剑9",
+    "s": "Their brains do not fail into efficiency pitfalls as much as the average person’s brain."
+   }
+  ]
+ },
+ {
+  "frame": "Quite apart from [NP/V-ing/whether从句], [主句]",
+  "level": "A",
+  "status": "新",
+  "gloss": "且不说……、更何况……（撇开……不谈）",
+  "members": [
+   "Quite apart from [NP/V-ing/whether 从句], [主句]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I00876",
+    "src": "剑9",
+    "s": "Second, we make a very conservative assumption that we are looking for a life form that is pretty well like us, since if it differs radically from us we may well not recognize it as a life form, quite apart from whether we are able to communicate with it."
+   },
+   {
+    "id": "I00893",
+    "src": "剑9",
+    "s": "Quite apart from the impracticality of sending a reply over such large distances at short notice, it raises a host of ethical questions that would have to be addressed by the global community before any reply could be sent."
+   }
+  ]
+ },
+ {
+  "frame": "[A] (be) on the increase/decline（趋势对冲）",
+  "level": "A",
+  "status": "新（含前置 On the decline... 误读点）",
+  "gloss": "",
+  "members": [
+   "[A] be on the increase/decline, [B] 相反趋势"
+  ],
+  "batches": [],
+  "examples": []
+ },
+ {
+  "frame": "sound(s) as though [S V]",
+  "level": "A",
+  "status": "BACKLOG 让步候选 as if/as though 真题证据升级",
+  "gloss": "听起来似乎……（据此推断）",
+  "members": [
+   "sound(s) as though [S V]"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03478",
+    "src": "剑14",
+    "s": "So it sounds as though you think it's a good course."
+   },
+   {
+    "id": "I03483",
+    "src": "剑14",
+    "s": "STEPHANIE： The En glish name makes it sound as though Robinson is the family's surname, but a more accurate translation would be The Swiss Robinsons, because it's about a Swiss family who are shipwrecked, like Robins on Crusoe in the novel of a century earlier."
+   }
+  ]
+ },
+ {
+  "frame": "[V-ing 状语], [主句]（句首裸分词）",
+  "level": "A-v",
+  "status": "教材'主句, V-ing'的前置变体，单批4例",
+  "gloss": "（由于/在……之后）做了某事，主句（句首无连词分词）",
+  "members": [
+   "[V-ing 状语], [主句]"
+  ],
+  "batches": [
+   "007"
+  ],
+  "examples": [
+   {
+    "id": "I00725",
+    "src": "剑4",
+    "s": "Looking back, it now seems quite incredible that in the national health systems that emerged in many counties in the years immediately after the 1939—45 World War, it was assumed without question that all the basic health needs of any community could be satisfied, at least in principle; the ‘invisible hand’ of economic progress would provide."
+   },
+   {
+    "id": "I00816",
+    "src": "剑9",
+    "s": "Incorporating potassium dichromate and alcohol into the aniline at various stages of the experimental process, he finally produced a deep purple solution."
+   },
+   {
+    "id": "I00824",
+    "src": "剑9",
+    "s": "Realising the importance of this breakthrough, he lost no time in patenting it."
+   },
+   {
+    "id": "I00830",
+    "src": "剑9",
+    "s": "Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London’s gas street lighting, the dye works began producing the world’s first synthetically dyed material in 1857."
+   }
+  ]
+ },
+ {
+  "frame": "Why is it that [S V]?（分裂式强调问句）",
+  "level": "A",
+  "status": "新",
+  "gloss": "究竟为什么……？（分裂式强调问句，that 后用陈述语序）",
+  "members": [
+   "Why is it that [S V]?"
+  ],
+  "batches": [
+   "002"
+  ],
+  "examples": [
+   {
+    "id": "I02571",
+    "src": "剑14",
+    "s": "Why is it that on paper the drive for organisation seems a sure shot for increasing productivity, but in reality fells well short of what is expected?"
+   },
+   {
+    "id": "I02705",
+    "src": "剑14",
+    "s": "F Why is it that in sects have received relatively little atte ntion in bioprospecti ng?"
+   }
+  ]
+ },
+ {
+  "frame": "What is/was more, [主句]",
+  "level": "A",
+  "status": "新",
+  "gloss": "而且，更有甚者（篇章递进标记）",
+  "members": [
+   "What is/was more, [主句]"
+  ],
+  "batches": [
+   "002"
+  ],
+  "examples": [
+   {
+    "id": "I02579",
+    "src": "剑14",
+    "s": "The result is that businesses and people spend time and money organising themselves for the sake of organising, rather than actually looking at the end goal and usefulness of such an effort, E Whafs more, recent studies show that order actually has diminishing returns."
+   },
+   {
+    "id": "I02851",
+    "src": "剑14",
+    "s": "What was more, the old ants didn't experience any drop in the levels of either serotonin or dopamine—brain chemicals whose decline often coincides with aging."
+   }
+  ]
+ },
+ {
+  "frame": "[主句], something which [谓语]",
+  "level": "A-v",
+  "status": "'前句, which'的总结性同位变体",
+  "gloss": "……，而这一情况 / 事实又……（整句回指）",
+  "members": [
+   "[主句], something which [谓语]"
+  ],
+  "batches": [
+   "002"
+  ],
+  "examples": [
+   {
+    "id": "I02695",
+    "src": "剑14",
+    "s": "C Laboratory-based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products."
+   },
+   {
+    "id": "I02699",
+    "src": "剑14",
+    "s": "Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes・ Their remarkable diversity exceeds that of every other group of animals on the plznet combi ned."
+   }
+  ]
+ },
+ {
+  "frame": "[The/Another/one] thing (that) [S V] is [to V/表语]",
+  "level": "A-v",
+  "status": "假分裂 thing 族，2批",
+  "gloss": "（我们注意到的/帮到我的）一件事是……",
+  "members": [
+   "one thing [定语从句] be [NP/that从句]",
+   "[The/Another/first] thing (that) [S V] is [(to) V原形]"
+  ],
+  "batches": [
+   "010",
+   "011"
+  ],
+  "examples": [
+   {
+    "id": "I01804",
+    "src": "剑9",
+    "s": "PAM: Well yes, the teachers agree that it is a very valuable resource but one thing we have noticed is that a lot of the students are using it to check their personal emails."
+   },
+   {
+    "id": "I01688",
+    "src": "剑9",
+    "s": "HIROKO: I think that one thing that helped me with this was the reading."
+   },
+   {
+    "id": "I01835",
+    "src": "剑9",
+    "s": "The other thing I'd like to do is talk to our technicians and see whether we could somehow limit the access to email."
+   },
+   {
+    "id": "I01969",
+    "src": "剑9",
+    "s": "Another thing I always advise is don't just take your notes and forget about them."
+   },
+   {
+    "id": "I01983",
+    "src": "剑9",
+    "s": "So the first thing they did was to look for a site."
+   }
+  ]
+ },
+ {
+  "frame": "The/One/Best way to [V] is [by V-ing / to V]",
+  "level": "A",
+  "status": "新",
+  "gloss": "做 X 的办法是 Y",
+  "members": [
+   "The/One/Best way to [V] is [by [V-ing] / to [V]]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I00925",
+    "src": "剑9",
+    "s": "One way to tell is by measuring the bones of their forelimbs."
+   },
+   {
+    "id": "I01131",
+    "src": "剑9",
+    "s": "The best way to see things differently to other people is to bombard the brain with things it has never encouraged before."
+   }
+  ]
+ },
+ {
+  "frame": "of/by + [NP主语] + [V-ing]（动名词复合结构）",
+  "level": "A",
+  "status": "新",
+  "gloss": "……的证据是（某物）正在做某事／由（某人）做某事而实现（带主语的动名词复合结构）",
+  "members": [
+   "of / by + [NP 主语] + [V-ing]"
+  ],
+  "batches": [
+   "005"
+  ],
+  "examples": [
+   {
+    "id": "I03593",
+    "src": "剑14",
+    "s": "Worse, there is now beginning to be evidenee of sea creatures ingesting smaller globules of disintegrating plastic, which harms them and all the other creatures in their particular food chain."
+   },
+   {
+    "id": "I00020",
+    "src": "剑4",
+    "s": "These ideas may be developed by children absorbing ideas through the popular media."
+   }
+  ]
+ },
+ {
+  "frame": "[房间/空间] can seat/hold/sleep [数字]",
+  "level": "B",
+  "status": "听力场景容量套语",
+  "gloss": "（场地）可容纳/可坐/可住……人",
+  "members": [
+   "[房间/空间] can seat/hold/sleep [数字] (people)"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03389",
+    "src": "剑14",
+    "s": "Andrew: Well we have two rooms that can hold that number."
+   },
+   {
+    "id": "I03390",
+    "src": "剑14",
+    "s": "That can seat eighty-five, or hold over a hundred if people are standing for a buffet."
+   },
+   {
+    "id": "I03399",
+    "src": "剑14",
+    "s": "This is a bit bigger - it can hold up to a hundred and ten people - and it has the advantage of a stage, which is useful if you have any en tertai nment, or in deed a small band can fit onto it."
+   },
+   {
+    "id": "I03410",
+    "src": "剑14",
+    "s": "They each sleep two to four people and have their own living room, bathroom and small kitchen."
+   }
+  ]
+ },
+ {
+  "frame": "take the first/second [left/right] (after [A])",
+  "level": "B",
+  "status": "听力指路套语",
+  "gloss": "（过了 A 之后）在第一个路口向左/右拐",
+  "members": [
+   "take the first/second [left/right] (after [A])"
+  ],
+  "batches": [
+   "003"
+  ],
+  "examples": [
+   {
+    "id": "I03166",
+    "src": "剑14",
+    "s": "The quickest way to get there is to take the first left after the main entrance 2nd follow the pmth Dmst the bridge, then you'll see it in front of you at the end."
+   },
+   {
+    "id": "I03171",
+    "src": "剑14",
+    "s": "Just take the first left after the main entrance, go down the oath and take the first right."
+   }
+  ]
+ },
+ {
+  "frame": "Can/Could I (just) ask [NP/wh-陈述语序]?",
+  "level": "B",
+  "status": "听力场景套语",
+  "gloss": "（礼貌地）请问……／能否问一下……",
+  "members": [
+   "Can/Could I (just) ask [NP / wh-陈述语序从句]?"
+  ],
+  "batches": [
+   "010"
+  ],
+  "examples": [
+   {
+    "id": "I01638",
+    "src": "剑9",
+    "s": "Could I just also ask what qualities you're looking for?"
+   },
+   {
+    "id": "I01743",
+    "src": "剑9",
+    "s": "MAN: Thanks, and could I ask your date of birth?"
+   },
+   {
+    "id": "I01758",
+    "src": "剑9",
+    "s": "Now can I ask some other personal details which we like to have on record?"
+   }
+  ]
+ },
+ {
+  "frame": "[S] would/'d be happy to [V]",
+  "level": "B",
+  "status": "口语允诺套语",
+  "gloss": "（我/我们/任何人）很乐意做某事——口语礼貌允诺套语",
+  "members": [
+   "[S] would/'d be happy to [V]"
+  ],
+  "batches": [
+   "012"
+  ],
+  "examples": [
+   {
+    "id": "I02139",
+    "src": "剑9",
+    "s": "If you're interested in reading our more comprehensive findings, we've produced detailed graphic representations on the college web-site and of course any of the group would be happy to talk to you about them."
+   },
+   {
+    "id": "I02149",
+    "src": "剑9",
+    "s": "Now, I'd be happy to answer any questions you may have ..."
+   }
+  ]
+ },
+ {
+  "frame": "give [A] an idea of [B]",
+  "level": "B",
+  "status": "搭配扩展",
+  "gloss": "让某人了解/大致知道某事",
+  "members": [
+   "give [A] an idea of [B]"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03276",
+    "src": "剑14",
+    "s": "Now, I don't know Sydney very well, can you just give me an idea of the location of the hotel?"
+   },
+   {
+    "id": "I03295",
+    "src": "剑14",
+    "s": "Now rd like to tell you what some of our volunteers have said about what they do, to give you an idea of the range of ways in which they can help people."
+   },
+   {
+    "id": "I03315",
+    "src": "剑14",
+    "s": "OK, I hope thafs give n you an idea of what volun teeri ng is all about."
+   },
+   {
+    "id": "I03350",
+    "src": "剑14",
+    "s": "JOE： There are others too, but at least that gives you an idea of what Tm up against."
+   }
+  ]
+ },
+ {
+  "frame": "(you can) have [A] for an extra [金额]",
+  "level": "B",
+  "status": "听力场景套语",
+  "gloss": "额外加……钱即可享/升级 A",
+  "members": [
+   "(you can) have [A] for an extra [金额] / for an extra [金额], (you can) have [A]"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03265",
+    "src": "剑14",
+    "s": "Or you can have the special for $25 more."
+   },
+   {
+    "id": "I03449",
+    "src": "剑14",
+    "s": "Tickets are just 50 euros each, but for an extra 10 euros you can have a table right by the stage."
+   }
+  ]
+ },
+ {
+  "frame": "[数量/分配 NP] each",
+  "level": "B",
+  "status": "弱骨架",
+  "gloss": "每人/每件各……",
+  "members": [
+   "[数量/分配 NP] each"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03449",
+    "src": "剑14",
+    "s": "Tickets are just 50 euros each, but for an extra 10 euros you can have a table right by the stage."
+   },
+   {
+    "id": "I03452",
+    "src": "剑14",
+    "s": "You're given a whole chicken each, which you eat in the medieval way, using your hands in stead of cutlery, and you're entertained by competiti ons where the horseback riders attempt to knock one another off their horses."
+   }
+  ]
+ },
+ {
+  "frame": "[门窗] look/lead out onto [景物]",
+  "level": "B",
+  "status": "听力描述套语",
+  "gloss": "（门窗）朝向/通向（露台、湖景等）",
+  "members": [
+   "[门窗] look/lead out onto [景物]"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03394",
+    "src": "剑14",
+    "s": "Now the Adelphi Room is at the back of the hotel, and there are French windows leading out onto the terrace."
+   },
+   {
+    "id": "I03401",
+    "src": "剑14",
+    "s": "Andrew: No, the Carlton Room is on the first floor, but on one side the windows look out onto the lake."
+   }
+  ]
+ },
+ {
+  "frame": "on a [regular/weekly] basis / in a X sense / In the case of",
+  "level": "B",
+  "status": "介词套语族",
+  "gloss": "以……的频率；定期地",
+  "members": [
+   "on a [regular/weekly/daily] basis",
+   "in [a/the] [broadest/restricted/narrow] sense / at its [broadest]",
+   "In the case of [NP] / In [N's] case, [主句]"
+  ],
+  "batches": [
+   "003",
+   "007"
+  ],
+  "examples": [
+   {
+    "id": "I03018",
+    "src": "剑14",
+    "s": "This person will be someone who's recently completed an apprenticeship and you'll meet with them on a weekly basis."
+   },
+   {
+    "id": "I03135",
+    "src": "剑14",
+    "s": "CARL： So do you do any sport on a regular basis?"
+   },
+   {
+    "id": "I03143",
+    "src": "剑14",
+    "s": "CARL： And do you take any medication on a regular basis?"
+   },
+   {
+    "id": "I00678",
+    "src": "剑4",
+    "s": "Anthropology, at its broadest, is the study of humanity — our physical characteristic as animals and our unique non-biological characteristics that we call culture."
+   },
+   {
+    "id": "I00680",
+    "src": "剑4",
+    "s": "Anthropologists also use the term ‘culture’ in a more re- stricted sense when they refer to the ‘culture’ of a particular society, meaning the non- biological characteristics unique to that society, which distinguish it from other societies."
+   },
+   {
+    "id": "I00694",
+    "src": "剑4",
+    "s": "In the broadest sense, just as archaeology is an aspect of anthropology, so too is it a part of history — where we mean the whole history of humankind from its beginnings over three million years ago."
+   },
+   {
+    "id": "I00697",
+    "src": "剑4",
+    "s": "commonly drawn distinction is between pre-history, i.e. the period before written records — and history in the narrow sense, meaning the study of the past using written evidence."
+   },
+   {
+    "id": "I00524",
+    "src": "剑4",
+    "s": "In the case of Mount Pinatubo, this took 600 years."
+   },
+   {
+    "id": "I00653",
+    "src": "剑4",
+    "s": "In Fosbury’s case, it was the cushions that jumpers land on."
+   }
+  ]
+ },
+ {
+  "frame": "[X] be characterized by [NP]",
+  "level": "B",
+  "status": "学术套语",
+  "gloss": "……的特征是……（以……为特征）",
+  "members": [
+   "[S] be characterized by [NP]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I01017",
+    "src": "剑9",
+    "s": "This disorder is characterized by interlinking problems with social imagination, social communication and social interaction."
+   },
+   {
+    "id": "I01024",
+    "src": "剑9",
+    "s": "The attention deficit disorders are indicative of neurological and genetic disorders and are characterized by difficulties with sustaining attention, effort and persistence, organization skills and disinhibition."
+   }
+  ]
+ },
+ {
+  "frame": "[X] be given over to [Y]",
+  "level": "B",
+  "status": "弱",
+  "gloss": "X 被（专门）用于 / 让渡给 Y",
+  "members": [
+   "[X] be given over to [Y / V-ing]"
+  ],
+  "batches": [
+   "002"
+  ],
+  "examples": [
+   {
+    "id": "I02536",
+    "src": "剑14",
+    "s": "Communal wards appropriate for in today's hospitals, at a fraction of the energy cost/ Professor Short contends the mindset and skill-sets behind these designs have been completely lost, lamenting the disappearanee of expertly designed theatres, opera houses, and other buildings where up to half the volume of the building was give n over to ensuri ng every one got fresh air."
+   },
+   {
+    "id": "I02541",
+    "src": "剑14",
+    "s": "Today, huge amounts of a building's space and construction cost are given over to air conditioning."
+   }
+  ]
+ },
+ {
+  "frame": "be (not) up to [A]",
+  "level": "B",
+  "status": "弱",
+  "gloss": "达到（标准）/胜任（某事）；由（某人）决定",
+  "members": [
+   "be (not) up to [A] / be up to [A]"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03308",
+    "src": "剑14",
+    "s": "They*re not perhaps up to Tanya's standard yet, but she gains a lot of pleasure from doing it."
+   },
+   {
+    "id": "I03325",
+    "src": "剑14",
+    "s": "If you ask me, they arenl really up to it yet, and I need to get them functioning better as a band, and in a very short time."
+   },
+   {
+    "id": "I03437",
+    "src": "剑14",
+    "s": "If you want, you can buy some of the products but thafs entirely up to you."
+   }
+  ]
+ },
+ {
+  "frame": "[主语] start by [V-ing]",
+  "level": "B",
+  "status": "弱",
+  "gloss": "以做某事作为开始（讲解/介绍的流程开场）",
+  "members": [
+   "[主语] start by [V-ing]"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03210",
+    "src": "剑14",
+    "s": "In this series of lectures about the history of weather forecasting, I'll start by examining its early history - thatll be the subject of today's talk."
+   },
+   {
+    "id": "I03283",
+    "src": "剑14",
+    "s": "Let me start by briefly explaining what we mean by volunteering."
+   },
+   {
+    "id": "I03319",
+    "src": "剑14",
+    "s": "You'd better start by giving me a bit of background."
+   },
+   {
+    "id": "I03422",
+    "src": "剑14",
+    "s": "Til start by telling you about some of the excursions that are available for guests."
+   }
+  ]
+ },
+ {
+  "frame": "[主句] - [because/which/S V] 破折号追补",
+  "level": "B",
+  "status": "口语标点框架",
+  "gloss": "完整主句说完后用破折号追加原因、评注或解释——口语补充说明框架",
+  "members": [
+   "[主句] - [because / this time because / which / S V] 破折号追补"
+  ],
+  "batches": [
+   "012"
+  ],
+  "examples": [
+   {
+    "id": "I02140",
+    "src": "剑9",
+    "s": "What we've decided to resent today is information about just three species - because we felt these gave a good indication of the processes at work in rural and urban setting s as a whole."
+   },
+   {
+    "id": "I02142",
+    "src": "剑9",
+    "s": "And there was a clear pattern here - they proliferate where there is suitable water."
+   },
+   {
+    "id": "I02144",
+    "src": "剑9",
+    "s": "Hedgehogs are also finding it easier to live in urban areas - this time because their predators are not finding it quite so attractive to leave their rural environment, so hedgehogs have a better survival rate in cities We had lots of sightings, so all in all we had no difficulties with our efforts to count their numbers precisely."
+   },
+   {
+    "id": "I02147",
+    "src": "剑9",
+    "s": "Another factor is the provision of nesting places - which is actually better in gardens than the countryside."
+   }
+  ]
+ },
+ {
+  "frame": "[数字] times a [day/week/month]",
+  "level": "B",
+  "status": "频次套语",
+  "gloss": "每（天/周/月）……次",
+  "members": [
+   "[数字] times a [day/week/month]"
+  ],
+  "batches": [
+   "003"
+  ],
+  "examples": [
+   {
+    "id": "I03098",
+    "src": "剑14",
+    "s": "As there are two high tides a day, this Iago on scheme would gen erate electricity four times a day, every day, for a total of around 14 hours in every 24 - and enough electricity for over 150,000 homes."
+   },
+   {
+    "id": "I03139",
+    "src": "剑14",
+    "s": "But normallv I ao「unnina a few times a week, mavbe three or four times."
+   }
+  ]
+ },
+ {
+  "frame": "[a/an + N] called [专名]",
+  "level": "B",
+  "status": "弱",
+  "gloss": "一个名叫……的……",
+  "members": [
+   "[a/an + N] called [专名]"
+  ],
+  "batches": [
+   "003"
+  ],
+  "examples": [
+   {
+    "id": "I02941",
+    "src": "剑14",
+    "s": "A Dutch group called 6The Ocean Cleanup5 is currently working on plans to put mechanical devices in the Pacific Garbage Patch and similar areas to suck up plastic."
+   },
+   {
+    "id": "I03148",
+    "src": "剑14",
+    "s": "In the following century, after the Norma ns conquered England, the land was given to a nobleman called Richard de Vere, and he built a castle there that stayed in the de Vere family for over four hundred years."
+   },
+   {
+    "id": "I03180",
+    "src": "剑14",
+    "s": "The tooth was found by a man called Russell Graham."
+   }
+  ]
+ },
+ {
+  "frame": "[评注性连接副词], [主句]",
+  "level": "B",
+  "status": "太泛",
+  "gloss": "句首话语标记（顺便说/与此同时/好了）+ 逗号 + 主句，标记话题转换或补充",
+  "members": [
+   "[评注性连接副词], [主句]"
+  ],
+  "batches": [
+   "012"
+  ],
+  "examples": [
+   {
+    "id": "I02135",
+    "src": "剑9",
+    "s": "Meanwhile, we were doing our own observations in selected gardens throughout the city."
+   },
+   {
+    "id": "I02148",
+    "src": "剑9",
+    "s": "Incidentally, we discovered that a massive new survey on song thrushes is about to be launched, so you should keep an eye open for that."
+   },
+   {
+    "id": "I02149",
+    "src": "剑9",
+    "s": "Now, I'd be happy to answer any questions you may have ..."
+   }
+  ]
+ },
+ {
+  "frame": "The [第N] question concerned [X]（问卷句式）",
+  "level": "B",
+  "status": "语域窄",
+  "gloss": "第 N 个问题涉及/考察……（研究报告问卷句式）",
+  "members": [
+   "The [第N] question / Responses to question [N] concerned [X]"
+  ],
+  "batches": [
+   "005"
+  ],
+  "examples": [
+   {
+    "id": "I00027",
+    "src": "剑4",
+    "s": "The second question concerned the geographical location of rainforests."
+   },
+   {
+    "id": "I00030",
+    "src": "剑4",
+    "s": "Responses to question three concerned the importance of rainforests."
+   },
+   {
+    "id": "I00035",
+    "src": "剑4",
+    "s": "The fourth question concerned the causes of the destruction of rainforests."
+   }
+  ]
+ },
+ {
+  "frame": "[量] attention has been paid to [X]",
+  "level": "B",
+  "status": "学术套语（原报自注明把握低）",
+  "gloss": "（相对很少／甚至更少）注意力被投向某话题——学术语篇引出研究缺口的固定被动式。",
+  "members": [
+   "[量] attention has been paid to [X]"
+  ],
+  "batches": [
+   "006"
+  ],
+  "examples": [
+   {
+    "id": "I00428",
+    "src": "剑4",
+    "s": "Although small-scale business training and credit programs have become more common throughout the world, relatively little attention has been paid to the need to direct such opportunities to young people."
+   },
+   {
+    "id": "I00429",
+    "src": "剑4",
+    "s": "Even less attention has been paid to children living on the street or in difficult circumstance."
+   }
+  ]
+ },
+ {
+  "frame": "Without [NP], [主句(would…)]",
+  "level": "A-v",
+  "status": "书内'Were it not for/But for'的 without 变体",
+  "gloss": "要是没有……，（就会）……",
+  "members": [
+   "Without [NP], [主句(would…)]"
+  ],
+  "batches": [
+   "003"
+  ],
+  "examples": [
+   {
+    "id": "I02882",
+    "src": "剑14",
+    "s": "Without these efforts there would be fewer species alive today."
+   },
+   {
+    "id": "I02897",
+    "src": "剑14",
+    "s": "They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they can assist or at least accept the need to be more environmentally conscious・ Without them, the world would be, and would increasingly become, a much poorer place."
+   }
+  ]
+ },
+ {
+  "frame": "[X] be / vary (as) a function of [Y]",
+  "level": "B",
+  "status": "学术套语",
+  "gloss": "X 取决于 Y / X 随 Y 而变化",
+  "members": [
+   "[X] be / vary (as) a function of [Y]"
+  ],
+  "batches": [
+   "002"
+  ],
+  "examples": [
+   {
+    "id": "I02662",
+    "src": "剑14",
+    "s": "As mentioned earlier, people have expectations for intellectual performances that differ for children of different ages・ How these expectations differ is in part a function of culture."
+   },
+   {
+    "id": "I02756",
+    "src": "剑14",
+    "s": "The adulfs role in play varies as a function of their educational goals and the child's developmental level (Hirsch-Pasek et al. 2009)."
+   }
+  ]
+ },
+ {
+  "frame": "主句, [介词/and] which [S V]",
+  "level": "A-v",
+  "status": "'前句,which'前置介词变体",
+  "gloss": "which 前带介词（for/during）或并列连词 and 的非限定从句。",
+  "members": [
+   "主句, [介词/and] which [S V]"
+  ],
+  "batches": [
+   "006"
+  ],
+  "examples": [
+   {
+    "id": "I00291",
+    "src": "剑4",
+    "s": "Those surveyed had experienced chronicillnesses, for which orthodox medicine had been able to provide little relief."
+   },
+   {
+    "id": "I00441",
+    "src": "剑4",
+    "s": "Participants in this enterprise were supplied with bicycles, which they used to deliver parcels and messages, and which they were required to pay for gradually from their wages."
+   },
+   {
+    "id": "I00343",
+    "src": "剑4",
+    "s": "If you plot the amount of time a juvenile devotes to play each day over the course of its development, you discover a pattern typically associated with a ‘sensitive period’-a brief development window during which the brain can actually be modified in ways that are not possible earlier or later in life."
+   }
+  ]
+ },
+ {
+  "frame": "主句, according to [NP]（后置）",
+  "level": "A-v",
+  "status": "教材句首 According to 的后置变体",
+  "gloss": "据某人/某机构的说法或研究，主句内容成立。",
+  "members": [
+   "主句, according to [NP]（+同位语）"
+  ],
+  "batches": [
+   "006"
+  ],
+  "examples": [
+   {
+    "id": "I00239",
+    "src": "剑4",
+    "s": "The critically endangered languages are those that are only spoken by the elderly, according to Michael Krauss, director of the Alassk Native Language Center, in Fairbanks."
+   },
+   {
+    "id": "I00278",
+    "src": "剑4",
+    "s": "Australia has been unusual in the Western world in having a very conservative attitude to natural or alternative therapies, according to Dr Paul Laver, a lecturer in Public Health at the University of Sydney.‘We’ve had a tradition of doctors being fairly powerful and I guess they are pretty loath to allow any pretenders to their position to come into it.’ In many other industrialized countries, orthodox and alternative medicine have worked‘hand in glove’ for years."
+   }
+  ]
+ },
+ {
+  "frame": "more [X] [to/for/of NP] than [to/for/of NP]",
+  "level": "A-v",
+  "status": "比较省略家族的介词平行变体",
+  "gloss": "对/为 A 而言比 B 更……（比较级后介词短语的平行省略）",
+  "members": [
+   "more [X] [to/for/of NP] than [to/for/of NP]"
+  ],
+  "batches": [
+   "005"
+  ],
+  "examples": [
+   {
+    "id": "I00100",
+    "src": "剑4",
+    "s": "For example, vision is obviously more useful to species inhabiting clear open waters than to those living in turbid rivers and flooded plains."
+   },
+   {
+    "id": "I00107",
+    "src": "剑4",
+    "s": "Some of the more complicated sounds are clearly communicative, although what role they may play in the social life and ‘culture’ of cetaceans has been more the subject of wild speculation than of solid science."
+   }
+  ]
+ },
+ {
+  "frame": "[主句], thus [V-ing] [O]",
+  "level": "A-v",
+  "status": "评注分词变体",
+  "gloss": "……，从而/这样一来……（结果评注）",
+  "members": [
+   "[主句], thus [V-ing] [O]"
+  ],
+  "batches": [
+   "007"
+  ],
+  "examples": [
+   {
+    "id": "I00823",
+    "src": "剑9",
+    "s": "Perkin quickly grasped that his purple solution could be used to colour fabric, thus making it the world’s first synthetic dye."
+   },
+   {
+    "id": "I00833",
+    "src": "剑9",
+    "s": "Not to be outdone, England’s Queen Victoria also appeared in public wearing a mauve gown, thus making it all the rate in England as well."
+   }
+  ]
+ },
+ {
+  "frame": "[主句], pointing out that [S V]（言语动词分词评注）",
+  "level": "A-v",
+  "status": "'主句,V-ing'的言语动词变体",
+  "gloss": "陈述完一个事实后，用分词短语 pointing out that 补充'指出'的内容，避免再起一句。",
+  "members": [
+   "[主句], pointing out that [S V]（清单'主句, V-ing[A]'的新变体：言语动词分词作评注性状语）"
+  ],
+  "batches": [
+   "001"
+  ],
+  "examples": [
+   {
+    "id": "I02278",
+    "src": "剑14",
+    "s": "But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing out that over half the people in the world now live in cities."
+   },
+   {
+    "id": "I02285",
+    "src": "剑14",
+    "s": "Dr Jenny Gibson agrees, pointing out that although some of the steps in the puzzle of how and why play is important have been looked at, there is very little data on the impact it has on the child's later life."
+   },
+   {
+    "id": "I02373",
+    "src": "剑14",
+    "s": "Lucas also points out that 'the substance of HRM practices does not appear to be designed to foster constructive relations with employees or to represent a managerial approach that enables developing and drawing out the full potential of people, even though employees may be broadly satisfied with many aspects of their work5 (Lucas, 2002)."
+   }
+  ]
+ },
+ {
+  "frame": "when/while [V-ed (with/by NP)], [主句]",
+  "level": "A-v",
+  "status": "when/while V-ing 的 V-ed 省略变体",
+  "gloss": "当被……时/当与……相对照时，……",
+  "members": [
+   "when/while [V-ed (with/by NP)], [主句]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I01027",
+    "src": "剑9",
+    "s": "Children experiencing an auditory function deficit can often find speech and communication very difficult to isolate and process when set against high levels of background noise."
+   },
+   {
+    "id": "I01117",
+    "src": "剑9",
+    "s": "For example, when confronted with information streaming from the eyes, the brain will interpret this information in the quickest way possible."
+   }
+  ]
+ },
+ {
+  "frame": "[N] difficulty/difficulties in/with [V-ing/N]",
+  "level": "A-v",
+  "status": "have trouble 变体",
+  "gloss": "在……方面的困难",
+  "members": [
+   "[N] difficulty/difficulties in/with [V-ing/N]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I01010",
+    "src": "剑9",
+    "s": "Noise in classroom can only exacerbate their difficulty in comprehending and processing verbal communication with other children and instructions from the teacher."
+   },
+   {
+    "id": "I01024",
+    "src": "剑9",
+    "s": "The attention deficit disorders are indicative of neurological and genetic disorders and are characterized by difficulties with sustaining attention, effort and persistence, organization skills and disinhibition."
+   }
+  ]
+ },
+ {
+  "frame": "As well as [A], [主句]",
+  "level": "A-v",
+  "status": "as well as 句首递进（含插入式主谓陷阱）",
+  "gloss": "除了 A 之外，还……",
+  "members": [
+   "As well as [A], [主句]",
+   "[A], as well as [B], [V] / As well as [B], [主句]"
+  ],
+  "batches": [
+   "003",
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03017",
+    "src": "剑14",
+    "s": "As well as havi ng a supervisor, you'll each be assig ned a mentor."
+   },
+   {
+    "id": "I03155",
+    "src": "剑14",
+    "s": "As well as that, in every room there are booklets giving information about what the room was used for and the history of the objects and furn iture it contains."
+   },
+   {
+    "id": "I03364",
+    "src": "剑14",
+    "s": "Its performed by six singers, a dancer, and an orchestra that, as well as s9ndard orchestra I in strume nts, in eludes electric guitar, and a traditional Turkish st「in ged in strume nt."
+   },
+   {
+    "id": "I03404",
+    "src": "剑14",
+    "s": "Andrew: As well as a meal, you can have an MC, a Master of Ceremonies, wholl be with you throughout the party."
+   }
+  ]
+ },
+ {
+  "frame": "the/these [最高级] of (all) [复数N]",
+  "level": "A-v",
+  "status": "最高级 partitive",
+  "gloss": "所有……之中最……的（最高级后名词省略，of 引出整体范围）",
+  "members": [
+   "the/these [最高级] of (all) [复数N]"
+  ],
+  "batches": [
+   "008"
+  ],
+  "examples": [
+   {
+    "id": "I00866",
+    "src": "剑9",
+    "s": "The simple detection of a radio signal will be sufficient to answer this most basic of all the questions."
+   },
+   {
+    "id": "I00942",
+    "src": "剑9",
+    "s": "And finally they returned yet again to the land as tortoises, some of which now live in the driest of deserts."
+   },
+   {
+    "id": "I01064",
+    "src": "剑9",
+    "s": "Halley was aware that the AU was one of the most fundamental of all astronomical measurements."
+   }
+  ]
+ },
+ {
+  "frame": "[X] came to be seen/recognized as [Y]",
+  "level": "B",
+  "status": "弱",
+  "gloss": "X 逐渐被视为 Y（历时演变）",
+  "members": [
+   "[X] came to be seen/recognized as [Y]"
+  ],
+  "batches": [
+   "007"
+  ],
+  "examples": [
+   {
+    "id": "I00727",
+    "src": "剑4",
+    "s": "Like education, political and legal processes and institutions, public order, communication, transport and money supply, health-care came to be seen as one of the fundamental social facilities necessary for people to exercise their other rights as autonomous human beings."
+   },
+   {
+    "id": "I00745",
+    "src": "剑4",
+    "s": "Health-care came to be seen as a right at about the same time that the limits of health-care resources became evident."
+   }
+  ]
+ },
+ {
+  "frame": "[S] seem/appear to [V]",
+  "level": "B",
+  "status": "弱",
+  "gloss": "（据观察）似乎/看来……（认识情态缓和语）",
+  "members": [
+   "[S] seem/appear to [V / have V-ed]"
+  ],
+  "batches": [
+   "005"
+  ],
+  "examples": [
+   {
+    "id": "I00084",
+    "src": "剑4",
+    "s": "Baleen species, on the other hand, appear to have some related brain structures but it is not known whether these are functional."
+   },
+   {
+    "id": "I00101",
+    "src": "剑4",
+    "s": "The South American boutu and Chinese beiji, for instance, appear to have very limited vision, and the Indian susus are blind, their eyes reduced to slits that probably allow them to sense only the direction and intensity of light."
+   },
+   {
+    "id": "I00102",
+    "src": "剑4",
+    "s": "Although the senses of taste and smell appear to have deteriorated, and vision in water appears to be uncertain, such weaknesses are more than compensated for by cetaceans’ well-developed acoustic sense."
+   },
+   {
+    "id": "I03496",
+    "src": "剑14",
+    "s": "Atlit-Yam was a village on the coast of the eastern Mediterranean, which seems to have been thriving until around 7,000 BC."
+   }
+  ]
+ },
+ {
+  "frame": "The effects of [A] on [B]",
+  "level": "B",
+  "status": "弱",
+  "gloss": "",
+  "members": [
+   "The effects of [A] on [B]"
+  ],
+  "batches": [],
+  "examples": []
+ },
+ {
+  "frame": "[V] as easily [over A] as [over B]",
+  "level": "B",
+  "status": "as...as 平行变体",
+  "gloss": "在 A 上和在 B 上同样容易地……（同等程度对比，两介词短语平行）。",
+  "members": [
+   "[V] as easily [over A] as [over B]（as…as 副词平行比较）"
+  ],
+  "batches": [
+   "009"
+  ],
+  "examples": [
+   {
+    "id": "I01219",
+    "src": "剑9",
+    "s": "Arguments can start as easily over minor points of usage as over major policies of linguistic education."
+   },
+   {
+    "id": "I01499",
+    "src": "剑9",
+    "s": "As one writer observes: ‘Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.’ Such conviction was, until recently, reflected in museum displays."
+   }
+  ]
+ },
+ {
+  "frame": "One of the [复数名词] of/about [X] is that [S V]",
+  "level": "A-v",
+  "status": "教材'One of the 评价性复数NP'变体",
+  "gloss": "……的好处/有趣之处之一在于……：one of 短语作主语引出表语 that 从句",
+  "members": [
+   "One of the [复数名词] of/about [X] is that [S V]"
+  ],
+  "batches": [
+   "011"
+  ],
+  "examples": [
+   {
+    "id": "I01846",
+    "src": "剑9",
+    "s": "Now one of the benefits of this culture is that the organisation has the ability to act quickly, so it responds well to threat, or danger on the one hand, and opportunity on the other."
+   },
+   {
+    "id": "I01863",
+    "src": "剑9",
+    "s": "Now one of the major benefits of this culture is that it's flexible."
+   },
+   {
+    "id": "I01980",
+    "src": "剑9",
+    "s": "And one of the interesting things about this project is that the owners - both professionals but not architects - wanted to be closely involved, so they decided to manage the project themselves."
+   }
+  ]
+ },
+ {
+  "frame": "Not only [A] but (also) [B]",
+  "level": "dup",
+  "status": "书内已有",
+  "gloss": "不仅 A，而且 B（累加式关联结构）。",
+  "members": [
+   "not only [A] but (also) [B]"
+  ],
+  "batches": [
+   "009"
+  ],
+  "examples": [
+   {
+    "id": "I01428",
+    "src": "剑9",
+    "s": "One of Marie Curie’s outstanding achievements was to have understood the need to accumulate intense radioactive sources, not only to treat illness but also to maintain an abundant supply for research. …The existence in Pairs at the Radium Institute of a stock of 1.5 grams of radium made a decisive contribution to the success of the experiments undertaken in the years around 1930.This work prepared the way for the discovery of the neutron by Sir James Chadwick and, above all, for the discovery in 1934 by Irene and Frederic Joliot-Curie of artificial radioactivity."
+   },
+   {
+    "id": "I01431",
+    "src": "剑9",
+    "s": "Her contribution to physics had been immense, not only in her own work, the importance of which had been demonstrated by her two Nobel Prizes, but because of her influence on subsequent generations of nuclear physicists and chemists."
+   }
+  ]
+ },
+ {
+  "frame": "so [adj/adv] that [S V]",
+  "level": "dup",
+  "status": "书内已有",
+  "gloss": "如此……以至于（引出结果从句）",
+  "members": [
+   "so [adj/adv] that [S V]"
+  ],
+  "batches": [
+   "007"
+  ],
+  "examples": [
+   {
+    "id": "I00529",
+    "src": "剑4",
+    "s": "The eruption was so fierce that dust thrown into the stratosphere darkened the skies, cancelling the following summer in Europe and North America."
+   },
+   {
+    "id": "I00681",
+    "src": "剑4",
+    "s": "Anthropology is thus a broad discipline — so broad that it is generally broken down into three smaller disciplines: physical anthropology, cultural anthropology and archaeology."
+   },
+   {
+    "id": "I00820",
+    "src": "剑9",
+    "s": "Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it."
+   }
+  ]
+ },
+ {
+  "frame": "[X] be home to [Y]",
+  "level": "dup",
+  "status": "教材已有",
+  "gloss": "",
+  "members": [],
+  "batches": [],
+  "examples": []
+ },
+ {
+  "frame": "Born [时间/地点], [S] [V]（传记开头）",
+  "level": "A",
+  "status": "新",
+  "gloss": "出生于某年某地的某人后来如何——传记开头的过去分词悬垂结构。",
+  "members": [
+   "Born [in 时间/地点], [S] [V]"
+  ],
+  "batches": [
+   "009"
+  ],
+  "examples": [
+   {
+    "id": "I01312",
+    "src": "剑9",
+    "s": "Born in 1916 in Petoskey, Michigan, Shannon showed an early talent for maths and for building gadgets, and made breakthroughs in the foundations of computer technology when still a student."
+   },
+   {
+    "id": "I01396",
+    "src": "剑9",
+    "s": "Born Maria Sklodowska in Poland in 1867, she is famous for her work on radioactivity, and was twice a winner of the Nobel Prize."
+   }
+  ]
+ },
+ {
+  "frame": "The [N], [V-ed], was that [S V]（带分词插入的表语从句）",
+  "level": "A-v",
+  "status": "表语从句簇变体",
+  "gloss": "（调查中）某观点/误解是……（名词作主语 + 表语 that 从句，常夹分词插入语）",
+  "members": [
+   "The [N], [V-ed 分词插入], was that [S V]"
+  ],
+  "batches": [
+   "005"
+  ],
+  "examples": [
+   {
+    "id": "I00031",
+    "src": "剑4",
+    "s": "The dominant idea, raised by 64% of the pupils, was that rainforests provide animals with habitats."
+   },
+   {
+    "id": "I00038",
+    "src": "剑4",
+    "s": "One misconception, expressed by some 1) % of the pupils, was that acid rain is responsible for rainforest destruction; a similar proportion said that pollution is destroying rainforests."
+   },
+   {
+    "id": "I00049",
+    "src": "剑4",
+    "s": "One encouragement is that the results of similar studies about other environmental issues suggest that older children seem to acquire the ability to appreciate value and evaluate conflicting views."
+   }
+  ]
+ },
+ {
+  "frame": "The [adj] thing about [A] is (that) [S V]",
+  "level": "A-v",
+  "status": "表语从句+thing 族",
+  "gloss": "关于 A（最）……的一点在于……",
+  "members": [
+   "The [adj] thing about [A] is (that) [S V]"
+  ],
+  "batches": [
+   "004"
+  ],
+  "examples": [
+   {
+    "id": "I03435",
+    "src": "剑14",
+    "s": "And the best thing about this trip is that it's completely free."
+   },
+   {
+    "id": "I03470",
+    "src": "剑14",
+    "s": "One of the great things about words is that you use your imagination, but with a comic you don't have to."
+   }
+  ]
+ },
+ {
+  "frame": "This [suggests/implies] (that) [S V]（整句回指推论）",
+  "level": "A",
+  "status": "新",
+  "gloss": "句首 This 回指前面整句话（而非最近名词），后接评述动词引出推论或要求。",
+  "members": [
+   "This [suggests/implies/requires] (that) [S V]"
+  ],
+  "batches": [
+   "001"
+  ],
+  "examples": [
+   {
+    "id": "I02386",
+    "src": "剑14",
+    "s": "This suggests that there has been a dichotomy between the guest environment provided in luxury hotels and the working conditions of their employees・ It is therefore essential for hotel management to develop HRM practices that enable them to inspire and retain competent employees."
+   },
+   {
+    "id": "I02387",
+    "src": "剑14",
+    "s": "This requires an understanding of what motivates employees at different levels of management and different stages of their careers (Enz and Siguaw, 2000)."
+   },
+   {
+    "id": "I02388",
+    "src": "剑14",
+    "s": "This implies that it is beneficial for hotel managers to understand what practices are most favorable to increase employee satisfaction and retention."
+   }
+  ]
+ },
+ {
+  "frame": "[A] be on the increase/decline（趋势对冲）",
+  "level": "A",
+  "status": "新",
+  "gloss": "一方在增长/衰退，另一方呈相反趋势（常用于两地对冲对比）",
+  "members": [
+   "[A] (be) on the [increase/decline], [B] [be V-ing / be experiencing a resurgence] in [Y]"
+  ],
+  "batches": [
+   "012"
+  ],
+  "examples": [
+   {
+    "id": "I02143",
+    "src": "剑9",
+    "s": "Garden ponds are on the increase, rural ponds are disappearing, leading to massive migration to the towns."
+   },
+   {
+    "id": "I02146",
+    "src": "剑9",
+    "s": "On the decline in the countryside, they are experiencing a resurgence in urban gardens because these days gardeners are buying lots of different plants which means there's an extensive range of seeds around, which is what they feed on."
+   }
+  ]
+ },
+ {
+  "frame": "[A], as opposed to [B]",
+  "level": "A",
+  "status": "新",
+  "gloss": "（是）A，而不是 / 有别于 B",
+  "members": [
+   "[A], as opposed to [B]"
+  ],
+  "batches": [
+   "002"
+  ],
+  "examples": [
+   {
+    "id": "I02645",
+    "src": "剑14",
+    "s": "But why should we even care what people think intelligence is, as opposed only to valuing whatever it actually is?"
+   },
+   {
+    "id": "I02585",
+    "src": "剑14",
+    "s": "Many of them embrace it in terms of perception (embracing the idea of disorder, as opposed to fearing it) and in terms of process (putting mechanisms in place to reduce structure)."
+   }
+  ]
+ },
+ {
+  "frame": "Just as [S V], so too [S V]",
+  "level": "A",
+  "status": "新（so too 倒装）",
+  "gloss": "正如 A 一样，B 也……（so too 倒装回指）",
+  "members": [
+   "[Just as [S V],] [so too] [be/V] [S]"
+  ],
+  "batches": [
+   "007"
+  ],
+  "examples": [
+   {
+    "id": "I00694",
+    "src": "剑4",
+    "s": "In the broadest sense, just as archaeology is an aspect of anthropology, so too is it a part of history — where we mean the whole history of humankind from its beginnings over three million years ago."
+   },
+   {
+    "id": "I00705",
+    "src": "剑4",
+    "s": "The archaeologist has to develop a picture of the past, just as the scientist has to develop a coherent view of the natural world."
+   }
+  ]
+ },
+ {
+  "frame": "[N] in which [S V]",
+  "level": "A-v",
+  "status": "教材'名词+介词+which'变体",
+  "gloss": "……（发生/发展的）那个场所/领域（名词后介词+which 限制性关系从句）",
+  "members": [
+   "[N] in which [S V]"
+  ],
+  "batches": [
+   "005"
+  ],
+  "examples": [
+   {
+    "id": "I00050",
+    "src": "剑4",
+    "s": "Environmental education offers an arena in which these sills can be developed, which is essential fore these children as future decision –makers."
+   },
+   {
+    "id": "I00099",
+    "src": "剑4",
+    "s": "Such variation can no doubt be explained with reference to the habitats in which individual species have developed."
+   }
+  ]
+ },
+ {
+  "frame": "on the basis of [NP/wh-从句]",
+  "level": "B",
+  "status": "介词套语",
+  "gloss": "基于……来做某事",
+  "members": [
+   "[V] ... on the basis of [NP / wh-从句]"
+  ],
+  "batches": [
+   "002"
+  ],
+  "examples": [
+   {
+    "id": "I02651",
+    "src": "剑14",
+    "s": "Job interviewers will make hiring decisions on the basis of their implicit theories of intelligence."
+   },
+   {
+    "id": "I02652",
+    "src": "剑14",
+    "s": "People will decide who to be friends with on the basis of such theories."
+   },
+   {
+    "id": "I02685",
+    "src": "剑14",
+    "s": "People should only gain benefits on the basis of what they actually achieve."
+   }
+  ]
+ },
+ {
+  "frame": "end ([A]) by [V-ing]",
+  "level": "A-v",
+  "status": "start by V-ing 对应的收尾族",
+  "gloss": "以做……来收尾",
+  "members": [
+   "end ([A]) by [V-ing]"
+  ],
+  "batches": [
+   "003"
+  ],
+  "examples": [
+   {
+    "id": "I02918",
+    "src": "剑14",
+    "s": "Often, Rochman says? scientists will end a paper by speculating about the broader impacts of what they've found."
+   },
+   {
+    "id": "I03073",
+    "src": "剑14",
+    "s": "And 1 think we should end by talking about internationml implications."
+   }
+  ]
+ },
+ {
+  "frame": "the [抽象名词] that [S V]（同位语 that 从句）",
+  "level": "A",
+  "status": "新（that 误当关系代词陷阱）",
+  "gloss": "……这一估计/误解/说法（that 从句作同位语，说明前面的抽象名词内容）",
+  "members": [
+   "the [抽象名词: estimate/misconception/information/fact] that [S V]"
+  ],
+  "batches": [
+   "005"
+  ],
+  "examples": [
+   {
+    "id": "I00015",
+    "src": "剑4",
+    "s": "For example, one graphic illustration to which children might readily relate is the estimate that rainforests are being destroyed at a rate equivalent to one thousand football fields every forty minutes – about the duration of a normal classroom period."
+   },
+   {
+    "id": "I00040",
+    "src": "剑4",
+    "s": "While two fifths of the students provided the information that the rainforests provide oxygen, in some cases this response also embraced the misconception that rainforest destruction would reduce atmospheric oxygen, making the atmosphere incompatible with human life on Earth."
+   }
+  ]
+ },
+ {
+  "frame": "the effects of [A] on [B]",
+  "level": "B",
+  "status": "弱",
+  "gloss": "",
+  "members": [
+   "the effects of [A] on [B]"
+  ],
+  "batches": [],
+  "examples": [
+   {
+    "id": "I01012",
+    "src": "剑9",
+    "s": "The effects of noise on the ability of children to learn effectively in typical classroom environment are now the subjects of increasing concern."
+   },
+   {
+    "id": "I01030",
+    "src": "剑9",
+    "s": "In particular, the effects of noisy classrooms and activities on those experiencing disabilities in the form of auditory function deficit need thorough investigation."
+   }
+  ]
+ }
+]

@@ -1,0 +1,268 @@
+{
+  "frames": [
+    {
+      "frame": "主句/引语, says [NP]（+同位语/机构）",
+      "gloss": "某某说——转述动词 says 提前、说话人全名后置的引语框架。",
+      "pattern_notes": "引述倒装：says 位于引语或转述从句之后、说话人之前，形成\"谓语先于主语\"语序；说话人后常挂同位语（职业+机构）或 of 短语。没见过的学习者会把 says 误当名词或卡在读序上。区别于句尾弱式 he says，此为全名+头衔的重型变体，已有清单未含。",
+      "examples": [
+        {
+          "id": "I00234",
+          "src": "剑4",
+          "s": "Never before has the planet’s linguistic diversity shrunk at such a pace. ‘At the moment, we are heading for about three or four languages dominating the world,’ says Mark Pagel, an evolutionary biologist at the University of Reading. ‘It’s a mass extinction, and whether we will ever rebound from the loss is difficult to know.’ Isolation breeds linguistic diversity: as a result, the world is peppered with languages spoken by only a few people."
+        },
+        {
+          "id": "I00241",
+          "src": "剑4",
+          "s": "It begins with a crisis of confidence, when a small community finds itself alongside a larger, wealthier society, says Nicholas Ostler, of Britain’s Foundation for Endangered Languages, in Bath."
+        },
+        {
+          "id": "I00346",
+          "src": "剑4",
+          "s": "G ‘People have not paid enough attention to the amount of the brain activated by play,’ says Marc Bekoff from Colorado University."
+        },
+        {
+          "id": "I00323",
+          "src": "剑4",
+          "s": "Playful young animals use around two or three percent of their energy cavorting, and in children that figure can be closer to fifteen percent.‘Even two or three percent is huge,’ says John Byers of Idaho University. ‘You just don’t find animals wasting energy like that,’ he adds."
+        }
+      ]
+    },
+    {
+      "frame": "主句, according to [NP]（+同位语）",
+      "gloss": "据某人/某机构的说法或研究，主句内容成立。",
+      "pattern_notes": "已有框架 \"According to[NP], 主句\" 的后置新变体：according to 短语挂在主句句尾，NP 后再接同位语（头衔、职务）。学习者易把句尾 according to 读成悬空成分而失焦。",
+      "examples": [
+        {
+          "id": "I00239",
+          "src": "剑4",
+          "s": "The critically endangered languages are those that are only spoken by the elderly, according to Michael Krauss, director of the Alassk Native Language Center, in Fairbanks."
+        },
+        {
+          "id": "I00278",
+          "src": "剑4",
+          "s": "Australia has been unusual in the Western world in having a very conservative attitude to natural or alternative therapies, according to Dr Paul Laver, a lecturer in Public Health at the University of Sydney.‘We’ve had a tradition of doctors being fairly powerful and I guess they are pretty loath to allow any pretenders to their position to come into it.’ In many other industrialized countries, orthodox and alternative medicine have worked‘hand in glove’ for years."
+        }
+      ]
+    },
+    {
+      "frame": "not [A] but [B]",
+      "gloss": "不是A而是B（先否定再纠正的对比判断）。",
+      "pattern_notes": "纠正性对比：not 与 but 各接平行成分（表语、介词短语等），平行结构可扩展为 not to [A] but to [B]。与已有清单的 \"[A], but not[B]\"（先肯后否）语序相反，是另一方向。学习者易把 but 误读为普通转折而丢掉\"排除A\"之义。",
+      "examples": [
+        {
+          "id": "I00245",
+          "src": "剑4",
+          "s": "But Salikoko Mufwene, who chairs the Linguistics department at the University of Chicago, argues that the deadliest weapon is not government policy but economic globalization."
+        },
+        {
+          "id": "I00432",
+          "src": "剑4",
+          "s": "Typically, children do not end up on the streets due to a single cause, but to a combination of factors: a dearth of adequately funded schools, the demand for income at home, family breakdown and violence."
+        }
+      ]
+    },
+    {
+      "frame": "主句, where [S V]",
+      "gloss": "主句中某名词之后接非限定 where 从句，补充说明地点或情形。",
+      "pattern_notes": "已有框架 \"非限定性关系从句[A], who/which[B]\" 的 where 新变体：逗号 + where + 完整主谓，先行项多为地点名词（floor/program/writing systems），也可表条件情形。学习者易把 where 误当疑问词或状语从句。",
+      "examples": [
+        {
+          "id": "I00260",
+          "src": "剑4",
+          "s": "But a written form is essential for this, so the mere possibility of revival has led many speakers of endangered languages to develop systems of writing where none existed before."
+        },
+        {
+          "id": "I00453",
+          "src": "剑4",
+          "s": "• There are tremendous advantages to involving parents or guardians in the program, where such relationships exist."
+        },
+        {
+          "id": "I00519",
+          "src": "剑4",
+          "s": "The biggest eruptions are deep on the mid-ocean floor, where new lava is forcing the continents apart and widening the Atlantic by perhaps five centimeters a year."
+        }
+      ]
+    },
+    {
+      "frame": "主句, [介词/and] which [S V]",
+      "gloss": "which 前带介词（for/during）或并列连词 and 的非限定从句。",
+      "pattern_notes": "已有框架 \"前句, which[谓语]\" 的前置成分变体：which 之前出现介词或 and，构成 for which / during which / and which 链。学习者遇到 \"pay for... which... for\" 回指、\"bicycles, which..., and which...\" 双重并列时会读慢或断错句。",
+      "examples": [
+        {
+          "id": "I00291",
+          "src": "剑4",
+          "s": "Those surveyed had experienced chronicillnesses, for which orthodox medicine had been able to provide little relief."
+        },
+        {
+          "id": "I00441",
+          "src": "剑4",
+          "s": "Participants in this enterprise were supplied with bicycles, which they used to deliver parcels and messages, and which they were required to pay for gradually from their wages."
+        },
+        {
+          "id": "I00343",
+          "src": "剑4",
+          "s": "If you plot the amount of time a juvenile devotes to play each day over the course of its development, you discover a pattern typically associated with a ‘sensitive period’-a brief development window during which the brain can actually be modified in ways that are not possible earlier or later in life."
+        }
+      ]
+    },
+    {
+      "frame": "[量] attention has been paid to [X]",
+      "gloss": "（相对很少／甚至更少）注意力被投向某话题——学术语篇引出研究缺口的固定被动式。",
+      "pattern_notes": "骨架为被动套语 attention has been paid to，量级槽可换（relatively little → Even less 可递进）。整存整取有查表优势，是 pay attention to 的语篇级预制件而非单纯被动语态。注：本批两例为相邻递进句，同段落一个修辞动作，把握度略低于其余框架。",
+      "examples": [
+        {
+          "id": "I00428",
+          "src": "剑4",
+          "s": "Although small-scale business training and credit programs have become more common throughout the world, relatively little attention has been paid to the need to direct such opportunities to young people."
+        },
+        {
+          "id": "I00429",
+          "src": "剑4",
+          "s": "Even less attention has been paid to children living on the street or in difficult circumstance."
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "s": "Never before has the planet’s linguistic diversity shrunk at such a pace. ‘At the moment, we are heading for about three or four languages dominating the world,’ says Mark Pagel, an evolutionary biologist at the University of Reading. ‘It’s a mass extinction, and whether we will ever rebound from the loss is difficult to know.’ Isolation breeds linguistic diversity: as a result, the world is peppered with languages spoken by only a few people.",
+      "id": "I00234",
+      "note": "\"Never before has [S] V-ed\" 否定副词前置倒装，骨架强、误读风险高，但本批仅此一例，判据2（重复≥2句）不过。"
+    },
+    {
+      "s": "H Not only is more of the brain involved in play than was suspected, but it also seems to activate higher cognitive processes. ‘There’s enormous cognitive, involvement in play,’ says Bekoof.",
+      "id": "I00350",
+      "note": "\"Not only is [A]..., but [S] also...\" 是已有 not only...but also 的句首倒装新变体，仅1例；句内另含 \"than was suspected\" 主语省略比较。"
+    },
+    {
+      "s": "Play may look like a carefree and exuberant way to pass the time before the hard work of adulthood comes along, but there’s much more to it than that.",
+      "id": "I00319",
+      "note": "\"there's much more to [X] than that\"——X 的内涵不止于此，仅1例。"
+    },
+    {
+      "s": "B But if play is not simply a developmental hiccup, as biologists once thought, why did it evolve?",
+      "id": "I00324",
+      "note": "\"not simply [A], as [S] once thought\"——as 从句附在否定修正后，仅1例。"
+    },
+    {
+      "s": "Disenchantment with orthodox medicine has seen the popularity of alternative therapies in Australia climb steadily during the past 20 years.",
+      "id": "I00282",
+      "note": "\"[抽象NP] has seen [NP] [V]\" 经历者主语 see，仅1例，误读判据成立。"
+    },
+    {
+      "s": "There is mounting evidence that learning a language produces physiological changes in the brain. ‘Your brain and mine are different from the brain of someone who speaks French, for instance,’ Pagel says, and this could affect our thoughts and perceptions. ‘The patterns and connections we make among various concepts may be structured by the linguistic habits of our community.’ So despite linguists’ best efforts, many languages will disappear over the next century.",
+      "id": "I00250",
+      "note": "\"There is mounting evidence that [主句]\" 学术论据句式，仅1例。"
+    },
+    {
+      "s": "The most dramatic of these is the Pacific ‘ring of fire’ where there have been the most violent explosions — Mount Pinatubo near Manila, Mount St Helen’s in the Rockies and El Chichón in Mexico about a decade ago, not to mention world-shaking blasts like Krakatoa in the Sunda Straits in 1883.",
+      "id": "I00521",
+      "note": "\"not to mention [X]\" 递进补加，仅1例。"
+    },
+    {
+      "s": "That is because geological time is not like human time.",
+      "id": "I00522",
+      "note": "\"That is because [主句]\" 是已有\"指示回指 This/That is why\"的近亲变体，仅1例。"
+    },
+    {
+      "s": "Playfulness, it seems, is common only among mammals, although a few of the larger-brained birds also indulge.",
+      "id": "I00326",
+      "note": "主谓间插入语 \", it seems,\"，仅1例。"
+    },
+    {
+      "s": "But Mufwene says that preventing a language dying out is not the same as giving it new life by using it every day. ‘Preserving a language is more like preserving fruits in a jar,’ he says.",
+      "id": "I00257",
+      "note": "\"[V-ing A] is not the same as [V-ing B]\"，仅1例。"
+    },
+    {
+      "s": "Bekoff studied coyote pups at play and found that the kind of behavior involved was markedly more variable and unpredictable than that of adults.",
+      "id": "I00347",
+      "note": "\"more [A] than that of [NP]\" that 指代比较，仅1例。"
+    },
+    {
+      "s": "Part of the incentive was financial, Dr Laver said. ‘ The bottom line is that most general practitioners are business people.",
+      "id": "I00287",
+      "note": "\"The bottom line is that [主句]\" 归纳套语，仅1例。"
+    },
+    {
+      "s": "• It is critical for all loans to be linked to training programs that include the development of basic business and life skills.",
+      "id": "I00452",
+      "note": "\"It is [adj] for [NP] to [V]\" for 不定式外置变体（已有 It be adj to V 的带逻辑主语版），仅1例。"
+    },
+    {
+      "s": "Rather than resisting or criticizing this trend, increasing numbers of Australian doctors, particularly younger ones, are forming group practices with alternative therapists or taking courses themselves, particularly in acupuncture and herbalism.",
+      "id": "I00286",
+      "note": "句首 \"Rather than [V-ing], 主句\" 是已有 Instead of[V-ing] 框架的近义变体，仅1例。"
+    },
+    {
+      "s": "Alternative Medicine in Australia The first students to study alternative medicine at university level in Australia began their four-year, full-time course at the University of Technology Sydney, in early 1994.",
+      "id": "I00275",
+      "note": "\"the first [NP] to [V]\" 序数+不定式后置定语，仅1例。"
+    },
+    {
+      "s": "The flow, thought to be in the form of convection currents, is powerful enough to fracture the ‘eggshell’ of the crust into plates, and keep them bumping and grinding against each other, or even overlapping, at the rate of a few centimeters a year.",
+      "id": "I00504",
+      "note": "\"[NP], thought to be [X],\" 过去分词评注性插入，仅1例。"
+    },
+    {
+      "s": "The converse was also found to be true.",
+      "id": "I00340",
+      "note": "\"The converse is/was also true\" 反命题成立，仅1例。"
+    },
+    {
+      "s": "Half the world’s 6,800 languages are likely to vanish within two generations—that’s one language lost every ten days.",
+      "id": "I00233",
+      "note": "破折号后 \"that's [概括NP]\"（one language lost every ten days）指示回指概括，与 I00493 \"That is enough rock to...\" 同族共2例，但固定骨架薄（判据1拿不准）。"
+    },
+    {
+      "s": "But a closer inspection reveals this interpretation as too simplistic.",
+      "id": "I00335",
+      "note": "\"[V] [O] as [补语]\"（reveals this interpretation as too simplistic / I00499 consider the earth as having...）共2例，但更像动词配价、偏语法点，判据1拿不准。"
+    },
+    {
+      "s": "These fracture zones, where the collisions occur, are where earthquakes happen.",
+      "id": "I00505",
+      "note": "\"[These NPs] are where [S V]\" 表语 where 从句下定义，仅1例。"
+    },
+    {
+      "s": "Sometimes it is slow: vast bubbles of magma — molten rock from the mantle — inch lowards the surface, cooling slowly, to show through as granite extrusions(as on Skye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part of Hadrian’s Wall in northern England).",
+      "id": "I00509",
+      "note": "\"Sometimes [X]... Sometimes — [例] — [Y]\"（与 I00510 对举）跨句对举框架，本批仅此一对。"
+    },
+    {
+      "s": "The theory they learnt is based on the traditional Chinese explanation of this ancient healing art that it can regulate the flow of‘Qi’ or energy through pathways in the body.",
+      "id": "I00276",
+      "note": "\"the explanation of [X] that [主句]\" 名词后同位语 that 从句（I00328 \"explanation...has been that...\" 同族），偏语法点，判据1拿不准。"
+    },
+    {
+      "s": "It helps to think of a soft-boiled egg with a runny yolk, a firm but squishy white and a hard shell.",
+      "id": "I00500",
+      "note": "\"It helps to [V]\" 无人称建议句式，仅1例。"
+    },
+    {
+      "s": "Other researchers have found that play in cats, rats and mice is at its most intense just as this ‘window of opportunity’ reaches its peak.",
+      "id": "I00345",
+      "note": "\"is at its most [A]\" 介词短语最高级，仅1例。"
+    },
+    {
+      "s": "Quite often, governments try to kill off a minority language by banning its use in public or discouraging its use in schools, all to promote national unity.",
+      "id": "I00243",
+      "note": "句尾 \"all to [V]\" 总括目的状语，仅1例。"
+    },
+    {
+      "s": "Every eruption is different, but put at its simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350℃， will start to expand and rise.",
+      "id": "I00507",
+      "note": "\"put at its simplest\" 无主分词评注插入，仅1例。"
+    },
+    {
+      "s": "After about 300 hours of training they are generally sufficiently fluent to transmit the language to the next generation.",
+      "id": "I00256",
+      "note": "\"sufficiently [A] to [V]\" 是已有 \"[be A] enough to[V]\" 的变体，仅1例。"
+    },
+    {
+      "s": "Look at maps of volcanoes, earthquakes and island chains like the Philippines and Japan, and you can see the rough outlines of what are called tectonic plates — the plates which make up the earth’s crust and mantel.",
+      "id": "I00520",
+      "note": "\"[祈使句], and you can see [X]\" 祈使+and+you 结果句，仅1例。"
+    }
+  ]
+}

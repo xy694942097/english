@@ -1,0 +1,176 @@
+{
+ "frames": [
+  {
+   "frame": "as [S] [V]（非限定评注/方式从句，位置可移动）",
+   "gloss": "正如……（所知/所见/如你所知），对主句作整体评注而非原因或比较",
+   "pattern_notes": "as 引导的非限定从句，as 指代整个主句内容或表方式，可前置、后置或插入主谓之间；学习者极易误读为 because 引导的原因从句或 as...as 比较结构（如 facts as we know them 易断错）。固定骨架：as + 人称主语 + 感知/认知动词（know/see/be aware）。",
+   "examples": [
+    {
+     "id": "I01518",
+     "src": "剑9",
+     "s": "However, exhibits must be both based on artefacts and facts as we know them, and attractively presented."
+    },
+    {
+     "id": "I01718",
+     "src": "剑9",
+     "s": "Many toxins, as I'm sure you're aware, originate from plants, or animals."
+    },
+    {
+     "id": "I01793",
+     "src": "剑9",
+     "s": "As you can see, there's a lake in the north west of the park, with a bird hide to the west of it, at the end of a path."
+    },
+    {
+     "id": "I01799",
+     "src": "剑9",
+     "s": "As you know, I've asked you here today to discuss the future of our Self-Access Centre."
+    }
+   ]
+  },
+  {
+   "frame": "what [S] [call/know as] → what are known as / what we call [X]",
+   "gloss": "所谓的……／我们称之为……的东西",
+   "pattern_notes": "what 引导的名词性自由关系从句，整体作介词宾语或表语，内部嵌 'call/know O as X' 的 as 补足结构；'what are known as' 中 what 表单数概念却接 are，学习者易误判主谓一致或误当疑问句。为已收录 'be known/regarded as' 的自由关系从句变体。",
+   "examples": [
+    {
+     "id": "I01709",
+     "src": "剑9",
+     "s": "Well, with some of you about to go out on field work it's timely that in this afternoon's session I'll be sharing some ideas about the reasons why groups of whales and dolphins sometimes swim ashore from the sea right onto the beach and, most often, die in what are known as 'mass strandings'."
+    },
+    {
+     "id": "I01754",
+     "src": "剑9",
+     "s": "These are both what we call simple rooms."
+    }
+   ]
+  },
+  {
+   "frame": "one thing [定语从句] be [NP/that从句]",
+   "gloss": "（我们注意到的/帮到我的）一件事是……",
+   "pattern_notes": "'one thing' 后紧跟零关系词或 that 定语从句，再用 is/was 引出表语（名词或 that 从句）；两个从句叠置，口语中无标点，学习者易把定语从句的谓语误当主句谓语。属假分裂家族（清单已有 'What S V is B'）但以 one thing 为固定锚点，整存整取。",
+   "examples": [
+    {
+     "id": "I01804",
+     "src": "剑9",
+     "s": "PAM: Well yes, the teachers agree that it is a very valuable resource but one thing we have noticed is that a lot of the students are using it to check their personal emails."
+    },
+    {
+     "id": "I01688",
+     "src": "剑9",
+     "s": "HIROKO: I think that one thing that helped me with this was the reading."
+    }
+   ]
+  },
+  {
+   "frame": "[The] [抽象N] is that [S V]",
+   "gloss": "（简单的）事实／（日益增长的）担忧是……",
+   "pattern_notes": "抽象名词（fact/concern/worry 等）作主语 + is + that 表语从句，学术与讲座语篇中用于亮出论点；为已收录 'The [N], [V-ed], was that [S V]' 去掉分词插入的基础变体。学习者易在长主语后丢失 that 从句的归属。",
+   "examples": [
+    {
+     "id": "I01527",
+     "src": "剑9",
+     "s": "The simple fact is that not everything from history survives the historical process."
+    },
+    {
+     "id": "I01725",
+     "src": "剑9",
+     "s": "growing concern is that loud noises in the ocean cause strandings."
+    }
+   ]
+  },
+  {
+   "frame": "Can/Could I (just) ask [NP / wh-陈述语序从句]?",
+   "gloss": "（礼貌地）请问……／能否问一下……",
+   "pattern_notes": "服务/登记类听力场景（Part 1 填表对话）中索取信息的固定套语：情态动词 + ask 直接接名词短语（ask your date of birth，ask 带单宾语表'询问'，易被误读为'要求'）或 wh-陈述语序从句。与已收录 'could you tell me wh-陈述语序' 为平行姊妹框架，不收重复但此 ask 版独立成帧。",
+   "examples": [
+    {
+     "id": "I01638",
+     "src": "剑9",
+     "s": "Could I just also ask what qualities you're looking for?"
+    },
+    {
+     "id": "I01743",
+     "src": "剑9",
+     "s": "MAN: Thanks, and could I ask your date of birth?"
+    },
+    {
+     "id": "I01758",
+     "src": "剑9",
+     "s": "Now can I ask some other personal details which we like to have on record?"
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "s": "Such presentations tell us more about contemporary perceptions of the world than about our ancestors.",
+   "id": "I01523",
+   "note": "'tell us more about [A] than about [B]' 骨架与误读判据都好，但自然语篇中仅此 1 例（I01544 选项句 'reveal more about present beliefs than about the past' 属题目模板，不计）。"
+  },
+  {
+   "s": "And no matter how exciting the result, it would contain a lot more bias than the presentations provided by experts.",
+   "id": "I01525",
+   "note": "no matter how + adj + 主语（动词省略）让步结构，仅 1 例。"
+  },
+  {
+   "s": "No wonder that people who stroll around exhibitions are filled with nostalgia; the evidence in museums indicates that life was so much better in the past.",
+   "id": "I01533",
+   "note": "No wonder (that) [S V] 难怪……，整存整取价值高，仅 1 例。"
+  },
+  {
+   "s": "MAN: That wouldn't be a problem, if I were to get the job.",
+   "id": "I01629",
+   "note": "if [S] were to [V] 假设语气（regex 盲区提示词），仅 1 例。"
+  },
+  {
+   "s": "I'm ringing about the job I understand you have vacant.",
+   "id": "I01620",
+   "note": "关系从句内部插入报道语 'I understand'（the job [I understand] you have vacant），误读风险高，仅 1 例。"
+  },
+  {
+   "s": "HIROKO: Well, to speak frankly, I read my notes too!",
+   "id": "I01676",
+   "note": "to speak frankly 评注不定式句首插入，仅 1 例。"
+  },
+  {
+   "s": "HIROKO: Yes, but psychologically speaking, I would have felt much better working on reading from my own field.",
+   "id": "I01705",
+   "note": "副词 + speaking 评注性状语（psychologically speaking），仅 1 例。"
+  },
+  {
+   "s": "PAM: It's not so much the expense that I'm worried about, and we've certainly got room to do it, but it's the problem of timetabling a teacher to be in there outside class hours.",
+   "id": "I01815",
+   "note": "It's not so much [A] (that...) but (it's) [B] 取舍强调结构，骨架清晰，仅 1 例。"
+  },
+  {
+   "s": "For one, all the stranded animals were healthy.",
+   "id": "I01730",
+   "note": "'For one, ...' 列举标记，为已收录 'For one thing For another' 的缩略变体，仅 1 例。"
+  },
+  {
+   "s": "What I'll do is fill in a form with you to find out a little more about your preferences and so forth.",
+   "id": "I01740",
+   "note": "'What I'll do is [V原形]' 口语假分裂（What S V is B 的新变体），话语管理功能强，仅 1 例。"
+  },
+  {
+   "s": "But recently, I've been trying to speak up more and I just jump in, and I've noticed an interesting thing, I've noticed that if they thought my point was interesting or new, then the next time they actually asked for my opinion, and then it was much easier for me to be part of the discussion.",
+   "id": "I01686",
+   "note": "'the next time [S V]' 名词短语直接作时间连词，为已收录 'the minute/second A B' 的变体，仅 1 例。"
+  },
+  {
+   "s": "My reading speed is still quite slow, though I'm much better at dealing with vocabulary than I used to be.",
+   "id": "I01695",
+   "note": "than [S] used to (be) 与过去比较，仅 1 例。"
+  },
+  {
+   "s": "In a town like Leyden in Holland, which in the seventeenth century was occupied by approximately the same number of inhabitants as today, people lived within the walled town, an area more than five times smaller than modern Leyden.",
+   "id": "I01530",
+   "note": "'[数字] times smaller than' 倍数 + 比较级 + than，为已收录 'times as adj as' 的变体，仅 1 例。"
+  },
+  {
+   "s": "MAN: I wonder if you could let us know what your interests are.",
+   "id": "I01759",
+   "note": "I wonder if you could [V] 礼貌请求套语，仅 1 例。"
+  }
+ ]
+}

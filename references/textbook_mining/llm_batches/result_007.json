@@ -1,0 +1,275 @@
+{
+  "frames": [
+    {
+      "frame": "[S] have/get [O] [V-ed]",
+      "gloss": "让/请人把某事做完（使役被动：主语不是动作执行者）",
+      "pattern_notes": "have/get + 宾语 + 过去分词，分词与宾语是被动关系，执行者不出现。学习者易把 had...built 拆成两个动作或误判主语是执行者。get 版与已收录的 get+过去分词（系被动）不同：这里 get 带宾语，是使役构式。",
+      "examples": [
+        {
+          "id": "S05531",
+          "src": "必修第二册·Unit 4",
+          "s": "They had castles built all around England, and made changes to the legal system."
+        },
+        {
+          "id": "S06938",
+          "src": "选择性必修第二册·Unit 3",
+          "s": "We’ll need ten months at least to have the restaurant decorated."
+        },
+        {
+          "id": "S01734",
+          "src": "选择性必修第三册·Unit 5",
+          "s": "The Florence Cathedral first decided to have the statue made in 1464 to stand on its roof, along with statues of other heroes from the Bible."
+        },
+        {
+          "id": "S01540",
+          "src": "必修第二册·Unit 4",
+          "s": "Judy and I had our car parked in an underground car park near Trafalgar Square, where we could get our car battery charged."
+        }
+      ]
+    },
+    {
+      "frame": "[S] was/were [V-ing] ... when [突发分句]",
+      "gloss": "正在做某事，这时突然……",
+      "pattern_notes": "进行体主句在前，when 分句在后表突发事件；when 不是“当……时”的从属时间状语，而接近 and then。语序固定不可调换，学习者按常规 when 从句读会读反因果。",
+      "examples": [
+        {
+          "id": "S05294",
+          "src": "选择性必修第二册·Unit 5",
+          "s": "Peter was walking over to help the boy, when he heard a man shouting “Stop!"
+        },
+        {
+          "id": "S04096",
+          "src": "必修第一册·Unit 4",
+          "s": "“I was having breakfast with my three children when water started filling my home."
+        }
+      ]
+    },
+    {
+      "frame": "one of the + (最高级/形容词) + [复数N]",
+      "gloss": "最……的……之一",
+      "pattern_notes": "固定三块：one of the + 最高级或评价性形容词 + 复数名词；后接关系从句时从句修饰复数名词而非 one（who ever lived 修饰 men）。学习者易在从句归属和主谓一致上读错。",
+      "examples": [
+        {
+          "id": "S05534",
+          "src": "必修第一册·Unit 5",
+          "s": "One of the most popular sports of the Winter Olympic Games is skiing."
+        },
+        {
+          "id": "S00535",
+          "src": "选择性必修第一册·Unit 1",
+          "s": "Introduce someone you admire THE MAN WHO CHANGED OUR UNDERSTANDING OF THE UNIVERSE Albert Einstein, who is perhaps the greatest scientist in modern physics, is often considered one of the smartest men who ever lived."
+        },
+        {
+          "id": "J05464",
+          "src": "初中·英语八年级下册",
+          "s": "Did you know that China is one of the oldest countries in the world?"
+        },
+        {
+          "id": "S05204",
+          "src": "选择性必修第二册·Unit 1",
+          "s": "Maria: This mix of theory and data is one of the key characteristics of what we call science."
+        }
+      ]
+    },
+    {
+      "frame": "[V] + 疑问词 + to do",
+      "gloss": "（知道/告诉某人）怎么做……",
+      "pattern_notes": "know/tell/understand 等后接 wh-词 + 不定式，作宾语，语序固定为疑问词紧贴 to do，不倒装。与宾语从句（how I can do）竞争，学习者易混用语序或误加主语。S01947 一句内三连 when to do 是典型排比用法。",
+      "examples": [
+        {
+          "id": "S00118",
+          "src": "选择性必修第二册·Unit 1",
+          "s": "Fortunately, we now know how to prevent cholera, thanks to the work of John Snow."
+        },
+        {
+          "id": "S01947",
+          "src": "选择性必修第一册·Unit 4",
+          "s": "Their body language lets me know when to adjust class activities, when to intervene, and when to talk to students individually, so they can all get the most out of school."
+        },
+        {
+          "id": "J02869",
+          "src": "初中·英语九年级全册",
+          "s": "Girl: Oh, could you tell me how to get to Center Street?"
+        }
+      ]
+    },
+    {
+      "frame": "What [分句] is/was [补足成分]",
+      "gloss": "……的（东西/事情）就是……（假拟分裂句）",
+      "pattern_notes": "What 引导主语从句提前，谓语 is 后接真正焦点（名词、the fact that...、不定式）。学习者常把 What 当疑问词或期待从句后有问号，读长句时找不到主句谓语。S07006 原文后接练习指令，引语部分本身是自然口语。",
+      "examples": [
+        {
+          "id": "S01859",
+          "src": "选择性必修第一册·Unit 5",
+          "s": "What keeps them from doing so is the fact that chemical farming serves the high demand for food around the world."
+        },
+        {
+          "id": "S07006",
+          "src": "必修第二册·Unit 3",
+          "s": "” “What we try to do here is to develop some self-regulation skills in young people so they understand when to , when to , …” AFTER YOU WATCH Discuss the questions in groups."
+        }
+      ]
+    },
+    {
+      "frame": "[keep/prevent/discourage 类动词] + [O] + from [V-ing]",
+      "gloss": "阻止/使某人不做某事",
+      "pattern_notes": "动词族共用 from + 动名词槽位，from 表“离开/不做”；keep...from doing so 中 so 回指整件事，易误读为 from 介词短语残缺。 discourage/keep 两例动词不同、骨架相同。",
+      "examples": [
+        {
+          "id": "S07068",
+          "src": "选择性必修第二册·Unit 1",
+          "s": "Nevertheless, Qian did not let that discourage him from taking on the challenge."
+        },
+        {
+          "id": "S01859",
+          "src": "选择性必修第一册·Unit 5",
+          "s": "What keeps them from doing so is the fact that chemical farming serves the high demand for food around the world."
+        }
+      ]
+    },
+    {
+      "frame": "be considered/thought + [补语]（无 as）",
+      "gloss": "被认为是……",
+      "pattern_notes": "与已收录 be known/regarded as 同族，但补语前无 as（或带 to be），补语可以很长（one of the smartest men who ever lived），学习者易在长补语中迷失句界。属已收录框架的新变体，单列以保留零标记形式。",
+      "examples": [
+        {
+          "id": "S00535",
+          "src": "选择性必修第一册·Unit 1",
+          "s": "Introduce someone you admire THE MAN WHO CHANGED OUR UNDERSTANDING OF THE UNIVERSE Albert Einstein, who is perhaps the greatest scientist in modern physics, is often considered one of the smartest men who ever lived."
+        },
+        {
+          "id": "S04356",
+          "src": "必修第二册·Unit 5",
+          "s": "However, unlike most classical music, they have never been considered high art."
+        },
+        {
+          "id": "S00363",
+          "src": "必修第二册·Unit 5",
+          "s": "Music in the Period is usually considered to be more expressive and emotional."
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "note": "now that 表“既然”的因果连词，单例；易误读为时间义 now+that 从句。句内有填空残缺，语域为引语。",
+      "example": {
+        "id": "S00015",
+        "src": "选择性必修第三册·Unit 3",
+        "s": "“We can all breathe more freely now that the natural beauty of our village has been ,” said Qi."
+      }
+    },
+    {
+      "note": "have no idea (that) + 分句，that 常省略，后接完整句；单例且所在句残缺（sounded 后缺成分），语域拿不准。",
+      "example": {
+        "id": "S06839",
+        "src": "必修第二册·Unit 4",
+        "s": "Xiao Yan sounded I had no idea there would be so many tourists."
+      }
+    },
+    {
+      "note": "in the sense of + V-ing/N，“在……意义上”，界定词义的固定介词框架；单例，误读点在于 sense 不作“感觉”解。",
+      "example": {
+        "id": "S06277",
+        "src": "选择性必修第二册·Unit 5",
+        "s": "The term “slow food” was chosen to set it apart from “fast food”, but it really is not “slow” in the sense of eating or cooking food slowly."
+      }
+    },
+    {
+      "note": "nowhere near + adj/V-ing，“远不、根本没”，否定极性习语；单例且句尾残缺。没见过极易读反（按字面“附近没有”）。",
+      "example": {
+        "id": "S02747",
+        "src": "选择性必修第一册·Unit 5",
+        "s": "• Organic farming is nowhere near able to meet the high."
+      }
+    },
+    {
+      "note": "Fingers crossed (that) + 分句，祈愿习语，主语缺失的固定表达式；单例，语域为课文原句但无法验证重复。",
+      "example": {
+        "id": "S03727",
+        "src": "选择性必修第一册·Unit 5",
+        "s": "Fingers crossed that there will be good weather!"
+      }
+    },
+    {
+      "note": "make sure (that) + 分句（从句用一般现在时指将来）；2 例，但 S07278 是要点指令，语域判据拿不准，故入候选。",
+      "example": {
+        "id": "J02968",
+        "src": "初中·英语九年级全册",
+        "s": "Mom: Well, I just want to make sure you get something nice."
+      }
+    },
+    {
+      "note": "the same [N] as ... 固定配对；完整例仅 1 句（S03233 只有 the same result 无 as），误读点为 same 后搭配 as 而非 that/which。",
+      "example": {
+        "id": "J03789",
+        "src": "初中·英语八年级上册",
+        "s": "There will be jobs for people because robots will do the same jobs as people."
+      }
+    },
+    {
+      "note": "later that + 时间词（night/afternoon），叙事推进时间公式，2 例；骨架固定但误读风险低，拿不准误读判据。",
+      "example": {
+        "id": "S01653",
+        "src": "必修第一册·Unit 4",
+        "s": "People were in shock— and then, later that afternoon, another big quake shook Tangshan again."
+      }
+    },
+    {
+      "note": "疑问词 + does [S] say + 陈述语序：已收录“疑问词+do you think”家族的 say 变体，单例（S07072/S03133 均为 think 原框架）。",
+      "example": {
+        "id": "S06486",
+        "src": "必修第一册·Unit 3",
+        "s": "Many people in China and the US love Coach Lang."
+      }
+    },
+    {
+      "note": "the reason is that...：已收录 the reason(s) why 的变体（is + that 表语从句），单例。",
+      "example": {
+        "id": "S00579",
+        "src": "选择性必修第三册·Unit 5",
+        "s": "The reason is that they can feel the warmth of love and enjoy the innocence of childhood."
+      }
+    },
+    {
+      "note": "adj + enough + to do（careless enough to leave），与已收录 too...to 同族反向；单例且后半句残缺。",
+      "example": {
+        "id": "S00661",
+        "src": "选择性必修第四册·Unit 2",
+        "s": "The husband was careless enough to leave the car lights on overnight, and in the morning his wife couldn’t get."
+      }
+    },
+    {
+      "note": "everywhere/wherever + 主谓（everywhere you go）+ 主句，地点全称引出恒常结论；单例，与 no matter wh- 家族相邻但无让步义。",
+      "example": {
+        "id": "S04862",
+        "src": "必修第二册·Unit 4",
+        "s": "Almost everywhere you go in the UK, you will be surrounded by evidence of four different groups of people who took over at different times throughout history."
+      }
+    },
+    {
+      "note": "There seemed to be + N：存在句嵌套 seem，两层谓语叠合；单例，误读点中等。",
+      "example": {
+        "id": "S06565",
+        "src": "必修第三册·Unit 1",
+        "s": "Joe: Yes, well, there seemed to be a lot of them in my area!"
+      }
+    },
+    {
+      "note": "what we call + [名称]，引称构式（“我们称之为……的”）；单例，what 不作疑问词易误读。",
+      "example": {
+        "id": "S05204",
+        "src": "选择性必修第二册·Unit 1",
+        "s": "Maria: This mix of theory and data is one of the key characteristics of what we call science."
+      }
+    },
+    {
+      "note": "not just + N（= not only，不带 but also 的单用形式）；单例，与已收录 not only...but also 的关系拿不准。",
+      "example": {
+        "id": "S08286",
+        "src": "必修第一册·Unit 5",
+        "s": "The Winter Olympic Games are not just an opportunity for athletes to win medals and honour for their countries."
+      }
+    }
+  ]
+}

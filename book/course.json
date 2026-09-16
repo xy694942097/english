@@ -4,7 +4,7 @@
   "featured": {
     "label": "从你拆过的句子开始",
     "sample": "a plan more ambitious than anyone had thought feasible",
-    "question": "比任何人认为可行的还更雄心勃勃——这句话的骨架是什么？从框架入手，比语法规则高一层。"
+    "question": "比任何人认为可行的还更雄心勃勃——这句话的骨架是什么？从句式骨架入手，比语法规则高一层。"
   },
   "topics": [
     {
@@ -100,44 +100,68 @@
     },
     {
       "id": "frames",
-      "title": "句式框架",
+      "title": "句式骨架",
       "question": "同一类意思，母语者用的固定骨架是什么？",
       "lessons": [
         {
           "path": "book/08-frames/00-guide.md",
-          "title": "什么是框架：比语法分析高一层",
-          "focus": "框架的定义、四步学习法与六大家族索引；诊断句已登记。",
+          "title": "什么是句式骨架：比语法分析高一层",
+          "focus": "句式骨架的定义、四步学习法与六大家族索引；诊断句已登记。",
           "level": "方法"
         },
         {
           "path": "book/08-frames/08-frames-collection.md",
           "title": "总集：六大家族与教材回收（单篇通读版）",
-          "focus": "A-F 六家族 31 框架 + 教材回收 9 框架的单篇合集，适合通读与打印；分章学习仍用独立章。",
+          "focus": "A-F 六家族 31 句式骨架 + 教材回收 9 句式骨架的单篇合集，适合通读与打印；分章学习仍用独立章。",
           "level": "通读"
         },
         {
           "path": "book/08-frames/07-school-recall.md",
-          "title": "教材回收：初高中句式框架",
-          "focus": "从课标语法项目回收7个框架：not only…but also、so/such…that、too…to、either/or、the more…the more、no sooner…than、would rather…than。",
-          "level": "回收"
-        },
-        {
-          "path": "book/08-frames/10-junior-recall.md",
-          "title": "教材回收：初中篇",
-          "focus": "从人教版初中五册全文扫出9个框架（so…that、too…to、used to、by the time、get+过去分词、感叹句等），例句全部取自教材原文。",
-          "level": "回收"
-        },
-        {
-          "path": "book/08-frames/11-senior-recall.md",
-          "title": "教材回收：高中篇",
-          "focus": "从人教 2019 高中教材句库扫出11个框架（It is V-ed that、as if、句首分词状语、no matter、when it comes to、what if等），例句带册别出处。",
+          "title": "教材回收：初高中句式骨架",
+          "focus": "初中五册+高中人教句库扫描与课标项目回收的合成章：23个句式骨架（so…that、too…to、used to、by the time、It is V-ed that、as if、句首分词状语、what if等），例句带册别出处。",
           "level": "回收"
         },
         {
           "path": "book/08-frames/09-exam-recall.md",
-          "title": "真题回收：四六级考研句式框架",
-          "focus": "从9份真题文本挖取7个框架（as long as/rather than/end up/turns out/when it comes to/likely to/even if），每条附真题原句与出处",
+          "title": "真题回收：四六级考研句式骨架",
+          "focus": "从9份真题文本挖取7个句式骨架（as long as/rather than/end up/turns out/when it comes to/likely to/even if），每条附真题原句与出处",
           "level": "回收"
+        },
+        {
+          "path": "book/08-frames/12-readthrough-recall.md",
+          "title": "教材回收：通读篇",
+          "focus": "LLM逐句通读挖出的12个无钩子词结构型句式骨架（one of the最高级、What假拟分裂、have O V-ed使役、which回指整句、was doing when等）。",
+          "level": "回收"
+        },
+        {
+          "path": "book/08-frames/13-cet4-readthrough.md",
+          "title": "真题通读：四级篇",
+          "focus": "29个句式骨架+短语档：09-18按定版标准返工（旧批砍语法层6条，重挖取最硬5条），09-21复审把存档候选全部裁决入章——anything but、Gone are the days、at best贬抑让步、While we know…less clear研究缺口、By all means…but、Who says反问、just because doesn't mean、Goldilocks定界等，各带语域频次标签，例句逐字出真题。",
+          "level": "通读"
+        },
+        {
+          "path": "book/08-frames/14-cet6-readthrough.md",
+          "title": "真题通读：六级篇",
+          "focus": "六级48份真题（2016-2026）逐句通读出的66个句式骨架：evidence that、compared with句尾对照、Of前置分母、双破折号插入、the way S V、find oneself、It's simply not true that、The problem isn't A but that、anything but、Nowhere is this more、However [Adj]让步、were to虚拟、Thus was born、known as命名同位、as are/so does倒装回指族等，另附短语档15条。",
+          "level": "通读"
+        },
+        {
+          "path": "book/08-frames/15-kaoyan-readthrough.md",
+          "title": "真题通读：考研篇",
+          "focus": "考研真题+精翻（2005-2025）逐句通读出的60个句式骨架：助动词独用承接、whether that be、is where、To V is to V、As so often、There is no reason why cannot、never to、In this as in much else、not enough to say、Never mind…祈使、succeeding where…failing、born V-ing、hence 无动词句、It's not as if、It is a [adj] N that 反语、being what it is、has it that、to hear sb tell it、can't afford not to、wonder if aren't、[A], not [B]、It is all very well…but 等议论文骨架，另附短语档10条。",
+          "level": "通读"
+        },
+        {
+          "path": "book/08-frames/16-oral-dialogue-actions.md",
+          "title": "小说通读：口语对话动作",
+          "focus": "《Normal People》全书通读出的23个口语对话句式骨架：It's not like撇清、Not that预防性找补、How was I supposed to know脱责反问、not really软化回声、These things happen淡然收束、if that's okay软性离场等，教材零覆盖的对话攻防动作。",
+          "level": "通读"
+        },
+        {
+          "path": "book/08-frames/17-narrative-cognition-actions.md",
+          "title": "小说通读：叙事与认知动作",
+          "focus": "《Normal People》全书通读出的18个叙事句式骨架：only to意外反转、Later would回望、Before even抢先时轴、without ever全程归零、To his relief情绪注脚、the closest贴线丈量、just enough分寸拿撜等，讲故事的发动机。",
+          "level": "通读"
         }
       ]
     },

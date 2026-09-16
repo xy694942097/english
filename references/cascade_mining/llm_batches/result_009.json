@@ -1,0 +1,189 @@
+{
+ "frames": [
+  {
+   "frame": "Imagine [V-ing]/[if 从句]：[场景]",
+   "gloss": "让读者设想一个具体场景或反事实情形，为后文翻转或论证铺垫",
+   "notes": "语篇立景后常接But/should翻转",
+   "examples": [
+    {
+     "id": "cet6-2023-06_03-2072",
+     "text": "Imagine sitting down to a big dinner: a massive steak, a large portion of fried potatoes, and cake for dessert."
+    },
+    {
+     "id": "cet6-2022-06_02-1947",
+     "text": "One cannot assume communication expertise-imagine if someone just decided that they were a physicist and started trying to contribute to the field without the necessary background."
+    }
+   ]
+  },
+  {
+   "frame": "[NP], known as [名]",
+   "gloss": "长名词短语后置补一个通用叫法，即命名同位语",
+   "notes": "known as 回指前面整个长NP，易错挂",
+   "examples": [
+    {
+     "id": "cet6-2023-06_01-2030",
+     "text": "Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics."
+    },
+    {
+     "id": "cet6-2023-06_01-2031",
+     "text": "Others support an immersive approach (using pictures of a cat to learn the word cat), known as “whole language”."
+    }
+   ],
+   "related": "what we call / what are known as [X]"
+  },
+  {
+   "frame": "[S] double down (on [N])",
+   "gloss": "遭挫或被质疑后不退反进，加码死守原立场",
+   "notes": "赌注加倍引申义，非字面击打",
+   "examples": [
+    {
+     "id": "cet6-2021-12_03-1851",
+     "text": "When confronted with an uncomfortable set of facts, the tendency is often to double down on their current position rather than publicly admit to being wrong."
+    },
+    {
+     "id": "cet6-2023-06_03-2092",
+     "text": "They revisit these archives constantly, thinking, as Pryor puts it, “I need to make myself feel terrible so I don’t do this again.” Then they double down, “raising the expectation bar even higher, which increases the likelihood of defeat, which makes you self-critical, so you raise the bar higher, work even harder,” she says."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "Perhaps it is not [X], but [Y], that [V]",
+   "gloss": "用分裂强调句做「不是A而是B」的委婉纠偏",
+   "notes": "强调句+先否后纠叠加",
+   "examples": [
+    {
+     "id": "cet6-2021-12_03-1834",
+     "text": "J) Perhaps it is not difference, but di stance, that breeds tribalism and hostility."
+    }
+   ],
+   "related": "It was [X] that …"
+  },
+  {
+   "frame": "So much so that [S V]",
+   "gloss": "承接前句：程度深到以至于产生后述结果",
+   "notes": "独立承接前句，that从句为度",
+   "examples": [
+    {
+     "id": "cet6-2023-06_01-2026",
+     "text": "So much so that some teachers have had to sneak phonics teaching materials into the classroom."
+    }
+   ],
+   "related": "so [Adj] that [S] / such [N] that [S]"
+  },
+  {
+   "frame": "It could be that [S V]",
+   "gloss": "提出一种可能的解释（未必是结论）",
+   "notes": "情态推想，别读成确定判断",
+   "examples": [
+    {
+     "id": "cet6-2023-06_02-2050",
+     "text": "It could be that our raw intelligence gave us an unprecedented ability to think outside the box, innovating solutions to thorny problems as people migrated across the globe."
+    }
+   ]
+  },
+  {
+   "frame": "[The] next time [S V], [you might V]",
+   "gloss": "「下次再遇到X时，你不妨Y」——以时间从句收尾劝告",
+   "notes": "next time作连词用，易误当名词短语",
+   "examples": [
+    {
+     "id": "cet6-2023-06_02-2066",
+     "text": "So the next time you hear someone arguing passionately that everyone should embrace nonconformity and avoid imitating others, you might laugh a little bit."
+    }
+   ]
+  },
+  {
+   "frame": "[时间NP] saw [X]",
+   "gloss": "某时代见证了某变化（时间拟人作主语）",
+   "notes": "时代/地点拟人主语+saw/witnessed",
+   "examples": [
+    {
+     "id": "cet6-2022-06_02-1914",
+     "text": "The late 19th and early 20th century saw an increasing recognition that forests serve as habitats for countless animal and plant species that all rely on each other."
+    }
+   ]
+  },
+  {
+   "frame": "[Sb] have argued that [S V], but this is absurd",
+   "gloss": "立靶（有人主张X）后直接斥为荒谬",
+   "notes": "立靶-直斥，比驳论更强硬",
+   "examples": [
+    {
+     "id": "cet6-2022-06_02-1938",
+     "text": "Some have argued that the public is not educated enough to understand scientific information, especially for any complex phenomena, but this is absurd."
+    }
+   ]
+  },
+  {
+   "frame": "The extent to which [S V] is a function of [X]",
+   "gloss": "能做到什么程度取决于X",
+   "notes": "extent后接to which；a function of=取决于",
+   "examples": [
+    {
+     "id": "cet6-2022-06_01-1891",
+     "text": "But the extent to which individuals can do this on their own is a function of how well integrated they are with communities of systematic inquiry in the first place."
+    }
+   ]
+  },
+  {
+   "frame": "[主句] in case [S V]",
+   "gloss": "做某事以防/以免后述情况发生",
+   "notes": "in case≠if，易读反；负面目的",
+   "examples": [
+    {
+     "id": "cet6-2021-12_03-1811",
+     "text": "They plan everything for their children, make all the decisions for them, and do not allow them to explore on their own in case they make mistakes or get hurt."
+    }
+   ]
+  },
+  {
+   "frame": "Next comes [N]",
+   "gloss": "叙事推进倒装：接下来出现的是X",
+   "notes": "方位/时序副词开头的倒装",
+   "examples": [
+    {
+     "id": "cet6-2023-06_03-2093",
+     "text": "Next comes failure, shame, and pushing yourself even harder toward even higher and more impossible goals."
+    }
+   ],
+   "related": "Gone are the days of/when"
+  },
+  {
+   "frame": "There is another reason [S V], which is that [S V]",
+   "gloss": "补充另一原因并用which is that展开解释",
+   "notes": "which is that 引导解释性从句",
+   "examples": [
+    {
+     "id": "cet6-2021-12_03-1854",
+     "text": "0) There is another reason bad ideas continue to li ve on, which is that people continue to down dies with the person who conceiv ed it."
+    }
+   ],
+   "related": "[前句], which [谓语]"
+  },
+  {
+   "frame": "[A] is [Adj], but so is [B]",
+   "gloss": "A重要，B也同样重要（so倒装回指）",
+   "notes": "so is后可接V-ing，易漏读倒装",
+   "examples": [
+    {
+     "id": "cet6-2021-12_03-1822",
+     "text": "Becoming separated from the tribe-or worse, being cast out-was a death sentence.\" E) Understanding the truth of a situation is important, but so is remaining part of a tribe."
+    }
+   ]
+  },
+  {
+   "frame": "As [A] increases, so does [B]",
+   "gloss": "A增长，B也随之增长（正比联动）",
+   "notes": "as…so…呼应倒装，省just",
+   "examples": [
+    {
+     "id": "cet6-2021-12_03-1835",
+     "text": "As proximity increases, so does understanding. lam reminded of Abraham Lincoln 's quote, \"I don't like that man."
+    }
+   ],
+   "related": "Just as [A], so [B]"
+  }
+ ]
+}

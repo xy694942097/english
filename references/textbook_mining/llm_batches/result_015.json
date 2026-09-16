@@ -1,0 +1,186 @@
+{
+ "frames": [
+  {
+   "frame": "make + [O] + [adj]（宾语补足语，O 长时补语后移）",
+   "gloss": "使某物变得怎么样；宾语较长时形容词补语挪到宾语后面，容易被误读成修饰别的成分。",
+   "pattern_notes": "固定语序 make + 宾语 + 形容词补语，整存整取。S04401 是常规序（make hot water much easier），S04687 是重宾语后移序（make widespread cloning possible，possible 不贴宾语），没见过后移序的学习者会把 possible 误挂到别处。与已有 have/get+O+V-ed 互补但不同（此处补语为形容词，动词为 make）。",
+   "examples": [
+    {
+     "id": "S04401",
+     "src": "必修第二册·Unit 5",
+     "s": "The new samovar could make hot water much easier and could be transported anywhere, not to mention that it required much less fuel."
+    },
+    {
+     "id": "S04687",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "While there are technical issues that need to be worked through to make widespread cloning possible, the biggest concerns are moral."
+    }
+   ]
+  },
+  {
+   "frame": "[主句], with + [O] + [补语(doing/done/介词短语)]",
+   "gloss": "主句之外用 with 复合结构附带说明伴随的状态或动作，相当于一个压缩的状语从句。",
+   "pattern_notes": "固定虚词 with + 宾语 + 补语，语序固定，补语形式随主被动变化（businesses taking / his sling across his shoulder）。学习者容易把 with 当普通介词找宾语名词后就断开，漏掉后面的补语部分，或对 taking/across 的句法归属迟疑。",
+   "examples": [
+    {
+     "id": "S07753",
+     "src": "必修第三册·Unit 1",
+     "s": "Festivals are becoming more and more commercial, with businesses taking advantage of the celebrations."
+    },
+    {
+     "id": "S03752",
+     "src": "选择性必修第三册·Unit 5",
+     "s": "Michelangelo’s David is before the battle, looking ahead in confidence, with his sling across his shoulder."
+    }
+   ]
+  },
+  {
+   "frame": "be of + [抽象名词]",
+   "gloss": "具有某种性质，等于 be + 对应形容词（of equal size = equally sized, of exceptional beauty = exceptionally beautiful）。",
+   "pattern_notes": "固定虚词 of + 抽象名词槽位，常见于正式描写文体。没见过的学习者不知道 of 短语整体充当表语，会试图把 of 理解成所属关系而读错或卡住。",
+   "examples": [
+    {
+     "id": "S00611",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "For instance, in Japan, robots are used to spray individual grape clusters with insecticide, trim them so they are all of equal size, bag them so that they can be further protected from pests and the elements, and then harvest them when they are ripe."
+    },
+    {
+     "id": "S05194",
+     "src": "选择性必修第三册·Unit 1",
+     "s": "These works were intended to spread Buddhism and they are of exceptional beauty and quality."
+    }
+   ]
+  },
+  {
+   "frame": "be different from + [B]",
+   "gloss": "与……不同；from 后接比较对象，常用 the + 名词回指同类事物。",
+   "pattern_notes": "固定介词 from（学生常错用 than/with），整存整取。S08198 中比较对象是 the wrestling in the Olympic Games，用 the+名词替代同类事物，配合回指理解；S03632 后接非限定性 which 从句补充对比细节。",
+   "examples": [
+    {
+     "id": "S03632",
+     "src": "选择性必修第一册·Unit 5",
+     "s": "This is very different from a dog, which will put its tail between its legs to show fear …"
+    },
+    {
+     "id": "S08198",
+     "src": "必修第三册·Unit 1",
+     "s": "Mongolian wrestling is different from the wrestling in the Olympic Games."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "note": "go + V-ing（娱乐活动：go bike riding / go skating）出现 2 次（另见 J03910 went bike riding）。有固定语序和整存整取价值，但误读判据拿不准：学习者一般能读懂，更偏向产出型语块，故降为 candidate。",
+   "example": {
+    "id": "J01220",
+    "src": "初中·英语七年级下册",
+    "s": "Asa boy, he often went skating in winter."
+   }
+  },
+  {
+   "note": "感官动词 + O + V-ing（watch the monkeys climbing / hear our stepmother planning to kill us）出现 2 次（另见 J00753）。骨架判据拿不准：属感官补语构式，接近判据1排除的纯语法范畴，但盲区提示点名此类，故记录待裁定。",
+   "example": {
+    "id": "J04931",
+    "src": "初中·英语八年级下册",
+    "s": "Gretel: Did you hear our stepmother planning to kill us?"
+   }
+  },
+  {
+   "note": "find + O + 补语（find them beautiful / find it difficult to learn English）出现 2 次（另见 S07822）。it 外置变体（J01363）确有误读点，但不定式外置属判据1排除项；find them beautiful 常规序较透明，故拿不准。",
+   "example": {
+    "id": "J01363",
+    "src": "初中·英语九年级全册",
+    "s": "Why did Wei Fen find it diﬃ cult to learn English?"
+   }
+  },
+  {
+   "note": "not to mention (that)…「更不用说」，递进话语标记，本批仅 1 例。与已有 let alone/not least 语义邻近但结构不同，值得关注。",
+   "example": {
+    "id": "S04401",
+    "src": "必修第二册·Unit 5",
+    "s": "The new samovar could make hot water much easier and could be transported anywhere, not to mention that it required much less fuel."
+   }
+  },
+  {
+   "note": "Not everyone/all… 部分否定「并非人人都」，经典误读点（易误读为全否定），本批仅 1 例。",
+   "example": {
+    "id": "J04849",
+    "src": "初中·英语八年级下册",
+    "s": "Not everyone will remember who killed him, but they can remember what they were doing when they heard that he got killed."
+   }
+  },
+  {
+   "note": "whether … or …「无论……还是……」让步选择，本批仅 1 例（whether in printed or online）。已有清单有 either…or 但无 whether…or。",
+   "example": {
+    "id": "S01688",
+    "src": "选择性必修第二册·Unit 4",
+    "s": "Your story must be original and must not have been published previously, whether in printed or online."
+   }
+  },
+  {
+   "note": "From A to B, and (from) C to D 并列枚举「从……到……」，第二个 from 可省，本批仅 1 例。",
+   "example": {
+    "id": "S00097",
+    "src": "选择性必修第三册·Unit 1",
+    "s": "From bronze bowls to ceramic vases, and jade sculptures to ink wash paintings, our goal is to display the Chinese artistic genius from ancient times."
+   }
+  },
+  {
+   "note": "do whatever one can/could to do「尽其所能去做」，whatever 宾语从句嵌在 do 内再接目的不定式，层次易读乱，本批仅 1 例。",
+   "example": {
+    "id": "S04878",
+    "src": "必修第三册·Unit 2",
+    "s": "Despite the difficult situation, Dr Bethune did whatever he could to assist the Chinese people."
+   }
+  },
+  {
+   "note": "that of / those of 比较替代（the body → that of millions of Chinese farmers），指示回指+比较结构叠加，本批仅 1 例。",
+   "example": {
+    "id": "S04501",
+    "src": "选择性必修第一册·Unit 5",
+    "s": "Indeed, his slim but strong body was just like that of millions of Chinese farmers, to whom he had devoted his life."
+   }
+  },
+  {
+   "note": "as … as one can/could「尽可能地」（as many opportunities as he could），已有 as…as 框架的高频实义变体，本批仅 1 例。",
+   "example": {
+    "id": "S06558",
+    "src": "选择性必修第二册·Unit 2",
+    "s": "During his two years at the boys’ school, Zhan Tianyou embraced as many opportunities as he could to learn about this new world."
+   }
+  },
+  {
+   "note": "far from + adj「远非/远远不够」（far from enough），否定性程度副词短语易误读为字面距离，本批仅 1 例。",
+   "example": {
+    "id": "S05812",
+    "src": "选择性必修第四册·Unit 5",
+    "s": "Despite the theories mentioned above, many other studies argue that practice alone is far from enough."
+   }
+  },
+  {
+   "note": "not … anymore「不再」，与已有 no longer 同义但语序相反（not 与 anymore 分离），本批仅 1 例。",
+   "example": {
+    "id": "J04729",
+    "src": "初中·英语八年级下册",
+    "s": "Your best friend does not trust you anymore."
+   }
+  },
+  {
+   "note": "There is something for everyone「人人都有可玩的/适合的」，宣传语高频套句，本批仅 1 例。",
+   "example": {
+    "id": "J03574",
+    "src": "初中·英语八年级上册",
+    "s": "There is something for everyone at Greenwood Park."
+   }
+  },
+  {
+   "note": "How + adj + 不定式感叹句（How awful to be discovered by her），已有 How/What 感叹句的不定式变体，本批仅 1 例。",
+   "example": {
+    "id": "S00691",
+    "src": "选择性必修第四册·Unit 1",
+    "s": "How awful to be discovered by her, Claire thought."
+   }
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "frames": [
+  {
+   "frame": "[A] be (also/now) linked to/with [B]",
+   "gloss": "A 被认为与 B 存在关联（多指健康风险的统计关联）。",
+   "notes": "健康/科普报道的高频被动框架：has/have been linked to + 结果（风险、收益、结论）。学习者易按主动义『连接』理解而丢失被动统计含义，也易忽略 linked to 与 linked with 可互换。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-2-0349",
+     "text": "Fruit juice also has been linked to claims that it can help you both lose weight and stay healthy."
+    },
+    {
+     "id": "cet4-cet4-2025-06-2-0360",
+     "text": "Diets high in fibre have been linked to a lower risk of developing heart disease, stroke, high blood pressure and diabetes, and it’s recommended adults consume 30g per day."
+    },
+    {
+     "id": "cet4-cet4-2025-06-3-0489",
+     "text": "Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, l ower average blood sugar, and lower cholesterol levels."
+    }
+   ]
+  },
+  {
+   "frame": "[A方 did X], while [B方] would have (preferred/liked) [Y]",
+   "gloss": "A 方（事实）如何如何，而我本会更想要 Y——隐含对过去的虚拟对比。",
+   "notes": "while 连接对比双方，后接 would have + 过去分词，虚拟条件（如果我可以选择）隐含在上下文，全句无 if。学习者易把 would have preferred 读成一般过去『当时更喜欢』，丢失反事实义。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2022-06-0505",
+     "text": "They favored a more rigid, closed-door, corporate atmosphere, while I would have preferred something more collaborative and open."
+    },
+    {
+     "id": "cet4-cet4-2022-06-0506",
+     "text": "They were complete clock watchers, while I would have liked a more flexible schedule."
+    }
+   ],
+   "related": "Whereas/while 对比从句（前置/句尾）"
+  },
+  {
+   "frame": "what it’s (really) like (to [V])",
+   "gloss": "……（实际）是什么样子/什么感受。",
+   "notes": "what 引导的名词性从句：what + 形式主语 it + 介词 like（『像什么样』）。like 是介词不是动词，学习者易误读为『喜欢』；常出现在 ask/reveal/tell about 之后，问询或揭示真实体验。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2022-06-0534",
+     "text": "So yes, you can definitely ask your interviewer about what it's like to work for that particular organization."
+    },
+    {
+     "id": "cet4-cet4-2022-06-0535",
+     "text": "Simple questions like, “What three words would you use to describe the culture here?” or “What's your favorite part about working for this company?can reveal a lot about what it's really like behind closed doors."
+    }
+   ]
+  },
+  {
+   "frame": "What’s something you [V], but [V/系表]?",
+   "gloss": "你有什么……？（自省式设问，but 后常省略宾语）",
+   "notes": "what 作主语的口语化反思问句：What’s something you + 定语从句，后接 but 时从句宾语常省略（aren’t good at = aren’t good at it；gave up = gave it up）。学习者易因成分省略而读断句或找不到 at 的宾语。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-1-0336",
+     "text": "Think about it: what’s something you ’ve always wanted to do, but gave up because you “don’t have the skills for it”?"
+    },
+    {
+     "id": "cet4-cet4-2025-06-1-0337",
+     "text": "What’s something you love but aren’t good at?"
+    }
+   ]
+  },
+  {
+   "frame": "There’s [a need/potential] for [N] to be [V-ed]",
+   "gloss": "存在让……被……的必要/可能。",
+   "notes": "there be + 名词 + for + NP + 被动不定式：to be V-ed 是被动关系的非谓语，中国学习者常漏掉被动或误读为主动；need/potential 槽决定语义方向（必要性 vs 可能性）。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2022-06-0580",
+     "text": "When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public."
+    },
+    {
+     "id": "cet4-cet4-2022-06-0589",
+     "text": "With the validity of science coming under attack, there's a need for scientific debates to be perceived as open and true to life."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "just because [S V] doesn’t mean [S V]",
+   "gloss": "仅仅因为……并不代表……。",
+   "notes": "just because 从句做主语的整体用法（because 从句名词化），主句用 doesn’t mean。本批仅 1 例，但价值高：学习者易把 just because 当原因状语、找不到主句主语。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-3-0490",
+     "text": "However, just because it ’s plant-based doesn’t mean i t’s health food."
+    }
+   ]
+  },
+  {
+   "frame": "[A] be different from [B] in that [S V]",
+   "gloss": "A 与 B 的不同之处在于……（in that = 因为/在于）。",
+   "notes": "in that 引导的限定从句表『差异所在/原因』，是书面正式语域的固定搭配。本批仅 1 例；学习者常把 in that 误拆为介词短语。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-2-0376",
+     "text": "Fruit juice is different from whole fruit in that it contains much less fibre."
+    }
+   ]
+  },
+  {
+   "frame": "[S] would otherwise (not) [V]",
+   "gloss": "若不是如此，……本会（无法）……（隐含虚拟）。",
+   "notes": "otherwise 承担虚拟条件（= if it were not for the present case），would otherwise 后接动词原形或 not be able to。本批仅 1 例；学习者易把 otherwise 只当『否则』读而丢掉虚拟义。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2022-06-0571",
+     "text": "Offering online classes certainly helps students who would otherwise not be able to attend classroom sessions."
+    }
+   ]
+  },
+  {
+   "frame": "It should come as no surprise (to [sb]) that [S V]",
+   "gloss": "……不足为奇/完全在意料之中。",
+   "notes": "it 外置主语 + come as no surprise 固定搭配 + that 从句。本批仅 1 例；学习者易读慢 it 的归属和 come as 的搭配。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-2-0414",
+     "text": "So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies."
+    }
+   ]
+  },
+  {
+   "frame": "there are few [N] that are more [A] (than [B])",
+   "gloss": "几乎没有什么比……更……（隐性最高级的低调陈述）。",
+   "notes": "few + 比较级的反说式最高级：『很少有更……的』≈ 『几乎是最……的』。本批仅 1 例；学习者易按字面读成否定句。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-2-0413",
+     "text": "Fans of classical music can also tell you that there are few types of music that are more expressive."
+    }
+   ]
+  },
+  {
+   "frame": "Now comes the part/time when [S V]",
+   "gloss": "现在到了……的环节/时候。",
+   "notes": "叙事推进句：Now comes + 单数名词 + when 定语从句，主谓倒装（comes 在主语前）。本批仅 1 例；学习者易把倒装读成疑问或断错主语。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2022-06-0519",
+     "text": "Now comes the part when you put on your detective hat and do a little digging."
+    }
+   ]
+  },
+  {
+   "frame": "You know that [N] when [S V]?",
+   "gloss": "你知道那种……的时候吗？（唤起共同经验的口语设问）",
+   "notes": "口语框架：You know that + 场景名词 + when 定语从句（关系副词 when 修饰 part/time 类名词），句末问号但功能是共鸣而非真提问。本批仅 1 例。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2022-06-0532",
+     "text": "You know that part at the end of a job interview when the hiring manager asks if you have any questions, and you just stare across the table blankly with your mouth hanging open?"
+    }
+   ]
+  },
+  {
+   "frame": "be as much of a [A] as a [B]",
+   "gloss": "既是 B 同样也是 A（好坏并置的持平评价）。",
+   "notes": "as much of a + 名词 + as + 名词：『与……一样程度上是……』，常用于 curse/blessing 等对立词并置，表利弊各半。本批仅 1 例。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-3-0464",
+     "text": "Outer beauty can be as much of a curse as a blessing."
+    }
+   ],
+   "related": "[V] [A] as much as [B]（程度比较）"
+  },
+  {
+   "frame": "It takes [time] for [S] to [V]",
+   "gloss": "（某事发生/被完成）需要多长时间。",
+   "notes": "It takes + 时间 + for + 逻辑主语 + to do：与已登记的『It takes sb time to V』不同，这里时间后直接接 for 引出对象，对象可为被动（for cells to be digested）。本批干净例句仅 1 例（另一例为两种结构混用）。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-2-0381",
+     "text": "It takes some time for fruit’s cells to be digested and for fructose to be absorbed."
+    }
+   ],
+   "related": "It takes [sb] [time] to [V]"
+  },
+  {
+   "frame": "There’s a reason [S V]",
+   "gloss": "……是有原因的（为零连词定语从句）。",
+   "notes": "reason 后省略 why/that 的定语从句：There’s a reason (why) S V。本批仅 1 例；学习者易在 reason 后找不到连词而读断。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-2-0392",
+     "text": "There’s a reason tailored jackets are associated with being “dressed for success”."
+    }
+   ]
+  },
+  {
+   "frame": "With the rise of [X], [主句]",
+   "gloss": "随着 X 的兴起，……。",
+   "notes": "with the rise of + 名词做句首伴随状语引出历史变迁，主句多为『旧事物衰落/新格局出现』。本批仅 1 例。",
+   "examples": [
+    {
+     "id": "cet4-cet4-2025-06-2-0406",
+     "text": "With the rise of pop music, jazz, and electronic music, both opera and classical music started to fade away from the public eye."
+    }
+   ]
+  }
+ ]
+}

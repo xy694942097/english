@@ -1,0 +1,254 @@
+{
+ "frames": [
+  {
+   "frame": "All [S] have/needs to do is (to) [V]",
+   "gloss": "（某人）只需做…就行了",
+   "notes": "all后省关系词，表语不定式可省to",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1183",
+     "text": "All I have to do is to go to my CD shelf, or boot up my computer and download still more recorded music from iTunes."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2009-1072",
+     "text": "All he needs to do is shell out $30 for a paternity testing kit (PTK) at his local drugstore - and another $120 to get the results."
+    }
+   ],
+   "related": "[The/Another/one] thing (that) [S V] is [to V/表语]"
+  },
+  {
+   "frame": "There is/are [类别N], where [S V]",
+   "gloss": "有一类/一种…，在其中…（列举类别并用where定义）",
+   "notes": "where非地点，给前面的类别下定义",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2008-1005",
+     "text": "There is the so-called big deal, where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2008-1006",
+     "text": "Finally, there are open-access archives, where organizations such as universities or international laboratories support institutional repositories."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2008-1007",
+     "text": "Other models exist that are hybrids of these three, such as delayed open-access, where journals allow only subscribers to read a paper for the first six months, before making it freely available to everyone who wishes to see it."
+    }
+   ],
+   "related": "[NP], where [S V]（非限定 where 从句）"
+  },
+  {
+   "frame": "[X] come(s) as a surprise (to [sb])",
+   "gloss": "…（对某人来说）出人意料",
+   "notes": "come非\"来\"，常带such/should表意外",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2007-0980",
+     "text": "The mystery is that this should come as a surprise to any boss."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1180",
+     "text": "One of the reasons why the appointment came as such a surprise, however, is that Gilbert is comparatively little known."
+    }
+   ]
+  },
+  {
+   "frame": "the very [N]",
+   "gloss": "正是/恰是那个N（强调该名词本身）",
+   "notes": "very作形容词，勿当副词\"非常\"",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2006-0922",
+     "text": "And since these messages have an agenda - to lure us to open our wallets - they make the very idea of happiness seem unreliable."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2009-1087",
+     "text": "However, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong."
+    }
+   ]
+  },
+  {
+   "frame": "[S] would not [V] without [NP]",
+   "gloss": "没有…就不会…（句内双重否定）",
+   "notes": "without短语后置句尾，勿拆读漏否",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2008-1033",
+     "text": "The southern states would not have signed the Constitution without protections for the “peculiar institution,” including a clause that counted a slave as three fifths of a man for purposes of congressional representation."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2009-1086",
+     "text": "Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education."
+    }
+   ],
+   "related": "Without [NP], [主句(would…)]"
+  },
+  {
+   "frame": "[farther/two degrees等] removed from [NP]",
+   "gloss": "与…相隔/远离（某种程度）",
+   "notes": "removed非\"被移除\"，表距离程度",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2010-1118",
+     "text": "We are even farther removed from the unfocused newspaper reviews published in England between the turn of the 20th century and the eve of World War II, at a time when newsprint was dirt-cheap and stylish arts criticism was considered an ornament to the publications in which it appeared."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2010-1148",
+     "text": "If people in the network just two degrees removed from the initial influential prove resistant, for example, the cascade of change won't propagate very far or affect many people."
+    }
+   ]
+  },
+  {
+   "frame": "To [V] is/means to [V]",
+   "gloss": "做…就是/意味着做…",
+   "notes": "句首To非目的状语，不定式作主语+表语",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2010-1108",
+     "text": "To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2009-1095",
+     "text": "To take this approach to the New Englanders normally means to start with the Puritans' theological innovations and their distinctive ideas about the church - important subjects that we may not neglect."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "It's not as if [S V]",
+   "gloss": "又不是/并非…（反驳对方预设）",
+   "notes": "as if从句表虚拟反驳，常配否定",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2006-0908",
+     "text": "But it's not as if earlier times didn't know perpetual war, disaster and the massacre of innocents."
+    }
+   ]
+  },
+  {
+   "frame": "It is a [adj] [N] that [V]（反语）",
+   "gloss": "再…的N也未必V（反语，非强调句）",
+   "notes": "形似强调句，实为让步反语",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2009-1064",
+     "text": "It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom - or at least confirm that he's the kid's dad."
+    }
+   ],
+   "related": "It was [X] that …"
+  },
+  {
+   "frame": "Nowhere (else) [助动词/be] [S]（倒装）",
+   "gloss": "没有哪个地方…",
+   "notes": "否定副词句首引起部分倒装",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2009-1102",
+     "text": "According to the standard history of American philosophy, nowhere else in colonial America was “so much importance attached to intellectual pursuits."
+    }
+   ],
+   "related": "Only [状语] did …"
+  },
+  {
+   "frame": "[主句], if only as [NP]",
+   "gloss": "…，哪怕只是作为…",
+   "notes": "if only非\"但愿\"，表最低限度让步",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2010-1130",
+     "text": "Later, more established companies raced to add such patents to their files, if only as a defensive move against rivals that might beat them to the punch."
+    }
+   ]
+  },
+  {
+   "frame": "[NP], coupled with [NP], [V]",
+   "gloss": "…加上/连同…，（导致）…",
+   "notes": "插入分词，主语与谓语易被隔开误找",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2007-0928",
+     "text": "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one."
+    }
+   ]
+  },
+  {
+   "frame": "be more of a [A] than (a) [B]",
+   "gloss": "与其说是B，不如说是A",
+   "notes": "of不可漏，比较两名词性质",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2007-0928",
+     "text": "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one."
+    }
+   ],
+   "related": "not so much [A] as [B]"
+  },
+  {
+   "frame": "This is where [S V]",
+   "gloss": "这就是…的用武之地/关键所在",
+   "notes": "where引导表语从句，非地点状语",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2009-1063",
+     "text": "This is where developing new habits comes in."
+    }
+   ]
+  },
+  {
+   "frame": "Few things are more [adj] than [NP]",
+   "gloss": "没有什么比…更…",
+   "notes": "few+more than表最高级意味",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2007-0981",
+     "text": "Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore - and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands."
+    }
+   ]
+  },
+  {
+   "frame": "[V] more … than do/does [NP]",
+   "gloss": "比…更…（than后主谓倒装）",
+   "notes": "than后do代前动，主谓倒装勿乱序",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2008-0994",
+     "text": "Studies of both animals and humans have shown that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions."
+    }
+   ]
+  },
+  {
+   "frame": "Of all [复数N] (that [S V]), [最高级] [主句]",
+   "gloss": "在所有…之中，最…的是…",
+   "notes": "of all提前限范围，主句取最高级",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2010-1116",
+     "text": "Of all the changes that have taken place in English-language newspapers during the past quarter-century, perhaps the most far-reaching has been the inexorable decline in the scope and seriousness of their arts coverage."
+    }
+   ]
+  },
+  {
+   "frame": "[X] strike(s) [sb] as [NP/adj]",
+   "gloss": "…给某人以…的印象/感觉",
+   "notes": "strike非\"打击\"，as引出印象",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1181",
+     "text": "As a description of the next music director of an orchestra that has hitherto been led by musicians like Gustav Mahler and Pierre Boulez, that seems likely to have struck at least some *Times* readers as faint praise."
+    }
+   ]
+  },
+  {
+   "frame": "Whatever [NP] [S may V], [主句]",
+   "gloss": "无论有什么样的…，都…",
+   "notes": "whatever+名词+may+动，让步从句",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2007-0933",
+     "text": "In other words, whatever inborn differences two people may exhibit in their abilities to memorize, those differences are swamped by how well each person \"encodes\" the information."
+    }
+   ],
+   "related": "no matter how/what/where"
+  }
+ ]
+}

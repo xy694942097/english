@@ -1,0 +1,443 @@
+{
+  "source": {
+    "text_id": "cet4-restandard",
+    "corpus": "四级真题 7 份（2022-06、2024-06 三套、2025-06 三套，约 596 信息句，社区整理版 txt）",
+    "register": "科普报道 / 新闻评论 / 书评 / 职场与自助文 / 访谈引语",
+    "date": "2026-09-18",
+    "channel": "llm-readthrough-restandard",
+    "disclosure": "对 book/08-frames/13-cet4-readthrough.md（2026-09-17 旧批 9 条）的不合格返工：按 methodology/什么是句式骨架.md（2026-09-17 定版）重裁旧批并全量重挖。旧批病灶=正则/语法层模式（times what、比较倒装）；本批按「第零问（动作可命名）→骨架死→价值命中（误读侧+产出侧，对真实读者不造假想）→语域→校准」流水直出。例句从 7 份 txt 逐字复制并逐条回原文 sed/grep 核对；社区整理版含 OCR 噪声（词内空格、' 误作 ’、一 误作破折号、双空格），逐字保留并在 notes 标注；行折行以单空格连接（不改字）。不修改 book/ 下任何文件。",
+    "functions": ["设靶与预判", "贬抑与反预期", "划界与纠正", "先放行再设限", "反事实补笔", "顺理成章与部分承认", "新闻体问答与收尾"]
+  },
+  "calibration": "读者：高考138/六级560/多年不用/考研向/常看美剧，自述长句语法基本懂。因此语法层辨析类误读（倒装语序、虚拟完成式、what 关系代词、as...as 结构）对本读者多为假想——旧批 6 条据此砍。本批主判据为产出侧：读得懂却搭不出（只会用 more and more research shows / I think / it is not surprising 这类平庸版）。课本级（祈使句+and、what...like、just as...so）一律掠过。",
+  "verdicts": [
+    {"old_frame": "[N] times as [Adj] as [B] / [N] times what [S V]", "verdict": "不过", "reason": "第零问挂：命名不出交际动作（倍数陈述是比较结构语法层，与 methodology 反例 be more adj. than 同类）。证据句 'output by 2029 is likely to be around 3.5 times what it was when Keynes was writing'（2024-06-1）——本读者读得懂；误读点（what 非疑问词）是语法辨析假想；产出侧可平替（times as much as），价值不命中。"},
+    {"old_frame": "be more [A] than [B]", "verdict": "过", "reason": "动作可命名（定性取舍：与其说A不如说B），与已编家族A#3 not so much A as B 同族互补且是口语常态形；证据双例 'aging is more a slide into forgetfulness than a journey towards wisdom' / 'It is a behavior we are born with more than one we learn'（2024-06-1）。误读点（抽象名词进槽后找『比较级修饰谁』）真实。注：只收名词/名词短语取舍义，纯形容词比较（more diligent than his brother）是 methodology 明列反例。"},
+    {"old_frame": "[比较级] than [be/助动词 + 名词主语]（比较从句倒装）", "verdict": "不过", "reason": "语法结构层，第零问挂（命名出的只是『比较从句倒装』这一语法关系，不是交际动作）。证据句 '…more likely to give abstract descriptions of behaviors than were women'（2024-06-2）——than 后倒装是语法书内容，对本读者误读假想。"},
+    {"old_frame": "[祈使句], and [S will V]", "verdict": "不过", "reason": "课本级：『祈使句+and/or+陈述句表条件』是高中语法考点，对本读者已闭环；语料单例且出自引语（'Care about what other people think and you will always be their prisoner.' 2024-06-1）；产出侧 If you…you will… 平替可接受，退化小。"},
+    {"old_frame": "[A] be (also/now) linked to/with [B]", "verdict": "不过（降级回收为短语）", "reason": "短语肉判据：linked to/with 是填在谓语槽里的动词+介词搭配，抽走后句子骨架（被动陈述句）还在。证据句 'Diets high in fibre have been linked to a lower risk of…'（2025-06-2）——决定句子怎么搭的不是它。误读点（link≠链接、关联≠因果）是搭配层坑，入本批 phrases。"},
+    {"old_frame": "[A方 did X], while [B方] would have (preferred/liked) [Y]", "verdict": "不过", "reason": "组合判据：while 对比已编（03章让步与对照），would have + 过去分词是高中虚拟语气语法层，拆两半各有归属、组合不登记。证据句 'They were complete clock watchers, while I would have liked a more flexible schedule'（2022-06）——would have liked 对高考138读者误读假想（虚拟语气已闭环）。"},
+    {"old_frame": "what it's (really) like (to [V])", "verdict": "不过", "reason": "课本级：what...like 是初中句型，it 形式主语+to V 真主语是高中语法。误读点（like 是介词非『喜欢』）对本读者假想；产出侧 'what it's like to work there' 美剧口语高频，常看美剧的读者已会。证据句 2022-06 'ask your interviewer about what it's like to work for that particular organization'。"},
+    {"old_frame": "What's something you [V], but [V/系表]?", "verdict": "存疑", "reason": "第零问可过（自省式设问动作），骨架死度中等（What's something + 定语从句 + but 后共享宾语省略可由语法推导）。卡点在价值命中：误读点（but aren't good at 后空缺）不拦这位读者，产出侧差距中等；双例同篇（2025-06-1）是复现不是独立语境，且语域为口语互动体，考研书面产出用不上。建议不进正式册，挂口语设问族待美剧语料再验。"},
+    {"old_frame": "There's [a need/potential] for [N] to be [V-ed]", "verdict": "过", "reason": "methodology 判例2 正例直接背书（'there's a need for' 是议论文开场高频预制件）；误读点（for 是逻辑主语标记，N 才是被 V-ed 的主体）真实；证据双例同篇自带复现（2022-06 'there's potential for information to be used incorrectly' / 'there's a need for scientific debates to be perceived as open and true to life'）。With+分词组合出现时按规则拆两半。"}
+  ],
+  "frames": [
+    {
+      "frame": "if [X] is anything to go by",
+      "gloss": "如果X还算数的话（以X为证推断）",
+      "notes": "条件句里嵌推断惯用语：拿一个现成迹象给整体判断背书。新闻/评论高频件，句首句中皆可。",
+      "pitfall": "读侧硬坑：if…is anything to go by 逐词读成『如果有任何东西可去』整句崩；产出侧只会写 if we judge by X / according to X",
+      "examples": [
+        {"text": "But some parents object to the new policy if the vigorous debate on the Facebook page of  Anderson County school district is anything to go by.", "loc": "真题·四级 2024-06-3 · 阅读 Section B E段（原文 of 后双空格为社区版噪声，逐字保留）"}
+      ],
+      "register": "书面（新闻/评论）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "anything but [Adj]",
+      "gloss": "绝非…（与字面义相反）",
+      "notes": "全盘反预期：anything but 把预期整个掀翻。已编 nothing but（05-patterns）的姊妹条——nothing but=只是，anything but=绝不是，方向相反。",
+      "pitfall": "与 nothing but 混淆致方向读反；产出只会写 not at all / not … at all",
+      "examples": [
+        {"text": "The answers are anything but simple.", "loc": "真题·四级 2024-06-2 · 阅读 Section B D段"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "nothing but（05-patterns 已编）——姊妹条"
+    },
+    {
+      "frame": "there are few [N] (that are) more [Adj] (than [X])",
+      "gloss": "几乎没有比它更…的（隐性最高级）",
+      "notes": "低调夸赞的修辞件：用否定比较级达到最高级断言，比 the most… 优雅收敛。评论/书评标配。",
+      "pitfall": "读侧硬坑：few 的否定漏读（读成『有一些』），整句方向读反——实为『它是最…的之一』；产出只会写 the most expressive",
+      "examples": [
+        {"text": "Fans of classical music can also tell you that there are few types of music that are more expressive.", "loc": "真题·四级 2025-06-2 · 阅读 Section C P2"}
+      ],
+      "register": "书面（评论）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "家族A（程度与比较）：隐性最高级"
+    },
+    {
+      "frame": "[S] would otherwise [not V] / [S] helps [sb] who would otherwise [not V]",
+      "gloss": "若非有此，本会…（反事实补笔）",
+      "notes": "otherwise 回指『没有前面这件事的平行世界』：一句话补出反事实，不用搭 if there were no… 整个条件句。评估政策/服务价值的高频件。",
+      "pitfall": "读侧坑：otherwise 读成转折『否则』去前文找主句，漏掉整个反事实层；产出只会写 if it were not for…",
+      "examples": [
+        {"text": "Offering online classes certainly helps students who would otherwise not be able to attend classroom sessions.", "loc": "真题·四级 2022-06 · 阅读 Section C P1"}
+      ],
+      "register": "书面",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "家族F#1『Were it not for [X]』——反事实族的 otherwise 回指变体"
+    },
+    {
+      "frame": "There's no such thing as [X]",
+      "gloss": "根本没有…这回事（否认X的存在）",
+      "notes": "整类否认件：断言某事物作为类别不存在，比 X doesn't exist 语气重、话题性强。评论开场/抬杠皆高频。",
+      "pitfall": "产出退化：只会写 a private debate doesn't exist / there is no private debate；no such thing as 的斩钉截铁语气出不来",
+      "examples": [
+        {"text": "In the age of the internet, there's no such thing as a private debate.", "loc": "真题·四级 2022-06 · 阅读 Section C P2"}
+      ],
+      "register": "both",
+      "freq": "天天见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "Gone are the days of/when [X]",
+      "gloss": "…的时代一去不返",
+      "notes": "倒装宣告件： Gone 提前+are the days，宣告旧时代结束，常接 and that's good/bad because… 评注。",
+      "pitfall": "读侧坑：倒装读慢，主语（the days of…）在 are 后面找不到；产出只会写 the days of X are gone（平铺版）",
+      "examples": [
+        {"text": "Gone are the days of going to a conference and debating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices.", "loc": "真题·四级 2022-06 · 阅读 Section C P2"}
+      ],
+      "register": "both（叙事/评论）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "07章倒装族（叙事宣告变体）"
+    },
+    {
+      "frame": "It's not that [X]. It's that [Y]",
+      "gloss": "不是X的问题，而是Y（纠正归因）",
+      "notes": "两段式归因纠偏：先否定显性解释，再亮真因。口语书面都高频，引语/评论/日常解释皆用。",
+      "pitfall": "读侧弱坑：It's not that 拆成『它不是』找先行词；产出侧强坑：只会写 The reason is not X but Y（书面腔，丢掉口语节奏）",
+      "examples": [
+        {"text": "That’s why brain scientist Richard Kennedy says “It’s not that old dogs can't learn new tricks. It's that maybe old dogs don't realize why they should.”", "loc": "真题·四级 2024-06-1 · 阅读 Section C P2（引语内混用直/弯引号，逐字保留）"}
+      ],
+      "register": "both（口语高频）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "六级篇#14『[否定前句]; rather, [S V]』同功能（纠正归因）异形"
+    },
+    {
+      "frame": "You might think (of) [X], but [Y]；变体：Well you'd expect [X], but [Y]",
+      "gloss": "你可能会以为X——但其实是Y（预判预期再推翻）",
+      "notes": "设靶家族的预判版：先替读者说出他心里的话，再掀翻。科普/评论开篇高频；you'd expect 版更口语。",
+      "pitfall": "读侧：might think 的『替你预设』语用漏读，只当普通陈述；产出侧强坑：设靶只会写 Some people think… / It is said that…（第三人称版，丢掉直接对话感）",
+      "examples": [
+        {"text": "You might think of your teeth as tools, like built-in knives and forks, but if they are mere tools, why do they feel pain", "loc": "真题·四级 2022-06 · 阅读 Section A（选词填空篇，引文截至空格编号前）"},
+        {"text": "Well you ’d expect the Design Museum to commission and make some interesting items,  but this one was different.", "loc": "真题·四级 2025-06-1 · 阅读 Section B D段（you ’d/双空格为社区版噪声，逐字保留）"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "设靶家族：cam14『We are told that [S V]』被动规训版、判例库设问版『But is there a cost to X?』——本条为预判读者版"
+    },
+    {
+      "frame": "It may sound [Adj], but [Y]",
+      "gloss": "听上去也许X——但（让步预驳）",
+      "notes": "先承认自己话 听感 上像老生常谈/惊人，再站住立场。自我设靶+自我辩护一步完成，语料双例独立语境。",
+      "pitfall": "读侧：may sound 的『预判你反应』漏读；产出侧强坑：只会写 Although it sounds surprising…（让步从句平铺版）",
+      "examples": [
+        {"text": "It may sound surprising, but you don't have to be interested in fashion, or even in history, to enjoy Dress Codes: How the Laws of Fashion Made History.", "loc": "真题·四级 2024-06-3 · 阅读 Section C P1"},
+        {"text": "It may sound trite (老生常谈的), but beauty is only skin deep", "loc": "真题·四级 2025-06-3 · 阅读 Section C P1（社区版夹注中文释义，逐字保留）"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "[X] is, at best, [Adj]",
+      "gloss": "往高了说也才X（贬抑性让步）",
+      "notes": "评注式贬抑：at best 插在系动词和表语间，承认最优解读也不过如此。驳论/书评利器。",
+      "pitfall": "读侧坑：at best 读成中性『最好情况下』，漏掉整句的贬损语气；产出只会写 is not good enough / is far from sufficient（丢掉让步壳）",
+      "examples": [
+        {"text": "“This argument is, at best, far from sufficient,” he writes.", "loc": "真题·四级 2024-06-1 · 阅读 Section B D段"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "家族D#2 admittedly/granted（先让后转）——at best 为贬抑版"
+    },
+    {
+      "frame": "If that were the case, [why did…? / S V]",
+      "gloss": "倘若果真如此，那…（归谬反问）",
+      "notes": "回指式虚拟条件：that 指对方刚立的说法，用虚拟 were 标记『我并不认账』，后接反问或推论归谬。",
+      "pitfall": "读侧坑：were 读成过去时误以为说话人认了前提；产出只会写 If it is true…（陈述条件，丢掉不认账的虚拟语气）",
+      "examples": [
+        {"text": "If that were the case, why did the duration of the working week decline in the first place?", "loc": "真题·四级 2024-06-1 · 阅读 Section B D段"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "家族F（条件与虚拟）：回指虚拟条件"
+    },
+    {
+      "frame": "It should come as no surprise (to sb) that [S V]",
+      "gloss": "…不足为奇（顺理成章连接）",
+      "notes": "承上启下的必然性件：前文摆了证据，本句宣布结论是自然结果。学术/评论高频。",
+      "pitfall": "读侧坑：come as 卡住（『作为…而来』拆不开）；产出只会写 it is not surprising that…",
+      "examples": [
+        {"text": "So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies.", "loc": "真题·四级 2025-06-2 · 阅读 Section C P2"}
+      ],
+      "register": "书面",
+      "freq": "常见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "there may be a grain of truth in [X]",
+      "gloss": "X里也许有几分道理（部分承认）",
+      "notes": "驳论文先让步件：对老话/流行说法部分放行（一粒真），下文再收紧。比 partly true 地道且有分寸感。",
+      "pitfall": "读侧坑：a grain of truth 字面『一粒真理』读不懂；产出只会写 there is some truth in it（丢掉 grain 的分寸修辞）",
+      "examples": [
+        {"text": "Most people don’t really believe in them, but research into the impact of clothes on behavior now suggests that there may actually be a gra in of truth in these sayings.", "loc": "真题·四级 2025-06-2 · 阅读 Section C P1（gra in 词内空格为社区版噪声，逐字保留）"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "cam14『[V-ing] is nothing new』——同为『消解/部分承认』族"
+    },
+    {
+      "frame": "While we know [X], we don't yet know [Y] / it's less clear [wh-Y]",
+      "gloss": "我们已知X，但尚不清楚Y（研究缺口划界）",
+      "notes": "科普/学术划界件：while 让步挂已知，主句亮未知，一句完成文献综述的边界声明。考研写作可直接用。",
+      "pitfall": "读侧：while 让步误读为时间『当…时』；it's less clear 读成作者自谦『我不太清楚』（实为学界边界）；产出只会写 But we don't know…",
+      "examples": [
+        {"text": "So while we know that fruit juice can cause diabetes if it’s part of a diet that has more calories overall, it's less clear how juice affects the long-term health of those who aren’t overweight.", "loc": "真题·四级 2025-06-2 · 阅读 Section B G段（混用直/弯撇号，逐字保留）"},
+        {"text": "While we know that adults use a large variety of attributes to manage and create impressions, we don’t yet know whether children", "loc": "真题·四级 2025-06-1 · 阅读 Section A（选词填空篇，引文截至空格编号前，后接 whether 从句）"}
+      ],
+      "register": "书面（学术/科普）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "this is not the case with [X]",
+      "gloss": "（前述对A成立，）但X不是这么回事（划界排除）",
+      "notes": "边界标记件：先让前文概括成立，再用本句把例外圈出来。语料两例独立语境。",
+      "pitfall": "读侧：case 读成『案例/情况』拆散；产出只会写 but fruit juice is different（丢掉回指结构）",
+      "examples": [
+        {"text": "But this is not the case with fruit juice.", "loc": "真题·四级 2025-06-2 · 阅读 Section B C段"},
+        {"text": "Although Keynes’s eight-fold figure holds up for the economy as a whole, it is not at all the case for the median(中位数的) American worker.", "loc": "真题·四级 2024-06-1 · 阅读 Section B G段（夹注中文释义，逐字保留）"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "By all means [V], but [Y]；同族：There's nothing wrong with [V-ing/N], but [Y]",
+      "gloss": "尽管去X——但是Y（先放行再设限）",
+      "notes": "许可-转折双段件：先把对方想做的事大方放行，再用 but 收口给真条件。口语书面都高频，建议文/劝导文标配。",
+      "pitfall": "读侧硬坑：By all means 读成『用一切办法』的强化义（实为让步『尽管去』）；产出只会写 You can…, but…（丢掉让步放行的姿态）",
+      "examples": [
+        {"text": "By all means,  set ambitious long-term goals for your future  self, but when it comes to actually following through day-to-day, make sure your present self knows what's in it for her too.", "loc": "真题·四级 2024-06-2 · 阅读 Section B M段（双空格为社区版噪声，逐字保留）"},
+        {"text": "There’s nothing wrong with trying to look our best but excessive focus on physical appearance misses the soulful aspects of what it means to be beautiful.", "loc": "真题·四级 2025-06-3 · 阅读 Section C P1"}
+      ],
+      "register": "both（口语高频）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "家族D#2 admittedly/granted（先让后转）——口语放行版"
+    },
+    {
+      "frame": "Who says [X]? / I mean, who [V]s [X]?",
+      "gloss": "谁说X了？／谁会想X啊？（修辞反问挑战）",
+      "notes": "反问否定族：答案显然是否，问句本身即立场。Who says… 挑战默认假设；I mean, who… 收尾吐槽。美剧与评论双高频。",
+      "pitfall": "读侧：语用漏读成真实疑问句，等下文找答案；产出只会写 I don't think X is necessarily bad",
+      "examples": [
+        {"text": "Who says instant gratification has to be a bad thing ?", "loc": "真题·四级 2024-06-2 · 阅读 Section B M段（thing 与?间空格为社区版噪声，逐字保留）"},
+        {"text": "I mean, who wants to hang out with people in their suits?", "loc": "真题·四级 2025-06-2 · 阅读 Section C P1"}
+      ],
+      "register": "口语（书面亦见）",
+      "freq": "天天见",
+      "status": "candidate",
+      "related": "internal-batch-001『Who would have thought (that) [X]?』——同为反问，功能相反（惊叹 vs 挑战），分立"
+    },
+    {
+      "frame": "It pays to [V]",
+      "gloss": "（这样做）是划算的/有回报的",
+      "notes": "划算性建议件：pay 挂回报义，比 it is worthwhile 紧凑。建议文/生活科普高频。",
+      "pitfall": "读侧坑：pay 读成『支付』字面义卡住；产出只会写 it is worth doing / you should",
+      "examples": [
+        {"text": "Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care.", "loc": "真题·四级 2024-06-2 · 阅读 Section C P2"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "A little [X] can go a long way (towards [V-ing])",
+      "gloss": "小小一点X作用很大",
+      "notes": "小投入大回报强调件：a little 与 go a long way 形成反差对仗，建议文收尾金句。",
+      "pitfall": "读侧坑：go a long way 读成字面『走很远』；产出只会写 small efforts are also useful",
+      "examples": [
+        {"text": "A little examination can go a long way towards identifying bias associated with the funding source.", "loc": "真题·四级 2024-06-2 · 阅读 Section C P2"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "[Adj] enough to [V], but not so [Adj] that [S V]",
+      "gloss": "要…到能X的程度，但别…到Y的地步（最优区间定界）",
+      "notes": "Goldilocks 定界件：双向定量，一句话给出上下限。语料原文自带命名（so-called Goldilocks principle: there can be just the right amount of something）。考研写作『既要又要但不过度』刚需。",
+      "pitfall": "产出侧强坑：两个方向的对仗搭不出，只会写 should be X but not too X；读侧：not so…that 的否定范围易读漏",
+      "examples": [
+        {"text": "The experts concluded that pandas should ideally “be happy enough to thrive, but not so content that they don’t want to move around and find new mates”.", "loc": "真题·四级 2025-06-1 · 阅读 Section C P1（引语）"}
+      ],
+      "register": "书面",
+      "freq": "偶见（写作刚需）",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "as much of a [A] as a [B]",
+      "gloss": "既是A也同样是B（双刃定性，不遑多让）",
+      "notes": "比较外壳装双刃定性：A 多半是坏项、B 是好项，as much…as 强调坏项不输好项。与 more A than B（旧批#2，过）同族反向。",
+      "pitfall": "读侧坑：as much…as 读成数量比较『和…一样多』，漏掉定性双刃义；产出只会写 can be both good and bad",
+      "examples": [
+        {"text": "Outer beauty can be as much of a curse as a blessing.", "loc": "真题·四级 2025-06-3 · 阅读 Section C P1"}
+      ],
+      "register": "书面",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "本批 verdicts#2『be more [A] than [B]』——同族（比较外壳装定性）"
+    },
+    {
+      "frame": "[短问句]? [碎片答句]（自问自答）",
+      "gloss": "自问自答：问句聚焦，碎片句作答",
+      "notes": "新闻/叙事问答体：用一个短问句立焦点，紧跟一个非完整句作答（名词短语/不定式/形容词），节奏快、聚焦强。",
+      "pitfall": "读侧坑：答句非完整句被读成残句或误并入下一句；产出侧只会写完整句 What are my chances? They are very slim.",
+      "examples": [
+        {"text": "What are my chances of finding all of those things with one employer? Slim to none 一 believe me, I've looked.", "loc": "真题·四级 2022-06 · 阅读 Section B M段（一 为破折号之社区版噪声，逐字保留）"},
+        {"text": "His aim? To isolate the effects of consuming too many calories from the effects of foods containing different sugars.", "loc": "真题·四级 2025-06-2 · 阅读 Section B E段"}
+      ],
+      "register": "书面（新闻/叙事）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "判例库设问版设靶（But is there a cost to X?）——本条为其新闻体碎片答变体"
+    },
+    {
+      "frame": "There's a (good) reason [S V]",
+      "gloss": "X是有原因的（事后归因铺垫）",
+      "notes": "因果预告件：There's a reason… 先立『事出有因』的旗，下文再展开原因。语料两例，其一与 it turns out 连用构成悬念-揭晓链。",
+      "pitfall": "产出侧：只会写 That's why… / X has a reason（生硬）；There's a reason (why) S V 的口语弹性出不来",
+      "examples": [
+        {"text": "There’s a reason tailored jackets are associated with being “dressed for success”.", "loc": "真题·四级 2025-06-2 · 阅读 Section C P1"},
+        {"text": "it turns out there's a good reason our teeth are so sensitive", "loc": "真题·四级 2022-06 · 阅读 Section A（选词填空篇，截自含空格句的无空格段）"}
+      ],
+      "register": "both",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "真题回收#4『it turns out (that) [S V]』——悬念-揭晓配套件"
+    },
+    {
+      "frame": "You can never fail with [X] / You can never go wrong with [X]",
+      "gloss": "选X永远错不了（保底推荐）",
+      "notes": "保底推荐件：把某选项钉成无风险默认值。建议文/清单体高频；语料用 fail with，更常见变体为 go wrong with。",
+      "pitfall": "读侧：fail with/go wrong with 的搭配卡住；产出只会写 X is always a good/safe choice",
+      "examples": [
+        {"text": "Finally, you can never fail with personal connections.", "loc": "真题·四级 2022-06 · 阅读 Section B J段"}
+      ],
+      "register": "口语（书面亦见）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "it's [sb]'s loss, not [sb]'s",
+      "gloss": "吃亏的是他们，不是我们（甩锅收尾）",
+      "notes": "收尾反击件：被拒绝/不被欣赏后的一句判词，loss=错过方受损。美剧口语高频，书面评论亦见。",
+      "pitfall": "读侧：loss 读成『失败』，方向读偏；产出只会写 they will regret it / it's bad for them",
+      "examples": [
+        {"text": "But if they don’t it is their loss, not ours.", "loc": "真题·四级 2025-06-3 · 阅读 Section C P1（don't 后无逗号为原文样式）"}
+      ],
+      "register": "口语（书面亦见）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "考研篇#1 助动词独用（if they don't）在此复现"
+    },
+    {
+      "frame": "coming soon to a [N] near you",
+      "gloss": "很快就要来到你身边的…（戏仿广告的逼近宣告）",
+      "notes": "电影营销套话的戏仿件：near you 装作贴心实则调侃『躲不掉』。新闻标题/导语用。语域偏窄但为主流新闻修辞，非 meme 体。",
+      "pitfall": "读侧：near you 的调侃语气读不出（读成字面『在你附近』的普通将来）；产出侧基本不会用",
+      "examples": [
+        {"text": "Plant-based meats are coming soon to a dinner table near you, but do they deserve a spot on your plate?", "loc": "真题·四级 2025-06-3 · 阅读 Section C P2"}
+      ],
+      "register": "书面（新闻调侃/广告体）",
+      "freq": "偶见",
+      "status": "candidate",
+      "related": null
+    },
+    {
+      "frame": "\"[X],\" or [Y], [S V]（or 同位语设靶）",
+      "gloss": "X——也就是Y——（先用术语设靶，再翻译成人话）",
+      "notes": "标点骨架：逗号+or+逗号撑住，or 后的同位语把术语即时展开。2026-09-17 methodology 判例3 已立但一直未入书登记，本批首次带真题逐字例句进登记通道。",
+      "pitfall": "读侧硬坑：or 读成选择义『或者』，整句关系崩（实为『即』）；",
+      "examples": [
+        {"text": "People-pleasing, or seeking self-worth through others' approval, is unproductive and an exhausting way to go through life.", "loc": "真题·四级 2024-06-1 · 阅读 Section C P1"}
+      ],
+      "register": "书面（评论）",
+      "freq": "常见",
+      "status": "candidate",
+      "related": "methodology 判例库 2026-09-17 正例3（'Short-termism', or the desire for quick profits…）——已立未编"
+    }
+  ],
+  "phrases": [
+    {"phrase": "be linked to/with [X]", "gloss": "（被研究）关联到——统计关联，非因果", "pitfall": "linked to cancer ≠ 导致癌症；link 读成『链接』", "family": "be associated with / be tied to", "examples": [{"text": "Diets high in fibre have been linked to a lower risk of developing heart disease, stroke, high blood pressure and diabetes", "loc": "真题·四级 2025-06-2 · 阅读 Section B D段"}, {"text": "Not only has red meat been linked to cancer, but studies show that people who ditch meat have lower blood pressure, l ower average blood sugar, and lower cholesterol levels.", "loc": "真题·四级 2025-06-3 · 阅读 Section C P2（l ower 词内空格为社区版噪声，逐字保留）"}]},
+    {"phrase": "in the first place", "gloss": "当初/根本上（回溯起点，非列举『首先』）", "pitfall": "读成 first(ly) 列举义，问句里 why…in the first place 的回溯质问语气丢掉", "family": "", "examples": [{"text": "If that were the case, why did the duration of the working week decline in the first place?", "loc": "真题·四级 2024-06-1 · 阅读 Section B D段"}]},
+    {"phrase": "make a career out of [V-ing]", "gloss": "靠研究/做某事成了事业", "pitfall": "字面『从…中制造职业』读散；out of 的来源义漏读", "family": "out of 系", "examples": [{"text": "Research partners Kaitlin Woolley of Cornell University and Ayelet Fishbach of the University of  Chicago have made a career out of  studying the differences between the goals  that people achieve and the ones that fall to the wayside.", "loc": "真题·四级 2024-06-2 · 阅读 Section B J段（双空格为社区版噪声，逐字保留）"}]},
+    {"phrase": "fall to/by the wayside", "gloss": "被淘汰/中途放弃（不了了之）", "pitfall": "wayside 字面『路边』读不懂", "family": "", "examples": [{"text": "the ones that fall to the wayside.", "loc": "真题·四级 2024-06-2 · 阅读 Section B J段"}]},
+    {"phrase": "what's in it for [sb]", "gloss": "（对某人）有什么好处/甜头", "pitfall": "in it 读散成『在里面』；整块=『这事儿给我啥』读不出", "family": "", "examples": [{"text": "make sure your present self knows what's in it for her too.", "loc": "真题·四级 2024-06-2 · 阅读 Section B M段"}]},
+    {"phrase": "give a damn about [X]", "gloss": "在乎X（几乎只用于否定/疑问）", "pitfall": "damn 粗口缓冲词卡住，整句读成冒犯或读不懂", "family": "give a hoot / could care less（反义套话）", "examples": [{"text": "In light of Hershfield’s study, one simple question arises: Is it possible to make our present selves give a damn about our future selves?", "loc": "真题·四级 2024-06-2 · 阅读 Section B D段"}]},
+    {"phrase": "get [sb] on board (with [X])", "gloss": "争取某人支持/加入（上船义）", "pitfall": "on board 读成『在板上/在船板上』字面义", "family": "onboarding", "examples": [{"text": "Before you can get somebody on -board with your goal, you should help them understand why they should pursue it.", "loc": "真题·四级 2024-06-3 · 阅读 Section C P2（on -board 词中空格为社区版噪声，逐字保留）"}]},
+    {"phrase": "be (all) to do with [X]", "gloss": "全看/全是X的缘故", "pitfall": "do with 读成『去做』；实为 have (nothing/much) to do with 的省缩版", "family": "have nothing to do with", "examples": [{"text": "The level of impact on students’ educational performance is all to do with the length of time that a student is absent from school and how regularly this occurs.", "loc": "真题·四级 2024-06-3 · 阅读 Section B J段"}]},
+    {"phrase": "dismiss [X] as [Adj/N]", "gloss": "把X断为…而不予考虑", "pitfall": "dismiss 读成『解散/解雇』；as 挂错（是评语不是方式）", "family": "write off as / pass off as", "examples": [{"text": "If you tried a vegetable burger years ago and dismissed it as rubbery and flavorless, it’s a good time to give meatless meat another chance.", "loc": "真题·四级 2025-06-3 · 阅读 Section C P2"}]},
+    {"phrase": "care for [X]", "gloss": "喜欢（多用于否定/疑问）", "pitfall": "读成『关心/照顾』义，整句方向偏", "family": "care for=look after（另一义）", "examples": [{"text": "Many vegetarians don’t actually care for food that resembles meat.", "loc": "真题·四级 2025-06-3 · 阅读 Section C P2"}]},
+    {"phrase": "ditch [X]", "gloss": "戒掉/弃用（口语）", "pitfall": "ditch 名词『沟』字面义卡住", "family": "", "examples": [{"text": "but studies show that people who ditch meat have lower blood pressure, l ower average blood sugar, and lower cholesterol levels.", "loc": "真题·四级 2025-06-3 · 阅读 Section C P2（l ower 词内空格为社区版噪声，逐字保留）"}]},
+    {"phrase": "crack the code (to [X])", "gloss": "破解了…的诀窍", "pitfall": "crack 读成『破裂/破解软件』窄义；code=密码→诀窍的引申漏读", "family": "crack the problem", "examples": [{"text": "“Maybe the best sign that Impossible Foods has cracked the code to realistic fake meat is that I couldn’t stand to take another bite,” she wrote.", "loc": "真题·四级 2025-06-3 · 阅读 Section C P2（引语）"}]},
+    {"phrase": "grind to a halt", "gloss": "（车流/谈判）嘎然而止、彻底停摆", "pitfall": "grind 字面『磨』读不懂", "family": "come to a halt / screech to a halt", "examples": [{"text": "and so the traffic grinds to a halt over nothing, Horn said.", "loc": "真题·四级 2025-06-3 · 阅读 Section B D段"}]},
+    {"phrase": "take [X] with a grain of salt", "gloss": "对X半信半疑", "pitfall": "a grain of salt 字面『一粒盐』读不懂", "family": "with a pinch of salt", "examples": [{"text": "However, remember to take the reviews you read with a grain of salt", "loc": "真题·四级 2022-06 · 阅读 Section B I段（截自含噪声连字符句的无噪声段）"}]},
+    {"phrase": "(not) on the same page", "gloss": "（不）想到一块儿去", "pitfall": "page 字面『同一页』读不懂", "family": "on the same wavelength", "examples": [{"text": "To put it plainly, we just weren't on the same page.", "loc": "真题·四级 2022-06 · 阅读 Section B B段"}]},
+    {"phrase": "a recipe for disaster", "gloss": "注定酿成灾祸的组合（整存）", "pitfall": "recipe 读死『菜谱』，整块=『灾祸配方』读不出", "family": "", "examples": [{"text": "Keep these tips in mind to figure out whether you and a potential employer are a perfect match or just a recipe (方案)for disaster.", "loc": "真题·四级 2022-06 · 阅读 Section B O段（夹注中文释义，逐字保留）"}]},
+    {"phrase": "slim to none", "gloss": "希望微乎其微", "pitfall": "slim 读成『苗条』字面义；to none 的归零方向漏读", "family": "next to nothing", "examples": [{"text": "What are my chances of finding all of those things with one employer? Slim to none 一 believe me, I've looked.", "loc": "真题·四级 2022-06 · 阅读 Section B M段（一 为破折号之社区版噪声，逐字保留）"}]},
+    {"phrase": "give [sb/sth] the (extra) edge", "gloss": "给…（决定性）优势", "pitfall": "edge 读成『边缘』，优势义读不出", "family": "a competitive edge / cutting edge", "examples": [{"text": "Science now suggests the right dress may give ourselves the extra edge in our professional and personal lives.", "loc": "真题·四级 2025-06-2 · 阅读 Section C P1"}]},
+    {"phrase": "work wonders for [X]", "gloss": "对X有奇效", "pitfall": "wonders 字面『奇迹』复数读不懂", "family": "do wonders for", "examples": [{"text": "While a good suit works wonders for our performance in the boardroom, wearing formal wear isn ’t a great idea when we want to socialize.", "loc": "真题·四级 2025-06-2 · 阅读 Section C P1（isn ’t 为社区版噪声，逐字保留）"}]},
+    {"phrase": "in the (right) frame of mind (to [V])", "gloss": "心态就绪（适合做X）", "pitfall": "frame of mind 读成『头脑的框架』拆散", "family": "in the mood / mindset", "examples": [{"text": "It seems that wearing formal office wear puts us in the right frame of mind to conduct business.", "loc": "真题·四级 2025-06-2 · 阅读 Section C P1"}]},
+    {"phrase": "for [years/centuries] to come", "gloss": "未来（很多年）里", "pitfall": "to come 读成『将要来』字面义；整块是后置定语", "family": "", "examples": [{"text": "Considering the huge impact they have had on our current society, it is without doubt that we can expect them to continue to remain important for centuries to come.", "loc": "真题·四级 2025-06-2 · 阅读 Section C P2"}]},
+    {"phrase": "make a case for [X]", "gloss": "为X陈情/论证其该存在", "pitfall": "case 读成『案例/情况』；介词悬空（a tricky subject to make a case for）读不出宾语落点", "family": "have a case / the case for", "examples": [{"text": "Ritman Smith adds: “Design technology has become a tricky subject to make a case for, and we’ve heard of departments closing in some schools.", "loc": "真题·四级 2025-06-1 · 阅读 Section B M段（引语，社区版漏后半引号，逐字保留）"}]},
+    {"phrase": "nowhere to be seen", "gloss": "踪影全无", "pitfall": "被动不定式嵌 nowhere，读成『没有地方去看』", "family": "nowhere to be found", "examples": [{"text": "But for most Americans, that prosperity is nowhere to be seen.", "loc": "真题·四级 2024-06-1 · 阅读 Section B K段"}]},
+    {"phrase": "make it worth [sb]'s while", "gloss": "让某人觉得值得（花功夫/花钱）", "pitfall": "while 读成『当…时』；整块=『补偿到位』读不出", "family": "worthwhile", "examples": [{"text": "And, of course, they are compensated for it at a level that makes it worth their while.", "loc": "真题·四级 2024-06-1 · 阅读 Section B J段"}]}
+  ],
+  "skipped": [
+    {"item": "just because [X] doesn't mean [Y]", "reason": "internal-batch-001 已立 candidate（族锚点）；本批语料新增真题逐字例句可回收：'However, just because it ’s plant-based doesn’t mean i t’s health food.'（2025-06-3 P2，社区版撇号噪声逐字保留）——回收时直接引此句"},
+    {"item": "It may well be that [S V]", "reason": "may well 词组级为主，误读弱于 it doesn't follow 族，不单占句式骨架位（'It may well be that the messy nature of…' 2025-06-1 P1）"},
+    {"item": "Just as [X], so does [Y]（Just as height usually declines over the years, so does brain volume）", "reason": "高中语法考点（类比状语从句+倒装），课本级"},
+    {"item": "[S] may have [V-ed], but [Y]（though American incomes may have gone up since 1973, …has gone down）", "reason": "让步 may 语法层可推导，单例"},
+    {"item": "where we get into trouble is when [X]", "reason": "家族B#1 假分裂的 where/when 变体，功能同（定位聚焦），不另立（2024-06-1 P1）"},
+    {"item": "whether it's [A] or [B]", "reason": "考研篇#3『whether that be / be it』已登记族的口语变体（2025-06-1 P2）"},
+    {"item": "Of course, that doesn't mean [X] / We've been told all our lives that [X]", "reason": "internal-batch-001『That's not to say』与 cam14『We are told that』的同族变体（2024-06-1 P2 / 2025-06-1 P2）"},
+    {"item": "it follows that [X]", "reason": "internal-batch-001『It doesn't follow that』的正向变体（2024-06-2 F段）"},
+    {"item": "neither are those shorter working weeks", "reason": "考研篇#10『Nor+助动词+主语』已登记族变体（2024-06-1 K段）"},
+    {"item": "One of the really useful things about [X] is that [S V]", "reason": "cam14『The (best/great) thing about [X] is that』已立 candidate 的 one of 变体（2025-06-1 J段）——回收该条时可并此例"},
+    {"item": "Among them are [X]", "reason": "cam14『Among the many [复数N] are』已立 candidate 的变体（2025-06-1 K段）"},
+    {"item": "On paper, [X]…（But in reality/Sounds like my dream job, right?）", "reason": "cam14 已判『表里对照对举』同功能组合，维持掠过（2022-06 A/B段）"},
+    {"item": "In a perfect world, [X]. But in the real world, [Y]", "reason": "理想/现实对举，判组合（2024-06-2 P2）"},
+    {"item": "It's not just about [X]. It's also about [Y]", "reason": "骨架死度不足（靠开放介词撑），语义透明，产出退化小（2025-06-2 K段引语）"},
+    {"item": "There was only one small problem: [X]", "reason": "降格揭示叙事件，单例，产出场景偏口语叙事，暂缓（2022-06 B段）"},
+    {"item": "But what about those of us who…?", "reason": "课本级（what about 转折设问）（2025-06-1 P2）"},
+    {"item": "there has been little study on [X] / a growing body of research suggests that", "reason": "报道框架连接处靠开放动词/名词撑（骨架死判据挂）；研究缺口功能已由『While we know』条覆盖（2024-06-1 SA / 2024-06-1 P2）"},
+    {"item": "Even something as simple as [X] can [Y]", "reason": "产出差距小（Even a simple thing like X 可平替）（2024-06-1 P2）"},
+    {"item": "more than a little [Adj]", "reason": "程度强调方向不反、仅强度差，误读弱（'His writing is more than a little dense' 2024-06-3 P1）"},
+    {"item": "can and does [V]", "reason": "助动词对举强调微型件，单例，待复现再收（'that meaning can and does change all the time' 2024-06-3 P1）"},
+    {"item": "Consider the fact that [S V] / Just read about [X]", "reason": "语义透明，产出退化小；与 cam14『You only have to [V] to realise』同功能（2024-06-3 P1）"},
+    {"item": "Take [X], for instance", "reason": "课本级举例件（2024-06-2 J段）"},
+    {"item": "must be an accident, or construction or something", "reason": "or something 口语含混件，常看美剧的读者已会，词典级（2025-06-3 B段引语）"},
+    {"item": "has long remained a mystery. But now, new research…", "reason": "新闻悬念-突破件，死词密度低判组合（2025-06-3 C段）"},
+    {"item": "top concern is not that [X] but that [Y]", "reason": "与六级篇#14『否定前句; rather』同功能（聚焦反转），变体不另立（2024-06-1 I段）"},
+    {"item": "than previously known / wider than we first thought possible", "reason": "家族A『more than anyone had thought』与六级篇#9『than might think』已登记族的变体（2025-06-1 SA / 2025-06-1 P2）"},
+    {"item": "So what should we make of all this?", "reason": "what do you make of X 判断征求件，单例偏短语级，留短语池待复现（2024-06-2 P2）"},
+    {"item": "It's time [S V-ed]", "reason": "cam14 已留人工复核项，本批无新增例，维持悬置"},
+    {"item": "so…that / such…that / not only…but also / the more…the more / as long as / even if / when it comes to / rather than / end up / it turns out / It takes sb time to / used to", "reason": "课本级或已编（教材回收/真题回收），通读中高频掠过"},
+    {"item": "Friedman tries to figure out why that increased productivity has not translated into increased leisure time", "reason": "报道+宾语从句长链，死词密度低，留长难句素材；translate into 词典可查不占短语位"}
+  ],
+  "granularity_note": "本批最长收录：'By all means,  set ambitious long-term goals for your future  self, but when it comes to actually following through day-to-day, make sure your present self knows what's in it for her too.'——判组合切分：只收 By all means…but 放行-收口框架，后半 when it comes to（已编）+ make sure（开放句型）不收。最长落选链：'the possible reason for this may partly have been the lack of the other components found in whole fruit'（2025-06-2）与 'Friedman tries to figure out why…has not translated into…'——多层名词化+宾语从句链，死词密度低，判长难句素材不收。碎片收整例：'What are my chances…? Slim to none' 与 'His aim? To isolate…' 以问句+碎片答整句视角收进自问自答条，两例独立语境。旧批重裁后仅 2 过 1 存疑，砍掉的 6 条全部撞『语法层/课本级/组合/短语肉/误读假想』五不收判据——正则能找到的（times what、than were 倒装）恰是本读者最不需要的。"
+}

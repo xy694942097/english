@@ -1,0 +1,266 @@
+{
+ "frames": [
+  {
+   "frame": "[祈使句], and [主句]",
+   "gloss": "照前句做，就会有后句的结果（一…就…）",
+   "notes": "祈使表条件、and 后接结果；勿当并列动作读",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1363",
+     "text": "But take a longer view and there is a surprising amount that we can say with considerable assurance."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1370",
+     "text": "Take a broader look at our species' place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2014-1390",
+     "text": "Ask anyone newly unemployed what they want and the answer is always: a job."
+    }
+   ]
+  },
+  {
+   "frame": "[表语Adj] is [wh-从句]（表语前置倒装）",
+   "gloss": "…如何/为何，还很不确定（不清楚）",
+   "notes": "wh-从句重而后置；还原 It is unclear why…",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2012-1266",
+     "text": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1345",
+     "text": "Also unclear is why Microsoft has gone it alone."
+    }
+   ]
+  },
+  {
+   "frame": "As so often (is the case), [主句]",
+   "gloss": "正如惯常的情形（照例如此）",
+   "notes": "话语标记整存整取；勿按 as 从句硬拆",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1369",
+     "text": "As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts about the situations in which our descendants will find themselves."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2015-1495",
+     "text": "As so often is the case, stating that principle doesn't ease the challenge of line-drawing."
+    }
+   ]
+  },
+  {
+   "frame": "Rather than [V-ing], [主句]（句首取舍前置）",
+   "gloss": "没有做A，而是做了B",
+   "notes": "顺序与常用式相反，先否后肯；易误判哪个动作发生",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1210",
+     "text": "Rather than cloaking his exit in the usual vague excuses, he came right out and said he was leaving “to pursue my goal of running a company."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1239",
+     "text": "Rather than concluding that children make parents either happy or miserable, Senior suggests we need to redefine happiness: instead of thinking of it as something that can be measured by moment-to-moment joy, we should consider being happy as a past-tense condition."
+    }
+   ],
+   "related": "[do A] rather than [do B]；rather than + V-ing + 祈使句（与其A不如B）"
+  },
+  {
+   "frame": "the very [N] (that [S V])",
+   "gloss": "正是这个/这些N（恰恰是）",
+   "notes": "very 作形容词表强调，勿读成副词 very",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1240",
+     "text": "Even though the day-to-day experience of raising kids can be soul-crushingly hard, Senior writes that “the very things that in the moment dampen our moods can later be sources of intense gratification and delight."
+    },
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2014-1392",
+     "text": "Even the very phrase \"jobseeker's allowance\" is about redefining the unemployed as a \"jobseeker\" who had no fundamental right to a benefit he or she has earned through making national insurance contributions."
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "frame": "Had [S] [V-ed], [S] would [V]（倒装虚拟）",
+   "gloss": "如果当初…，就会…（对过去的假设）",
+   "notes": "if 省略+had 提前；考研高频倒装",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2012-1274",
+     "text": "But had Entergy kept its word, that debate would be beside the point."
+    }
+   ],
+   "related": "Should you [V] / Were it not for [X]（倒装同族）"
+  },
+  {
+   "frame": "[N] being what it is, [主句]",
+   "gloss": "鉴于N本来就是这副样子，…",
+   "notes": "独立主格+what it is 固定死词；表无奈归因",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1342",
+     "text": "Human nature being what it is, most people stick with default settings."
+    }
+   ]
+  },
+  {
+   "frame": "[说法/谚语] has it that [S V]",
+   "gloss": "俗话说/据称…",
+   "notes": "have it that=据说；it 为形式宾语",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1348",
+     "text": "An old saying has it that half of all advertising budgets are wasted - the trouble is, no one knows which half."
+    }
+   ]
+  },
+  {
+   "frame": "only too [adj] to [V]",
+   "gloss": "非常乐意去…（求之不得）",
+   "notes": "与 too…to（太…而不能）语义相反，极易读反",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2014-1391",
+     "text": "But in Osborneland, your first instinct is to fall into dependency - permanent dependency if you can get it - supported by a state only too ready to indulge your falsehood."
+    }
+   ],
+   "related": "too [Adj] (for sb) to [V]"
+  },
+  {
+   "frame": "so much the [比较级]",
+   "gloss": "那就更…了（反倒更好/更容易）",
+   "notes": "the+比较级固定搭配；勿按 so much 字面读",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2015-1485",
+     "text": "The development of \"cloud computing\", meanwhile, has made that exploration so much the easier."
+    }
+   ]
+  },
+  {
+   "frame": "nothing more than [N/V-ing]",
+   "gloss": "只不过是…（仅此而已）",
+   "notes": "表贬低限定；与 nothing less than 方向相反",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2012-1254",
+     "text": "Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers - teenagers, who desire nothing more than fitting in."
+    }
+   ],
+   "related": "nothing less than [X] / nothing short of [X]"
+  },
+  {
+   "frame": "anything less than [NP]",
+   "gloss": "绝非/算不上…（丝毫不是）",
+   "notes": "否定语境=完全不是；勿按『少于』读",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1234",
+     "text": "It's no surprise that Jennifer Senior's insightful, provocative magazine cover story, “I love My Children, I Hate My Life,” is arousing much chatter - nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience."
+    }
+   ],
+   "related": "nothing less than [X] / nothing short of [X]"
+  },
+  {
+   "frame": "to hear [sb] tell it, [主句]",
+   "gloss": "照某人的说法，…（暗含不信）",
+   "notes": "固定插入语；引他人说法后常带反驳",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1246",
+     "text": "No shock there, considering how much work it is to raise a kid without a partner to lean on; yet to hear Sandra and Britney tell it, raising a kid on their “own” (read: with round-the-clock help) is a piece of cake."
+    }
+   ]
+  },
+  {
+   "frame": "is it any wonder (that) [S V]?",
+   "gloss": "难怪…（…有什么可奇怪的）",
+   "notes": "反问表肯定；wonder 非『想知道』",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1243",
+     "text": "In a society that so persistently celebrates procreation, is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing?"
+    }
+   ]
+  },
+  {
+   "frame": "It is/was [时段] before [S did]",
+   "gloss": "过了…才…（…之后才发生）",
+   "notes": "before 从句表『才』，时间先后易读反",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1205",
+     "text": "It was a year before she became head of a tiny Internet-based commodities exchange."
+    }
+   ]
+  },
+  {
+   "frame": "nothing gets [sb] [V-ing] like [NP]",
+   "gloss": "没有什么比…更能让某人…",
+   "notes": "like 表比较而非喜欢；gets sb doing 使动",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1234",
+     "text": "It's no surprise that Jennifer Senior's insightful, provocative magazine cover story, “I love My Children, I Hate My Life,” is arousing much chatter - nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience."
+    }
+   ]
+  },
+  {
+   "frame": "be it in [A] or in [B]",
+   "gloss": "无论是A还是B（都一样）",
+   "notes": "虚拟让步倒装；=whether it is A or B",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1332",
+     "text": "She exhibits the idealism common to many advocates of sustainability, be it in food or in energy."
+    }
+   ]
+  },
+  {
+   "frame": "[A], if not [B],（插入让步）",
+   "gloss": "即便算不上B，至少也是A",
+   "notes": "if not 插入表递进让步；标点成对",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1370",
+     "text": "Take a broader look at our species' place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years."
+    }
+   ]
+  },
+  {
+   "frame": "can't afford not to [V]",
+   "gloss": "不能不…（承担不起不做的后果）",
+   "notes": "双重否定表必须；易漏读第二个否定",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1336",
+     "text": "Vanity is a constant; people will only start shopping more sustainably when they can't afford not to."
+    }
+   ]
+  },
+  {
+   "frame": "couldn't be more [adj]",
+   "gloss": "再…不过了（极其…）",
+   "notes": "否定+比较级=最高级强调",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2013-1335",
+     "text": "This top-down conception of the fashion business couldn't be more out of date or at odds with the feverish world described in *Overdressed*, Elizabeth Cline's three-year indictment of \"fast fashion\"."
+    }
+   ]
+  },
+  {
+   "frame": "wonder if [S] aren't [V-ing]（揣度否定）",
+   "gloss": "琢磨…是不是正在…（其实但愿如此）",
+   "notes": "if 从句否定表期望；否定转移易读反",
+   "examples": [
+    {
+     "id": "kaoyan-kaoyan1-jingfan-2011-1247",
+     "text": "But it's interesting to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren't in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting “the Rachel” might make us look just a little bit like Jennifer Aniston."
+    }
+   ]
+  }
+ ]
+}
