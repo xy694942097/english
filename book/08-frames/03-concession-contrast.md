@@ -4,7 +4,17 @@
 
 **语料覆盖披露（2026-09-16 二次精确扫描）：** for all、far from 有语料例句；much as 让步用法 0 条（39 条命中全是 as much as 数量用法，陷阱已入节内）；be that as it may 语料 0 条，纯自造。
 
-## [A/Adv/N] as/though [S V]
+## 本章预览
+
+| 编号 | 框架 | 一句话语义 |
+|---|---|---|
+| 1 | [A/Adv/N] as/though [S V] | 尽管…（倒装让步） |
+| 2 | much as [S V] | 尽管…（带“虽然很…”的让步分量） |
+| 3 | for all [X] | 尽管[有]X |
+| 4 | far from [A/V-ing] | 不但没有…反而… |
+| 5 | be that as it may（不常用） | 即便如此 |
+
+## 1. [A/Adv/N] as/though [S V]
 
 **语义：尽管…（倒装让步）。** 把表语/状语/名词提到句首，语气比 although 强。
 
@@ -33,7 +43,7 @@ as 换成 though 也可以；换although 则必须恢复正常语序
 | 把句首 Strange 当主语补语理解反 | 先识别 as=though 的让步倒装，再读主干 |
 | Child as he was 加冠词 | 名词提前时冠词消失（Child as he was，不是 A child） |
 
-## much as [S V]
+## 2. much as [S V]
 
 **语义：尽管…（带“虽然很…”的让步分量）。** 语料库中让步用法无干净例句，主例句为自造，比拟用法对照例附后。
 
@@ -65,7 +75,7 @@ much as 整体 = although（让步连词）
 
 正如相对论包容了牛顿物理，量子引力理论终将包容相对论。——从句与主句是同类关系，这是比拟不是让步。
 
-## for all [X]
+## 3. for all [X]
 
 **语义：尽管[有]X。** for all + 名词短语，让步埋在介词里，正式书面。
 
@@ -86,7 +96,7 @@ for all + 名词短语 = despite
 陷阱：不是"为了所有X"——见到 for all + 抽象名词 + 逗号 + 转折，按 despite 读
 ```
 
-## far from [A/V-ing]
+## 4. far from [A/V-ing]
 
 **语义：不但没有…反而…。** 否定一个预期，引出相反事实。
 
@@ -107,7 +117,7 @@ far from + 形容词/动名词/名词
 暗含比较：实际离预期"很远"（far）
 ```
 
-## be that as it may（不常用）
+## 5. be that as it may（不常用）
 
 **语义：即便如此。** 固定虚拟式让步，先承认前文再顶回去。
 

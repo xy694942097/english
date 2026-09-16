@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DOWNLOADS = ROOT / "references" / "downloads" / "zhenghaoyang24-voc"
+DOWNLOADS = ROOT / "materials" / "vocabulary" / "zhenghaoyang24-voc"
 DEFAULT_DB = ROOT / "data" / "combined_dictionary.sqlite3"
 REPORT_DIR = ROOT / "references" / "imports" / "2026-09-16-voc-examples"
 

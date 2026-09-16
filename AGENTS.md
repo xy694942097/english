@@ -4,8 +4,8 @@
 
 ## 目录体系（2026-09-16 定版）
 
-- **engineering/**：工程文档总目录，左侧对应顶层资源「工程文档」，内含子目录 agents/（agent 文档，与根目录 AGENTS.md 同组）、design/（设计方案→组「设计」）、methodology/（调研方法→组「调研与方法」）。新增工程文档放对应子目录，前端自动发现。
-- **AGENTS.md**：根目录唯一保留的 agent 入口文档；被它引用的其它 agent 文档放 engineering/agents/。
+- **engineering/**：工程文档总目录，左侧对应顶层资源「工程文档」，内含子目录 agents/（agent 文档，与根目录 AGENTS.md 同组）、design/（设计方案→组「设计」）、methodology/（调研方法→组「调研与方法」）、archive/（已完成或被取代的历史文档→组「历史归档」，只进不出，不删除）。新增工程文档放对应子目录，前端自动发现。整理原则：文档失去现实效力（计划全部完成、被新文档取代、纯历史记录）就移入 archive/，保留路径与引用。
+- **AGENTS.md**：根目录唯一保留的 agent 入口文档；被它引用的其它 agent 文档放 engineering/agents/（目录职责见其 README.md）。
 - **progress/**：学习进度与能力诊断（非工程建设进度），保持根目录，对应资源「进度与诊断」。
 - **book/**：教材。子目录=左侧资源（如 08-frames→句式框架）；book 目录本身不对应左侧资源——根目录的 README 为书入口（前端不进导航，专题页底部「关于本书」可达），TEMPLATE/BACKLOG/CHANGELOG 归「工程文档→Agent 文档」组。
 - **references/**、**vocabulary/**：分别对应「参考资料」「历史课堂」。

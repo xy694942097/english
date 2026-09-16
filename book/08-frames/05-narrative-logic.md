@@ -4,7 +4,17 @@
 
 **语料覆盖披露（2026-09-16 二次精确扫描）：** 前三框架的例句均与诊断句同源（自造原型）；not least because 确认 0 条（命中全是 last but not least，对比已入节内）；insofar as 有 2-3 条语料。
 
-## What began as [X] ended up [Y]
+## 本章预览
+
+| 编号 | 框架 | 一句话语义 |
+|---|---|---|
+| 1 | What began as [X] ended up [Y] | 始于X而终于Y |
+| 2 | What [S] failed to anticipate was [Y] | 没料到的是Y |
+| 3 | That [X], rather than [Y], was [Z] | 是X而非Y |
+| 4 | not least because / not least of which | 尤其是因为…（不是"最不"——反而是加重） |
+| 5 | insofar as | 在…范围内；就…而言 |
+
+## 1. What began as [X] ended up [Y]
 
 **语义：始于X而终于Y。** 叙事反差框架：起点与终点落差越大，语气越强。
 
@@ -25,7 +35,7 @@ ended up + V-ing = 以…告终（end up 后接动名词，不接不定式）
 变体：What started as … / ended in + 名词（ended in disaster）
 ```
 
-## What [S] failed to anticipate was [Y]
+## 2. What [S] failed to anticipate was [Y]
 
 **语义：没料到的是Y。** 复盘文的标配开场，聚焦"预期的盲区"。
 
@@ -48,7 +58,7 @@ was 后接焦点，两种形态：
 写作模板：复盘 = What we failed to anticipate was X. Now we…
 ```
 
-## That [X], rather than [Y], was [Z]
+## 3. That [X], rather than [Y], was [Z]
 
 **语义：是X而非Y。** 主语从句 + 平行插入的"排除法"框架。详见家族B章同节，此处补充叙事用法。
 
@@ -58,7 +68,7 @@ was 后接焦点，两种形态：
 
 **结构注：** rather than 前后成分严格平行（by DNS / by the database）。功能是把"纠错过程的结果"压进一个句子：先立正解，再排除误解。
 
-## not least because / not least of which
+## 4. not least because / not least of which
 
 **语义：尤其是因为…（不是"最不"——反而是加重）。**
 
@@ -83,7 +93,7 @@ not least = 特别是（否定+最高级的反直觉组合：不是"最不重要
 | 读成"最不重要的是因为" | not least=especially，是加重不是削弱 |
 | 和 last but not least 混淆 | 后者管列举位序，前者管原因分量 |
 
-## insofar as
+## 5. insofar as
 
 **语义：在…范围内；就…而言。** 限定程度的从句连词。
 

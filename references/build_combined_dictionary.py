@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DOWNLOADS = ROOT / "references" / "downloads"
+DOWNLOADS = ROOT / "materials" / "dictionaries"
 DEFAULT_OUTPUT = ROOT / "data" / "combined_dictionary.sqlite3"
 WORDNET_POS = {
     "noun": "n",

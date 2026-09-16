@@ -93,7 +93,8 @@ class LearningSiteTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
             for rel in ['engineering/agents/conventions.md', 'engineering/design/plan.md',
-                        'engineering/methodology/sla.md', 'AGENTS.md', 'README.md',
+                        'engineering/methodology/sla.md', 'engineering/archive/old-plan.md',
+                        'AGENTS.md', 'README.md',
                         'progress/diagnosis.md', 'references/README.md',
                         'book/BACKLOG.md', 'book/TEMPLATE.md', 'book/README.md',
                         'vocabulary/old-lesson.md', 'book/08-frames/extra.md']:
@@ -107,6 +108,7 @@ class LearningSiteTests(unittest.TestCase):
                 ('engineering/agents/conventions.md', 'engineering', 'Agent 文档', False),
                 ('engineering/design/plan.md', 'engineering', '设计', False),
                 ('engineering/methodology/sla.md', 'engineering', '调研与方法', False),
+                ('engineering/archive/old-plan.md', 'engineering', '历史归档', False),
                 ('progress/diagnosis.md', 'progress', '进度与诊断', False),
                 ('references/README.md', 'reference', '参考资料', False),
                 ('book/BACKLOG.md', 'engineering', 'Agent 文档', False),
@@ -124,6 +126,22 @@ class LearningSiteTests(unittest.TestCase):
                 self.assertNotIn(rel, by_id)
             self.assertTrue(by_id['README.md'].get('hidden'))
             self.assertTrue(by_id['book/README.md'].get('hidden'))
+
+    def test_materials_index_is_discovered_and_vendor_docs_are_skipped(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            for rel in ['materials/README.md', 'materials/vocabulary/notes.md',
+                        'materials/dictionaries/ecdict/repo/README.md']:
+                path = root / rel
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text('# 学习资料\n\n索引', encoding='utf-8')
+            items = server.catalog(root)
+            by_id = {i['id']: i for i in items}
+            self.assertIn('materials/README.md', by_id)
+            self.assertEqual(by_id['materials/README.md']['section'], 'reference')
+            self.assertEqual(by_id['materials/README.md']['group'], '学习资料')
+            self.assertNotIn('materials/vocabulary/notes.md', by_id)
+            self.assertNotIn('materials/dictionaries/ecdict/repo/README.md', by_id)
 
     def test_prompt_includes_profile_chapter_and_actual_history(self):
         prompt = server.teaching_prompt(

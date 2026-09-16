@@ -4,7 +4,7 @@
 
 ## 来源与规模
 
-下载13个资料/来源说明文件（其中4个主要数据文件用于本批导入），SHA-256见references/downloads-manifest.json。导入详细记录见references/imports/2026-09-14-vocabulary/report.json。
+下载13个资料/来源说明文件（其中4个主要数据文件用于本批导入，现存 materials/vocabulary/），SHA-256见materials/downloads-manifest.json（2026-09-16 前登记于 references/downloads-manifest.json，迁移时路径已改写）。导入详细记录见references/imports/2026-09-14-vocabulary/report.json。
 
 四级4544词、六级3991词、专八12410词、NGSL2809词，另有三组关联词组。集合相互重叠；最后知识库53972条，包含13134词条、40833词组义项及5个原有其他条目。NGSL来自社区镜像，未与官方CSV逐项校对；关联词组不是官方必考清单。
 

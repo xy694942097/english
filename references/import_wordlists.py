@@ -13,7 +13,7 @@ ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'site'))
 from learning_store import Store, normal
 
-DOWNLOADS=ROOT/'references/downloads'
+DOWNLOADS=ROOT/'materials/vocabulary'
 SPECS=[('cet4','四级词汇','CET4-rich.jsonl','四级'),('cet6','六级词汇','CET6-rich.jsonl','六级'),('tem8','专八词汇','TEM8-rich.jsonl','专八')]
 
 def unique(values):return list(dict.fromkeys(x.strip() for x in values if isinstance(x,str) and x.strip()))

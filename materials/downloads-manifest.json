@@ -1,0 +1,861 @@
+{
+  "created_at": "2026-09-14T12:33:17.940674+00:00",
+  "files": [
+    {
+      "file": "vocabulary/CET4_T.json",
+      "bytes": 499501,
+      "sha256": "733dd9f9c05ed9e3c35fbd65608e4e061e2d34c461723e057513e346562992de"
+    },
+    {
+      "file": "vocabulary/CET6_T.json",
+      "bytes": 481442,
+      "sha256": "ed5e76b945b7c7bc567a75d44a6eaeda137c767960121057deab52593e245d6e"
+    },
+    {
+      "file": "vocabulary/KyleBing-format.md",
+      "bytes": 3920,
+      "sha256": "08949b7a153370f60ef92fd5fdee4993b63efc1160b2e5678ca4c02011987088"
+    },
+    {
+      "file": "vocabulary/PTE-phrases-community.json",
+      "bytes": 32885,
+      "sha256": "3840ee4646dab7783367741600f9359a67a8db7483032ea9a3a43c1835c7dcd1"
+    },
+    {
+      "file": "vocabulary/FCE-phrases-community.json",
+      "bytes": 47337,
+      "sha256": "ab6a33ed12b3a43d0c4f298815f13da5e07b7ad531a448f2d67ce4e9696d757d"
+    },
+    {
+      "file": "vocabulary/TEM8_T.json",
+      "bytes": 2513478,
+      "sha256": "1203dc5777cea51998f6de22cf2f7565c9a87185e7f1593065e708de14fb647d"
+    },
+    {
+      "file": "vocabulary/Qwerty-LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "file": "vocabulary/TEM8-rich.jsonl",
+      "bytes": 9012608,
+      "sha256": "ee202ddcde9abefe02d5ed423991899f6141daee7ca3c264c6b7434e422d420f"
+    },
+    {
+      "file": "vocabulary/CET4-rich.jsonl",
+      "bytes": 7403986,
+      "sha256": "e70511755f8da283ce25d37dd0662b0db35180aad0735c0767eedb37b8508e98"
+    },
+    {
+      "file": "vocabulary/NGSL-1.2-community.json",
+      "bytes": 340540,
+      "sha256": "bec407ca0042ed19e8b6c8e107ef4865e7fb9ccde70e0a78dd4df5c49cf71ac3"
+    },
+    {
+      "file": "vocabulary/upstream-kajweb-README.md",
+      "bytes": 41504,
+      "sha256": "8f120c67e13596ea4c34cb2fec15b160c43812f662999c96602959e18f712954"
+    },
+    {
+      "file": "vocabulary/CET6-rich.jsonl",
+      "bytes": 4340935,
+      "sha256": "2c2f65773b7d272334efeb5ad302382b18f791c58bb238a6feb777a7c4b81f8b"
+    },
+    {
+      "file": "vocabulary/Qwerty-dictionary-index.ts",
+      "bytes": 103745,
+      "sha256": "fc3b33cf8c728a69b79e8935a6cfb1aa33f046158e05167d34e288d535db8982"
+    },
+    {
+      "file": "papers/exams/cet4-2022-06.pdf",
+      "bytes": 323380,
+      "sha256": "f48a9db1911a4a703395f2b779763e699dca44a7a9d23a9fb10e0067bd4ba54c",
+      "source": "github.com/DieDiDi/CET4-6-past-exam-paper (237 stars)",
+      "url": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/四六级历年真题汇总/2022年6月、12月英语四六级/四级-2022年06月-12月/【试卷-第1套】2022年06月四级考试真题.pdf",
+      "description": "大学英语四级 2022年6月真题 第1套",
+      "downloaded": "2026-09-16"
+    },
+    {
+      "file": "papers/exams/cet6-2018-06.pdf",
+      "bytes": 101217,
+      "sha256": "94aa007c5e3a9346cc14bd35ec2232e75db9abd53716209a87fc583d3cbae364",
+      "source": "github.com/youngflysky/KaoYanZhenTi-PDF",
+      "url": "https://raw.githubusercontent.com/youngflysky/KaoYanZhenTi-PDF/main/历年六级真题/2018年06月CET6/第一套/2018年6月英语六级真题（卷一）.pdf",
+      "description": "大学英语六级 2018年6月真题 卷一",
+      "downloaded": "2026-09-16"
+    },
+    {
+      "file": "papers/exams/kaoyan-1-2018.pdf",
+      "bytes": 1523349,
+      "sha256": "6e3a4d211967eb25ea7e93af6571504f455d8ff0be3b394ffbe329c173f10bb4",
+      "source": "github.com/youngflysky/KaoYanZhenTi-PDF",
+      "url": "https://raw.githubusercontent.com/youngflysky/KaoYanZhenTi-PDF/main/英一历年真题/2018.pdf",
+      "description": "考研英语（一）2018年真题",
+      "downloaded": "2026-09-16"
+    },
+    {
+      "file": "papers/exams/kaoyan-1-2019.pdf",
+      "bytes": 1215563,
+      "sha256": "5e490f9bb75bff0ad6a867021057f318c62dcda9cf6a5aa1bdac59ac498c8c6f",
+      "source": "github.com/youngflysky/KaoYanZhenTi-PDF (588 stars)",
+      "url": "https://raw.githubusercontent.com/youngflysky/KaoYanZhenTi-PDF/main/英一历年真题/2019.pdf",
+      "description": "考研英语（一）2019年真题",
+      "downloaded": "2026-09-16"
+    },
+    {
+      "file": "papers/exams/kaoyan-2-2018.pdf",
+      "bytes": 418404,
+      "sha256": "6a11737f5413bc3189d0e16f86d1639225536c8f48cec57650e1190c765545d5",
+      "source": "github.com/zwd1216/yingyuer",
+      "url": "https://raw.githubusercontent.com/zwd1216/yingyuer/master/2018年真题.pdf",
+      "description": "考研英语（二）2018年真题",
+      "downloaded": "2026-09-16"
+    },
+    {
+      "file": "papers/exams/kaoyan-2-2019.pdf",
+      "bytes": 255129,
+      "sha256": "2dd3d709bfc80f22d4652286bb0c927fb3a9560919b501ae33959534e2afc012",
+      "source": "github.com/zwd1216/yingyuer (历年考研英语二真题)",
+      "url": "https://raw.githubusercontent.com/zwd1216/yingyuer/master/2019年英语二真题.pdf",
+      "description": "考研英语（二）2019年真题",
+      "downloaded": "2026-09-16"
+    },
+    {
+      "bytes": 542964,
+      "sha256": "208e667208cd1e9afdaf30294be4e7663de31428b2f18b6b9554c67d1f9cb873",
+      "source": "github.com/m2kar/KaoYan-English",
+      "url": "https://raw.githubusercontent.com/m2kar/KaoYan-English/master/%E8%8B%B1%E8%AF%AD%E4%B8%80%E6%89%8B%E8%AF%91%E7%89%88/1986%E2%80%941995%E5%B9%B4%E5%8E%86%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E9%9B%86.pdf",
+      "description": "考研英语一历年真题手译版 1986/1995（m2kar/KaoYan-English）",
+      "downloaded": "2026-09-16",
+      "file": "papers/kaoyan/kaoyan1-handtranslation-1986-1995.pdf"
+    },
+    {
+      "bytes": 1372670,
+      "sha256": "dde93fa95cd55b03b4f880af81240e1bcb9f9e1f7e5206cb822cc653c1c30d1c",
+      "source": "github.com/m2kar/KaoYan-English",
+      "url": "https://raw.githubusercontent.com/m2kar/KaoYan-English/master/%E8%8B%B1%E8%AF%AD%E4%B8%80%E6%89%8B%E8%AF%91%E7%89%88/1996%E2%80%942004%E5%B9%B4%E5%8E%86%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E9%9B%86.pdf",
+      "description": "考研英语一历年真题手译版 1996/2004（m2kar/KaoYan-English）",
+      "downloaded": "2026-09-16",
+      "file": "papers/kaoyan/kaoyan1-handtranslation-1996-2004.pdf"
+    },
+    {
+      "bytes": 563318,
+      "sha256": "710f480add9f7b29ad076240155dc0766672ddc426f3437ee779fc86562bfbdb",
+      "source": "github.com/m2kar/KaoYan-English",
+      "url": "https://raw.githubusercontent.com/m2kar/KaoYan-English/master/%E8%8B%B1%E8%AF%AD%E4%B8%80%E6%89%8B%E8%AF%91%E7%89%88/2005%E2%80%942009%E5%B9%B4%E5%8E%86%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E9%9B%86.pdf",
+      "description": "考研英语一历年真题手译版 2005/2009（m2kar/KaoYan-English）",
+      "downloaded": "2026-09-16",
+      "file": "papers/kaoyan/kaoyan1-handtranslation-2005-2009.pdf"
+    },
+    {
+      "bytes": 1188154,
+      "sha256": "18e280150eff1f4286257be62a12005f607d8d5b99253070c735275db62b1536",
+      "source": "github.com/m2kar/KaoYan-English",
+      "url": "https://raw.githubusercontent.com/m2kar/KaoYan-English/master/%E8%8B%B1%E8%AF%AD%E4%B8%80%E6%89%8B%E8%AF%91%E7%89%88/2010%E2%80%942019%E5%B9%B4%E5%8E%86%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%9C%9F%E9%A2%98%E9%9B%86.pdf",
+      "description": "考研英语一历年真题手译版 2010/2019（m2kar/KaoYan-English）",
+      "downloaded": "2026-09-16",
+      "file": "papers/kaoyan/kaoyan1-handtranslation-2010-2019.pdf"
+    },
+    {
+      "bytes": 213487,
+      "sha256": "2c17211a587ef4f30ba6fa9cb04be834bc3c749e18f21eb74a6dd1fa97609b52",
+      "source": "github.com/m2kar/KaoYan-English",
+      "url": "https://raw.githubusercontent.com/m2kar/KaoYan-English/master/%E8%8B%B1%E8%AF%AD%E4%B8%80%E6%89%8B%E8%AF%91%E7%89%88/2020%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%29%E7%9C%9F%E9%A2%98%E6%89%8B%E8%AF%91.pdf",
+      "description": "考研英语一历年真题手译版 2020（m2kar/KaoYan-English）",
+      "downloaded": "2026-09-16",
+      "file": "papers/kaoyan/kaoyan1-handtranslation-2020.pdf"
+    },
+    {
+      "bytes": 4045658,
+      "sha256": "6c1838413b84179429ff09e39f3089a91f5935f5a5d8552fa4ef12a6e9027eb5",
+      "source": "github.com/m2kar/KaoYan-English",
+      "url": "https://raw.githubusercontent.com/m2kar/KaoYan-English/master/%E7%9C%9F%E9%A2%98%E9%9B%86%EF%BC%88%E7%BA%AF%E7%9C%9F%E9%A2%98%E5%8F%AF%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8D%B0%EF%BC%89%E8%8B%B1%E8%AF%AD%E4%B8%80/2020%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%29%E7%9C%9F%E9%A2%98.pdf",
+      "description": "考研英语一 2020 年真题纯卷（m2kar/KaoYan-English）",
+      "downloaded": "2026-09-16",
+      "file": "papers/kaoyan/kaoyan1-2020.pdf"
+    },
+    {
+      "bytes": 23158,
+      "sha256": "7c131434b241e6c7ad64b7fe311aa0cfdece4c66a518f03283caedf542caf3c0",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2016-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2016-06_01.txt"
+    },
+    {
+      "bytes": 22383,
+      "sha256": "51e208e389382b19e85ced9a0b7ed493aec66ef990e1c09bf74fc09d8e5124ae",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2016-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2016-06_02.txt"
+    },
+    {
+      "bytes": 21486,
+      "sha256": "436bc1779abd479dcf90a2ca6a71d4f6709b48d30e09cf938bc97c7a9a56e982",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2016-06_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2016-06_03.txt"
+    },
+    {
+      "bytes": 22274,
+      "sha256": "7c3e6b1a6b4a9f97bfa9339c72d3242de1cc3c2cd0908193481f7f1179d550cc",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2016-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2016-12_01.txt"
+    },
+    {
+      "bytes": 16087,
+      "sha256": "7c25fae4840610e441868201eed25475f09b01c225f9244ecb3b7366d26274a8",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2016-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2016-12_02.txt"
+    },
+    {
+      "bytes": 21062,
+      "sha256": "f0c5489b5c5fcfcc3613654f2049e1c017fa8c4f349b55ede198e70e6d790678",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2016-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2016-12_03.txt"
+    },
+    {
+      "bytes": 16686,
+      "sha256": "6d8bfbbf6c7d193fbb4c88c399c01d73cf8ca9c618a9ec7dd80f94056d53a36f",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2017-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2017-06_01.txt"
+    },
+    {
+      "bytes": 15742,
+      "sha256": "fc72a08fe92dd6a2e96c50b535750fc4477ae46f4157ecfd4f54c8f232cb004e",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2017-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2017-06_02.txt"
+    },
+    {
+      "bytes": 20997,
+      "sha256": "57f43354bedf1de2f4e8b164ccbb152ea452ac8f1c86f7b48dcbb4c70b8e909c",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2017-06_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2017-06_03.txt"
+    },
+    {
+      "bytes": 22927,
+      "sha256": "1b21d096ffaa719eef5e935335aef9d67794ff58f67709e602d0cc46474d87b0",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2017-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2017-12_01.txt"
+    },
+    {
+      "bytes": 21787,
+      "sha256": "1a9e586cbd9107915354174a6a80eb332b7ff9063bbbbe2c93806af8b438b6ec",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2017-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2017-12_02.txt"
+    },
+    {
+      "bytes": 20569,
+      "sha256": "b92c9130caca9b1a412a4e86210b0ae8a26d083f3bb13d1a22d7b92529366023",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2017-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2017-12_03.txt"
+    },
+    {
+      "bytes": 26002,
+      "sha256": "0b7ea218b1219218aeb9df1e13f3a815b6b186b4bb8c4f5fb67ffff6cd84101e",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2018-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2018-06_01.txt"
+    },
+    {
+      "bytes": 14730,
+      "sha256": "b02b30412f691e9faf885d4b7251493c7748e62881bb677cdefbb02d5e7a57a8",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2018-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2018-06_02.txt"
+    },
+    {
+      "bytes": 21136,
+      "sha256": "12aa30bf24230026143bc3d40abbc14496cfbe2a50f1c5e795a1d122a3e951ab",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2018-06_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2018-06_03.txt"
+    },
+    {
+      "bytes": 21855,
+      "sha256": "62827e540aff3aa2fafb61e10435f912e63ee1a68a137390e2c9c6b414e78d3f",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2018-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2018-12_01.txt"
+    },
+    {
+      "bytes": 21957,
+      "sha256": "83387b8df04eac90e73ee80dcd54a37b839e1349388899d1cadcf371e85aa215",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2018-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2018-12_02.txt"
+    },
+    {
+      "bytes": 20102,
+      "sha256": "e77a43eb210800c6cd397a633ec631b7203675c7411ebf52a90d20a897bbcc60",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2018-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2018-12_03.txt"
+    },
+    {
+      "bytes": 17989,
+      "sha256": "e9fdb386961f1adca142e96538e24665c7ca2e84028664633686aa5c4d5e44fc",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2019-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2019-06_01.txt"
+    },
+    {
+      "bytes": 18831,
+      "sha256": "843f41de6120e7b30c24ee1551ff1a16fd697130c3eb637558170b5e63e1eb74",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2019-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2019-06_02.txt"
+    },
+    {
+      "bytes": 20937,
+      "sha256": "79e89c7c766c1cbf1fb78061f8d6ad15f6b9f1c6b0f92d5e8fc39665e38a9b78",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2019-06_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2019-06_03.txt"
+    },
+    {
+      "bytes": 9508,
+      "sha256": "8e4ff4033acb9c45b2e2b2586e240efebbdf31dedebf547782493d77655a1dc6",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2019-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2019-12_01.txt"
+    },
+    {
+      "bytes": 10014,
+      "sha256": "2e2d722f438c41cdefa54d213ed0ffa81a086a6ada02059087d2d1956e6a180f",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2019-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2019-12_02.txt"
+    },
+    {
+      "bytes": 10825,
+      "sha256": "41b93ef3a6a6507bac5dc84de9c47d69a24d1dcd2b885ad882a09c52f88fdc80",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2019-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2019-12_03.txt"
+    },
+    {
+      "bytes": 7624,
+      "sha256": "cb13982e16bc0e5d34de21dce33522f45ddb2d1b8de531d71d617a767fed905b",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2020-07_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2020-07_01.txt"
+    },
+    {
+      "bytes": 10232,
+      "sha256": "3efba6102c6de9fe9aac45f49cb596cc5c2975cefcac8d3aff6d1ea680b920f9",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2020-09_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2020-09_01.txt"
+    },
+    {
+      "bytes": 12805,
+      "sha256": "3537511b5a7294b92613546fb7477badbd4e3a476edfbd043fd6b4961b49ba49",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2020-09_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2020-09_02.txt"
+    },
+    {
+      "bytes": 19799,
+      "sha256": "3d54f36216356428f087ac48c8f1f4ce6fa2a9c1d03c87bb21abb9f39c120bf7",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2020-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2020-12_01.txt"
+    },
+    {
+      "bytes": 20017,
+      "sha256": "2313f776369465100dac2e9f3da0fb170dd993d3ccb1504231f26c9f6e5378ae",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2020-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2020-12_02.txt"
+    },
+    {
+      "bytes": 21881,
+      "sha256": "4cf6a734b829bd5a39b86e94e281a7c63956f408f1c3b292e47977caded57071",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2020-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2020-12_03.txt"
+    },
+    {
+      "bytes": 14362,
+      "sha256": "d413c4a6bede8907af291a797b280c0691064b253eef5d27da792c8f7b31816b",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2021-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2021-06_01.txt"
+    },
+    {
+      "bytes": 17674,
+      "sha256": "fff216fa6ad04d3875fa930551675d6aa76f5a79dba3eacec8594b9e12513c01",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2021-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2021-06_02.txt"
+    },
+    {
+      "bytes": 20272,
+      "sha256": "78b108c56149b44be6a6647a8c92a1cd0375cdaa51c13ea2e32e204f033003ba",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2021-06_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2021-06_03.txt"
+    },
+    {
+      "bytes": 9736,
+      "sha256": "56d2a4a74eec705c4774efc9ed7ebbe2d8a83e6d3a14a4cf3fddb43a0fa72b73",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2021-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2021-12_01.txt"
+    },
+    {
+      "bytes": 10272,
+      "sha256": "901903fd7c46568a4061b53bb1a3214a54cb978ded39d4c1a6d87544fdd39d08",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2021-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2021-12_02.txt"
+    },
+    {
+      "bytes": 12905,
+      "sha256": "9fc39dcbb7c00fc0ae98ebcaa611bf1ab27b21cf2189349a0036459b20dd81bb",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2021-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2021-12_03.txt"
+    },
+    {
+      "bytes": 12080,
+      "sha256": "becc6f57d75b71fcd1173d4e60e30a1141d0f72502e8ed0b655570a63e272130",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2022-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2022-06_01.txt"
+    },
+    {
+      "bytes": 13025,
+      "sha256": "85e70f811c9b72cf3bc41d6bfb779934290e5fb5fc1486a569f364c445a7d02c",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2022-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2022-06_02.txt"
+    },
+    {
+      "bytes": 15081,
+      "sha256": "4e713cf7f2a37bf8fc0ca453b8eac540a279cbb69ae0672177175922b89ed347",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2022-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2022-12_01.txt"
+    },
+    {
+      "bytes": 15865,
+      "sha256": "02e859011750dcc30fbbdb0469ce9433a60b4c5daf2d39c495c432827822b200",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2022-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2022-12_02.txt"
+    },
+    {
+      "bytes": 14006,
+      "sha256": "ea3a76972c69431111554b5449e3befc5c53a73a5668d8aa7c5d40bba6dc253b",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2022-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2022-12_03.txt"
+    },
+    {
+      "bytes": 12421,
+      "sha256": "ff3349d2d43f2bcc36db589cba41cd5ec550af0ef919dc72fe05d5b834f9dc44",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2023-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2023-06_01.txt"
+    },
+    {
+      "bytes": 12550,
+      "sha256": "6fe0e022c7624d5749ec48a52633947c44d541e3f3227a64ff4fd7df5413ddb8",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2023-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2023-06_02.txt"
+    },
+    {
+      "bytes": 15517,
+      "sha256": "796b9b29871b8e8f2dd73a4b22ab43d319b3fe9d64cc899072ba8d143089d443",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2023-06_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2023-06_03.txt"
+    },
+    {
+      "bytes": 15014,
+      "sha256": "6c24766bf5406e71a820b8fb86d04a61aab3a2d86f3497c0bca36970b549e37d",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2023-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2023-12_01.txt"
+    },
+    {
+      "bytes": 14143,
+      "sha256": "d8a87736cd54b2006cf76bbd94137d454fd059ec17925c6d96a9e8b64447c634",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2023-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2023-12_02.txt"
+    },
+    {
+      "bytes": 15325,
+      "sha256": "01e18666631b26be6901f8992f75532caba69f54083841bdf229ecb2116f2e0e",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2023-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2023-12_03.txt"
+    },
+    {
+      "bytes": 16633,
+      "sha256": "667b595c7b6ee415fd332f2ccbb2ae15481b9b48e065967be72a08754a34a5b8",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2024-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2024-06_01.txt"
+    },
+    {
+      "bytes": 16372,
+      "sha256": "ff07397b35ad49289011fc6e23118f9e056ad46e1521568d49ba47141d00cf75",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2024-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2024-06_02.txt"
+    },
+    {
+      "bytes": 16387,
+      "sha256": "8e2ffb74417a55d402279e4c5662bfa248f9caa9e454b221f59de8ce1bcf57d2",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2024-06_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2024-06_03.txt"
+    },
+    {
+      "bytes": 16562,
+      "sha256": "a84e11e3b9469b3eabbe119ee885a196e5a3ec16d92585eb1d4b93c463636167",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2024-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2024-12_01.txt"
+    },
+    {
+      "bytes": 15355,
+      "sha256": "db175ccd90f036937872d5886dcf21345b0cc573971eaaae662356fba4d80dc1",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2024-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2024-12_02.txt"
+    },
+    {
+      "bytes": 18119,
+      "sha256": "8852a8d540693e5336218e806fba264949d9605225b217139d275b4bc40f004a",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2024-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2024-12_03.txt"
+    },
+    {
+      "bytes": 16769,
+      "sha256": "c34735fbf7aff0d3e4a31e689f8eeaf54e7f84f668da6943c8bd3988a09997f3",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2025-06_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2025-06_01.txt"
+    },
+    {
+      "bytes": 15972,
+      "sha256": "d79762f04d9476a6b5280f852df63b68c016517e45be87934a9802e630d76686",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2025-06_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2025-06_02.txt"
+    },
+    {
+      "bytes": 20692,
+      "sha256": "81768e8623dbd95966726e6c2e3b3144c3d82449a75b5f0448414fba3df6b53f",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2025-06_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2025-06_03.txt"
+    },
+    {
+      "bytes": 15305,
+      "sha256": "b60fa165bd6688396ba492170a1cba760e56f0f99bf0496bccab92cf0e3b2309",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2025-12_01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2025-12_01.txt"
+    },
+    {
+      "bytes": 16045,
+      "sha256": "12aeab8f9d8e18d202c8242179a12214fcdef1a582d4045ec60de3e684ad3b60",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2025-12_02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2025-12_02.txt"
+    },
+    {
+      "bytes": 18119,
+      "sha256": "7c64a08801c5fac0ca4c3a0b4866b9a44b7aca27c05bbd397757bc16dfa5d45b",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2025-12_03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2025-12_03.txt"
+    },
+    {
+      "bytes": 27593,
+      "sha256": "053ce3f5cecbc09ca56e46ce43cfd1cd736904712c328601e1dceffe5b8c153f",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2026-06-01.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2026-06-01.txt"
+    },
+    {
+      "bytes": 28578,
+      "sha256": "588d751fc6a554b3dd342665317ef9df6976c41fd1d8c23df51e8a633330547b",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2026-06-02.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2026-06-02.txt"
+    },
+    {
+      "bytes": 22392,
+      "sha256": "1eb46780fca44ee1c39afb85ea5ed9b83db44801fb69d400ab2b03b79941cdca",
+      "source": "github.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection",
+      "url": "https://raw.githubusercontent.com/AndrewYuZhenYu/cet6_exam_questions_txt_collection/main/cet6_zhenti_cleaned/2026-06-03.txt",
+      "description": "大学英语六级历年真题纯文本（AndrewYuZhenYu/cet6_exam_questions_txt_collection）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet6/2026-06-03.txt"
+    },
+    {
+      "bytes": 4451584,
+      "sha256": "cd69d591b088c909803c36f7718f927ec363f2a7e5f5a6e7f42298c2ee1fbcb2",
+      "source": "github.com/openetymology/OpenEtymology",
+      "url": "https://raw.githubusercontent.com/openetymology/OpenEtymology/main/CET4/CET4.pdf",
+      "description": "词源单词本 CET4（openetymology/OpenEtymology，CC BY-SA 4.0）",
+      "downloaded": "2026-09-16",
+      "file": "dictionaries/wordbooks/etymology-cet4.pdf"
+    },
+    {
+      "bytes": 33755,
+      "sha256": "55c074bcb06aaa2fe5aa99b550d255b55d373ef313bc051fa53f9d82231784e0",
+      "source": "github.com/openetymology/OpenEtymology",
+      "url": "https://raw.githubusercontent.com/openetymology/OpenEtymology/main/CET4/CET4.txt",
+      "description": "词源单词本 CET4（openetymology/OpenEtymology，CC BY-SA 4.0）",
+      "downloaded": "2026-09-16",
+      "file": "dictionaries/wordbooks/etymology-cet4.txt"
+    },
+    {
+      "bytes": 2248740,
+      "sha256": "04a0f34a540f9755dd4d6a7a7e50e90d4bcc3f544339a16c882f0bc0f589ea27",
+      "source": "github.com/openetymology/OpenEtymology",
+      "url": "https://raw.githubusercontent.com/openetymology/OpenEtymology/main/CET6/CET6.pdf",
+      "description": "词源单词本 CET6（openetymology/OpenEtymology，CC BY-SA 4.0）",
+      "downloaded": "2026-09-16",
+      "file": "dictionaries/wordbooks/etymology-cet6.pdf"
+    },
+    {
+      "bytes": 18462,
+      "sha256": "9a8fa3f2464a39526472211228ef1f331ab1e3d67567b11eea49efc7444d5647",
+      "source": "github.com/openetymology/OpenEtymology",
+      "url": "https://raw.githubusercontent.com/openetymology/OpenEtymology/main/CET6/CET6.txt",
+      "description": "词源单词本 CET6（openetymology/OpenEtymology，CC BY-SA 4.0）",
+      "downloaded": "2026-09-16",
+      "file": "dictionaries/wordbooks/etymology-cet6.txt"
+    },
+    {
+      "bytes": 4080705,
+      "sha256": "100b05a678142784d41b0091a00f06598bc96c7e78e224b1fe53a36ac902f436",
+      "source": "github.com/openetymology/OpenEtymology",
+      "url": "https://raw.githubusercontent.com/openetymology/OpenEtymology/main/TEM8/TEM8.pdf",
+      "description": "词源单词本 TEM8（openetymology/OpenEtymology，CC BY-SA 4.0）",
+      "downloaded": "2026-09-16",
+      "file": "dictionaries/wordbooks/etymology-tem8.pdf"
+    },
+    {
+      "bytes": 33918,
+      "sha256": "0d70fd4779399ec222308eaea7d81c0343e6a8416f887445c5687abb08561d6f",
+      "source": "github.com/openetymology/OpenEtymology",
+      "url": "https://raw.githubusercontent.com/openetymology/OpenEtymology/main/TEM8/TEM8.txt",
+      "description": "词源单词本 TEM8（openetymology/OpenEtymology，CC BY-SA 4.0）",
+      "downloaded": "2026-09-16",
+      "file": "dictionaries/wordbooks/etymology-tem8.txt"
+    },
+    {
+      "bytes": 1106068,
+      "sha256": "6d71a301321056291902bc4804e223c6926dca0d629a45076a6ca5adab185f62",
+      "source": "github.com/exam-data/NETEMVocabulary",
+      "url": "https://raw.githubusercontent.com/exam-data/NETEMVocabulary/master/netem_full_list.json",
+      "description": "考研大纲词汇按真题词频排序数据（exam-data/NETEMVocabulary，CC BY-NC-SA 4.0）",
+      "downloaded": "2026-09-16",
+      "file": "papers/kaoyan/netem-vocab-freq.json"
+    },
+    {
+      "bytes": 347606,
+      "sha256": "be050a97398dfd72ef0f349e0f2036bbb82f71434a5186eec4bfd63f6babf183",
+      "source": "github.com/0609x/CET46-Resources",
+      "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/cet4_2024_06_1.pdf",
+      "description": "大学英语四级 2024 年 6 月第 1 套真题（0609x/CET46-Resources）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet4/cet4-2024-06-1.pdf"
+    },
+    {
+      "bytes": 346840,
+      "sha256": "aada101cc537bcfc69d54a77acdaefa52bf340779bead0f2a1e29ee40683d358",
+      "source": "github.com/0609x/CET46-Resources",
+      "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/cet4_2024_06_2.pdf",
+      "description": "大学英语四级 2024 年 6 月第 2 套真题（0609x/CET46-Resources）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet4/cet4-2024-06-2.pdf"
+    },
+    {
+      "bytes": 314753,
+      "sha256": "ec1c750fc530c5ca9b5db11c9d0bcccb90f0ac9220c0a1c5ae840f4f43c171c0",
+      "source": "github.com/0609x/CET46-Resources",
+      "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.06/%E7%9C%9F%E9%A2%98PDF/cet4_2024_06_3.pdf",
+      "description": "大学英语四级 2024 年 6 月第 3 套真题（0609x/CET46-Resources）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet4/cet4-2024-06-3.pdf"
+    },
+    {
+      "bytes": 366427,
+      "sha256": "2880977bc0a8b730800d310471a3120eb45e4a51d964dc97cb71c32ddf09ac08",
+      "source": "github.com/0609x/CET46-Resources",
+      "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/cet4_2025_06_1.pdf",
+      "description": "大学英语四级 2025 年 6 月第 1 套真题（0609x/CET46-Resources）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet4/cet4-2025-06-1.pdf"
+    },
+    {
+      "bytes": 347511,
+      "sha256": "71d831b5b27bf3e8701fb772855b593bfe48a269143bc997191dd31b6e9e18cd",
+      "source": "github.com/0609x/CET46-Resources",
+      "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/cet4_2025_06_2.pdf",
+      "description": "大学英语四级 2025 年 6 月第 2 套真题（0609x/CET46-Resources）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet4/cet4-2025-06-2.pdf"
+    },
+    {
+      "bytes": 322504,
+      "sha256": "815c185ee43391d1e504b42d552ba2b4ea4c2765bed6386ddf2674c7b13826de",
+      "source": "github.com/0609x/CET46-Resources",
+      "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/cet4_2025_06_3.pdf",
+      "description": "大学英语四级 2025 年 6 月第 3 套真题（0609x/CET46-Resources）",
+      "downloaded": "2026-09-16",
+      "file": "papers/cet4/cet4-2025-06-3.pdf"
+    }
+  ],
+  "updated_at": "2026-09-16",
+  "opus-opensubtitles/OpenSubtitles.en-zh.txt.zip": {
+    "source": "https://object.pouta.csc.fi/OPUS-OpenSubtitles/v2016/moses/en-zh.txt.zip",
+    "sha256": "65e636ae74af4954b10a64840f98a94a606676e22abc42700180cb2b424d2f25",
+    "downloaded": "2026-09-16",
+    "size_bytes": 299171889,
+    "note": "OPUS OpenSubtitles v2016 en-zh moses 平行语料：930万句对，解压后含 .en/.zh/.ids 三文件；ids 可追溯源字幕文件路径（可按剧还原）。字幕版权属各字幕作者，学习用途。"
+  }
+}

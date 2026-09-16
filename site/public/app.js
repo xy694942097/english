@@ -125,7 +125,7 @@ function nav() {
   let html=course.map(t=>fold(t.id===topicMatch||t.lessons.some(l=>l.path===cur),t.title,t.lessons.length+'章',t.lessons.map(l=>link(l.path,l.title)).join(''))).join('');
   $('nav').innerHTML=html;
   let doc='';
-  for(const [s,title,nested] of [['archive','学习档案'],['engineering','工程文档',true],['progress','进度与诊断'],['reference','参考资料'],['history','历史课堂'],['book-extra','Book 其他章节',true]]) {
+  for(const [s,title,nested] of [['archive','学习档案'],['engineering','工程文档',true],['progress','进度与诊断'],['reference','参考资料',true],['history','历史课堂'],['book-extra','Book 其他章节',true]]) {
     const xs=sec(s); if(!xs.length) continue;
     doc+=fold(xs.some(x=>x.id===cur),title,xs.length,nested?subgroup(xs):xs.map(x=>link(x.id,x.title)).join(''));
   }

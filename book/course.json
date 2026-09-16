@@ -1,6 +1,6 @@
 {
   "version": "topics-2026-09-16",
-  "start": "book/08-frames/01-degree-comparison.md",
+  "start": "book/08-frames/08-frames-collection.md",
   "featured": {
     "label": "从你拆过的句子开始",
     "sample": "a plan more ambitious than anyone had thought feasible",
@@ -110,96 +110,22 @@
           "level": "方法"
         },
         {
-          "path": "book/08-frames/01-degree-comparison.md",
-          "title": "家族A：程度与比较",
-          "focus": "more than anyone thought B、let alone、not so much A as B等七个框架。",
-          "level": "建议先读",
-          "unit_kinds": {
-            "more than anyone thought": "grammar",
-            "let alone": "grammar",
-            "not so much as": "grammar",
-            "if anything": "grammar",
-            "nothing short of": "grammar"
-          }
+          "path": "book/08-frames/08-frames-collection.md",
+          "title": "总集：六大家族与教材回收（单篇通读版）",
+          "focus": "A-F 六家族 31 框架 + 教材回收 9 框架的单篇合集，适合通读与打印；分章学习仍用独立章。",
+          "level": "通读"
         },
         {
-          "path": "book/08-frames/02-emphasis-focus.md",
-          "title": "家族B：强调与聚焦",
-          "focus": "What假分裂/It was分裂句/Only倒装/rather than/do强调——你的诊断句Q2/Q4/Q7/Q10都在这里",
-          "level": "建议先读",
-          "unit_kinds": {
-            "What was": "grammar",
-            "It was that": "grammar",
-            "Only did": "grammar",
-            "rather than": "grammar",
-            "do强调": "grammar"
-          }
+          "path": "book/08-frames/07-school-recall.md",
+          "title": "教材回收：初高中句式框架",
+          "focus": "从课标语法项目回收7个框架：not only…but also、so/such…that、too…to、either/or、the more…the more、no sooner…than、would rather…than。",
+          "level": "回收"
         },
         {
-          "path": "book/08-frames/03-concession-contrast.md",
-          "title": "家族C：让步与对照",
-          "focus": "倒装让步/much as/for all/far from/be that as it may——反驳与让步的五种力度",
-          "level": "建议先读",
-          "unit_kinds": {
-            "as倒装": "grammar",
-            "much as": "grammar",
-            "for all": "grammar",
-            "far from": "grammar"
-          }
-        },
-        {
-          "path": "book/08-frames/04-stance-commentary.md",
-          "title": "家族D：评述与立场",
-          "focus": "so to speak/admittedly先让后转/There is no V-ing/one thing another——作者的评论贴纸",
-          "level": "建议先读",
-          "unit_kinds": {
-            "so to speak": "grammar",
-            "admittedly": "grammar",
-            "no V-ing": "grammar",
-            "one thing another": "grammar"
-          }
-        },
-        {
-          "path": "book/08-frames/05-narrative-logic.md",
-          "title": "家族E：叙事与逻辑推进",
-          "focus": "What began as/failed to anticipate/rather than/not least/insofar as——复盘与postmortem骨架",
-          "level": "建议先读",
-          "unit_kinds": {
-            "What began as": "grammar",
-            "not least": "grammar",
-            "insofar as": "grammar"
-          }
-        },
-        {
-          "path": "book/08-frames/06-condition-subjunctive.md",
-          "title": "家族F：条件与虚拟",
-          "focus": "Were it not for/Should you/as it stands——技术文档高频省if结构",
-          "level": "建议先读",
-          "unit_kinds": {
-            "Were it not for": "grammar",
-            "Should you": "grammar",
-            "as it stands": "grammar"
-          }
-        },
-        {
-          "path": "book/08-frames/_样式样张A-紧凑学习卡.md",
-          "title": "[样张]A 紧凑学习卡",
-          "focus": "排版候选A：引用块+表格+代码块混用，选完删除"
-        },
-        {
-          "path": "book/08-frames/_样式样张B-代码块主体.md",
-          "title": "[样张]B 代码块主体",
-          "focus": "排版候选B：英语例句全用代码块，选完删除"
-        },
-        {
-          "path": "book/08-frames/_样式样张C-对照表主体.md",
-          "title": "[样张]C 对照表主体",
-          "focus": "排版候选C：例句/中文/结构注三列表格，选完删除"
-        },
-        {
-          "path": "book/08-frames/_样式样张D-沉浸叙事.md",
-          "title": "[样张]D 沉浸叙事",
-          "focus": "排版候选D：无表格无代码块的连贯文章，选完删除"
+          "path": "book/08-frames/09-exam-recall.md",
+          "title": "真题回收：四六级考研句式框架",
+          "focus": "从9份真题文本挖取7个框架（as long as/rather than/end up/turns out/when it comes to/likely to/even if），每条附真题原句与出处",
+          "level": "回收"
         }
       ]
     },

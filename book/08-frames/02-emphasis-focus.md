@@ -2,7 +2,17 @@
 
 本章解决：读长句时抓不住"作者到底在强调什么"，写句子时无法突出重点。5 个框架。特殊来源：全部在 2026-09-16 句法诊断中真实撞见（Q2/Q4/Q7/Q10），Notice 一步已完成，本章是 Unpack。例句标注同家族A。
 
-## What … is/was …
+## 本章预览
+
+| 编号 | 框架 | 一句话语义 |
+|---|---|---|
+| 1 | What … is/was … | 把"…的"推到句子焦点位置 |
+| 2 | It was [X] that … | 正是X（不是别的） |
+| 3 | Only [状语] did … | 只有到/只有在…才… |
+| 4 | That [X], rather than [Y], was [Z] | 是X而非Y（导致了Z） |
+| 5 | do/does/did + 动词原形 | 确实…（口语与书信中的强调） |
+
+## 1. What … is/was …
 
 **语义：把"…的"推到句子焦点位置。** 书面语最常用的强调骨架，诊断句 Q2/Q10 都是它。
 
@@ -39,7 +49,7 @@ was                 → 是
 | What happened was (that) … | 句尾从句 | What happened was that the disk filled up. |
 | All (that) S V is … | 句尾 | All you need is one clean backup. |
 
-## It was [X] that …
+## 2. It was [X] that …
 
 **语义：正是X（不是别的）。** 分裂句，强调句中某个成分。
 
@@ -69,7 +79,7 @@ was                 → 是
 | 见到 It was…that 就当"正是" | 先做还原测试，可能只是形式主语 |
 | 强调主语时动词跟着改 | It was he who…（强调主语用 who，正式） |
 
-## Only [状语] did …
+## 3. Only [状语] did …
 
 **语义：只有到/只有在…才…。** only + 状语放句首，触发部分倒装。诊断句 Q4。
 
@@ -92,7 +102,7 @@ was                 → 是
 
 **与 not until 的关系：** 同属"否定/限制状语前置→倒装"家族。not until 详见 [05-patterns/02-not-until](../05-patterns/02-not-until.md)。
 
-## That [X], rather than [Y], was [Z]
+## 4. That [X], rather than [Y], was [Z]
 
 **语义：是X而非Y（导致了Z）。** 主语从句 + rather than 平行插入，诊断句 Q7 的骨架。
 
@@ -113,7 +123,7 @@ rather than Y = 平行插入，否定 Y、肯定 X
 
 **阅读策略：** 遇到 That 开头的长句，先找第一个独立谓语动词（这里 was established），主干即"那件事被确认"，再拆 That 从句内部。
 
-## do/does/did + 动词原形
+## 5. do/does/did + 动词原形
 
 **语义：确实…（口语与书信中的强调）。** 助动词强调，不倒装、不加否定。
 

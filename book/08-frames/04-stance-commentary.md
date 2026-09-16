@@ -4,7 +4,18 @@
 
 **语料覆盖披露（2026-09-16 二次精确扫描）：** admittedly、far be it from me、suffice it to say、There is no V-ing、one thing…another、as it were 有语料例句；so to speak 确认 0 条；if you will 语料命中全是字面义“如果你愿意”（陷阱已入节内误读表）。
 
-## so to speak / as it were / if you will
+## 本章预览
+
+| 编号 | 框架 | 一句话语义 |
+|---|---|---|
+| 1 | so to speak / as it were / if you will | 可以这么说；打个比方 |
+| 2 | admittedly / granted / to be sure | 诚然…（先让后转） |
+| 3 | There is no [V-ing] | …是不可能的/不容否认的 |
+| 4 | [X] is one thing; [Y] is another | X是一回事，Y是另一回事（不可混同） |
+| 5 | suffice it to say (that) …（不常用） | 无需多说，只说一句：… |
+| 6 | far be it from me to [V]（不常用） | 我岂敢…（反语式客气，先谦后驳） |
+
+## 1. so to speak / as it were / if you will
 
 **语义：可以这么说；打个比方。** 提醒读者：前面的话是比喻或夸张，别按字面抠。
 
@@ -38,7 +49,7 @@
 | 把 if you will 一律当“可以这么说” | 语料库 2 条命中全是字面义“如果你（们）愿意”（If you will just sign here…）；立场框架用法在词典例句库中为 0，几乎只活在真实口语/书面议论里 |
 | 见到 as it were 当动词过去式 | 冻结虚拟式插入语，与 were 的时态无关 |
 
-## admittedly / granted / to be sure
+## 2. admittedly / granted / to be sure
 
 **语义：诚然…（先让后转）。** 论证套路：先承认对方一个点，再转折反击。
 
@@ -66,7 +77,7 @@
 | granted | 口语到书面 | Granted, it works. But at what cost? |
 | to be sure | 较文 | 先让步，常接 but then |
 
-## There is no [V-ing]
+## 3. There is no [V-ing]
 
 **语义：…是不可能的/不容否认的。** no + 动名词，存现句否定。
 
@@ -88,7 +99,7 @@ There is no + V-ing = 某事无法被做
 后接名词短语（the sea）或 V-ing 短语（arguing with…）
 ```
 
-## [X] is one thing; [Y] is another
+## 4. [X] is one thing; [Y] is another
 
 **语义：X是一回事，Y是另一回事（不可混同）。**
 
@@ -108,7 +119,7 @@ There is no + V-ing = 某事无法被做
 套路：别人说 A 证明 B → 你回 "A is one thing; B is another"
 ```
 
-## suffice it to say (that) …（不常用）
+## 5. suffice it to say (that) …（不常用）
 
 **语义：无需多说，只说一句：…。** 冻结虚拟式，引出克制的总结。
 
@@ -122,7 +133,7 @@ There is no + V-ing = 某事无法被做
 
 **结构注：** suffice 用虚拟式原形（不加 -s），整句冻结。作用：预告"我掌握细节但只给结论"，常带保留或讽刺。
 
-## far be it from me to [V]（不常用）
+## 6. far be it from me to [V]（不常用）
 
 **语义：我岂敢…（反语式客气，先谦后驳）。**
 

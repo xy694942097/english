@@ -32,3 +32,11 @@
 - 听力：暂缓；用户要求恢复后再设计。
 
 这些是候选知识范围，不是用户未掌握清单。
+
+## 2026-09-16 · 教材回收第二批候选
+
+首批已回收 7 个（见 07-school-recall）。下一批候选（同为课标项目、未登记）：It is no use doing…、in case / provided that、so as to / in order to、as far as … be concerned、It happens that…、may well / may as well。仍按专章 ≤7 框架红线分批。（as long as 已由真题回收章 09-16 登记，移出本批。）
+
+## 2026-09-16 · 真题回收剩余候选（探测证据留存）
+
+真题正则初筛（9 卷约 60 个候选模式）后未入首批专章、但有多次命中证据的候选，供下一批真题回收章择用：Suppose / Supposing (that) 引导条件（7 处命中）、in other words（复述解释）、it is likely that（与已编 be likely to 同族的 it 形式）、be expected to（评述立场）、as such（指代/ consequently 辨析价值高）、happen to（碰巧，叙事推进）。选入前需人工核对语境并重验未混入假阳性（首轮探测中 in that、were to、now that 因语境不符已剔除）。仍按专章 ≤7 框架红线分批。

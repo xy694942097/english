@@ -26,7 +26,7 @@ LOCK = threading.RLock()
 ACTIVE = set()
 GROUPS = {'01-reading': '阅读方法', '02-chunks': '词义与搭配', '05-patterns': '常用句型结构',
           '06-sentences': '特殊句子', '07-word-topics': '单词专题', '08-frames': '句式框架'}
-DOC_SKIP_PARTS = {'site', 'data', 'sessions', '.git', '.catpaw', '__pycache__', 'node_modules', 'downloads', 'imports'}
+DOC_SKIP_PARTS = {'site', 'data', 'sessions', '.git', '.catpaw', '__pycache__', 'node_modules', 'imports'}
 # 固定文件的归属：rel -> (section, hidden)。section 对应侧边栏顶层资源；hidden 项不进导航但仍可搜索/作为老师上下文
 FIXED_DOCS = {
     'LEARNER.md': ('archive', False),
@@ -51,12 +51,14 @@ def classify_doc(rel):
         if rel == 'AGENTS.md':
             return 'engineering', 'Agent 文档', False
         sub = parts[1] if len(parts) > 2 else ''
-        group = {'agents': 'Agent 文档', 'design': '设计', 'methodology': '调研与方法'}.get(sub, sub or '工程文档')
+        group = {'agents': 'Agent 文档', 'design': '设计', 'methodology': '调研与方法', 'archive': '历史归档'}.get(sub, sub or '工程文档')
         return 'engineering', group, False
     if top == 'progress':
         return 'progress', '进度与诊断', False
     if top == 'references':
         return 'reference', '参考资料', False
+    if top == 'materials':
+        return 'reference', '学习资料', False
     if top == 'reading':
         return 'reference', '阅读记录', False
     if top == 'review':
@@ -138,7 +140,8 @@ def catalog(root=ROOT):
     # 其余仓库文档（知识文档与 agent 文档）全量发现：跳过工程运行目录、原始下载库与机器导入报告
     seen = set(paths)
     paths += [p for p in sorted(root.rglob('*.md'))
-              if p not in seen and not (set(p.relative_to(root).parts[:-1]) & DOC_SKIP_PARTS)]
+              if p not in seen and not (set(p.relative_to(root).parts[:-1]) & DOC_SKIP_PARTS)
+              and not (p.relative_to(root).parts[0] == 'materials' and len(p.relative_to(root).parts) > 2)]
     items = []
     for p in paths:
         if not p.is_file() or not p.resolve().is_relative_to(root.resolve()):

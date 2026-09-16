@@ -4,7 +4,15 @@
 
 **语料覆盖披露（2026-09-16 二次精确扫描）：** Should you 有 5 条语料例句；as it stands 仅 1 条；Were it not for 有 1 条语料（从句内倒装变体，已入节内）；Had it not been 的唯一命中是真疑问句（陷阱已入误读表）。
 
-## Were it not for [X] / But for [X]
+## 本章预览
+
+| 编号 | 框架 | 一句话语义 |
+|---|---|---|
+| 1 | Were it not for [X] / But for [X] | 若非X（早就…了） |
+| 2 | Should you [V] | 若您（万一）… |
+| 3 | as it stands | 以现状而论；照目前这样 |
+
+## 1. Were it not for [X] / But for [X]
 
 **语义：若非X（早就…了）。** 省 if 的虚拟倒装，感恩/复盘两用。
 
@@ -38,7 +46,7 @@
 | Had it not been for | 过去 | 若非…（当时早就…） |
 | But for / Without | 通用 | 最简形态 |
 
-## Should you [V]
+## 2. Should you [V]
 
 **语义：若您（万一）…。** 省 if 的条件倒装，技术文档和客服邮件最高频。
 
@@ -67,7 +75,7 @@ should 在这里不是"应该"，是虚拟语气助动词（低概率假设）
 | 以为是疑问句倒装 | 无疑问词、句首 Should + 主语 → 条件句 |
 | 见到 had it not been 当条件句 | 语料库唯一命中 “Why had it not been possible…” 是真疑问句过去完成时；条件用法需倒装语序（Had it not been for…） |
 
-## as it stands
+## 3. as it stands
 
 **语义：以现状而论；照目前这样。** 独立评注语，常预告批评或改动。
 

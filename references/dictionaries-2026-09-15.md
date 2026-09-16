@@ -4,7 +4,7 @@
 
 ## 已完成：ECDICT
 
-来源：[skywind3000/ECDICT](https://github.com/skywind3000/ECDICT)，本地路径：`references/downloads/ecdict/repo/`。
+来源：[skywind3000/ECDICT](https://github.com/skywind3000/ECDICT)，本地路径：`materials/dictionaries/ecdict/repo/`。
 
 仓库提交：`bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b`。
 
@@ -24,17 +24,17 @@ ECDICT README 说明其字段包括 `word`、`phonetic`、`definition`、`transl
 
 来源：[Princeton WordNet](https://wordnet.princeton.edu/)，下载地址：`https://wordnetcode.princeton.edu/3.0/WNdb-3.0.tar.gz`。
 
-本地路径：`references/downloads/wordnet/`。
+本地路径：`materials/dictionaries/wordnet/`。
 
 文件：`WNdb-3.0.tar.gz`，SHA-256：`658b1ba191f5f98c2e9bae3e25c186013158f30ef779f191d2a44e5d25046dc8`。
 
-已解包到 `references/downloads/wordnet/dict/`，包括 `index.*` 和 `data.*`。可用于英英释义、同义词集合、反义词关系、上位/下位关系和部分例句。抽样验证：`resign` 包含义项 `accept as inevitable`，并含例句 `He resigned himself to his fate`。
+已解包到 `materials/dictionaries/wordnet/dict/`，包括 `index.*` 和 `data.*`。可用于英英释义、同义词集合、反义词关系、上位/下位关系和部分例句。抽样验证：`resign` 包含义项 `accept as inevitable`，并含例句 `He resigned himself to his fate`。
 
 ## 部分下载：Kaikki / Wiktionary English
 
 来源：[Kaikki English machine-readable dictionary](https://kaikki.org/dictionary/English/)，文件：`kaikki.org-dictionary-English.jsonl`。
 
-目标大小：3244676342 bytes。当前本地部分文件：`references/downloads/kaikki-wiktionary/kaikki.org-dictionary-English.jsonl`，已下载 1184970056 bytes。
+目标大小：3244676342 bytes。当前本地部分文件：`materials/dictionaries/kaikki-wiktionary/kaikki.org-dictionary-English.jsonl`，已下载 1184970056 bytes。
 
 该来源覆盖 Wiktionary 的英英释义、词源、例句、发音、词形、语义关系、派生词、相关词和短语，最接近“丰富词典层”的目标。但当前网络到 Kaikki 的 HTTPS/Range 连接不稳定，下载卡在 36.5%。该文件暂不能作为已完成来源使用，后续可断点续传或寻找可靠镜像。
 

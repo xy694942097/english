@@ -2,7 +2,19 @@
 
 本章解决：表达"超出预期""与其说A不如说B"这类评价时读不准、写不出。7 个框架，全部来自真实阅读卡点与 17 万例句库语料。标注说明：例句后标（语料）为词典例句库真实例句，标（自造）为教学自造。
 
-## more [A] than anyone had thought [B]
+## 本章预览
+
+| 编号 | 框架 | 一句话语义 |
+|---|---|---|
+| 1 | more [A] than anyone had thought [B] | 超出所有人的预期上限 |
+| 2 | [前项], let alone [后项] | 前项尚且达不到，后项更别提 |
+| 3 | not so much [A] as [B] | 与其说[A]不如说[B] |
+| 4 | nothing less than [X] / nothing short of [X] | 简直是X、不折不扣的X |
+| 5 | if anything | 甚至可以说恰恰相反；要我说的话 |
+| 6 | all the more [A] because [B] | 正因[B]而更[A] |
+| 7 | nothing if not [A]（不常用） | 极其[A] |
+
+## 1. more [A] than anyone had thought [B]
 
 **语义：超出所有人的预期上限。** A 是被比较的属性，B 是人们原本以为的上限。
 
@@ -33,7 +45,7 @@ than 从句里藏着省略：
 | harder than it looks | 表象 | 比看上去难 |
 | less effective than expected | 预期 | 比预期的效果差 |
 
-## [前项], let alone [后项]
+## 2. [前项], let alone [后项]
 
 **语义：前项尚且达不到，后项更别提。** 递进否定。
 
@@ -62,7 +74,7 @@ let alone = 并列连词（同族 not to mention / to say nothing of）
 | 当成 leave sb alone"让…独处" | 句中逗号后的 let alone 几乎总是"更别提" |
 | 后项与前项不对等 | 后项必须与前项同语法位置成分平行 |
 
-## not so much [A] as [B]
+## 3. not so much [A] as [B]
 
 **语义：与其说[A]不如说[B]。** 否定 A 的定性，重心落在 B。
 
@@ -84,7 +96,7 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **与 more B than A 的关系：** 同义两把刀，选哪个看想先提哪个。
 
-## nothing less than [X] / nothing short of [X]
+## 4. nothing less than [X] / nothing short of [X]
 
 **语义：简直是X、不折不扣的X。** 双重否定顶出强肯定，评价性强。
 
@@ -102,7 +114,7 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** 后接名词或形容词（nothing short of barbaric / nothing less than a disaster）。语气重，正式评论用；日常口语用 simply / outright 更自然。
 
-## if anything
+## 5. if anything
 
 **语义：甚至可以说恰恰相反；要我说的话。** 修正或加强前句的评注语。
 
@@ -116,7 +128,7 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** 不占句子成分的插入语。典型用法：先摆预期，再用 if anything 反向修正。阅读线索：见到它，先找它修正的是前文哪个判断。
 
-## all the more [A] because [B]
+## 6. all the more [A] because [B]
 
 **语义：正因[B]而更[A]。** 因果叠加到程度。
 
@@ -130,7 +142,7 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** all the more 直接修饰比较级。because 从句可省，靠语境补。
 
-## nothing if not [A]（不常用）
+## 7. nothing if not [A]（不常用）
 
 **语义：极其[A]。** 字面"如果不是A就什么都不是"。
 
