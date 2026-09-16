@@ -24,10 +24,49 @@ SESSIONS = ROOT / 'sessions/web'
 TOKEN = secrets.token_hex(24)
 LOCK = threading.RLock()
 ACTIVE = set()
-GROUPS = {'01-reading': '阅读方法', '02-chunks': '词义与搭配'}
-DOC_GROUPS = {'methodology': '调研与方法', 'design': '工程文档', 'progress': '进度与诊断',
-              'references': '参考资料', 'reading': '阅读记录', 'review': '复习记录'}
+GROUPS = {'01-reading': '阅读方法', '02-chunks': '词义与搭配', '05-patterns': '常用句型结构',
+          '06-sentences': '特殊句子', '07-word-topics': '单词专题', '08-frames': '句式框架'}
 DOC_SKIP_PARTS = {'site', 'data', 'sessions', '.git', '.catpaw', '__pycache__', 'node_modules', 'downloads', 'imports'}
+# 固定文件的归属：rel -> (section, hidden)。section 对应侧边栏顶层资源；hidden 项不进导航但仍可搜索/作为老师上下文
+FIXED_DOCS = {
+    'LEARNER.md': ('archive', False),
+    'METHOD.md': ('archive', False),
+    'progress/CURRENT.md': ('archive', False),
+    'README.md': (None, True),
+    'book/README.md': (None, True),
+    'book/BACKLOG.md': ('engineering', False),
+    'book/TEMPLATE.md': ('engineering', False),
+    'book/CHANGELOG.md': ('engineering', False),
+}
+
+
+def classify_doc(rel):
+    """返回 (section, group, hidden)。section: archive/engineering/progress/reference/history/book-extra/None。"""
+    if rel in FIXED_DOCS:
+        section, hidden = FIXED_DOCS[rel]
+        return section, {'archive': '学习档案', 'engineering': 'Agent 文档'}.get(section, ''), hidden
+    top = rel.split('/', 1)[0] if '/' in rel else ''
+    parts = rel.split('/')
+    if rel == 'AGENTS.md' or top == 'engineering':
+        if rel == 'AGENTS.md':
+            return 'engineering', 'Agent 文档', False
+        sub = parts[1] if len(parts) > 2 else ''
+        group = {'agents': 'Agent 文档', 'design': '设计', 'methodology': '调研与方法'}.get(sub, sub or '工程文档')
+        return 'engineering', group, False
+    if top == 'progress':
+        return 'progress', '进度与诊断', False
+    if top == 'references':
+        return 'reference', '参考资料', False
+    if top == 'reading':
+        return 'reference', '阅读记录', False
+    if top == 'review':
+        return 'reference', '复习记录', False
+    if top == 'vocabulary':
+        return 'history', '历史课堂', False
+    if top == 'book':
+        p_dir = parts[1] if len(parts) > 1 else ''
+        return 'book-extra', GROUPS.get(p_dir, re.sub(r'^\d+-', '', p_dir)), False
+    return 'reference', '项目说明', False
 STORE = None
 DICTIONARY = None
 DRAFTS = ROOT / 'data/drafts'
@@ -93,10 +132,10 @@ def read_course(root=ROOT):
 def catalog(root=ROOT):
     course=read_course(root)
     lessons={lesson['path']:{**lesson,'topic':topic['title']} for topic in course['topics'] for lesson in topic['lessons']}
-    paths = [root / p for p in ['LEARNER.md', 'METHOD.md', 'progress/CURRENT.md', 'book/README.md', 'book/BACKLOG.md']]
+    paths = [root / p for p in FIXED_DOCS]
     paths += sorted((root / 'book').glob('*/*.md'))
     paths += sorted((root / 'vocabulary').rglob('*.md'))
-    # 其余仓库文档（知识文档与 agent 文档）全量发现：跳过工程目录、原始下载库与机器导入报告
+    # 其余仓库文档（知识文档与 agent 文档）全量发现：跳过工程运行目录、原始下载库与机器导入报告
     seen = set(paths)
     paths += [p for p in sorted(root.rglob('*.md'))
               if p not in seen and not (set(p.relative_to(root).parts[:-1]) & DOC_SKIP_PARTS)]
@@ -107,13 +146,10 @@ def catalog(root=ROOT):
         body = p.read_text(encoding='utf-8')
         match = re.search(r'^# (.+)$', body, re.M)
         rel = p.relative_to(root).as_posix()
-        top = rel.split('/', 1)[0] if '/' in rel else ''
-        group = ('学习档案' if rel in ['LEARNER.md', 'METHOD.md', 'progress/CURRENT.md'] else
-                 '历史课堂' if rel.startswith('vocabulary/') else
-                 'Book 导览' if p.parent == root / 'book' else
-                 '项目说明' if not top else
-                 DOC_GROUPS.get(top) or GROUPS.get(p.parent.name, re.sub(r'^\d+-', '', p.parent.name)))
-        item={'id': rel, 'title': match[1] if match else p.stem, 'group': group, 'body': body}
+        section, group, hidden = classify_doc(rel)
+        item={'id': rel, 'title': match[1] if match else p.stem, 'group': group, 'section': section, 'body': body}
+        if hidden:
+            item['hidden'] = True
         if rel in lessons:
             item.update(lesson=lessons[rel],unit_kinds=lessons[rel].get('unit_kinds',{}))
         items.append(item)

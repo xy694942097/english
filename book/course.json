@@ -123,6 +123,65 @@
           }
         },
         {
+          "path": "book/08-frames/02-emphasis-focus.md",
+          "title": "家族B：强调与聚焦",
+          "focus": "What假分裂/It was分裂句/Only倒装/rather than/do强调——你的诊断句Q2/Q4/Q7/Q10都在这里",
+          "level": "建议先读",
+          "unit_kinds": {
+            "What was": "grammar",
+            "It was that": "grammar",
+            "Only did": "grammar",
+            "rather than": "grammar",
+            "do强调": "grammar"
+          }
+        },
+        {
+          "path": "book/08-frames/03-concession-contrast.md",
+          "title": "家族C：让步与对照",
+          "focus": "倒装让步/much as/for all/far from/be that as it may——反驳与让步的五种力度",
+          "level": "建议先读",
+          "unit_kinds": {
+            "as倒装": "grammar",
+            "much as": "grammar",
+            "for all": "grammar",
+            "far from": "grammar"
+          }
+        },
+        {
+          "path": "book/08-frames/04-stance-commentary.md",
+          "title": "家族D：评述与立场",
+          "focus": "so to speak/admittedly先让后转/There is no V-ing/one thing another——作者的评论贴纸",
+          "level": "建议先读",
+          "unit_kinds": {
+            "so to speak": "grammar",
+            "admittedly": "grammar",
+            "no V-ing": "grammar",
+            "one thing another": "grammar"
+          }
+        },
+        {
+          "path": "book/08-frames/05-narrative-logic.md",
+          "title": "家族E：叙事与逻辑推进",
+          "focus": "What began as/failed to anticipate/rather than/not least/insofar as——复盘与postmortem骨架",
+          "level": "建议先读",
+          "unit_kinds": {
+            "What began as": "grammar",
+            "not least": "grammar",
+            "insofar as": "grammar"
+          }
+        },
+        {
+          "path": "book/08-frames/06-condition-subjunctive.md",
+          "title": "家族F：条件与虚拟",
+          "focus": "Were it not for/Should you/as it stands——技术文档高频省if结构",
+          "level": "建议先读",
+          "unit_kinds": {
+            "Were it not for": "grammar",
+            "Should you": "grammar",
+            "as it stands": "grammar"
+          }
+        },
+        {
           "path": "book/08-frames/_样式样张A-紧凑学习卡.md",
           "title": "[样张]A 紧凑学习卡",
           "focus": "排版候选A：引用块+表格+代码块混用，选完删除"

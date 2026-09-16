@@ -34,64 +34,66 @@ more [A] than anyone had thought [B], let alone [C]
 
 ### 家族 A：程度与比较（详见 [01-degree-comparison](01-degree-comparison.md)）
 
+> 2026-09-16 已按定版风格「紧凑学习卡」重写：每框架固定顺序（语义→例句→结构拆解→误读/变体表），例句大半换成 voc14w 语料真实例句并标注（语料）/（自造）。
+
 | 框架 | 语义 | 例句 | 结构注 | 状态 |
 |---|---|---|---|---|
 | more [A] than anyone had thought [B] | 比任何人认为[B]的上限还[A] | The refactor ran longer than anyone had thought possible. | than 从句里 thought 的宾语 it 被省，B 是宾补 | 已学 09-16 |
 | [A], let alone [B] | 前项尚且达不到，后项更别提 | He can't walk, let alone run. | let alone 是连词，B 平行于前项同位置成分 | 已学 09-16 |
-| not so much [A] as [B] | 与其说[A]不如说[B] | It was not so much a mistake as a misunderstanding of the requirements. | A、B 语法类别须对等；语义重心在 B | 待学 |
-| nothing less than [X] / nothing short of [X] | 简直是、不折不扣的 | The delay was nothing short of a disaster for the launch plan. | 双重否定出强肯定，常带评价色彩 | 待学 |
-| if anything | 甚至可以说；恰恰相反 | The new version isn't slower — if anything, it's faster. | 句首/句尾插入的评注语 | 待学 |
-| all the more [A] because [B] | 正因[B]而更[A] | The silence was all the more striking because everyone had expected an answer. | all the more 修饰比较级 | 待学 |
-| nothing if not [A] | 极其[A]（不常用） | The documentation is nothing if not thorough. | 字面"如果不是A就什么都不是"→极A | 待学 |
+| not so much [A] as [B] | 与其说[A]不如说[B] | It was not so much a mistake as a misunderstanding of the requirements. | A、B 语法类别须对等；语义重心在 B | **已编 09-16（各家族章）** |
+| nothing less than [X] / nothing short of [X] | 简直是、不折不扣的 | The delay was nothing short of a disaster for the launch plan. | 双重否定出强肯定，常带评价色彩 | **已编 09-16（各家族章）** |
+| if anything | 甚至可以说；恰恰相反 | The new version isn't slower — if anything, it's faster. | 句首/句尾插入的评注语 | **已编 09-16（各家族章）** |
+| all the more [A] because [B] | 正因[B]而更[A] | The silence was all the more striking because everyone had expected an answer. | all the more 修饰比较级 | **已编 09-16（各家族章）** |
+| nothing if not [A] | 极其[A]（不常用） | The documentation is nothing if not thorough. | 字面"如果不是A就什么都不是"→极A | **已编 09-16（各家族章）** |
 
 ### 家族 B：强调与聚焦
 
 | 框架 | 语义 | 例句 | 结构注 | 状态 |
 |---|---|---|---|---|
-| It was [X] that … | （分裂句）正是X | It was the config file, not the code, that caused the outage. | 强调 X，其余部分挂 that 后 | 待学 |
-| What … is/was … | （假分裂）…的是 | What the team needed was a rollback plan, not a patch. | what 从句做主语，is 后是信息焦点 | 已见（诊断句Q2/Q10） |
-| Only [when/after…] did … | 直到…才（倒装） | Only after the third retry did the service come back up. | only+状语前置触发部分倒装 | 已见（诊断句Q4） |
+| What … is/was … | （假分裂）…的是 | What the team needed was a rollback plan, not a patch. | what 从句做主语，is 后是信息焦点 | **已编 09-16（家族B章）** |
+| Only [when/after…] did … | 直到…才（倒装） | Only after the third retry did the service come back up. | only+状语前置触发部分倒装 | **已编 09-16（家族B章）** |
+| It was [X] that … | （分裂句）正是X | It was the config file, not the code, that caused the outage. | 强调 X，其余部分挂 that 后 | **已编 09-16（家族B章）** |
 | not until …（it was not until … that …） | 直到…才 | It was not until the logs were correlated that the pattern emerged. | 详见 [05-patterns/02-not-until](../05-patterns/02-not-until.md) | 已编 |
-| do/does/did + 动词原形 | （口语强调）确实 | The test did pass yesterday — I checked twice. | 助动词强调，书面少用 | 待学 |
+| do/does/did + 动词原形 | （口语强调）确实 | The test did pass yesterday — I checked twice. | 助动词强调，书面少用 | **已编 09-16（家族B章）** |
 
-### 家族 C：让步与对照
+### 家族 C：让步与对照（详见 [03-concession-contrast](03-concession-contrast.md)）
 
 | 框架 | 语义 | 例句 | 结构注 | 状态 |
 |---|---|---|---|---|
 | [A/Adv/N] as/though [S V] | 尽管…（倒装让步） | Strange as it sounds, the bug only appears on Tuesdays. | 表语/状语/名词提前，as=though | 已见（06章 Try as he might） |
-| much as [S V] | 尽管… | Much as I admire the design, I can't defend the cost. | much as 整体=although | 待学 |
-| for all [X] | 尽管[有]X | For all its popularity, the framework has serious gaps. | for all + 名词短语 | 待学 |
-| far from [A/V-ing] | 不但没有 | Far from improving latency, the patch made it worse. | far from 后接动名词/形容词 | 待学 |
-| be that as it may | 即便如此（不常用） | Be that as it may, we still have to ship this week. | 固定虚拟式让步句 | 待学 |
+| much as [S V] | 尽管… | Much as I admire the design, I can't defend the cost. | much as 整体=although | **已编 09-16（各家族章）** |
+| for all [X] | 尽管[有]X | For all its popularity, the framework has serious gaps. | for all + 名词短语 | **已编 09-16（各家族章）** |
+| far from [A/V-ing] | 不但没有 | Far from improving latency, the patch made it worse. | far from 后接动名词/形容词 | **已编 09-16（各家族章）** |
+| be that as it may | 即便如此（不常用） | Be that as it may, we still have to ship this week. | 固定虚拟式让步句 | **已编 09-16（各家族章）** |
 
-### 家族 D：评述与立场（stance）
+### 家族 D：评述与立场（stance）（详见 [04-stance-commentary](04-stance-commentary.md)）
 
 | 框架 | 语义 | 例句 | 结构注 | 状态 |
 |---|---|---|---|---|
-| if you will / so to speak / as it were | 可以这么说（缓冲语） | We painted ourselves into a corner, so to speak. | 插入语，不占句子成分 | 待学 |
-| granted / admittedly / to be sure | 诚然…（先让后转） | Admittedly, the test coverage is thin — but the risk is contained. | 先承认再转折的论证套路 | 待学 |
-| suffice it to say (that) … | 无需多说，只说一句（不常用） | Suffice it to say the migration did not go smoothly. | 固定虚拟式 | 待学 |
-| far be it from me to [V] | 我岂敢…（不常用，反语客气） | Far be it from me to question the architect, but has anyone profiled this? | 固定虚拟式+不定式 | 待学 |
-| There is no [V-ing] | …是不可能的 | There's no denying the results speak for themselves. | no+动名词，there be 存现句 | 待学 |
-| [X] is one thing; [Y] is another | X是X，Y是Y（不可混同） | Writing the code is one thing; maintaining it is another. | 平行名词化结构 | 待学 |
+| if you will / so to speak / as it were | 可以这么说（缓冲语） | We painted ourselves into a corner, so to speak. | 插入语，不占句子成分 | **已编 09-16（各家族章）** |
+| granted / admittedly / to be sure | 诚然…（先让后转） | Admittedly, the test coverage is thin — but the risk is contained. | 先承认再转折的论证套路 | **已编 09-16（各家族章）** |
+| suffice it to say (that) … | 无需多说，只说一句（不常用） | Suffice it to say the migration did not go smoothly. | 固定虚拟式 | **已编 09-16（各家族章）** |
+| far be it from me to [V] | 我岂敢…（不常用，反语客气） | Far be it from me to question the architect, but has anyone profiled this? | 固定虚拟式+不定式 | **已编 09-16（各家族章）** |
+| There is no [V-ing] | …是不可能的 | There's no denying the results speak for themselves. | no+动名词，there be 存现句 | **已编 09-16（各家族章）** |
+| [X] is one thing; [Y] is another | X是X，Y是Y（不可混同） | Writing the code is one thing; maintaining it is another. | 平行名词化结构 | **已编 09-16（各家族章）** |
 
-### 家族 E：叙事与逻辑推进
+### 家族 E：叙事与逻辑推进（详见 [05-narrative-logic](05-narrative-logic.md)）
 
 | 框架 | 语义 | 例句 | 结构注 | 状态 |
 |---|---|---|---|---|
 | What began as [X] ended up [Y] | 始于X而终于Y | What began as a quick fix ended up reshaping half the module. | 假分裂+end up V-ing | 已见（诊断句Q10） |
 | What [S] failed to anticipate was [Y] | 没料到的是 | What we failed to anticipate was how fast the data would grow. | 假分裂，焦点在补语 | 已见（诊断句Q2） |
-| That [X], rather than [Y], was [Z] | 是X而非Y | That the delay was caused by DNS, rather than the database, was confirmed by the traces. | that 主语从句+rather than 平行插入 | 已见（诊断句Q7） |
-| not least because | 尤其因为 | The plan survived, not least because two engineers refused to let it die. | not least=特别是，不弱化反而加重 | 待学 |
-| insofar as | 在…范围内 | The tool helps, insofar as you already know what to look for. | 程度限定从句连词 | 待学 |
+| That [X], rather than [Y], was [Z] | 是X而非Y | That the delay was caused by DNS, rather than the database, was confirmed by the traces. | that 主语从句+rather than 平行插入 | **已编 09-16（家族B章）** |
+| not least because | 尤其因为 | The plan survived, not least because two engineers refused to let it die. | not least=特别是，不弱化反而加重 | **已编 09-16（各家族章）** |
+| insofar as | 在…范围内 | The tool helps, insofar as you already know what to look for. | 程度限定从句连词 | **已编 09-16（各家族章）** |
 
-### 家族 F：条件与虚拟（不常用，书面）
+### 家族 F：条件与虚拟（不常用，书面）（详见 [06-condition-subjunctive](06-condition-subjunctive.md)）
 
 | 框架 | 语义 | 例句 | 结构注 | 状态 |
 |---|---|---|---|---|
-| Were it not for [X] / But for [X] | 若非X | Were it not for the backup, we would have lost everything. | 省 if 的虚拟倒装 | 待学 |
-| Should you [V] | 若您…（正式） | Should you encounter this error, file a ticket immediately. | 省 if 倒装，技术文档高频 | 待学 |
-| as it stands | 以现状而论 | As it stands, the system can handle ten thousand users at most. | 独立评注语 | 待学 |
+| Were it not for [X] / But for [X] | 若非X | Were it not for the backup, we would have lost everything. | 省 if 的虚拟倒装 | **已编 09-16（各家族章）** |
+| Should you [V] | 若您…（正式） | Should you encounter this error, file a ticket immediately. | 省 if 倒装，技术文档高频 | **已编 09-16（各家族章）** |
+| as it stands | 以现状而论 | As it stands, the system can handle ten thousand users at most. | 独立评注语 | **已编 09-16（各家族章）** |
 
 ## 四、与既有内容的关系
 
@@ -122,4 +124,4 @@ more [A] than anyone had thought [B], let alone [C]
 
 ## 用法来源
 
-框架概念：Hunston & Francis, Pattern Grammar (2000)；Goldberg, Constructions（构式语法）；词块加工优势见 methodology/2026-09-16-sla-research.md 第四节。例句自造，不冒充语料统计。
+框架概念：Hunston & Francis, Pattern Grammar (2000)；Goldberg, Constructions（构式语法）；词块加工优势见 engineering/methodology/2026-09-16-sla-research.md 第四节。例句自造，不冒充语料统计。

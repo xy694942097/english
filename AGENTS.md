@@ -2,6 +2,15 @@
 
 适用范围仅为 english。用户当前明确要求优先。
 
+## 目录体系（2026-09-16 定版）
+
+- **engineering/**：工程文档总目录，左侧对应顶层资源「工程文档」，内含子目录 agents/（agent 文档，与根目录 AGENTS.md 同组）、design/（设计方案→组「设计」）、methodology/（调研方法→组「调研与方法」）。新增工程文档放对应子目录，前端自动发现。
+- **AGENTS.md**：根目录唯一保留的 agent 入口文档；被它引用的其它 agent 文档放 engineering/agents/。
+- **progress/**：学习进度与能力诊断（非工程建设进度），保持根目录，对应资源「进度与诊断」。
+- **book/**：教材。子目录=左侧资源（如 08-frames→句式框架）；book 目录本身不对应左侧资源——根目录的 README 为书入口（前端不进导航，专题页底部「关于本书」可达），TEMPLATE/BACKLOG/CHANGELOG 归「工程文档→Agent 文档」组。
+- **references/**、**vocabulary/**：分别对应「参考资料」「历史课堂」。
+- 排除扫描：site/、data/、sessions/、.git/、node_modules/、references 的 downloads/ 与 imports/。
+
 ## 恢复
 
 先读 LEARNER.md、METHOD.md、progress/CURRENT.md，再读当前章节及相关 sessions/web 记录。不要重复背景问卷，不从旧考试分数推断当前等级。
@@ -26,7 +35,7 @@ course.json可用unit_kinds显式指定章节知识点类型，如grammar。目�
 
 ## 记录与边界
 
-**对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→LEARNER.md/METHOD.md/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
+**对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 engineering/design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→LEARNER.md/METHOD.md/engineering/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
 
 学习背景写 LEARNER.md，教学方法写 METHOD.md，原答与反馈写 sessions/，进度证据写 progress/。不要跨写 ml-foundations。网页老师负责对话，服务器保存原答；Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
 

@@ -92,21 +92,38 @@ class LearningSiteTests(unittest.TestCase):
     def test_repository_docs_are_discovered_with_groups(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
-            for rel in ['methodology/sla.md', 'design/plan.md', 'AGENTS.md', 'README.md',
-                        'references/README.md', 'references/imports/2026-09-14/report.json',
-                        'site/public/app.js', 'data/learning.sqlite3']:
+            for rel in ['engineering/agents/conventions.md', 'engineering/design/plan.md',
+                        'engineering/methodology/sla.md', 'AGENTS.md', 'README.md',
+                        'progress/diagnosis.md', 'references/README.md',
+                        'book/BACKLOG.md', 'book/TEMPLATE.md', 'book/README.md',
+                        'vocabulary/old-lesson.md', 'book/08-frames/extra.md']:
                 path = root / rel
                 path.parent.mkdir(parents=True, exist_ok=True)
                 path.write_text('# ' + path.stem + '\n文档', encoding='utf-8')
             items = server.catalog(root)
             by_id = {i['id']: i for i in items}
-            for rel, group in [('methodology/sla.md', '调研与方法'), ('design/plan.md', '工程文档'),
-                               ('AGENTS.md', '项目说明'), ('README.md', '项目说明'),
-                               ('references/README.md', '参考资料')]:
-                self.assertEqual(by_id[rel]['group'], group, rel)
-            self.assertNotIn('references/imports/2026-09-14/report.json', by_id)
-            self.assertNotIn('site/public/app.js', by_id)
-            self.assertNotIn('data/learning.sqlite3', by_id)
+            expect = [
+                ('AGENTS.md', 'engineering', 'Agent 文档', False),
+                ('engineering/agents/conventions.md', 'engineering', 'Agent 文档', False),
+                ('engineering/design/plan.md', 'engineering', '设计', False),
+                ('engineering/methodology/sla.md', 'engineering', '调研与方法', False),
+                ('progress/diagnosis.md', 'progress', '进度与诊断', False),
+                ('references/README.md', 'reference', '参考资料', False),
+                ('book/BACKLOG.md', 'engineering', 'Agent 文档', False),
+                ('book/TEMPLATE.md', 'engineering', 'Agent 文档', False),
+                ('vocabulary/old-lesson.md', 'history', '历史课堂', False),
+                ('book/08-frames/extra.md', 'book-extra', '句式框架', False),
+            ]
+            for rel, section, group, hidden in expect:
+                item = by_id[rel]
+                self.assertEqual(item['section'], section, rel)
+                self.assertEqual(item['group'], group, rel)
+                self.assertEqual(bool(item.get('hidden')), hidden, rel)
+            for rel in ['references/imports/2026-09-14/report.json', 'site/public/app.js',
+                        'data/learning.sqlite3']:
+                self.assertNotIn(rel, by_id)
+            self.assertTrue(by_id['README.md'].get('hidden'))
+            self.assertTrue(by_id['book/README.md'].get('hidden'))
 
     def test_prompt_includes_profile_chapter_and_actual_history(self):
         prompt = server.teaching_prompt(

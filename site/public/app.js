@@ -117,23 +117,28 @@ async function dictionaryView(raw) {
 function nav() {
   const course=state.course.topics||[], chosen=new Set(course.flatMap(t=>t.lessons.map(l=>l.path)));
   const link=(id,title)=>`<a class="nav-link ${id===state.current?.id?'active':''}" href="#${encodeURIComponent(id)}">${escapeHTML(title)}</a>`;
-  const topicMatch=(location.hash.match(/^#topics\/([^/]+)/)||[])[1]||'';
-  const rest=state.items.filter(x=>!chosen.has(x.id));
-  const grouped=rest.reduce((m,x)=>{if(!m.has(x.group))m.set(x.group,[]);m.get(x.group).push(x);return m},new Map());
-  const fold=(open,summary,inner)=>`<details class="nav-fold" ${open?'open':''}><summary>${summary}</summary>${inner}</details>`;
-  $('nav').innerHTML=course.map(t=>{
-    const open=t.id===topicMatch||t.lessons.some(l=>l.path===state.current?.id);
-    return fold(open,`<span class="nav-fold-title">${escapeHTML(t.title)}</span><span class="nav-fold-count">${t.lessons.length}章</span>`,t.lessons.map(l=>link(l.path,l.title)).join(''));
-  }).join('')+`<details class="reference-nav"><summary>学习档案与扩展阅读</summary>${[...grouped].map(([g,xs])=>fold(xs.some(x=>x.id===state.current?.id),`<span class="nav-fold-title">${escapeHTML(g)}</span><span class="nav-fold-count">${xs.length}</span>`,xs.map(x=>link(x.id,x.title)).join(''))).join('')}</details>`;
+  const cur=state.current?.id, topicMatch=(location.hash.match(/^#topics\/([^/]+)/)||[])[1]||'';
+  const fold=(open,title,count,inner)=>`<details class="nav-fold" ${open?'open':''}><summary><span class="nav-fold-title">${escapeHTML(title)}</span><span class="nav-fold-count">${count}</span></summary>${inner}</details>`;
+  const rest=state.items.filter(x=>!chosen.has(x.id)&&!x.hidden);
+  const sec=s=>rest.filter(x=>x.section===s);
+  const subgroup=xs=>{const m=new Map();xs.forEach(x=>{if(!m.has(x.group))m.set(x.group,[]);m.get(x.group).push(x)});return [...m].map(([g,ys])=>fold(ys.some(y=>y.id===cur),g,ys.length,ys.map(y=>link(y.id,y.title)).join(''))).join('')};
+  let html=course.map(t=>fold(t.id===topicMatch||t.lessons.some(l=>l.path===cur),t.title,t.lessons.length+'章',t.lessons.map(l=>link(l.path,l.title)).join(''))).join('');
+  $('nav').innerHTML=html;
+  let doc='';
+  for(const [s,title,nested] of [['archive','学习档案'],['engineering','工程文档',true],['progress','进度与诊断'],['reference','参考资料'],['history','历史课堂'],['book-extra','Book 其他章节',true]]) {
+    const xs=sec(s); if(!xs.length) continue;
+    doc+=fold(xs.some(x=>x.id===cur),title,xs.length,nested?subgroup(xs):xs.map(x=>link(x.id,x.title)).join(''));
+  }
+  $('docnav').innerHTML=doc;
 }
 function topicHome(selected=''){
   state.current=null;state.knowledgeId=null;$('teach').hidden=true;$('source').textContent='';
-  $('breadcrumb').textContent='专题课程';$('chat-context').textContent='选择一章开始。老师会结合当前专题和你的背景讲解。';
+  $('breadcrumb').textContent='主页';$('chat-context').textContent='选择一章开始。老师会结合当前专题和你的背景讲解。';
   const topics=state.course.topics||[],all=topics.flatMap(t=>t.lessons),first=all.find(l=>l.path===state.course.start),last=all.find(l=>l.path===localStorage.getItem('english-last-lesson'));
   const shown=selected?topics.filter(t=>t.id===selected):topics;
   const feature=state.course.featured||{};
   const start=first?`<section class="topic-start"><div class="eyebrow">${escapeHTML(feature.label||'建议从这里开始')}</div><h2>${escapeHTML(first.title)}</h2>${feature.sample?`<p class="topic-example">${escapeHTML(feature.sample)}</p>`:''}<p>${escapeHTML(feature.question||first.focus)}</p><a class="start-lesson" href="#${encodeURIComponent(first.path)}">开始这一章 →</a>${last?`<a class="resume-lesson" href="#${encodeURIComponent(last.path)}">继续上次阅读：${escapeHTML(last.title)}</a>`:''}</section>`:'';
-  $('article').innerHTML=`<div class="topic-intro"><h1>按专题读懂英语</h1><p>从一句卡住你的英文出发，弄清词义、组合和结构，再到新语境中使用。</p></div>${selected?'':start}<div class="topic-tabs"><a href="#topics">全部专题</a>${topics.map(t=>`<a href="#topics/${t.id}" ${selected===t.id?'aria-current="page"':''}>${escapeHTML(t.title)}</a>`).join('')}</div><div class="topic-sections">${shown.map(t=>`<section class="topic-section"><div class="topic-section-head"><h2>${escapeHTML(t.title)}</h2><span>${t.lessons.length}章</span></div><p class="topic-question">${escapeHTML(t.question)}</p>${t.lessons.map(l=>`<a class="topic-lesson" href="#${encodeURIComponent(l.path)}"><div><strong>${escapeHTML(l.title)}</strong><p>${escapeHTML(l.focus)}</p></div><span>${escapeHTML(l.level)} →</span></a>`).join('')}</section>`).join('')||'<p>专题不存在，请返回全部专题。</p>'}</div><p class="topic-footnote">按需要选章即可。“回顾／深化／进阶”描述内容定位，不是对你的能力评分。词表保留在资料库中，供查阅。</p>`;
+  $('article').innerHTML=`<div class="topic-intro"><h1>按专题读懂英语</h1><p>从一句卡住你的英文出发，弄清词义、组合和结构，再到新语境中使用。</p></div>${selected?'':start}<div class="topic-tabs"><a href="#topics">全部专题</a>${topics.map(t=>`<a href="#topics/${t.id}" ${selected===t.id?'aria-current="page"':''}>${escapeHTML(t.title)}</a>`).join('')}</div><div class="topic-sections">${shown.map(t=>`<section class="topic-section"><div class="topic-section-head"><h2>${escapeHTML(t.title)}</h2><span>${t.lessons.length}章</span></div><p class="topic-question">${escapeHTML(t.question)}</p>${t.lessons.map(l=>`<a class="topic-lesson" href="#${encodeURIComponent(l.path)}"><div><strong>${escapeHTML(l.title)}</strong><p>${escapeHTML(l.focus)}</p></div><span>${escapeHTML(l.level)} →</span></a>`).join('')}</section>`).join('')||'<p>专题不存在，请返回全部专题。</p>'}</div><p class="topic-footnote">按需要选章即可。“回顾／深化／进阶”描述内容定位，不是对你的能力评分。<a href="#book/README.md">关于本书 →</a></p>`;
   nav();
 }
 function route() {
