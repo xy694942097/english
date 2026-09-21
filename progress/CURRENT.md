@@ -8,10 +8,13 @@
 
 （背景备注：截至目前工程建造投入很大，但真实学习记录为零——events/progress 均为空。后续工作应回到真实学习行为与能力诊断本身，而不是继续横向加功能。）
 
+- 自选篇建立（2026-09-18，用户指令）：18-self-picked.md 手动收录活页章上线——日常撞见即收、不设 7 条红线、来源标（自选）不要求反查；首个条目 less about…and more about（重新定焦）。三脚本 CHAPTERS 补齐（含并行会话的 16/17 小说通读章），管线一致，回归全过，前端 17 章可见。
 - 四级篇返工（2026-09-18，评审后整改第一批）：13-cet4-readthrough 按定版标准重做——旧 9 条重裁留 2 砍 6 存疑 1，重挖 27 候选取 5 入章（anything to go by / anything but / few 隐性最高级 / It's not that 归因纠正 / You might think 设靶预判），每条补语域/频次/产出侧三件套，例句逐字出真题。27 条 candidate 存 references/mining/cet4-restandard.frames.json 待族章分流。管线重跑一致，8 项回归全过。待办：09/12 章同标准重裁、07 章降级裁决。
 - 四级章补编（2026-09-21，用户指令）：四级「少」系 09-18 返工有意收紧+大量候选存档未编。本次候选全裁决：13 章 7→29 骨架 + 26 条短语档，35 例句逐字校验 0 不一致；00-guide/course.json 旧计数修正；09-18 返工未提交工作一并入库。
 - 六级章补编（2026-09-21，用户指令「6级的开始」）：116 条存档候选全裁决，14 章 19→66 骨架 + 15 短语（68 例句逐字校验 0 不一致）；cascade_final 六级 candidate 清零（47A/5B/64skip）。
 - 考研章补编（2026-09-21，用户指令「继续」）：89 条存档候选全裁决，15 章 21→60 骨架 + 10 短语（含 It is all very well…but、I'd be lying if I said、It is a [adj] N that 反语让步等）；A 类未编 4 条复审（1 入章 3 判已编族/语法层，Now comes word that 例并入 ##12 变体注）；cascade_final 考研 candidate 清零（A:61/B:10/skip:46）。真题通读线（四/六/考研）存档候选全部清零，三真题章合计 155 骨架。
+- 结构重排（2026-09-21，用户指令「同时动」，目标「简单」）：book 四个单章目录归拢（02-chunks→01-reading、07-word-topics→03-四六级词汇、06-sentences→05-patterns、04-词表资料→materials/wordlists-guide.md），course.json 6→5 专题零单章；侧边栏「参考资料」撤销（工程记录入工程侧「导入与挖掘记录」），学习资料=materials+历史课堂，CURRENT 移入进度与诊断；00-guide 补小说通读/自选篇索引+三条系列线说明；frames 冒烟 h1 断言 15→16 旧账修复。全部回归过、浏览器实测过。
+- 仓库瘦身（2026-09-21，用户指令「精简瘦身」）：逐项核实引用后删——kaikki 部分下载残件 1.1G（零脚本消费、残件不可用）、ecdict repo/.git 72M（哈希已记录）、stardict.7z 49M（与 csv 重叠、零引用）、空嵌套 references/references/ 与 __pycache__×2。materials 3.3G→2.1G。保留核实：opus 1.5G（回填待用）、全部可复现导入/归一脚本、llm_batches 裁决证据链。文档同步（下载记录页/materials README/CHANGELOG），19+1 测试全过、管线重跑一致、站点实测更新后页面已生效。
 - 术语定版（2026-09-17，用户指令）：全项目「框架/句式框架」更名「句式骨架」——course.json、08-frames 全章、AGENTS、HANDBOOK、methodology（含什么是框架.md→什么是句式骨架.md）、frames-plan、三个生成脚本、frame-miner skill 均已改；侧边栏组名同步；生成管线重跑一致，8 项回归全过，前端零残留。frame-miner/08-frames/frames.json 等技术标识符保留原名。
 - 学习资料合集化（2026-09-16，用户指令）：可读层从 142 条碎页收敛到 14 条合集——词源书 77 分册→每册一合集（按词目字母排序）、四/六/考研真题各一合集、考研精翻 22 份合一、雅思真题/资料各合一、初中教材 5 册合一（textbooks 原件退出目录）。normalize_materials.py 重写合集化输出（幂等已验），白名单/夹具同步，8 项回归全过，浏览器实测大页渲染正常（2MB 词源页 4316 词条）。原则入 HANDBOOK 第五节：参考资料宁少而全不多而碎。
 - 工程简化（2026-09-16，用户指令三项全选）：规则收敛——materials/HANDBOOK.md 成为下载/选源/归一化规则唯一出处（旧「总则」+「选源规则」合并，AGENTS 三处收敛为单条指向，批次记录归档 engineering/archive/downloads-batches-2026-09.md）；脚本三合一——references/normalize_materials.py（papers/ielts/readable/all 子命令，幂等已验 300 生成物快照比对，顺带修 ielts 来源头路径重复 bug）；杂物清理——空目录 reading/review 删除、textbook_mining 6.7MB→2.2MB（只留两个句子池参考实现）、site/verification 迁入 engineering/verification/。全部测试通过，浏览器验证 HANDBOOK 渲染正常。

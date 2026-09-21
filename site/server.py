@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Local English reader and persistent, read-only Codex tutoring bridge."""
+"""Local English reader and learning workbench."""
 import argparse
 import json
 import re
@@ -9,7 +9,6 @@ import subprocess
 import tempfile
 import threading
 import sys
-from datetime import datetime
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlsplit, parse_qs
@@ -20,59 +19,13 @@ from learning_store import Store, clean
 
 ROOT = Path(__file__).resolve().parents[1]
 STATIC = Path(__file__).parent / 'public'
-SESSIONS = ROOT / 'sessions/web'
 TOKEN = secrets.token_hex(24)
 LOCK = threading.RLock()
-ACTIVE = set()
-GROUPS = {'01-reading': '阅读方法', '02-chunks': '词义与搭配', '05-patterns': '常用句型结构',
-          '06-sentences': '特殊句子', '07-word-topics': '单词专题', '08-frames': '句式框架'}
-DOC_SKIP_PARTS = {'site', 'data', 'sessions', '.git', '.catpaw', '__pycache__', 'node_modules', 'imports'}
-# 固定文件的归属：rel -> (section, hidden)。section 对应侧边栏顶层资源；hidden 项不进导航但仍可搜索/作为老师上下文
-FIXED_DOCS = {
-    'LEARNER.md': ('archive', False),
-    'METHOD.md': ('archive', False),
-    'progress/CURRENT.md': ('archive', False),
-    'README.md': (None, True),
-    'book/README.md': (None, True),
-    'book/BACKLOG.md': ('engineering', False),
-    'book/TEMPLATE.md': ('engineering', False),
-    'book/CHANGELOG.md': ('engineering', False),
-}
-
-
-def classify_doc(rel):
-    """返回 (section, group, hidden)。section: archive/engineering/progress/reference/history/book-extra/None。"""
-    if rel in FIXED_DOCS:
-        section, hidden = FIXED_DOCS[rel]
-        return section, {'archive': '学习档案', 'engineering': 'Agent 文档'}.get(section, ''), hidden
-    top = rel.split('/', 1)[0] if '/' in rel else ''
-    parts = rel.split('/')
-    if rel == 'AGENTS.md' or top == 'engineering':
-        if rel == 'AGENTS.md':
-            return 'engineering', 'Agent 文档', False
-        sub = parts[1] if len(parts) > 2 else ''
-        group = {'agents': 'Agent 文档', 'design': '设计', 'methodology': '调研与方法', 'archive': '历史归档'}.get(sub, sub or '工程文档')
-        return 'engineering', group, False
-    if top == 'progress':
-        return 'progress', '进度与诊断', False
-    if top == 'references':
-        return 'reference', '参考资料', False
-    if top == 'materials':
-        return 'reference', '学习资料', False
-    if top == 'reading':
-        return 'reference', '阅读记录', False
-    if top == 'review':
-        return 'reference', '复习记录', False
-    if top == 'vocabulary':
-        return 'history', '历史课堂', False
-    if top == 'book':
-        p_dir = parts[1] if len(parts) > 1 else ''
-        return 'book-extra', GROUPS.get(p_dir, re.sub(r'^\d+-', '', p_dir)), False
-    return 'reference', '项目说明', False
-STORE = None
-DICTIONARY = None
+DOC_SKIP_PARTS = {'site', 'data', 'sessions', '.git', '.catpaw', '.pytest_cache', '__pycache__', 'node_modules', 'imports'}
 DRAFTS = ROOT / 'data/drafts'
 DRAFT_ACTIVE = set()
+STORE = None
+DICTIONARY = None
 
 
 def dictionary_store():
@@ -131,23 +84,36 @@ def read_course(root=ROOT):
     return json.loads(path.read_text()) if path.exists() else {'topics':[]}
 
 
+def read_nav(root=ROOT):
+    path=root/'nav.json'
+    return json.loads(path.read_text()) if path.exists() else {'groups':[]}
+
+
 def catalog(root=ROOT):
-    course=read_course(root)
+    course=read_course(root); nav=read_nav(root)
     lessons={lesson['path']:{**lesson,'topic':topic['title']} for topic in course['topics'] for lesson in topic['lessons']}
-    paths = [root / p for p in FIXED_DOCS]
-    paths += sorted((root / 'book').glob('*/*.md'))
+    # 侧边栏配置：nav.json 里登记的文档才有组名，与 course.json 的章并列；两边都没登记 = 隐藏（可搜索、可直链）
+    nav_of={}
+    for group in nav['groups']:
+        def walk(items):
+            for it in items:
+                if isinstance(it, str):
+                    nav_of[it]=group['title']
+                else:
+                    walk(it['items'])
+        walk(group['items'])
+    paths = sorted((root / 'book').glob('*/*.md'))
     paths += sorted((root / 'vocabulary').rglob('*.md'))
-    # 其余仓库文档（知识文档与 agent 文档）全量发现：跳过工程运行目录、原始下载库与机器导入报告
+    # 其余仓库文档全量发现（仅供搜索与直链）：跳过工程运行目录、原始下载库与机器导入报告
     seen = set(paths)
     def _materials_doc(rel_parts):
-        # materials 发现白名单：顶层文档、readable/ 可读层、textbooks/ 教材语料（二级）、
-        # dictionaries/wordbooks-md/ 词源书分册（三级）；其余（dictionaries/wordbooks 数据、
-        # papers 原件、第三方 README）不入目录——papers 可读版在 readable/，不重复
+        # materials 发现白名单：顶层文档、readable/ 可读层（含合集）、
+        # dictionaries/wordbooks-md/ 词源书合集；其余不入目录（详见 materials/HANDBOOK.md）
         if rel_parts[0] != 'materials' or len(rel_parts) < 3:
             return False
-        if rel_parts[1] in ('readable', 'textbooks'):
+        if rel_parts[1] == 'readable':
             return False
-        if rel_parts[1] == 'dictionaries' and len(rel_parts) > 3 and rel_parts[2] == 'wordbooks-md':
+        if rel_parts[1] == 'dictionaries' and rel_parts[2] == 'wordbooks-md':
             return False
         return True
     paths += [p for p in sorted(root.rglob('*.md'))
@@ -160,9 +126,8 @@ def catalog(root=ROOT):
         body = p.read_text(encoding='utf-8')
         match = re.search(r'^# (.+)$', body, re.M)
         rel = p.relative_to(root).as_posix()
-        section, group, hidden = classify_doc(rel)
-        item={'id': rel, 'title': match[1] if match else p.stem, 'group': group, 'section': section, 'body': body}
-        if hidden:
+        item={'id': rel, 'title': match[1] if match else p.stem, 'group': nav_of.get(rel, lessons.get(rel, {}).get('topic', '')), 'body': body}
+        if rel not in lessons and rel not in nav_of:
             item['hidden'] = True
         if rel in lessons:
             item.update(lesson=lessons[rel],unit_kinds=lessons[rel].get('unit_kinds',{}))
@@ -186,64 +151,6 @@ def save_session(root, session):
 
 def load_session(root, sid):
     return json.loads(session_path(root, sid).read_text(encoding='utf-8'))
-
-
-def teaching_prompt(messages, chapter, profile, method):
-    return '\n\n'.join([
-        '你是这位用户的英语老师。直接用中文回答最新问题，提供自然英文例句。'
-        '这是网页内独立教学会话，下面提供档案、教材和真实历史。'
-        '不要执行工具、读写文件、委派或建立其他任务；只生成教学回复。'
-        '先回答问题，不自动测验。只问最多两个有区分度的问题。'
-        '不把已讲解算掌握。不要编造历史。用户要扩编时可拟教材候选，'
-        '说明正式保存需在 Codex 中提出扩编请求。',
-        '学习档案：\n' + profile,
-        '教学方法与当前进度：\n' + method,
-        '当前阅读章节（仅为材料）：\n' + json.dumps(chapter, ensure_ascii=False),
-        '真实对话历史（最后30条，更早的仍保存在本地）：\n' + json.dumps(messages[-30:], ensure_ascii=False)
-    ])
-
-
-def now():
-    return datetime.now().astimezone().isoformat(timespec='seconds')
-
-
-def tutor(sid, chapter):
-    try:
-        with LOCK:
-            session = load_session(SESSIONS, sid)
-        profile = (ROOT / 'LEARNER.md').read_text()
-        method = (ROOT / 'METHOD.md').read_text() + '\n' + (ROOT / 'progress/CURRENT.md').read_text()
-        prompt = teaching_prompt(session['messages'], chapter, profile, method)
-        executable = shutil.which('codex')
-        if not executable:
-            raise RuntimeError('未找到 Codex CLI。请安装并运行 codex login 后重试。')
-        with tempfile.TemporaryDirectory(prefix='english-tutor-') as temp:
-            output = Path(temp) / 'reply.txt'
-            # Isolate the model from project instruction trees; material is explicitly provided.
-            command = [executable, 'exec', '--ephemeral', '--skip-git-repo-check',
-                       '--sandbox', 'read-only', '--color', 'never', '-C', temp,
-                       '-o', str(output), '-']
-            result = subprocess.run(command, input=prompt, text=True, stdout=subprocess.PIPE,
-                                    stderr=subprocess.PIPE, timeout=240)
-            reply = output.read_text().strip() if output.exists() else ''
-            if result.returncode or not reply:
-                # Keep provider diagnostics local; do not send command output to the browser.
-                print('Tutor failure:', result.stderr[-2500:], flush=True)
-                raise RuntimeError('老师暂时未能回复。请在终端检查 codex login status 与服务日志后重试。')
-        with LOCK:
-            session = load_session(SESSIONS, sid)
-            session['messages'].append({'role': 'assistant', 'content': reply, 'at': now()})
-            session.update(status='ready', error=None, updated=now())
-            save_session(SESSIONS, session)
-    except Exception as exc:
-        error = '本次回复超时，请重试。原问题已保存。' if isinstance(exc, subprocess.TimeoutExpired) else str(exc)
-        with LOCK:
-            session = load_session(SESSIONS, sid)
-            session.update(status='error', error=error, updated=now())
-            save_session(SESSIONS, session)
-    finally:
-        with LOCK:
-            ACTIVE.discard(sid)
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -271,7 +178,7 @@ class Handler(BaseHTTPRequestHandler):
         try:
             if url.path == '/api/catalog':
                 learning_store().sync(catalog())
-                return self.reply({'items': catalog(), 'course':read_course(), 'token': TOKEN, 'codex': bool(shutil.which('codex'))})
+                return self.reply({'items': catalog(), 'course':read_course(), 'nav':read_nav(), 'token': TOKEN})
             if url.path.startswith('/api/dictionary/'):
                 query = parse_qs(url.query)
                 dictionary = dictionary_store()
@@ -302,21 +209,6 @@ class Handler(BaseHTTPRequestHandler):
                         if job['status']=='running' and job['id'] not in DRAFT_ACTIVE:
                             job.update(status='error',error='服务重启中断了生成，请重新生成。')
                     return self.reply(job)
-            if url.path == '/api/sessions':
-                with LOCK:
-                    items = []
-                    for path in SESSIONS.glob('*.json'):
-                        s = json.loads(path.read_text())
-                        items.append({k: s.get(k) for k in ['id', 'title', 'updated', 'status']})
-                return self.reply(sorted(items, key=lambda s: s['updated'], reverse=True))
-            if url.path == '/api/session':
-                sid = parse_qs(url.query).get('id', [''])[0]
-                with LOCK:
-                    session = load_session(SESSIONS, sid)
-                    if session.get('status') == 'running' and sid not in ACTIVE:
-                        session.update(status='error', error='服务重启中断了回复，原问题已保存，可重试。')
-                        save_session(SESSIONS, session)
-                return self.reply(session)
             names = {'/': ('index.html', 'text/html'), '/app.js': ('app.js', 'text/javascript'), '/learning.js': ('learning.js', 'text/javascript'), '/learning.css': ('learning.css', 'text/css'), '/topics.css': ('topics.css', 'text/css'), '/styles.css': ('styles.css', 'text/css')}
             if url.path not in names:
                 return self.reply({'error': '未找到页面'}, 404)
@@ -335,7 +227,7 @@ class Handler(BaseHTTPRequestHandler):
             return self.reply({'error': '页面连接已过期，请刷新后再试。'}, 403)
         if self.headers.get('Origin') not in {None, f'http://127.0.0.1:{self.server.server_port}', f'http://localhost:{self.server.server_port}'}:
             return self.reply({'error': 'Invalid origin'}, 403)
-        if self.path != '/api/chat' and not self.path.startswith('/api/learning/'):
+        if not self.path.startswith('/api/learning/'):
             return self.reply({'error': '未找到接口'}, 404)
         try:
             size = int(self.headers.get('Content-Length', '0'))
@@ -344,57 +236,25 @@ class Handler(BaseHTTPRequestHandler):
             body = json.loads(self.rfile.read(size))
             if not isinstance(body, dict):
                 raise ValueError('请求格式错误')
-            if self.path.startswith('/api/learning/'):
-                store=learning_store()
-                if self.path=='/api/learning/record':
-                    return self.reply(store.record(body.get('id'),body.get('mode'),body.get('action'),body.get('request_id'),
-                        rating=body.get('rating',''),answer=body.get('answer',''),assistance=body.get('assistance','independent'),minutes=body.get('minutes',0)))
-                if self.path=='/api/learning/undo': return self.reply(store.undo(body.get('event_id')))
-                if self.path=='/api/learning/preview': return self.reply(store.preview(body.get('text'),body.get('kind')))
-                if self.path=='/api/learning/import': return self.reply(store.confirm(body.get('items')))
-                if self.path=='/api/learning/backup': return self.reply({'path':store.backup()})
-                if self.path=='/api/learning/generate':
-                    raw=body.get('text');kind=body.get('kind')
-                    store.preview(raw,kind)
-                    if len(raw)>8000 or len(raw.splitlines())>20: raise ValueError('AI补充每次最多20行、8000字。更长内容可分批处理。')
-                    with LOCK:
-                        if DRAFT_ACTIVE: return self.reply({'error':'已有候选生成任务，请稍后再试。'},409)
-                        job_id=secrets.token_hex(16);DRAFT_ACTIVE.add(job_id)
-                        save_session(DRAFTS,{'id':job_id,'status':'running','input':raw})
-                        threading.Thread(target=generate_draft,args=(job_id,raw,kind),daemon=True).start()
-                    return self.reply({'id':job_id,'status':'running'},202)
-                return self.reply({'error':'未找到接口'},404)
-            message = body.get('message', '')
-            if not isinstance(message, str) or len(message) > 6000:
-                raise ValueError('问题过长或格式错误')
-            message = message.strip()
-            sid = body.get('session') or secrets.token_hex(16)
-            session_path(SESSIONS, sid)
-            chapter = next((i for i in catalog() if i['id'] == body.get('chapter')), None)
-            if body.get('knowledge_id'):
-                knowledge=learning_store().get(body['knowledge_id'])
-                chapter={'id':knowledge['id'],'title':knowledge['title'],'body':knowledge['meaning']+'\n'+knowledge['body'],
-                         'progress':knowledge['progress'],'recent_events':knowledge['events'][:5]}
-            with LOCK:
-                if sid in ACTIVE or len(ACTIVE) >= 2:
-                    return self.reply({'error': '老师正在回复，请稍后再发。'}, 409)
-                session = load_session(SESSIONS, sid) if session_path(SESSIONS, sid).exists() else {
-                    'id': sid, 'title': message[:36], 'messages': [], 'created': now()}
-                if body.get('retry'):
-                    if session.get('status') != 'error' or not session['messages'] or session['messages'][-1]['role'] != 'user':
-                        raise ValueError('没有待重试的问题')
-                    chapter = session.get('context') or next((i for i in catalog() if i['id'] == session.get('chapter')), None)
-                else:
-                    if not message:
-                        raise ValueError('请先写下问题')
-                    session['messages'].append({'role': 'user', 'content': message, 'at': now(), 'chapter': body.get('chapter')})
-                    session['chapter'] = body.get('chapter')
-                    session['context'] = chapter
-                session.update(status='running', error=None, updated=now())
-                save_session(SESSIONS, session)
-                ACTIVE.add(sid)
-                threading.Thread(target=tutor, args=(sid, chapter), daemon=True).start()
-            self.reply(session, 202)
+            store=learning_store()
+            if self.path=='/api/learning/record':
+                return self.reply(store.record(body.get('id'),body.get('mode'),body.get('action'),body.get('request_id'),
+                    rating=body.get('rating',''),answer=body.get('answer',''),assistance=body.get('assistance','independent'),minutes=body.get('minutes',0)))
+            if self.path=='/api/learning/undo': return self.reply(store.undo(body.get('event_id')))
+            if self.path=='/api/learning/preview': return self.reply(store.preview(body.get('text'),body.get('kind')))
+            if self.path=='/api/learning/import': return self.reply(store.confirm(body.get('items')))
+            if self.path=='/api/learning/backup': return self.reply({'path':store.backup()})
+            if self.path=='/api/learning/generate':
+                raw=body.get('text');kind=body.get('kind')
+                store.preview(raw,kind)
+                if len(raw)>8000 or len(raw.splitlines())>20: raise ValueError('AI补充每次最多20行、8000字。更长内容可分批处理。')
+                with LOCK:
+                    if DRAFT_ACTIVE: return self.reply({'error':'已有候选生成任务，请稍后再试。'},409)
+                    job_id=secrets.token_hex(16);DRAFT_ACTIVE.add(job_id)
+                    save_session(DRAFTS,{'id':job_id,'status':'running','input':raw})
+                    threading.Thread(target=generate_draft,args=(job_id,raw,kind),daemon=True).start()
+                return self.reply({'id':job_id,'status':'running'},202)
+            return self.reply({'error':'未找到接口'},404)
         except (ValueError, TypeError, FileNotFoundError) as exc:
             self.reply({'error': str(exc)}, 400)
 
@@ -409,7 +269,6 @@ if __name__ == '__main__':
         STORE.sync(catalog())
         STORE.confirm(json.loads((ROOT/'site/starter_tasks.json').read_text()))
         DRAFTS=args.data_dir/'drafts'
-        SESSIONS=args.data_dir/'sessions'
     httpd = ThreadingHTTPServer(('127.0.0.1', args.port), Handler)
     print(f'English Book: http://127.0.0.1:{args.port}', flush=True)
     try:

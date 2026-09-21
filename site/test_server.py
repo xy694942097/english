@@ -62,13 +62,13 @@ class LearningSiteTests(unittest.TestCase):
         thread.start()
         base = 'http://127.0.0.1:' + str(httpd.server_port)
         try:
-            request = urllib.request.Request(base + '/api/chat', data=b'{}', headers={'Content-Type': 'application/json'})
+            request = urllib.request.Request(base + '/api/learning/record', data=b'{}', headers={'Content-Type': 'application/json'})
             with self.assertRaises(urllib.error.HTTPError) as error:
                 urllib.request.urlopen(request)
             self.assertEqual(error.exception.code, 403)
             error.exception.close()
             with self.assertRaises(urllib.error.HTTPError) as error:
-                urllib.request.urlopen(base + '/api/session?id=../LEARNER')
+                urllib.request.urlopen(base + '/api/learning/draft?id=../LEARNER')
             self.assertEqual(error.exception.code, 404)
             error.exception.close()
             with self.assertRaises(urllib.error.HTTPError) as error:
@@ -88,78 +88,70 @@ class LearningSiteTests(unittest.TestCase):
             self.assertEqual(items[0]['id'], 'book/new-topic/lesson.md')
             self.assertEqual(items[0]['title'], '新章节')
             self.assertIn('真实正文', items[0]['body'])
+            # 未登记进 course.json / nav.json：仍被发现（可搜索、可直链）但不进导航
+            self.assertTrue(items[0].get('hidden'))
 
-    def test_repository_docs_are_discovered_with_groups(self):
+    def test_repository_docs_follow_nav_config(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
-            for rel in ['engineering/agents/conventions.md', 'engineering/design/plan.md',
-                        'engineering/methodology/sla.md', 'engineering/archive/old-plan.md',
-                        'AGENTS.md', 'README.md',
-                        'progress/diagnosis.md', 'references/README.md',
-                        'book/BACKLOG.md', 'book/TEMPLATE.md', 'book/README.md',
-                        'vocabulary/old-lesson.md', 'book/08-frames/extra.md']:
+            (root / 'nav.json').write_text(json.dumps({'groups': [
+                {'title': '学习档案', 'items': ['LEARNER.md', 'METHOD.md']},
+                {'title': '进度与诊断', 'items': [
+                    {'sub': '进度', 'items': ['progress/diagnosis.md']}]},
+            ]}, ensure_ascii=False), encoding='utf-8')
+            for rel in ['LEARNER.md', 'METHOD.md', 'README.md', 'AGENTS.md',
+                        'engineering/design/plan.md', 'progress/diagnosis.md',
+                        'book/BACKLOG.md', 'vocabulary/old-lesson.md',
+                        'book/08-frames/extra.md', 'materials/HANDBOOK.md']:
                 path = root / rel
                 path.parent.mkdir(parents=True, exist_ok=True)
                 path.write_text('# ' + path.stem + '\n文档', encoding='utf-8')
             items = server.catalog(root)
             by_id = {i['id']: i for i in items}
-            expect = [
-                ('AGENTS.md', 'engineering', 'Agent 文档', False),
-                ('engineering/agents/conventions.md', 'engineering', 'Agent 文档', False),
-                ('engineering/design/plan.md', 'engineering', '设计', False),
-                ('engineering/methodology/sla.md', 'engineering', '调研与方法', False),
-                ('engineering/archive/old-plan.md', 'engineering', '历史归档', False),
-                ('progress/diagnosis.md', 'progress', '进度与诊断', False),
-                ('references/README.md', 'reference', '参考资料', False),
-                ('book/BACKLOG.md', 'engineering', 'Agent 文档', False),
-                ('book/TEMPLATE.md', 'engineering', 'Agent 文档', False),
-                ('vocabulary/old-lesson.md', 'history', '历史课堂', False),
-                ('book/08-frames/extra.md', 'book-extra', '句式框架', False),
-            ]
-            for rel, section, group, hidden in expect:
-                item = by_id[rel]
-                self.assertEqual(item['section'], section, rel)
-                self.assertEqual(item['group'], group, rel)
-                self.assertEqual(bool(item.get('hidden')), hidden, rel)
-            for rel in ['references/imports/2026-09-14/report.json', 'site/public/app.js',
-                        'data/learning.sqlite3']:
+            # 配置登记的（含嵌套小标签下的）：有组名、不隐藏
+            self.assertEqual(by_id['LEARNER.md']['group'], '学习档案')
+            self.assertFalse(by_id['LEARNER.md'].get('hidden'))
+            self.assertEqual(by_id['progress/diagnosis.md']['group'], '进度与诊断')
+            self.assertFalse(by_id['progress/diagnosis.md'].get('hidden'))
+            # 未登记的：仍被发现（可搜索/直链）但隐藏——素材与工程文档现在即处于此态
+            for rel in ['README.md', 'AGENTS.md', 'engineering/design/plan.md',
+                        'book/BACKLOG.md', 'vocabulary/old-lesson.md',
+                        'book/08-frames/extra.md', 'materials/HANDBOOK.md']:
+                self.assertIn(rel, by_id)
+                self.assertTrue(by_id[rel].get('hidden'), rel)
+            for rel in ['site/public/x.md', 'data/x.md']:
                 self.assertNotIn(rel, by_id)
-            self.assertTrue(by_id['README.md'].get('hidden'))
-            self.assertTrue(by_id['book/README.md'].get('hidden'))
 
-    def test_materials_index_is_discovered_and_vendor_docs_are_skipped(self):
+    def test_materials_whitelist_docs_are_discovered_but_hidden(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
-            for rel in ['materials/README.md', 'materials/readable/papers/cet6-2016.md',
+            for rel in ['materials/README.md', 'materials/HANDBOOK.md',
+                        'materials/readable/papers/六级真题合集.md',
+                        'materials/readable/textbooks/初中英语教材合集.md',
                         'materials/vocabulary/notes.md',
-                        'materials/dictionaries/wordbooks-md/cet4/cet4-a.md',
+                        'materials/dictionaries/wordbooks-md/etymology-cet4.md',
                         'materials/dictionaries/wordbooks/ecdict-repo-readme.md',
                         'materials/dictionaries/ecdict/repo/README.md',
-                        'materials/textbooks/初中人教版/七年级上.md',
+                        'materials/textbooks/初中人教版/七年级上册.md',
                         'materials/papers/exams/cet4-2022-06.md']:
                 path = root / rel
                 path.parent.mkdir(parents=True, exist_ok=True)
                 path.write_text('# 学习资料\n\n索引', encoding='utf-8')
             items = server.catalog(root)
             by_id = {i['id']: i for i in items}
-            self.assertIn('materials/README.md', by_id)
-            self.assertEqual(by_id['materials/README.md']['section'], 'reference')
-            self.assertEqual(by_id['materials/README.md']['group'], '学习资料')
-            self.assertIn('materials/readable/papers/cet6-2016.md', by_id)
-            self.assertIn('materials/dictionaries/wordbooks-md/cet4/cet4-a.md', by_id)
-            self.assertIn('materials/textbooks/初中人教版/七年级上.md', by_id)
-            self.assertNotIn('materials/vocabulary/notes.md', by_id)
-            self.assertNotIn('materials/dictionaries/wordbooks/ecdict-repo-readme.md', by_id)
-            self.assertNotIn('materials/dictionaries/ecdict/repo/README.md', by_id)
-            self.assertNotIn('materials/papers/exams/cet4-2022-06.md', by_id)
-
-    def test_prompt_includes_profile_chapter_and_actual_history(self):
-        prompt = server.teaching_prompt(
-            [{'role': 'user', 'content': '我的原始回答'}],
-            {'id': 'book/x.md', 'body': 'gain traction = 获得支持'},
-            '高考138；听力暂缓', '已讲解不等于掌握')
-        for value in ['我的原始回答', 'gain traction', '高考138', '已讲解不等于掌握']:
-            self.assertIn(value, prompt)
+            # 白名单文档仍进目录（未登记 nav.json 故隐藏）；日后在 nav.json 加组即可上架
+            for rel in ['materials/README.md', 'materials/HANDBOOK.md',
+                        'materials/readable/papers/六级真题合集.md',
+                        'materials/readable/textbooks/初中英语教材合集.md',
+                        'materials/dictionaries/wordbooks-md/etymology-cet4.md']:
+                self.assertIn(rel, by_id)
+                self.assertTrue(by_id[rel].get('hidden'), rel)
+            for rel in ['materials/vocabulary/notes.md',
+                        'materials/textbooks/初中人教版/七年级上册.md',
+                        'materials/dictionaries/wordbooks/ecdict-repo-readme.md',
+                        'materials/dictionaries/ecdict/repo/README.md',
+                        'materials/papers/exams/cet4-2022-06.md']:
+                self.assertNotIn(rel, by_id)
 
     def test_session_persistence_and_path_boundary(self):
         with tempfile.TemporaryDirectory() as temp:

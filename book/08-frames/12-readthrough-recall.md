@@ -1,12 +1,12 @@
 # 教材回收：通读篇
 
-本章解决：教材里那些**没有钩子词**的句子骨架——regex 搜不出来、只有逐句通读才能发现的结构型框架。来源与 07 章不同：不是预设模式扫描，而是 2026-09-16 对初中五册+高中人教 8,523 句全语料做 LLM 逐句通读（16 批 × 300 句，方法见 methodology/2026-09-16-frame-mining.md），聚类去重得 67 个候选，按三条判据（骨架/误读/语域）筛出本章收录的 12 个，例句全部为通读阶段逐字命中并经双重校验。
+本章解决：教材里那些**没有钩子词**的句子骨架——regex 搜不出来、只有逐句通读才能发现的结构型句式骨架。来源与 07 章不同：不是预设模式扫描，而是 2026-09-16 对初中五册+高中人教 8,523 句全语料做 LLM 逐句通读（16 批 × 300 句，方法见 methodology/2026-09-16-frame-mining.md），聚类去重得 67 个候选，按三条判据（骨架/误读/语域）筛出本章收录的 12 个，例句全部为通读阶段逐字命中并经双重校验。
 
-**语料与披露**：通读池 4,649 句（≥8 词信息句，剔除练习指令、题目模板、填空残片、断字行——指令模板的同构重复是伪框架源，如 "Combine each pair of sentences using..." 已在池外）。例句后的全语料反查计数基于定制 regex，结构型框架（同位语插入等）计数为下限。教材为社区 OCR 整理版，不宣称与官方出版物逐字一致。
+**语料与披露**：通读池 4,649 句（≥8 词信息句，剔除练习指令、题目模板、填空残片、断字行——指令模板的同构重复是伪句式骨架源，如 "Combine each pair of sentences using..." 已在池外）。例句后的全语料反查计数基于定制 regex，结构型句式骨架（同位语插入等）计数为下限。教材为社区 OCR 整理版，不宣称与官方出版物逐字一致。
 
 ## 本章预览
 
-| 编号 | 框架 | 一句话语义 |
+| 编号 | 句式骨架 | 一句话语义 |
 |---|---|---|
 | 1 | one of the + 最高级 + [复数N] | 位居最…之列 |
 | 2 | What [小句] is/was [焦点] | 之所以…，关键在于… |
@@ -23,7 +23,7 @@
 
 ## 1. one of the + 最高级 + [复数N]
 
-**语义：位居最…之列。** 评价性定位框架，通读命中 17 例、全语料反查 50 例，教材密度第一。
+**语义：位居最…之列。** 评价性定位句式骨架，通读命中 17 例、全语料反查 50 例，教材密度第一。
 
 > Did you know that China is one of the oldest countries in the world?（八年级下，教材）
 
@@ -67,7 +67,7 @@ what = the thing(s) that…（先行词内置）
 
 ## 3. Could you (please) tell me [wh-陈述语序]
 
-**语义：请问…。** 礼貌求助框架，通读命中 8 例、全语料 20 例，初中九年级集中教学。
+**语义：请问…。** 礼貌求助句式骨架，通读命中 8 例、全语料 20 例，初中九年级集中教学。
 
 > Could you possibly tell me the way to the village school?（九年级，教材）
 
@@ -158,7 +158,7 @@ have/get + O + V-ed（宾语与动词是被动关系）
 
 ## 7. [前句], which [谓语]
 
-**语义：这意味着…/其中…。** which 回指**整句**（不是某个名词）的续评框架，通读命中 3 例、全语料反查 125 例。
+**语义：这意味着…/其中…。** which 回指**整句**（不是某个名词）的续评句式骨架，通读命中 3 例、全语料反查 125 例。
 
 > People from the UK are called "British", which means the UK is also often referred to as Britain or Great Britain.（必修二，教材）
 
@@ -195,20 +195,20 @@ have/get + O + V-ed（宾语与动词是被动关系）
 ```
 主句 + , + V-ing（逻辑主语=主句主语或整句）
 结果义（giving/making/leaving…）最常见
-= which gives…（框架 7 的分词版）
+= which gives…（句式骨架 7 的分词版）
 ```
 
 **常见误读：** 句尾 V-ing 不是进行体——主句谓语在前面，分词是追加的伴随结果。误当新句子开头会断错句。
 
 ## 9. Some [A], (and) others [B]
 
-**语义：有的…有的…。** 对举框架，通读命中 3 例。
+**语义：有的…有的…。** 对举句式骨架，通读命中 3 例。
 
 > Some people, for example, needed far fewer than 10,000 hours, and others many more.（选择性必修四，教材）
 
 比如，有些人远不需要一万小时，另一些人则要多得多。
 
-> Not everyone knows what they want to be.（八年级上，教材）——见框架 10。
+> Not everyone knows what they want to be.（八年级上，教材）——见句式骨架 10。
 
 **结构拆解：**
 
@@ -222,7 +222,7 @@ others 后可承前省略谓语（and others many more = and others needed many 
 
 ## 10. Not all/every [A] + [肯定谓语]
 
-**语义：并非所有…都…。** 部分否定框架，通读命中 2 例。
+**语义：并非所有…都…。** 部分否定句式骨架，通读命中 2 例。
 
 > While not all farm-to-table restaurants are part of the slow food movement, all slow food restaurants are farm-to-table.（选择性必修二，教材）
 
@@ -255,14 +255,14 @@ Not all + 复数NP / Not every + 单数N / Not everyone
 ```
 For one thing, [理由A]; For another, [理由B]
 口语/议论文列举两条理由的固定开场
-与 on one hand…on the other 的区别：后者强调对立面，本框架只并列列举
+与 on one hand…on the other 的区别：后者强调对立面，本句式骨架只并列列举
 ```
 
 **常见误读：** For another 后不接"hand"（× For another hand）。两条理由须并列同向（都支持/都反对），不像 on the other hand 可转折。
 
 ## 12. [S] was/were [V-ing]...when [突发分句]
 
-**语义：正在…这时突然…。** 进行体+when 的叙事框架，when 不当时间从句读，通读命中 2 例、全语料反查 16 例。
+**语义：正在…这时突然…。** 进行体+when 的叙事句式骨架，when 不当时间从句读，通读命中 2 例、全语料反查 16 例。
 
 > Peter was walking over to help the boy, when he heard a man shouting "Stop!"（选择性必修二，教材）
 
@@ -280,11 +280,11 @@ when = at that moment（这时），从句是"打断者"
 时体对照：背景用进行体，打断事件用简单过去
 ```
 
-**常见误读：** when 从句在前时无此效果（When I was having breakfast, … 只是时间）。框架的关键是**顺序**：进行体在前、when 在后。中文对应"正…忽然…"，是叙事文本的高频骨架。
+**常见误读：** when 从句在前时无此效果（When I was having breakfast, … 只是时间）。句式骨架的关键是**顺序**：进行体在前、when 在后。中文对应"正…忽然…"，是叙事文本的高频骨架。
 
 ## 新语境练习
 
-用本章框架改写或翻译（先自己写，再展开参考答案对照）：
+用本章句式骨架改写或翻译（先自己写，再展开参考答案对照）：
 
 1. 这个系统是世界上最大的之一。（one of）
 2. 让我吃惊的是，整个流程只花了十分钟。（What…is）

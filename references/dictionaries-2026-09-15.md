@@ -13,12 +13,14 @@
 | 文件 | 大小/数量 | SHA-256 | 用途 |
 | --- | ---: | --- | --- |
 | `ecdict.csv` | 770611 词条 | `1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf` | 英英释义、中文释义、音标、考试标签、词频、词形变化 |
-| `stardict.7z` | 49 MB | `f370a0ecb58ada758d9dfe739db1667fd4ed87ed3055a4a7cb6c7054ecdf83d6` | ECDICT 打包词典文件 |
+| `stardict.7z` | ~~49 MB~~ 已删 | `f370a0ecb58ada758d9dfe739db1667fd4ed87ed3055a4a7cb6c7054ecdf83d6` | ECDICT 打包词典文件（2026-09-21 瘦身：与 ecdict.csv 内容重叠、无脚本引用，删，需要时按哈希重下） |
 | `wordroot.txt` | 370702 bytes | `4b400dc5980e4a362fa12c7a49b326bb621c4e6bebd5f37146fbdcbe9db6bb6e` | 词根、词缀、构词线索 |
 | `resemble.txt` | 529302 bytes | `925cb321dd3871f13fa2e00d288e28a5e544525bb8860b916c0d8c2341e80ecc` | 近义词辨析、词组辨析、联想材料 |
 | `lemma.en.txt` | 2318694 bytes | `e255b097404e3e0052060e2ddf6e15a1414f577071d63d51d2ca0ce9dacee0fc` | 词形还原、lemma 查询 |
 
 ECDICT README 说明其字段包括 `word`、`phonetic`、`definition`、`translation`、`pos`、`collins`、`oxford`、`tag`、`bnc`、`frq`、`exchange`、`detail`、`audio`。其中 `detail` 和 `audio` 标注为待添加，不能假装有完整例句和音频。
+
+2026-09-21 瘦身：`repo/.git`（72 MB）已删——仓库提交哈希 `bc015ed` 已在上文记录，工作树 5 个数据文件全部保留；词典构建只用 ecdict.csv / wordroot / resemble / lemma 四个文件。
 
 ## 已完成：WordNet 3.0
 
@@ -30,13 +32,11 @@ ECDICT README 说明其字段包括 `word`、`phonetic`、`definition`、`transl
 
 已解包到 `materials/dictionaries/wordnet/dict/`，包括 `index.*` 和 `data.*`。可用于英英释义、同义词集合、反义词关系、上位/下位关系和部分例句。抽样验证：`resign` 包含义项 `accept as inevitable`，并含例句 `He resigned himself to his fate`。
 
-## 部分下载：Kaikki / Wiktionary English
+## 部分下载：Kaikki / Wiktionary English（2026-09-21 已删）
 
 来源：[Kaikki English machine-readable dictionary](https://kaikki.org/dictionary/English/)，文件：`kaikki.org-dictionary-English.jsonl`。
 
-目标大小：3244676342 bytes。当前本地部分文件：`materials/dictionaries/kaikki-wiktionary/kaikki.org-dictionary-English.jsonl`，已下载 1184970056 bytes。
-
-该来源覆盖 Wiktionary 的英英释义、词源、例句、发音、词形、语义关系、派生词、相关词和短语，最接近“丰富词典层”的目标。但当前网络到 Kaikki 的 HTTPS/Range 连接不稳定，下载卡在 36.5%。该文件暂不能作为已完成来源使用，后续可断点续传或寻找可靠镜像。
+曾下载到 1184970056 / 3244676342 bytes（36.5%），因网络 TLS/Range 不稳定停滞，从未被任何脚本消费。2026-09-21 瘦身删除本地部分文件：死重 1.1 GB、残件不可用。后续若需要 Wiktionary 层，重新从源头下载（可用镜像），不续传该残件。
 
 ## 下一步建议
 

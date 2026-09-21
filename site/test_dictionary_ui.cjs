@@ -17,7 +17,7 @@ const base=process.env.ENGLISH_TEST_URL||'http://127.0.0.1:4175';
     await page.locator('#dict-submit').click();
     await page.getByRole('heading',{name:'resigned',exact:true}).waitFor();
     await page.getByText('查询：resigned').waitFor();
-    await page.goto(base+'/#'+encodeURIComponent('book/02-chunks/01-resigned.md'));
+    await page.goto(base+'/#'+encodeURIComponent('book/01-reading/02-resigned.md'));
     await page.getByRole('heading',{name:'从 resigned 理解词义与搭配',exact:true}).waitFor();
     await page.getByRole('button',{name:'查选中词'}).waitFor();
     await page.evaluate(()=>{

@@ -4,33 +4,34 @@
 
 **读法建议**：本章条目的共同陷阱是「看着都懂」——每个词都认识，但要用时只会产出说教味的正式版本（She has every right to... / I do not agree...）。自测标准：遮住例句，只看骨架能不能当场造一个自己生活里的句子。
 
+
 ## 本章预览
 
 | 编号 | 句式骨架 | 一句话语义 |
-|---|---|
+|---|---|---|
 | 1 | It's not like [S V] | 又不是…/又不是说…（驳对方预设） |
-| 2 | Not that [S V] (…, but/or [S V]) | 先撇一句「倒不是说…」 |
-| 3 | (maybe) it's not about [X], (maybe [S] just [V]) | 「问题不在 X」 |
-| 4 | I would say [S V] / I wouldn't say [S V] (or anything), but [S V] | 「要我说我们看世界的方式挺像」/「倒不至于说我们多知己 |
+| 2 | Not that [S V] (…, but/or [S V]) | 先撇一句「倒不是说…」，预防对方误解或自我撤回 |
+| 3 | (maybe) it's not about [X], (maybe [S] just [V]) | 「问题不在 X」——否认表层归因、点出真动机 |
+| 4 | I would say [S V] / I wouldn't say [S V] (or anything), but [S V] | 「要我说我们看世界的方式挺像」/「倒不至于说我们多知己——但确实是朋友」：弱化定调 |
 | 5 | How was I supposed to know [S V]? | 「我哪知道……？」（责难式反问：这不是我的错） |
 | 6 | Why are you even [V-ing] (if...)? | 你到底为什么会…（质疑行为本身不合常理） |
-| 7 | What is/are [sb] doing [V-ing]? | 「他这是干什么？/怎么好端端……」 |
+| 7 | What is/are [sb] doing [V-ing]? | 「他这是干什么？/怎么好端端……」——质问反常行为 |
 | 8 | [糟事陈述], what do you expect? | 你还想怎样？（耸肩认命式回怼） |
 | 9 | As if [S] could/would [V]! | 说得好像你真能…似的（嗤笑不可能） |
 | 10 | Who wouldn’t (want to) [V]? | 谁不想…呢（反诘：人人都想/都该） |
-| 11 | Not bad for [X], is it? | 保留性称赞：以参照物 X 的标准低为台阶 |
+| 11 | Not bad for [X], is it? | 保留性称赞：以参照物 X 的标准低为台阶，litotes 式抬一句 |
 | 12 | I didn’t think [S V]（反讽义） | 我倒没想到…（竟然敢/能） |
-| 13 | I’m sure [S V]（反讽义） | 我确信…（其实压根不信 |
-| 14 | [S V], I don’t think | 尾缀降调断言：把 I don’t think 从句首移到句尾做软 |
-| 15 | [完整句], not really | 降调修正：断言说完 |
-| 16 | These things happen. | 「这种事难免的」 |
+| 13 | I’m sure [S V]（反讽义） | 我确信…（其实压根不信，阴阳怪气） |
+| 14 | [S V], I don’t think | 尾缀降调断言：把 I don’t think 从句首移到句尾做软化垫 |
+| 15 | [完整句], not really | 降调修正：断言说完，尾缀 not really 把自己刚下的结论调低一档 |
+| 16 | These things happen. | 「这种事难免的」——宽慰/大事化小套语 |
 | 17 | That's (just) the way [it/sb] is | （他）就是那样的人/事情就是这样（定论收尾） |
 | 18 | [X] or something / or anything | …还是怎么的/之类的（含糊收尾） |
-| 19 | (so) [S] might (just) as well [V] | 「反正也… |
-| 20 | I know I’m being [A], (but) [S V] | 我知道我这样很（夸张/小心眼） |
-| 21 | (I might / I think I'm going to) [V] now, if that's okay | 「我可能先……了 |
+| 19 | (so) [S] might (just) as well [V] | 「反正也…，不如就…」——顺水推舟、破罐破摔式采纳 |
+| 20 | I know I’m being [A], (but) [S V] | 我知道我这样很（夸张/小心眼），但… |
+| 21 | (I might / I think I'm going to) [V] now, if that's okay | 「我可能先……了，方便的话」——软性离场/动作预告 |
 | 22 | There are worse things than [X/V-ing] | 还有更糟的呢（比惨式安慰/顶回去） |
-| 23 | [S]'s not a (big) [N] person | 「我不是那种爱……的人」 |
+| 23 | [S]'s not a (big) [N] person | 「我不是那种爱……的人」——自我归类式撇清 |
 
 ## 1. It's not like [S V]
 

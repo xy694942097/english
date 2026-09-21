@@ -1,0 +1,6 @@
+{
+  "groups": [
+    {"title": "学习档案", "items": ["LEARNER.md", "METHOD.md"]},
+    {"title": "进度与诊断", "items": ["progress/CURRENT.md"]}
+  ]
+}

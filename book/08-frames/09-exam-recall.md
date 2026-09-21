@@ -1,17 +1,17 @@
-# 真题回收：四六级考研句式框架
+# 真题回收：四六级考研句式骨架
 
-本章解决：四六级和考研真题里反复出现、教材里却没当"框架"教过的句式骨架。按框架专题的扩编规则——**只从真实语料登记**——本章从下载到本地的 9 份真题试卷文本中挖取，逐个给出真题原句、结构拆解和边界说明。
+本章解决：四六级和考研真题里反复出现、教材里却没当"句式骨架"教过的句式骨架。按句式骨架专题的扩编规则——**只从真实语料登记**——本章从下载到本地的 9 份真题试卷文本中挖取，逐个给出真题原句、结构拆解和边界说明。
 
 语料与来源（全部可复核）：
 
 - 试卷：四级 2022-06 第 1 套、六级 2018-06 卷一、考研英语一 2017/2018/2019、考研英语二 2016/2017/2018/2019，共 9 份，约 22 万字符。
 - 下载源（GitHub 公开仓库，2026-09-16 下载）：[youngflysky/KaoYanZhenTi-PDF](https://github.com/youngflysky/KaoYanZhenTi-PDF)（英一、六级）、[zwd1216/yingyuer](https://github.com/zwd1216/yingyuer)（英二）、[DieDiDi/CET4-6-past-exam-paper](https://github.com/DieDiDi/CET4-6-past-exam-paper)（四级）。文件与 SHA-256 哈希登记在 `materials/downloads-manifest.json`，原件存 `materials/papers/exams/`。
-- 挖取方法：对 9 份文本跑候选模式正则初筛，再逐条人工核对语境、剔除假阳性；每个框架只保留 2–3 条真实原句。频次只代表本 9 卷样本，不外推为考试总体频率。
+- 挖取方法：对 9 份文本跑候选模式正则初筛，再逐条人工核对语境、剔除假阳性；每个句式骨架只保留 2–3 条真实原句。频次只代表本 9 卷样本，不外推为考试总体频率。
 - 边界披露：**模拟题未收录**。公开渠道可批量下载的多为历年真题 PDF；模拟题基本是教辅出版物（版权材料），未找到可合法下载的开放模拟题语料，故本轮只收真题。完形填空原句中的题目空格以 ___ 标出，不作填补。
 
 ## 本章预览
 
-| 编号 | 框架 | 一句话语义 |
+| 编号 | 句式骨架 | 一句话语义 |
 |---|---|---|
 | 1 | as long as [S V], [主句] | 只要…（就）… |
 | 2 | [do A] rather than [do B] | 做 A 而不是 B |
@@ -23,7 +23,7 @@
 
 ## 1. as long as [S V], [主句]
 
-**语义：只要…（就）…。** 条件框架，划定主句成立的范围边界；比 if 更强调"边界感"而非"假设"。
+**语义：只要…（就）…。** 条件句式骨架，划定主句成立的范围边界；比 if 更强调"边界感"而非"假设"。
 
 > I could come and go as I please, as long as I was getting the work done.（真题·四级 2022-06）
 
@@ -42,7 +42,7 @@ as long as + 从句，主句          ：从句给条件边界，主句是该边
 时长用法：It ran for as long as thirty years.（这里的 as long as = 长达，非条件）
 ```
 
-**常见误读：** 读到 as long as 先判断是条件还是时长——后面接从句（有主谓）是条件框架，接名词/时间量是"长达"。条件义中主句常用情态或一般现在时表常态。
+**常见误读：** 读到 as long as 先判断是条件还是时长——后面接从句（有主谓）是条件句式骨架，接名词/时间量是"长达"。条件义中主句常用情态或一般现在时表常态。
 
 ## 2. [do A] rather than [do B]
 
@@ -69,7 +69,7 @@ B 端动词形态跟随 A 端：eat them at once（原形）↔ putting them asi
 
 ## 3. end up [V-ing / with N / 补语]
 
-**语义：最后落得…／绕一圈最终…。** 结果落点框架：起点常是一个动作或计划，end up 给出与预期有落差的终点。
+**语义：最后落得…／绕一圈最终…。** 结果落点句式骨架：起点常是一个动作或计划，end up 给出与预期有落差的终点。
 
 > Even when you win, you end up no better off.（真题·英一 2019）
 
@@ -96,7 +96,7 @@ end up + 形容词/介短 ：end up no better off（终点=评价性补语）
 
 ## 4. it turns out (that) [S V]
 
-**语义：事实证明…／（原来）…。** 叙事揭晓框架：先有普遍预期或表面现象，turns out 推出与预期不同的实情。
+**语义：事实证明…／（原来）…。** 叙事揭晓句式骨架：先有普遍预期或表面现象，turns out 推出与预期不同的实情。
 
 > In spite of our ___ discomfort, it turns out there's a good reason our teeth are so sensitive.（真题·四级 2022-06 完形）
 
@@ -119,7 +119,7 @@ It turns out (that) + 从句：it 是虚主语，真信息在从句；that 常�
 
 ## 5. when it comes to [N / V-ing]
 
-**语义：说到…／一到…这件事上。** 话题聚焦框架：把叙述切换到某个具体领域，常暗含"这个领域情况特殊"。
+**语义：说到…／一到…这件事上。** 话题聚焦句式骨架：把叙述切换到某个具体领域，常暗含"这个领域情况特殊"。
 
 > When it comes to looking for a new job, you already know that a big part of the interview process involves the company evaluating whether or not you're a good fit.（真题·四级 2022-06）
 
@@ -142,7 +142,7 @@ when it comes to + 名词/动名词：to 是介词，后接 V-ing（adjusting to
 
 ## 6. be (more / less) likely to [V]
 
-**语义：很可能／不太可能…。** 概率立场框架：把判断包装成可能性陈述，学术和新闻文体的默认语气。
+**语义：很可能／不太可能…。** 概率立场句式骨架：把判断包装成可能性陈述，学术和新闻文体的默认语气。
 
 > The long-term costs of using simple quantitative metrics to assess researcher merit are likely to be quite great.（真题·英一 2019）
 
@@ -169,7 +169,7 @@ S + be + (more/less/twice as …) likely to V：可能性强度可调
 
 ## 7. even if [S V] / even though [S V] / Even so
 
-**语义：即便…（也）…／即便如此。** 退一步让步框架：先承认一个不利或相反的事实，主句立场不动摇。
+**语义：即便…（也）…／即便如此。** 退一步让步句式骨架：先承认一个不利或相反的事实，主句立场不动摇。
 
 > None of these will be easy but you can start even if others refuse to.（真题·英一 2019）
 
@@ -196,7 +196,7 @@ Even so, + 主句：承接上句既成事实，独立话语标记（注意逗号
 
 ## 新语境练习
 
-用本章框架翻译或改写（先自己写，再对照参考答案）：
+用本章句式骨架翻译或改写（先自己写，再对照参考答案）：
 
 1. 只要测试全部通过，随你怎么重构都行。（as long as）
 2. 与其等设计文档，不如先把可运行的原型跑起来。（rather than，句首变体）

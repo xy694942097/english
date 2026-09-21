@@ -8,10 +8,12 @@ data/*.sqlite3-shm
 data/*.sqlite3-wal
 data/backups/
 
-# 原始下载语料不入库（来源与哈希见 materials/downloads-manifest.json 与 references/README.md）
+# 原始下载语料不入库（来源与哈希见 materials/downloads-manifest.json；规则见 materials/HANDBOOK.md）
 materials/*
 !materials/downloads-manifest.json
 !materials/README.md
+!materials/HANDBOOK.md
+!materials/wordlists-guide.md
 
 # 会话与临时输出
 sessions/web/

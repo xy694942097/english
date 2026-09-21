@@ -1,12 +1,12 @@
 # 家族E：叙事与逻辑推进
 
-本章解决：读复盘、postmortem、技术博客时抓不住“事件的因果推进骨架”。5 个框架，前 3 个是你的诊断句原生家族（Q2/Q7/Q10）。标注同前。
+本章解决：读复盘、postmortem、技术博客时抓不住“事件的因果推进骨架”。5 个句式骨架，前 3 个是你的诊断句原生家族（Q2/Q7/Q10）。标注同前。
 
-**语料覆盖披露（2026-09-16 二次精确扫描）：** 前三框架的例句均与诊断句同源（自造原型）；not least because 确认 0 条（命中全是 last but not least，对比已入节内）；insofar as 有 2-3 条语料。
+**语料覆盖披露（2026-09-16 二次精确扫描）：** 前三句式骨架的例句均与诊断句同源（自造原型）；not least because 确认 0 条（命中全是 last but not least，对比已入节内）；insofar as 有 2-3 条语料。
 
 ## 本章预览
 
-| 编号 | 框架 | 一句话语义 |
+| 编号 | 句式骨架 | 一句话语义 |
 |---|---|---|
 | 1 | What began as [X] ended up [Y] | 始于X而终于Y |
 | 2 | What [S] failed to anticipate was [Y] | 没料到的是Y |
@@ -16,7 +16,7 @@
 
 ## 1. What began as [X] ended up [Y]
 
-**语义：始于X而终于Y。** 叙事反差框架：起点与终点落差越大，语气越强。
+**语义：始于X而终于Y。** 叙事反差句式骨架：起点与终点落差越大，语气越强。
 
 > What began as a debugging exercise ended up revealing a design flaw.（自造，Q10 原型）
 
@@ -60,7 +60,7 @@ was 后接焦点，两种形态：
 
 ## 3. That [X], rather than [Y], was [Z]
 
-**语义：是X而非Y。** 主语从句 + 平行插入的"排除法"框架。详见家族B章同节，此处补充叙事用法。
+**语义：是X而非Y。** 主语从句 + 平行插入的"排除法"句式骨架。详见家族B章同节，此处补充叙事用法。
 
 > That the delay was caused by DNS, rather than the database, was confirmed by the traces.（自造）
 
@@ -82,7 +82,7 @@ was 后接焦点，两种形态：
 not least = 特别是（否定+最高级的反直觉组合：不是"最不重要"而是"很重要"）
   not least because…      → 尤其因为…
   not least of which is…  → 其中尤其包括…
-易混框架：last but not least（最后但同样重要，列举收尾用）——
+易混句式骨架：last but not least（最后但同样重要，列举收尾用）——
   last but not least 是位序词；not least 是程度加重词
 ```
 

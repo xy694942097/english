@@ -149,10 +149,22 @@ more [A] than anyone had thought [B], let alone [C]
 | 六级篇（66） | evidence that、compared with 句尾、Of 前置分母、双破折号插入、the way S V、find oneself、than you might think、or 后插评注、not necessarily、It's simply not true that、The problem isn't A but that、anything but、Nowhere is this more、However [Adj] 让步、were to 虚拟、Thus was born、known as 命名同位、说/倒装回指族等 + 短语档 |
 | 考研篇（60） | 助动词独用、less…and more…、whether that be、All…is、It was 时段 before、if not 插入、倒装主语、the argument goes、Nor 倒装承接、is where、It is crucial that、it seems 插入、responded by V-ing、would not…without、To V is to V、As so often、There is no reason why cannot、never to、In this as in much else、not enough to say、Never mind…祈使、succeeding where…failing、born V-ing、hence 无动词句、It's not as if、It is a [adj] N that 反语、being what it is、has it that、to hear sb tell it、any wonder、can't afford not to、wonder if aren't、[A], not [B]、It is all very well…but 等 + 短语档 |
 
+### 小说通读：《Normal People》动作篇（详见 [16-口语对话动作](16-oral-dialogue-actions.md) / [17-叙事与认知动作](17-narrative-cognition-actions.md)）
+
+> 2026-09-17 全书 18 章约 7.3 万词 LLM 逐句通读（挖掘中间物存 references/normal_people_mining/）。Rooney 的无引号直接引语+自由间接引语使口语语域骨架密度远超教材语料，「读得懂但搭不出」的产出侧骨架（撇清反驳、预防性找补、反讽应答）是本批主要收获，与书面侧家族互补。版权作品：例句为学习目的短引。
+
+| 章 | 收录 | 代表骨架 |
+|---|---|---|
+| 口语对话动作（23） | It's not like 撇清、Not that 预防性找补、How was I supposed to know 脱责反问、not really 软化回声、These things happen 淡然收束、if that's okay 软性离场等 |
+| 叙事与认知动作（18） | only to 意外反转、Later would 回望、Before even 抢先时轴、without ever 全程归零、To his relief 情绪注脚、the closest 贴线丈量、just enough 分寸拿捏等 |
+
+### 自选篇：手动收录（详见 [18-self-picked](18-self-picked.md)）
+
+> 日常阅读/影视/对话中撞见即收的活页章，不设单章 7 条红线，来源标（自选）。首批：less about…and more about… 重新定焦（AI 编程评论句）。
+
 ## 四、与既有内容的关系
 
-- **05-patterns（nothing but / not until）**：本就是句式骨架学习，现归入句式骨架专题家族 A/B，原文件保留。
-- **06-sentences（特殊句子）**：句式骨架是它的解药——"结构陌生"的句子，多数是没登记过的句式骨架。诊断句 Q2/Q4/Q7/Q10 已按此登记。
+- **05-patterns（句型与句子）**：nothing but / not until / 特殊句子章本就是句式骨架学习，归入句式骨架专题家族 A/B（06-sentences 目录 2026-09-21 并入 05-patterns），诊断句 Q2/Q4/Q7/Q10 已按此登记。
 - **诊断（2026-09-16）**：盲区"两层嵌套+省略"与句式骨架家族 A/B 直接对应，句式骨架法是针对该盲区的主处方。
 
 ## 五、扩编规则

@@ -4,23 +4,22 @@
 
 ## 专题课程主线
 
-网站默认进入专题课程。课程清单由course.json维护，当前五条路线、11个已写章节：
+网站默认进入专题课程。课程清单由course.json维护，五条路线（2026-09-21 归拢：原 02-chunks 并入 01-reading、06-sentences 并入 05-patterns、07-word-topics 并入 03-四六级词汇，四个单章目录撤销）：
 
 - **熟词生义**：resigned回顾、抽象宾语中的动词、评论文章中的抽象义。
-- **读懂整句的词组**：异议与质疑；进展与效果。
-- **常用句型结构**：[nothing but对照](05-patterns/01-nothing-but.md)、[not until](05-patterns/02-not-until.md)。
-- **句式框架（新主线）**：[什么是框架：方法与六大家族索引](08-frames/00-guide.md)、[家族A：程度与比较](08-frames/01-degree-comparison.md)。框架是比语法分析高一层的学习单位，源自 2026-09-16 诊断后确认的主处方，网站默认从家族A开始。
-- **特殊句子解析**：[句子不长，结构陌生](06-sentences/01-unfamiliar-shapes.md)。
-- **单词专题与辨析**：[take专题](07-word-topics/01-take.md)、高效与有效、证据与结论。
+- **读懂整句的词组**：[在语境中理解表达](01-reading/01-context.md)、异议与质疑；进展与效果。
+- **句型与特殊句子**：[nothing but对照](05-patterns/01-nothing-but.md)、[not until](05-patterns/02-not-until.md)、[句子不长，结构陌生](05-patterns/03-unfamiliar-shapes.md)。
+- **句式骨架（新主线）**：[什么是句式骨架：方法与索引](08-frames/00-guide.md)、[家族A：程度与比较](08-frames/01-degree-comparison.md)。句式骨架是比语法分析高一层的学习单位，源自 2026-09-16 诊断后确认的主处方。
+- **单词专题与辨析**：[take专题](03-四六级词汇/10-take.md)、高效与有效、证据与结论。
 
 从本次提出的nothing but开始也可以，按卡点选章也可以。专题是教学主线，下面的批量词汇与下载资料作为查阅和延伸，不代表必须依次背完。
 
 ## 阅读入口
 
 - [在语境中理解表达](01-reading/01-context.md)
-- [从 resigned 理解词义与搭配](02-chunks/01-resigned.md)
-- [讨论证据与分歧](02-chunks/02-evidence.md)
-- [表达进展与效果](02-chunks/03-outcomes.md)
+- [从 resigned 理解词义与搭配](01-reading/02-resigned.md)
+- [讨论证据与分歧](01-reading/03-evidence.md)
+- [表达进展与效果](01-reading/04-outcomes.md)
 
 ## 四六级词汇精选 · B0002
 
@@ -41,7 +40,7 @@
 
 ## 编纂规则
 
-已下载并录入的较大词表见[下载词表与资料库入口](04-词表资料/00-materials.md)。原始资料与详细报告在references/；词表的学习与复习在数据库知识库中进行。
+已下载并录入的较大词表见[下载词表与资料库入口](../../materials/wordlists-guide.md)。原始资料与详细报告在references/；词表的学习与复习在数据库知识库中进行。
 
 每章围绕一个阅读问题，写语境、英文释义、结构、区别、例句和迁移练习。例句为教学自造，不冒充引文或语料统计。练习先展示题目，答案单独折叠。
 

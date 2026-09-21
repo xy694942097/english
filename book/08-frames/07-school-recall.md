@@ -1,12 +1,12 @@
-# 教材回收：初高中句式框架
+# 教材回收：初高中句式骨架
 
-本章解决：初高中教材里反复出现、当年当语法点操练的句式框架。按框架专题第六节的共识——**这些结构就是框架**，从"课标语法项目回收 + 教材原文扫描"两条线合并而来：2026-09-16 已下载初中五册全文（人教版《Go for it!》，chncaesar/ChinaTextbook-Text）与高中人教 2019 句子倒排索引库（ZhangYixuan-in-BUPT/textbook-sentence-index，MIT），本章例句取自教材原文扫描命中（标注册别），课标项目表回收部分的例句取自本地 voc14w 语料（github.com/zhenghaoyang24/english-vocabulary，标注语料）。
+本章解决：初高中教材里反复出现、当年当语法点操练的句式骨架。按句式骨架专题第六节的共识——**这些结构就是句式骨架**，从"课标语法项目回收 + 教材原文扫描"两条线合并而来：2026-09-16 已下载初中五册全文（人教版《Go for it!》，chncaesar/ChinaTextbook-Text）与高中人教 2019 句子倒排索引库（ZhangYixuan-in-BUPT/textbook-sentence-index，MIT），本章例句取自教材原文扫描命中（标注册别），课标项目表回收部分的例句取自本地 voc14w 语料（github.com/zhenghaoyang24/english-vocabulary，标注语料）。
 
 **语料与披露**：初中五册课文全文提取 5,588 个完整英文句扫描；高中库去重后取 source=人教版 8,523 句（带册别/单元出处）。教材文本含目录/练习指令等噪音，扫描后按"断字、填空残片、指令行"剔除，正则收紧（句首倒装限定 ^、感叹句限定句末 !）仍可能有漏网；个别句子还原了 PDF 断行（如 "fi ve"→"five"）。教材为社区 OCR 整理版，不宣称与官方出版物逐字一致。
 
 ## 本章预览
 
-| 编号 | 框架 | 一句话语义 |
+| 编号 | 句式骨架 | 一句话语义 |
 |---|---|---|
 | 1 | so [Adj] that [S] / such [N] that [S] | 如此…以至于… |
 | 2 | too [Adj] (for sb) to [V] | 太…而不能… |
@@ -164,7 +164,7 @@ already 常伴随出现，强调"早已"
 
 ## 6. why not [V] / why don't you [V]
 
-**语义：何不…？** 提建议的口语框架（初中命中 17 例）。
+**语义：何不…？** 提建议的口语句式骨架（初中命中 17 例）。
 
 > Manson: Why don't you join an English language club to practice speaking English?（九年级，教材）
 
@@ -258,7 +258,7 @@ the + 比较级…, the + 比较级…：两变量联动（前条件后结果）
 
 ## 10. either [A] or [B] / neither [A] nor [B]
 
-**语义：二选一 / 两者皆非。** 义教阶段成对连词，词组级框架的入口样本。
+**语义：二选一 / 两者皆非。** 义教阶段成对连词，词组级句式骨架的入口样本。
 
 > A hydrocarbon was known to be either an alkene or alkane.（语料）
 
@@ -280,7 +280,7 @@ neither…nor 本身已含否定，谓语用肯定式（≠ not…neither）
 
 ## 11. No sooner had [S] done than [S did] / Hardly had [S] done when [S did]
 
-**语义：刚…就…。** 高中选择必修 \*\* 框架，过去完成时+部分倒装。
+**语义：刚…就…。** 高中选择必修 \*\* 句式骨架，过去完成时+部分倒装。
 
 > No sooner had he arrived in Rome than he was kidnapped.（语料）
 
@@ -303,7 +303,7 @@ no sooner/hardly 在句首触发部分倒装（had 提到主语前）
 
 ## 12. would rather [V] than [V]
 
-**语义：宁愿…而不愿…。** 高中 \*\* 框架，取舍权衡的固定骨架。
+**语义：宁愿…而不愿…。** 高中 \*\* 句式骨架，取舍权衡的固定骨架。
 
 > He would rather die than dicker over prices.（语料）
 
@@ -327,7 +327,7 @@ would rather + 动词原形 + than + 动词原形（两边平行，than 后不�
 
 ## 13. so that [S can]
 
-**语义：以便能/以致。** 目的与结果的通用连接件（高中人教版命中 32 例，全部框架中密度第一梯队）。
+**语义：以便能/以致。** 目的与结果的通用连接件（高中人教版命中 32 例，全部句式骨架中密度第一梯队）。
 
 > Divide up the work among your group members so that one or two students are responsible for each topic.（选择性必修一，教材）
 
@@ -345,11 +345,11 @@ would rather + 动词原形 + than + 动词原形（两边平行，than 后不�
 与 so…that 的区别：so that 是两分句连接件；so…that 是程度+后果（so 修饰形容词）
 ```
 
-**常见误读：** so that 中间没有形容词时不表程度。"so beautiful that…"（程度）与"arranged so that…"（目的）是两个框架，混读会导致把目的句误译成"如此…以至于"。
+**常见误读：** so that 中间没有形容词时不表程度。"so beautiful that…"（程度）与"arranged so that…"（目的）是两个句式骨架，混读会导致把目的句误译成"如此…以至于"。
 
 ## 14. It is V-ed that [S]
 
-**语义：据报道/据说/据估计…。** 消息来源框架（命中 15 例），新闻与科普文的标配开头。
+**语义：据报道/据说/据估计…。** 消息来源句式骨架（命中 15 例），新闻与科普文的标配开头。
 
 > It is estimated that the volume of global trade would decline by 6% if there were a trade war.（选择性必修三，教材）
 
@@ -479,7 +479,7 @@ when it comes to + 名词/动名词（to 是介词，后接 V-ing）
 功能：话题切换的路标，预示主句将就新话题展开
 ```
 
-**常见误读：** to 是介词——when it comes to talk ✗（须 talking）。中文"说到"比"当它来到"贴切百倍，这个框架值得整存整取。
+**常见误读：** to 是介词——when it comes to talk ✗（须 talking）。中文"说到"比"当它来到"贴切百倍，这个句式骨架值得整存整取。
 
 ## 20. [A] no longer / not...any more
 
@@ -527,7 +527,7 @@ even if + 假设（即使：未成立的让步）
 
 ## 22. It takes [sb] [time] to [V]
 
-**语义：花费（时间/人力）才能…。** 投入-产出框架（命中 12 例）。
+**语义：花费（时间/人力）才能…。** 投入-产出句式骨架（命中 12 例）。
 
 > It takes about twenty minutes from the time you start eating for your brain to tell your body that you are full.（选择性必修三，教材）
 
@@ -545,7 +545,7 @@ it 形式主语，真主语是不定式
 时间可换资源：It took 20,000 workers…（人力也算投入）
 ```
 
-**常见误读：** sb 是"被花费者"，It takes me five minutes 是"花我五分钟"，不是"它带走我"。spend 的主语是人，take 的主语是 it——两个框架主宾互为镜像。
+**常见误读：** sb 是"被花费者"，It takes me five minutes 是"花我五分钟"，不是"它带走我"。spend 的主语是人，take 的主语是 it——两个句式骨架主宾互为镜像。
 
 ## 23. what if [S]?
 
@@ -571,7 +571,7 @@ what if = what would happen if…（省略 would happen）
 
 ## 新语境练习
 
-用本章框架改写或翻译（先自己写，再展开参考答案对照）：
+用本章句式骨架改写或翻译（先自己写，再展开参考答案对照）：
 
 1. 问题太棘手，一时半会儿解决不了。（too…to）
 2. 等他到家时，孩子已经睡着了。（by the time）

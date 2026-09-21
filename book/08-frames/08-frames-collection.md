@@ -1,6 +1,6 @@
 # 句式骨架总集：六大家族与教材回收
 
-> 单篇合集，供通读与打印。分章学习仍推荐用各家族独立章（含课程导航与练习折叠）。合成日期：2026-09-21。标注约定全文一致：例句后标（语料）为词典例句库真实例句，标（自造）为教学自造。
+> 单篇合集，供通读与打印。分章学习仍推荐用各家族独立章（含课程导航与练习折叠）。合成日期：2026-09-23。标注约定全文一致：例句后标（语料）为词典例句库真实例句，标（自造）为教学自造。
 
 ## 总目录
 
@@ -18,6 +18,7 @@
 [真题通读 · 考研篇](#真题通读--考研篇) — 考研真题+精翻逐句通读：60 个句式骨架 + 短语档（never to、not enough to say、It's not as if、being what it is、has it that、can't afford not to、It is all very well…but 等）
 [小说通读 · 口语对话动作](#小说通读--口语对话动作) — 《Normal People》全书通读：23 个口语对话句式骨架（It's not like/Not that/How was I supposed to know/not really 等），攻防与体面的表达动作
 [小说通读 · 叙事与认知动作](#小说通读--叙事与认知动作) — 《Normal People》全书通读：18 个叙事句式骨架（only to 反转、Later would 回望、without ever 归零、To his relief 注脚等），讲故事的发动机
+[自选篇 · 手动收录](#自选篇--手动收录) — 日常阅读/影视/对话中撞见即收的活页章：less about…and more about 重新定焦等，不设 7 条红线
 
 ---
 
@@ -5739,33 +5740,34 @@ but 收走：真正立场在后半句
 
 **读法建议**：本章条目的共同陷阱是「看着都懂」——每个词都认识，但要用时只会产出说教味的正式版本（She has every right to... / I do not agree...）。自测标准：遮住例句，只看骨架能不能当场造一个自己生活里的句子。
 
+
 ### 本章预览
 
 | 编号 | 句式骨架 | 一句话语义 |
-|---|---|
+|---|---|---|
 | 1 | It's not like [S V] | 又不是…/又不是说…（驳对方预设） |
-| 2 | Not that [S V] (…, but/or [S V]) | 先撇一句「倒不是说…」 |
-| 3 | (maybe) it's not about [X], (maybe [S] just [V]) | 「问题不在 X」 |
-| 4 | I would say [S V] / I wouldn't say [S V] (or anything), but [S V] | 「要我说我们看世界的方式挺像」/「倒不至于说我们多知己 |
+| 2 | Not that [S V] (…, but/or [S V]) | 先撇一句「倒不是说…」，预防对方误解或自我撤回 |
+| 3 | (maybe) it's not about [X], (maybe [S] just [V]) | 「问题不在 X」——否认表层归因、点出真动机 |
+| 4 | I would say [S V] / I wouldn't say [S V] (or anything), but [S V] | 「要我说我们看世界的方式挺像」/「倒不至于说我们多知己——但确实是朋友」：弱化定调 |
 | 5 | How was I supposed to know [S V]? | 「我哪知道……？」（责难式反问：这不是我的错） |
 | 6 | Why are you even [V-ing] (if...)? | 你到底为什么会…（质疑行为本身不合常理） |
-| 7 | What is/are [sb] doing [V-ing]? | 「他这是干什么？/怎么好端端……」 |
+| 7 | What is/are [sb] doing [V-ing]? | 「他这是干什么？/怎么好端端……」——质问反常行为 |
 | 8 | [糟事陈述], what do you expect? | 你还想怎样？（耸肩认命式回怼） |
 | 9 | As if [S] could/would [V]! | 说得好像你真能…似的（嗤笑不可能） |
 | 10 | Who wouldn’t (want to) [V]? | 谁不想…呢（反诘：人人都想/都该） |
-| 11 | Not bad for [X], is it? | 保留性称赞：以参照物 X 的标准低为台阶 |
+| 11 | Not bad for [X], is it? | 保留性称赞：以参照物 X 的标准低为台阶，litotes 式抬一句 |
 | 12 | I didn’t think [S V]（反讽义） | 我倒没想到…（竟然敢/能） |
-| 13 | I’m sure [S V]（反讽义） | 我确信…（其实压根不信 |
-| 14 | [S V], I don’t think | 尾缀降调断言：把 I don’t think 从句首移到句尾做软 |
-| 15 | [完整句], not really | 降调修正：断言说完 |
-| 16 | These things happen. | 「这种事难免的」 |
+| 13 | I’m sure [S V]（反讽义） | 我确信…（其实压根不信，阴阳怪气） |
+| 14 | [S V], I don’t think | 尾缀降调断言：把 I don’t think 从句首移到句尾做软化垫 |
+| 15 | [完整句], not really | 降调修正：断言说完，尾缀 not really 把自己刚下的结论调低一档 |
+| 16 | These things happen. | 「这种事难免的」——宽慰/大事化小套语 |
 | 17 | That's (just) the way [it/sb] is | （他）就是那样的人/事情就是这样（定论收尾） |
 | 18 | [X] or something / or anything | …还是怎么的/之类的（含糊收尾） |
-| 19 | (so) [S] might (just) as well [V] | 「反正也… |
-| 20 | I know I’m being [A], (but) [S V] | 我知道我这样很（夸张/小心眼） |
-| 21 | (I might / I think I'm going to) [V] now, if that's okay | 「我可能先……了 |
+| 19 | (so) [S] might (just) as well [V] | 「反正也…，不如就…」——顺水推舟、破罐破摔式采纳 |
+| 20 | I know I’m being [A], (but) [S V] | 我知道我这样很（夸张/小心眼），但… |
+| 21 | (I might / I think I'm going to) [V] now, if that's okay | 「我可能先……了，方便的话」——软性离场/动作预告 |
 | 22 | There are worse things than [X/V-ing] | 还有更糟的呢（比惨式安慰/顶回去） |
-| 23 | [S]'s not a (big) [N] person | 「我不是那种爱……的人」 |
+| 23 | [S]'s not a (big) [N] person | 「我不是那种爱……的人」——自我归类式撇清 |
 
 ### 1. It's not like [S V]
 
@@ -6165,28 +6167,29 @@ Not bad 主导 + for [参照系] + 反问 tag 收口；自夸/夸人两用
 
 **读法建议**：叙事骨架的收益在写作侧——描述经历时用 Later I would find out 替代 Then I found out，用 only to 收一个反转，文字立刻有了讲故事的呼吸感。
 
+
 ### 本章预览
 
 | 编号 | 句式骨架 | 一句话语义 |
-|---|---|
+|---|---|---|
 | 1 | [S V], only to [V] | 结果却发现…（事与愿违的收尾）/只为…（目的小句） |
 | 2 | [S] end(ed) up [V-ing/N] | （兜兜转转）最终落得/结果成了 |
 | 3 | Later [S] would [V] | 叙事预叙：叙述者提前预告人物日后才有的念头 |
 | 4 | Before [S]'d even [V-ed], [S V] | （她）还没来得及…就先… |
 | 5 | It occurred to [sb] that/how [S V] | 某人（突然）想到/意识到 |
 | 6 | [S] find(s) oneself [V-ing] | 发现自己（不知不觉）在做某事 |
-| 7 | [S V] without ever [V-ing] | 「竟能养出一身精致趣味 |
+| 7 | [S V] without ever [V-ing] | 「竟能养出一身精致趣味，却从头到尾没长出半点是非观」——全程为零的对照 |
 | 8 | [S] go/went through [one's] whole life without ever [V-ing] | 一辈子从未曾…（终身否定铺陈） |
-| 9 | To his [情感名词], [主句] | 情感预置评注：先把说话人对后续内容的情感反应挂在句首 |
-| 10 | Not for the first time, [S V] | 「这已不是第一次……」（又来了 |
-| 11 | the best/worst [N] [S]'ve ever [V-ed] | 「我这辈子最……的一件……」 |
-| 12 | The first/last time [S V], [主句] | 「上回见她时一切还正常」 |
-| 13 | [时间量 N] into [阶段 N], [S V] | 「新年才过几天 |
+| 9 | To his [情感名词], [主句] | 情感预置评注：先把说话人对后续内容的情感反应挂在句首，再陈述事实本身 |
+| 10 | Not for the first time, [S V] | 「这已不是第一次……」（又来了——叙事反讽标记） |
+| 11 | the best/worst [N] [S]'ve ever [V-ed] | 「我这辈子最……的一件……」——亲历极值自述 |
+| 12 | The first/last time [S V], [主句] | 「上回见她时一切还正常」——用首末次事件钉住时间做今昔对比 |
+| 13 | [时间量 N] into [阶段 N], [S V] | 「新年才过几天，他就收到了短信」——进入某阶段后的第 N 时间 |
 | 14 | as if to [V] | 仿佛是为了…（带目的的比拟） |
-| 15 | the closest [sb] have/has come to [V-ing] (is/was [N]) | 「最接近……的一次 |
-| 16 | just [A] enough to [V] | 分寸拿捏：恰好到某程度以至于 |
-| 17 | can't stand the idea of [N/V-ing] | 「光想到……就受不了」 |
-| 18 | content (just) to [V] | 「光是……就满足了」 |
+| 15 | the closest [sb] have/has come to [V-ing] (is/was [N]) | 「最接近……的一次，不过是……」——贴线丈量 |
+| 16 | just [A] enough to [V] | 分寸拿捏：恰好到某程度以至于，刻画微妙的临界状态 |
+| 17 | can't stand the idea of [N/V-ing] | 「光想到……就受不了」——念头级排斥 |
+| 18 | content (just) to [V] | 「光是……就满足了」——安于低配 |
 
 ### 1. [S V], only to [V]
 
@@ -6499,3 +6502,51 @@ before + 过去完成 + even＝时机早于预期。动作＝压缩时序制造�
 3. To his relief, the offer letter was waiting in his inbox.（情绪注脚前置：先给读者反应，再给事实）
 4. It's the closest I've ever come to landing my dream job.（贴线丈量：承认没到，标出距离）
 5. It was just dark enough to see the stars, but not so dark that we lost the path.（just...enough to 分寸拿捏：程度的临界描述）
+
+
+---
+
+# 自选篇 · 手动收录
+
+本章解决：日常读文章、看美剧、开会听人说话时撞见的句式骨架，当场手动收录——不来自批量挖掘，是「今天读到了、值得留」的那批。来源标注体系沿用全书约定，外刊/网页/影视等非语料库来源标（自选）；登记时按规范判据（methodology/什么是句式骨架.md）过一遍即可收，不要求语料反查。**本章是活页**：新条目追加到表尾，长期保留（不受单章 7 条红线约束，骨架密度以真实撞见频率为准）。
+
+### 本章预览
+
+| 编号 | 句式骨架 | 一句话语义 |
+|---|---|---|
+| 1 | [X] is becoming less about [A] and more about [B] | 这事的重点越来越不在 A，而在 B |
+
+### 1. [X] is becoming less about [A] and more about [B]
+
+**语义：这事的重点越来越不在 A，而在 B。** 重新定义问题焦点——宣布领域重心正在迁移：旧问题的时代结束了，新问题才是瓶颈。科技评论、行业复盘、工作总结的标配开场。
+
+> The hard part is becoming less about "Can I write this?" and more about "Can I describe the problem clearly enough that the agent builds the right thing?"（自选 · 2026-09-18，AI 编程工具讨论）
+
+（难点越来越不在「我写不写得出来」，而在「我能不能把问题描述清楚到 agent 造出对的东西」。）
+
+**结构拆解：**
+
+```
+[X] + is becoming less about [A] + and more about [B]
+死词串：is becoming less about ... and more about ...（整块冻结）
+槽位：A、B 极开放——大到能装整个直接引语问句（本例即展示）
+becoming 渐进义：趋势性转移，不是已经完成
+```
+
+**变体采集：** It's less about [A] than [B]；The question is no longer [A] but [B]（后者即本骨架的平庸版/产出退化形态）。
+
+**常见误读：** 读侧：becoming 的渐进义漏读——不是「与 A 无关」，是重心迁移中；less...and more... 的对比张力要整块接收。写侧（产出侧）：只会写 The key is no longer A but B（静态硬切换），丢掉过程感。
+
+**语域·频次：** both；less about...and more about 在科技/管理语域接近天天见。
+
+**同族关系：** not so much [A] as [B]（家族A #3）同族异形——not so much 更书卷、做瞬时判断；本条带 becoming 强调动态趋势，各占一个语域位。判例：2026-09-18 用户从真实文章中手动提取，动作可命名（重新定焦）+ 死词硬 + 产出侧强命中（年终总结/技术判断直接可用），四件套齐过。
+
+### 新语境练习
+
+用本章句式骨架改写或翻译（先自己写，再展开参考答案对照）：
+
+1. 学英语的重点越来越不在背单词，而在把问题想清楚（自选）
+
+### 参考答案
+
+1. Learning English is becoming less about memorizing words and more about seeing the problem clearly.（自造；A/B 槽位装动名词短语，b becoming 保留趋势感）

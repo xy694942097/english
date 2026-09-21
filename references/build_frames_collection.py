@@ -28,6 +28,7 @@ CHAPTERS = [
     ("15-kaoyan-readthrough.md", "真题通读 · 考研篇", "考研真题+精翻逐句通读：60 个句式骨架 + 短语档（never to、not enough to say、It's not as if、being what it is、has it that、can't afford not to、It is all very well…but 等）"),
     ("16-oral-dialogue-actions.md", "小说通读 · 口语对话动作", "《Normal People》全书通读：23 个口语对话句式骨架（It's not like/Not that/How was I supposed to know/not really 等），攻防与体面的表达动作"),
     ("17-narrative-cognition-actions.md", "小说通读 · 叙事与认知动作", "《Normal People》全书通读：18 个叙事句式骨架（only to 反转、Later would 回望、without ever 归零、To his relief 注脚等），讲故事的发动机"),
+    ("18-self-picked.md", "自选篇 · 手动收录", "日常阅读/影视/对话中撞见即收的活页章：less about…and more about 重新定焦等，不设 7 条红线"),
 ]
 
 

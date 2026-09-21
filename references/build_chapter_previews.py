@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""为框架分章生成章首预览表（按 TEMPLATE.md 规范）。
+"""为句式骨架分章生成章首预览表（按 TEMPLATE.md 规范）。
 
-表来源：每章 "## N. 框架名" 节标题 + 节内第一处 "**语义：**…**" 定义句。
-幂等：已有 "## 本章预览" 节则先删除再重建。表放在章首说明段之后、第一个框架节之前。
+表来源：每章 "## N. 句式骨架名" 节标题 + 节内第一处 "**语义：**…**" 定义句。
+幂等：已有 "## 本章预览" 节则先删除再重建。表放在章首说明段之后、第一个句式骨架节之前。
 
 用法: python3 build_chapter_previews.py
 """
@@ -17,11 +17,12 @@ CHAPTERS = [
     "04-stance-commentary.md", "05-narrative-logic.md", "06-condition-subjunctive.md",
     "07-school-recall.md", "09-exam-recall.md", "12-readthrough-recall.md",
     "13-cet4-readthrough.md", "14-cet6-readthrough.md", "15-kaoyan-readthrough.md",
+    "16-oral-dialogue-actions.md", "17-narrative-cognition-actions.md", "18-self-picked.md",
 ]
 
 
 def extract_semantics(body: str) -> dict:
-    """返回 {序号: (框架名, 一句话语义)}。"""
+    """返回 {序号: (句式骨架名, 一句话语义)}。"""
     result = {}
     lines = body.split("\n")
     in_code = False
@@ -49,22 +50,22 @@ for name in CHAPTERS:
     path = FRAMES / name
     text = path.read_text(encoding="utf-8")
 
-    # 幂等：删除已存在的预览节
+    # 幂等：删除已存在的预览节（表头列名兼容 框架/句式骨架 两种措辞）
     text = re.sub(r"\n## 本章预览\n\n\| 编号 \| (?:框架|句式骨架) \| 一句话语义 \|\n\|---\|---\|---\|\n(?:\| \d+ \|.*\n)+\n", "\n", text)
     text = re.sub(r"\n## 本章预览\n[\s\S]*?(?=\n## )", "\n", text)
 
     entries = extract_semantics(text)
     if not entries:
-        print(f"{name}: 无编号框架节，跳过")
+        print(f"{name}: 无编号句式骨架节，跳过")
         continue
 
-    rows = ["| 编号 | 框架 | 一句话语义 |", "|---|---|---|"]
+    rows = ["| 编号 | 句式骨架 | 一句话语义 |", "|---|---|---|"]
     for n in sorted(entries):
         title, sem = entries[n]
         rows.append(f"| {n} | {title} | {sem or '（见节内）'} |")
     preview = "## 本章预览\n\n" + "\n".join(rows) + "\n"
 
-    # 插入位置：第一个 "### " 分节标题或 "## N. " 框架节（取更靠前者）之前
+    # 插入位置：第一个 "### " 分节标题或 "## N. " 句式骨架节（取更靠前者）之前
     m = re.search(r"^(?:### .+|## \d+\. )", text, re.M)
     if not m:
         print(f"{name}: 找不到插入点，跳过")

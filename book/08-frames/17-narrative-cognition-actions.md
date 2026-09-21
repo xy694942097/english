@@ -4,28 +4,29 @@
 
 **读法建议**：叙事骨架的收益在写作侧——描述经历时用 Later I would find out 替代 Then I found out，用 only to 收一个反转，文字立刻有了讲故事的呼吸感。
 
+
 ## 本章预览
 
 | 编号 | 句式骨架 | 一句话语义 |
-|---|---|
+|---|---|---|
 | 1 | [S V], only to [V] | 结果却发现…（事与愿违的收尾）/只为…（目的小句） |
 | 2 | [S] end(ed) up [V-ing/N] | （兜兜转转）最终落得/结果成了 |
 | 3 | Later [S] would [V] | 叙事预叙：叙述者提前预告人物日后才有的念头 |
 | 4 | Before [S]'d even [V-ed], [S V] | （她）还没来得及…就先… |
 | 5 | It occurred to [sb] that/how [S V] | 某人（突然）想到/意识到 |
 | 6 | [S] find(s) oneself [V-ing] | 发现自己（不知不觉）在做某事 |
-| 7 | [S V] without ever [V-ing] | 「竟能养出一身精致趣味 |
+| 7 | [S V] without ever [V-ing] | 「竟能养出一身精致趣味，却从头到尾没长出半点是非观」——全程为零的对照 |
 | 8 | [S] go/went through [one's] whole life without ever [V-ing] | 一辈子从未曾…（终身否定铺陈） |
-| 9 | To his [情感名词], [主句] | 情感预置评注：先把说话人对后续内容的情感反应挂在句首 |
-| 10 | Not for the first time, [S V] | 「这已不是第一次……」（又来了 |
-| 11 | the best/worst [N] [S]'ve ever [V-ed] | 「我这辈子最……的一件……」 |
-| 12 | The first/last time [S V], [主句] | 「上回见她时一切还正常」 |
-| 13 | [时间量 N] into [阶段 N], [S V] | 「新年才过几天 |
+| 9 | To his [情感名词], [主句] | 情感预置评注：先把说话人对后续内容的情感反应挂在句首，再陈述事实本身 |
+| 10 | Not for the first time, [S V] | 「这已不是第一次……」（又来了——叙事反讽标记） |
+| 11 | the best/worst [N] [S]'ve ever [V-ed] | 「我这辈子最……的一件……」——亲历极值自述 |
+| 12 | The first/last time [S V], [主句] | 「上回见她时一切还正常」——用首末次事件钉住时间做今昔对比 |
+| 13 | [时间量 N] into [阶段 N], [S V] | 「新年才过几天，他就收到了短信」——进入某阶段后的第 N 时间 |
 | 14 | as if to [V] | 仿佛是为了…（带目的的比拟） |
-| 15 | the closest [sb] have/has come to [V-ing] (is/was [N]) | 「最接近……的一次 |
-| 16 | just [A] enough to [V] | 分寸拿捏：恰好到某程度以至于 |
-| 17 | can't stand the idea of [N/V-ing] | 「光想到……就受不了」 |
-| 18 | content (just) to [V] | 「光是……就满足了」 |
+| 15 | the closest [sb] have/has come to [V-ing] (is/was [N]) | 「最接近……的一次，不过是……」——贴线丈量 |
+| 16 | just [A] enough to [V] | 分寸拿捏：恰好到某程度以至于，刻画微妙的临界状态 |
+| 17 | can't stand the idea of [N/V-ing] | 「光想到……就受不了」——念头级排斥 |
+| 18 | content (just) to [V] | 「光是……就满足了」——安于低配 |
 
 ## 1. [S V], only to [V]
 

@@ -1,5 +1,5 @@
 {
-  "version": "topics-2026-09-16",
+  "version": "topics-2026-09-21",
   "start": "book/08-frames/08-frames-collection.md",
   "featured": {
     "label": "从你拆过的句子开始",
@@ -13,7 +13,7 @@
       "question": "单词认识，为什么放进句子就不是那个意思？",
       "lessons": [
         {
-          "path": "book/02-chunks/01-resigned.md",
+          "path": "book/01-reading/02-resigned.md",
           "title": "resigned：从你的原句回看“认命”",
           "focus": "区分辞职、无奈接受与做好准备；这章复用已聊过的内容。",
           "level": "回顾"
@@ -38,13 +38,19 @@
       "question": "哪些组合必须连起来读，才能理解作者在说什么？",
       "lessons": [
         {
-          "path": "book/02-chunks/02-evidence.md",
+          "path": "book/01-reading/01-context.md",
+          "title": "在语境中理解表达",
+          "focus": "先定位卡点（词义/搭配/语法/指代/背景），再决定补什么。",
+          "level": "回顾"
+        },
+        {
+          "path": "book/01-reading/03-evidence.md",
           "title": "take issue with：提出异议，不只是有疑问",
           "focus": "比较支持、质疑、异议与批评，避免夸大结论。",
           "level": "深化"
         },
         {
-          "path": "book/02-chunks/03-outcomes.md",
+          "path": "book/01-reading/04-outcomes.md",
           "title": "fall flat：事情有进展，效果却未必好",
           "focus": "理解gain traction、fall flat和leave much to be desired。",
           "level": "深化"
@@ -53,8 +59,8 @@
     },
     {
       "id": "patterns",
-      "title": "常用句型结构",
-      "question": "nothing、but、until这些小词，怎样控制整句意义？",
+      "title": "句型与特殊句子",
+      "question": "小词怎样控制整句意义？句子不长，哪里省略了、哪里嵌套了？",
       "lessons": [
         {
           "path": "book/05-patterns/01-nothing-but.md",
@@ -77,16 +83,9 @@
             "Not until": "grammar",
             "It was not until": "grammar"
           }
-        }
-      ]
-    },
-    {
-      "id": "sentences",
-      "title": "特殊句子解析",
-      "question": "句子明明不长，哪里省略了、哪里嵌套了？",
-      "lessons": [
+        },
         {
-          "path": "book/06-sentences/01-unfamiliar-shapes.md",
+          "path": "book/05-patterns/03-unfamiliar-shapes.md",
           "title": "the man he used to be：句尾怎么少了东西",
           "focus": "并读what little与Try as he might，练习还原结构与语义。",
           "level": "进阶",
@@ -162,6 +161,12 @@
           "title": "小说通读：叙事与认知动作",
           "focus": "《Normal People》全书通读出的18个叙事句式骨架：only to意外反转、Later would回望、Before even抢先时轴、without ever全程归零、To his relief情绪注脚、the closest贴线丈量、just enough分寸拿撜等，讲故事的发动机。",
           "level": "通读"
+        },
+        {
+          "path": "book/08-frames/18-self-picked.md",
+          "title": "自选篇：手动收录",
+          "focus": "日常阅读/影视/对话中撞见即收的活页章：less about…and more about 重新定焦（AI编程评论句）等，不设7条红线，来源标（自选）。",
+          "level": "自选"
         }
       ]
     },
@@ -171,7 +176,7 @@
       "question": "围绕一个词，或一组近义词，建立能迁移的理解。",
       "lessons": [
         {
-          "path": "book/07-word-topics/01-take.md",
+          "path": "book/03-四六级词汇/10-take.md",
           "title": "take专题：理解、接管与想当然",
           "focus": "把take for granted、take in、take over、take for放回情境。",
           "level": "深化"

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""给框架章节的框架节标题加序号（## X. 框架名），按 TEMPLATE.md 规范。
+"""给句式骨架章节的句式骨架节标题加序号（## X. 句式骨架名），按 TEMPLATE.md 规范。
 
-规则：每章内 ## 节标题，除"迁移练习"“参考答案”等非框架节外，从 1 连续编号。
+规则：每章内 ## 节标题，除"迁移练习"“参考答案”等非句式骨架节外，从 1 连续编号。
 用法: python3 number_frame_sections.py  # 处理 01-07 章
 """
 
@@ -15,6 +15,7 @@ CHAPTERS = [
     "04-stance-commentary.md", "05-narrative-logic.md", "06-condition-subjunctive.md",
     "07-school-recall.md", "09-exam-recall.md", "12-readthrough-recall.md",
     "13-cet4-readthrough.md", "14-cet6-readthrough.md", "15-kaoyan-readthrough.md",
+    "16-oral-dialogue-actions.md", "17-narrative-cognition-actions.md", "18-self-picked.md",
 ]
 SKIP = ("迁移练习", "参考答案", "新语境练习", "练习", "总目录", "本章预览", "值得学的短语")
 
@@ -41,4 +42,4 @@ for name in CHAPTERS:
         else:
             out.append(line)
     path.write_text("\n".join(out), encoding="utf-8")
-    print(f"{name}: 编号 {n} 个框架节")
+    print(f"{name}: 编号 {n} 个句式骨架节")

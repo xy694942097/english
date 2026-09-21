@@ -1,12 +1,12 @@
 # 家族D：评述与立场（Stance）
 
-本章解决：读不出作者在句子之外的态度信号，写作时语气不是过硬就是过软。6 个框架，多数不占句子成分——它们是挂在句子上的“评论贴纸”。标注同前。
+本章解决：读不出作者在句子之外的态度信号，写作时语气不是过硬就是过软。6 个句式骨架，多数不占句子成分——它们是挂在句子上的“评论贴纸”。标注同前。
 
 **语料覆盖披露（2026-09-16 二次精确扫描）：** admittedly、far be it from me、suffice it to say、There is no V-ing、one thing…another、as it were 有语料例句；so to speak 确认 0 条；if you will 语料命中全是字面义“如果你愿意”（陷阱已入节内误读表）。
 
 ## 本章预览
 
-| 编号 | 框架 | 一句话语义 |
+| 编号 | 句式骨架 | 一句话语义 |
 |---|---|---|
 | 1 | so to speak / as it were / if you will | 可以这么说；打个比方 |
 | 2 | admittedly / granted / to be sure | 诚然…（先让后转） |
@@ -46,7 +46,7 @@
 
 | 误读 | 正解 |
 |---|---|
-| 把 if you will 一律当“可以这么说” | 语料库 2 条命中全是字面义“如果你（们）愿意”（If you will just sign here…）；立场框架用法在词典例句库中为 0，几乎只活在真实口语/书面议论里 |
+| 把 if you will 一律当“可以这么说” | 语料库 2 条命中全是字面义“如果你（们）愿意”（If you will just sign here…）；立场句式骨架用法在词典例句库中为 0，几乎只活在真实口语/书面议论里 |
 | 见到 as it were 当动词过去式 | 冻结虚拟式插入语，与 were 的时态无关 |
 
 ## 2. admittedly / granted / to be sure

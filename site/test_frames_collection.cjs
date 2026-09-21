@@ -21,7 +21,7 @@ const html = global.__m(
 
 const count = re => (html.match(re) || []).length;
 const assert = require('node:assert/strict');
-assert.ok(count(/<h1>/g) === 15, '一级标题应为 15（总集+14章）');
+assert.ok(count(/<h1>/g) === 16, '一级标题应为 16（总集+15章）');
 assert.ok(count(/<table>/g) >= 10, '表格应≥10');
 assert.ok(count(/<blockquote>/g) >= 30, '引用块应≥30');
 assert.ok(count(/<pre>/g) >= 10, '代码块应≥10');
