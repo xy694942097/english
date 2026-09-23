@@ -2,12 +2,6 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# 大型数据文件不入库（词典/词库可通过 references/build 脚本重建）
-data/*.sqlite3
-data/*.sqlite3-shm
-data/*.sqlite3-wal
-data/backups/
-
 # 原始下载语料不入库（来源与哈希见 materials/downloads-manifest.json；规则见 materials/HANDBOOK.md）
 materials/*
 !materials/downloads-manifest.json

@@ -8,6 +8,9 @@
 
 （背景备注：截至目前工程建造投入很大，但真实学习记录为零——events/progress 均为空。后续工作应回到真实学习行为与能力诊断本身，而不是继续横向加功能。）
 
+- 导航目录整理（2026-09-24，用户指令「文档的分类目录很乱」）：句式骨架 17 章平铺改按内容分五个子标签（六大家族/教材与真题回收/真题通读/口语与叙事动作/自选与总集），去 Normal People README 重复登记（移入「真题与教材合集→地道表达」），学习档案组补诊断基线报告并只留档案类，真题合集组统一子标签结构。7 组 50 文档 8 子标签，无重复登记；冒烟全绿。
+- 仓库二次瘦身（2026-09-24，用户指令「还有什么可以精简的」→「开始」）：删缓存与空 sessions/（git gc 后 .git 8.6M→2.8M）；死透素材移 ~/workspace/english-archive/（vocabulary 90M + dictionaries 140M + 剑桥雅思 PDF 351M，恢复路径见 materials/wordlists-guide.md）；opus 语料删 zip+ids 冗余（1.5G→580M）；挖掘中间数据（cascade/ielts/textbook/mining 批次与句池）移入 engineering/archive/，Normal People 248 条地道表达（未编入教材的正经内容）入 nav.json「真题与教材合集」可读；顶层 methodology/ 并入 engineering/methodology/（教材 6 处引用路径同步）；wordlists-guide.md 改写为归档记录；materials/README 收录范围声明。磁盘 materials 2.1G→约 640M（papers 22M + readable 6.3M + textbooks 36M + corpus 580M）。
+- 站点收敛为纯查看器（2026-09-23，用户指令，设计落档 engineering/design/site-simplification-v2.md）：砍学习工作台/词典/专题主页/写接口，server 275→~110 行、前端三文件合一，测试 9→2 全绿；目录归一单一 nav.json 显式登记（course.json 废弃，五专题 23 登记章+14 未登记章转换合并，共 7 组 48 文档）；渲染换 vendor marked+highlight.js，新增 /files/ 图片路由；learning.sqlite3（99M 学习记录）与 combined_dictionary.sqlite3（546M 词典）归档至 ~/workspace/english-archive/ 待恢复时可接回。学习状态自此以本文件与用户口述为准。
 - 自选篇建立（2026-09-18，用户指令）：18-self-picked.md 手动收录活页章上线——日常撞见即收、不设 7 条红线、来源标（自选）不要求反查；首个条目 less about…and more about（重新定焦）。三脚本 CHAPTERS 补齐（含并行会话的 16/17 小说通读章），管线一致，回归全过，前端 17 章可见。
 - 四级篇返工（2026-09-18，评审后整改第一批）：13-cet4-readthrough 按定版标准重做——旧 9 条重裁留 2 砍 6 存疑 1，重挖 27 候选取 5 入章（anything to go by / anything but / few 隐性最高级 / It's not that 归因纠正 / You might think 设靶预判），每条补语域/频次/产出侧三件套，例句逐字出真题。27 条 candidate 存 references/mining/cet4-restandard.frames.json 待族章分流。管线重跑一致，8 项回归全过。待办：09/12 章同标准重裁、07 章降级裁决。
 - 四级章补编（2026-09-21，用户指令）：四级「少」系 09-18 返工有意收紧+大量候选存档未编。本次候选全裁决：13 章 7→29 骨架 + 26 条短语档，35 例句逐字校验 0 不一致；00-guide/course.json 旧计数修正；09-18 返工未提交工作一并入库。

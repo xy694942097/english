@@ -1,5 +1,9 @@
 # 编纂记录
 
+## 2026-09-23 · 介词章增补：复合介词专题（7–9 节，双语料来源）
+
+用户在读学城《英语介词完全指南》时指出「连用两个介词」（Normal People 里高频）值得成文，指令从 Normal People 与其他语料挖例、查证归纳后补进本地介文章 book/03-四六级词汇/04-preposition-patterns.md。新增三节接续原章编号：##7 复合介词（第二个介词锚定关系/位置、第一个叠方向或来源，out from under 三层链、中文镜像「从…底下＋出」分工对比、from behind/until after/in between 变体表）；##8 onto vs on to（合写=动态到达，分写=继续副词+下一站，hold onto/go on to/project onto 三个误读点）；##9 字面义漂移（判断标准：第二个介词的锚点找得到就拆、找不到整体记，out of 物理→动机→缺失梯度，look up to/up to you 词块表）。例句全部真实语料：Normal People epub 全书 7.3 万词提取后逐句 grep 挖据（out of 63 例/onto 31/on to 34/from under 3/until after 1/in between 3），9 条关键引文逐条回原文定位章节；另一半来自本地例句库 combined_dictionary examples（17.4万句，标 cet4/cet6/tem8/voc14w 来源）。同步：章首改双体例声明（1–6 自造/7–9 真实语料）、补 9 行章首预览表（模板通用规则补齐）、迁移练习 4→7 题及参考答案同步。学城侧指南开场/复合介词两段为对话稿，未写学城（用户明确本地修改）。
+
 ## 2026-09-21 · 结构重排：book 目录归拢、侧边栏四区、00-guide 补全（目标「简单」）
 
 用户确认三处同时动，目标「代码简单、分层简单、逻辑简单」。①book 层归拢——02-chunks 并入 01-reading（阅读方法与词块 4 章）、07-word-topics 并入 03-四六级词汇（take 专题成 10-take）、06-sentences 并入 05-patterns（特殊句子成 03-unfamiliar-shapes）、04-词表资料/00-materials.md 移出教材层成 materials/wordlists-guide.md（gitignore 白名单+catalog 学习资料组），四个「一目录一文件」碎片目录撤销，book 顶层收敛为 01/03/05/08 四个内容目录；course.json 同步：sentences 单章专题并入 patterns 成「句型与特殊句子」，01-context 收进 chunks 专题消孤章，6 专题→5、专题零单章；02/06/07 编号留空（08-frames 为稳定标识符不重编号，同 10/11 空号先例）。②侧边栏四区——「参考资料」组撤销（三个工程记录页移入工程侧「导入与挖掘记录」组），materials+vocabulary 归「学习资料」（学习者真正要查的资料），CURRENT.md 从学习档案移入「进度与诊断」，verification 组改中文名，.pytest_cache 从目录发现排除；app.js 区序：学习档案→进度与诊断→学习资料→工程文档→Book 其他章节；classify_doc/GROUPS 收敛。③00-guide 补全——小说通读（16/17）与自选篇（18）此前完全未入索引，补两节并说明回收/通读/自选三条系列线与六大家族并行；第四节 06-sentences 过时提法更新。顺带修 test_frames_collection.cjs h1 断言 15→16（16/17/18 章入总集后未更新的旧账）。回归：pytest 19 全过（夹具同步新分界）、markdown/frames 冒烟过、管线重跑一致、浏览器实测专题区与文档四区渲染正确。注：server.py/test_server.py/00-guide/.gitignore/book README 混有术语会话未提交的「框架→句式骨架」改名行，随本次一并入库。

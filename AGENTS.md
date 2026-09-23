@@ -2,19 +2,20 @@
 
 适用范围仅为 english。用户当前明确要求优先。
 
-## 目录体系（2026-09-16 定版）
+## 目录体系（2026-09-23 更新：站点为纯 markdown 查看器）
 
-- **engineering/**：工程文档总目录，左侧对应顶层资源「工程文档」，内含子目录 agents/（agent 文档，与根目录 AGENTS.md 同组）、design/（设计方案→组「设计」）、methodology/（调研方法→组「调研与方法」）、archive/（已完成或被取代的历史文档→组「历史归档」，只进不出，不删除）。新增工程文档放对应子目录，前端自动发现。整理原则：文档失去现实效力（计划全部完成、被新文档取代、纯历史记录）就移入 archive/，保留路径与引用。
+- **nav.json**：站点侧边栏目录的唯一登记处。显式列出要展示的文档（组名 + 路径，支持组内子标签），标题自动取自文档一级标题；未登记的文件不进站点（详见 site/README.md）。
+- **engineering/**：工程文档总目录，不进站点导航。内含子目录 agents/（agent 文档）、design/（设计方案）、methodology/（调研方法）、archive/（已完成或被取代的历史文档，只进不出，不删除）。新增工程文档放对应子目录。整理原则：文档失去现实效力（计划全部完成、被新文档取代、纯历史记录）就移入 archive/，保留路径与引用。
 - **AGENTS.md**：根目录唯一保留的 agent 文档；被它引用的其它 agent 文档放 engineering/agents/（目录职责见其 README.md）。
-- **progress/**：学习进度与能力诊断（非工程建设进度），保持根目录，对应资源「进度与诊断」。
-- **book/**：教材。子目录=左侧资源（如 08-frames→句式骨架）；book 目录本身不对应左侧资源——根目录的 README 为书入口（前端不进导航，专题页底部「关于本书」可达），TEMPLATE/BACKLOG/CHANGELOG 归「工程文档→Agent 文档」组。
-- **references/**、**vocabulary/**：分别对应「参考资料」「历史课堂」。
-- **materials/**：下载资料总库（词表/词典/真题/教材/语料），侧边栏对应「参考资料→学习资料」。每个文件登记 materials/downloads-manifest.json（SHA-256+URL+许可）。下载、选源与归一化规则唯一出处是 materials/HANDBOOK.md——照手册执行，不需重新决策；资料清单与批次记录见 materials/README.md。
-- 排除扫描：site/、data/、sessions/、.git/、node_modules/、references 的 imports/；materials 只发现白名单路径——顶层 md、readable/ 合集子树、dictionaries/wordbooks-md/ 词源书合集（textbooks/ 教材原件与 papers 原件旁 md 不入目录，合集版在 readable/，实现见 server.py `_materials_doc`）。
+- **progress/**：学习进度与能力诊断（非工程建设进度），保持根目录。
+- **book/**：教材，按主题目录保存 Markdown。书入口 README 与工程配套（TEMPLATE/BACKLOG/CHANGELOG）不进导航。
+- **references/**：教材构建与归一脚本（build_chapter_previews / build_frames_collection / normalize_materials 等）及导入报告。挖掘中间数据（批次 json、句池、裁决存档）2026-09-24 已移入 engineering/archive/，脚本与报告留在原处。
+- **vocabulary/**：历史讲义（1 篇旧课，已在 nav.json「学习档案→历史课堂」登记）。
+- **materials/**：下载资料总库（词表/词典/真题/教材/语料），只有 readable/ 合集在 nav.json 登记。每个文件登记 materials/downloads-manifest.json（SHA-256+URL+许可）。下载、选源与归一化规则唯一出处是 materials/HANDBOOK.md——照手册执行，不需重新决策；资料清单与批次记录见 materials/README.md。
 
 ## 恢复
 
-先读 LEARNER.md、METHOD.md、progress/CURRENT.md，再读当前章节及相关 sessions/web 记录。不要重复背景问卷，不从旧考试分数推断当前等级。
+先读 LEARNER.md、METHOD.md、progress/CURRENT.md，再读当前章节。不要重复背景问卷，不从旧考试分数推断当前等级。
 
 ## 教学
 
@@ -22,11 +23,9 @@
 
 ## 编纂 Book
 
-主线以book/course.json中的五个专题组织：熟词生义、整句词组、常用句型、特殊句子、单词专题。新增主线章先明确阅读卡点、对照和新语境，再将已有Markdown路径加入课程清单；不要只增加词条数或按考试标签铺满首页。没有正文的未来主题只放BACKLOG，不作为可开始章节展示。
+主线五个专题（熟词生义、整句词组、常用句型、特殊句子、单词专题）在 nav.json 里以分组体现（原 course.json 已于 2026-09-23 废弃）。新增主线章先明确阅读卡点、对照和新语境，再把 Markdown 路径登记进 nav.json 对应组；不要只增加词条数或按考试标签铺满目录。没有正文的未来主题只放BACKLOG，不作为可开始章节展示。
 
-course.json可用unit_kinds显式指定章节知识点类型，如grammar。目录迁移不移动旧文件或重置学习记录。老师恢复时优先读取当前专题与相关正文。
-
-正式教材源文件在 book/，按主题目录保存 Markdown；目录与搜索由 site/server.py 自动扫描。每章一级标题唯一。新增章后验证 /api/catalog 能发现标题、分组、全文。
+正式教材源文件在 book/，按主题目录保存 Markdown；站点目录由 nav.json 显式登记，不再自动扫描。每章一级标题唯一（它就是站点里显示的标题）。新增章后验证 /api/catalog 能发现标题、分组、全文。
 
 先读 book/README.md、book/BACKLOG.md 和相关已有章节，避免重复。按 book/TEMPLATE.md 的规范写实际内容；模板与 backlog 不算教学章。排版统一按 TEMPLATE.md 的「紧凑学习卡」风格（2026-09-16 用户定版，样张 book/08-frames/_样式样张A-紧凑学习卡.md）：语义加粗一句话、例句引用块中英对照、结构拆解代码块、变体对比表格，不叙事铺陈。
 
@@ -36,7 +35,7 @@ course.json可用unit_kinds显式指定章节知识点类型，如grammar。目�
 
 ## 句式骨架挖掘
 
-挖掘成文语料（教材/真题/字幕）中的句子句式骨架时，先读 methodology/2026-09-16-frame-mining.md：发现句式骨架靠 LLM 逐句通读（每批300句，句式骨架须≥2句重复验证，例句逐字复制并双重校验），regex 仅用于为已确认句式骨架回收例句。通读对象是所有成文内容（含听力原文），不是只有课文正文。
+挖掘成文语料（教材/真题/字幕）中的句子句式骨架时，先读 engineering/methodology/2026-09-16-frame-mining.md：发现句式骨架靠 LLM 逐句通读（每批300句，句式骨架须≥2句重复验证，例句逐字复制并双重校验），regex 仅用于为已确认句式骨架回收例句。通读对象是所有成文内容（含听力原文），不是只有课文正文。
 
 ## 下载资料选源与归一化
 
@@ -48,18 +47,10 @@ course.json可用unit_kinds显式指定章节知识点类型，如grammar。目�
 
 **对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 engineering/design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→LEARNER.md/METHOD.md/engineering/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
 
-学习背景写 LEARNER.md，教学方法写 METHOD.md，原答与反馈写 sessions/，进度证据写 progress/。不要跨写 ml-foundations。网页老师负责对话，服务器保存原答；Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
+学习背景写 LEARNER.md，教学方法写 METHOD.md，原答与反馈无存档（对话功能 2026-09-23 已删），进度证据写 progress/。不要跨写 ml-foundations。Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
 
-站点仅本地运行，不默认部署公网。网页对话使用本机 Codex 登录，API 不接受任意 shell 命令、任意文件路径或模型选项。测试：python3 site/test_server.py。
+站点仅本地运行，不默认部署公网；纯只读查看器，无对话与写接口。测试：python3 site/test_server.py。
 
-## 数据库学习记录
+## 数据库学习记录（已归档）
 
-第一版已加入 data/learning.sqlite3。网页学习原答、自评和复习时间以数据库events/progress为准；恢复用户状态时结合该库与sessions/web，不只读静态CURRENT.md。不要把SQLite标记或用户自评升级为经过独立考查的掌握证明。
-
-数据库以类型、标题和含义区分学习条目，章节通过links关联。Book扫描可更新讲解，不应重置学习记录。正文修改不代表用户需要重新考试，义项拆分/合并要保留旧证据与迁移关系。
-
-AI录入候选可由网页生成，用户编辑确认后入库；区别于正式Book增编，不自动改写Markdown。已完成四级、六级、专八与NGSL社区词表的批量来源导入；源文件、哈希与规则见references/README.md。整书自动提取尚未实施。调度只提供网页到期队列，未设置系统定时通知。
-
-数据库schema v2加入collections、collection_items、catalog_heads。额外词典解释按来源保存，不覆盖Book或重置进度。大型词库页面使用browse分页接口，不一次加载全部正文。新来源应先隔离试导入、检查义项/词头去重与事件不变，再备份发布；不能把社区词表标签写成已核验的最新官方大纲。
-
-新功能测试用 --data-dir 指定隔离目录，不在真实库写测试学习事件。回归：python3 site/test_learning.py；浏览器测试说明见site/README.md。快照使用SQLite备份接口，不能在运行中直接复制活跃事务文件代替可靠备份。
+2026-09-23 站点收敛为纯查看器时，learning.sqlite3（学习原答、自评与复习调度）与 combined_dictionary.sqlite3（合并词典）已移出仓库至 ~/workspace/english-archive/。旧约定全文见 git 历史中的 AGENTS.md；若恢复学习功能，从该目录取回数据库、在 git 历史找回 learning_store.py / dictionary_store.py，并重读当时的调度与 schema 约定。在此之前：不要把历史 SQLite 标记或用户自评当成经过独立考查的掌握证明，学习状态以 progress/ 诊断与用户口述为准。
