@@ -1,6 +1,6 @@
 # 04 介词改变了句子的意思
 
-本章：concern、expose、subject、commit、entitle、owe；第 7–9 节为复合介词专题（2026-09-23 增补）。前半重点为形容词、被动结构与介词搭配；这正是认识单词后仍可能读不懂的一层。英文释义为教学改写；1–6 节例句自造，7–9 节例句为真实语料（Normal People 原文标章节；本地例句库标 cet4/cet6/tem8/voc14w）。
+本章：concern、expose、subject、commit、entitle、owe；第 7–10 节为复合介词专题（2026-09-23 增补 7–9 节，2026-09-24 增补第 10 节动词三件套）。前半重点为形容词、被动结构与介词搭配；这正是认识单词后仍可能读不懂的一层。英文释义为教学改写；1–6 节例句自造，7–10 节例句为真实语料（Normal People 原文标章节；本地例句库标 cet4/cet6/tem8/voc14w）。
 
 ## 章首预览
 
@@ -15,6 +15,7 @@
 | 7 | 复合介词 | 第二个介词锚定关系，第一个叠方向或来源 |
 | 8 | onto vs on to | 合写=动态到达；分写=继续+下一站 |
 | 9 | 字面义漂移 | 锚点找得到就拆，找不到就整体记 |
+| 10 | 动词三件套 | 小品词属于动词，介词引出对象；代词插入 make it up to her |
 
 ## 先读语境
 
@@ -239,6 +240,58 @@ on to = on（副词：继续）+ to（下一站 / 不定式符号）
 | What are you up to? | 你在忙什么/搞什么名堂 | 口语高频 |
 | be up to sth | 在密谋什么 | 常含贬义 |
 
+## 10. 动词三件套：小品词属于动词，介词引出对象
+
+**语义：** 动词 + 小品词 + 介词（put up with、come up with、look down on、make it up to），三件连成一个动词词块。看着像「两个介词连用」，但连接处不在两个小词之间——小品词属于动词（构成短语动词），介词只负责引出对象。
+
+> And just the fact that I **put up with** it.（Normal People, ch.8）
+> 还有就是我竟然一直忍受着这一切。
+
+> He has no idea what Marianne will **come up with**: something funny, he thinks.（Normal People, ch.9）
+> 他完全猜不到玛丽安会想出什么：大概是好笑的东西吧。
+
+> How do you **put up with** him, sweetheart?（Normal People, ch.13）
+> 你是怎么忍受得了他的，亲爱的？
+
+结构拆解：
+
+```
+put    up      with   it
+动词   小品词   介词   对象
+└── put up ＝ 动词词块（忍受）
+        └── with ＝ 引出忍受的对象
+```
+
+判型方法：看第一个小词「属于谁」。属于名词短语轨迹的是第 7 节的复合介词（out from under the table：out 描绘从锚点到终点的整条路径）；属于动词的是本节三件套（put up with it：up 与 put 结合成词，路径义已消失）。同一串字母，两套语法。
+
+**代词插入位**（三件套的语序坑）：宾语是代词时必须插在小品词与介词之间——make it up to her，不是 make up to her it。受「代词宾语前置于小品词」的短语动词规则支配：
+
+> I think you should **make it up to** her, Connell.（Normal People, ch.5）
+> 我觉得你该补偿她，康奈尔。
+
+变体采集（均为 Normal People 原文）：
+
+| 三件套 | 意思 | 例 |
+| --- | --- | --- |
+| come up with | 想出 | what Marianne will come up with（ch.9） |
+| look down on | 蔑视 | He just thinks you look down on him.（ch.4） |
+| hang out with | 与…厮混 | not wanting to hang out with me anymore（ch.4） |
+| look out for | 照应 | Rich people look out for each other.（ch.9） |
+| get up to | 干（名堂） | what you think I get up to at the weekend（ch.4） |
+| get off on | 从…获得刺激 | It's not that I get off on being degraded.（ch.11） |
+| go out of | 走出（抽象状态） | the place was going to go out of business（ch.11） |
+
+常见误读：
+
+| 误读 | 纠正 | 原因 |
+| --- | --- | --- |
+| make it up to her 拆成「把它做到她那里」 | 整体＝补偿 | make up（和解/补偿）+ it 先行占位 + to her 对象 |
+| get up to 读成「起床到」 | 干（常为捣蛋/出格事） | get up to 是口语词块，与起床无关 |
+| look down on him 当物理动作「低头看他」 | 蔑视 | 动作已隐喻化，第 9 节漂移的动词版 |
+| 以为三件套可以随意插词 | 小品词紧贴动词（代词除外） | put up with 中间不能插名词：put the noise up with ✗ |
+
+**量级直觉**（Normal People 全书 7.3 万词实测）：介词样连用共 282 处，其中严格双介词（from under、in between 等）仅 7 处，动词三件套约 40 处，其余为短语动词带介词尾巴（pick sb up from work 类）。读到「连续两个小词」先判型：三件套读词块，真双介词走第 7 节分层拆解。
+
 ## 迁移练习
 
 1. This chapter is concerned with risk; the author is concerned about it. 两个 concerned 的意思一样吗？
@@ -248,6 +301,7 @@ on to = on（副词：继续）+ to（下一站 / 不定式符号）
 5. 拆介词层：The housemaid eavesdropped from behind the kitchen door.（几层？各是什么关系？）
 6. 判断能否合写 onto：The discussion moved on to budget. ／ She logged onto the system.
 7. 翻译：他出于习惯关掉了通知；我仍然很敬佩她。
+8. 判型并拆解：I think you should make it up to her. ／ He fishes his shoe out from under the table.（各属第几节的结构？连接处在哪里？代词 it 为什么在那个位置？）
 
 ## 参考答案
 
@@ -258,3 +312,4 @@ on to = on（副词：继续）+ to（下一站 / 不定式符号）
 5. 两层：from（来源：从门后）＋behind（位置：厨房门背后）。中文「躲在厨房门后偷听」两层俱全，分工不同。
 6. 第一句不能合写——on 是「继续」副词，to 引出下一站（议题）；第二句 onto 正确——登录是动态进入系统。
 7. He turned off notifications out of habit. I still look up to her a lot.
+8. 前句是第 10 节动词三件套：make up（动词词块「补偿」）+ it（代词宾语，按短语动词规则前置于小品词）+ to her（对象）；连接处在动词。后句是第 7 节复合介词：under the table 锚定位置、from 叠来源、out 叠方向；连接处在名词短语内部。两串都「小词连用」，判型看第一个小词属于动词还是属于名词轨迹。
