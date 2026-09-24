@@ -1,0 +1,2361 @@
+<!-- 来源：学城文档 2754697529 https://km.sankuai.com/collabpage/2754697529 -->
+
+# 英语短语动词完全指南
+
+### 目录
+
+#### Part 1：定义、结构、可分离性、双粒子
+
+- [概念1：短语动词是什么？结构拆解](#%E6%A6%82%E5%BF%B51%E7%9F%AD%E8%AF%AD%E5%8A%A8%E8%AF%8D%E6%98%AF%E4%BB%80%E4%B9%88%E7%BB%93%E6%9E%84%E6%8B%86%E8%A7%A3)
+- [概念2：可分离 vs 不可分离](#%E6%A6%82%E5%BF%B52%E5%8F%AF%E5%88%86%E7%A6%BB-vs-%E4%B8%8D%E5%8F%AF%E5%88%86%E7%A6%BB)
+- [概念3：双粒子短语动词（三词结构）](#%E6%A6%82%E5%BF%B53%E5%8F%8C%E7%B2%92%E5%AD%90%E7%9F%AD%E8%AF%AD%E5%8A%A8%E8%AF%8D%E4%B8%89%E8%AF%8D%E7%BB%93%E6%9E%84)
+- [概念4：短语动词 vs 介词短语（别再混了）](#%E6%A6%82%E5%BF%B54%E7%9F%AD%E8%AF%AD%E5%8A%A8%E8%AF%8D-vs-%E4%BB%8B%E8%AF%8D%E7%9F%AD%E8%AF%AD%E5%88%AB%E5%86%8D%E6%B7%B7%E4%BA%86)
+
+#### Part 2：粒子语义图谱与高频词表
+
+- [概念5：高频粒子语义图谱](#%E6%A6%82%E5%BF%B55%E9%AB%98%E9%A2%91%E7%B2%92%E5%AD%90%E8%AF%AD%E4%B9%89%E5%9B%BE%E8%B0%B1)（UP / DOWN / OUT / OFF / ON / IN / BACK / AWAY / OVER / THROUGH）
+- [概念6：按场景分类的高频词表](#%E6%A6%82%E5%BF%B56%E6%8C%89%E5%9C%BA%E6%99%AF%E5%88%86%E7%B1%BB%E7%9A%84%E9%AB%98%E9%A2%91%E8%AF%8D%E8%A1%A8)（日常生活 / 工作学习 / 人际关系 / 情感状态 / 移动行动 / 变化结果）
+
+#### Part 3：学习策略、正式度与「猜意思」系统
+
+- [概念7：学习与记忆策略](#%E6%A6%82%E5%BF%B57%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%AE%B0%E5%BF%86%E7%AD%96%E7%95%A5)
+- [概念8：正式 vs 非正式（扩展B）](#%E6%A6%82%E5%BF%B58%E6%AD%A3%E5%BC%8F-vs-%E9%9D%9E%E6%AD%A3%E5%BC%8F%E6%89%A9%E5%B1%95b)
+- [概念9：「猜意思」系统（重点！）](#%E6%A6%82%E5%BF%B59%E7%8C%9C%E6%84%8F%E6%80%9D%E7%B3%BB%E7%BB%9F%E9%87%8D%E7%82%B9)
+
+---
+
+## Part 1：定义、结构、可分离性、双粒子
+
+> 写给真正想搞懂短语动词的人。不堆术语，不绕弯子，直接讲清楚。
+
+---
+
+### 概念1：短语动词是什么？结构拆解
+
+#### 1.1 精确定义
+
+**短语动词（Phrasal Verb）= 动词 + 粒子（particle）**
+
+这个组合在意义上是一个整体——合在一起表达一个新的意思，通常无法从字面直接推断。
+
+举几个例子，感受一下：
+
+| 短语动词 | 字面意思 | 实际意思 |
+| --- | --- | --- |
+| give up | 向上给？ | 放弃 |
+| run into | 跑进去？ | 偶然遇见 |
+| bring up | 向上带？ | 提起（话题）/ 抚养 |
+| blow up | 向上吹？ | 爆炸 / 勃然大怒 |
+| look after | 向后看？ | 照顾 |
+| put off | 关掉放下？ | 推迟 / 使反感 |
+
+你看，**字面推断完全没用**。这就是为什么短语动词难——它们的意思必须单独记忆。
+
+---
+
+#### 1.2 为什么叫"粒子"（particle），不叫"副词"或"介词"？
+
+这个问题很多人没想过。
+
+**核心原因：短语动词里的那个小词，身份是模糊的——它有时像副词，有时像介词，有时两种语法行为都有，所以语言学家给它起了个中立名字：粒子（particle）。**
+
+来对比一下：
+
+**① 作为纯粹副词的情况（不接宾语）：**
+
+- *She sat down.* （down 是副词，没有宾语）
+- *He came back.* （back 是副词）
+
+**② 作为纯粹介词的情况（后面必须接名词）：**
+
+- *She sat down the stairs.* （down 是介词，接了宾语 the stairs）
+- *He ran across the field.* （across 是介词）
+
+**③ 短语动词里的粒子，两种都不像：**
+
+- *Turn off the light.* — off 后面可以接宾语（像介词），但也可以移到后面（*Turn the light off.*），这个移位是副词的行为
+- *Give up smoking.* — up 后面接 smoking，但这里 up 并不真正修饰 smoking
+
+所以，**粒子（particle）这个词的意思是：这个词在短语动词语境下已经"变性"了，它不再是普通的副词或介词，而是动词不可分割的一部分。** 它和动词合并成了一个新的语义单位。
+
+用一个比喻：就像"热狗"里的"热"不再是形容温度的词，而是"热狗"这个食物名称的一部分——"粒子"也是动词这道菜的一个配料，不能单独看。
+
+---
+
+#### 1.3 短语动词 vs 动词短语 vs 介词短语——三者区别
+
+这三个词经常被混着用，其实完全是不同的东西。
+
+##### 先给结论：
+
+| 术语 | 英文 | 是什么 | 例子 |
+| --- | --- | --- | --- |
+| 短语动词 | Phrasal Verb | 动词 + 粒子，整体表达新意思 | *give up*（放弃） |
+| 动词短语 | Verb Phrase | 语法上的谓语部分，包括助动词+主动词 | *has been working*（一直在工作） |
+| 介词短语 | Prepositional Phrase | 介词 + 名词短语，表达位置/时间/方式等 | *on the table*（在桌子上） |
+
+##### 详细拆解：
+
+**① 动词短语（Verb Phrase）— 这是语法结构，不是词汇单位**
+
+动词短语就是句子里的谓语部分，可以很复杂：
+
+- *She works.* → 最简单的动词短语
+- *She has worked hard.* → 助动词 + 主动词
+- *She should have been working all morning.* → 完整的谓语动词结构
+
+动词短语里**可以包含短语动词**：
+
+- *She has given up smoking.* — "has given up" 是动词短语，"given up" 是短语动词（放弃）
+
+**② 介词短语（Prepositional Phrase）— 这是名词附属结构**
+
+介词短语 = 介词 + 名词短语，在句子里作状语、定语、补语：
+
+- *The book is on the table.* （表位置）
+- *She arrived after the meeting.* （表时间）
+- *He spoke with confidence.* （表方式）
+
+**③ 短语动词（Phrasal Verb）— 这是词汇单位，意义已融合**
+
+短语动词的关键：**动词+粒子合并成了一个新的动词，意思不能从字面分解。**
+
+- *look up* ≠ look + up（不是"向上看"，是"查找"）
+- *break down* ≠ break + down（不是"向下破"，是"崩溃/故障"）
+- *come across* ≠ come + across（不是"穿越而来"，是"偶然发现"）
+
+##### 最容易混淆的一组对比：
+
+**"He looked up the street."** — 这是"动词 + 介词短语"（他顺着街道看过去）
+**"He looked up the word."** — 这是"短语动词"（他查了这个单词）
+
+同样的词，却是完全不同的结构！怎么判断？看意义是否融合、是否可以移位——这个后面会详细讲。
+
+---
+
+#### 1.4 短语动词的4种句法类型
+
+短语动词按照句法行为（是否接宾语、宾语位置如何）分为4类：
+
+##### 类型1：不及物短语动词（Intransitive）
+
+**特征：** 不带宾语，直接作为完整谓语使用。
+
+| 例子 | 意思 |
+| --- | --- |
+| The engine broke down. | 引擎故障了 |
+| She passed out in the heat. | 她在酷热中晕倒了 |
+| He grew up in Shanghai. | 他在上海长大 |
+| We set off at dawn. | 我们黎明出发 |
+| The plan fell through. | 计划泡汤了 |
+
+**特点：** 后面什么都不接，或者接的是表达语境的状语，不是短语动词的宾语。
+
+- *She gave up.* ✅（给上了，不需要宾语）
+- *The meeting ran over.* ✅（会议超时了）
+
+##### 类型2：及物可分离短语动词（Transitive Separable）
+
+**特征：** 有宾语，宾语可以放在粒子前或粒子后，**代词宾语必须插入中间**。
+
+| 例子（两种写法都对） | 意思 |
+| --- | --- |
+| Turn off the TV / Turn the TV off | 关掉电视 |
+| Put on your coat / Put your coat on | 穿上外套 |
+| Take back what you said / Take what you said back | 收回你说的话 |
+| Call off the meeting / Call the meeting off | 取消会议 |
+| Fill out the form / Fill the form out | 填写表格 |
+
+**代词必须插入：**
+
+- *Turn it off.* ✅
+- *Turn off it.* ❌（错误！代词不能放粒子后面）
+- *Put it on.* ✅
+- *Put on it.* ❌
+
+##### 类型3：及物不可分离短语动词（Transitive Inseparable）
+
+**特征：** 有宾语，但宾语只能放在粒子后面，**不能插入中间**，即使是代词也不行。
+
+| 正确用法 | 错误用法 | 意思 |
+| --- | --- | --- |
+| Look after the kids ✅ | Look the kids after ❌ | 照顾孩子 |
+| Run into an old friend ✅ | Run an old friend into ❌ | 偶然遇到老朋友 |
+| Come across a great book ✅ | Come a great book across ❌ | 偶然发现一本好书 |
+| Look into the matter ✅ | Look the matter into ❌ | 调查这件事 |
+| Go through the documents ✅ | Go the documents through ❌ | 仔细查阅文件 |
+
+**代词也必须放在后面：**
+
+- *Look after them.* ✅（不是 *Look them after.*）
+- *Run into him.* ✅（不是 *Run him into.*）
+
+##### 类型4：双粒子短语动词（Phrasal-Prepositional）
+
+**特征：** 动词 + 副词粒子 + 介词，三个词合在一起。宾语接在最后面。
+
+| 例子 | 意思 |
+| --- | --- |
+| put up with the noise | 忍受噪音 |
+| look forward to the trip | 期待旅行 |
+| cut back on expenses | 削减开支 |
+| come up with an idea | 想出一个主意 |
+| get away with the crime | 逃脱惩罚 |
+
+这一类会在**概念3**中专门详述。
+
+---
+
+#### 1.5 为什么短语动词是英语学习者最头疼的结构？
+
+原因不止一个，是五个问题叠加在一起：
+
+**① 意思完全不透明**
+
+*give up* 里没有任何一个词的字面意思是"放弃"。*break down* 里没有"崩溃"的字面含义。你没法靠逻辑推断，只能死记——但又多到记不完。
+
+> 英语里有估计超过 **10,000** 个短语动词，常用的也有 **1,000+** 个。
+
+**② 一个动词有大量不同粒子，意思差天壤之别**
+
+光是 *get* 就有：
+
+| 短语动词 | 意思 |
+| --- | --- |
+| get up | 起床 |
+| get on | 上（车/船）；相处融洽 |
+| get off | 下车；逃脱惩罚 |
+| get over | 从（疾病、失落）中恢复 |
+| get away | 逃跑；度假 |
+| get by | 勉强维持生计 |
+| get through | 通过；熬过（困难时期）；打通电话 |
+| get along | 相处 |
+| get back | 回来；报复 |
+| get out | 出去；（消息）泄露 |
+| get into | 进入；对……感兴趣 |
+| get around | 走动；回避（规定） |
+| get ahead | 取得进步，超越他人 |
+
+**一个 get 就有13+个短语动词，每个意思都不同。**
+
+**③ 同一个短语动词有多个意思**
+
+- *pick up* = 捡起 / 接（人）/ 学会（技能）/ 恢复（经济）/ 无线接收信号 / 搭讪
+- *run out* = 用完 / 跑出去 / 到期
+- *turn up* = 出现 / 调高音量 / 翻出来
+
+**④ 可分离/不可分离的规则没有100%的规律**
+
+你无法从动词或粒子本身判断是否可分离，必须一个个去记。（后面会讲一些规律，但不是100%可靠的）
+
+**⑤ 语体问题：短语动词往往是口语/非正式语体的首选**
+
+正式英语：*The government has decided to abolish the tax.*
+口语英语：*The government has decided to do away with the tax.*
+
+学习者学了正式词汇，到了口语场合一句都说不出来，因为真实英语大量使用短语动词。
+
+---
+
+### 概念2：可分离 vs 不可分离
+
+#### 2.1 什么是可分离？
+
+**可分离短语动词**：宾语可以放在粒子前（插入中间），也可以放在粒子后——两种都合法。
+
+```
+// 代码块
+turn off the light    ✅ （宾语在后）
+turn the light off    ✅ （宾语插入中间）
+
+```
+
+感受几个例子：
+
+| 粒子后（标准） | 插入中间 | 意思 |
+| --- | --- | --- |
+| turn off the TV | turn the TV off | 关掉电视 |
+| put on the jacket | put the jacket on | 穿上夹克 |
+| take off your shoes | take your shoes off | 脱掉鞋子 |
+| call off the game | call the game off | 取消比赛 |
+| pick up the kids | pick the kids up | 接孩子 |
+| write down the number | write the number down | 记下这个号码 |
+| hand in the report | hand the report in | 上交报告 |
+| throw away the trash | throw the trash away | 扔掉垃圾 |
+
+**两种语序的语感差别：**
+
+- 宾语较短：两种都自然
+- 宾语较长：更倾向宾语放后面
+  - *Turn off the old TV in the living room that's been broken for months.* ✅ 更自然
+  - *Turn the old TV in the living room that's been broken for months off.* ❌ 很别扭
+
+---
+
+#### 2.2 代词宾语：必须插入中间！
+
+这是短语动词里最重要的规则之一，而且**没有例外**。
+
+**当宾语是代词（it, him, her, them, me, us 等），必须放在动词和粒子之间：**
+
+| ✅ 正确 | ❌ 错误 |
+| --- | --- |
+| Turn **it** off. | Turn off **it**. |
+| Put **it** on. | Put on **it**. |
+| Pick **them** up. | Pick up **them**. |
+| Call **it** off. | Call off **it**. |
+| Write **it** down. | Write down **it**. |
+| Throw **them** away. | Throw away **them**. |
+| Look **it** up. | Look up **it**. |
+| Hand **it** in. | Hand in **it**. |
+
+**为什么？**
+
+语言学上的解释是：代词是"弱形式"词（weak form），它倾向于依附在动词后面，不能"流落"到粒子后面去。更直觉的记法是：**代词不是真正的信息，它只是个指代，不值得在句末被强调。**
+
+**对话例子：**
+
+> "Did you turn off the light?"
+> "Yes, I turned **it** off." ✅
+> ~~"Yes, I turned off it."~~ ❌
+
+> "Have you picked up the kids from school?"
+> "Yeah, I've already picked **them** up." ✅
+> ~~"Yeah, I've already picked up them."~~ ❌
+
+---
+
+#### 2.3 什么是不可分离？
+
+**不可分离短语动词**：宾语只能放在粒子后面，绝对不能插入中间，代词也不行。
+
+```
+// 代码块
+look after the kids    ✅
+look the kids after    ❌ （完全不合法）
+look after them        ✅ （代词也在后面）
+look them after        ❌
+
+```
+
+| ✅ 正确用法 | ❌ 错误用法 | 意思 |
+| --- | --- | --- |
+| look after the children | ~~look the children after~~ | 照顾孩子 |
+| run into an old friend | ~~run an old friend into~~ | 偶然遇见老朋友 |
+| come across a good idea | ~~come a good idea across~~ | 偶然想到好主意 |
+| look into the complaint | ~~look the complaint into~~ | 调查投诉 |
+| go over the report | ~~go the report over~~ | 仔细检查报告 |
+| get over the breakup | ~~get the breakup over~~ | 从分手中走出来 |
+| run over the main points | ~~run the main points over~~ | 快速回顾要点 |
+
+**代词同样在粒子后面：**
+
+- *Look after them.* ✅（不是 *Look them after.*）
+- *Come across it.* ✅（不是 *Come it across.*）
+- *Get over it.* ✅（不是 *Get it over.*）— 这是个超常用的表达！
+
+---
+
+#### 2.4 如何判断一个短语动词是可分离还是不可分离？
+
+**坦白说：没有100%可靠的规律。但有一些规律性强的倾向，记住了会省很多力气。**
+
+##### 规律1：粒子是纯粹副词性的 → 往往可分离
+
+当粒子的主要语义功能是表达"方向/结果/完成"时（up, down, off, on, out, away, back），短语动词往往是可分离的：
+
+| 粒子 | 可分离例子 |
+| --- | --- |
+| up | pick **sth** up, look **sth** up, bring **sth** up, use **sth** up |
+| down | write **sth** down, put **sth** down, calm **sb** down, turn **sth** down |
+| off | turn **sth** off, call **sth** off, cut **sth** off, put **sth** off |
+| on | put **sth** on, try **sth** on, switch **sth** on, turn **sth** on |
+| out | work **sth** out, find **sth** out, fill **sth** out, carry **sth** out |
+| away | throw **sth** away, put **sth** away, give **sth** away |
+| back | pay **sb** back, give **sth** back, hold **sth** back |
+
+##### 规律2：粒子有介词性（连接动词和宾语之间有逻辑介词关系）→ 往往不可分离
+
+当粒子和宾语之间的关系是"方向朝向某物"时，常常是不可分离的：
+
+| 短语动词 | 粒子含义 | 不可分离 |
+| --- | --- | --- |
+| look into sth | 朝……里面看（调查） | ✅ 不可分离 |
+| look after sb | 在……后面看（照顾） | ✅ 不可分离 |
+| run into sb | 跑进……（碰到） | ✅ 不可分离 |
+| come across sth | 穿越到……（偶遇） | ✅ 不可分离 |
+| go over sth | 从……上面过（检查） | ✅ 不可分离 |
+
+##### 规律3：有些短语动词两者皆可，但意思不同
+
+这是最坑的情况：
+
+| 分离写法 | 不分离写法 | 意思差异 |
+| --- | --- | --- |
+| *get the meeting over* | *get over the meeting* | 前者：把会议结束掉；后者：从（糟糕的）会议中恢复 |
+| *run the proposal by him* | （固定不分离） | 让他过目一下方案 |
+
+##### 规律4：最终答案——查词典，标注在自己的词汇本里
+
+这是最务实的建议。在记每一个短语动词时，同时记下：
+
+- 可分离？（用 **sth** / **sb** 的位置标注）
+- 例句（直接记完整句子，比记规则有用）
+
+**推荐标注方式：**
+
+```
+// 代码块
+turn off [sth] / turn [sth] off  → 可分离
+look after [sb]                  → 不可分离
+
+```
+
+---
+
+#### 2.5 常见错误汇总
+
+##### 错误1：对不可分离动词强行插入宾语
+
+❌ *She looked the children after all day.*
+✅ *She looked after the children all day.*
+
+❌ *I ran my old professor into yesterday.*
+✅ *I ran into my old professor yesterday.*
+
+❌ *Can you go the report over before the meeting?*
+✅ *Can you go over the report before the meeting?*
+
+##### 错误2：代词放在粒子后面
+
+❌ *Turn off it when you leave.*
+✅ *Turn it off when you leave.*
+
+❌ *Please look up it in the dictionary.*
+✅ *Please look it up in the dictionary.*
+
+❌ *She put on it and went out.*
+✅ *She put it on and went out.*
+
+##### 错误3：误把可分离当不可分离
+
+❌ *I need to look up this word.* → 其实这是 **✅正确的**！（不可分离的写法也对）
+✅ *I need to look this word up.* → 也对（可分离写法）
+
+（这说明可分离动词的两种写法都行，学习者有时只记一种，没意识到两种都合法。）
+
+##### 错误4：长宾语错误地插入中间
+
+❌ *I need to pick the kids who've been waiting since 3pm up.*
+✅ *I need to pick up the kids who've been waiting since 3pm.*
+
+（宾语太长时，插入中间会非常别扭，即使语法上可行，也应该放到粒子后面。）
+
+---
+
+### 概念3：双粒子短语动词（三词结构）
+
+#### 3.1 结构说明
+
+**双粒子短语动词 = 动词 + 副词粒子 + 介词**
+
+这三个词组合在一起，表达一个完整的意思，后面接宾语。
+
+```
+// 代码块
+put     up     with    the noise
+动词    副词   介词     宾语
+       ← 双粒子 →
+
+```
+
+经典例子：
+
+- **put up with** = 忍受（*I can't put up with this noise.*）
+- **look forward to** = 期待（*I'm looking forward to the weekend.*）
+- **cut back on** = 削减（*We need to cut back on spending.*）
+- **come up with** = 想出（*She came up with a brilliant idea.*）
+- **get away with** = 逃脱惩罚（*He got away with cheating.*）
+
+---
+
+#### 3.2 双粒子短语动词是否可分离？
+
+**答：几乎都不可分离。**
+
+原因：第三个词是介词，而介词必须和其后面的名词短语紧密相连，不能被打断。
+
+❌ *I can't put the noise up with.* （错误）
+✅ *I can't put up with the noise.* （正确）
+
+❌ *She's looking the holiday forward to.* （错误）
+✅ *She's looking forward to the holiday.* （正确）
+
+❌ *We need to cut spending back on.* （错误）
+✅ *We need to cut back on spending.* （正确）
+
+**代词宾语也放在最后：**
+
+- *I can't put up with it.* ✅（不是 *I can't put it up with.*）
+- *She's looking forward to it.* ✅
+- *Come up with something.* ✅
+
+---
+
+#### 3.3 双粒子短语动词 vs 对应的单粒子版本
+
+很多双粒子短语动词有一个对应的单粒子版本，但意思往往有所不同：
+
+| 单粒子版本 | 意思 | 双粒子版本 | 意思 |
+| --- | --- | --- | --- |
+| cut back | 削减（不接具体对象） | cut back on sth | 削减某项具体支出 |
+| give up | 放弃（泛指） | give up on sb/sth | 对某人/某事放弃希望 |
+| go on | 继续；发生 | go on with sth | 继续做某事 |
+| look up | 查找；好转 | look up to sb | 崇敬某人 |
+| come up | 升起；出现 | come up with sth | 想出某事 |
+| get away | 逃跑；度假 | get away with sth | 做了坏事却逃脱惩罚 |
+| put up | 忍受；搭起 | put up with sth | 容忍某事（更强调对象） |
+| stand up | 站起来 | stand up for sb | 为某人辩护/支持 |
+| stand up | 站起来 | stand up to sb | 勇敢地对抗某人 |
+| run out | 用完 | run out of sth | 用完某物 |
+| look out | 小心 | look out for sth | 注意/当心某事 |
+| check up | 检查 | check up on sb | 调查/监视某人 |
+
+**关键差别：** 单粒子版本往往更泛化，双粒子版本在后面增加一个介词，把宾语（操作对象）更精确地引入进来。
+
+---
+
+#### 3.4 高频双粒子短语动词50个
+
+按使用频率排列，附中文释义和例句：
+
+| # | 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- | --- |
+| 1 | **look forward to** | 期待，盼望 | *I'm looking forward to seeing you again.* |
+| 2 | **put up with** | 忍受，容忍 | *I can't put up with this noise anymore.* |
+| 3 | **come up with** | 想出，提出 | *She came up with a great solution.* |
+| 4 | **get away with** | 逃脱（惩罚），侥幸成功 | *He got away with lying to his boss.* |
+| 5 | **run out of** | 用完，耗尽 | *We've run out of coffee.* |
+| 6 | **cut back on** | 削减，减少 | *We need to cut back on unnecessary expenses.* |
+| 7 | **give up on** | 对……放弃希望 | *Don't give up on your dreams.* |
+| 8 | **stand up for** | 为……辩护，维护 | *You need to stand up for yourself.* |
+| 9 | **stand up to** | 勇敢面对，抵抗 | *She stood up to the bullies.* |
+| 10 | **look up to** | 崇敬，仰慕 | *He looks up to his older brother.* |
+| 11 | **look down on** | 看不起，鄙视 | *She looks down on people who don't read.* |
+| 12 | **get on with** | 继续做；与……相处 | *Just get on with your work!* |
+| 13 | **go along with** | 同意；配合 | *I'll go along with whatever you decide.* |
+| 14 | **keep up with** | 跟上；跟得上 | *It's hard to keep up with the latest news.* |
+| 15 | **catch up with** | 追上；叙旧 | *Let's catch up with each other over coffee.* |
+| 16 | **end up with** | 最终得到/陷入 | *We ended up with more work than expected.* |
+| 17 | **face up to** | 正视，勇于承认 | *You need to face up to your mistakes.* |
+| 18 | **live up to** | 达到（期望）；不辜负 | *The movie didn't live up to the hype.* |
+| 19 | **make up for** | 弥补，补偿 | *He tried to make up for lost time.* |
+| 20 | **come down with** | 患（病） | *I think I'm coming down with a cold.* |
+| 21 | **come up against** | 遭遇（困难/反对） | *We came up against some serious obstacles.* |
+| 22 | **get back to** | 回复；返回 | *I'll get back to you by tomorrow.* |
+| 23 | **get down to** | 认真开始做 | *Let's get down to business.* |
+| 24 | **get out of** | 逃避；从……离开 | *He always gets out of doing the dishes.* |
+| 25 | **get rid of** | 摆脱，处理掉 | *It's time to get rid of old clothes.* |
+| 26 | **get along with** | 与……相处融洽 | *Do you get along with your coworkers?* |
+| 27 | **go back on** | 违背（承诺） | *Don't go back on your word.* |
+| 28 | **go through with** | 按计划完成；坚持到底 | *She decided to go through with the surgery.* |
+| 29 | **grow up on** | 从小接触，沉浸于 | *She grew up on classic novels.* |
+| 30 | **hold on to** | 抓紧；坚守 | *Hold on to your ticket.* |
+| 31 | **look back on** | 回顾，回想 | *Looking back on my childhood, I feel grateful.* |
+| 32 | **look in on** | 顺便探望 | *I'll look in on grandma this afternoon.* |
+| 33 | **look out for** | 留意，当心 | *Look out for signs of fatigue.* |
+| 34 | **make off with** | 偷走，携款潜逃 | *The thief made off with her handbag.* |
+| 35 | **move on from** | 从……走出来，不再纠结 | *It's time to move on from that relationship.* |
+| 36 | **put in for** | 申请，提出要求 | *She put in for a promotion.* |
+| 37 | **sit in on** | 旁听，列席 | *Can I sit in on your lecture?* |
+| 38 | **talk down to** | 居高临下地说话 | *Don't talk down to me like that.* |
+| 39 | **team up with** | 与……合作 | *We decided to team up with a local agency.* |
+| 40 | **walk out on** | 遗弃，甩手而去 | *He walked out on his family.* |
+| 41 | **watch out for** | 注意，提防 | *Watch out for pickpockets in the market.* |
+| 42 | **check up on** | 调查；核实 | *The manager always checks up on our progress.* |
+| 43 | **come in for** | 受到（批评/赞扬） | *The plan came in for a lot of criticism.* |
+| 44 | **fall back on** | 诉诸，依靠（备用方案） | *When nothing else works, fall back on the basics.* |
+| 45 | **drop in on** | 顺路拜访 | *Why don't we drop in on them while we're nearby?* |
+| 46 | **catch up on** | 补上，弥补（缺失的） | *I need to catch up on my sleep this weekend.* |
+| 47 | **take up with** | 开始和……交往 | *She took up with a new group of friends.* |
+| 48 | **put out by** | 被……打扰/激怒 | *He was quite put out by the delay.* |
+| 49 | **go on with** | 继续做某事 | *Let's go on with the meeting.* |
+| 50 | **break down into** | 分解成（成分/类别） | *Water breaks down into hydrogen and oxygen.* |
+
+---
+
+### 概念4：短语动词 vs 介词短语（别再混了）
+
+#### 4.1 核心问题：粒子是副词还是介词？
+
+这是区分"短语动词"和"动词+介词短语"的关键。
+
+**同一个词（如 up、on、in）既可以作副词，也可以作介词，区别在于语境和结构。**
+
+##### 判断标准：
+
+**副词粒子（→ 短语动词）：**
+
+- 和动词一起构成新词义
+- 可以移位到宾语后面（如果宾语是名词）
+- 可以用于强调焦点结构
+
+**介词（→ 介词短语，不是短语动词）：**
+
+- 引导一个介词短语，表达位置、方向等字面含义
+- 不能移位
+- 动词保持原义
+
+##### 对比例子：
+
+**"look up"** — 两种情况都可能：
+
+| 句子 | 分析 | 翻译 |
+| --- | --- | --- |
+| *She looked up the definition.* | **短语动词**（look up = 查找） | 她查了一下这个定义 |
+| *She looked up at the ceiling.* | **动词 + 介词短语**（look = 看，up at the ceiling = 朝天花板上方） | 她抬头看天花板 |
+
+---
+
+#### 4.2 三种语法测试法
+
+用这些测试来判断：那个小词究竟是粒子还是介词？
+
+##### 测试1：移位测试（Shift Test）
+
+**如果那个词可以移到宾语后面 → 副词粒子（短语动词）**
+**如果不能移位 → 介词**
+
+| 句子 | 移位 | 结论 |
+| --- | --- | --- |
+| *Turn off the light.* | → *Turn the light off.* ✅ | off 是粒子，short phrase verb |
+| *He fell off the ladder.* | → ~~He fell the ladder off.~~ ❌ | off 是介词，不是短语动词 |
+| *She put on her coat.* | → *She put her coat on.* ✅ | on 是粒子 |
+| *She walked on the grass.* | → ~~She walked the grass on.~~ ❌ | on 是介词 |
+
+##### 测试2：强调焦点测试（Cleft Test）
+
+**如果可以用 "It was X that..." 对那个词进行强调 → 副词粒子**
+
+##### 测试3：副词替换测试（Adverb Substitution Test）
+
+**如果那个词可以被 "there"、"here"、"away"、"back" 等副词替换 → 副词粒子**
+
+| 句子 | 替换测试 | 结论 |
+| --- | --- | --- |
+| *She came in.* | → *She came here/back.* ✅ | in 是副词粒子 |
+| *She came into the room.* | → ~~She came here the room.~~ ❌ | into 是介词 |
+
+---
+
+#### 4.3 容易混淆的20组对比
+
+| 单粒子短语 | 双粒子或介词短语 | 关键区别 |
+| --- | --- | --- |
+| look up（查找） | look up at（抬头看） | up 的语义不同 |
+| give up（放弃） | give up on（放弃某人） | on 增加了具体对象 |
+| go on（继续） | go on with（继续某事） | with 明确了操作对象 |
+| get off（下车） | get off at（在某处下车） | at 指定地点 |
+| look into（调查） | look in（探望） | 整体语义不同 |
+| hold on（等待） | hold on to（抓紧） | to 添加了对象 |
+| break down（崩溃） | break down into（分解成） | into 指定了结果 |
+| carry on（继续） | carry on with（继续某事） | with 明确对象 |
+| catch up（追上） | catch up with（与...叙旧） | with 指定了对象 |
+| come across（偶遇） | come across as（给人印象） | as 引入评价语义 |
+| stand out（突出） | stand out from（从...中脱颖） | from 给出了比较范围 |
+| fall back（退后） | fall back on（依靠备用方案） | on 指定了依靠对象 |
+| run over（超时） | run over to（跑去某地） | to 给出了目的地 |
+| move on（前进） | move on from（从...走出来） | from 指定了起点 |
+| check in（入住） | check in on（查看状况） | on 指定了关注对象 |
+| drop out（退出） | drop out of（退出某事） | of 明确了退出的事 |
+| put down（放下） | put down to（归因于） | to 指定了归因对象 |
+| take over（接管） | take over from（从某人处接替） | from 指定了前任 |
+| work out（解决） | work out at（合计为） | at 引入了数字结果 |
+| go back（返回） | go back on（违背承诺） | on 指定了违背对象 |
+
+---
+
+#### 4.4 速查表
+
+##### 短语动词4种类型一览
+
+| 类型 | 特征 | 例子 |
+| --- | --- | --- |
+| 不及物 | 无宾语 | break down, give up, set off |
+| 及物可分离 | 宾语可插入；代词必须插入 | turn off, pick up, write down |
+| 及物不可分离 | 宾语只能在后；代词也在后 | look after, run into, come across |
+| 双粒子 | 动词+粒子+介词；几乎不可分离 | put up with, look forward to |
+
+##### 代词规则一口诀
+
+```
+// 代码块
+名词两边都能放（看情况）
+代词必须插中间（可分离）
+不可分离往后站（包括代词）
+双粒子的宾语永远在最后面
+
+```
+
+---
+
+## Part 2：粒子语义图谱与高频词表
+
+> 本文档系统梳理英语短语动词的核心粒子语义，并提供按场景分类的高频词表，适合系统性学习者建立完整知识体系。
+
+---
+
+### 概念5：高频粒子语义图谱
+
+---
+
+### 粒子 UP
+
+#### 核心空间/物理含义
+
+向上移动，从低处到高处（*stand up, lift up*）。
+
+#### 记忆口诀
+
+> **"UP = 向上、完成、激活、增加"** — 太阳升起，能量满格，事情做完。
+
+#### 引申语义方向
+
+| 语义方向 | 核心含义 | 理解要点 |
+| --- | --- | --- |
+| ① 完成/终结 | 动作彻底完成，没有剩余 | 往上到了头，无处可去 |
+| ② 增加/增强 | 数量、程度、强度上升 | 向上 = 增多 |
+| ③ 激活/出现 | 某事物从无到有，突然出现 | 从地面冒出来 |
+| ④ 向上/提升 | 位置或地位的物理/抽象上升 | 字面向上 |
+
+#### 代表性短语动词
+
+**① 完成/终结**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| finish up | 完成，结束 | *Let's finish up the project today.* |
+| use up | 用完，耗尽 | *We used up all the ink.* |
+| eat up | 吃光 | *The kids ate up everything on the plate.* |
+| drink up | 喝完 | *Drink up, we need to leave.* |
+| wrap up | 总结，收尾 | *Let's wrap up the meeting.* |
+| clean up | 打扫干净 | *Clean up your room before dinner.* |
+
+**② 增加/增强**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| turn up | 调大（音量/温度） | *Turn up the volume, I can't hear.* |
+| step up | 加强，提升 | *We need to step up our efforts.* |
+| build up | 积累，增强 | *She built up her confidence over time.* |
+| speed up | 加速 | *Can you speed up a bit?* |
+| pile up | 堆积，积累 | *Work is piling up on my desk.* |
+
+**③ 激活/出现**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| come up | 出现，被提到 | *An interesting topic came up in class.* |
+| show up | 出现，到场 | *He didn't show up for the meeting.* |
+| turn up | 突然出现 | *The missing keys turned up in my coat.* |
+| set up | 建立，搭建 | *They set up a new company last year.* |
+| start up | 启动，创办 | *She started up a small business.* |
+| pop up | 突然冒出 | *A notification popped up on my screen.* |
+
+**④ 向上/提升**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| move up | 晋升，向上移动 | *She moved up to a senior position.* |
+| look up | 查找；向上看；改善 | *Look up the word in the dictionary.* |
+| pick up | 捡起；接送；学会 | *Can you pick up the kids from school?* |
+| bring up | 提出；抚养 | *He was brought up in Shanghai.* |
+| get up | 起床，站起来 | *I get up at 7 every morning.* |
+
+---
+
+### 粒子 DOWN
+
+#### 核心空间/物理含义
+
+向下移动，从高处到低处（*sit down, fall down*）。
+
+#### 记忆口诀
+
+> **"DOWN = 向下、减少、压制、失败"** — 压下去，少下去，垮下去。
+
+#### 引申语义方向
+
+| 语义方向 | 核心含义 | 理解要点 |
+| --- | --- | --- |
+| ① 减少/降低 | 数量、程度、强度下降 | 向下 = 减少 |
+| ② 压制/控制 | 压住某人或某事 | 从上往下压 |
+| ③ 记录/固定 | 写下来，确定下来 | 落地、落纸 |
+| ④ 失败/崩溃 | 系统、关系、人的状态崩坏 | 倒下去 |
+
+#### 代表性短语动词
+
+**① 减少/降低**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| calm down | 冷静，平静下来 | *Calm down, everything will be fine.* |
+| slow down | 减速，放慢 | *Please slow down, you're driving too fast.* |
+| turn down | 调低；拒绝 | *Turn down the music, please.* |
+| cut down | 削减，减少 | *We need to cut down on expenses.* |
+| cool down | 冷却，降温 | *Let the engine cool down first.* |
+
+**② 压制/控制**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| hold down | 压制；保住（工作） | *He couldn't hold down a job.* |
+| keep down | 压低；抑制 | *Keep your voice down in the library.* |
+| put down | 放下；贬低，批评 | *Stop putting yourself down.* |
+| pin down | 确定；压制 | *It's hard to pin down exactly what went wrong.* |
+| shut down | 关闭，停止运转 | *The factory shut down last month.* |
+
+**③ 记录/固定**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| write down | 写下，记录 | *Write down your ideas before you forget.* |
+| note down | 记下，记录 | *Note down the key points.* |
+| jot down | 快速记下 | *Let me jot down your number.* |
+| set down | 记录，制定 | *The rules were set down in writing.* |
+| mark down | 标记；降价 | *All items are marked down this week.* |
+
+**④ 失败/崩溃**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| break down | 崩溃；故障；分解 | *The car broke down on the highway.* |
+| let down | 使失望 | *I don't want to let you down.* |
+| fall down | 跌倒；失败 | *The plan fell down at the last stage.* |
+| go down | 下降；（系统）崩溃 | *The website went down for an hour.* |
+| burn down | 烧毁，夷为平地 | *The old building burned down overnight.* |
+
+---
+
+### 粒子 OUT
+
+#### 核心空间/物理含义
+
+从内部向外部移动（*go out, come out*）。
+
+#### 记忆口诀
+
+> **"OUT = 外出、公开、消耗殆尽、彻底完成"** — 从里到外，全部出来，做到极致。
+
+#### 引申语义方向
+
+| 语义方向 | 核心含义 | 理解要点 |
+| --- | --- | --- |
+| ① 外出/离开 | 从某空间/状态出来 | 字面向外 |
+| ② 公开/发布 | 信息从内部向外扩散 | 向外传播 |
+| ③ 消耗/熄灭 | 能量、物质用尽；火焰熄灭 | 全部出去了，空了 |
+| ④ 彻底完成 | 动作做到极致，彻底 | 出到底，没有保留 |
+
+#### 代表性短语动词
+
+**① 外出/离开**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| go out | 出去；熄灭 | *Let's go out for dinner tonight.* |
+| get out | 出去，离开 | *Get out of the car slowly.* |
+| move out | 搬出 | *She moved out of her parents' house.* |
+| step out | 暂时外出 | *He stepped out for a moment.* |
+| pull out | 撤出；拔出 | *The troops pulled out of the region.* |
+
+**② 公开/发布**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| come out | 出版；公开；出柜 | *Her new book came out last week.* |
+| put out | 发布；扑灭 | *They put out a statement yesterday.* |
+| find out | 查明，发现 | *I need to find out what happened.* |
+| point out | 指出，说明 | *She pointed out several mistakes.* |
+| speak out | 公开发声，表态 | *He spoke out against the policy.* |
+
+**③ 消耗/熄灭**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| run out (of) | 用完，耗尽 | *We ran out of time.* |
+| wear out | 磨损；精疲力竭 | *These shoes are completely worn out.* |
+| burn out | 精疲力竭；烧毁 | *She burned out after working 80-hour weeks.* |
+| fade out | 渐渐消失 | *The music faded out slowly.* |
+| die out | 灭绝，消失 | *Many species are dying out.* |
+
+**④ 彻底完成**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| work out | 锻炼；解决；计算出 | *I worked out a solution to the problem.* |
+| sort out | 整理；解决 | *Let's sort out these issues first.* |
+| figure out | 想清楚，弄明白 | *I can't figure out how this works.* |
+| carry out | 执行，实施 | *They carried out the plan successfully.* |
+| fill out | 填写（表格） | *Please fill out this form.* |
+
+---
+
+### 粒子 OFF
+
+#### 核心空间/物理含义
+
+从表面分离、脱落（*fall off, take off*）。
+
+#### 记忆口诀
+
+> **"OFF = 分离、停止、出发、拒绝"** — 脱开了，断了，走了，不要了。
+
+#### 引申语义方向
+
+| 语义方向 | 核心含义 | 理解要点 |
+| --- | --- | --- |
+| ① 分离/移除 | 从某处脱落或被移除 | 字面脱开 |
+| ② 停止/关闭 | 能量、活动终止 | 断开连接 |
+| ③ 出发/起飞 | 开始移动，离开原地 | 脱离地面/原点 |
+| ④ 拒绝/厌恶 | 使人不舒服，拒绝 | 推开对方 |
+
+#### 代表性短语动词
+
+**① 分离/移除**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| take off | 脱下（衣物）；起飞 | *Take off your shoes at the door.* |
+| cut off | 切断；隔绝 | *The storm cut off our power supply.* |
+| break off | 折断；中断 | *They broke off their engagement.* |
+| tear off | 撕掉 | *Tear off the label before washing.* |
+| come off | 脱落；成功 | *The handle came off in my hand.* |
+
+**② 停止/关闭**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| turn off | 关掉（电器） | *Turn off the lights when you leave.* |
+| switch off | 关闭，断电 | *Switch off your phone during the exam.* |
+| put off | 推迟 | *Don't put off till tomorrow what you can do today.* |
+| call off | 取消 | *The game was called off due to rain.* |
+| lay off | 解雇；停止 | *The company laid off 200 workers.* |
+
+**③ 出发/起飞**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| set off | 出发，启程 | *We set off early to avoid traffic.* |
+| head off | 出发；阻止 | *They headed off at dawn.* |
+| take off | 起飞；迅速发展 | *The plane took off on time.* |
+| go off | 离开；（闹钟）响起；爆炸 | *The alarm went off at 6 AM.* |
+| run off | 跑掉，逃跑 | *The thief ran off before the police arrived.* |
+
+**④ 拒绝/厌恶**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| put off | 使反感，令人扫兴 | *His rude attitude put me off.* |
+| brush off | 不理睬，敷衍 | *She brushed off my concerns.* |
+| fend off | 挡开，抵御 | *He tried to fend off the criticism.* |
+| shake off | 摆脱，甩掉 | *I can't shake off this cold.* |
+| fight off | 抵抗，击退 | *Her body is fighting off the infection.* |
+
+---
+
+### 粒子 ON
+
+#### 核心空间/物理含义
+
+接触、附着在表面上（*put on, sit on*）。
+
+#### 记忆口诀
+
+> **"ON = 接触、继续、激活、针对"** — 贴上去，开起来，继续走，专注盯。
+
+#### 引申语义方向
+
+| 语义方向 | 核心含义 | 理解要点 |
+| --- | --- | --- |
+| ① 继续/进行 | 动作持续不停 | 一直接触，一直运行 |
+| ② 激活/开启 | 设备或活动开始运转 | 连上电，动起来 |
+| ③ 附着/穿上 | 物理接触，套在身上 | 贴上去 |
+| ④ 针对/关于 | 聚焦某目标或话题 | 锁定，注意力集中 |
+
+#### 代表性短语动词
+
+**① 继续/进行**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| carry on | 继续 | *Carry on with your work.* |
+| go on | 继续；发生 | *What's going on here?* |
+| keep on | 持续做某事 | *Keep on trying, you'll succeed.* |
+| hold on | 坚持；等一下 | *Hold on, I'll be right back.* |
+| press on | 坚持前进 | *Despite difficulties, they pressed on.* |
+
+**② 激活/开启**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| turn on | 打开（电器）；激起兴趣 | *Turn on the TV, please.* |
+| switch on | 打开，启动 | *Switch on the lights.* |
+| come on | 加油；（设备）开启 | *Come on, you can do it!* |
+| log on | 登录 | *Log on to your account first.* |
+
+**③ 附着/穿上**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| put on | 穿上；增加（体重） | *Put on your coat, it's cold outside.* |
+| try on | 试穿 | *Can I try on these shoes?* |
+| hang on | 挂着；等待；抓住 | *Hang on tight!* |
+
+**④ 针对/关于**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| focus on | 专注于 | *Let's focus on the main issue.* |
+| work on | 致力于，努力改进 | *She's working on her English.* |
+| take on | 承担；雇用；对抗 | *He took on too much work.* |
+| pick on | 针对，欺负 | *Stop picking on your little sister.* |
+| count on | 依靠，指望 | *You can always count on me.* |
+
+---
+
+### 粒子 IN
+
+#### 核心空间/物理含义
+
+进入某个封闭空间（*come in, go in*）。
+
+#### 记忆口诀
+
+> **"IN = 向内、参与、深陷、包含"** — 进去，卷进去，陷进去，融进去。
+
+#### 引申语义方向
+
+| 语义方向 | 核心含义 | 理解要点 |
+| --- | --- | --- |
+| ① 向内/进入 | 物理或抽象地进入 | 字面进入 |
+| ② 参与/加入 | 成为某群体或活动的一部分 | 进入圈子 |
+| ③ 陷入/困于 | 陷入困境或无法逃脱的状态 | 进去出不来 |
+| ④ 提交/交入 | 把某物递交给某机构或人 | 送进去 |
+
+#### 代表性短语动词
+
+**① 向内/进入**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| come in | 进来 | *Come in, the door is open.* |
+| get in | 进入；到达 | *What time did you get in last night?* |
+| move in | 搬入 | *They moved in last week.* |
+| check in | 登记入住；报到 | *We need to check in by 3 PM.* |
+| break in | 闯入；打断 | *Someone broke in last night.* |
+
+**② 参与/加入**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| join in | 参与，加入 | *Everyone joined in the celebration.* |
+| take in | 吸收；欺骗；收容 | *It's a lot of information to take in.* |
+| fit in | 融入，适应 | *She found it hard to fit in at first.* |
+| bring in | 引进；挣钱；逮捕 | *The new policy brought in many changes.* |
+| opt in | 选择参与 | *You can opt in to receive updates.* |
+
+**③ 陷入/困于**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| cave in | 塌陷；屈服 | *The roof caved in under the snow.* |
+| give in | 屈服，让步 | *Don't give in to pressure.* |
+| sink in | （话语）被理解；渗入 | *The news took a while to sink in.* |
+| lock in | 锁定；使无法改变 | *We're locked in to this contract.* |
+
+**④ 提交/交入**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| hand in | 上交，提交 | *Please hand in your homework tomorrow.* |
+| turn in | 上交；就寝 | *I turned in my report early.* |
+| send in | 寄入，提交 | *Send in your application before Friday.* |
+| put in | 投入；提出（申请） | *She put in a lot of effort.* |
+| fill in | 填写；代替 | *Fill in the blanks.* |
+
+---
+
+### 粒子 BACK
+
+#### 核心空间/物理含义
+
+向后方、向原来位置移动（*go back, step back*）。
+
+#### 记忆口诀
+
+> **"BACK = 返回原点、退后一步、报复还击、恢复原状"** — 回头，退后，还击，复原。
+
+#### 代表性短语动词
+
+**① 返回/回到**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| go back | 返回，回去 | *I want to go back to my hometown.* |
+| come back | 回来 | *When will you come back?* |
+| get back | 返回；取回；回复 | *I'll get back to you on that.* |
+| look back | 回顾，回忆 | *Looking back, I made the right choice.* |
+
+**② 退后/克制**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| step back | 退后；暂时撤出 | *Let's step back and look at the big picture.* |
+| hold back | 克制；阻止；隐瞒 | *She held back her tears.* |
+| pull back | 撤退；克制 | *The company pulled back from the deal.* |
+| fall back | 后退；依赖（备选方案） | *We can fall back on our savings.* |
+
+**③ 报复/还击**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| fight back | 反击，还击 | *She fought back against the bullies.* |
+| hit back | 回击，反驳 | *The company hit back at the criticism.* |
+| pay back | 偿还；报复 | *I'll pay you back someday.* |
+
+**④ 支持/支撑**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| back up | 备份；支持；倒车 | *Back up your files regularly.* |
+| back off | 退缩；停止骚扰 | *Back off, I need some space.* |
+
+---
+
+### 粒子 AWAY
+
+#### 核心空间/物理含义
+
+离开当前位置，移向远处（*go away, walk away*）。
+
+#### 记忆口诀
+
+> **"AWAY = 离开这里、渐渐消失、持续不断"** — 走了，消了，一直做。
+
+#### 代表性短语动词
+
+**① 离开/远离**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| go away | 离开；消失 | *Go away, I need to think.* |
+| get away | 逃脱；离开度假 | *The suspect got away.* |
+| run away | 逃跑；私奔 | *Don't run away from your problems.* |
+| walk away | 离开；（轻易）获得 | *She walked away from the accident unharmed.* |
+
+**② 消失/消散**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| fade away | 逐渐消失 | *The music faded away into silence.* |
+| die away | 渐渐消失（声音、感情） | *The laughter died away.* |
+| melt away | 消融；（情绪）消散 | *Her anxiety melted away.* |
+
+**③ 持续/不停**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| work away | 持续工作 | *He was working away at his desk.* |
+| chip away | 不断削减；慢慢进展 | *Keep chipping away at the problem.* |
+
+**④ 收藏/放置**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| put away | 收好，放回原处 | *Put away your toys when you're done.* |
+| throw away | 扔掉，丢弃 | *Don't throw away that receipt.* |
+| lock away | 锁起来保存 | *The documents are locked away safely.* |
+
+---
+
+### 粒子 OVER
+
+#### 核心空间/物理含义
+
+越过某个障碍物（*jump over, climb over*）。
+
+#### 记忆口诀
+
+> **"OVER = 越过障碍、事情结束、重来一遍、全面覆盖"** — 翻过去，做完了，再来一次，覆盖全部。
+
+#### 代表性短语动词
+
+**① 越过/传递**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| hand over | 移交，交出 | *Hand over the documents.* |
+| take over | 接管；接手 | *She took over the project last month.* |
+| get over | 克服；从（病/失恋）恢复 | *It took months to get over the breakup.* |
+
+**② 结束/完成**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| blow over | （风波）平息 | *The scandal will blow over eventually.* |
+| tide over | 渡过难关 | *Can you lend me money to tide me over?* |
+
+**③ 重复/再来**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| go over | 复习；检查 | *Go over your notes before the exam.* |
+| start over | 重新开始 | *After the failure, she started over.* |
+| run over | 复习；超时；撞倒 | *Let's run over the key points again.* |
+
+**④ 控制/覆盖**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| win over | 说服，赢得（支持） | *She won over the skeptical audience.* |
+| watch over | 看守，照管 | *The guard watched over the prisoners.* |
+
+---
+
+### 粒子 THROUGH
+
+#### 核心空间/物理含义
+
+穿过某个空间或障碍物（*walk through, break through*）。
+
+#### 记忆口诀
+
+> **"THROUGH = 穿越阻碍、坚持完成、彻底渗透"** — 穿过去，做到底，全面透透的。
+
+#### 代表性短语动词
+
+**① 穿过/经历**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| go through | 经历；检查；通过 | *She went through a tough divorce.* |
+| get through | 通过；联系上；撑过 | *I can't get through to him by phone.* |
+| see through | 看穿；坚持到底 | *I can see through your lies.* |
+
+**② 完成/结束**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| follow through | 贯彻到底，完成 | *You need to follow through on your promises.* |
+| pull through | 渡过难关，康复 | *The patient pulled through the surgery.* |
+| work through | 逐步解决；消化（情绪） | *It takes time to work through grief.* |
+
+**③ 彻底/透彻**
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| think through | 深思熟虑 | *Think through the consequences first.* |
+| talk through | 详细讨论；引导解决 | *Let's talk through the options.* |
+| read through | 通读，从头读到尾 | *Read through the contract carefully.* |
+
+---
+
+### 粒子速查卡
+
+| 粒子 | 核心记忆点 | 最典型用法 |
+| --- | --- | --- |
+| **UP** | 向上→完成、增加、激活 | finish up / build up / show up |
+| **DOWN** | 向下→减少、压制、崩溃 | calm down / break down / write down |
+| **OUT** | 向外→公开、消耗、彻底 | find out / run out / figure out |
+| **OFF** | 分离→停止、出发、拒绝 | turn off / set off / put off |
+| **ON** | 附着→继续、激活、针对 | carry on / turn on / focus on |
+| **IN** | 向内→参与、陷入、提交 | join in / give in / hand in |
+| **BACK** | 后方→返回、退后、报复 | go back / hold back / fight back |
+| **AWAY** | 远离→消失、持续、收藏 | go away / fade away / put away |
+| **OVER** | 越过→结束、重复、控制 | get over / go over / take over |
+| **THROUGH** | 穿透→经历、完成、彻底 | go through / follow through / think through |
+
+---
+
+### 概念6：按场景分类的高频词表
+
+> 共收录 **220+** 个高频短语动词，按6大场景分类，每条附中文释义和例句。
+
+---
+
+### 场景一：日常生活 🏠
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| get up | 起床，站起来 | *I get up at 7 every morning.* |
+| wake up | 醒来，叫醒 | *Wake up! You'll be late.* |
+| put on | 穿上，戴上 | *Put on your jacket.* |
+| take off | 脱下（衣物） | *Take off your shoes at the door.* |
+| throw away | 扔掉，丢弃 | *Throw away the old newspapers.* |
+| clean up | 打扫，收拾干净 | *Clean up after yourself.* |
+| run out of | 用完，耗尽 | *We've run out of milk.* |
+| pick up | 捡起；去接人 | *Pick up your clothes from the floor.* |
+| tidy up | 整理，收拾 | *Tidy up your room.* |
+| wash up | 洗碗；洗手 | *Let's wash up after dinner.* |
+| put away | 收好，放回原处 | *Put away your toys.* |
+| use up | 用完，耗尽 | *We used up all the shampoo.* |
+| heat up | 加热，热起来 | *Heat up the leftover pizza.* |
+| cool down | 冷却，凉下来 | *Let the soup cool down.* |
+| fill up | 加满；充满 | *Fill up the water bottle.* |
+| eat up | 吃光 | *Eat up your vegetables!* |
+| drink up | 喝完 | *Drink up your juice.* |
+| dress up | 盛装打扮 | *She dressed up for the party.* |
+| lie down | 躺下 | *Go lie down if you're tired.* |
+| sit down | 坐下 | *Please sit down.* |
+| stand up | 站起来 | *Everyone stood up when she entered.* |
+| turn off | 关掉（电器） | *Turn off the lights.* |
+| turn on | 打开（电器） | *Turn on the TV.* |
+| lock up | 锁好，关门 | *Lock up before you leave.* |
+| wake someone up | 叫醒某人 | *The noise woke me up.* |
+| go out | 外出，出门 | *Let's go out for a walk.* |
+| come in | 进来 | *Come in, the door's open.* |
+| drop off | 顺路送（人）；打瞌睡 | *Can you drop me off at the station?* |
+| pick someone up | 接某人 | *I'll pick you up at 8.* |
+
+---
+
+### 场景二：工作与学习 💼📚
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| take on | 承担；雇用 | *She took on too many projects.* |
+| hand in | 上交，提交 | *Hand in your assignment by Friday.* |
+| set up | 建立，成立，安排 | *We set up a new system.* |
+| follow up | 跟进，后续处理 | *I'll follow up on this tomorrow.* |
+| look into | 调查，研究 | *We'll look into the issue.* |
+| deal with | 处理，应对 | *How do you deal with stress?* |
+| come up with | 想出，提出（主意） | *She came up with a great idea.* |
+| carry out | 执行，实施 | *Carry out the instructions carefully.* |
+| work out | 制定；解决；锻炼 | *Work out a plan first.* |
+| look up | 查找（词典/资料） | *Look up the word in a dictionary.* |
+| figure out | 弄明白，解决 | *I can't figure out this equation.* |
+| go over | 复习；检查 | *Go over your notes before the exam.* |
+| catch up | 追上；补上进度 | *I need to catch up on my reading.* |
+| fall behind | 落后，跟不上 | *Don't fall behind in your studies.* |
+| keep up | 跟上，保持 | *It's hard to keep up with the news.* |
+| take up | 占用；开始学习 | *This task takes up too much time.* |
+| put off | 推迟，拖延 | *Don't put off your homework.* |
+| break down | 分解；（系统）崩溃 | *Break down the problem into steps.* |
+| write up | 写成报告，整理成文 | *Write up your findings.* |
+| draw up | 起草，制定 | *Draw up a contract.* |
+| fill in / fill out | 填写（表格） | *Fill in the application form.* |
+| sort out | 解决，整理 | *Sort out the filing system.* |
+| narrow down | 缩小范围 | *Narrow down your options.* |
+| rule out | 排除，否定 | *We can't rule out that possibility.* |
+| point out | 指出，说明 | *She pointed out the mistakes.* |
+| back up | 备份；支持 | *Back up your files daily.* |
+| check in | 签到；登记 | *Check in at the reception desk.* |
+| log in / log on | 登录 | *Log in with your email address.* |
+| log out | 登出，退出 | *Don't forget to log out.* |
+| sum up | 总结，概括 | *Sum up the main points.* |
+| think through | 深思熟虑 | *Think through the consequences.* |
+| follow through | 贯彻，坚持到底 | *Follow through on your commitments.* |
+| cut back on | 削减，减少 | *We need to cut back on spending.* |
+| bring up | 提出（话题） | *He brought up an interesting point.* |
+| run through | 快速过一遍；排练 | *Let's run through the presentation.* |
+| take over | 接管，接手 | *She took over the department.* |
+
+---
+
+### 场景三：人际关系 👥❤️
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| make up | 和好，言归于好；化妆 | *They argued but made up later.* |
+| fall out | 争吵；关系破裂 | *They fell out over money.* |
+| get on with | 与...相处；继续做 | *She gets on well with her colleagues.* |
+| look up to | 敬仰，尊重 | *I've always looked up to my father.* |
+| put down | 贬低，批评 | *Stop putting others down.* |
+| stand by | 支持；信守（承诺） | *I'll stand by you no matter what.* |
+| catch up with | 与...叙旧；追上 | *Let's catch up with old friends.* |
+| look after | 照顾，照料 | *Can you look after my cat?* |
+| break up (with) | 分手；结束 | *They broke up after three years.* |
+| go out (with) | 与...约会，交往 | *She's been going out with Tom for a year.* |
+| ask out | 约（某人）出去（约会） | *He finally asked her out.* |
+| get together | 聚会，团聚 | *Let's get together this weekend.* |
+| grow apart | 渐渐疏远 | *Old friends sometimes grow apart.* |
+| fall for | 爱上；上当 | *He fell for her instantly.* |
+| open up | 坦白，倾诉 | *It took her time to open up.* |
+| talk over | 讨论，商量 | *Talk it over with your partner.* |
+| let down | 使失望 | *I don't want to let you down.* |
+| count on | 依靠，指望 | *I can always count on you.* |
+| reach out (to) | 联系，伸出援手 | *Reach out if you need help.* |
+| check on | 查看，关心 | *Check on your elderly neighbors.* |
+| warm up to | 逐渐喜欢，接受 | *I warmed up to the idea.* |
+| drift apart | 渐渐疏远 | *We drifted apart after college.* |
+| take care of | 照顾；处理 | *Take care of yourself.* |
+| stick up for | 维护，支持 | *Stick up for your friends.* |
+
+---
+
+### 场景四：情感与状态 😊😔
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| calm down | 冷静，平静 | *Calm down, take a deep breath.* |
+| cheer up | 振作，高兴起来 | *Cheer up! Things will get better.* |
+| break down | 崩溃，痛哭 | *She broke down and cried.* |
+| give in | 屈服，让步 | *Don't give in to despair.* |
+| hold on | 坚持；等一下 | *Hold on, it'll be over soon.* |
+| let go | 放手，放开 | *Learn to let go of the past.* |
+| burn out | 精疲力竭，倦怠 | *Working too hard can lead to burnout.* |
+| wear out | 累垮；磨损 | *The long journey wore me out.* |
+| wind down | 放松，逐渐结束 | *I wind down by reading before bed.* |
+| stress out | （使）紧张，压力大 | *Don't stress out over small things.* |
+| freak out | 崩溃，极度焦虑 | *Don't freak out, it's just a test.* |
+| snap out of | 从（消极状态）振作出来 | *Snap out of it!* |
+| get down | 使沮丧；蹲下 | *Don't let it get you down.* |
+| perk up | 振作，精神起来 | *She perked up when she heard the news.* |
+| bottle up | 压抑（情感） | *Don't bottle up your feelings.* |
+| open up | 打开心扉，倾诉 | *He finally opened up about his fears.* |
+| work up | 激起（情绪）；逐步建立 | *She worked up the courage to speak.* |
+| dwell on | 老是想（负面的事） | *Don't dwell on past mistakes.* |
+| get over | 从（失落/疾病）恢复 | *You'll get over the breakup.* |
+| look forward to | 期待，盼望 | *I'm looking forward to the holiday.* |
+| settle down | 安定下来；冷静 | *Settle down, class!* |
+
+---
+
+### 场景五：移动与行动 🚶✈️
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| go back | 返回，回去 | *Let's go back to the hotel.* |
+| head off | 出发；阻止 | *We headed off early in the morning.* |
+| set out | 出发，开始（旅程/任务） | *They set out at dawn.* |
+| turn around | 转身；掉头 | *Turn around, you're going the wrong way.* |
+| drop by | 顺道拜访 | *Drop by anytime you're in the area.* |
+| pull over | 把车靠边停 | *The police asked him to pull over.* |
+| move on | 继续前进；放下过去 | *It's time to move on.* |
+| get around | 四处走动；绕过 | *It's easy to get around by bike.* |
+| come across | 偶然遇到 | *I came across this book at a flea market.* |
+| run into | 偶然碰到；撞上 | *I ran into an old friend yesterday.* |
+| show up | 出现，到场 | *He showed up two hours late.* |
+| head out | 出发，离开 | *We're heading out now.* |
+| take off | 起飞；出发 | *The plane took off at noon.* |
+| speed up | 加速 | *Speed up, we're running late.* |
+| slow down | 减速 | *Slow down, there's a school ahead.* |
+| hang around | 在附近徘徊；等候 | *We hung around for an hour.* |
+| hurry up | 快点，赶快 | *Hurry up or we'll miss the bus.* |
+| set off | 出发；引发 | *We set off on our journey.* |
+| fall behind | 落后 | *The group fell behind schedule.* |
+| cut through | 抄近路穿过 | *Cut through the park to save time.* |
+
+---
+
+### 场景六：变化与结果 🔄📈
+
+| 短语动词 | 中文释义 | 例句 |
+| --- | --- | --- |
+| turn into | 变成，转变为 | *The caterpillar turned into a butterfly.* |
+| end up | 最终变成，最终处于 | *We ended up staying three extra days.* |
+| break up | 分裂；分手；打碎 | *The ice broke up in spring.* |
+| build up | 积累，增强 | *Build up your vocabulary daily.* |
+| wear off | （效果）消退，渐渐消失 | *The painkillers are wearing off.* |
+| die down | （风、情绪）平息 | *The excitement died down.* |
+| grow into | 成长为；逐渐适应 | *She grew into a confident speaker.* |
+| fall apart | 崩溃，瓦解 | *Their marriage fell apart.* |
+| pick up | 好转，恢复 | *Business is picking up.* |
+| come around | 改变立场；恢复意识 | *He'll come around eventually.* |
+| work out | 顺利解决；锻炼 | *Everything worked out in the end.* |
+| pan out | 结果如何，成功 | *The plan didn't pan out.* |
+| pile up | 堆积，积累 | *Problems are piling up.* |
+| fade away | 逐渐消失，衰退 | *The pain slowly faded away.* |
+| take off | 起飞；迅速发展 | *Her career really took off.* |
+| catch on | 流行起来；理解 | *The trend quickly caught on.* |
+| die out | 灭绝，消失 | *These traditions are dying out.* |
+| phase out | 逐步淘汰 | *The old model will be phased out.* |
+| scale up | 扩大规模 | *We plan to scale up production.* |
+| break through | 突破，打破 | *She broke through the glass ceiling.* |
+| taper off | 逐渐减少，趋于平缓 | *Sales tapered off in December.* |
+| give way to | 让位于，被...取代 | *Old habits gave way to new ones.* |
+
+---
+
+## Part 3：学习策略、正式度与「猜意思」系统
+
+> **本篇定位**：这是短语动词系列的第三部分，聚焦三个核心主题：**怎么学**（记忆与习得策略）、**什么场合用**（正式度光谱）、以及最重要的——**怎么猜**（三层解码系统）。最后一部分是本指南的核心亮点，掌握它，你将获得一把能打开大多数短语动词的万能钥匙。
+
+---
+
+### 概念7：学习与记忆策略
+
+#### 7.1 三种记忆路径的对比：粒子 vs 动词 vs 场景
+
+很多学习者面临一个困惑：到底该怎么"组织"自己对短语动词的记忆？按字母顺序（词典式）？按动词分类（put系/get系）？按粒子分类（所有带up的）？还是按使用场景？
+
+答案并非一刀切，而是**三种路径各有用武之地，应该配合使用**。
+
+##### 按粒子记忆（Particle-first）
+
+**核心思路**：把同一个粒子的短语动词归为一组，理解粒子的核心语义，然后触类旁通。
+
+| 优点 | 缺点 |
+| --- | --- |
+| 能建立语义网络，理解底层逻辑 | 粒子多义，容易混淆（up 就有10多种含义） |
+| 适合学习"猜意思"能力 | 不贴近实际使用场景，产出时不易激活 |
+| 一次学多个，效率高 | 初学者容易过度概括 |
+
+**适合人群**：中级以上，已有基础词汇量，想建立系统性理解的学习者。
+
+##### 按动词记忆（Verb-first）
+
+**核心思路**：以一个高频动词为核心，系统学习它的所有常见搭配。
+
+| 优点 | 缺点 |
+| --- | --- |
+| 贴近词汇学习习惯，容易系统化 | 动词家族庞大，如 get 有100+搭配，容易信息过载 |
+| 能深入理解动词的语义扩展逻辑 | 各动词之间没有横向联系 |
+| 配合语境例句效果极好 | 需要花大量时间逐个突破 |
+
+**适合人群**：任何阶段都适用，建议从最高频10个动词（get/put/take/make/go/come/turn/set/bring/give）开始。
+
+##### 按场景记忆（Context/Situation-first）
+
+**核心思路**：不按语言学逻辑，而是按"生活场景"组织词汇。
+
+| 优点 | 缺点 |
+| --- | --- |
+| 最贴近真实使用，产出时最容易激活 | 不系统，可能遗漏很多词 |
+| 记忆结合情境，保留率高 | 跨场景词汇难以迁移 |
+| 适合备考（雅思/托福口语话题准备） | 需要大量材料支持 |
+
+**适合人群**：初级至中级，目标是日常口语交流的学习者。
+
+---
+
+##### 🏆 最优策略：三层叠加法
+
+```
+// 代码块
+[阶段1: 场景入门] ──→ 在真实语境中积累常用词，建立感性认知
+       ↓
+[阶段2: 动词深耕] ──→ 系统攻克高频动词家族，建立语义地图
+       ↓
+[阶段3: 粒子通透] ──→ 理解底层逻辑，获得"猜意思"能力
+
+```
+
+---
+
+#### 7.2 语境记忆法：为什么死背不如在语境中遇到
+
+##### 认知科学的解释
+
+死记硬背（rote memorization）的核心问题在于：**你记住的是孤立的符号，而不是有意义的网络节点**。
+
+大脑的记忆系统倾向于存储**有情感、有关联、有预测价值**的信息。一个孤立的词义（put off = 推迟）没有触发点，会迅速衰减。但如果你在一部剧里听到角色说 "I can't keep putting this off — I need to tell her the truth"，这个短语就锚定了情感、情节、人物，形成了强记忆痕迹。
+
+##### 语境记忆的五大优势
+
+| 优势 | 解释 |
+| --- | --- |
+| **语义精确性** | 语境帮你理解词的细微用法，死背给的是词典定义，语境给的是真实用法 |
+| **搭配信息** | 你顺带学到了它的常见搭配（put off + decision/meeting/telling sb） |
+| **正式度感知** | 你能感受到这个词用在什么场合（口语/书面/正式/非正式） |
+| **记忆巩固** | 丰富的语境激活更多脑区，形成多重编码（dual coding theory） |
+| **情绪加成** | 有情节有人物的语境自带情绪标记，情绪是记忆的催化剂 |
+
+##### 实践方法：ICAP原则
+
+```
+// 代码块
+Interactive（互动产出）
+    > Constructive（主动构建）
+        > Active（主动搜索）
+            > Passive（被动接收）
+
+```
+
+**推荐做法：例句优先原则**
+
+❌ 不推荐的记忆卡片：
+
+```
+// 代码块
+正面：put off
+背面：推迟
+
+```
+
+✅ 推荐的记忆卡片：
+
+```
+// 代码块
+正面：I've been putting off this conversation for weeks.
+      （我拖了好几周没和他谈这件事）
+      → put off = ?
+背面：推迟、拖延（某件令人不快或困难的事）
+      常用搭配：put off + 动名词/名词/人（Let's not put it off any longer.）
+      语感：口语化，带有"因为不想做而拖延"的含义
+
+```
+
+---
+
+#### 7.3 主动产出练习：从"认识"到"会用"
+
+##### 五级产出训练体系
+
+```
+// 代码块
+Level 1: 填空（被动辨认）
+  → "She _____ her job offer after reading the contract." (turned down)
+
+Level 2: 配对替换（辨认→切换）
+  → 把以下句子改写成短语动词版本：
+    "He postponed the meeting." → "He put off the meeting."
+
+Level 3: 造句（主动产出）
+  → 用 "bring up" 造一个关于家庭对话的句子
+
+Level 4: 对话写作（语境产出）
+  → 写一段3-5句的对话，自然使用至少3个短语动词
+
+Level 5: 自由表达（自动化产出）
+  → 在日记、邮件、英语聊天中不刻意使用，观察是否自然脱口而出
+
+```
+
+##### 实践技巧：替换法
+
+在输出时刻意**用短语动词替换正式单词**，这是激活被动词汇的最快方式：
+
+| 你想说 | 用单词 | 练习：改成短语动词 |
+| --- | --- | --- |
+| 我想提出一个问题 | mention/raise | bring up |
+| 这次会议取消了 | cancel | call off |
+| 他今天没来上班 | absent | didn't show up |
+| 我们需要忍受这个 | tolerate | put up with |
+| 她放弃了她的梦想 | abandon | gave up on |
+
+---
+
+#### 7.4 分级学习路径
+
+##### 初级（A2-B1）：生存词汇，约150个
+
+**目标**：能听懂日常对话，能说日常生活话题
+
+**必掌握类别**（各举5例）：
+
+| 类别 | 例词 |
+| --- | --- |
+| 基本行动 | get up, sit down, stand up, pick up, put down |
+| 移动/方向 | come in, go out, come back, go away, turn around |
+| 日常生活 | wake up, go to bed, turn on/off, look for, find out |
+| 基本沟通 | call back, hang up, show up, bring up, talk about |
+| 简单变化 | grow up, calm down, slow down, speed up, cheer up |
+
+##### 中级（B1-B2）：核心词汇，约400个（累计）
+
+以 `get` 为例——中级必会清单：
+
+| 短语动词 | 核心含义 | 例句 |
+| --- | --- | --- |
+| get up | 起床/上升 | I get up at 7 every day. |
+| get out | 出去/逃脱 | Get out of here! |
+| get in | 进入/到达 | What time does your flight get in? |
+| get on | 上车/进展 | How are you getting on at work? |
+| get off | 下车/开始 | Get off your phone! |
+| get over | 克服/恢复 | It took months to get over the breakup. |
+| get through | 通过/度过/联系 | I can't get through to him on the phone. |
+| get along | 相处融洽 | Do you get along with your boss? |
+| get away | 逃脱/休假 | We need to get away for the weekend. |
+| get back | 回来/归还/报复 | I'll get back to you by Friday. |
+| get down | 沮丧/记录 | This weather really gets me down. |
+| get into | 进入/对…感兴趣 | She's really getting into yoga lately. |
+| get ahead | 取得进步 | You need to work hard to get ahead. |
+| get across | 传达清楚 | Did I get my point across? |
+| get away with | 逃脱惩罚 | He got away with lying for years. |
+
+##### 高级（B2-C1+）：精细调控，约700个（累计）
+
+**高级学习重点**：
+
+1. **同义辨析**：hold back vs. put off vs. delay 的微妙差异
+2. **语域切换**：同一意思在邮件、口语、熟人对话中的不同表达
+3. **隐喻延伸**：fall apart（物体散落）→ 关系破裂/情绪崩溃
+4. **搭配精确性**：bring about + change/reform/revolution（常与大词搭配）
+
+---
+
+#### 7.5 推荐资源
+
+##### 📚 书籍
+
+| 书名 | 作者 | 适合级别 | 特点 |
+| --- | --- | --- | --- |
+| *English Phrasal Verbs in Use* (Intermediate) | Michael McCarthy & Felicity O'Dell | B1-B2 | 剑桥出品，单元化学习，语境丰富，有练习题 |
+| *English Phrasal Verbs in Use* (Advanced) | Michael McCarthy & Felicity O'Dell | C1+ | 同系列高级版，覆盖正式语域和细微差别 |
+| *Phrasal Verbs Organiser* | Jon Wright | B1-C1 | 按主题+粒子双维度组织，适合系统整理 |
+| *Oxford Phrasal Verbs Dictionary* | — | 所有级别 | 权威工具书，例句丰富，搭配详尽 |
+
+##### 📱 App / 在线工具
+
+| 工具 | 类型 | 特点 |
+| --- | --- | --- |
+| **Anki** | 间隔重复 | 自建卡片，语境+图片+音频，最强记忆巩固工具 |
+| **Phrasal Verb Demon** | 专用词典 | 专门针对短语动词，例句极丰富，有搭配信息 |
+| **Ludwig.guru** | 语料搜索 | 搜索任意短语动词，看真实英语句子的使用语境 |
+| **Youglish.com** | 视频语境 | 搜索短语动词，直接看真人在真实视频中怎么说 |
+| **BBC Learning English** | 免费内容 | 有专门的短语动词系列，视频+文字，B1-B2 |
+
+##### 🎧 输入材料推荐（以短语动词密度高著称）
+
+| 类型 | 推荐 | 原因 |
+| --- | --- | --- |
+| 美剧 | Friends, Modern Family, The Office | 日常口语，短语动词密度极高 |
+| 播客 | The Daily, How I Built This | 自然语速，丰富语境 |
+| YouTube | Vlog类频道 | 非正式口语，大量短语动词 |
+| 小说 | 轻度文学（如 Nick Hornby 系列） | 口语化叙事，自然使用 |
+
+---
+
+### 概念8：正式 vs 非正式（扩展B）
+
+#### 8.1 语域光谱
+
+短语动词在**口语中出现频率是书面语的3-4倍**，但这并不意味着它们不能出现在书面语中。
+
+```
+// 代码块
+【非正式口语】←─────────────────────────────→【正式书面】
+
+  hang out     |  bring up  |  point out  |  carry out
+  mess around  |  find out  |  set up     |  put forward
+  freak out    |  give up   |  follow up  |  come about
+
+```
+
+---
+
+#### 8.2 主要用于口语/非正式场合的短语动词
+
+| 短语动词 | 含义 | 为什么不正式 |
+| --- | --- | --- |
+| hang out | 闲逛、待在一起 | 过于口语化，无正式替换意义 |
+| freak out | 极度紧张/崩溃 | 俚语色彩强 |
+| mess up | 搞砸 | 带轻微贬义的口语词 |
+| chicken out | 临阵退缩 | 动物隐喻，非正式 |
+| bail out | 放弃/救助 | 在"放弃"义上是俚语 |
+| blow up | 大发脾气 | 情绪化口语用法 |
+| chill out | 冷静/放松 | 年轻人口语 |
+| pig out | 暴饮暴食 | 贬义口语 |
+| show off | 炫耀 | 带贬义色彩 |
+| crack up | 大笑/精神崩溃 | 非正式 |
+| veg out | 发呆放松 | 俚语 |
+| goof off | 偷懒 | 美式非正式 |
+
+---
+
+#### 8.3 在正式书面英语中也完全可用的短语动词
+
+| 短语动词 | 正式替换词 | 在正式文体中的例句 |
+| --- | --- | --- |
+| carry out | conduct/execute | The researchers **carried out** extensive experiments. |
+| point out | indicate/note | The report **points out** several key inconsistencies. |
+| set up | establish/create | A committee was **set up** to investigate the matter. |
+| bring about | cause/produce | Economic reforms **brought about** significant changes. |
+| come up with | devise/propose | The team **came up with** an innovative solution. |
+| find out | discover/ascertain | Investigators are trying to **find out** the cause. |
+| draw up | draft/formulate | A new policy was **drawn up** following the review. |
+| put forward | propose/suggest | Several arguments were **put forward** in support. |
+| look into | investigate/examine | The committee will **look into** the allegations. |
+| follow up | pursue/monitor | We will **follow up** on this issue next quarter. |
+| rule out | exclude/eliminate | The possibility has not been **ruled out**. |
+| call for | require/demand | The situation **calls for** immediate action. |
+
+---
+
+#### 8.4 短语动词 vs 正式单词：20组对比表
+
+| # | 短语动词 | 正式单词 | 中文义 | 语域建议 |
+| --- | --- | --- | --- | --- |
+| 1 | put off | postpone / defer | 推迟 | 口语用短语动词，书面用单词 |
+| 2 | give up | abandon / relinquish | 放弃 | 口语/书面均可，"放弃权利"用 relinquish |
+| 3 | find out | discover / ascertain | 发现/查明 | 口语用 find out，正式场合用 discover |
+| 4 | set up | establish / found | 建立 | 两者均可，set up 更口语 |
+| 5 | look into | investigate / examine | 调查 | 书面可用 look into（略正式） |
+| 6 | carry out | conduct / execute | 执行 | 两者均可用于正式文体 |
+| 7 | bring up | raise / mention | 提出 | 口语用 bring up，正式用 raise |
+| 8 | come up with | devise / develop | 想出/提出 | 口语偏多，报告中也可 |
+| 9 | go on | continue / persist | 继续 | 口语用 go on，正式用 continue |
+| 10 | take in | comprehend / absorb | 理解/吸收 | 以 take in 为口语，正式用 comprehend |
+| 11 | get rid of | eliminate / remove | 消除 | 口语较多，正式用 eliminate |
+| 12 | point out | indicate / note | 指出 | 两者均常见于正式文本 |
+| 13 | break down | fail / collapse | 崩溃/失败 | 机械义两者均可，情感义多用口语 |
+| 14 | turn down | reject / decline | 拒绝 | 口语用 turn down，正式用 decline |
+| 15 | call off | cancel / abort | 取消 | 口语用 call off，正式用 cancel |
+| 16 | put forward | propose / submit | 提议 | put forward 本身就很正式 |
+| 17 | make up | constitute / fabricate | 构成/编造 | 多义，正式场合需明确选用单词 |
+| 18 | take over | assume / acquire | 接管 | 商业语境两者均用 |
+| 19 | deal with | address / handle | 处理 | deal with 在正式文本中也很常见 |
+| 20 | hold back | restrain / suppress | 抑制 | 情感义多口语，"抑制"正式用 suppress |
+
+##### 微妙区别举例
+
+- **give up** vs **abandon**：give up 更强调"主动放弃，通常因为太难"；abandon 更中性，也可指"被遗弃"
+- **put off** vs **postpone** vs **defer**：put off 含"因不情愿而拖延"；postpone 纯中性；defer 通常含"因尊重某人或某原因"
+- **find out** vs **discover**：find out 强调"经过调查/询问获知"；discover 强调"偶然发现或首次揭示"
+
+---
+
+### 概念9：「猜意思」系统（重点！）
+
+> **前言**：这是本指南最有价值的部分。掌握这套系统，你不再需要死背每一个短语动词的意思——你拥有了**解码**的能力。就像学会了偏旁部首，你不认识的汉字也能猜个八九不离十。
+
+这套系统分为**三层**，每一层都是推导意思的一把钥匙：
+
+1. **第一层**：动词的核心义（动作的本质是什么？）
+2. **第二层**：粒子的核心义（方向/状态/结果是什么？）
+3. **第三层**：介词的补充义（指向哪个对象/为了什么？）
+
+三层叠加，就像数学公式一样，大多数短语动词的意思都能从中推导出来。
+
+---
+
+#### 9.1 第一层：20个最高频动词的核心语义
+
+| 动词 | 核心义（1-2字） | 具体含义 | 记忆钩子 |
+| --- | --- | --- | --- |
+| **cut** | 切断/减少 | 物理切割 → 引申为"减少、中断、删除" | 刀切下去，分成两半 |
+| **put** | 放置/施加 | 把某物放到某个位置/状态 → 引申为"施加力量、使处于某状态" | 把东西搁在某处 |
+| **take** | 拿取/带走 | 从某处拿走/带走 → 引申为"接受、需要、承担" | 手伸出去拿 |
+| **get** | 获得/到达/变成 | 三重核心：获取 + 移动抵达 + 状态变化 | 最多义动词，状态变化是关键 |
+| **bring** | 带来/导致 | 把某物带向说话者 → 引申为"导致、造成、引入" | 把东西拎过来 |
+| **give** | 给予/放弃 | 把某物给出去 → 引申为"放弃、提供、产出" | 手放开，东西离开 |
+| **come** | 来/变成 | 向说话者移动 → 引申为"出现、变成某状态" | 靠近的动作 |
+| **go** | 去/变成 | 离开说话者 → 引申为"变成（通常是负面状态）、运作" | 离开的动作 |
+| **turn** | 转变/旋转 | 物理旋转 → 引申为"改变方向、变成、调节" | 旋钮转动 |
+| **break** | 打破/中断 | 使完整的东西裂开 → 引申为"中断、失败、突破" | 东西摔碎 |
+| **run** | 跑/耗尽/运作 | 快速移动 → 引申为"耗尽、运作、遭遇" | 腿动起来 |
+| **set** | 设置/开始 | 把东西安置到位 → 引申为"开始、触发、确定" | 棋子摆上棋盘 |
+| **make** | 制造/强迫 | 创造某物 → 引申为"强迫、构成、达成" | 手工制造 |
+| **keep** | 保持/继续 | 维持某种状态/位置 → 引申为"持续做某事、阻止" | 手握住不放 |
+| **hold** | 持有/等待 | 用手握着 → 引申为"等待、抑制、维持" | 手握住暂停 |
+| **let** | 允许/泄漏 | 不阻拦某事发生 → 引申为"泄露、使离开、允许" | 门开着，任其通过 |
+| **look** | 看/寻找 | 眼睛朝向某处 → 引申为"寻找、外表、期望" | 眼神投向目标 |
+| **pull** | 拉/实现 | 把某物拉向自己 → 引申为"实现（困难的事）、退出" | 用力向自己拉 |
+| **push** | 推/施压 | 把某物推离自己 → 引申为"施压、促进、继续" | 手推出去 |
+| **pick** | 选择/拾取 | 从多个中选一个/从地上捡起 → 引申为"批评、接人" | 手指精准夹取 |
+
+##### 动词核心义的推导力
+
+核心义让你能预测方向：
+
+- **go** + 任何粒子 → 大概率是状态变化（通常是负面）
+  - go bad（变质）、go wrong（出错）、go off（变质/爆炸）
+- **get** + 任何粒子 → 可能是"到达某状态"或"移动"
+  - get over（越过/恢复）、get through（通过/度过）
+- **break** + 任何粒子 → 可能是"中断"或"突破"
+  - break down（崩溃）、break out（爆发）、break through（突破）
+
+---
+
+#### 9.2 第二层：粒子的核心义（猜意思视角）
+
+##### 完整粒子解码表
+
+| 粒子 | 字面义 | 核心语义簇 | "猜意思"时想什么 |
+| --- | --- | --- | --- |
+| **up** | 向上 | ①完成/彻底 ②增加/积累 ③激活/出现 | 问：是做完了？还是升高了？还是突然出现？ |
+| **down** | 向下 | ①减少/减弱 ②固定/写下 ③抑制/失败 | 问：是减少了？还是被压制了？ |
+| **out** | 向外 | ①出现/公开 ②彻底/穷尽 ③排除/区分 | 问：是向外界暴露？还是做到穷尽？ |
+| **in** | 向内 | ①进入/加入 ②开始/投入 ③陷入 | 问：是进入某状态？还是被包含进去？ |
+| **off** | 分离 | ①脱离/断开 ②完成/出发 ③拒绝/取消 | 问：是切断了？还是出发了？还是拒绝了？ |
+| **on** | 附着/继续 | ①持续进行 ②附加/针对 ③开启状态 | 问：是还在继续？还是针对某个对象？ |
+| **back** | 往回 | ①返回原位 ②恢复原状 ③报复/回应 | 问：是往回走？还是恢复？还是反击？ |
+| **over** | 越过/覆盖 | ①越过/结束 ②覆盖/仔细检查 ③恢复 | 问：是越过困难？还是从头检查？ |
+| **through** | 穿过 | ①完成/结束 ②传达/联系 ③度过困难 | 问：是穿越完成了？还是信息传达了？ |
+| **away** | 离开 | ①离开/消失 ②持续（强调）③储存 | 问：是永久离开？还是在强调持续动作？ |
+| **around** | 环绕 | ①在周围转悠 ②规避 ③翻转 | 问：是在原地转？还是在绕开什么？ |
+| **along** | 沿着 | ①同行/陪伴 ②同意/配合 | 问：是一起走？还是表示配合？ |
+| **forward** | 向前 | ①进展 ②传递/转发 ③期待 | 问：是往前推进？还是转交给别人？ |
+
+##### 重点粒子深度解析
+
+`**up——最多义粒子详解**`
+
+```
+// 代码块
+UP的三种模式：
+
+模式A：完成/彻底（最常见）
+  eat up = 吃完（彻底吃干净）
+  use up = 用完（彻底用光）
+  finish up = 完全结束
+  clean up = 彻底清理
+  → 识别特征：动词本身可以独立使用，up 强调"到头了"
+
+模式B：增加/积累
+  build up = 积累起来
+  pile up = 堆积
+  add up = 累加
+  save up = 存起来
+  → 识别特征：动词有"渐进"含义，up 强调"越来越多"
+
+模式C：激活/出现/提升
+  wake up = 唤醒（从睡着到清醒）
+  cheer up = 振奋（情绪提升）
+  show up = 出现（从不在场到在场）
+  come up = 出现/提出（从无到有）
+  → 识别特征：从某种"低/无"状态进入"高/有"状态
+
+```
+
+`**out——"彻底"与"公开"的双面粒子**`
+
+```
+// 代码块
+OUT的两种模式：
+
+模式A：彻底/穷尽（强化动作）
+  burn out = 彻底燃尽 → 精疲力竭
+  wear out = 彻底磨损 → 耗尽精力
+  die out = 彻底消亡 → 灭绝
+  → 识别特征：强调"做到极致/结束"
+
+模式B：向外公开/产出
+  come out = 出来 → 公开（出柜/出版/发布）
+  find out = 向外找到 → 发现真相
+  speak out = 向外说 → 公开表达
+  point out = 指向外 → 指出
+  → 识别特征：某事从"内部"进入"外部/公众视野"
+
+```
+
+`**off——最多含义之一，记住"脱离"核心**`
+
+```
+// 代码块
+OFF的核心 = 脱离/分离
+
+引申1：取消/拒绝（脱离原计划）
+  call off = 取消
+  turn off = 关闭（切断电流）
+  put off = 推迟（脱离原定时间）
+
+引申2：出发/离开（脱离当前位置）
+  set off = 出发（from here）
+  take off = 起飞（fly & leave）
+  go off = 离开/出发
+
+引申3：完成/成功（完成后脱离任务）
+  finish off = 完全结束
+  pay off = 还清（脱离债务）
+  pull off = 成功实现（从困难中脱离出来）
+
+引申4：变质/爆炸（控制脱离正常）
+  go off = 食物变质/炸弹爆炸
+  set off = 触发（警报）
+
+```
+
+---
+
+#### 9.3 第三层：介词的补充义
+
+当短语动词变成**双粒子结构**（动词 + 粒子 + 介词），介词扮演的是**定向/对象化**的角色：它把行动的方向或对象明确指向某个具体目标。
+
+##### 各介词的补充语义
+
+| 介词 | 核心补充义 | 例子 |
+| --- | --- | --- |
+| **on** | 针对/涉及某具体对象 | cut back **on** spending（削减的是"支出"这件事） |
+| **for** | 目的/原因/替代 | make up **for** lost time（弥补的目的是"失去的时间"） |
+| **with** | 处理/容忍某对象 | put up **with** rudeness（忍受的对象是"粗鲁"） |
+| **to** | 方向/结果/面对 | look forward **to** the trip（期待的方向是"旅行"） |
+| **of** | 所属/涉及 | take care **of** someone（照顾的对象）; run out **of** = 从...中跑出来（耗尽） |
+| **into** | 进入某状态/深入 | get into **trouble**（进入"麻烦"这一状态） |
+| **from** | 来源/分离 | move on **from** （从某事/某段关系中走出来） |
+
+---
+
+#### 9.4 完整拆解示例：以 `cut back on` 为核心范本
+
+##### 📌 核心示例：`cut back on`
+
+**Step 1：识别各成分**
+
+```
+// 代码块
+cut   +   back   +   on
+动词      粒子       介词
+
+```
+
+**Step 2：逐层解码**
+
+```
+// 代码块
+第一层 → cut 的核心义：切断/减少
+
+第二层 → back 的核心义：往回/退后
+  back 暗示"撤退、回到更少的状态"
+
+组合推导：
+  cut（切断）+ back（往回）= cut back
+  = 向回切 = 削减（从多到少）
+
+字面画面：想象预算图表，画一刀向回切——数字减少了
+
+第三层 → on 的补充义：针对/涉及某具体对象
+  加上 on，表示"削减在...上的投入"
+
+最终意思：cut back on = 削减在某方面的投入/花费
+
+```
+
+**Step 3：推导验证**
+
+```
+// 代码块
+字面义：向回切，针对某事
+     ↓
+引申义：减少在某方面的花费/时间/精力
+     ↓
+实际用法：
+  - cut back on spending（削减开支）
+  - cut back on sugar（减少糖分摄入）
+  - cut back on working hours（减少工作时间）
+  - The company cut back on staff.（公司裁员）
+
+```
+
+**Step 4：对比近义词**
+
+- **cut back on** vs **reduce**：含义相同，cut back on 更口语，reduce 更正式
+- **cut back on** vs **cut down on**：几乎相同，cut down on 更强调"逐渐减少"的过程
+
+---
+
+#### 9.5 10个常见双粒子短语动词完整拆解
+
+##### 1. `look forward to`
+
+```
+// 代码块
+look（看/期待）+ forward（向前）+ to（方向）
+
+解码：
+  look forward = 眼睛向前看 = 期待（把视线投向未来）
+  + to = 朝向某个具体的目标/事件
+
+推导结果：期待（某事/做某事）
+
+⚠️ 注意：to 是介词，后接名词或动名词（-ing），不接动词原形
+  ✅ look forward to meeting you
+  ❌ look forward to meet you
+
+```
+
+##### 2. `put up with`
+
+```
+// 代码块
+put（放置/施加）+ up（向上/承受）+ with（处理/伴随）
+
+解码：
+  put up = 向上放/撑起来（忍着撑起这个重量）
+  + with = 处理/伴随（和某个麻烦事共处）
+
+推导结果：忍受/容忍（不愉快的事）
+
+典型用法：
+  I can't put up with this noise anymore.（我再也忍不了这噪音了）
+
+语感：带有"被迫忍受、很不情愿"的色彩，比 tolerate 更口语
+
+```
+
+##### 3. `come down with`
+
+```
+// 代码块
+come（来/变成）+ down（向下/降临）+ with（伴随）
+
+解码：
+  come down = 降下来（疾病从某处"降临"到人身上）
+  + with = 伴随着某种疾病
+
+推导结果：患上（某种疾病，通常是轻症）
+
+典型用法：
+  I think I'm coming down with a cold.（我觉得我要感冒了）
+  → 常用于进行时，描述"正在发展中"的状态
+
+```
+
+##### 4. `go along with`
+
+```
+// 代码块
+go（去/前进）+ along（沿着/陪同）+ with（伴随/处理）
+
+解码：
+  go along = 一起走/跟着走（不反对地跟随）
+  + with = 跟...一起
+
+推导结果：①同意/配合 ②陪同前往
+
+语感：带有"不一定完全赞同，但愿意配合"的含义
+
+```
+
+##### 5. `catch up on`
+
+```
+// 代码块
+catch（抓住/赶上）+ up（完成/达到）+ on（针对某具体事）
+
+解码：
+  catch up = 追上/赶上（从落后位置追到与别人相同的位置）
+  + on = 针对某件具体被落下的事情
+
+推导结果：补上/弥补（落下的工作/新闻/睡眠等）
+
+典型用法：
+  I need to catch up on my emails.（我需要把积压的邮件处理完）
+  I'm going to catch up on some sleep this weekend.（这周末我要好好补眠）
+
+```
+
+##### 6. `make up for`
+
+```
+// 代码块
+make（制造/弥补）+ up（完成/填补）+ for（目的/替代）
+
+解码：
+  make up = 凑成/填补（把缺少的部分造出来，让整体完整）
+  + for = 为了/替代（针对某个损失/不足，作为补偿）
+
+推导结果：弥补/补偿（某个损失或过错）
+
+典型用法：
+  Nothing can make up for the time we lost.
+  Hard work can make up for lack of talent.
+
+```
+
+##### 7. `get away with`
+
+```
+// 代码块
+get（到达/使自己处于某状态）+ away（离开/逃脱）+ with（带着/伴随）
+
+解码：
+  get away = 逃离/脱身
+  + with = 带着那个不当行为一起走
+
+推导结果：逃脱惩罚（带着那个不当行为全身而退）
+
+语感：带有"不公平/侥幸"的隐含色彩
+
+典型用法：
+  He got away with cheating on the test.
+  You won't get away with this!
+
+```
+
+##### 8. `keep up with`
+
+```
+// 代码块
+keep（保持/继续）+ up（持续状态/不落后）+ with（伴随/跟上）
+
+解码：
+  keep up = 维持在同一水平/不落后
+  + with = 跟着...（跟某人/某事保持同步）
+
+推导结果：跟上/跟得上（某人的速度/变化/潮流）
+
+典型用法：
+  I can't keep up with you — you walk too fast!
+  It's hard to keep up with the news these days.
+
+```
+
+##### 9. `run out of`
+
+```
+// 代码块
+run（跑/耗尽）+ out（向外/穷尽）+ of（来源/所属）
+
+解码：
+  run out = 跑出去/耗尽（东西从容器里跑出去，空了）
+  + of = 从...里（从那个储量中全部流失）
+
+推导结果：用完/耗尽（某种资源/供应）
+
+可用于具体物品和抽象概念（耐心、时间、想法）：
+  We've run out of milk.
+  I'm running out of ideas.
+  She ran out of patience.
+
+```
+
+##### 10. `give up on`
+
+```
+// 代码块
+give（给予/放弃）+ up（完全/彻底）+ on（针对/关于某具体对象）
+
+解码：
+  give up = 放弃（把手里的东西彻底给出去，不再持有）
+  + on = 针对某个具体的人或目标
+
+推导结果：放弃对某人/某事的希望或努力
+
+区分：
+  give up（泛指放弃）vs give up on（放弃某个具体的人/目标，更有针对性和感情色彩）
+
+典型用法：
+  Don't give up on me.（别放弃我。）
+  She gave up on her dream of becoming a singer.
+
+```
+
+---
+
+#### 9.6 系统化速查：三层解码流程图
+
+当你遇到一个不认识的短语动词时，走这个流程：
+
+```
+// 代码块
+遇到陌生短语动词
+       │
+       ▼
+【第一步：识别结构】
+   是单粒子？双粒子？
+       │
+   ┌───┴───┐
+单粒子     双粒子
+   │         │
+   ▼         ▼
+【解码动词核心义】   【解码动词核心义】
+       │                    │
+       ▼                    ▼
+【解码粒子核心义】   【解码粒子+介词补充义】
+       │                    │
+       ▼                    ▼
+【合并推导意思】     【合并推导意思】
+       │                    │
+       └─────────┬──────────┘
+                 ▼
+         【语境验证】
+          代入句子，是否说得通？
+            │
+         ┌──┴──┐
+        说得通  说不通
+            │      │
+            ▼      ▼
+         接受！   换一个粒子义再试
+
+```
+
+---
+
+#### 9.7 解码准确率提升技巧
+
+##### 技巧1：注意宾语线索
+
+宾语往往能帮你锁定正确的意思：
+
+- **pick up**：宾语是"人"→ 接/载某人；宾语是"技能"→ 学到；宾语是"语言"→ 习得
+- **go over**：宾语是"作业/文件"→ 仔细检查；没有宾语 → 转移到别处
+
+##### 技巧2：注意时态和语境情绪
+
+- **break down**（进行时）："The car is breaking down." → 正在出故障
+- **break down**（一般过去时 + 情感语境）："She broke down and cried." → 情绪崩溃
+
+##### 技巧3：警惕"假朋友"——字面义≠引申义的陷阱
+
+| 短语动词 | 字面推导（错误） | 实际意思 |
+| --- | --- | --- |
+| look up to | 向上看 | 尊敬某人（不是字面的向上看） |
+| bring up | 带上来 | 提出（话题）/ 抚养（孩子） |
+| come across | 穿越而来 | 偶然遇到 / 给人……印象 |
+| go off | 离开 | 变质 / 爆炸 / 响起（闹钟） |
+| take after | 拿了之后 | 长得像（长辈） |
+| make out | 制造出来 | 辨认出 / 接吻（口语） |
+
+**结论**：字面推导是起点，但要用语境验证。越不透明的短语动词，越需要语境帮你确认。
+
+##### 技巧4：建立"同一粒子"家族档案
+
+每学到一个新的粒子义，立刻把它加入对应粒子的"语义档案"：
+
+```
+// 代码块
+【back 的语义档案】
+义项1：往回（物理方向）
+  → give back（归还）、go back（回去）、come back（回来）
+
+义项2：恢复原状
+  → bring back（恢复）、take back（收回）、put back（放回原位）
+
+义项3：报复/回应
+  → fight back（反击）、hit back（回击）、write back（回信）
+
+义项4：抑制/推迟
+  → hold back（抑制）、set back（阻碍进展）、cut back（削减）
+
+```
+
+---
+
+#### 9.8 总结：三层解码系统速查卡
+
+```
+// 代码块
+╔══════════════════════════════════════════════════════════════╗
+║         三层解码系统 — 速查卡                                 ║
+╠══════════════════════════════════════════════════════════════╣
+║ 第一层：动词核心义                                            ║
+║   cut=切断  put=放置  take=拿取  get=获得/变成  bring=带来    ║
+║   give=给予  come=来/变  go=去/变  turn=转变  break=打破      ║
+║   run=耗尽  set=开始  make=制造  keep=保持  hold=等待         ║
+║   let=允许  look=看  pull=拉/实现  push=推/施压  pick=选取    ║
+╠══════════════════════════════════════════════════════════════╣
+║ 第二层：粒子核心义                                            ║
+║   up = 完成/增加/激活    down = 减少/抑制/固定                ║
+║   out = 彻底/公开        in = 进入/投入                       ║
+║   off = 脱离/取消/出发   on = 持续/针对/开启                  ║
+║   back = 往回/恢复/报复  over = 越过/覆盖/检查                ║
+║   through = 穿越/完成    away = 离开/持续                     ║
+╠══════════════════════════════════════════════════════════════╣
+║ 第三层：介词补充义                                            ║
+║   on = 针对某具体对象    for = 目的/补偿                      ║
+║   with = 处理/容忍       to = 方向/结果                       ║
+║   of = 来源/从...里      into = 进入状态                      ║
+╠══════════════════════════════════════════════════════════════╣
+║ 解码公式：动词核心义 + 粒子核心义 [+ 介词补充义] = 推导意思   ║
+║ 验证方法：代入语境，看是否说得通                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+```
+
+---
+
+### 全文总结
+
+| 部分 | 核心收获 |
+| --- | --- |
+| **Part 1：定义与结构** | 四种句法类型；可分离/不可分离规则；代词必须插中间；双粒子结构；粒子 vs 介词的三种判断测试 |
+| **Part 2：粒子语义图谱** | 10大高频粒子（UP/DOWN/OUT/OFF/ON/IN/BACK/AWAY/OVER/THROUGH）的核心义与典型短语；220+高频词按6大场景分类 |
+| **Part 3：学习策略与猜意思系统** | 三层叠加记忆法；语境优先原则；五级产出训练；正式度光谱20组对比；三层解码系统（动词核心义+粒子核心义+介词补充义）；10个完整拆解示例 |
+
+> **最后的话**：短语动词的学习不是一场记忆战，而是一场理解战。当你从"背单词"升级为"解码逻辑"，你就从被动学习者变成了主动探索者。这套系统给你的，是钓鱼竿，不是鱼。
+
+---
+
+*文档版本：完整版 | 调研完成于 2026-04-05*

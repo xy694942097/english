@@ -1,0 +1,13 @@
+{
+  "difficulty": "C1（雅思）",
+  "total_sentences": 60,
+  "batch_size": 50,
+  "categories": ["日常生活", "旅行与出行", "职场与工作", "健康与运动", "饮食与烹饪", "科技与数字生活"],
+  "per_category": 10,
+  "sentence_profile": {
+    "vocabulary": "学术词、低频搭配",
+    "length": "20–35 词",
+    "structure": "多重从句、插入语正常"
+  },
+  "output_dir": "/tmp/ecf-eval1"
+}

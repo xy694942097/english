@@ -1,0 +1,19 @@
+{
+  "skill_name": "english-content-forge",
+  "evals": [
+    {
+      "id": 0,
+      "name": "sentence-corpus-60",
+      "prompt": "帮我出 60 个雅思难度的生活场景英语句子，要带逐句解析（难词短语、句式分析、中文意思），按领域分组。文件放到 /tmp/ecf-eval1/ 下面。",
+      "expected_output": "data.jsonl 结构化数据 + 渲染脚本产出的 v1/v2 两种 markdown 视图，60 句三件套齐全，自检通过",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "concession-guide",
+      "prompt": "做一份英语让步结构（despite / in spite of / although / even though / while）完全指南，markdown 文件放 /tmp/ecf-eval2/。",
+      "expected_output": "单份 markdown 指南：6-10 个概念专题、每概念有结构公式+标注例句+误读表，含对比辨析表格，无知识穷举注水",
+      "files": []
+    }
+  ]
+}

@@ -13,7 +13,10 @@
       "items": [
         "book/01-reading/01-context.md",
         "book/01-reading/03-evidence.md",
-        "book/01-reading/04-outcomes.md"
+        "book/01-reading/04-outcomes.md",
+        "book/01-reading/05-phrasal-verbs-guide.md",
+        "book/01-reading/06-phrase-structures-guide.md",
+        "book/01-reading/07-fixed-phrases-guide.md"
       ]
     },
     {
@@ -68,6 +71,12 @@
             "book/08-frames/18-self-picked.md",
             "book/08-frames/08-frames-collection.md"
           ]
+        },
+        {
+          "sub": "指南",
+          "items": [
+            "book/08-frames/19-long-sentences-guide.md"
+          ]
         }
       ]
     },
@@ -82,7 +91,8 @@
         "book/03-四六级词汇/04-preposition-patterns.md",
         "book/03-四六级词汇/05-change-development.md",
         "book/03-四六级词汇/07-judgment-reasoning.md",
-        "book/03-四六级词汇/09-phrase-index.md"
+        "book/03-四六级词汇/09-phrase-index.md",
+        "book/03-四六级词汇/11-prepositions-guide.md"
       ]
     },
     {
@@ -117,12 +127,19 @@
           ]
         },
         {
-          "sub": "指南",
+          "sub": "千句库",
           "items": [
-            "materials/readable/guides/学城千句库合集.md",
-            "materials/readable/guides/学城语法表达指南合集.md"
+            "book/09-guides/01-ielts-1000-sentences.md",
+            "book/09-guides/02-ielts-1000-analyzed.md"
           ]
         }
+      ]
+    },
+    {
+      "title": "内容生产 Skills",
+      "items": [
+        "engineering/skills/frame-miner/SKILL.md",
+        "engineering/skills/english-content-forge/SKILL.md"
       ]
     }
   ]

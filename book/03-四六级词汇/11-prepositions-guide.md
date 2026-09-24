@@ -1,0 +1,2253 @@
+<!-- 来源：学城文档 2754258529 https://km.sankuai.com/collabpage/2754258529 -->
+
+# 英语介词完全指南
+
+### 目录
+
+#### Part 1：时间介词 · 地点空间介词 · 方向介词
+
+- [Part 1.1 时间介词](#part-11-%E6%97%B6%E9%97%B4%E4%BB%8B%E8%AF%8D)
+  - [1. at / on / in 时间用法（核心三剑客）](#1-at--on--in-%E6%97%B6%E9%97%B4%E7%94%A8%E6%B3%95%E6%A0%B8%E5%BF%83%E4%B8%89%E5%89%91%E5%AE%A2)
+  - [2. for / since / during / through](#2-for--since--during--through)
+  - [3. before / after / by / until / till](#3-before--after--by--until--till)
+  - [4. within / in（时间）](#4-within--in%E6%97%B6%E9%97%B4)
+  - [5. ago / before / later / after](#5-ago--before--later--after)
+- [Part 1.2 地点/空间介词](#part-12-%E5%9C%B0%E7%82%B9%E7%A9%BA%E9%97%B4%E4%BB%8B%E8%AF%8D)
+  - [6. at / on / in 空间用法](#6-at--on--in-%E7%A9%BA%E9%97%B4%E7%94%A8%E6%B3%95)
+  - [7. above / over / below / under](#7-above--over--below--under)
+  - [8. in front of / behind / beside / next to / between / among](#8-in-front-of--behind--beside--next-to--between--among)
+  - [9. near / by / close to / far from](#9-near--by--close-to--far-from)
+- [Part 1.3 动态方向介词](#part-13-%E5%8A%A8%E6%80%81%E6%96%B9%E5%90%91%E4%BB%8B%E8%AF%8D)
+  - [10. into / out of / onto / off（动态 vs 静态）](#10-into--out-of--onto--off%E5%8A%A8%E6%80%81-vs-%E9%9D%99%E6%80%81)
+  - [11. across / through / along / around / past](#11-across--through--along--around--past)
+  - [12. to / toward / towards / for（朝向目标）](#12-to--toward--towards--for%E6%9C%9D%E5%90%91%E7%9B%AE%E6%A0%87)
+  - [13. from / away from / out of（来源/离开）](#13-from--away-from--out-of%E6%9D%A5%E6%BA%90%E7%A6%BB%E5%BC%80)
+  - [14. up / down / along（路径）](#14-up--down--along%E8%B7%AF%E5%BE%84)
+- [快速查阅索引（Part 1）](#%E5%BF%AB%E9%80%9F%E6%9F%A5%E9%98%85%E7%B4%A2%E5%BC%95)
+
+#### Part 2：关系逻辑介词 · 固定搭配
+
+- [2.1 关系/逻辑介词深度解析](#21-%E5%85%B3%E7%B3%BB%E9%80%BB%E8%BE%91%E4%BB%8B%E8%AF%8D%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90)
+  - [of — 最高频介词](#of--%E6%9C%80%E9%AB%98%E9%A2%91%E4%BB%8B%E8%AF%8D)
+  - [about vs on — 都表"关于"](#about-vs-on--%E9%83%BD%E8%A1%A8%E5%85%B3%E4%BA%8E%E5%9C%BA%E5%90%88%E6%88%AA%E7%84%B6%E4%B8%8D%E5%90%8C)
+  - [with / without](#with--without)
+  - [by — 最多义介词之一](#by--%E6%9C%80%E5%A4%9A%E4%B9%89%E4%BB%8B%E8%AF%8D%E4%B9%8B%E4%B8%80)
+  - [for — 用途最广的介词之一](#for--%E7%94%A8%E9%80%94%E6%9C%80%E5%B9%BF%E7%9A%84%E4%BB%8B%E8%AF%8D%E4%B9%8B%E4%B8%80)
+  - [as — 多功能词](#as--%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%AF%8D%E4%BB%8B%E8%AF%8D%E8%BF%9E%E8%AF%8D%E5%89%AF%E8%AF%8D)
+  - [despite / in spite of — 尽管](#despite--in-spite-of--%E5%B0%BD%E7%AE%A1)
+- [2.2 固定介词搭配（动词 + 介词）](#22-%E5%9B%BA%E5%AE%9A%E4%BB%8B%E8%AF%8D%E6%90%AD%E9%85%8D%E5%8A%A8%E8%AF%8D--%E4%BB%8B%E8%AF%8D)
+  - [ON 系列](#on-%E7%B3%BB%E5%88%97)
+  - [IN 系列](#in-%E7%B3%BB%E5%88%97)
+  - [OF 系列](#of-%E7%B3%BB%E5%88%97)
+  - [TO 系列](#to-%E7%B3%BB%E5%88%97)
+  - [WITH 系列](#with-%E7%B3%BB%E5%88%97)
+  - [FOR 系列](#for-%E7%B3%BB%E5%88%97)
+  - [ABOUT 系列](#about-%E7%B3%BB%E5%88%97)
+  - [compare with vs compare to 专项辨析](#compare-with-vs-compare-to-%E4%B8%93%E9%A1%B9%E8%BE%A8%E6%9E%90)
+- [2.3 固定介词搭配（形容词 + 介词）](#23-%E5%9B%BA%E5%AE%9A%E4%BB%8B%E8%AF%8D%E6%90%AD%E9%85%8D%E5%BD%A2%E5%AE%B9%E8%AF%8D--%E4%BB%8B%E8%AF%8D)
+- [2.4 名词 + 介词固定搭配](#24-%E5%90%8D%E8%AF%8D--%E4%BB%8B%E8%AF%8D%E5%9B%BA%E5%AE%9A%E6%90%AD%E9%85%8D)
+- [2.5 中式英语介词陷阱（20 个典型错误）](#25-%E4%B8%AD%E5%BC%8F%E8%8B%B1%E8%AF%AD%E4%BB%8B%E8%AF%8D%E9%99%B7%E9%98%B120-%E4%B8%AA%E5%85%B8%E5%9E%8B%E9%94%99%E8%AF%AF)
+- [附录：高频介词功能速查表](#%E9%99%84%E5%BD%95%E9%AB%98%E9%A2%91%E4%BB%8B%E8%AF%8D%E5%8A%9F%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)
+- [附录：最易混淆介词对照表](#%E9%99%84%E5%BD%95%E6%9C%80%E6%98%93%E6%B7%B7%E6%B7%86%E4%BB%8B%E8%AF%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)
+
+---
+
+## 英语介词完全指南 · Part 1
+
+### 时间介词 · 地点空间介词 · 方向介词
+
+> 2026-04-05
+
+---
+
+## 目录
+
+- [Part 1.1 时间介词](#part-11-%E6%97%B6%E9%97%B4%E4%BB%8B%E8%AF%8D)
+  - [at / on / in 时间用法（核心三剑客）](#1-at--on--in-%E6%97%B6%E9%97%B4%E7%94%A8%E6%B3%95%E6%A0%B8%E5%BF%83%E4%B8%89%E5%89%91%E5%AE%A2)
+  - [for / since / during / through](#2-for--since--during--through)
+  - [before / after / by / until / till](#3-before--after--by--until--till)
+  - [within / in（时间）](#4-within--in%E6%97%B6%E9%97%B4)
+  - [ago / before / later / after](#5-ago--before--later--after)
+- [Part 1.2 地点/空间介词](#part-12-%E5%9C%B0%E7%82%B9%E7%A9%BA%E9%97%B4%E4%BB%8B%E8%AF%8D)
+  - [at / on / in 空间用法](#6-at--on--in-%E7%A9%BA%E9%97%B4%E7%94%A8%E6%B3%95)
+  - [above / over / below / under](#7-above--over--below--under)
+  - [in front of / behind / beside / next to / between / among](#8-in-front-of--behind--beside--next-to--between--among)
+  - [near / by / close to / far from](#9-near--by--close-to--far-from)
+- [Part 1.3 动态方向介词](#part-13-%E5%8A%A8%E6%80%81%E6%96%B9%E5%90%91%E4%BB%8B%E8%AF%8D)
+  - [into / out of / onto / off](#10-into--out-of--onto--off%E5%8A%A8%E6%80%81-vs-%E9%9D%99%E6%80%81)
+  - [across / through / along / around / past](#11-across--through--along--around--past)
+  - [to / toward / towards / for](#12-to--toward--towards--for%E6%9C%9D%E5%90%91%E7%9B%AE%E6%A0%87)
+  - [from / away from / out of](#13-from--away-from--out-of%E6%9D%A5%E6%BA%90%E7%A6%BB%E5%BC%80)
+  - [up / down / along（路径）](#14-up--down--along%E8%B7%AF%E5%BE%84)
+
+---
+
+## Part 1.1 时间介词
+
+---
+
+### 1. at / on / in 时间用法（核心三剑客）
+
+#### 核心区分逻辑
+
+> **口诀：点用 at，天用 on，段用 in。**
+> 时间"颗粒度"越小用 at，越大用 in，具体某天用 on。
+
+---
+
+#### ▶ at — 精确时间点
+
+**核心语义：** 指向一个精确的时间点，或约定俗成的时间节点。
+
+**典型例句：**
+
+1. The meeting starts **at 9 a.m.** sharp.（会议早上9点整开始）
+2. She woke up **at midnight** and couldn't fall back asleep.（她在午夜醒来）
+3. We always have a big meal **at Christmas**.（圣诞节我们总会吃顿大餐）[注：英式英语，指节日本身]
+4. I'll see you **at noon**.（中午见）
+5. **At the moment**, I'm working on a new project.（此刻我正在做一个新项目）
+
+**固定搭配（at + 特殊时间节点）：**
+
+| 表达 | 说明 |
+| --- | --- |
+| at noon | 中午 |
+| at midnight | 午夜 |
+| at dawn / at dusk | 黎明 / 黄昏 |
+| at sunrise / at sunset | 日出 / 日落 |
+| at the weekend | 周末（英式英语） |
+| on the weekend | 周末（美式英语） |
+| at night | 夜晚（注意：不用 in night） |
+| at the moment | 此刻 |
+| at that time | 那时 |
+| at present | 目前 |
+| at the same time | 同时 |
+| at Christmas / at Easter | 节日期间（英式，泛指节日前后） |
+| at the age of 20 | 在20岁时 |
+
+**⚠️ 中国学习者常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 原因 |
+| --- | --- | --- |
+| in night | at night | night 作时间节点，固定用 at |
+| in noon | at noon | noon 是精确时间点 |
+| at morning | in the morning | morning/afternoon/evening 是时间段，用 in |
+| on morning | in the morning | 同上 |
+| at the morning | in the morning | 同上，多余冠词 the 也不对 |
+
+---
+
+#### ▶ on — 具体某天
+
+**核心语义：** 指某一具体的日期、星期几，或某个特殊的节日/纪念日（该节日被视为具体某天）。
+
+**典型例句：**
+
+1. The concert is **on Saturday**.（音乐会在周六）
+2. She was born **on July 4th, 1995**.（她出生于1995年7月4日）
+3. I'll call you **on your birthday**.（我会在你生日那天打给你）
+4. We have a team lunch **on Fridays**.（我们每周五有团队午餐）
+5. What are you doing **on Christmas Day**?（圣诞节那天你有什么安排？）
+
+**固定搭配（on + 日期/星期/纪念日）：**
+
+| 表达 | 说明 |
+| --- | --- |
+| on Monday / on Tuesdays（复数表规律） | 星期一 / 每逢周二 |
+| on July 4th | 7月4日 |
+| on my birthday | 在我生日那天 |
+| on Christmas Day | 圣诞节那天（强调那一天） |
+| on New Year's Day | 元旦那天 |
+| on the morning of May 1st | 5月1日的早晨 |
+| on a cold winter morning | 在一个寒冷的冬日早晨 |
+
+> 💡 **注意**：当 morning/afternoon/evening 前有修饰词（如 cold, that, last, next, this, the）时，改用 **on**：
+> - **on** a rainy afternoon（在一个下雨的下午）
+> - **on** the morning of the accident（事故当天早晨）
+> - 但：**in** the morning（泛指上午，无修饰）
+
+**⚠️ 中国学习者常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 原因 |
+| --- | --- | --- |
+| in Monday | on Monday | 星期几用 on |
+| in July 4th | on July 4th | 具体日期用 on |
+| on April | in April | 月份（时间段）用 in |
+| on 2026 | in 2026 | 年份用 in |
+
+---
+
+#### ▶ in — 较长时间段
+
+**核心语义：** 指较长的时间段，如月份、年份、季节、世纪，或一天中的时间段（上午/下午/晚上）。
+
+**典型例句：**
+
+1. She graduated **in June 2023**.（她于2023年6月毕业）
+2. The company was founded **in the 1990s**.（公司成立于1990年代）
+3. It's usually hot here **in summer**.（这里夏天通常很热）
+4. I always feel energetic **in the morning**.（我早上精力总是很充沛）
+5. **In the 21st century**, technology has transformed our lives.（21世纪，科技改变了我们的生活）
+
+**固定搭配（in + 时间段）：**
+
+| 表达 | 说明 |
+| --- | --- |
+| in the morning / afternoon / evening | 上午 / 下午 / 晚上 |
+| in April / in July | 在四月 / 七月 |
+| in 2026 | 在2026年 |
+| in the 1990s | 在1990年代 |
+| in summer / winter / spring / autumn | 在夏天 / 冬天 / 春天 / 秋天 |
+| in the 21st century | 在21世纪 |
+| in the past / in the future | 在过去 / 将来 |
+| in recent years | 近年来 |
+| in three days（= three days from now） | 三天后 |
+| in those days | 那些日子里 |
+
+**⚠️ 中国学习者常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 原因 |
+| --- | --- | --- |
+| at the morning | in the morning | morning 是时间段，用 in |
+| on the evening | in the evening | evening 是时间段，用 in |
+| in night | at night | night 固定用 at（习惯用法） |
+| at summer | in summer | 季节用 in |
+| on 2026 | in 2026 | 年份用 in |
+
+---
+
+#### ▶ 三者对比总表
+
+| 介词 | 适用范围 | 典型搭配 |
+| --- | --- | --- |
+| **at** | 精确时间点、时刻 | at 8pm, at noon, at midnight, at night, at the weekend(英式) |
+| **on** | 某天、星期几、节日某天 | on Monday, on July 4th, on my birthday, on Christmas Day |
+| **in** | 月份、年份、季节、世纪、时间段 | in April, in 2026, in summer, in the morning, in the 20th century |
+
+---
+
+#### ▶ 特殊规则：无介词的情况
+
+当时间前有 **this / last / next / every / each / tomorrow / yesterday** 时，**不用介词**：
+
+- ✅ **This** morning I had coffee.（今天早上我喝了咖啡）
+- ✅ I saw her **last** Monday.（我上周一见到了她）
+- ✅ We'll meet **next** week.（我们下周见）
+- ✅ He goes jogging **every** morning.（他每天早上慢跑）
+- ❌ ~~in this morning / on last Monday / in next week~~
+
+---
+
+### 2. for / since / during / through
+
+#### 核心区分逻辑
+
+> **口诀：for 量时间，since 标起点，during 锁范围，through 跑全程。**
+
+---
+
+#### ▶ for — 持续时间段（量化时长）
+
+**核心语义：** 表示某动作/状态持续了多长时间，后接**可量化的时间长度**。
+
+**典型例句：**
+
+1. I've been waiting **for two hours**.（我已经等了两个小时）
+2. She lived in Paris **for three years**.（她在巴黎住了三年）
+3. He studied **for the exam for a whole week**.（他为考试学习了整整一周）
+4. We haven't spoken **for ages**.（我们好久没说话了）
+5. Could you hold this **for a moment**?（你能帮我拿一下吗？）
+
+**搭配结构：** for + 数字/量词 + 时间名词
+
+- for two hours / for three days / for six months / for a year / for a long time / for ages / for a while
+
+**⚠️ 常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 原因 |
+| --- | --- | --- |
+| I've lived here since three years. | I've lived here for three years. | since 后接时间起点，不接时间段 |
+| I waited during two hours. | I waited for two hours. | during 后接特定时期名词，不接时间长度 |
+| She's been ill since a week. | She's been ill for a week. | 同第一条 |
+
+---
+
+#### ▶ since — 从某时间点到现在（起点）
+
+**核心语义：** 表示从某一过去的时间点**起，一直持续到说话时刻**。常与**完成时**连用。
+
+**典型例句：**
+
+1. I've known her **since 2018**.（我从2018年就认识她了）
+2. He hasn't eaten anything **since this morning**.（他从今天早上到现在什么都没吃）
+3. The company has grown a lot **since its founding**.（公司自成立以来成长了很多）
+4. **Since last Monday**, it has been raining every day.（从上周一开始，每天都在下雨）
+5. I've been learning English **since I was a child**.（我从小就在学英语）
+
+**搭配结构：** since + 具体时间点/过去时间表达/从句
+
+- since 2020 / since last Monday / since yesterday / since I was born / since the meeting started
+
+**⚠️ 常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 原因 |
+| --- | --- | --- |
+| I live here since 2020. | I have lived here since 2020. | since 表持续状态，需用完成时 |
+| since three years | for three years | since 后接时间起点，不接时长 |
+| since three years ago | for three years / since three years ago（勉强可用，但推荐 for） | 口语中偶见，但正式用法有争议 |
+
+---
+
+#### ▶ during — 在某特定时期内（范围）
+
+**核心语义：** 在某一**特定、已知的时间段**内（某件事发生了或没有发生）。后接**特定时期名词**，不接数字时长。
+
+**典型例句：**
+
+1. I fell asleep **during the lecture**.（我在讲座期间睡着了）
+2. Many people lost their jobs **during the pandemic**.（疫情期间很多人失业了）
+3. She visits her family **during the holidays**.（她在假期期间探望家人）
+4. **During the meeting**, his phone rang twice.（会议期间，他的手机响了两次）
+5. He wrote three novels **during his lifetime**.（他在有生之年写了三部小说）
+
+**搭配结构：** during + 特定时期名词（不能是数字时长）
+
+- during the war / during summer / during the meeting / during my stay / during the 1990s
+
+**⚠️ 常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 原因 |
+| --- | --- | --- |
+| during three hours | for three hours | during 后不接时间长度 |
+| during two years | for two years | 同上 |
+| I worked hard during the whole night. ✅（整个特定夜晚，可以） | — | 当"整个夜晚"作为特定时期时可以 |
+
+---
+
+#### ▶ through — 贯穿整个时间段（全程）
+
+**核心语义：** 强调某动作/状态**贯穿整个时间段的始末**，不间断。多用于强调"从头到尾"。
+
+**典型例句：**
+
+1. She worked **through the night** to finish the report.（她通宵工作，完成了报告）
+2. He struggled **through the years** of poverty.（他在多年的贫困中挣扎求存）
+3. The soldiers marched **through the winter**.（士兵们在整个冬天都在行军）
+4. They stayed together **through thick and thin**.（他们同甘共苦，始终相伴）
+5. I read **through the entire document** in one sitting.（我一口气读完了整篇文档）
+
+**搭配结构：** through + 时间段（强调贯穿始终）
+
+- through the night / through the years / through the winter / through the crisis
+
+---
+
+#### ▶ 四者混淆辨析表
+
+| 介词 | 后接内容 | 核心含义 | 典型搭配 |
+| --- | --- | --- | --- |
+| **for** | 可量化时间长度 | 持续了多久 | for three hours, for ages |
+| **since** | 时间起点（过去） | 从何时起（持续至今） | since 2020, since last Monday |
+| **during** | 特定时期名词 | 在某时期内（某事发生） | during the war, during summer |
+| **through** | 时间段（强调全程） | 贯穿整个时间段 | through the night, through the years |
+
+#### ▶ 各自不能替换的关键场景
+
+| 场景 | 正确用法 | 说明 |
+| --- | --- | --- |
+| 表示时间长度（数字量化） | **for** three hours | ❌ during three hours |
+| 表示起始时间点（至今） | **since** last Monday | ❌ for last Monday |
+| 表示某特定时期内发生 | **during** the war | ❌ through the war（语义不同：through 强调全程） |
+| 强调整个时间段不间断 | **through** the night | during 也可，但 through 更强调"熬完全程" |
+
+---
+
+### 3. before / after / by / until / till
+
+#### ▶ before — 在...之前
+
+**核心语义：** 时间上早于某个参照点。
+
+**典型例句：**
+
+1. Please submit the report **before Friday**.（请在周五前提交报告）
+2. I had never been to Japan **before** this trip.（这次旅行前我从未去过日本）
+3. She always checks her email **before breakfast**.（她总是在早餐前查邮件）
+4. Finish your homework **before you go out**.（出去之前把作业做完）
+5. **Before** long, he realized his mistake.（不久之后，他意识到了自己的错误）[固定短语 before long = soon]
+
+---
+
+#### ▶ after — 在...之后
+
+**核心语义：** 时间上晚于某个参照点。
+
+**典型例句：**
+
+1. Let's meet **after work**.（下班后见）
+2. **After the rain**, the air smelled fresh.（雨后，空气闻起来很清新）
+3. She felt much better **after taking the medicine**.（吃了药之后她感觉好多了）
+4. **After all these years**, they're still best friends.（这么多年过去了，他们还是最好的朋友）
+5. Day **after** day, he practiced the piano.（他日复一日地练习钢琴）
+
+---
+
+#### ▶ by — 截止时间
+
+**核心语义：** 表示在某时间点**之前的任意时间完成**，强调最晚不超过该时间点（deadline）。
+
+**典型例句：**
+
+1. Please send me the file **by 5 p.m.** today.（请今天下午5点前把文件发给我）
+2. The project must be completed **by the end of the month**.（项目必须在月底前完成）
+3. Can you be here **by noon**?（你能在中午前到这里吗？）
+4. **By the time** she arrived, the show had already started.（她到的时候，演出已经开始了）
+5. **By 2030**, the company aims to be carbon neutral.（到2030年，该公司目标实现碳中和）
+
+---
+
+#### ▶ until / till — 持续到某时间点
+
+**核心语义：** 表示某动作/状态**一直持续到某个时间点为止**（到那个点停止）。until 和 till 语义完全相同，till 更口语/非正式。
+
+**典型例句：**
+
+1. I'll wait here **until** you come back.（我会在这里等到你回来）
+2. She studied **until midnight**.（她学习到午夜）
+3. Don't leave **until** I tell you to.（我没让你走之前不许离开）
+4. The store is open **till** 10 p.m.（商店营业到晚上10点）
+5. We talked **until** the early hours of the morning.（我们一直聊到凌晨）
+
+**until vs till 区别：**
+
+- 语义完全相同
+- **until** 更正式，书面语、合同文件首选
+- **till** 更口语，非正式场合常用
+- 两者均可放句首（Not until... / Till...）
+
+---
+
+#### ▶ ⭐ by vs until 辨析（最高频混淆）
+
+这是中国学习者**最容易混淆**的一对，关键在于：
+
+| 介词 | 动作性质 | 核心含义 | 测试问题 |
+| --- | --- | --- | --- |
+| **by** | 瞬时动作（完成） | 在该时间点前**完成**某事 | 什么时候做完？→ by |
+| **until** | 持续动作（延续） | **一直持续**到某时间点才停止 | 持续到什么时候？→ until |
+
+**对比例句：**
+
+| by | until |
+| --- | --- |
+| I'll **finish** the report **by** 5pm.（5点前完成报告） | I'll **work** on the report **until** 5pm.（一直工作到5点） |
+| Please **arrive** **by** 9am.（9点前到达） | I'll **wait** **until** 9am.（等到9点） |
+| The package will **arrive** **by** Friday.（周五前到货） | The store will remain **open** **until** Friday.（营业到周五） |
+| **By** the time you read this, I'll be gone.（等你看到这封信，我已经走了） | Stay here **until** I call you.（待在这儿直到我叫你） |
+
+**口诀：** by = deadline（截止），until = end point of ongoing action（持续结束点）
+
+**⚠️ 常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 分析 |
+| --- | --- | --- |
+| I'll finish until 5pm. | I'll finish **by** 5pm. | finish 是瞬时完成动作，用 by |
+| Stay here by midnight. | Stay here **until** midnight. | stay 是持续动作，用 until |
+| The rain stopped until noon. | The rain stopped **by** noon. / It rained **until** noon. | stop 是瞬时，用 by；rain 持续，用 until |
+
+---
+
+### 4. within / in（时间）
+
+#### ▶ within — 在...时间之内（不超过）
+
+**核心语义：** 在某时间长度**范围之内**，强调不超过上限。
+
+**典型例句：**
+
+1. We'll respond **within 24 hours**.（我们将在24小时内回复）
+2. The delivery should arrive **within three business days**.（货物应在三个工作日内到达）
+3. Please complete the survey **within** the next five minutes.（请在接下来的五分钟内完成调查）
+4. He recovered **within a week**.（他在一周内就康复了）
+5. **Within** the next decade, AI will transform every industry.（在未来十年内，AI将改变每个行业）
+
+---
+
+#### ▶ in — 在...时间之后（过了这段时间）
+
+**核心语义：** 表示从现在起经过一段时间**之后**（时间到了才发生）。
+
+**典型例句：**
+
+1. The meeting will start **in** ten minutes.（会议将在十分钟后开始）
+2. I'll be back **in** an hour.（我一小时后回来）
+3. She'll graduate **in** two years.（她两年后毕业）
+4. The results will be announced **in** three days.（结果将在三天后公布）
+5. Call me back **in** half an hour.（半小时后给我回电话）
+
+---
+
+#### ▶ within vs in 对比
+
+| 特征 | within | in |
+| --- | --- | --- |
+| 含义 | 在这段时间之内（不超过） | 过了这段时间之后 |
+| 重点 | 上限、不超过 | 起点到终点的间隔 |
+| 例句 | I'll call you **within** an hour.（一小时内打给你）——可能5分钟就打 | I'll call you **in** an hour.（一小时后打给你）——大约一小时后 |
+
+**⚠️ 常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 原因 |
+| --- | --- | --- |
+| in 24 hours（想表示"24小时内"） | **within** 24 hours | in 24 hours = 24小时后；within = 不超过24小时 |
+| within now（没有意义） | — | within 后接时间长度，不接"now" |
+
+---
+
+### 5. ago / before / later / after
+
+#### ▶ ago — 距今多久以前（以"现在"为基准，向后推）
+
+**核心语义：** 从**现在**往回算，表示过去某时间点。**只与一般过去时连用。**
+
+**典型例句：**
+
+1. I met her three years **ago**.（我三年前认识了她）
+2. He left just a few minutes **ago**.（他就在几分钟前离开了）
+3. The company was founded 20 years **ago**.（公司成立于20年前）
+4. That happened long **ago**.（那是很久以前的事了）
+5. She called an hour **ago**.（她一小时前打来电话了）
+
+**结构：** 时间长度 + ago（ago 总在时间短语后）
+
+**⚠️ 只与一般过去时搭配：**
+
+- ✅ I **arrived** here two years ago.
+- ❌ I **have arrived** here two years ago.（❌ 完成时不能与 ago 连用）
+
+---
+
+#### ▶ before — 在此之前（以"过去某时间"为基准）
+
+**核心语义：** 以过去某个时间为参照点，在那之前。常用于**过去完成时**。
+
+**典型例句：**
+
+1. I had never seen snow **before** I visited Canada.（去加拿大之前，我从未见过雪）
+2. She had finished the work **before** he arrived.（他到达之前，她已经完成了工作）
+3. Have you done this **before**?（你以前做过这件事吗？）[此处before=ever before，用完成时]
+4. He had left an hour **before**.（他已经离开了一小时了）
+5. Two days **before**, she had sent a message.（两天前，她发了一条消息）
+
+**ago vs before 核心区别：**
+
+| 特征 | ago | before |
+| --- | --- | --- |
+| 参照基准 | **现在** | **过去某时间点**（叙述中的参照点） |
+| 常用时态 | 一般过去时 | 过去完成时（或完成时） |
+| 例句 | I met her 3 years **ago**.（距现在3年前） | I had met her 3 years **before** the wedding.（距婚礼3年前） |
+
+---
+
+#### ▶ later — 之后（以现在或叙述时间为基准，向后推）
+
+**核心语义：** 从某个时间点（当前或叙述中的时间）往后，多久之后。
+
+**典型例句：**
+
+1. I'll see you **later**.（待会儿见）
+2. He called back two hours **later**.（他两小时后回了电话）
+3. Three days **later**, the package arrived.（三天后，包裹到了）
+4. She came back years **later** and everything had changed.（她多年后回来，一切都变了）
+
+**结构：** 时间长度 + later（later 在时间短语后）；或单独使用 "later"
+
+---
+
+#### ▶ after — 在...之后（以某事件/时间为参照，叙述后续）
+
+**核心语义：** 在某件事或某时间段之后发生。
+
+**典型例句：**
+
+1. **After** the meeting, we went for lunch.（会议结束后，我们去吃午饭了）
+2. She felt better **after** a good night's sleep.（睡了一觉好觉之后，她感觉好多了）
+
+**later vs after 区别：**
+
+| 特征 | later | after |
+| --- | --- | --- |
+| 结构 | 时间长度 + later | after + 名词/从句 |
+| 例句 | Two hours **later**, he called.（两小时后他打电话来了） | **After** two hours, he called.（两小时后他打电话来了）[意思相同] |
+
+---
+
+#### ▶ 时态搭配总结
+
+| 介词 | 常用时态 | 例句 |
+| --- | --- | --- |
+| **ago** | 一般过去时 | He left two hours ago. |
+| **before** | 过去完成时 / 现在完成时 | She had finished before he arrived. / Have you been here before? |
+| **later** | 过去时 / 将来时 | He called two hours later. / See you later. |
+| **after** | 过去时 / 将来时 | After the meeting, we left. |
+
+---
+
+## Part 1.2 地点/空间介词
+
+---
+
+### 6. at / on / in 空间用法
+
+#### ▶ at — 位置点（视为一个点）
+
+**核心语义：** 把某个地方看作一个**点**，强调位置，不在乎内部还是外部。
+
+**典型例句：**
+
+1. She's waiting **at** the bus stop.（她在公共汽车站等候）
+2. We met **at** the coffee shop on the corner.（我们在街角的咖啡店见面了）
+3. He's **at** work right now.（他现在在上班）
+4. They arrived **at** the airport two hours early.（他们提前两小时到达机场）
+5. I'll see you **at** the reception.（我们在招待会上见）
+
+**固定搭配（at + 地点）：**
+
+| 表达 | 说明 |
+| --- | --- |
+| at home | 在家 |
+| at school / at work / at university | 在学校 / 上班 / 读大学 |
+| at the door | 在门口 |
+| at the station / at the airport | 在车站 / 机场 |
+| at the top / at the bottom | 在顶部 / 底部 |
+| at the end of the road | 在路的尽头 |
+| at the corner（转角处，美式） | 在街角 |
+| at the table | 在桌旁（坐着） |
+| at the desk | 在书桌旁 |
+| at sea | 在海上（航行中） |
+| at the party / at a concert | 参加聚会 / 音乐会（现场） |
+
+---
+
+#### ▶ on — 表面接触
+
+**核心语义：** 在某个**表面上**（上面、侧面都算表面，关键是接触）。
+
+**典型例句：**
+
+1. The book is **on** the table.（书在桌子上）
+2. There's a picture hanging **on** the wall.（墙上挂着一幅画）
+3. She's lying **on** the floor.（她躺在地板上）
+4. Your name is **on** page 3.（你的名字在第3页）
+5. The town is **on** the coast.（这个小镇在海岸边）
+
+**固定搭配（on + 表面/载体）：**
+
+| 表达 | 说明 |
+| --- | --- |
+| on the table / floor / ceiling | 在桌上 / 地板上 / 天花板上 |
+| on the wall | 在墙上 |
+| on the roof | 在屋顶上 |
+| on the left / on the right | 在左边 / 右边 |
+| on page 5 | 在第5页 |
+| on the coast / on the border | 在海岸边 / 边界 |
+| on a river（城市沿河而建） | 在河边（如 London is on the Thames） |
+| on a farm | 在农场 |
+| on the bus / train / plane / ship | 在公共交通工具上 |
+| on the corner（路口，英式） | 在街角 |
+| on the first floor | 在一楼（英式）/ 二楼（美式混用） |
+| on the screen | 在屏幕上 |
+| on TV / on the radio | 在电视上 / 收音机里 |
+
+---
+
+#### ▶ in — 在内部（三维空间内）
+
+**核心语义：** 在某个**封闭或有界的空间内部**（可以是物理空间、区域、文字内部等）。
+
+**典型例句：**
+
+1. She's sitting **in** the garden.（她坐在花园里）
+2. The keys are **in** my pocket.（钥匙在我口袋里）
+3. He was born **in** Shanghai.（他出生在上海）
+4. I read about it **in** the newspaper.（我在报纸上读到了这件事）
+5. There's a mistake **in** your essay.（你的文章里有个错误）
+
+**固定搭配（in + 空间/区域）：**
+
+| 表达 | 说明 |
+| --- | --- |
+| in the box / bag / room | 在箱子里 / 包里 / 房间里 |
+| in the city / in London / in China | 在城市里 / 伦敦 / 中国 |
+| in the picture / in the photo | 在照片里 |
+| in the sky | 在天空中 |
+| in the world | 在世界上 |
+| in the street（英式） | 在街上 |
+| in the car（小型私家车，坐进去的） | 在车里 |
+| in bed | 在床上（睡着/躺着，融入其中） |
+| in the water / in the sea | 在水中 / 在海里 |
+| in the corner（角落内部） | 在角落里 |
+| in the newspaper / in a book | 在报纸上 / 书里 |
+| in the queue（英式） / in line（美式） | 在队伍里 |
+
+---
+
+#### ▶ at the corner vs on the corner vs in the corner — 经典三角辨析
+
+| 表达 | 含义 | 例句 |
+| --- | --- | --- |
+| **at the corner** | 在转角处（位置点，强调位置） | Turn left **at the corner**.（在转角处左转） |
+| **on the corner** | 在街角（位于街角这个表面/位置） | There's a café **on the corner**.（街角有家咖啡馆）——美式常用 |
+| **in the corner** | 在角落里（房间内部的角落） | The cat is sleeping **in the corner**.（猫在角落里睡觉） |
+
+---
+
+#### ▶ at / on / in 空间用法对比表格 + 15个易错场景
+
+**三者核心对比：**
+
+| 介词 | 空间概念 | 例句 |
+| --- | --- | --- |
+| **at** | 位置点（不在乎内外） | at the door, at school, at home |
+| **on** | 表面接触 | on the table, on the wall, on the bus |
+| **in** | 内部（三维封闭） | in the room, in London, in the car |
+
+**15个易错场景：**
+
+| 场景 | ❌ 错误 | ✅ 正确 | 说明 |
+| --- | --- | --- | --- |
+| 1. 在家 | in home | **at home** | home 是功能点，用 at |
+| 2. 在学校 | in school（学生用） | **at school**（上学中） | 学生在校上学用 at；在建筑物内部偶用 in the school |
+| 3. 在床上（睡觉） | on bed | **in bed** | 表示躺卧休息，融入床中，用 in |
+| 4. 在天空中 | on the sky | **in the sky** | sky 是三维空间，用 in |
+| 5. 在照片里 | at the photo | **in the photo/picture** | 照片是二维空间但内部存在，用 in |
+| 6. 在报纸上 | on the newspaper（内容） | **in the newspaper** | 文字内容在报纸里，用 in |
+| 7. 在公交车上 | in the bus（通常） | **on the bus** | 公共交通（bus/train/plane）用 on |
+| 8. 在私家车里 | on the car | **in the car** | 小型私家车需弯腰进入，用 in |
+| 9. 在街上 | on the street（美式） | **in the street**（英式）/**on the street**（美式） | 英美有差异 |
+| 10. 在角落里（房间） | at the corner | **in the corner** | 房间内部角落，用 in |
+| 11. 在街角（位置点） | in the corner | **at/on the corner** | 街道转角，at（位置点）或 on |
+| 12. 在屏幕上 | in the screen | **on the screen** | 屏幕是表面，用 on |
+| 13. 书的第几页 | at page 5 | **on page 5** | 页面是表面，用 on |
+| 14. 在海上（航行） | in sea | **at sea** | 固定短语，at sea = 在航行中 |
+| 15. 在世界上 | on the world | **in the world** | world 是三维空间，用 in |
+
+---
+
+### 7. above / over / below / under
+
+#### ▶ above — 位置高于（不接触，不强调正上方）
+
+**核心语义：** 位置高于某物，**不一定正上方**，**不强调接触**，也可以是抽象意义上的"高于"。
+
+**典型例句：**
+
+1. The temperature today is five degrees **above** zero.（今天气温零度以上5度）
+2. The eagle soared high **above** the clouds.（老鹰在云层上方高高翱翔）
+3. Her grade is **above** average.（她的成绩高于平均水平）
+4. The mountain peak was **above** the fog.（山峰在雾层之上）
+5. Instructions can be found **above** the diagram.（说明在图表上方）
+
+**常见搭配：** above average / above zero / above sea level / rise above / above the clouds
+
+---
+
+#### ▶ over — 正上方（可接触；也可表覆盖、越过、超过）
+
+**核心语义：**
+
+1. **在正上方**（可以但不必接触）
+2. **覆盖**某物
+3. **越过**某物（动态）
+4. **超过**（数量/程度）
+
+**典型例句：**
+
+1. A bridge **over** the river connects the two towns.（一座横跨河流的桥连接着两个镇子）
+2. She put a blanket **over** the sleeping child.（她把毯子盖在熟睡的孩子身上）[覆盖]
+3. The horse jumped **over** the fence.（马跳过了栅栏）[越过]
+4. He is **over** 40 years old.（他40多岁了）[超过]
+5. The plane flew **over** the city.（飞机飞过城市上方）[正上方经过]
+
+**four meanings of over:**
+
+| 含义 | 例句 |
+| --- | --- |
+| 在正上方 | clouds **over** the mountains |
+| 覆盖 | a cloth **over** the table |
+| 越过（动态） | jump **over** the wall |
+| 超过（数量） | **over** 100 people |
+
+---
+
+#### ▶ below — 位置低于（不接触，对应 above）
+
+**核心语义：** 位置低于某物，**不强调正下方**，可以是抽象意义上的"低于"。
+
+**典型例句：**
+
+1. The temperature dropped **below** freezing.（气温降到了冰点以下）
+2. His performance was **below** expectations.（他的表现低于预期）
+3. The village is nestled **below** the mountain.（村庄坐落在山脚下）
+4. See the note **below** the table.（见表格下方的注释）
+5. The submarine dove **below** the surface.（潜艇潜入水面以下）
+
+---
+
+#### ▶ under — 正下方（可接触；对应 over）
+
+**核心语义：** 在某物正下方，**可以接触**，也可表示在某物"遮盖/覆盖下"，或抽象的"在...管辖/控制下"。
+
+**典型例句：**
+
+1. The cat is sleeping **under** the table.（猫在桌子下面睡觉）
+2. She hid the letter **under** her pillow.（她把信藏在枕头下）
+3. The project is **under** construction.（项目正在建设中）
+4. We took shelter **under** a tree.（我们在树下避雨）
+5. Children **under** 12 get in free.（12岁以下儿童免费入场）[低于某数量]
+
+---
+
+#### ▶ above / over / below / under 辨析表
+
+| 特征 | above | over | below | under |
+| --- | --- | --- | --- | --- |
+| 方位 | 高于（不要求正上方） | 正上方 | 低于（不要求正下方） | 正下方 |
+| 接触 | 不接触 | 可接触 | 不接触 | 可接触 |
+| 覆盖 | ❌ | ✅（over可表覆盖） | ❌ | ✅（under可表被覆盖） |
+| 越过 | ❌ | ✅（动态越过） | ❌ | ❌ |
+| 抽象超过/低于 | ✅（above average） | ✅（over 40） | ✅（below average） | ✅（under 12） |
+
+**核心辨析：above vs over**
+
+| 场景 | above | over |
+| --- | --- | --- |
+| 强调"高于"（不强调正上方位置） | ✅ above average, above zero | ✅（over也可，但语感偏正上方） |
+| 强调"正上方"（有时经过） | ❌ | ✅ The plane flew **over** the city |
+| 表示"覆盖" | ❌ | ✅ a blanket **over** the bed |
+| 表示"越过" | ❌ | ✅ jump **over** the fence |
+| 悬在某物正上方（不接触） | ✅（偏静态位置） | ✅（更动态，如飞越） |
+
+**⚠️ 常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 说明 |
+| --- | --- | --- |
+| The temperature is over zero. | The temperature is **above** zero. | 抽象高于/低于，用 above/below |
+| Put a blanket above the child. | Put a blanket **over** the child. | 覆盖动作，用 over |
+| Children above 12... | Children **under** 12...（注意：above 12 = 12岁以上，under 12 = 12岁以下） | 看方向 |
+
+---
+
+### 8. in front of / behind / beside / next to / between / among
+
+#### ▶ in front of — 在...前面（空间上）
+
+**核心语义：** 在某物**正前方**（空间位置），是物理位置。
+
+**典型例句：**
+
+1. She stood **in front of** the mirror.（她站在镜子前）
+2. There's a garden **in front of** the house.（房子前面有个花园）
+3. He parked his car **in front of** the building.（他把车停在楼前）
+
+**in front of vs before 的区别：**
+
+| 特征 | in front of | before |
+| --- | --- | --- |
+| 用途 | **空间位置**（物理上在前面） | **时间顺序**或**抽象**（在...之前，面对...） |
+| 例句 | Stand **in front of** the camera.（站在摄像机前面）——物理位置 | I felt nervous **before** the exam.（考试前我很紧张）——时间 |
+| 空间用法 | ✅ | 正式/书面语中也可：He knelt **before** the king.（他跪在国王面前）——带有"面对"含义 |
+
+---
+
+#### ▶ behind — 在...后面
+
+**核心语义：** 在某物**正后方**。
+
+**典型例句：**
+
+1. The cat is hiding **behind** the sofa.（猫藏在沙发后面）
+2. Who is that person standing **behind** you?（站在你后面的那个人是谁？）
+3. Don't talk **behind** someone's back.（不要在背后说人坏话）[固定短语]
+4. We're **behind** schedule.（我们的进度落后了）[引申义：落后于]
+
+---
+
+#### ▶ beside — 在...旁边（侧面）
+
+**核心语义：** 在某物的**侧面**，紧邻。
+
+**典型例句：**
+
+1. Come and sit **beside** me.（来坐在我旁边）
+2. She put her phone **beside** the bed.（她把手机放在床旁边）
+3. The dog sat **beside** its owner.（狗坐在主人旁边）
+
+**固定短语：** beside the point（离题，无关紧要）
+
+---
+
+#### ▶ next to — 紧邻（与 beside 基本同义）
+
+**核心语义：** 紧挨着，与 beside 意思相近，更口语化。
+
+**典型例句：**
+
+1. The pharmacy is **next to** the supermarket.（药店就在超市旁边）
+2. Can I sit **next to** you?（我可以坐在你旁边吗？）
+3. He parked **next to** a red car.（他把车停在一辆红色车旁边）
+
+**beside vs next to 细微差别：**
+
+| 特征 | beside | next to |
+| --- | --- | --- |
+| 正式程度 | 稍正式 | 更口语、日常 |
+| 语义 | 在侧面（强调侧面位置） | 紧邻（强调相邻） |
+| 固定短语 | beside the point（离题） | next to nothing（几乎没有） |
+| 实际使用 | 两者大多数情况可互换 | 两者大多数情况可互换 |
+
+---
+
+#### ▶ between — 在两者之间
+
+**核心语义：** 在**两个**具体的人/物之间（或多个但明确区分的个体之间）。
+
+**典型例句：**
+
+1. She sat **between** Tom and Mary.（她坐在汤姆和玛丽之间）
+2. The road runs **between** the two mountains.（道路在两座山之间穿过）
+3. There's a difference **between** right and wrong.（对与错之间有区别）
+4. Choose **between** these two options.（在这两个选项中选择）
+5. **Between** you and me, I think he's wrong.（你我之间说，我认为他错了）
+
+---
+
+#### ▶ among — 在...之中（三者及以上，融入其中）
+
+**核心语义：** 在**三个或以上的人/物当中**，强调融入其中、被包围。
+
+**典型例句：**
+
+1. She found the letter **among** a pile of old papers.（她在一堆旧文件中找到了那封信）
+2. He is popular **among** his classmates.（他在同学中很受欢迎）
+3. Please share this **among** the team members.（请在团队成员中分享这个）
+4. **Among** other things, he mentioned the budget.（他提到了一些事情，其中包括预算）
+5. The house was hidden **among** the trees.（房子隐匿在树丛中）
+
+**between vs among 对比：**
+
+| 特征 | between | among |
+| --- | --- | --- |
+| 数量 | 两个（或多个但明确区分） | 三个及以上（融入其中） |
+| 形象 | A — X — B（X夹在A和B之间） | X 融入一个群体中 |
+| 例句 | **between** you and me（你我之间） | **among** friends（在朋友们当中） |
+| 特殊情况 | between many countries可用，当指明确的双边关系时 | 如 a treaty between five nations（五国之间的条约） |
+
+**⚠️ 常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 说明 |
+| --- | --- | --- |
+| among two choices | **between** two choices | 两者之间用 between |
+| between the crowd | **among** the crowd | 融入人群中用 among |
+
+---
+
+### 9. near / by / close to / far from
+
+#### ▶ near — 在...附近（距离近）
+
+**核心语义：** 在某物附近，距离不远。可做介词或形容词。
+
+**典型例句：**
+
+1. The hotel is **near** the train station.（酒店在火车站附近）
+2. She lives **near** here.（她住在这附近）
+3. Don't stand too **near** the edge.（不要站得太靠近边缘）
+4. Is there a post office **near** here?（这附近有邮局吗？）
+
+---
+
+#### ▶ by — 紧靠着（比 near 更近）
+
+**核心语义：** 紧挨着，在...旁边（比 near 距离更近，几乎贴着）。
+
+**典型例句：**
+
+1. Come and sit **by** me.（来坐在我身边）
+2. There's a small café **by** the river.（河边有家小咖啡馆）
+3. She stood **by** the window, looking out.（她站在窗边向外望）
+4. The village is **by** the sea.（村庄就在海边）
+
+---
+
+#### ▶ close to — 靠近（距离近，口语/正式均用）
+
+**核心语义：** 靠近，与 near 意思相近，略强调"接近某个程度"。
+
+**典型例句：**
+
+1. The school is **close to** the park.（学校离公园很近）
+2. We're getting **close to** the deadline.（我们快到截止日期了）[抽象]
+3. She was **close to** tears.（她快哭了）[程度接近]
+4. The temperature is **close to** freezing.（气温接近冰点）
+
+---
+
+#### ▶ far from — 距...远；远非...
+
+**核心语义：** 距离某物远（物理距离）；或"远非"（抽象）。
+
+**典型例句：**
+
+1. The airport is **far from** the city center.（机场离市中心很远）
+2. The result was **far from** perfect.（结果远非完美）
+3. We're still **far from** reaching an agreement.（我们距离达成协议还很远）
+4. It's not **far from** here.（离这里不远）
+
+---
+
+#### ▶ near / by / close to 三者区别
+
+| 介词 | 距离感 | 语感 | 特殊用法 |
+| --- | --- | --- | --- |
+| **near** | 附近（范围较宽） | 中性，正式/口语均可 | near future（不远的将来） |
+| **by** | 紧靠（最近，几乎贴着） | 偏口语 | by the river, sit by me |
+| **close to** | 靠近（范围与near相似，强调接近） | 口语/书面均可 | 可用于抽象：close to tears |
+
+---
+
+## Part 1.3 动态方向介词
+
+---
+
+### 10. into / out of / onto / off（动态 vs 静态）
+
+#### ▶ in vs into — 静态 vs 动态进入
+
+**核心区分：**
+
+- **in**：静态位置，已经在里面
+- **into**：动态进入，从外部进入内部的动作
+
+| 特征 | in（静态） | into（动态） |
+| --- | --- | --- |
+| 含义 | 在里面（状态） | 进入里面（动作） |
+| 例句 | She is **in** the car.（她在车里） | She got **into** the car.（她进了车里） |
+
+**典型例句（into）：**
+
+1. He walked **into** the room without knocking.（他没敲门就走进了房间）
+2. She dived **into** the swimming pool.（她跳进了游泳池）
+3. Pour the milk **into** the cup.（把牛奶倒进杯子里）
+4. The burglar broke **into** the house.（窃贼破门而入）
+5. She translated the text **into** Chinese.（她把文章翻译成了中文）[比喻用法]
+
+**⚠️ 常见错误：**
+
+| ❌ 错误 | ✅ 正确 | 说明 |
+| --- | --- | --- |
+| She jumped in the pool. | She jumped **into** the pool. | 跳进去是动态动作，用 into |
+| He came in the room. | He came **into** the room. | 进入动作，用 into |
+
+---
+
+#### ▶ on vs onto — 静态 vs 动态到达表面
+
+**核心区分：**
+
+- **on**：静态，已经在表面上
+- **onto**：动态，移动到表面上的动作
+
+| 特征 | on（静态） | onto（动态） |
+| --- | --- | --- |
+| 含义 | 在表面上（状态） | 移动到表面上（动作） |
+| 例句 | The cat is **on** the roof.（猫在屋顶上） | The cat jumped **onto** the roof.（猫跳上了屋顶） |
+
+**典型例句（onto）：**
+
+1. She climbed **onto** the table.（她爬上了桌子）
+2. The dog jumped **onto** the sofa.（狗跳上了沙发）
+3. He stepped **onto** the stage.（他踏上了舞台）
+4. Water spilled **onto** the floor.（水洒到了地板上）
+5. She uploaded the file **onto** the server.（她把文件上传到服务器上）
+
+---
+
+#### ▶ out of — 从内部出来（动态，对应 into）
+
+**核心语义：** 从**内部**出来，与 into 方向相反。
+
+**典型例句：**
+
+1. He got **out of** the car.（他从车里出来了）
+2. She took the keys **out of** her bag.（她从包里取出钥匙）
+3. The prisoners escaped **out of** the jail.（囚犯从监狱里逃了出来）
+4. Take the bread **out of** the oven.（把面包从烤箱里取出来）
+5. He ran **out of** the building in a panic.（他惊慌失措地跑出大楼）
+
+---
+
+#### ▶ off — 从表面离开（动态，对应 onto）
+
+**核心语义：** 从**表面**离开、脱离，与 onto 方向相反。
+
+**典型例句：**
+
+1. He fell **off** his bike.（他从自行车上摔了下来）
+2. Take the picture **off** the wall.（把画从墙上取下来）
+3. She jumped **off** the diving board.（她从跳台上跳了下去）
+4. The button fell **off** my shirt.（衬衫上的扣子掉了）
+5. Please take your shoes **off**.（请把鞋脱掉）
+
+---
+
+#### ▶ 动态 vs 静态 四组对比总览
+
+| 静态（位置状态） | 动态（进入/离开动作） | 方向 |
+| --- | --- | --- |
+| in the room（在房间里） | **into** the room（进入房间） | 由外到内 ↘ |
+| in the room（在房间里） | **out of** the room（从房间出来） | 由内到外 ↗ |
+| on the table（在桌上） | **onto** the table（移动到桌上） | 到达表面 ↘ |
+| on the table（在桌上） | **off** the table（从桌上离开） | 离开表面 ↗ |
+
+---
+
+### 11. across / through / along / around / past
+
+#### ▶ across — 从一边到另一边（穿越宽度/表面）
+
+**核心语义：** 从某物的**一边移动到另一边**，强调穿越宽度（通常是平面、表面）。
+
+**典型例句：**
+
+1. She swam **across** the river.（她游过了那条河）
+2. He walked **across** the street.（他穿过了街道）
+3. There's a bridge **across** the river.（河上有一座桥）
+4. They drove **across** the country.（他们开车穿越了整个国家）
+5. She could see the mountains **across** the valley.（她能看到山谷对面的山脉）
+
+**核心意象：** → → → 穿越宽度/平面，到达对面
+
+---
+
+#### ▶ through — 穿过内部（穿越三维空间内部）
+
+**核心语义：** 从某个**三维空间的内部穿过**，有"进入—穿越—出来"的含义。
+
+**典型例句：**
+
+1. We walked **through** the forest.（我们穿过了森林）
+2. The train goes **through** a tunnel.（火车穿越隧道）
+3. Light shines **through** the window.（光线透过窗户照进来）
+4. She pushed her way **through** the crowd.（她从人群中挤过去）
+5. He looked **through** the telescope.（他用望远镜看）
+
+**核心意象：** → 进入内部 → 穿越 → 从另一侧出来
+
+---
+
+#### ▶ across vs through 关键辨析
+
+| 特征 | across | through |
+| --- | --- | --- |
+| 穿越维度 | 平面/宽度（从一边到另一边） | 三维空间内部（从中穿过） |
+| 意象 | 穿越河流、街道、平原 | 穿越森林、隧道、人群 |
+| 例句 | swim **across** the river（游过河——强调从此岸到彼岸） | walk **through** the river（趟过河——从河里穿过，在内部） |
+
+---
+
+#### ▶ along — 沿着（方向平行）
+
+**核心语义：** 沿着某物的方向移动，路径与某物**平行**（沿路走、沿河走等）。
+
+**典型例句：**
+
+1. We walked **along** the river.（我们沿河漫步）
+2. There are trees **along** the road.（道路两旁有树木）
+3. She jogged **along** the beach.（她沿着海滩慢跑）
+4. The houses **along** the street were decorated.（街道两侧的房子都装饰了）
+5. Come **along** with me.（跟我来）[固定短语]
+
+**核心意象：** ══════ 沿着一条线（路、河、海岸）移动
+
+---
+
+#### ▶ around — 围绕/绕行（改变方向、环绕）
+
+**核心语义：** 环绕某物移动（一圈或半圈），或绕过某物。
+
+**典型例句：**
+
+1. We walked **around** the lake.（我们绕湖散步）
+2. The Earth moves **around** the Sun.（地球绕太阳运转）
+3. We had to go **around** the road block.（我们不得不绕开路障）
+4. Children were running **around** the playground.（孩子们在操场上跑来跑去）
+5. I've been **around** the world twice.（我已经环游了两次世界）
+
+---
+
+#### ▶ past — 经过（不停留，从旁边经过）
+
+**核心语义：** 经过某物**旁边**并继续前行，**不停留**。
+
+**典型例句：**
+
+1. I walk **past** the coffee shop every morning.（我每天早上经过那家咖啡馆）
+2. He drove **past** the school without stopping.（他开车经过学校没有停下）
+3. She waved to me as she walked **past**.（她走过时向我挥了挥手）
+4. The train rushed **past** the station.（火车呼啸着驶过车站）
+5. Time flies **past**.（时光飞逝）[比喻]
+
+---
+
+#### ▶ 五者对比总览
+
+| 介词 | 核心含义 | 意象 | 典型例句 |
+| --- | --- | --- | --- |
+| **across** | 从一边到另一边（穿越宽度） | A→→→B（穿越平面） | swim **across** the river |
+| **through** | 穿越内部（进入—穿过—出来） | →[内部]→ | walk **through** the forest |
+| **along** | 沿着（与某物平行前进） | ══════ | walk **along** the road |
+| **around** | 围绕/绕行 | ○ | walk **around** the lake |
+| **past** | 经过（不停留） | →→→[旁边] | walk **past** the shop |
+
+---
+
+### 12. to / toward / towards / for（朝向目标）
+
+#### ▶ to — 到达目的地（强调到达）
+
+**核心语义：** 表示前往某地，**强调到达**目的地。
+
+**典型例句：**
+
+1. I go **to** school every day.（我每天去上学）
+2. She moved **to** London last year.（她去年搬到了伦敦）
+3. He's flying **to** Paris tomorrow.（他明天要飞往巴黎）
+4. Please send this letter **to** my address.（请把这封信寄到我的地址）
+5. The train from Beijing **to** Shanghai takes about five hours.（北京到上海的火车大约需要5小时）
+
+**注意：** to home / to school 不需要冠词（但 to the station / to the school 需要定冠词）
+
+- go **home**（不用 to）/ go **to** the station
+
+---
+
+#### ▶ toward / towards — 朝着方向（不一定到达）
+
+**核心语义：** 朝某个方向移动，**不一定到达**目的地，强调方向而非终点。toward（美式）= towards（英式），语义完全相同。
+
+**典型例句：**
+
+1. She walked **toward** the door but then stopped.（她朝门走去，但随后停了下来）
+2. He turned **toward** me and smiled.（他转向我，微笑着）
+3. We're moving **toward** a solution.（我们正在向解决方案迈进）[抽象]
+4. The dog ran **towards** the ball.（狗跑向那个球）
+5. **Toward** the end of the movie, the plot gets more complex.（电影接近尾声时，情节变得更复杂了）[接近某时间/程度]
+
+---
+
+#### ▶ for — 出发前往（出发方向，关注起点动作）
+
+**核心语义：** 表示**出发前往**某地（强调出发动作和目的地，不强调是否到达）。常与 leave / set off / set out / head / depart 等搭配。
+
+**典型例句：**
+
+1. They left **for** Paris this morning.（他们今天早上出发去巴黎了）
+2. She set out **for** the mountains at dawn.（她在黎明时出发去山里了）
+3. The ship headed **for** the open sea.（船驶向公海）
+4. He departed **for** London.（他动身去伦敦了）
+5. We're bound **for** New York.（我们要去纽约）
+
+---
+
+#### ▶ to / toward / for 辨析
+
+| 介词 | 强调 | 是否到达 | 常见搭配动词 |
+| --- | --- | --- | --- |
+| **to** | 目的地（到达） | ✅ 强调到达 | go, come, travel, fly, move |
+| **toward(s)** | 方向（移动趋势） | ❓ 不一定到达 | walk, run, move, turn, head |
+| **for** | 出发（起点的动作） | ❓ 不强调到达 | leave, set off, head, depart, bound |
+
+**对比例句：**
+
+- He **went to** Paris.（他去了巴黎）——到达了
+- He walked **toward** Paris.（他朝巴黎方向走去）——方向，不确定到没到
+- He left **for** Paris.（他出发去巴黎了）——出发动作，不知道到没到
+
+---
+
+### 13. from / away from / out of（来源/离开）
+
+#### ▶ from — 来源/起点
+
+**核心语义：** 表示来自某地、某人，或某动作的**起点/来源**。
+
+**典型例句：**
+
+1. She's **from** Beijing.（她来自北京）
+2. I received a letter **from** my friend.（我收到了朋友的来信）
+3. He graduated **from** university last year.（他去年大学毕业）
+4. The product is made **from** recycled materials.（这个产品由回收材料制成）
+5. We drove **from** Shanghai to Hangzhou in two hours.（我们两小时内从上海开车到了杭州）
+
+---
+
+#### ▶ away from — 离开/远离（强调离开的方向和距离）
+
+**核心语义：** 表示从某处移走、远离，强调**离开方向**和**增加距离**。
+
+**典型例句：**
+
+1. Move **away from** the fire!（离火远一点！）
+2. She walked **away from** the argument without saying a word.（她一言不发地走开了）
+3. The city is 50 km **away from** the coast.（这座城市距海岸50公里）
+4. Keep children **away from** dangerous tools.（让孩子们远离危险工具）
+5. He ran **away from** his problems instead of facing them.（他逃避问题，而非面对）
+
+---
+
+#### ▶ out of — 从内部出来（来自内部空间）
+
+**核心语义：** 从某个**内部空间**出来，强调从内到外的动作（与 into 相反）。
+
+**典型例句：**
+
+1. She came **out of** the building.（她从大楼里走出来）
+2. He took the phone **out of** his pocket.（他从口袋里掏出手机）
+3. The cat jumped **out of** the window.（猫从窗户里跳了出去）
+4. We ran **out of** time.（我们没时间了）[固定短语：out of time/stock/money]
+5. He made a sculpture **out of** wood.（他用木头雕了一个雕塑）
+
+---
+
+#### ▶ from / away from / out of 辨析
+
+| 介词 | 来源/起点性质 | 强调 |
+| --- | --- | --- |
+| **from** | 泛指来源（地方、人、物） | 起点/来源 |
+| **away from** | 离开某处（强调离开方向） | 距离增加、远离 |
+| **out of** | 从内部出来 | 由内到外的动作 |
+
+---
+
+### 14. up / down / along（路径）
+
+#### ▶ up — 向上（沿路径上升）
+
+**核心语义：** 沿着某路径**向上**移动。
+
+**典型例句：**
+
+1. We climbed **up** the mountain.（我们爬上了山）
+2. Go **up** the stairs and turn left.（上楼后向左转）
+3. She walked **up** the hill slowly.（她慢慢地走上了山坡）
+4. He swam **up** the river against the current.（他逆流而上游河）
+5. Water flows **up** through the pipe.（水从管道向上流）
+
+**固定搭配：** go up / walk up / climb up / run up / fly up / come up（向上过来）
+
+---
+
+#### ▶ down — 向下（沿路径下降）
+
+**核心语义：** 沿着某路径**向下**移动。
+
+**典型例句：**
+
+1. She slid **down** the slope.（她沿着斜坡滑了下去）
+2. Come **down** the stairs carefully.（小心地走下楼梯）
+3. The ball rolled **down** the hill.（球从山上滚了下来）
+4. He swam **down** the river with the current.（他顺流而下游河）
+5. Walk **down** this road for about 500 meters.（沿这条路往前走大约500米）
+
+**固定搭配：** go down / walk down / come down / roll down / run down
+
+---
+
+#### ▶ along — 沿着（方向平行，不升不降）
+
+**核心语义：** 沿着某路径的长度方向**平行**移动（路、河、海岸线等）。
+
+**典型例句：**
+
+1. They walked **along** the path through the woods.（他们沿着穿越树林的小路走去）
+2. Drive **along** this road until you see a church.（沿这条路开到看见一座教堂为止）
+3. She strolled **along** the beach at sunset.（她在日落时分沿着海滩漫步）
+4. The fence runs **along** the border.（栅栏沿着边界延伸）
+5. There are lamp posts **along** the avenue.（大道两旁有路灯柱）
+
+---
+
+#### ▶ up / down / along 路径三者对比
+
+| 介词 | 方向 | 典型场景 |
+| --- | --- | --- |
+| **up** | 向上（沿路径上升） | up the stairs / up the hill / up the river（逆流） |
+| **down** | 向下（沿路径下降） | down the stairs / down the hill / down the river（顺流） |
+| **along** | 平行（沿路径延伸方向） | along the road / along the river / along the coast |
+
+---
+
+## 快速查阅索引
+
+### 时间介词速查表
+
+| 想表达 | 用哪个 | 例句 |
+| --- | --- | --- |
+| 精确时刻 | **at** | at 8pm, at noon |
+| 某一天/星期 | **on** | on Monday, on July 4th |
+| 月份/年份/季节 | **in** | in April, in 2026, in summer |
+| 上午/下午/晚上 | **in the** | in the morning/afternoon/evening |
+| 夜晚 | **at** | at night |
+| 持续时长 | **for** | for three hours |
+| 从某时起持续至今 | **since** | since 2020 |
+| 在某特定时期内 | **during** | during the meeting |
+| 贯穿整段时间 | **through** | through the night |
+| 截止时间（deadline） | **by** | by Friday |
+| 持续到某时停止 | **until/till** | until midnight |
+| 时间之内（不超过） | **within** | within 24 hours |
+| 多少时间后 | **in** | in three days |
+| 距现在多久前 | **ago** | three years ago |
+
+### 空间介词速查表
+
+| 想表达 | 用哪个 | 例句 |
+| --- | --- | --- |
+| 在某位置点 | **at** | at the station, at home |
+| 在表面上 | **on** | on the table, on the wall |
+| 在内部 | **in** | in the room, in London |
+| 高于（不强调正上方） | **above** | above average |
+| 在正上方/覆盖/越过 | **over** | over the city, a blanket over |
+| 低于 | **below** | below zero |
+| 在正下方/被覆盖 | **under** | under the table |
+| 在前面（空间） | **in front of** | in front of the mirror |
+| 在后面 | **behind** | behind the sofa |
+| 在旁边 | **beside / next to** | beside me, next to the door |
+| 两者之间 | **between** | between A and B |
+| 多者之中 | **among** | among friends |
+
+### 方向介词速查表
+
+| 想表达 | 用哪个 | 例句 |
+| --- | --- | --- |
+| 进入内部（动态） | **into** | get into the car |
+| 从内出来（动态） | **out of** | get out of the car |
+| 移动到表面上（动态） | **onto** | jump onto the roof |
+| 从表面离开（动态） | **off** | fall off the bike |
+| 穿越宽度（到对面） | **across** | swim across the river |
+| 穿过内部 | **through** | walk through the forest |
+| 沿着（平行） | **along** | walk along the road |
+| 围绕/绕过 | **around** | walk around the lake |
+| 经过（不停留） | **past** | walk past the shop |
+| 到达目的地 | **to** | go to school |
+| 朝某方向（不一定到） | **toward(s)** | walk toward the door |
+| 出发前往 | **for** | leave for Paris |
+| 来源/起点 | **from** | from Beijing |
+| 远离/离开 | **away from** | move away from |
+| 向上（沿路径） | **up** | go up the stairs |
+| 向下（沿路径） | **down** | come down the hill |
+
+---
+
+*Part 1 覆盖英语介词核心用法，聚焦时间、地点/空间、方向三大类别，每项含核心语义、典型例句、常见错误及近义辨析。*
+
+---
+
+## 英语介词完全指南 · Part 2
+
+### 关系逻辑介词 · 动词固定搭配 · 形容词固定搭配 · 名词固定搭配
+
+> 2026-04-05
+
+---
+
+### 2.1 关系/逻辑介词深度解析
+
+#### of — 最高频介词
+
+**核心语义：所属、组成、数量、描述、同位**
+
+| 用法 | 说明 | 例句 |
+| --- | --- | --- |
+| 所属关系 | 表示某物归属于某人/某地 | the door **of** the room / the capital **of** China |
+| 组成成分 | 表示由…构成 | a cup **of** tea / a piece **of** advice / a group **of** students |
+| 描述/性质 | 用名词描述另一名词的特征 | a man **of** courage / a matter **of** time / a city **of** contrasts |
+| 数量/部分 | 表示整体中的部分 | most **of** them / some **of** us / a lot **of** money / none **of** it |
+| 同位关系 | of 后的名词解释前面名词 | the city **of** London / the crime **of** theft |
+| 动名词短语 | 名词 + of + doing | the idea **of** going / fear **of** failure / the chance **of** winning |
+| 时间/距离 | 表示时间点附近（主要见于美式英语） | It's a quarter **of** six.（差一刻六点） |
+
+**常见固定结构（含 of）：**
+
+| 结构 | 例句 |
+| --- | --- |
+| because of | He stayed home **because of** the rain. |
+| instead of | She had tea **instead of** coffee. |
+| in spite of | They kept going **in spite of** the cold. |
+| as a result of | He lost his job **as a result of** the merger. |
+| on behalf of | I'm speaking **on behalf of** the team. |
+| in terms of | **In terms of** cost, it's too expensive. |
+| kind of / sort of | That's **kind of** interesting.（口语，"有点"） |
+| in front of | Stand **in front of** the camera. |
+| in charge of | She is **in charge of** the project. |
+| out of | He ran **out of** ideas. |
+| regardless of | We'll proceed **regardless of** the outcome. |
+| on top of | **On top of** everything else, it started raining. |
+
+---
+
+#### about vs on — 都表"关于"，场合截然不同
+
+| 维度 | about | on |
+| --- | --- | --- |
+| 正式程度 | 日常/口语/一般书面 | 正式/学术/专业 |
+| 深度 | 一般性涉及，泛泛而谈 | 专门研究，深入论述 |
+| 典型场景 | 日常对话、新闻报道、小说 | 学术论文、讲座、专著 |
+| 搭配动词 | talk / think / know / worry / read | lecture / write / essay / paper / research |
+
+**例句对比：**
+
+- a book **about** dogs（一本关于狗的书，泛泛读物）
+- a treatise **on** canine behavior（关于犬类行为的专著）
+- Let's talk **about** the weather.（日常聊天）
+- He delivered a lecture **on** climate change.（正式讲座）
+- I was thinking **about** you.（我在想你——情感层面）
+- She wrote a paper **on** neural networks.（写了一篇神经网络论文）
+- What's the film **about**?（电影讲什么的？）
+- His research **on** dark matter was groundbreaking.（他关于暗物质的研究开创性极强）
+
+> **速记口诀：** about = 闲聊；on = 专论
+
+---
+
+#### with / without
+
+**with 的六大用法：**
+
+| 用法 | 说明 | 例句 |
+| --- | --- | --- |
+| 伴随 | 和…一起 | Come **with** me. / She arrived **with** her dog. |
+| 使用工具 | 用…（工具/材料） | Write **with** a pen. / Cut it **with** scissors. |
+| 具有/带有 | 附带某种特征 | A house **with** a garden. / A man **with** blue eyes. |
+| 方式 | 以…方式（= in a … way） | Handle **with** care. / Speak **with** confidence. |
+| 原因（情绪/感受） | 因为…而（身体反应） | Shiver **with** cold. / Tremble **with** fear. / Flush **with** pride. |
+| 让步（尽管） | 尽管拥有…（与期望相反） | **With** all his money, he's not happy. |
+
+**without 用法：**
+
+| 用法 | 例句 |
+| --- | --- |
+| 缺乏/不带 | Go **without** food. / A room **without** windows. |
+| 未做…就… | He left **without** saying goodbye.（without + doing） |
+| 否定强调 | **Without** your help, I would have failed. |
+
+> ⚠️ **注意：** without 后接动词需用 **-ing 形式**，不是 to do。
+
+---
+
+#### by — 最多义介词之一
+
+| 用法 | 说明 | 例句 |
+| --- | --- | --- |
+| 方式/手段 | 乘坐/通过…方式 | Travel **by** bus / **by** plane / **by** sea |
+| 使用途径 | 通过…途径（通信、支付等） | Send **by** email / pay **by** card / **by** hand |
+| 偶然/错误 | 固定短语中表附带情况 | **by** mistake / **by** accident / **by** chance / **by** coincidence |
+| 施动者 | 被动句中表动作执行者 | Written **by** Shakespeare. / Made **by** hand. |
+| 截止时间 | 不迟于…（deadline） | Finish it **by** Friday. / **By** the end of the year. |
+| 程度/变化量 | 增减了多少 | Increase **by** 20% / Differ **by** a lot / Reduce **by** half. |
+| 位置（紧靠） | 在…旁边 | Sit **by** the window. / A house **by** the river. |
+| 尺寸/比率 | 用于测量表达 | A room 5 meters **by** 3 meters. / Sell **by** the kilo. |
+| 逐渐/依次 | 重复用法 | Step **by** step. / Day **by** day. / One **by** one. |
+
+**固定表达（by）：**
+
+| 表达 | 含义 |
+| --- | --- |
+| by the way | 顺便说一句 |
+| by far | 迄今为止（最…） |
+| by now | 到现在为止 |
+| by heart | 凭记忆，背诵 |
+| by all means | 当然，完全可以 |
+| by no means | 绝不，决非 |
+| by oneself | 独自，靠自己 |
+| stand by | 准备好；支持 |
+| judge by / go by | 根据…判断 |
+
+> **by vs until（时间辨析）：**
+> - **by** Friday = 不迟于周五（截止，一次性动作）
+> - **until** Friday = 一直到周五（持续，延续性动作）
+> - *Finish it by Friday.* ✓ / *Wait until Friday.* ✓
+
+---
+
+#### for — 用途最广的介词之一
+
+| 用法 | 说明 | 例句 |
+| --- | --- | --- |
+| 目的 | 为了…（目标/用途） | Study **for** the exam. / A gift **for** you. / What **for**? |
+| 原因 | 因为…而（奖惩/感谢/著名） | Famous **for** / Punished **for** / Thank you **for** your help. |
+| 代替/支持 | 代表…；支持… | Fight **for** justice. / Vote **for** the candidate. / Speak **for** yourself. |
+| 持续时间 | 持续了…时长（与完成时连用） | Wait **for** three hours. / Haven't seen him **for** a long time. |
+| 交换 | 以…换… | Exchange A **for** B. / Pay 10 dollars **for** this. |
+| 对于/对…来说 | 从某人角度看 | Good **for** you. / Bad **for** health. / It's difficult **for** me. |
+| 去往目的地 | 出发前往（与 leave/head/set off 连用） | Leave **for** Paris. / Depart **for** London. |
+| 适合/不适合 | 固定搭配 | Fit **for** purpose. / Unfit **for** work. |
+
+**固定表达（for）：**
+
+| 表达 | 含义 |
+| --- | --- |
+| for example / for instance | 例如 |
+| for good | 永远，从此 |
+| for now | 暂时，目前 |
+| for once | 就这一次，破例 |
+| for sure | 肯定，确实 |
+| for free | 免费 |
+| for sale | 出售中 |
+| for granted | 视为理所当然（take for granted） |
+| for the time being | 暂时；目前 |
+| once and for all | 一劳永逸 |
+
+---
+
+#### as — 多功能词（介词/连词/副词）
+
+| 用法 | 词性 | 说明 | 例句 |
+| --- | --- | --- | --- |
+| 作为/充当 | 介词 | 身份/角色 | Work **as** a teacher. / Use it **as** a tool. / Regard him **as** a friend. |
+| 当…时 | 连词 | 同时发生（时间从句） | **As** I was walking, it started to rain. |
+| 随着…（逐渐） | 连词 | 表示随时间推移的变化 | **As** we grow older, we become wiser. |
+| 像…一样 | 连词/副词 | 比较相等 | **As** tall **as** a tree. / Run **as** fast **as** possible. |
+| 因为（书面） | 连词 | 原因（正式文体） | **As** it was late, we decided to stay. |
+| 尽管（倒装） | 连词 | 让步（形容词提前） | Strange **as** it may seem, it's true. |
+
+**固定表达（as）：**
+
+| 表达 | 含义 |
+| --- | --- |
+| as well as | 除…以外，也；以及 |
+| such as | 例如 |
+| as long as | 只要；与其说…不如 |
+| as far as | 就…而言；远到 |
+| as soon as | 一…就… |
+| as a result | 结果是 |
+| as usual | 像往常一样 |
+| as for / as to | 至于…；关于… |
+| so as to | 以便于（目的） |
+| as if / as though | 好像，仿佛 |
+
+> ⚠️ **as vs like（常见混淆）：**
+> - **as**（连词）后接**从句**：Do **as** I say.（按我说的做）
+> - **like**（介词）后接**名词/代词**：He sings **like** a professional.（他唱得像专业人士）
+> - 口语中 like 常替代 as，但在正式写作中应区分。
+
+---
+
+#### despite / in spite of — 尽管
+
+| 特征 | despite | in spite of |
+| --- | --- | --- |
+| 词性 | 介词（单词） | 介词短语 |
+| 后接成分 | 名词/代词/动名词 | 名词/代词/动名词 |
+| 能否接 of | ❌ **不能**（despite of 是错误的！） | ✅（of 是其组成部分） |
+| 正式程度 | 略正式 | 同等正式 |
+| 语气 | 两者完全相同 | 两者完全相同 |
+
+**例句：**
+
+- **Despite** the rain, we went out. ✓
+- **In spite of** the rain, we went out. ✓
+- ~~Despite of the rain~~ ✗（错误！）
+- Despite **the fact that** it rained, we went out. ✓（despite 后可接 the fact that 从句）
+- In spite of **feeling tired**, she kept working. ✓（后接动名词）
+
+> **速记：** despite = 一个词，直接接名词；in spite of = 三个词，of 是其自带的。
+
+---
+
+### 2.2 固定介词搭配（动词 + 介词）
+
+#### ON 系列
+
+| 搭配 | 核心含义 | 例句 | 注意事项 |
+| --- | --- | --- | --- |
+| **depend on** | 依赖；取决于 | It **depends on** the weather. | 也可用 depend upon（更正式） |
+| **rely on** | 依靠；信赖 | You can **rely on** her to help. | 强调信任，比 depend 更个人化 |
+| **insist on** | 坚持（要求） | He **insisted on** paying the bill. | 后接名词/动名词 |
+| **focus on** | 专注于 | Let's **focus on** the main issue. | 可换 concentrate on，但 focus 更口语 |
+| **concentrate on** | 集中注意力于 | She **concentrated on** her work. | 强调排除干扰后的专注 |
+| **agree on** | 就…达成一致 | We finally **agreed on** a price. | agree on = 就某事达成共识；agree with = 赞同某人 |
+| **decide on** | 决定选择 | Have you **decided on** a date? | 从多个选项中做出最终选择 |
+| **comment on** | 就…发表评论 | The CEO refused to **comment on** the rumors. | 正式表达 |
+| **reflect on** | 深思；回顾 | Take time to **reflect on** your choices. | 带有反思/内省意味 |
+| **work on** | 致力于；从事 | She's **working on** a new novel. | 表示正在进行中的工作 |
+
+---
+
+#### IN 系列
+
+| 搭配 | 核心含义 | 例句 | 注意事项 |
+| --- | --- | --- | --- |
+| **result in** | 导致（结果） | The accident **resulted in** three deaths. | result in = 产生结果；result from = 由…引起 |
+| **succeed in** | 在…方面成功 | She **succeeded in** passing the exam. | 后接动名词，不接 to do |
+| **believe in** | 相信…的存在/价值 | I **believe in** hard work. | believe in = 相信价值；believe = 相信陈述是真的 |
+| **invest in** | 投资于；投入到 | They **invested in** renewable energy. | 也可用于时间/精力的投入 |
+| **participate in** | 参与；参加 | Everyone was invited to **participate in** the discussion. | 比 join in 更正式 |
+| **engage in** | 参与；从事 | He often **engages in** debate. | 偏正式/书面；engage with = 与…互动 |
+| **specialize in** | 专攻；专门从事 | She **specializes in** criminal law. | 常见于职业/学术领域 |
+| **persist in** | 坚持（负面或中性） | He **persisted in** his refusal. | 带有"执意"的语感，有时含负面含义 |
+
+---
+
+#### OF 系列
+
+| 搭配 | 核心含义 | 例句 | 注意事项 |
+| --- | --- | --- | --- |
+| **consist of** | 由…组成 | Water **consists of** hydrogen and oxygen. | 不用被动，不用进行时 |
+| **think of** | 想到；认为 | What do you **think of** the plan? | think of = 想到/评价；think about = 思考/考虑 |
+| **dream of** | 梦想；梦见 | She **dreams of** becoming a doctor. | dream of/about 均可，of 更强调渴望 |
+| **approve of** | 赞成；批准 | I don't **approve of** his behavior. | approve of = 对…持肯定态度；approve sth = 正式批准某事 |
+| **disapprove of** | 不赞成；反对 | She **disapproved of** their decision. | 反义 approve of |
+| **take advantage of** | 利用（机会/弱点） | **Take advantage of** every opportunity. | 可指正面利用机会，也可指负面占便宜 |
+| **get rid of** | 摆脱；处理掉 | I need to **get rid of** this old sofa. | 固定短语，不可拆分 |
+| **make use of** | 利用；使用 | **Make use of** all available resources. | 近义 take advantage of，但更中性 |
+| **be aware of** | 意识到；知道 | Are you **aware of** the risks? | 状态动词，一般不用进行时 |
+| **be fond of** | 喜爱 | She's **fond of** classical music. | 比 like 更书面，情感更深 |
+| **be proud of** | 以…为荣 | He's **proud of** his children. | 反义：be ashamed of |
+| **be ashamed of** | 为…感到羞耻 | She was **ashamed of** her mistake. | 强调道德/社会层面的羞愧 |
+| **be capable of** | 有能力做 | He's **capable of** great things. | 后接动名词；反义：be incapable of |
+| **be afraid of** | 害怕 | I'm **afraid of** spiders. | 也可接 to do（表示不敢做） |
+
+---
+
+#### TO 系列
+
+| 搭配 | 核心含义 | 例句 | 注意事项 |
+| --- | --- | --- | --- |
+| **lead to** | 导致；通向 | Stress can **lead to** serious illness. | to 是介词，后接名词/动名词 |
+| **contribute to** | 贡献；促成 | Exercise **contributes to** good health. | to 是介词，后接名词/动名词 |
+| **refer to** | 指的是；参考；提及 | What does "it" **refer to** here? | 多义：查阅/指代/提及 |
+| **respond to** | 回应；响应 | Please **respond to** this email. | 比 reply to 更正式 |
+| **react to** | 对…作出反应 | How did she **react to** the news? | 强调即时/本能的反应 |
+| **object to** | 反对；抗议 | I **object to** being treated this way. | to 是介词，后接动名词（不是 to do） |
+| **belong to** | 属于；归属 | This book **belongs to** me. | 状态动词，不用进行时 |
+| **appeal to** | 吸引；呼吁；上诉 | Does jazz **appeal to** you? | 多义：吸引/呼吁/上诉 |
+| **apply to** | 适用于；申请（某机构） | This rule **applies to** everyone. | apply to = 适用；apply for = 申请（职位/资金） |
+| **amount to** | 共计；相当于 | The bill **amounts to** $500. | 也可用于抽象意义：That **amounts to** a lie. |
+| **listen to** | 听（需要 to！） | **Listen to** the music. | ⚠️ 注意必须有 to，hear 不用 to |
+| **look forward to** | 期待 | I'm **looking forward to** seeing you. | ⚠️ to 是介词，后接动名词（seeing，不是 see） |
+| **adapt to** | 适应 | It takes time to **adapt to** a new culture. | adapt to = 适应（变化）；adapt for = 改编（用途） |
+
+---
+
+#### WITH 系列
+
+| 搭配 | 核心含义 | 例句 | 注意事项 |
+| --- | --- | --- | --- |
+| **deal with** | 处理；应对；涉及 | How do you **deal with** stress? | 多义：处理问题/与…打交道/内容涉及 |
+| **cope with** | 应付；应对（困难） | She **coped with** the pressure well. | 含有挣扎克服的意味，比 deal with 更强调艰难 |
+| **provide with** | 为…提供 | The company **provided us with** equipment. | 结构：provide sb **with** sth；也可 provide sth **for** sb |
+| **compare with** | 与…相比较 | **Compared with** last year, sales have improved. | 侧重异同对比 |
+| **compare to** | 把…比喻成 | He **compared** her smile **to** sunshine. | 侧重比喻，把A比作B |
+| **associate with** | 与…联系；与…来往 | Don't **associate with** bad influences. | 也可用被动：be associated with = 与…有关联 |
+| **interfere with** | 干扰；妨碍 | Don't **interfere with** my work. | interfere in = 干涉（事务）；interfere with = 妨碍（进行） |
+| **comply with** | 遵守；服从 | All staff must **comply with** the regulations. | 正式用语，强调规则/法律层面的遵守 |
+
+---
+
+#### FOR 系列
+
+| 搭配 | 核心含义 | 例句 | 注意事项 |
+| --- | --- | --- | --- |
+| **search for** | 搜寻；寻找 | Police are **searching for** the missing child. | 比 look for 更强调系统性/持续性搜索 |
+| **wait for** | 等待 | I've been **waiting for** you for an hour. | 不可省略 for：~~wait you~~ ✗ |
+| **hope for** | 希望得到 | Let's **hope for** the best. | hope for = 希望（某结果发生）；hope to do = 希望做某事 |
+| **long for** | 渴望；极度想念 | She **longed for** home. | 情感更强烈，带有思念/渴望的情感色彩 |
+| **apply for** | 申请（职位/许可） | She **applied for** a scholarship. | apply for = 申请；apply to = 适用于 |
+| **ask for** | 要求；请求 | Don't be afraid to **ask for** help. | ask for = 要求得到某物；ask = 提问 |
+| **care for** | 照顾；在乎；喜欢 | She **cared for** her elderly parents. | care for = 照料；care about = 在意（情感） |
+| **look for** | 寻找 | What are you **looking for**? | 日常用语，search for 更正式 |
+| **prepare for** | 为…做准备 | **Prepare for** the worst. | prepare for = 预备；prepare sth = 准备某物 |
+| **stand for** | 代表；代表…原则；忍受 | What does "NATO" **stand for**? | 多义：代表/缩写含义/容忍（多用于否定） |
+| **pay for** | 为…付钱；为…付出代价 | I'll **pay for** dinner. | 也可用于抽象：You'll **pay for** this. |
+| **account for** | 解释；占（比例） | How do you **account for** this discrepancy? | 也可用于比例：Rent **accounts for** 30% of income. |
+
+---
+
+#### ABOUT 系列
+
+| 搭配 | 核心含义 | 例句 | 注意事项 |
+| --- | --- | --- | --- |
+| **talk about** | 谈论 | We **talked about** the project. | 日常表达，比 discuss 更随意 |
+| **worry about** | 担心 | Don't **worry about** small things. | worry about sth/sb；be worried about 更强调当下状态 |
+| **think about** | 思考；考虑 | I need to **think about** it. | think about = 考虑；think of = 想起/评价 |
+| **care about** | 在乎；关心 | He doesn't **care about** money. | 强调情感上的重视，反义：not care about |
+| **complain about** | 抱怨；投诉 | She's always **complaining about** the weather. | complain to sb about sth（向某人投诉某事） |
+| **argue about** | 争论；争辩 | They're always **arguing about** money. | argue about = 争论主题；argue with = 和某人争吵 |
+| **know about** | 知道（关于某事） | What do you **know about** this? | know about = 了解（信息）；know = 认识（人）/知道（事实） |
+| **hear about** | 听说（某事） | Have you **heard about** the news? | hear about = 听说（消息）；hear from = 收到联系 |
+
+---
+
+#### compare with vs compare to 专项辨析
+
+|   | compare with | compare to |
+| --- | --- | --- |
+| **核心用法** | 对比两者（找异同） | 把 A 比喻成 B |
+| **典型场景** | 分析比较，考察差异 | 文学/修辞比喻 |
+| **例句** | Compare this version **with** the original. | He **compared** her to a summer's day.（莎翁） |
+| **可否互换** | 现代英语口语中常混用，正式写作建议区分 | — |
+
+> 莎士比亚的名句："Shall I **compare** thee **to** a summer's day?" 用的是 to，因为是比喻，不是找异同。
+
+---
+
+### 2.3 固定介词搭配（形容词 + 介词）
+
+#### 形容词 + OF
+
+| 搭配 | 例句 | 补充说明 |
+| --- | --- | --- |
+| **afraid of** | I'm **afraid of** the dark. | 也可接 to do（表示不敢做某事） |
+| **ashamed of** | He was **ashamed of** his behavior. | 道德/社会层面的羞愧感 |
+| **aware of** | Are you **aware of** the risks involved? | 意识到；知道 |
+| **capable of** | She is **capable of** managing the team. | 后接动名词 |
+| **fond of** | He's **fond of** classical literature. | 比 like 更书面，情感稳定 |
+| **full of** | The room was **full of** people. | 反义：empty of |
+| **guilty of** | He was found **guilty of** fraud. | 法律语境常见 |
+| **jealous of** | She was **jealous of** her sister's success. | 嫉妒（他人拥有的东西） |
+| **proud of** | They are **proud of** their achievements. | 反义：ashamed of |
+| **short of** | We're **short of** time. | 缺乏；不足 |
+| **sick of** | I'm **sick of** waiting! | 口语：厌倦了（= tired of，但语气更强） |
+| **tired of** | I'm **tired of** making excuses. | 对某事感到厌倦 |
+| **typical of** | It's **typical of** him to be late. | 这正是他典型的作风 |
+| **worthy of** | This idea is **worthy of** consideration. | 值得…；有…价值 |
+
+---
+
+#### 形容词 + IN
+
+| 搭配 | 例句 | 补充说明 |
+| --- | --- | --- |
+| **interested in** | Are you **interested in** art? | 对…感兴趣（状态） |
+| **experienced in** | She's **experienced in** project management. | 在某领域有经验 |
+| **involved in** | He was **involved in** the accident. | 卷入；参与 |
+| **skilled in** | They are **skilled in** negotiation. | 也可用 skilled at |
+| **weak in** | He's **weak in** math. | 在某科目/领域较弱 |
+| **strong in** | The team is **strong in** defense. | 在某方面有优势 |
+| **rich in** | This food is **rich in** vitamins. | 富含（营养/资源） |
+| **lacking in** | The plan was **lacking in** detail. | 缺乏某方面 |
+| **absorbed in** | She was totally **absorbed in** her book. | 完全沉浸于；专注于 |
+
+---
+
+#### 形容词 + AT
+
+| 搭配 | 例句 | 补充说明 |
+| --- | --- | --- |
+| **good at** | She's **good at** languages. | 擅长某技能/活动 |
+| **bad at** | I'm **bad at** math. | 不擅长 |
+| **terrible at** | He's **terrible at** cooking. | 非常不擅长（口语） |
+| **skilled at** | She's **skilled at** negotiating deals. | 也可用 skilled in |
+| **surprised at** | I was **surprised at** the result. | 对结果感到惊讶 |
+| **amazed at** | We were **amazed at** her performance. | 更强烈的惊讶/震惊 |
+| **shocked at** | She was **shocked at** the news. | 震惊（负面居多） |
+| **angry at** | He was **angry at** the decision. | angry at sth（因某事）；angry with sb（对某人） |
+
+> ⚠️ **angry at vs angry with：**
+> - angry **at** something（对某件事/某种情况感到愤怒）
+> - angry **with** someone（对某人感到愤怒）
+
+---
+
+#### 形容词 + FOR
+
+| 搭配 | 例句 | 补充说明 |
+| --- | --- | --- |
+| **famous for** | Paris is **famous for** its cuisine. | 因…而著名 |
+| **responsible for** | Who is **responsible for** this mess? | 对…负责；造成…的原因 |
+| **suitable for** | Is this film **suitable for** children? | 适合于 |
+| **ready for** | Are you **ready for** the exam? | 准备好了 |
+| **necessary for** | Sleep is **necessary for** good health. | 对…来说必要 |
+| **grateful for** | I'm **grateful for** your support. | 感激（具体原因） |
+| **sorry for** | I'm **sorry for** your loss. | 为…感到遗憾/抱歉 |
+| **eager for** | She was **eager for** news. | 渴望得到 |
+| **qualified for** | He's **qualified for** the position. | 具有…资格 |
+
+---
+
+#### 形容词 + TO
+
+| 搭配 | 例句 | 补充说明 |
+| --- | --- | --- |
+| **similar to** | This situation is **similar to** last year's. | 与…相似 |
+| **close to** | The hotel is **close to** the beach. | 在空间/程度上接近 |
+| **due to** | The delay was **due to** heavy traffic. | 由于；归因于（= because of，但更正式） |
+| **open to** | I'm **open to** suggestions. | 对…持开放态度 |
+| **sensitive to** | She's **sensitive to** criticism. | 对…敏感 |
+| **useful to** | This guide will be **useful to** learners. | 对…有用 |
+| **harmful to** | Smoking is **harmful to** your health. | 对…有害 |
+| **loyal to** | He's always been **loyal to** his friends. | 对…忠诚 |
+| **opposed to** | She is strongly **opposed to** the proposal. | 反对；对立于 |
+| **related to** | Is this problem **related to** the earlier one? | 与…有关联 |
+
+> ⚠️ **different from（不是 different to 或 different than）：**
+> - **different from** ✓（最通用，美式/英式均接受）
+> - different to（英式口语有时用，正式写作不推荐）
+> - different than（美式口语有时用，正式写作不推荐）
+
+---
+
+#### 形容词 + WITH
+
+| 搭配 | 例句 | 补充说明 |
+| --- | --- | --- |
+| **bored with** | I'm **bored with** this routine. | 对…感到无聊/厌倦 |
+| **busy with** | She's **busy with** her assignments. | 忙于… |
+| **satisfied with** | Are you **satisfied with** the result? | 对…满意 |
+| **pleased with** | He was **pleased with** the feedback. | 对…高兴/满意（比 satisfied 更情感化） |
+| **disappointed with** | I was **disappointed with** the service. | 对…失望 |
+| **familiar with** | Are you **familiar with** this software? | 熟悉… |
+| **patient with** | Be **patient with** beginners. | 对…有耐心 |
+| **obsessed with** | He's **obsessed with** football. | 对…痴迷（程度很深） |
+
+---
+
+#### 形容词 + ABOUT
+
+| 搭配 | 例句 | 补充说明 |
+| --- | --- | --- |
+| **excited about** | She's **excited about** the trip. | 对…感到兴奋 |
+| **worried about** | I'm **worried about** the results. | 担心… |
+| **nervous about** | He was **nervous about** the interview. | 对…感到紧张 |
+| **enthusiastic about** | They're **enthusiastic about** the project. | 对…充满热情 |
+| **optimistic about** | She's **optimistic about** the future. | 对…乐观 |
+| **pessimistic about** | He tends to be **pessimistic about** change. | 对…悲观 |
+| **careful about** | Be **careful about** what you post online. | 对…小心谨慎 |
+| **serious about** | Are you **serious about** learning English? | 认真对待… |
+
+---
+
+#### 形容词 + FROM
+
+| 搭配 | 例句 | 补充说明 |
+| --- | --- | --- |
+| **different from** | His approach is **different from** mine. | 与…不同（最标准用法） |
+| **free from** | The area is now **free from** pollution. | 免于；不受…影响 |
+| **safe from** | Here we're **safe from** danger. | 不受…威胁 |
+| **absent from** | He was **absent from** the meeting. | 缺席… |
+| **far from** | The result was **far from** perfect. | 远非；离…很远 |
+
+---
+
+### 2.4 名词 + 介词固定搭配
+
+#### 名词 + FOR
+
+| 搭配 | 例句 |
+| --- | --- |
+| **reason for** | What's the **reason for** the delay? |
+| **need for** | There's a **need for** more research. |
+| **demand for** | The **demand for** electric cars is rising. |
+| **search for** | The **search for** a solution continues. |
+| **respect for** | She has deep **respect for** her teachers. |
+| **passion for** | His **passion for** music started early. |
+| **talent for** | She has a natural **talent for** languages. |
+| **appetite for** | He has an enormous **appetite for** risk. |
+| **enthusiasm for** | Their **enthusiasm for** the project is clear. |
+
+---
+
+#### 名词 + TO
+
+| 搭配 | 例句 |
+| --- | --- |
+| **solution to** | We need a **solution to** this problem. |
+| **answer to** | There's no easy **answer to** that question. |
+| **response to** | His **response to** the criticism was calm. |
+| **reaction to** | Her **reaction to** the news surprised everyone. |
+| **approach to** | He has a unique **approach to** teaching. |
+| **attitude to/toward** | His **attitude to** work has changed. |
+| **introduction to** | This is a great **introduction to** the subject. |
+| **access to** | Not everyone has **access to** the internet. |
+| **damage to** | The storm caused serious **damage to** the crops. |
+| **invitation to** | I received an **invitation to** the event. |
+| **exception to** | This is an **exception to** the general rule. |
+| **alternative to** | Is there an **alternative to** surgery? |
+
+---
+
+#### 名词 + ON
+
+| 搭配 | 例句 |
+| --- | --- |
+| **effect on** | Stress has a negative **effect on** health. |
+| **influence on** | Her mentor had a great **influence on** her career. |
+| **impact on** | What is the **impact on** the environment? |
+| **emphasis on** | The school places great **emphasis on** creativity. |
+| **effect on** vs **affect** | ⚠️ effect = 名词；affect = 动词 |
+
+---
+
+#### 名词 + IN
+
+| 搭配 | 例句 |
+| --- | --- |
+| **belief in** | His **belief in** justice never wavered. |
+| **confidence in** | I have full **confidence in** your abilities. |
+| **interest in** | She showed great **interest in** science. |
+| **experience in** | Do you have any **experience in** marketing? |
+| **increase in** | There's been an **increase in** crime rates. |
+| **decrease in** | A **decrease in** demand was noted. |
+| **difference in** | There's a big **difference in** their styles. |
+| **rise in** | A sharp **rise in** prices was recorded. |
+| **fall in** | There was a **fall in** temperatures overnight. |
+
+---
+
+#### 名词 + WITH
+
+| 搭配 | 例句 |
+| --- | --- |
+| **relationship with** | She has a close **relationship with** her sister. |
+| **connection with** | Is there a **connection with** the earlier event? |
+| **problem with** | I have a **problem with** this approach. |
+| **trouble with** | He's having **trouble with** his computer. |
+| **satisfaction with** | Customer **satisfaction with** the service is high. |
+| **contact with** | Have you been in **contact with** him recently? |
+
+---
+
+#### 名词 + OF
+
+| 搭配 | 例句 |
+| --- | --- |
+| **knowledge of** | His **knowledge of** history is impressive. |
+| **lack of** | The **lack of** evidence was a problem. |
+| **fear of** | She has a **fear of** heights. |
+| **love of** | His **love of** music shaped his life. |
+| **sense of** | She has a great **sense of** humor. |
+| **awareness of** | Public **awareness of** the issue is growing. |
+| **understanding of** | He has a deep **understanding of** the topic. |
+| **risk of** | There's a high **risk of** failure. |
+| **proof of** | Do you have **proof of** identity? |
+| **evidence of** | There's no **evidence of** wrongdoing. |
+
+---
+
+#### 名词 + BEHIND / BETWEEN / AGAINST
+
+| 搭配 | 例句 |
+| --- | --- |
+| **reason behind** | What's the real **reason behind** this decision? |
+| **difference between** | What's the **difference between** these two models? |
+| **relationship between** | The **relationship between** diet and health is well documented. |
+| **argument against** | There's a strong **argument against** this policy. |
+| **case against** | The **case against** him was weak. |
+
+---
+
+### 2.5 中式英语介词陷阱（20 个典型错误）
+
+#### 错误1：discuss about
+
+❌ Let's **discuss about** the problem.
+✅ Let's **discuss** the problem.
+💡 discuss 是及物动词，本身已含"关于"的意思，加 about 是冗余的。
+
+---
+
+#### 错误2：reach to
+
+❌ We **reached to** the station at 8 PM.
+✅ We **reached** the station at 8 PM.
+💡 reach 是及物动词，直接加宾语，不需要 to。
+
+---
+
+#### 错误3：enter into（进入房间）
+
+❌ She **entered into** the room.
+✅ She **entered** the room.
+💡 enter（进入场所）是及物动词，不加 into。但"enter into a contract/negotiation"是正确的，此时含"开始/参与"之意。
+
+---
+
+#### 错误4：return back
+
+❌ He **returned back** to China.
+✅ He **returned** to China.
+💡 return 本身含有"回来"的意思，back 是多余的。
+
+---
+
+#### 错误5：explain about
+
+❌ Can you **explain about** this rule?
+✅ Can you **explain** this rule?
+💡 explain 是及物动词，直接加宾语。如需接从句：explain **why/how/what**...
+
+---
+
+#### 错误6：marry with
+
+❌ She **married with** a doctor.
+✅ She **married** a doctor. / She **got married to** a doctor.
+💡 marry 作及物动词时直接加宾语。若用 get married，则接介词 to，不是 with。
+
+---
+
+#### 错误7：look forward to + do
+
+❌ I'm looking forward to **see** you.
+✅ I'm looking forward to **seeing** you.
+💡 look forward to 中的 to 是介词，后接名词或动名词（-ing形式），不是不定式。
+
+---
+
+#### 错误8：be used to + do（习惯于）
+
+❌ I'm used to **wake up** early.
+✅ I'm used to **waking up** early.
+💡 be used to（习惯于）中的 to 是介词，后接动名词。区别：used to do（过去常常做某事）中 to 是不定式。
+
+---
+
+#### 错误9：graduate from（正确，但经常不确定）
+
+⚠️ 很多人以为这个用法是错的，其实是正确的！
+✅ She **graduated from** Harvard.
+✅ She **graduated with** a degree in law.
+💡 graduate from = 从（某校）毕业；graduate with = 以…学位毕业。
+
+---
+
+#### 错误10：angry to sb
+
+❌ I'm **angry to** him.
+✅ I'm **angry with** him. / I'm **angry at** him.
+💡 对某人发火：angry with / angry at；对某事：angry about / angry at。
+
+---
+
+#### 错误11：arrive to
+
+❌ We **arrived to** Beijing at noon.
+✅ We **arrived in** Beijing at noon. / We **arrived at** the hotel.
+💡 arrive **in**（大城市/国家）；arrive **at**（小地点/建筑）；arrive **to** 是中式英语，英语中通常不用。
+
+---
+
+#### 错误12：pay attention on
+
+❌ Please **pay attention on** the instructions.
+✅ Please **pay attention to** the instructions.
+💡 固定搭配：pay attention **to**，不是 on。
+
+---
+
+#### 错误13：good for（错误用法：擅长）
+
+❌ I'm **good for** math.
+✅ I'm **good at** math.
+💡 good **at** = 擅长某技能；good **for** = 对…有益（This food is good **for** you.）
+
+---
+
+#### 错误14：superior than / inferior than
+
+❌ This product is **superior than** the other.
+✅ This product is **superior to** the other.
+💡 superior/inferior/prior/senior/junior + **to**，不用 than。这些形容词不用 than 比较。
+
+---
+
+#### 错误15：according to（后接人的观点时）
+
+⚠️ 这个容易被误用：
+✅ **According to** the report, sales increased.（正确：引用文件/来源）
+✅ **According to** him, it was a mistake.（正确：引用某人所说）
+❌ **According to** my opinion...（错误！不说 according to my opinion）
+✅ **In my opinion**, ... / **As far as I'm concerned**, ...
+
+---
+
+#### 错误16：congratulate sb for
+
+❌ I want to **congratulate you for** your success.
+✅ I want to **congratulate you on** your success.
+💡 congratulate sb **on** sth = 就某事祝贺某人。
+
+---
+
+#### 错误17：interested to
+
+❌ I'm **interested to** learn more.（不地道）
+✅ I'm **interested in** learning more.（对正在进行/持续的兴趣）
+✅ I'd be **interested to** hear your thoughts.（此时正确，表示很想听）
+💡 interested **in** + 动名词（兴趣/爱好）；interested **to** + 不定式（很想做某件具体的事，带有好奇）
+
+---
+
+#### 错误18：borrow from / lend to（经常用反）
+
+❌ Can I **lend** your pen?
+✅ Can I **borrow** your pen?
+✅ Can you **lend** me your pen?
+💡 borrow **from**（向人借入）；lend **to**（借出给人）。
+
+---
+
+#### 错误19：provide to
+
+❌ They **provided food to** the refugees.（不地道）
+✅ They **provided** the refugees **with** food.
+✅ They **provided food for** the refugees.
+💡 provide sb **with** sth 或 provide sth **for** sb，不是 provide sth to sb。
+
+---
+
+#### 错误20：both...as well as（重复）
+
+❌ **Both** my brother **as well as** my sister came.
+✅ **Both** my brother **and** my sister came.
+✅ My brother **as well as** my sister came.
+💡 both 与 and 搭配；as well as 单独使用，不能与 both 连用。
+
+---
+
+### 附录：高频介词功能速查表
+
+| 介词 | 核心语义 | 典型动词搭配 | 典型形容词搭配 | 典型名词搭配 |
+| --- | --- | --- | --- | --- |
+| **of** | 所属、组成、描述 | consist of, think of, dream of | afraid of, proud of, full of | knowledge of, lack of, fear of |
+| **on** | 依靠、关于、继续 | depend on, insist on, focus on | keen on, intent on | effect on, emphasis on |
+| **in** | 涉及、擅长、参与 | result in, succeed in, believe in | interested in, experienced in | interest in, confidence in |
+| **to** | 趋向、归属、适用 | lead to, refer to, belong to | similar to, sensitive to, loyal to | solution to, access to, approach to |
+| **for** | 目的、原因、持续 | search for, apply for, account for | famous for, responsible for, ready for | reason for, need for, demand for |
+| **with** | 伴随、方式、处理 | deal with, cope with, comply with | satisfied with, familiar with, obsessed with | relationship with, problem with |
+| **about** | 关于（一般） | worry about, talk about, think about | excited about, serious about, worried about | — |
+| **from** | 来源、区别、解除 | differ from, suffer from, benefit from | different from, free from, absent from | — |
+| **by** | 方式、施动、截止 | — | — | — |
+| **as** | 作为、充当 | act as, work as, regard as | — | — |
+
+---
+
+### 附录：最易混淆介词对照表
+
+| 混淆对 | 区别要点 | 例句 |
+| --- | --- | --- |
+| **in / at / on**（时间） | in（年/月/季节）/ on（日期/星期）/ at（时刻/节假日） | in 2024 / on Monday / at 8 o'clock |
+| **since / for** | since（从某时间点起）/ for（持续时长） | since 2020 / for three years |
+| **by / until** | by（截止）/ until（持续到） | by Friday / until Friday |
+| **between / among** | between（两者）/ among（三者以上） | between you and me / among friends |
+| **above / over** | above（纯位置"高于"）/ over（覆盖/超过） | above sea level / over the bridge |
+| **below / under** | below（纯位置"低于"）/ under（在…正下方/受控于） | below zero / under the table |
+| **in front of / before** | in front of（空间）/ before（时间或顺序） | stand in front of the door / before noon |
+| **beside / besides** | beside（在旁边）/ besides（除了…以外，还） | sit beside me / besides that |
+| **despite / although** | despite（介词，接名词）/ although（连词，接从句） | despite the rain / although it rained |
+| **because of / because** | because of（介词短语）/ because（连词） | because of rain / because it rained |
+
+---
+
+*本文档为英语介词完全指南完整版，融合 Part 1（时间/空间/方向介词）与 Part 2（关系逻辑介词·固定搭配），构成系统完整的英语介词知识体系。2026-04-05*

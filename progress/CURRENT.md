@@ -8,6 +8,7 @@
 
 （背景备注：截至目前工程建造投入很大，但真实学习记录为零——events/progress 均为空。后续工作应回到真实学习行为与能力诊断本身，而不是继续横向加功能。）
 
+- 英语 skill 入库（2026-09-24，用户指令「移动放到本项目里、展示到前端」）：frame-miner / english-content-forge / english-content-forge-workspace 三个 skill 自 ~/.catpaw/skills/ 移入 engineering/skills/（判据文档与本项目 methodology 互指路径同步）；SKILL.md 登记进 nav.json 新组「内容生产 Skills」（8 组 57 文档），站点可读可搜索。此后英语内容生产走项目内 skill。
 - 导航目录整理（2026-09-24，用户指令「文档的分类目录很乱」）：句式骨架 17 章平铺改按内容分五个子标签（六大家族/教材与真题回收/真题通读/口语与叙事动作/自选与总集），去 Normal People README 重复登记（移入「真题与教材合集→地道表达」），学习档案组补诊断基线报告并只留档案类，真题合集组统一子标签结构。7 组 50 文档 8 子标签，无重复登记；冒烟全绿。
 - 仓库二次瘦身（2026-09-24，用户指令「还有什么可以精简的」→「开始」）：删缓存与空 sessions/（git gc 后 .git 8.6M→2.8M）；死透素材移 ~/workspace/english-archive/（vocabulary 90M + dictionaries 140M + 剑桥雅思 PDF 351M，恢复路径见 materials/wordlists-guide.md）；opus 语料删 zip+ids 冗余（1.5G→580M）；挖掘中间数据（cascade/ielts/textbook/mining 批次与句池）移入 engineering/archive/，Normal People 248 条地道表达（未编入教材的正经内容）入 nav.json「真题与教材合集」可读；顶层 methodology/ 并入 engineering/methodology/（教材 6 处引用路径同步）；wordlists-guide.md 改写为归档记录；materials/README 收录范围声明。磁盘 materials 2.1G→约 640M（papers 22M + readable 6.3M + textbooks 36M + corpus 580M）。
 - 站点收敛为纯查看器（2026-09-23，用户指令，设计落档 engineering/design/site-simplification-v2.md）：砍学习工作台/词典/专题主页/写接口，server 275→~110 行、前端三文件合一，测试 9→2 全绿；目录归一单一 nav.json 显式登记（course.json 废弃，五专题 23 登记章+14 未登记章转换合并，共 7 组 48 文档）；渲染换 vendor marked+highlight.js，新增 /files/ 图片路由；learning.sqlite3（99M 学习记录）与 combined_dictionary.sqlite3（546M 词典）归档至 ~/workspace/english-archive/ 待恢复时可接回。学习状态自此以本文件与用户口述为准。

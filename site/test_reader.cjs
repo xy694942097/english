@@ -14,8 +14,8 @@ const assert = require('node:assert/strict');
     await page.goto(base);
     await page.getByRole('heading', {name: '从 resigned 理解词义与搭配', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
-    assert.equal(await page.locator('#nav details').count(), 7, '七个导航分组');
-    assert.equal(await page.locator('#nav a.nav-link').count(), 50, '50 个登记文档');
+    assert.equal(await page.locator('#nav details').count(), 8, '八个导航分组');
+    assert.equal(await page.locator('#nav a.nav-link').count(), 57, '57 个登记文档');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
 

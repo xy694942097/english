@@ -9,6 +9,7 @@
 - **AGENTS.md**：根目录唯一保留的 agent 文档；被它引用的其它 agent 文档放 engineering/agents/（目录职责见其 README.md）。
 - **progress/**：学习进度与能力诊断（非工程建设进度），保持根目录。
 - **book/**：教材，按主题目录保存 Markdown。书入口 README 与工程配套（TEMPLATE/BACKLOG/CHANGELOG）不进导航。
+- **engineering/skills/**：英语内容生产 skill 的源文件（frame-miner 拆句式骨架判据库、english-content-forge 句集/指南生成器及其 eval workspace），2026-09-24 自 ~/.catpaw/skills/ 移入。SKILL.md 已登记进 nav.json「内容生产 Skills」组站点可读；新增句集/完全指南类内容按 english-content-forge 流程（数据 jsonl → 渲染脚本出视图）执行。
 - **references/**：教材构建与归一脚本（build_chapter_previews / build_frames_collection / normalize_materials 等）及导入报告。挖掘中间数据（批次 json、句池、裁决存档）2026-09-24 已移入 engineering/archive/，脚本与报告留在原处。
 - **vocabulary/**：历史讲义（1 篇旧课，已在 nav.json「学习档案→历史课堂」登记）。
 - **materials/**：下载资料总库（词表/词典/真题/教材/语料），只有 readable/ 合集在 nav.json 登记。每个文件登记 materials/downloads-manifest.json（SHA-256+URL+许可）。下载、选源与归一化规则唯一出处是 materials/HANDBOOK.md——照手册执行，不需重新决策；资料清单与批次记录见 materials/README.md。
