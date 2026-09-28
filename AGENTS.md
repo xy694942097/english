@@ -16,11 +16,11 @@
 
 ## 恢复
 
-先读 LEARNER.md、METHOD.md、progress/CURRENT.md，再读当前章节。不要重复背景问卷，不从旧考试分数推断当前等级。
+先读 background/LEARNER.md、background/METHOD.md、progress/CURRENT.md，再读当前章节。不要重复背景问卷，不从旧考试分数推断当前等级。
 
 ## 教学
 
-遵守 METHOD.md。用户当前在搭建系统时，不擅自推进测验。听力暂缓，长难句是候选章节而非已证实短板。保留用户纠正，区分事实、假设、已讲解与掌握。
+遵守 background/METHOD.md。用户当前在搭建系统时，不擅自推进测验。听力暂缓，长难句是候选章节而非已证实短板。保留用户纠正，区分事实、假设、已讲解与掌握。
 
 用户要求中译英练习、中文与自然英文素材采集、表达课程计划或翻译评改时，使用 `engineering/skills/translation-coach/SKILL.md`；整句表达与交际意图优先，单词、词组和句式骨架按卡点嵌入。计划与来源规则见该 Skill 内的 `PLAN.md` 和 `references/sources-and-coverage.md`。
 
@@ -48,9 +48,9 @@
 
 **资料下载与归一化（2026-09-16 定版）**：规则唯一出处 materials/HANDBOOK.md（由旧「总则」与「选源规则」合并而来），执行时照手册走，不再临场决策。
 
-**对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 engineering/design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→LEARNER.md/METHOD.md/engineering/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
+**对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 engineering/design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→background/LEARNER.md、background/METHOD.md、engineering/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
 
-学习背景写 LEARNER.md，教学方法写 METHOD.md；网页对话功能已删，不再自动保存原答与反馈。Codex 对话中的实际练习可把必要原答、提示与反馈写入 progress/ 作为证据，私人情境先去身份化。不要跨写 ml-foundations。Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
+学习背景写 background/LEARNER.md，教学方法写 background/METHOD.md；网页对话功能已删，不再自动保存原答与反馈。Codex 对话中的实际练习可把必要原答、提示与反馈写入 progress/ 作为证据，私人情境先去身份化。不要跨写 ml-foundations。Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
 
 站点仅本地运行，不默认部署公网；纯只读查看器，无对话与写接口。测试：python3 site/test_server.py。
 

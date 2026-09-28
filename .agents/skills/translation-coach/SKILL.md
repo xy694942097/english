@@ -7,7 +7,7 @@ description: 通过中文情境到英文表达训练英语；用于设计递进�
 
 目标是让学习者面对**新的真实情境**时，能独立选出合适的英文说法。整句表达与交际动作是主轴；单词义项、搭配词组、句式骨架和语法按实际表达卡点嵌入，不分成四套孤立的背诵任务。
 
-本项目使用前先读 `LEARNER.md`、`METHOD.md`、`progress/CURRENT.md`；规划或改编课程时再读 [PLAN.md](PLAN.md)，采集或审核素材时读 [references/sources-and-coverage.md](references/sources-and-coverage.md)。这些路径相对 english 项目根目录；在别的项目使用时，以用户当下目标和可用记录代替。不要用旧考试分数或一份练习总结给当前 CEFR 定级。
+本项目使用前先读 `background/LEARNER.md`、`background/METHOD.md`、`progress/CURRENT.md`；规划或改编课程时再读 [PLAN.md](PLAN.md)，采集或审核素材时读 [references/sources-and-coverage.md](references/sources-and-coverage.md)。这些路径相对 english 项目根目录；在别的项目使用时，以用户当下目标和可用记录代替。不要用旧考试分数或一份练习总结给当前 CEFR 定级。
 
 ## 先判断本次任务
 
@@ -58,4 +58,4 @@ description: 通过中文情境到英文表达训练英语；用于设计递进�
 
 ## 方法依据的边界
 
-[Swain & Lapkin 的产出研究](https://academic.oup.com/applij/article-abstract/16/3/371/184113)支持“表达会暴露语言缺口”的机制；[Laufer & Girsai 的词汇／搭配研究](https://academic.oup.com/applij/article-abstract/29/4/694/183330)支持特定教学条件下翻译加对比反馈的记忆收益。这些不证明中译英单独足以带来整体流利，也不支持给所有人规定固定题量或时长。项目现有输入原则见 `METHOD.md` 与 `engineering/methodology/2026-09-14-input-principles.md`。
+[Swain & Lapkin 的产出研究](https://academic.oup.com/applij/article-abstract/16/3/371/184113)支持“表达会暴露语言缺口”的机制；[Laufer & Girsai 的词汇／搭配研究](https://academic.oup.com/applij/article-abstract/29/4/694/183330)支持特定教学条件下翻译加对比反馈的记忆收益。这些不证明中译英单独足以带来整体流利，也不支持给所有人规定固定题量或时长。项目现有输入原则见 `background/METHOD.md` 与 `engineering/methodology/2026-09-14-input-principles.md`。

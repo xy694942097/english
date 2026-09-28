@@ -107,8 +107,8 @@
     {
       "title": "学习档案",
       "items": [
-        "LEARNER.md",
-        "METHOD.md",
+        "background/LEARNER.md",
+        "background/METHOD.md",
         "progress/CURRENT.md",
         "progress/202609161941_诊断_能力基线第一批.md",
         {
