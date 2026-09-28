@@ -14,10 +14,15 @@ const assert = require('node:assert/strict');
     await page.goto(base);
     await page.getByRole('heading', {name: '从 resigned 理解词义与搭配', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
-    assert.equal(await page.locator('#nav details').count(), 8, '八个导航分组');
-    assert.equal(await page.locator('#nav a.nav-link').count(), 57, '57 个登记文档');
+    assert.equal(await page.locator('#nav details').count(), 9, '九个导航分组');
+    assert.equal(await page.locator('#nav a.nav-link').count(), 58, '58 个登记文档');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
+
+    // 新表达章可由深链打开，且练习答案仍保持折叠
+    await page.goto(base + '#' + encodeURIComponent('book/10-expression/01-relationship-options.md'));
+    await page.getByRole('heading', {name: '中文到英文表达：关系还有没有挽回余地', exact: true}).waitFor();
+    assert.equal(await page.locator('#article details').getAttribute('open'), null, '表达章答案默认折叠');
 
     // 深链 + 参考答案折叠
     await page.goto(base + '#' + encodeURIComponent('book/05-patterns/01-nothing-but.md'));

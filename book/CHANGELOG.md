@@ -1,3 +1,7 @@
+## 2026-09-28 · 新增中文到英文表达章：关系去留
+
+依据用户提供的 DeepSeek 练习总结，新增 `book/10-expression/01-relationship-options.md`，并在 `nav.json` 登记「中文到英文表达」组。章节以“今晚再谈一次、判断能否挽回、两条消息如何选择”为连续情境，编入 8 组表达，给出语义、自然语境、结构、语气边界及中文到英文的迁移练习。对原总结逐项审校：`prepared two messages`、`Which do you think I should send?` 等不误判为错误；`turning point`、`Big deal` 等解释保留语义及语气边界；不据单次摘要评定 CEFR 或标记掌握。例句为教学自造，词义参考已查阅的 Cambridge 词典与语法页。另在 BACKLOG 留下跨场景表达素材的候选方向，等待真实练习卡点选择。
+
 ## 2026-09-24 · 介词章第 10 节：动词三件套（phrasal-prepositional verb）
 
 用户指令「从语法/结构/讲义层面分析 Normal People epub，看能否沉淀知识」。全书重扫：282 处介词样连用中，严格双介词仅 4 种 7 处（第 7 节已覆盖），**动词+小品词+介词三件套约 40 处**——是「连续介词」观感的最大真实来源，而 7–9 节未覆盖此结构。新增 ##10：判型方法（第一个小词属于动词还是属于名词轨迹，连接处位置不同）、代词插入位规则（make it up to her 的 it 必须前置于小品词）、7 条三件套变体表（put up with/come up with/look down on/hang out with/look out for/get up to/get off on/go out of，全部 Normal People 原句标章节）、4 条误读表、量级直觉段（282/7/40 的分布与判型优先级）。预览表第 10 行、迁移练习第 8 题（判型对比 make it up to her vs out from under the table）及参考答案同步。章首声明改 7–10 节双语料。

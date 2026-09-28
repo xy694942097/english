@@ -96,6 +96,12 @@
       ]
     },
     {
+      "title": "中文到英文表达",
+      "items": [
+        "book/10-expression/01-relationship-options.md"
+      ]
+    },
+    {
       "title": "学习档案",
       "items": [
         "LEARNER.md",
