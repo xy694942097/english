@@ -145,7 +145,12 @@
       "title": "内容生产 Skills",
       "items": [
         "engineering/skills/frame-miner/SKILL.md",
-        "engineering/skills/english-content-forge/SKILL.md"
+        "engineering/skills/english-content-forge/SKILL.md",
+        {"sub": "中译英表达教练", "items": [
+          "engineering/skills/translation-coach/SKILL.md",
+          "engineering/skills/translation-coach/PLAN.md",
+          "engineering/skills/translation-coach/references/sources-and-coverage.md"
+        ]}
       ]
     }
   ]

@@ -15,7 +15,7 @@ const assert = require('node:assert/strict');
     await page.getByRole('heading', {name: '从 resigned 理解词义与搭配', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
     assert.equal(await page.locator('#nav details').count(), 9, '九个导航分组');
-    assert.equal(await page.locator('#nav a.nav-link').count(), 58, '58 个登记文档');
+    assert.equal(await page.locator('#nav a.nav-link').count(), 61, '61 个登记文档');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
 
@@ -23,6 +23,10 @@ const assert = require('node:assert/strict');
     await page.goto(base + '#' + encodeURIComponent('book/10-expression/01-relationship-options.md'));
     await page.getByRole('heading', {name: '中文到英文表达：关系还有没有挽回余地', exact: true}).waitFor();
     assert.equal(await page.locator('#article details').getAttribute('open'), null, '表达章答案默认折叠');
+
+    // 项目内 Skill 和学习计划在只读站点中可读
+    await page.goto(base + '#' + encodeURIComponent('engineering/skills/translation-coach/PLAN.md'));
+    await page.getByRole('heading', {name: '中文到英文表达训练计划', exact: true}).waitFor();
 
     // 深链 + 参考答案折叠
     await page.goto(base + '#' + encodeURIComponent('book/05-patterns/01-nothing-but.md'));

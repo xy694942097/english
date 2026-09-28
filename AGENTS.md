@@ -9,7 +9,7 @@
 - **AGENTS.md**：根目录唯一保留的 agent 文档；被它引用的其它 agent 文档放 engineering/agents/（目录职责见其 README.md）。
 - **progress/**：学习进度与能力诊断（非工程建设进度），保持根目录。
 - **book/**：教材，按主题目录保存 Markdown。书入口 README 与工程配套（TEMPLATE/BACKLOG/CHANGELOG）不进导航。
-- **engineering/skills/**：英语内容生产 skill 的源文件（frame-miner 拆句式骨架判据库、english-content-forge 句集/指南生成器及其 eval workspace），2026-09-24 自 ~/.catpaw/skills/ 移入。SKILL.md 已登记进 nav.json「内容生产 Skills」组站点可读；新增句集/完全指南类内容按 english-content-forge 流程（数据 jsonl → 渲染脚本出视图）执行。
+- **engineering/skills/**：既有英语内容生产 skill 的源文件（frame-miner 拆句式骨架、english-content-forge 生成句集/指南）；中译英训练 `translation-coach` 的源文件在 `.agents/skills/translation-coach/`，此处保留指向它的站点阅读链接。三个 Skill 的 SKILL.md 与中译英计划已登记进 nav.json「内容生产 Skills」组；新增句集/完全指南类内容按 english-content-forge 流程（数据 jsonl → 渲染脚本出视图）执行。
 - **references/**：教材构建与归一脚本（build_chapter_previews / build_frames_collection / normalize_materials 等）及导入报告。挖掘中间数据（批次 json、句池、裁决存档）2026-09-24 已移入 engineering/archive/，脚本与报告留在原处。
 - **vocabulary/**：历史讲义（1 篇旧课，已在 nav.json「学习档案→历史课堂」登记）。
 - **materials/**：下载资料总库（词表/词典/真题/教材/语料），只有 readable/ 合集在 nav.json 登记。每个文件登记 materials/downloads-manifest.json（SHA-256+URL+许可）。下载、选源与归一化规则唯一出处是 materials/HANDBOOK.md——照手册执行，不需重新决策；资料清单与批次记录见 materials/README.md。
@@ -21,6 +21,8 @@
 ## 教学
 
 遵守 METHOD.md。用户当前在搭建系统时，不擅自推进测验。听力暂缓，长难句是候选章节而非已证实短板。保留用户纠正，区分事实、假设、已讲解与掌握。
+
+用户要求中译英练习、中文与自然英文素材采集、表达课程计划或翻译评改时，使用 `engineering/skills/translation-coach/SKILL.md`；整句表达与交际意图优先，单词、词组和句式骨架按卡点嵌入。计划与来源规则见该 Skill 内的 `PLAN.md` 和 `references/sources-and-coverage.md`。
 
 ## 编纂 Book
 
@@ -48,7 +50,7 @@
 
 **对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 engineering/design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→LEARNER.md/METHOD.md/engineering/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
 
-学习背景写 LEARNER.md，教学方法写 METHOD.md，原答与反馈无存档（对话功能 2026-09-23 已删），进度证据写 progress/。不要跨写 ml-foundations。Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
+学习背景写 LEARNER.md，教学方法写 METHOD.md；网页对话功能已删，不再自动保存原答与反馈。Codex 对话中的实际练习可把必要原答、提示与反馈写入 progress/ 作为证据，私人情境先去身份化。不要跨写 ml-foundations。Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
 
 站点仅本地运行，不默认部署公网；纯只读查看器，无对话与写接口。测试：python3 site/test_server.py。
 
