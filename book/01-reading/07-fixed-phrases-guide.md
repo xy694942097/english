@@ -2,6 +2,8 @@
 
 # 英语固定短语完全指南
 
+> **编辑隔离（2026-09-28）**：本篇“中式英语错误对照”中有已核实的误判，例如把 `solve a problem` 和 `get experience` 标成错误。全篇尚未逐条审校，当前不要把其中的 ❌／✓ 判断当作教学依据。问题与恢复条件见 `engineering/verification/book-editorial-inventory-2026-09-28.md`。
+
 ### 目录
 
 #### Part 1：短语动词 Phrasal Verbs

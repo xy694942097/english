@@ -26,7 +26,7 @@ more [A] than anyone had thought [B], let alone [C]
 3. **Imitate 仿写**：用自己的内容同构写一句。仿写通过 = 证据分级里的"能够运用"入门。
 4. **Collect 变体**：之后在语料中遇到变体（如 more than words can express 是换了比较基准的变体），追加记录。
 
-不按此流程"背句式骨架清单"——下面的索引是**地图和采集登记表**，不是背诵任务。状态列里"已学"指已完成 Notice→Unpack→Imitate 至少一轮。
+不按此流程"背句式骨架清单"——下面的索引是**地图和采集登记表**，不是背诵任务。状态列记录教材编纂或来源情况；没有独立仿写和延迟复测证据时，不写成学习者“已学”。
 
 ## 三、句式骨架索引（六大家族）
 
@@ -38,8 +38,8 @@ more [A] than anyone had thought [B], let alone [C]
 
 | 句式骨架 | 语义 | 例句 | 结构注 | 状态 |
 |---|---|---|---|---|
-| more [A] than anyone had thought [B] | 比任何人认为[B]的上限还[A] | The refactor ran longer than anyone had thought possible. | than 从句里 thought 的宾语 it 被省，B 是宾补 | 已学 09-16 |
-| [A], let alone [B] | 前项尚且达不到，后项更别提 | He can't walk, let alone run. | let alone 是连词，B 平行于前项同位置成分 | 已学 09-16 |
+| more [A] than anyone had thought [B] | 比任何人认为[B]的上限还[A] | The refactor ran longer than anyone had thought possible. | than 从句里 thought 的宾语 it 被省，B 是宾补 | 已编 09-16 |
+| [A], let alone [B] | 前项尚且达不到，后项更别提 | He can't walk, let alone run. | let alone 是连词，B 平行于前项同位置成分 | 已编 09-16 |
 | not so much [A] as [B] | 与其说[A]不如说[B] | It was not so much a mistake as a misunderstanding of the requirements. | A、B 语法类别须对等；语义重心在 B | **已编 09-16（各家族章）** |
 | nothing less than [X] / nothing short of [X] | 简直是、不折不扣的 | The delay was nothing short of a disaster for the launch plan. | 双重否定出强肯定，常带评价色彩 | **已编 09-16（各家族章）** |
 | if anything | 甚至可以说；恰恰相反 | The new version isn't slower — if anything, it's faster. | 句首/句尾插入的评注语 | **已编 09-16（各家族章）** |
@@ -139,7 +139,7 @@ more [A] than anyone had thought [B], let alone [C]
 | be (more/less) likely to [V] | 很可能／不太可能 | 英一×3、六级 | **已编 09-16（真题回收章）** |
 | even if / even though [S V] / Even so | 即便…也… | 英一/英二×2 | **已编 09-16（真题回收章）** |
 
-### 真题通读：四/六/考研分级篇（详见 [13-cet4](13-cet4-readthrough.md) / [14-cet6](14-cet6-readthrough.md) / [15-kaoyan](15-kaoyan-readthrough.md)）
+### 真题通读：四/六/考研分级篇（[四级篇](13-cet4-readthrough.md) / 六级篇待审校 / [考研篇](15-kaoyan-readthrough.md)）
 
 > 2026-09-17 对四级 7 份（596 句）、六级 48 份 2016-2026（3,169 句）、考研真题+精翻 30 份（2,089 句）做 LLM 逐句通读（20 批×300 句，方法见 methodology/2026-09-16-frame-mining.md），对照全局登记表级联去重：低级已提取的高级不再提取，四/六/考三章相互无重复骨架。540 例句回池逐字校验（替换 19 处改写后 0 不一致）。专八无开放真题语料，最高档由雅思 83 簇（已挖）顶替。挖掘中间物存 references/cascade_mining/。
 
@@ -148,6 +148,8 @@ more [A] than anyone had thought [B], let alone [C]
 | 四级篇（29） | anything but、few 隐性最高级、Gone are the days、at best 贬抑让步、While we know…less clear、By all means…but、Who says 反问、just because doesn't mean、It pays to、Goldilocks 定界等 + 短语档 |
 | 六级篇（66） | evidence that、compared with 句尾、Of 前置分母、双破折号插入、the way S V、find oneself、than you might think、or 后插评注、not necessarily、It's simply not true that、The problem isn't A but that、anything but、Nowhere is this more、However [Adj] 让步、were to 虚拟、Thus was born、known as 命名同位、说/倒装回指族等 + 短语档 |
 | 考研篇（60） | 助动词独用、less…and more…、whether that be、All…is、It was 时段 before、if not 插入、倒装主语、the argument goes、Nor 倒装承接、is where、It is crucial that、it seems 插入、responded by V-ing、would not…without、To V is to V、As so often、There is no reason why cannot、never to、In this as in much else、not enough to say、Never mind…祈使、succeeding where…failing、born V-ing、hence 无动词句、It's not as if、It is a [adj] N that 反语、being what it is、has it that、to hear sb tell it、any wonder、can't afford not to、wonder if aren't、[A], not [B]、It is all very well…but 等 + 短语档 |
+
+六级篇的数量是历史编纂记录；该篇有待核实的文本与分类问题，当前不作为学习主线或可靠用法依据。
 
 ### 小说通读：《Normal People》动作篇（详见 [16-口语对话动作](16-oral-dialogue-actions.md) / [17-叙事与认知动作](17-narrative-cognition-actions.md)）
 
@@ -158,7 +160,7 @@ more [A] than anyone had thought [B], let alone [C]
 | 口语对话动作（23） | It's not like 撇清、Not that 预防性找补、How was I supposed to know 脱责反问、not really 软化回声、These things happen 淡然收束、if that's okay 软性离场等 |
 | 叙事与认知动作（18） | only to 意外反转、Later would 回望、Before even 抢先时轴、without ever 全程归零、To his relief 情绪注脚、the closest 贴线丈量、just enough 分寸拿捏等 |
 
-### 自选篇：手动收录（详见 [18-self-picked](18-self-picked.md)）
+### 自选篇：手动收录（候选稿 `18-self-picked.md` 暂不作为正式章节）
 
 > 日常阅读/影视/对话中撞见即收的活页章，不设单章 7 条红线，来源标（自选）。首批：less about…and more about… 重新定焦（AI 编程评论句）。
 

@@ -14,8 +14,11 @@ const assert = require('node:assert/strict');
     await page.goto(base);
     await page.getByRole('heading', {name: '从 resigned 理解词义与搭配', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
-    assert.equal(await page.locator('#nav details').count(), 9, '九个导航分组');
-    assert.equal(await page.locator('#nav a.nav-link').count(), 62, '62 个登记文档');
+    assert.equal(await page.locator('#nav details').count(), 11, '按教学角色整理的十一个导航分组');
+    assert.equal(await page.locator('#nav a.nav-link').count(), 58, '58 个登记文档');
+    const navText = await page.locator('#nav').innerText();
+    assert.ok(navText.includes('表达练习') && navText.includes('查阅资料（待审校）'), '练习与查阅分区可见');
+    assert.ok(!navText.includes('英语固定短语完全指南') && !navText.includes('雅思级别英语1000句 v2'), '隔离文档不在导航');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
 
@@ -38,9 +41,9 @@ const assert = require('node:assert/strict');
     await page.locator('#article summary').click();
     assert.notEqual(await page.locator('#article details').getAttribute('open'), null);
 
-    // 文内相对 .md 链接改写为 hash 深链（句式骨架总集含 ../05-patterns/ 链接）
-    await page.goto(base + '#' + encodeURIComponent('book/08-frames/08-frames-collection.md'));
-    await page.getByRole('heading', {name: '句式骨架总集：六大家族与教材回收', exact: true}).waitFor();
+    // 文内相对 .md 链接改写为 hash 深链（句式骨架导览含家族章链接）
+    await page.goto(base + '#' + encodeURIComponent('book/08-frames/00-guide.md'));
+    await page.getByRole('heading', {name: '句式骨架（Frames）：比语法分析高一层的学习单位', exact: true}).waitFor();
     const relLink = await page.locator('#article a[href^="#book%2F"]').count();
     assert.ok(relLink > 0, '文档间相对链接改写为站内深链');
 

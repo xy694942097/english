@@ -13,10 +13,7 @@
       "items": [
         "book/01-reading/01-context.md",
         "book/01-reading/03-evidence.md",
-        "book/01-reading/04-outcomes.md",
-        "book/01-reading/05-phrasal-verbs-guide.md",
-        "book/01-reading/06-phrase-structures-guide.md",
-        "book/01-reading/07-fixed-phrases-guide.md"
+        "book/01-reading/04-outcomes.md"
       ]
     },
     {
@@ -31,53 +28,13 @@
       "title": "句式骨架",
       "items": [
         "book/08-frames/00-guide.md",
-        {
-          "sub": "六大家族",
-          "items": [
-            "book/08-frames/01-degree-comparison.md",
-            "book/08-frames/02-emphasis-focus.md",
-            "book/08-frames/03-concession-contrast.md",
-            "book/08-frames/04-stance-commentary.md",
-            "book/08-frames/05-narrative-logic.md",
-            "book/08-frames/06-condition-subjunctive.md"
-          ]
-        },
-        {
-          "sub": "教材与真题回收",
-          "items": [
-            "book/08-frames/07-school-recall.md",
-            "book/08-frames/09-exam-recall.md",
-            "book/08-frames/12-readthrough-recall.md"
-          ]
-        },
-        {
-          "sub": "真题通读",
-          "items": [
-            "book/08-frames/13-cet4-readthrough.md",
-            "book/08-frames/14-cet6-readthrough.md",
-            "book/08-frames/15-kaoyan-readthrough.md"
-          ]
-        },
-        {
-          "sub": "口语与叙事动作",
-          "items": [
-            "book/08-frames/16-oral-dialogue-actions.md",
-            "book/08-frames/17-narrative-cognition-actions.md"
-          ]
-        },
-        {
-          "sub": "自选与总集",
-          "items": [
-            "book/08-frames/18-self-picked.md",
-            "book/08-frames/08-frames-collection.md"
-          ]
-        },
-        {
-          "sub": "指南",
-          "items": [
-            "book/08-frames/19-long-sentences-guide.md"
-          ]
-        }
+        "book/08-frames/01-degree-comparison.md",
+        "book/08-frames/02-emphasis-focus.md",
+        "book/08-frames/03-concession-contrast.md",
+        "book/08-frames/04-stance-commentary.md",
+        "book/08-frames/05-narrative-logic.md",
+        "book/08-frames/06-condition-subjunctive.md",
+        "book/08-frames/09-exam-recall.md"
       ]
     },
     {
@@ -90,15 +47,18 @@
         "book/03-四六级词汇/03-causes-effects.md",
         "book/03-四六级词汇/04-preposition-patterns.md",
         "book/03-四六级词汇/05-change-development.md",
-        "book/03-四六级词汇/07-judgment-reasoning.md",
-        "book/03-四六级词汇/09-phrase-index.md",
-        "book/03-四六级词汇/11-prepositions-guide.md"
+        "book/03-四六级词汇/07-judgment-reasoning.md"
       ]
     },
     {
       "title": "中文到英文表达",
       "items": [
-        "book/10-expression/01-relationship-options.md",
+        "book/10-expression/01-relationship-options.md"
+      ]
+    },
+    {
+      "title": "表达练习",
+      "items": [
         "references/translation-training/pilot-001-prompts.md"
       ]
     },
@@ -109,16 +69,11 @@
         "background/METHOD.md",
         "background/CURRENT.md",
         "background/202609161941_诊断_能力基线第一批.md",
-        {
-          "sub": "历史课堂",
-          "items": [
-            "vocabulary/chunks-and-familiar-words/lesson-001-reading-in-chunks.md"
-          ]
-        }
+        "vocabulary/chunks-and-familiar-words/lesson-001-reading-in-chunks.md"
       ]
     },
     {
-      "title": "真题与教材合集",
+      "title": "真题与教材资料",
       "items": [
         "materials/readable/papers/四级真题合集.md",
         "materials/readable/papers/六级真题合集.md",
@@ -127,19 +82,25 @@
         "materials/readable/papers/雅思真题合集.md",
         "materials/readable/papers/雅思资料合集.md",
         "materials/readable/textbooks/初中英语教材合集.md",
-        {
-          "sub": "地道表达",
-          "items": [
-            "engineering/archive/normal_people_mining/README.md"
-          ]
-        },
-        {
-          "sub": "千句库",
-          "items": [
-            "book/09-guides/01-ielts-1000-sentences.md",
-            "book/09-guides/02-ielts-1000-analyzed.md"
-          ]
-        }
+        "engineering/archive/normal_people_mining/README.md"
+      ]
+    },
+    {
+      "title": "查阅资料（待审校）",
+      "items": [
+        "engineering/verification/book-editorial-inventory-2026-09-28.md",
+        "book/01-reading/05-phrasal-verbs-guide.md",
+        "book/01-reading/06-phrase-structures-guide.md",
+        "book/03-四六级词汇/09-phrase-index.md",
+        "book/03-四六级词汇/11-prepositions-guide.md",
+        "book/08-frames/07-school-recall.md",
+        "book/08-frames/12-readthrough-recall.md",
+        "book/08-frames/13-cet4-readthrough.md",
+        "book/08-frames/15-kaoyan-readthrough.md",
+        "book/08-frames/16-oral-dialogue-actions.md",
+        "book/08-frames/17-narrative-cognition-actions.md",
+        "book/08-frames/19-long-sentences-guide.md",
+        "book/09-guides/02-ielts-1000-analyzed.md"
       ]
     },
     {
@@ -147,11 +108,9 @@
       "items": [
         "engineering/skills/frame-miner/SKILL.md",
         "engineering/skills/english-content-forge/SKILL.md",
-        {"sub": "中译英表达教练", "items": [
-          "engineering/skills/translation-coach/SKILL.md",
-          "engineering/skills/translation-coach/PLAN.md",
-          "engineering/skills/translation-coach/references/sources-and-coverage.md"
-        ]}
+        "engineering/skills/translation-coach/SKILL.md",
+        "engineering/skills/translation-coach/PLAN.md",
+        "engineering/skills/translation-coach/references/sources-and-coverage.md"
       ]
     }
   ]
