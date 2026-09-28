@@ -34,7 +34,7 @@ python3 site/server.py
 
 - [学习者背景](background/LEARNER.md)：用户自述、已观察表现、暂定假设及纠正。
 - [方法与思想](background/METHOD.md)：自顶向下、实用学习、语境、迁移、证据。
-- [当前状态](progress/CURRENT.md)：当前卡点与下一步；未提交的练习仍为未评估。
+- [当前状态](background/CURRENT.md)：当前卡点与下一步；未提交的练习仍为未评估。
 - [Book](book/README.md)：正式教材；[候选章节](book/BACKLOG.md)。
 - [教学与编纂约定](AGENTS.md)：供老师恢复上下文和继续增编。
 - [站点说明](site/README.md)：运行方式、对话边界和验证。

@@ -16,7 +16,7 @@
 
 ## 恢复
 
-先读 background/LEARNER.md、background/METHOD.md、progress/CURRENT.md，再读当前章节。不要重复背景问卷，不从旧考试分数推断当前等级。
+先读 background/LEARNER.md、background/METHOD.md、background/CURRENT.md，再读当前章节。不要重复背景问卷，不从旧考试分数推断当前等级。
 
 ## 教学
 

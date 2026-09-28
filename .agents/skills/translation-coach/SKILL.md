@@ -7,7 +7,7 @@ description: 通过中文情境到英文表达训练英语；用于设计递进�
 
 目标是让学习者面对**新的真实情境**时，能独立选出合适的英文说法。整句表达与交际动作是主轴；单词义项、搭配词组、句式骨架和语法按实际表达卡点嵌入，不分成四套孤立的背诵任务。
 
-本项目使用前先读 `background/LEARNER.md`、`background/METHOD.md`、`progress/CURRENT.md`；规划或改编课程时再读 [PLAN.md](PLAN.md)，采集或审核素材时读 [references/sources-and-coverage.md](references/sources-and-coverage.md)。这些路径相对 english 项目根目录；在别的项目使用时，以用户当下目标和可用记录代替。不要用旧考试分数或一份练习总结给当前 CEFR 定级。
+本项目使用前先读 `background/LEARNER.md`、`background/METHOD.md`、`background/CURRENT.md`；规划或改编课程时再读 [PLAN.md](PLAN.md)，采集或审核素材时读 [references/sources-and-coverage.md](references/sources-and-coverage.md)。这些路径相对 english 项目根目录；在别的项目使用时，以用户当下目标和可用记录代替。不要用旧考试分数或一份练习总结给当前 CEFR 定级。
 
 ## 先判断本次任务
 

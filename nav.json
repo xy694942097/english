@@ -99,9 +99,7 @@
       "title": "中文到英文表达",
       "items": [
         "book/10-expression/01-relationship-options.md",
-        {"sub": "校准任务", "items": [
-          "references/translation-training/pilot-001-prompts.md"
-        ]}
+        "references/translation-training/pilot-001-prompts.md"
       ]
     },
     {
@@ -109,8 +107,8 @@
       "items": [
         "background/LEARNER.md",
         "background/METHOD.md",
-        "progress/CURRENT.md",
-        "progress/202609161941_诊断_能力基线第一批.md",
+        "background/CURRENT.md",
+        "background/202609161941_诊断_能力基线第一批.md",
         {
           "sub": "历史课堂",
           "items": [
