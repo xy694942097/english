@@ -24,6 +24,8 @@
 
 用户要求中译英练习、中文与自然英文素材采集、表达课程计划或翻译评改时，使用 `engineering/skills/translation-coach/SKILL.md`；整句表达与交际意图优先，单词、词组和句式骨架按卡点嵌入。计划与来源规则见该 Skill 内的 `PLAN.md` 和 `references/sources-and-coverage.md`。
 
+用户提出的 chunks 上位概念与快速识别目标见 `engineering/methodology/chunks-as-learning-units.md`。搜集搭配、短语动词、习语、话语套语或句式骨架时先按该文判断是否值得收、应收多大一块；记录来源和语域，不把搜集数量当理解速度或掌握证据。
+
 ## 编纂 Book
 
 五个阅读专题与“中文到英文表达”在 nav.json 里以分组体现（原 course.json 已于 2026-09-23 废弃）。新增主线章先明确阅读或表达卡点、对照和新语境，再把 Markdown 路径登记进 nav.json 对应组；不要只增加词条数或按考试标签铺满目录。没有正文的未来主题只放BACKLOG，不作为可开始章节展示。

@@ -8,6 +8,8 @@
 
 （背景备注：截至目前工程建造投入很大，但真实学习记录为零——events/progress 均为空。后续工作应回到真实学习行为与能力诊断本身，而不是继续横向加功能。）
 
+- Chunks 学习单位（2026-09-28，用户提出）：将搭配、短语动词、习语、话语套语与句式骨架纳入宽泛的 chunks 框架，目标是在新语境中更快认出整体意义并更快调出自然表达；但收集条目不等于已经自动化。方法与收录门槛见 `engineering/methodology/chunks-as-learning-units.md`，并已同步 `background/METHOD.md`、语境阅读章和中译英 Skill；尚无由此产生的独立作答或测速证据。
+
 - Book 编辑分层（2026-09-28）：全书 43 篇教学内容已按 `engineering/verification/book-editorial-inventory-2026-09-28.md` 分类：26 篇学习主线（可试教、仍需审校）、12 篇查阅资料（待逐条审校）、1 篇候选、4 篇隔离待修。站点导航只展示主线、表达练习和查阅资料；候选与隔离文档保留文件但不进目录和搜索。此次为材料编辑状态整理，不改变学习者掌握状态。
 
 - 中译英表达训练 P0 素材（2026-09-28）：依项目 `translation-coach` Skill 建立 9 条中文情境候选、10 条逐页核查的英文词典用法证据与覆盖报告，分别见 `references/translation-training/pilot-001-prompts.md`、`pilot-001-evidence.md`、`pilot-001-report.md`。中文任务直接登记在只读站点「中文到英文表达」组；英文证据暂不在站点目录展示，避免提前露出可用表达。P1 真实作答和迁移尚未开始，不新增掌握判断。
