@@ -52,7 +52,7 @@ description: 通过中文情境到英文表达训练英语；用于设计递进�
 
 ## 资料与 Book 的边界
 
-采集规则、来源类型、记录字段、去重和质量门槛见 [references/sources-and-coverage.md](references/sources-and-coverage.md)。中文情境和英语原句应分别建候选；即使来自双语材料，也要核对原文、译文和语域，不把平行句对当唯一答案。若需下载资料，遵守项目 `materials/HANDBOOK.md` 的下载和许可记录规则。
+采集规则、来源类型、记录字段、去重和质量门槛见 [references/sources-and-coverage.md](references/sources-and-coverage.md)。**先广收带来源的候选，再精选可教学条目**；中文情境和英语原句分别建候选，采集当下无需逐条配练习或判掌握。即使来自双语材料，也要核对原文、译文和语域，不把平行句对当唯一答案。若需下载资料，遵守项目 `materials/HANDBOOK.md` 的下载和许可记录规则。
 
 只有经审校且值得复用的表达才编入 `book/10-expression/` 或相关专题；需有情境、对照、边界与新语境练习。实际增编按用户请求执行，并同步 `nav.json`、`book/CHANGELOG.md`、`book/BACKLOG.md`；学习掌握只写进进度证据，不由教材篇数推断。涉及私人消息时，公开教材用去身份化的教学情境。
 

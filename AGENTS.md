@@ -24,7 +24,7 @@
 
 用户要求中译英练习、中文与自然英文素材采集、表达课程计划或翻译评改时，使用 `engineering/skills/translation-coach/SKILL.md`；整句表达与交际意图优先，单词、词组和句式骨架按卡点嵌入。计划与来源规则见该 Skill 内的 `PLAN.md` 和 `references/sources-and-coverage.md`。
 
-用户提出的 chunks 上位概念与快速识别目标见 `engineering/methodology/chunks-as-learning-units.md`。搜集搭配、短语动词、习语、话语套语或句式骨架时先按该文判断是否值得收、应收多大一块；记录来源和语域，不把搜集数量当理解速度或掌握证据。
+用户提出的 chunks 上位概念与快速识别目标见 `engineering/methodology/chunks-as-learning-units.md`。采集候选是第一步，可以广收并暂记待核；编入正式教材或作为正确用法教学时才应用更严格的查证与迁移门槛。记录来源和语域，不把搜集数量当理解速度或掌握证据。
 
 ## 编纂 Book
 
