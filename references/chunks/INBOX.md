@@ -9,6 +9,7 @@
 | Chunk 原文 | 中文意思 | 例句 |
 |---|---|---|
 | pitch an offer | 推介一个报价／方案（商务语境；是否高频待核） | Your writer or team has to pitch an offer that better suits the requirements of the client than any of your competitors.（[商业提案写作资料](https://cdn2.hubspot.net/hubfs/41482/How%20to%20Write%20a%20Business%20Proposal%20Instructional%20Solutions.pdf)） |
+| we had the benefit of ... | 我们得益于……；我们有……的便利／优势（原输入末尾为句点，后接内容待补） | 待补例句（用户提供片段；原出处未给） |
 
 ## 短语动词与动词结构
 
@@ -22,6 +23,7 @@
 |---|---|---|
 | come onto your radar screen | 进入你的注意范围；开始被你留意 | When did it first come onto your radar screen?（[Washington State Oral History, p. 10](https://app.leg.wa.gov/oralhistory/pdf/OH864.pdf)） |
 | on a first-principles basis | 从第一性原理出发；按基本原理推导（较正式；原输入 `on first principle basis`，此处显式校正） | We rebuilt the model on a first-principles basis.（教学自造；[搭配核查：American Academy of Actuaries, p. 4](https://www.actuary.org/sites/default/files/files/publications/LTC_Practice_Note_013119.pdf)） |
+| swim upstream | 逆流而上；比喻逆势而行、顶着阻力做事（具体语境待核） | 待补例句（用户提供片段；原出处未给） |
 
 ## 话语套语
 
@@ -42,6 +44,9 @@
 | It never occurred to me to ... | 我从没想到要……（原输入 `occured` 已校正为 `occurred`） | It never occurred to me to ask.（[Collins](https://www.collinsdictionary.com/us/dictionary/english-french/to-occur-to-somebody)） |
 | we were just determined that ... | 我们当时就是认定／决意……（`that` 后接完整从句；原句与语境待核） | 待补例句（用户提供片段；原出处未给） |
 | What's key about this is ... | 这里关键的是……（突出核心性质） | What's key about this is it's programmable.（用户提供视频截图，17:55；原视频链接未给） |
+| It turns out (that) ... | 原来／结果……（以完整从句揭示后来发现的事实；原输入 `it turns out`） | It turns out we had the wrong address.（教学自造） |
+| at the core of grit | 坚毅的核心在于……；原片段缺后文，具体含义待核 | 待补例句（用户提供片段；原出处未给） |
+| we suffered our way here. | 我们一路吃苦才走到这里（具体所指待核） | We suffered our way here.（用户提供；原出处未给） |
 
 ## 待分类与单词候选
 
