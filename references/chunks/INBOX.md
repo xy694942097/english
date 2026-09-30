@@ -23,6 +23,8 @@
 
 | Chunk 原文 | 中文意思 | 例句 |
 |---|---|---|
+| kind of | 有点；算是（口语中缓和或模糊表达，非“一种……”义） | It was kind of sad, really.（[Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/kind-of)） |
+| and so forth | 等等；诸如此类（列举末尾） | The patient can have apples, apple juice, apple sauce, and so forth.（[Collins](https://www.collinsdictionary.com/dictionary/english/and-so-on)） |
 
 ## 句式骨架
 
@@ -33,3 +35,4 @@
 
 | Chunk 原文 | 中文意思 | 例句 |
 |---|---|---|
+| all of that | 上述这些；那一切（回指前文，具体所指待核） | 待补例句 |
