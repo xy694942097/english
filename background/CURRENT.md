@@ -13,6 +13,7 @@
 - Chunks 第二批录入（2026-09-30）：用户给出 8 条片段，其中 6 条作为候选新增到收集箱；`who wouldn't like that?` 与 Book 的 `Who wouldn't ...?` 同族、`turned out` 已有专门讲解，按近重复规则跳过。`It never occured to me to ...` 在表中明确校正拼写，并因 `to do` 接法与 Book 已有 `that/how` 变体不同而保留。若干残句例句待补，未标掌握。
 - Chunks 去重范围纠正与补录（2026-09-30）：用户明确规定只与 `references/chunks/INBOX.md` 内已有候选比较，不因 Book 或其他文章已有讲解而跳过；上条记录中的两项跳过理由已失效。已补录 `turn out`、`Who wouldn't like that?`，另收 `pitch an offer`、`we were just determined that ...`、`on a first-principles basis`（显式标注原输入的形式校正）及截图中的 `What's key about this is ...`。不完整原句与未核频率继续标待核，仍是候选而非掌握证据。
 - Chunks 后续五条候选（2026-09-30）：录入 `swim upstream`、`It turns out (that) ...`、`at the core of grit`、`we suffered our way here.`、`we had the benefit of ...`。其中 `It turns out (that) ...` 与已收 `turn out` 相关，但它固定了揭示事实的整句接法，作为独立句式骨架保留；另外两处残句保留待补语境，不把候选当已核实原文。
+- Chunks 字幕选材（2026-09-30）：用户另给 `all kinds of other things`、`be determined to`、`dedicated to` 及两张字幕截图。本批前三条与截图中 `on the tip of one's tongue`、`core beliefs`、`It has to start from ...`、`You could say that about ...` 共 7 条录入候选。`on the tip of one's tongue` 按词典常规义记录，单独说明字幕里的“NVIDIA 没被顺口提起”是较松的用法，不能将其词典释义泛化为“常被提及”；第二张字幕自我修正处只提取可迁移骨架，不原样教学。
 
 - Chunks 学习单位（2026-09-28，2026-09-29 用户补充）：将搭配、短语动词、习语、话语套语与句式骨架纳入宽泛的 chunks 框架，目标是在新语境中更快认出整体意义并更快调出自然表达。用户明确强调**收集是第一步**；现分为低门槛的候选采集与高门槛的正式教学精选，不要求每收一条立即练会，也不把收集量当自动化证据。方法见 `engineering/methodology/chunks-as-learning-units.md`；尚无由此产生的独立作答或测速证据。
 

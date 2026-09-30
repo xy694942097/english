@@ -10,6 +10,8 @@
 |---|---|---|
 | pitch an offer | 推介一个报价／方案（商务语境；是否高频待核） | Your writer or team has to pitch an offer that better suits the requirements of the client than any of your competitors.（[商业提案写作资料](https://cdn2.hubspot.net/hubfs/41482/How%20to%20Write%20a%20Business%20Proposal%20Instructional%20Solutions.pdf)） |
 | we had the benefit of ... | 我们得益于……；我们有……的便利／优势（原输入末尾为句点，后接内容待补） | 待补例句（用户提供片段；原出处未给） |
+| all kinds of other things | 各种各样的其他东西／事情（概括前文之外的杂项） | 待补例句（用户提供片段；原出处未给） |
+| core beliefs | 核心信念；根本相信的东西 | What are your core beliefs?（用户提供视频截图；原视频链接未给） |
 
 ## 短语动词与动词结构
 
@@ -24,6 +26,7 @@
 | come onto your radar screen | 进入你的注意范围；开始被你留意 | When did it first come onto your radar screen?（[Washington State Oral History, p. 10](https://app.leg.wa.gov/oralhistory/pdf/OH864.pdf)） |
 | on a first-principles basis | 从第一性原理出发；按基本原理推导（较正式；原输入 `on first principle basis`，此处显式校正） | We rebuilt the model on a first-principles basis.（教学自造；[搭配核查：American Academy of Actuaries, p. 4](https://www.actuary.org/sites/default/files/files/publications/LTC_Practice_Note_013119.pdf)） |
 | swim upstream | 逆流而上；比喻逆势而行、顶着阻力做事（具体语境待核） | 待补例句（用户提供片段；原出处未给） |
+| on the tip of one's tongue | 一个词／名字几乎想起、却暂时说不出来；截图中说某名字没有被顺口提起，属于较松的借用，不等于“经常被提及” | I know her - her name is on the tip of my tongue, but it won't come to me.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/on-the-tip-of-tongue)；截图原句见用户提供视频，22:44） |
 
 ## 话语套语
 
@@ -47,6 +50,10 @@
 | It turns out (that) ... | 原来／结果……（以完整从句揭示后来发现的事实；原输入 `it turns out`） | It turns out we had the wrong address.（教学自造） |
 | at the core of grit | 坚毅的核心在于……；原片段缺后文，具体含义待核 | 待补例句（用户提供片段；原出处未给） |
 | we suffered our way here. | 我们一路吃苦才走到这里（具体所指待核） | We suffered our way here.（用户提供；原出处未给） |
+| be determined to ... | 下定决心要……；不因困难而放弃（后接动词原形；不同于已收的 `determined that ...`） | I'm determined to get this piece of work done today.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/determined)） |
+| dedicated to ... | 致力于……（此处 `to` 是介词，后接名词或动名词；“献给／专供”是另一些语境） | She's completely dedicated to her work.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/dedicated-to)） |
+| It has to start from ... | 这得从……开始；提出论证或行动的起点（截图口语原句有自我修正） | It has to start from your core beliefs.（教学自造；据用户提供视频截图整理） |
+| You could say that about ... | 这话也可以用来说……；同样的判断也适用于…… | You could say that about America.（用户提供视频截图；原视频链接未给） |
 
 ## 待分类与单词候选
 
