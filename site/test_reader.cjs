@@ -36,6 +36,8 @@ const assert = require('node:assert/strict');
 
     await page.goto(base + '#' + encodeURIComponent('references/chunks/INBOX.md'));
     await page.getByRole('heading', {name: 'Chunks 收集箱', exact: true}).waitFor();
+    assert.equal(await page.locator('#article table').count(), 6, '六个分类各有一张收集表');
+    assert.equal(await page.locator('#article table').first().locator('th').count(), 3, '收集表固定三列');
 
     // 深链 + 参考答案折叠
     await page.goto(base + '#' + encodeURIComponent('book/05-patterns/01-nothing-but.md'));
