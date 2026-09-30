@@ -12,12 +12,19 @@
 | we had the benefit of ... | 我们得益于……；我们有……的便利／优势（原输入末尾为句点，后接内容待补） | 待补例句（用户提供片段；原出处未给） |
 | all kinds of other things | 各种各样的其他东西／事情（概括前文之外的杂项） | 待补例句（用户提供片段；原出处未给） |
 | core beliefs | 核心信念；根本相信的东西 | What are your core beliefs?（用户提供视频截图；原视频链接未给） |
+| from my lens | 从我的视角来看（原输入 `from my lens.`；隐喻用法，表达时也可用更稳妥的 `from my perspective`／`through my lens`） | 待补例句（用户提供片段；原出处未给） |
+| free speech | 言论自由 | Free speech matters.（教学自造） |
+| aspire for ... | 渴望／追求……（可见于语料，但产出时优先用更常规的 `aspire to ...`；原句待核） | 待补例句（用户提供片段；[Cambridge aspire 词条与语料](https://dictionary.cambridge.org/dictionary/english/aspire)） |
+| have aspirations for ... | 对……怀有抱负／期望（名词 `aspirations` 的接法；与动词 `aspire to` 区分） | She had very high educational aspirations for her children.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/aspiration)） |
+| cautious optimism | 谨慎乐观；抱有希望但也看见风险 | We should approach the results with cautious optimism.（教学自造；[原访谈用语](https://www.hoover.org/plus/research/jensen-huang-vision-risk-and-gpu)） |
+| wild-eyed optimist | 过分狂热／不切实际的乐观主义者（带评价色彩） | I'm a cautious optimist, not a wild-eyed optimist.（教学自造；[原访谈用语](https://www.hoover.org/plus/research/jensen-huang-vision-risk-and-gpu)；[wild-eyed 释义](https://www.collinsdictionary.com/dictionary/english/wild-eyed)） |
 
 ## 短语动词与动词结构
 
 | Chunk 原文 | 中文意思 | 例句 |
 |---|---|---|
 | turn out | 结果是；后来发现（此处只收结果／发现义） | It turned out that I was wrong.（教学自造；[Cambridge 释义](https://dictionary.cambridge.org/dictionary/english/turn-out)） |
+| go back to ... | 回到（某地／某话题）；追溯到（某时间／起点），具体义随宾语而变 | Let's go back to the main question.（教学自造） |
 
 ## 习语与固定表达
 
@@ -27,6 +34,9 @@
 | on a first-principles basis | 从第一性原理出发；按基本原理推导（较正式；原输入 `on first principle basis`，此处显式校正） | We rebuilt the model on a first-principles basis.（教学自造；[搭配核查：American Academy of Actuaries, p. 4](https://www.actuary.org/sites/default/files/files/publications/LTC_Practice_Note_013119.pdf)） |
 | swim upstream | 逆流而上；比喻逆势而行、顶着阻力做事（具体语境待核） | 待补例句（用户提供片段；原出处未给） |
 | on the tip of one's tongue | 一个词／名字几乎想起、却暂时说不出来；截图中说某名字没有被顺口提起，属于较松的借用，不等于“经常被提及” | I know her - her name is on the tip of my tongue, but it won't come to me.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/on-the-tip-of-tongue)；截图原句见用户提供视频，22:44） |
+| the status quo | 现状；既有局面（原输入 `status quo.`；作名词时常带 `the`） | Certain people always want to maintain the status quo.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/status-quo)） |
+| make a difference | 起作用；带来积极改变（不是“制造一个差别”的逐词翻译） | What she showed is that one person can make a difference.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/make-a-difference)） |
+| in every possible way | 以一切可能的方式（原输入 `in every possible ways.`，`every` 后应接单数 `way`） | We tried to help in every possible way.（教学自造） |
 
 ## 话语套语
 
@@ -38,6 +48,7 @@
 | It's all about ... | 关键在于……；重点全在……（具体依语境） | Success is all about networking.（[Collins](https://www.collinsdictionary.com/dictionary/english-spanish/all-about)） |
 | that's the thing about ... | 说到……，关键／麻烦就在这里（后文决定评价） | 待补例句 |
 | Who wouldn't like that? | 谁会不喜欢呢？（反问，表示觉得它讨喜） | Who wouldn't like that?（用户提供；原出处未给） |
+| Things are moving too fast. | 事情发展得太快了（可用于表达担忧或跟不上节奏；原输入小写开头） | Things are moving too fast.（用户提供；原出处未给） |
 
 ## 句式骨架
 
@@ -54,6 +65,7 @@
 | dedicated to ... | 致力于……（此处 `to` 是介词，后接名词或动名词；“献给／专供”是另一些语境） | She's completely dedicated to her work.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/dedicated-to)） |
 | It has to start from ... | 这得从……开始；提出论证或行动的起点（截图口语原句有自我修正） | It has to start from your core beliefs.（教学自造；据用户提供视频截图整理） |
 | You could say that about ... | 这话也可以用来说……；同样的判断也适用于…… | You could say that about America.（用户提供视频截图；原视频链接未给） |
+| aspire to be ... | 有志成为……；希望达到某种身份／状态（`to be` 后接名词或形容词） | As a child, he aspired to be a great writer.（[Cambridge](https://dictionary.cambridge.org/dictionary/english/aspire-to)） |
 
 ## 待分类与单词候选
 
