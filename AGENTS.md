@@ -11,6 +11,7 @@
 - **book/**：教材，按主题目录保存 Markdown。书入口 README 与工程配套（TEMPLATE/BACKLOG/CHANGELOG）不进导航。
 - **engineering/skills/**：既有英语内容生产 skill 的源文件（frame-miner 拆句式骨架、english-content-forge 生成句集/指南）；中译英训练 `translation-coach` 的源文件在 `.agents/skills/translation-coach/`，此处保留指向它的站点阅读链接。三个 Skill 的 SKILL.md 与中译英计划已登记进 nav.json「内容生产 Skills」组；新增句集/完全指南类内容按 english-content-forge 流程（数据 jsonl → 渲染脚本出视图）执行。
 - **references/**：教材构建与归一脚本（build_chapter_previews / build_frames_collection / normalize_materials 等）及导入报告。挖掘中间数据（批次 json、句池、裁决存档）2026-09-24 已移入 engineering/archive/，脚本与报告留在原处。
+- **references/chunks/**：可在站点查看的 Chunks 候选收集箱与固定格式。它是采集区，不是正式 Book 或学习记录。
 - **vocabulary/**：历史讲义（1 篇旧课，已在 nav.json「学习档案→历史课堂」登记）。
 - **materials/**：下载资料总库（词表/词典/真题/教材/语料），只有 readable/ 合集在 nav.json 登记。每个文件登记 materials/downloads-manifest.json（SHA-256+URL+许可）。下载、选源与归一化规则唯一出处是 materials/HANDBOOK.md——照手册执行，不需重新决策；资料清单与批次记录见 materials/README.md。
 
@@ -25,6 +26,8 @@
 用户要求中译英练习、中文与自然英文素材采集、表达课程计划或翻译评改时，使用 `engineering/skills/translation-coach/SKILL.md`；整句表达与交际意图优先，单词、词组和句式骨架按卡点嵌入。计划与来源规则见该 Skill 内的 `PLAN.md` 和 `references/sources-and-coverage.md`。
 
 用户提出的 chunks 上位概念与快速识别目标见 `engineering/methodology/chunks-as-learning-units.md`。采集候选是第一步，可以广收并暂记待核；编入正式教材或作为正确用法教学时才应用更严格的查证与迁移门槛。记录来源和语域，不把搜集数量当理解速度或掌握证据。
+
+在本项目中用户说“帮我录入”且没有指定其他去处时，按 `references/chunks/FORMAT.md` 将其给出的单项、多行或文本候选录入 `references/chunks/INBOX.md`。先保留原句与来源；缺失信息写“未提供／待核”，查重时不覆盖旧例证。录入后报告新增和补充项。仅录为候选，不自动编入 Book、做学习测验或标掌握；用户指定别的目标时服从其指令。
 
 ## 编纂 Book
 

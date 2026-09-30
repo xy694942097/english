@@ -63,6 +63,13 @@
       ]
     },
     {
+      "title": "Chunks 收集箱",
+      "items": [
+        "references/chunks/INBOX.md",
+        "references/chunks/FORMAT.md"
+      ]
+    },
+    {
       "title": "学习档案",
       "items": [
         "background/LEARNER.md",

@@ -14,8 +14,8 @@ const assert = require('node:assert/strict');
     await page.goto(base);
     await page.getByRole('heading', {name: '从 resigned 理解词义与搭配', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
-    assert.equal(await page.locator('#nav details').count(), 11, '按教学角色整理的十一个导航分组');
-    assert.equal(await page.locator('#nav a.nav-link').count(), 59, '59 个登记文档');
+    assert.equal(await page.locator('#nav details').count(), 12, '按教学角色整理的十二个导航分组');
+    assert.equal(await page.locator('#nav a.nav-link').count(), 61, '61 个登记文档');
     const navText = await page.locator('#nav').innerText();
     assert.ok(navText.includes('表达练习') && navText.includes('查阅资料（待审校）'), '练习与查阅分区可见');
     assert.ok(!navText.includes('英语固定短语完全指南') && !navText.includes('雅思级别英语1000句 v2'), '隔离文档不在导航');
@@ -33,6 +33,9 @@ const assert = require('node:assert/strict');
 
     await page.goto(base + '#' + encodeURIComponent('references/translation-training/pilot-001-prompts.md'));
     await page.getByRole('heading', {name: '中译英校准素材 P001：中文情境任务', exact: true}).waitFor();
+
+    await page.goto(base + '#' + encodeURIComponent('references/chunks/INBOX.md'));
+    await page.getByRole('heading', {name: 'Chunks 收集箱', exact: true}).waitFor();
 
     // 深链 + 参考答案折叠
     await page.goto(base + '#' + encodeURIComponent('book/05-patterns/01-nothing-but.md'));
