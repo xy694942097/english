@@ -14,8 +14,8 @@ const assert = require('node:assert/strict');
     await page.goto(base);
     await page.getByRole('heading', {name: '从 resigned 理解词义与搭配', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
-    assert.equal(await page.locator('#nav details').count(), 12, '按教学角色整理的十二个导航分组');
-    assert.equal(await page.locator('#nav a.nav-link').count(), 61, '61 个登记文档');
+    assert.equal(await page.locator('#nav details').count(), 13, '按教学角色整理的十三个导航分组');
+    assert.equal(await page.locator('#nav a.nav-link').count(), 62, '62 个登记文档');
     const navText = await page.locator('#nav').innerText();
     assert.ok(navText.includes('表达练习') && navText.includes('查阅资料（待审校）'), '练习与查阅分区可见');
     assert.ok(!navText.includes('英语固定短语完全指南') && !navText.includes('雅思级别英语1000句 v2'), '隔离文档不在导航');
@@ -38,6 +38,11 @@ const assert = require('node:assert/strict');
     await page.getByRole('heading', {name: 'Chunks 收集箱', exact: true}).waitFor();
     assert.equal(await page.locator('#article table').count(), 6, '六个分类各有一张收集表');
     assert.equal(await page.locator('#article table').first().locator('th').count(), 3, '收集表固定三列');
+
+    await page.goto(base + '#' + encodeURIComponent('book/11-spoken-chunks/01-standup-conversation-moves.md'));
+    await page.getByRole('heading', {name: '脱口秀口语 Chunks：把观察、反问和不确定说出来', exact: true}).waitFor();
+    assert.equal(await page.locator('#article h2').filter({hasText: /^\d+\. /}).count(), 8, '脱口秀章展示八个知识点');
+    assert.equal(await page.locator('#article details').getAttribute('open'), null, '脱口秀章答案默认折叠');
 
     // 深链 + 参考答案折叠
     await page.goto(base + '#' + encodeURIComponent('book/05-patterns/01-nothing-but.md'));

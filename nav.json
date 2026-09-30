@@ -57,6 +57,12 @@
       ]
     },
     {
+      "title": "口语 Chunks",
+      "items": [
+        "book/11-spoken-chunks/01-standup-conversation-moves.md"
+      ]
+    },
+    {
       "title": "表达练习",
       "items": [
         "references/translation-training/pilot-001-prompts.md"

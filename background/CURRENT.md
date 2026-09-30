@@ -15,6 +15,7 @@
 - Chunks 后续五条候选（2026-09-30）：录入 `swim upstream`、`It turns out (that) ...`、`at the core of grit`、`we suffered our way here.`、`we had the benefit of ...`。其中 `It turns out (that) ...` 与已收 `turn out` 相关，但它固定了揭示事实的整句接法，作为独立句式骨架保留；另外两处残句保留待补语境，不把候选当已核实原文。
 - Chunks 字幕选材（2026-09-30）：用户另给 `all kinds of other things`、`be determined to`、`dedicated to` 及两张字幕截图。本批前三条与截图中 `on the tip of one's tongue`、`core beliefs`、`It has to start from ...`、`You could say that about ...` 共 7 条录入候选。`on the tip of one's tongue` 按词典常规义记录，单独说明字幕里的“NVIDIA 没被顺口提起”是较松的用法，不能将其词典释义泛化为“常被提及”；第二张字幕自我修正处只提取可迁移骨架，不原样教学。
 - Chunks 再收 12 条（2026-09-30）：用户给出个人视角、志向、言论自由、节奏、回溯、现状、产生影响及乐观态度等片段，均与收集箱现有条目无同义同功能近重复。本批将 `aspire for` 标为可见于语料但非首选产出搭配，与 `aspire to be`／`have aspirations for` 对比；把原输入 `in every possible ways` 显式校正为 `in every possible way`，`status quo` 条目提示常带 `the`。仍只视作候选。
+- 脱口秀口语专题首章（2026-09-30）：用户要求从 George Carlin 或其他脱口秀提炼常用 chunks 并单独成章。新增 `book/11-spoken-chunks/01-standup-conversation-moves.md`，以 Carlin 演出字幕中可定位的 8 个短词块训练观察、反问、叠加麻烦、确认理解、收束判断、不确定性和时间表达；完整教学例句自造，来源、演出语气与日常迁移分开，`nav.json` 新增「口语 Chunks」组。尚无学习者独立作答或掌握证据。
 
 - Chunks 学习单位（2026-09-28，2026-09-29 用户补充）：将搭配、短语动词、习语、话语套语与句式骨架纳入宽泛的 chunks 框架，目标是在新语境中更快认出整体意义并更快调出自然表达。用户明确强调**收集是第一步**；现分为低门槛的候选采集与高门槛的正式教学精选，不要求每收一条立即练会，也不把收集量当自动化证据。方法见 `engineering/methodology/chunks-as-learning-units.md`；尚无由此产生的独立作答或测速证据。
 

@@ -1,3 +1,7 @@
+## 2026-09-30 · 新增脱口秀口语 Chunks 首章
+
+新增 `book/11-spoken-chunks/01-standup-conversation-moves.md` 并在 `nav.json` 登记「口语 Chunks」。从 George Carlin 1978、1990 演出字幕中选 8 个离开笑话仍能使用的说话动作，逐项给出演出片段位置、中文功能、两条教学自造例句、结构、语气边界和新语境练习；不转载段子正文，不把舞台夸张当作日常口语。来源是第三方字幕并以词典复核关键义项，尚未逐帧听校原演出；章节是可试教材料，用户掌握待独立作答检验。
+
 ## 2026-09-28 · 新增中文到英文表达章：关系去留
 
 依据用户提供的 DeepSeek 练习总结，新增 `book/10-expression/01-relationship-options.md`，并在 `nav.json` 登记「中文到英文表达」组。章节以“今晚再谈一次、判断能否挽回、两条消息如何选择”为连续情境，编入 8 组表达，给出语义、自然语境、结构、语气边界及中文到英文的迁移练习。对原总结逐项审校：`prepared two messages`、`Which do you think I should send?` 等不误判为错误；`turning point`、`Big deal` 等解释保留语义及语气边界；不据单次摘要评定 CEFR 或标记掌握。例句为教学自造，词义参考已查阅的 Cambridge 词典与语法页。另在 BACKLOG 留下跨场景表达素材的候选方向，等待真实练习卡点选择。
