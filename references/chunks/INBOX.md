@@ -49,6 +49,7 @@
 | that's the thing about ... | 说到……，关键／麻烦就在这里（后文决定评价） | 待补例句 |
 | Who wouldn't like that? | 谁会不喜欢呢？（反问，表示觉得它讨喜） | Who wouldn't like that?（用户提供；原出处未给） |
 | Things are moving too fast. | 事情发展得太快了（可用于表达担忧或跟不上节奏；原输入小写开头） | Things are moving too fast.（用户提供；原出处未给） |
+| Not that I know of. | 据我所知没有／不是这样（回答是非问题时，保留“我所知范围内”的余地；原输入小写开头） | “Is he married?” — “Not that I know of.”（[Collins](https://www.collinsdictionary.com/dictionary/english/not-that-i-know-of)） |
 
 ## 句式骨架
 
