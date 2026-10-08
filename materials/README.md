@@ -1,14 +1,8 @@
 # 学习资料总库（materials）
 
-## 2026-10-08 · TED 100 篇官方英文字幕
+## 2026-10-08 · TED 100 篇英文原文 TXT
 
-从已选 100 个 TED 官方演讲／对谈下载英文字幕：成功 100/100；原件位于 `corpus/ted/english/`，100 份官方 JSON 与 100 份由源时间码转换的 SRT，共 31,107 条字幕、5.74 MiB。JSON 字节原样保留，逐件来源、SHA-256 和派生文件信息登记在 manifest；[选材目录](../references/ted/ted-100-catalog.md) 与 [逐文件下载清单](../references/ted/ted-100-download-report.md) 保留稳定编号。084 场有“页面标13:32、官方字幕约4分钟”的源差异，已额外保存播放器英文 VTT 并在清单注明；原始全文留在本机，供个人阅读、跟读与 chunks 选材，尚未逐条听校。
-
-资料网站及具体操作见 [资料来源](SOURCES.md)：目前包含 SubtitleCat 的英文字幕搜索、下载与质量检查方法。
-
-本目录汇集项目从 GitHub 等公开渠道下载的全部原始学习资料，2026-09-16 起按类型分类存放。数据文件不入 git，来源、字节数与 SHA-256 哈希逐条登记在同目录 [downloads-manifest.json](downloads-manifest.json)（files 列表，共 157 条，其中部分历史原件已归档或删除）。**下载、选源与归一化规则唯一出处是 [HANDBOOK.md](HANDBOOK.md)**（2026-09-16 定版），本页只是资料清单与批次记录：左侧目录看到的是文档，文件本体在本机 materials/ 下。
-
-> **2026-09-24 收录范围收窄**：站点收敛为纯查看器后，与学习库/词典库配套的原始数据移至 `~/workspace/english-archive/`——`vocabulary/`（词表）与 `dictionaries/`（ecdict/wordnet/wordbooks）已移出（wordbooks-md 词源书合集的可读层随 dictionaries 移走；恢复见 [wordlists-guide.md](wordlists-guide.md)）；剑桥雅思真题 PDF（351M）移至 `english-archive/ielts-pdfs/`；opus 语料的 zip 压缩包与 ids 对齐文件已删（与解压文本重复）。本目录现存：readable/ 合集（站点在用）、papers/ 文本真题、textbooks/ 教材、corpus/ 平行语料（.en/.zh）。下文各节为移出前的历史记录，保留原貌。
+按用户要求仅保留带基本信息的 TXT：100 篇、236,186 个空白分词，位于 `corpus/ted/english/`。各篇开头含中英文标题、讲者、年份、时长、TED ID 与官方来源链接；正文按官方段落合并字幕断行，文字不改写。旧 JSON、SRT、VTT 已清理，来源与 TXT 哈希保留在 manifest；[选材目录](../references/ted/ted-100-catalog.md) 与 [TXT 清单](../references/ted/ted-100-download-report.md) 可查文件。084 官方时长差异在文首备注，尚未逐条听校。
 
 ## vocabulary/ — 词表与词汇语料
 
