@@ -1,5 +1,7 @@
 # 学习资料总库（materials）
 
+资料网站及具体操作见 [资料来源](SOURCES.md)：目前包含 SubtitleCat 的英文字幕搜索、下载与质量检查方法。
+
 本目录汇集项目从 GitHub 等公开渠道下载的全部原始学习资料，2026-09-16 起按类型分类存放。数据文件不入 git，来源、字节数与 SHA-256 哈希逐条登记在同目录 [downloads-manifest.json](downloads-manifest.json)（files 列表，共 157 条，其中部分历史原件已归档或删除）。**下载、选源与归一化规则唯一出处是 [HANDBOOK.md](HANDBOOK.md)**（2026-09-16 定版），本页只是资料清单与批次记录：左侧目录看到的是文档，文件本体在本机 materials/ 下。
 
 > **2026-09-24 收录范围收窄**：站点收敛为纯查看器后，与学习库/词典库配套的原始数据移至 `~/workspace/english-archive/`——`vocabulary/`（词表）与 `dictionaries/`（ecdict/wordnet/wordbooks）已移出（wordbooks-md 词源书合集的可读层随 dictionaries 移走；恢复见 [wordlists-guide.md](wordlists-guide.md)）；剑桥雅思真题 PDF（351M）移至 `english-archive/ielts-pdfs/`；opus 语料的 zip 压缩包与 ids 对齐文件已删（与解压文本重复）。本目录现存：readable/ 合集（站点在用）、papers/ 文本真题、textbooks/ 教材、corpus/ 平行语料（.en/.zh）。下文各节为移出前的历史记录，保留原貌。

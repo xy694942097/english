@@ -89,6 +89,7 @@
     {
       "title": "真题与教材资料",
       "items": [
+        "materials/SOURCES.md",
         "materials/readable/papers/四级真题合集.md",
         "materials/readable/papers/六级真题合集.md",
         "materials/readable/papers/考研真题合集.md",
