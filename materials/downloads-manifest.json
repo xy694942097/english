@@ -1319,9 +1319,53 @@
    "url": "https://raw.githubusercontent.com/zeeklog/IELTS/master/%E9%9B%85%E6%80%9D%E4%BD%9C%E6%96%87%E6%A1%88%E4%BE%8B/%E7%A4%BE%E4%BA%A4%E4%B8%AD%E5%BF%83%E6%B4%BB%E5%8A%A8%E5%8F%82%E4%B8%8E-%E5%89%91%E6%A1%A519.md",
    "description": "图表作文范文：社交中心活动参与（剑桥19）",
    "downloaded": "2026-09-17T00:00:16+00:00"
+  },
+  {
+   "file": "corpus/standup-subtitles/george-carlin/again-1978.en.srt",
+   "bytes": 119642,
+   "sha256": "bea4ae17e89f9b4dc6b062858645d0c609c7273c7bf7927b46ed6b7e6514023a",
+   "source": "SubtitleCat community-uploaded English subtitles",
+   "url": "https://www.subtitlecat.com/subs/1584/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D-en.srt",
+   "source_page": "https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html",
+   "description": "George Carlin: Again! (1978); original English SRT; 1515 timed cues; local personal study and chunk research",
+   "license": "No explicit license found on source page; local personal study only, no redistribution",
+   "downloaded": "2026-10-08T03:00:42+00:00"
+  },
+  {
+   "file": "corpus/standup-subtitles/george-carlin/doin-it-again-1990.en.srt",
+   "bytes": 98535,
+   "sha256": "55b76a405b5fadff6a93cfdfbb8bdc24ae9afab2622eebbdebd4ea42f60be775",
+   "source": "SubtitleCat community-uploaded English subtitles",
+   "url": "https://www.subtitlecat.com/subs/874/George.Carlin.Doin.It.Again.1990.DVDRip-en.srt",
+   "source_page": "https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html",
+   "description": "George Carlin: Doin' It Again (1990); original English SRT; 1389 timed cues; local personal study and chunk research",
+   "license": "No explicit license found on source page; local personal study only, no redistribution",
+   "downloaded": "2026-10-08T03:00:42+00:00"
+  },
+  {
+   "file": "corpus/standup-subtitles/george-carlin/back-in-town-1996.en.srt",
+   "bytes": 78048,
+   "sha256": "de119f1866148281d2c35408019dd982f52aa8cc1938340470247cee2b35351a",
+   "source": "SubtitleCat community-uploaded English subtitles",
+   "url": "https://www.subtitlecat.com/subs/1407/%281996%29%20George%20Carlin%20-%20Back%20in%20Town-en.srt",
+   "source_page": "https://www.subtitlecat.com/subs/1184/%281996%29%20George%20Carlin%20-%20Back%20in%20Town.html",
+   "description": "George Carlin: Back in Town (1996); original English SRT; 953 timed cues; local personal study and chunk research",
+   "license": "No explicit license found on source page; local personal study only, no redistribution",
+   "downloaded": "2026-10-08T03:00:42+00:00"
+  },
+  {
+   "file": "corpus/standup-subtitles/george-carlin/its-bad-for-ya-2008.en.srt",
+   "bytes": 104608,
+   "sha256": "feef1568c59cce349d47c549a0a01a7000aea1130dc6fe89382f267f2748a6f1",
+   "source": "SubtitleCat community-uploaded English subtitles",
+   "url": "https://www.subtitlecat.com/subs/1225/George%20Carlin...%20It%20s%20Bad%20for%20Ya%20%20%282008%29.DVDRip.iNTiMiD.en-en.srt",
+   "source_page": "https://www.subtitlecat.com/subs/1215/George%20Carlin...%20It%20s%20Bad%20for%20Ya%20%20%282008%29.DVDRip.iNTiMiD.en.html",
+   "description": "George Carlin: It's Bad for Ya (2008); original English SRT; 1288 timed cues; local personal study and chunk research",
+   "license": "No explicit license found on source page; local personal study only, no redistribution",
+   "downloaded": "2026-10-08T03:00:42+00:00"
   }
  ],
- "updated_at": "2026-09-17T00:00:16+00:00",
+ "updated_at": "2026-10-08T03:00:42+00:00",
  "opus-opensubtitles/OpenSubtitles.en-zh.txt.zip": {
   "source": "https://object.pouta.csc.fi/OPUS-OpenSubtitles/v2016/moses/en-zh.txt.zip",
   "sha256": "65e636ae74af4954b10a64840f98a94a606676e22abc42700180cb2b424d2f25",

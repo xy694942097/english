@@ -1,6 +1,6 @@
 # 学习资料总库（materials）
 
-本目录汇集项目从 GitHub 等公开渠道下载的全部原始学习资料，2026-09-16 起按类型分类存放。数据文件不入 git，来源、字节数与 SHA-256 哈希逐条登记在同目录 [downloads-manifest.json](downloads-manifest.json)（files 列表，共 153 条）。**下载、选源与归一化规则唯一出处是 [HANDBOOK.md](HANDBOOK.md)**（2026-09-16 定版），本页只是资料清单与批次记录：左侧目录看到的是文档，文件本体在本机 materials/ 下。
+本目录汇集项目从 GitHub 等公开渠道下载的全部原始学习资料，2026-09-16 起按类型分类存放。数据文件不入 git，来源、字节数与 SHA-256 哈希逐条登记在同目录 [downloads-manifest.json](downloads-manifest.json)（files 列表，共 157 条，其中部分历史原件已归档或删除）。**下载、选源与归一化规则唯一出处是 [HANDBOOK.md](HANDBOOK.md)**（2026-09-16 定版），本页只是资料清单与批次记录：左侧目录看到的是文档，文件本体在本机 materials/ 下。
 
 > **2026-09-24 收录范围收窄**：站点收敛为纯查看器后，与学习库/词典库配套的原始数据移至 `~/workspace/english-archive/`——`vocabulary/`（词表）与 `dictionaries/`（ecdict/wordnet/wordbooks）已移出（wordbooks-md 词源书合集的可读层随 dictionaries 移走；恢复见 [wordlists-guide.md](wordlists-guide.md)）；剑桥雅思真题 PDF（351M）移至 `english-archive/ielts-pdfs/`；opus 语料的 zip 压缩包与 ids 对齐文件已删（与解压文本重复）。本目录现存：readable/ 合集（站点在用）、papers/ 文本真题、textbooks/ 教材、corpus/ 平行语料（.en/.zh）。下文各节为移出前的历史记录，保留原貌。
 
@@ -43,6 +43,17 @@ ecdict（ECDICT 全量，英英/中文释义、词频、考试标签；2026-09-2
 ## corpus/ — 平行语料
 
 opus-opensubtitles/：OPUS OpenSubtitles 英中平行语料（约 1.5GB），口语语域的真实语境备用语料，尚未入库使用。
+
+standup-subtitles/george-carlin/：2026-10-08 从 SubtitleCat 下载的 4 份**英文原始 SRT**，供口语 chunks 选材和带时间码回查。按原件保存，不转成站点文章，也不并入已有的通用影视平行语料：
+
+| 演出 | 本地文件 | 字幕条数 | 覆盖至 |
+|---|---|---:|---:|
+| Again! (1978) | `again-1978.en.srt` | 1,515 | 1:19:41 |
+| Doin' It Again (1990) | `doin-it-again-1990.en.srt` | 1,389 | 0:58:23 |
+| Back in Town (1996) | `back-in-town-1996.en.srt` | 953 | 1:01:34 |
+| It's Bad for Ya (2008) | `its-bad-for-ya-2008.en.srt` | 1,288 | 1:07:52 |
+
+四份均为社区上传字幕，页上未见明确许可；仅本地个人学习使用，不再分发。已核对连续编号、时间码、UTF-8 可读性与两两文本重叠（8 词连续片段交集不超过较短文件的 0.16%）。字幕可能有听写错误，引用到正式教材前仍需对照原演出；来源页、下载直链和 SHA-256 见 manifest。
 
 ## 使用边界
 

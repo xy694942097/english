@@ -1,3 +1,7 @@
+## 2026-10-08 · George Carlin 英文字幕资料入库
+
+应用户要求，从 SubtitleCat 下载并本地保存 George Carlin 四场演出的英文原始 SRT：1978《Again!》、1990《Doin' It Again》、1996《Back in Town》、2008《It's Bad for Ya》。原件在 `materials/corpus/standup-subtitles/george-carlin/`，逐件来源、字节数与 SHA-256 登记在 `materials/downloads-manifest.json`；资料索引和抽检记录见 `materials/README.md`。社区字幕只作个人学习和选材，不能当官方逐字稿；正式教学引用仍需核对原视频。
+
 ## 2026-09-30 · 新增脱口秀口语 Chunks 首章
 
 新增 `book/11-spoken-chunks/01-standup-conversation-moves.md` 并在 `nav.json` 登记「口语 Chunks」。从 George Carlin 1978、1990 演出字幕中选 8 个离开笑话仍能使用的说话动作，逐项给出演出片段位置、中文功能、两条教学自造例句、结构、语气边界和新语境练习；不转载段子正文，不把舞台夸张当作日常口语。来源是第三方字幕并以词典复核关键义项，尚未逐帧听校原演出；章节是可试教材料，用户掌握待独立作答检验。
