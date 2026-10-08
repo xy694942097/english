@@ -1,5 +1,9 @@
 # 学习资料总库（materials）
 
+## 2026-10-08 · TED 100 篇官方英文字幕
+
+从已选 100 个 TED 官方演讲／对谈下载英文字幕：成功 100/100；原件位于 `corpus/ted/english/`，100 份官方 JSON 与 100 份由源时间码转换的 SRT，共 31,107 条字幕、5.74 MiB。JSON 字节原样保留，逐件来源、SHA-256 和派生文件信息登记在 manifest；[选材目录](../references/ted/ted-100-catalog.md) 与 [逐文件下载清单](../references/ted/ted-100-download-report.md) 保留稳定编号。084 场有“页面标13:32、官方字幕约4分钟”的源差异，已额外保存播放器英文 VTT 并在清单注明；原始全文留在本机，供个人阅读、跟读与 chunks 选材，尚未逐条听校。
+
 资料网站及具体操作见 [资料来源](SOURCES.md)：目前包含 SubtitleCat 的英文字幕搜索、下载与质量检查方法。
 
 本目录汇集项目从 GitHub 等公开渠道下载的全部原始学习资料，2026-09-16 起按类型分类存放。数据文件不入 git，来源、字节数与 SHA-256 哈希逐条登记在同目录 [downloads-manifest.json](downloads-manifest.json)（files 列表，共 157 条，其中部分历史原件已归档或删除）。**下载、选源与归一化规则唯一出处是 [HANDBOOK.md](HANDBOOK.md)**（2026-09-16 定版），本页只是资料清单与批次记录：左侧目录看到的是文档，文件本体在本机 materials/ 下。

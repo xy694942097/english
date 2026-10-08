@@ -1,3 +1,7 @@
+## 2026-10-08 · TED 100 篇官方英文字幕下载
+
+按用户要求将 100 篇 TED 目录全部下载：成功 100/100。保存官方英文 caption JSON 原件并用原始开始时间／持续时长生成 SRT，登记 manifest、来源与哈希；补下载脚本、100 项结果清单和目录状态。原始全文不进 Git，未下载音视频、未提炼新知识或标记掌握。
+
 ## 2026-10-08 · George Carlin 英文字幕资料入库
 
 应用户要求，从 SubtitleCat 下载并本地保存 George Carlin 四场演出的英文原始 SRT：1978《Again!》、1990《Doin' It Again》、1996《Back in Town》、2008《It's Bad for Ya》。原件在 `materials/corpus/standup-subtitles/george-carlin/`，逐件来源、字节数与 SHA-256 登记在 `materials/downloads-manifest.json`；资料索引和抽检记录见 `materials/README.md`。社区字幕只作个人学习和选材，不能当官方逐字稿；正式教学引用仍需核对原视频。
