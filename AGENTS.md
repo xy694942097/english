@@ -49,6 +49,8 @@
 
 ## 下载资料选源与归一化
 
+TED 资料沿用用户确认的“带基本信息的 TXT”格式例外，执行前读 `materials/HANDBOOK.md` 的 TED 说明及 `references/ted/README.md`；不默认恢复 JSON/SRT/VTT，也不把获取脚本成功当成 manifest、索引与校验已经更新。
+
 规则唯一出处：materials/HANDBOOK.md（2026-09-16 定版，含下载五原则、选源四级优先序、目录五分类、数据层/可读层分离、catalog 白名单、工具速查与不变式）。要点：优先公开仓库/官方平台，下载即登记 manifest；原件不改写，可读层由 references/normalize_materials.py 生成（幂等重跑），json/csv/jsonl 豁免不转；批量前先抽查质量。执行时照手册走即可。
 
 ## 记录与边界

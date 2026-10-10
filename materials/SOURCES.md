@@ -2,6 +2,12 @@
 
 本页记录实际使用过的资料网站及操作方法，方便继续搜集英文原文、字幕和口语 chunks。文件下载、来源登记和原件保存的通用规则见 [资料手册](HANDBOOK.md)；已经下载的资料见 [资料清单](README.md)。以下操作于 **2026-10-08** 实际验证，网站界面和下载地址以后可能变化。
 
+## TED：官方英文原文，最终保留 TXT
+
+TED 这轮的选题、实际接口、基本信息格式、断行合并校验、084 源时长差异和后续刷新方法，统一见 [TED 资料收集经验与维护](../references/ted/README.md)。[100 篇选材目录](../references/ted/ted-100-catalog.md) 与 [TXT 文件清单](../references/ted/ted-100-download-report.md) 是当前入口。
+
+用户指定 TED 只需带基本信息的 TXT；不默认另存字幕 JSON、SRT、VTT。具体格式例外已写入 [HANDBOOK](HANDBOOK.md)，后续执行时沿用，不重复决定格式。
+
 ## SubtitleCat：找英文字幕，保留时间码回查
 
 网站：[SubtitleCat](https://www.subtitlecat.com/)。它提供用户上传的字幕以及多语言翻译、下载入口。本项目把它作为**英文字幕的检索与下载来源**：用字幕寻找可复用表达，用时间码回到原演出核对语气和上下文。字幕是社区资料，不自动等于官方逐字稿。
