@@ -23,14 +23,13 @@
       <nav id="nav" aria-label="知识目录"></nav>
     </aside>
     <main id="main">
-      <div class="reading-top"><span id="breadcrumb">学习起点</span><button id="edit-document" type="button" hidden>编辑本文</button></div>
+      <div class="reading-top"><span id="breadcrumb">学习起点</span><div class="reading-actions"><button id="edit-document" type="button" hidden>编辑本文</button><div id="edit-actions" class="edit-actions" hidden><span id="edit-status" role="status"></span><button id="cancel-edit" type="button">取消</button><button id="save-edit" type="button" class="primary" disabled>保存修改</button></div></div></div>
       <article id="article" class="prose"><p>正在打开知识书…</p></article>
-      <footer id="source"></footer>
       <section id="edit-panel" class="edit-panel" aria-label="Markdown 编辑器" hidden>
-        <div class="edit-head"><div><strong id="edit-title"></strong><small>Markdown 源文件 · 本地保存</small></div><div class="edit-actions"><span id="edit-status" role="status"></span><button id="cancel-edit" type="button">取消</button><button id="save-edit" type="button" class="primary" disabled>保存修改</button></div></div>
         <div id="markdown-editor"></div>
-        <p class="edit-hint">默认使用 Markdown 源码与实时预览；底部可切换所见即所得。复杂排版建议保留在 Markdown 模式编辑。</p>
+        <p class="edit-hint">直接在正文中编辑；底部可切换 Markdown 源码，保存前可检查复杂排版。</p>
       </section>
+      <footer id="source"></footer>
     </main>
     <aside id="outline" class="outline" aria-label="本篇目录" hidden>
       <div class="outline-head"><strong>本篇目录</strong></div>

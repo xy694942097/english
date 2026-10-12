@@ -17,8 +17,15 @@ function editorAssets() {
     document.head.append(script);
   });
   editorAssetsPromise = loadScript('/vendor/toastui/editor-bundle.js')
-    .then(() => loadScript('/vendor/toastui/zh-cn.js'));
+    .then(() => loadScript('/vendor/toastui/zh-cn.js'))
+    .catch(error => { editorAssetsPromise = undefined; throw error; });
   return editorAssetsPromise;
+}
+
+function preloadEditorAssets() {
+  const prepare = () => editorAssets().catch(() => {});
+  if ('requestIdleCallback' in window) requestIdleCallback(prepare, {timeout: 2500});
+  else setTimeout(prepare, 1200);
 }
 
 function refreshEditorTheme() {
@@ -40,44 +47,54 @@ async function beginEdit() {
   if (!state.current || state.editing) return;
   const item = state.current;
   $('edit-document').disabled = true;
+  $('edit-document').textContent = '准备编辑…';
+  let editor;
   try {
     await editorAssets();
-    if (state.current !== item) return;
-    $('article').hidden = true;
-    $('source').hidden = true;
+    if (state.current !== item || state.searching) return;
+    // Keep the reader in place while the editor parses larger Markdown files.
     $('edit-panel').hidden = false;
-    $('edit-document').hidden = true;
-    $('edit-title').textContent = item.title;
-    $('search').disabled = true;
-    closeOutline();
-    $('right-toggle').hidden = true;
-    refreshEditorTheme();
-    const editor = new toastui.Editor({
-      el: $('markdown-editor'), height: 'calc(100vh - 225px)', minHeight: '450px',
-      initialEditType: 'markdown', previewStyle: 'vertical', language: 'zh-CN',
+    editor = new toastui.Editor({
+      el: $('markdown-editor'), height: 'calc(100vh - 175px)', minHeight: '520px',
+      initialEditType: 'wysiwyg', previewStyle: 'tab', language: 'zh-CN',
       initialValue: item.body, usageStatistics: false,
       toolbarItems: [
         ['heading', 'bold', 'italic', 'strike'], ['hr', 'quote'],
         ['ul', 'ol', 'task', 'indent', 'outdent'], ['table', 'image', 'link'],
-        ['code', 'codeblock'], ['scrollSync'],
+        ['code', 'codeblock'],
       ],
       hooks: {addImageBlobHook: () => {
         alert('请先把图片存入项目，再用图片网址或相对路径插入。');
         return false;
       }},
     });
+    if (state.current !== item || state.searching) {
+      editor.destroy(); $('markdown-editor').replaceChildren(); $('edit-panel').hidden = true;
+      return;
+    }
+    $('article').hidden = true;
+    $('source').hidden = true;
+    $('edit-document').hidden = true;
+    $('edit-actions').hidden = false;
+    $('search').disabled = true;
+    closeOutline();
+    $('right-toggle').hidden = true;
     refreshEditorTheme();
     state.editing = {item, editor, baseline: editor.getMarkdown(), dirty: false, saving: false};
     editor.on('change', updateEditDirty);
     updateEditDirty();
   } catch (error) {
+    editor?.destroy();
+    $('markdown-editor').replaceChildren();
     $('edit-status').textContent = '';
     $('article').hidden = false; $('source').hidden = false;
     $('edit-panel').hidden = true; $('edit-document').hidden = false;
+    $('edit-actions').hidden = true;
     $('search').disabled = false;
     alert('编辑器加载失败：' + error.message);
   } finally {
     $('edit-document').disabled = false;
+    $('edit-document').textContent = '编辑本文';
   }
 }
 
@@ -90,6 +107,7 @@ function endEdit() {
   $('article').hidden = false;
   $('source').hidden = false;
   $('edit-document').hidden = false;
+  $('edit-actions').hidden = true;
   $('search').disabled = false;
   $('edit-status').textContent = '';
 }
@@ -350,6 +368,7 @@ async function loadBook() {
   const data = await response.json();
   state.items = data.items; state.nav = data.nav || {groups:[]}; state.aliases = data.aliases || {};
   route();
+  preloadEditorAssets();
 }
 
 $('search').oninput=()=>{

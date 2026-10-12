@@ -23,6 +23,18 @@ const assert = require('node:assert/strict');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
 
+    // 编辑保持在阅读栏内，默认只有所见即所得正文；可切到单栏源码。
+    page.on('dialog', dialog => dialog.accept());
+    await page.getByRole('button', {name:'编辑本文', exact:true}).click();
+    await page.locator('.toastui-editor-ww-container').waitFor();
+    assert.equal(await page.locator('.toastui-editor-ww-container').isVisible(), true);
+    assert.equal(await page.locator('.toastui-editor-md-container').isVisible(), false, '默认不显示并排 Markdown 栏');
+    assert.equal(await page.locator('.sidebar').isVisible(), true, '编辑时保留导航');
+    await page.locator('.toastui-editor-mode-switch .tab-item').first().click();
+    assert.equal(await page.locator('.toastui-editor-md-container').isVisible(), true, '可切换到源码');
+    await page.getByRole('button', {name:'取消', exact:true}).click();
+    assert.equal(await page.locator('#article').isVisible(), true, '取消后回到原阅读页');
+
     // 两侧边栏可独立收起并恢复，左侧状态可在刷新后保持。
     await page.getByRole('button', {name:'收起左侧导航',exact:true}).click();
     assert.equal(await page.locator('.sidebar').isVisible(), false);
@@ -173,7 +185,7 @@ const assert = require('node:assert/strict');
     await page.unroute('**/api/catalog');
 
     assert.deepEqual(errors, []);
-    console.log('PASS: first doc, marked render, nav groups/folds, answer fold, md links, search, theme, /files/, mobile width; no page errors.');
+    console.log('PASS: in-place editor, reader, nav, TOC, links, search, theme, /files/, mobile width; no page errors.');
   } finally {
     await browser.close();
   }
