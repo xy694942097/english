@@ -74,7 +74,7 @@ function addDocumentContents(item) {
     li.append(link); list.append(li);
   });
   $('outline-links').replaceChildren(list);
-  $('outline-toggle').hidden = entries.length === 0;
+  $('right-toggle').hidden = entries.length === 0;
   if (!entries.length) closeOutline();
   article.querySelectorAll('a[href]').forEach(a => {
     const href = a.getAttribute('href');
@@ -139,12 +139,34 @@ function foldDocumentSections() {
 
 function closeOutline() {
   $('outline').hidden = true;
-  $('outline-toggle').setAttribute('aria-expanded', 'false');
+  document.body.classList.add('right-collapsed');
+  const toggle = $('right-toggle');
+  toggle.textContent = '☷';
+  toggle.setAttribute('aria-expanded', 'false');
+  toggle.setAttribute('aria-label', '展开目录');
+  toggle.dataset.tip = '展开目录';
 }
 
 function toggleOutline() {
-  $('outline').hidden = !$('outline').hidden;
-  $('outline-toggle').setAttribute('aria-expanded', String(!$('outline').hidden));
+  if ($('outline').hidden) {
+    $('outline').hidden = false;
+    document.body.classList.remove('right-collapsed');
+    const toggle = $('right-toggle');
+    toggle.textContent = '›';
+    toggle.setAttribute('aria-expanded', 'true');
+    toggle.setAttribute('aria-label', '收起目录');
+    toggle.dataset.tip = '收起目录';
+  } else closeOutline();
+}
+
+function setLeftSidebarOpen(open) {
+  document.body.classList.toggle('left-collapsed', !open);
+  const toggle = $('left-toggle');
+  toggle.textContent = open ? '‹' : '›';
+  toggle.setAttribute('aria-expanded', String(open));
+  toggle.setAttribute('aria-label', open ? '收起左侧导航' : '展开左侧导航');
+  toggle.dataset.tip = open ? '收起左侧导航' : '展开左侧导航';
+  localStorage.setItem('english-left-sidebar', open ? 'open' : 'closed');
 }
 
 function nav() {
@@ -201,16 +223,20 @@ async function loadBook() {
 $('search').oninput=()=>{
   const query=$('search').value.trim().toLowerCase(); if(!query)return route();
   state.searching = true;
+  closeOutline();
+  $('right-toggle').hidden = true;
   const results=state.items.filter(x=>(x.title+'\n'+x.body).toLowerCase().includes(query));
   $('article').innerHTML=`<h1>搜索知识书</h1><p>${results.length} 个结果</p>`+results.map(x=>{const at=x.body.toLowerCase().indexOf(query);return `<a class="search-result" href="#${encodeURIComponent(x.id)}"><strong>${x.title}</strong><small>${x.body.slice(Math.max(0,at-30),Math.max(0,at-30)+150)}</small></a>`;}).join('');
   $('breadcrumb').textContent='全文搜索';$('source').textContent='';
 };
 $('article').addEventListener('click',e=>{if(e.target.closest('a')?.hash===location.hash)route();});
 $('nav').addEventListener('click',e=>{if(e.target.closest('a')?.hash===location.hash)route();if(e.target.closest('a'))e.target.closest('details')?.setAttribute('open','');});
-$('outline-toggle').onclick = toggleOutline;
-$('outline-close').onclick = closeOutline;
+$('right-toggle').onclick = toggleOutline;
+$('left-toggle').onclick = () => setLeftSidebarOpen(document.body.classList.contains('left-collapsed'));
 $('outline-links').addEventListener('click', e => { if (e.target.closest('a')) closeOutline(); });
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeOutline(); });
+setLeftSidebarOpen(localStorage.getItem('english-left-sidebar') !== 'closed');
+closeOutline();
 $('theme').onclick=()=>{const current=document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');const next=current==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('english-theme',next);};
 if(localStorage.getItem('english-theme'))document.documentElement.dataset.theme=localStorage.getItem('english-theme');
 addEventListener('hashchange',route);

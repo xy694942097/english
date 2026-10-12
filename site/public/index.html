@@ -15,10 +15,7 @@
   <header class="topbar">
     <a class="brand" href="#"><span class="brand-mark">E</span><span><strong>English Book</strong><small>A personal reading practice</small></span></a>
     <input id="search" type="search" aria-label="搜索知识书" placeholder="搜索词组、知识点或章节…">
-    <div class="top-actions">
-      <button id="outline-toggle" type="button" aria-controls="outline" aria-expanded="false" hidden>本篇目录</button>
-      <button id="theme" aria-label="切换深浅主题">切换主题</button>
-    </div>
+    <button id="theme" aria-label="切换深浅主题">切换主题</button>
   </header>
   <div class="shell">
     <aside class="sidebar">
@@ -31,9 +28,11 @@
       <footer id="source"></footer>
     </main>
     <aside id="outline" class="outline" aria-label="本篇目录" hidden>
-      <div class="outline-head"><strong>本篇目录</strong><button id="outline-close" type="button" aria-label="关闭本篇目录">关闭</button></div>
+      <div class="outline-head"><strong>本篇目录</strong></div>
       <nav id="outline-links" aria-label="文章小节"></nav>
     </aside>
   </div>
+  <button id="left-toggle" class="edge-toggle" type="button" aria-controls="nav" aria-expanded="true" aria-label="收起左侧导航" data-tip="收起左侧导航">‹</button>
+  <button id="right-toggle" class="edge-toggle" type="button" aria-controls="outline" aria-expanded="false" aria-label="展开目录" data-tip="展开目录" hidden>☷</button>
 </body>
 </html>

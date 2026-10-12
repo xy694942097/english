@@ -23,6 +23,13 @@ const assert = require('node:assert/strict');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
 
+    // 两侧边栏可独立收起并恢复，左侧状态可在刷新后保持。
+    await page.getByRole('button', {name:'收起左侧导航',exact:true}).click();
+    assert.equal(await page.locator('.sidebar').isVisible(), false);
+    assert.equal(await page.getByRole('button', {name:'展开左侧导航',exact:true}).getAttribute('aria-expanded'), 'false');
+    await page.getByRole('button', {name:'展开左侧导航',exact:true}).click();
+    assert.equal(await page.locator('.sidebar').isVisible(), true);
+
     // 新表达章可由深链打开，且练习答案仍保持折叠
     await page.goto(base + '#' + encodeURIComponent('表达练习/中文到英文表达：关系还有没有挽回余地.md'));
     await page.getByRole('heading', {name: '中文到英文表达：关系还有没有挽回余地', exact: true}).waitFor();
@@ -30,14 +37,21 @@ const assert = require('node:assert/strict');
 
     // 自动目录锚点不会被当成文档路由；跳到折叠答案时自动打开。
     assert.equal(await page.locator('#article .document-toc').count(), 0, '正文没有自动目录');
-    await page.getByRole('button', {name:'本篇目录', exact:true}).click();
+    assert.equal(await page.locator('#article .document-toc').count(), 0);
+    const rightToggle = page.getByRole('button', {name:'展开目录',exact:true});
+    const position = await rightToggle.boundingBox();
+    assert.ok(position && Math.abs(position.y + position.height / 2 - 500) < 5, '目录入口位于屏幕右侧中间');
+    await rightToggle.click();
     assert.equal(await page.locator('#outline').isVisible(), true);
+    const closeToggle = page.getByRole('button', {name:'收起目录',exact:true});
+    await closeToggle.hover();
+    assert.equal(await closeToggle.getAttribute('data-tip'), '收起目录');
     const contents = page.locator('#outline-links a');
     assert.ok(await contents.count() >= 8);
     await contents.filter({hasText: '参考答案'}).click();
     assert.equal(await page.locator('#outline').isVisible(), false, '点击目录后抽屉关闭');
     await page.waitForFunction(() => location.hash.includes('::'));
-    assert.notEqual(await page.locator('.reference-answers').getAttribute('open'), null);
+    await page.waitForFunction(() => document.querySelector('.reference-answers')?.open === true);
     await page.reload();
     await page.getByRole('heading', {name: '参考答案', exact: true}).waitFor();
     assert.notEqual(await page.locator('.reference-answers').getAttribute('open'), null);
@@ -121,7 +135,7 @@ const assert = require('node:assert/strict');
     await firstChunk.locator('summary').first().click();
     assert.equal(await page.locator('#article blockquote').first().isVisible(), true, '单独展开一个词块');
     await page.getByRole('button', {name:'收起正文',exact:true}).click();
-    await page.getByRole('button', {name:'本篇目录', exact:true}).click();
+    await page.getByRole('button', {name:'展开目录', exact:true}).click();
     await page.locator('#outline-links a').filter({hasText:/^1\. /}).last().click();
     await page.waitForFunction(()=>location.hash.includes('::'));
     const targetId = decodeURIComponent((await page.evaluate(()=>location.hash)).split('::')[1]);
@@ -130,7 +144,7 @@ const assert = require('node:assert/strict');
     await page.getByRole('heading', {name:'Better Call Saul：Chunks 积累',exact:true}).waitFor();
     assert.ok(await page.locator('#article .section-fold').evaluateAll(sections=>sections.every(s=>s.open)), '刷新后默认展开正文');
     await page.getByRole('button', {name:'展开正文',exact:true}).click();
-    await page.getByRole('button', {name:'本篇目录',exact:true}).click();
+    await page.getByRole('button', {name:'展开目录',exact:true}).click();
     await page.keyboard.press('Escape');
     assert.equal(await page.locator('#outline').isVisible(), false, 'Escape 关闭右侧目录');
 
