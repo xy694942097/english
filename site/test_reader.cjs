@@ -136,6 +136,14 @@ const assert = require('node:assert/strict');
     // 第一季词块页使用可流式阅读的纵向条目，不再出现整集长表格。
     await page.goto(base + '#' + encodeURIComponent('Chunks 收集/Better Call Saul：Chunks 积累.md'));
     await page.getByRole('heading', {name:'Better Call Saul：Chunks 积累',exact:true}).waitFor();
+    await page.getByRole('button', {name:'编辑本文', exact:true}).click();
+    assert.equal(await page.locator('#section-edit-tip').isVisible(), true, '长文直接进入选节状态');
+    assert.equal(await page.locator('#article').isVisible(), true, '选节时保留原阅读页');
+    await page.locator('#article h2').first().click();
+    await page.locator('.toastui-editor-ww-container').waitFor();
+    assert.equal(await page.locator('#article > .section-fold').last().isVisible(), true, '编辑一节时其余剧集仍可见');
+    await page.getByRole('button', {name:'取消', exact:true}).click();
+    assert.equal(await page.locator('#section-edit-tip').isVisible(), false);
     assert.equal(await page.locator('#article table').count(), 0);
     assert.ok(await page.locator('#article h3').count() >= 1065, '第一季全部条目已展示');
     assert.equal(await page.locator('#nav').getByText('Better Call Saul：第一集纵向条目试读', {exact:true}).count(), 0);
@@ -185,7 +193,7 @@ const assert = require('node:assert/strict');
     await page.unroute('**/api/catalog');
 
     assert.deepEqual(errors, []);
-    console.log('PASS: in-place editor, reader, nav, TOC, links, search, theme, /files/, mobile width; no page errors.');
+    console.log('PASS: in-place and section editor, reader, nav, TOC, links, search, theme, /files/, mobile width; no page errors.');
   } finally {
     await browser.close();
   }

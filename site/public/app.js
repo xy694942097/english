@@ -1,7 +1,9 @@
 'use strict';
 const $ = id => document.getElementById(id);
-const state = {items: [], nav: {groups:[]}, aliases: {}, current: null, searching: false, editing: null};
+const state = {items: [], nav: {groups:[]}, aliases: {}, current: null, searching: false, editing: null, sectionPicker: null};
 let editorAssetsPromise;
+const LARGE_DOCUMENT_CHARS = 80_000;
+const TARGET_SECTION_CHARS = 32_000;
 
 function editorAssets() {
   if (editorAssetsPromise) return editorAssetsPromise;
@@ -43,9 +45,94 @@ function updateEditDirty() {
   $('edit-status').textContent = editing.dirty ? '有未保存的修改' : '尚无修改';
 }
 
-async function beginEdit() {
+function markdownHeadings(body) {
+  const headings = [];
+  let offset = 0, fenceChar = '', fenceLength = 0;
+  for (const line of body.match(/[^\n]*\n|[^\n]+$/g) || []) {
+    const trimmed = line.trimEnd();
+    const fence = /^ {0,3}(`{3,}|~{3,})(.*)$/.exec(trimmed);
+    if (fence) {
+      const marker = fence[1];
+      if (!fenceChar) { fenceChar = marker[0]; fenceLength = marker.length; }
+      else if (marker[0] === fenceChar && marker.length >= fenceLength && !fence[2].trim()) fenceChar = '';
+    } else if (!fenceChar) {
+      const heading = /^ {0,3}(#{1,6})[ \t]+(.+?)(?:[ \t]+#+)?$/.exec(trimmed);
+      if (heading) headings.push({level: heading[1].length, title: heading[2].trim(), start: offset});
+    }
+    offset += line.length;
+  }
+  return headings;
+}
+
+function editableSections(body) {
+  const headings = markdownHeadings(body);
+  const byLevel = new Map();
+  for (let i = 0; i < headings.length; i++) {
+    const heading = headings[i];
+    if (heading.level < 2) continue;
+    let end = body.length;
+    for (let j = i + 1; j < headings.length; j++) {
+      if (headings[j].level <= heading.level) { end = headings[j].start; break; }
+    }
+    const sections = byLevel.get(heading.level) || [];
+    sections.push({start: heading.start, end, title: heading.title});
+    byLevel.set(heading.level, sections);
+  }
+  const candidates = [...byLevel].filter(([, sections]) => sections.length > 1)
+    .sort(([a], [b]) => a - b);
+  if (!candidates.length) return null;
+  const choice = candidates.find(([, sections]) =>
+    Math.max(...sections.map(section => section.end - section.start)) <= TARGET_SECTION_CHARS)
+    || candidates.at(-1);
+  return {level: choice[0], sections: choice[1]};
+}
+
+function exitSectionPicker() {
+  state.sectionPicker?.headings.forEach(heading => heading.classList.remove('editable-heading'));
+  state.sectionPicker = null;
+  $('section-edit-tip').hidden = true;
+  $('article').classList.remove('section-picking', 'pick-h2', 'pick-h3', 'pick-h4', 'pick-h5', 'pick-h6');
+  $('edit-document').textContent = '编辑本文';
+}
+
+function enterSectionPicker(item) {
+  const choice = editableSections(item.body);
+  if (!choice) return false;
+  const visible = [...$('article').querySelectorAll('.section-fold > summary > h' + choice.level)];
+  const headingSections = new Map(), headings = [];
+  const clean = text => text.replace(/\s+/g, ' ').trim();
+  let cursor = 0;
+  choice.sections.forEach(section => {
+    const title = clean(section.title);
+    let index = -1;
+    for (let at = cursor; at < visible.length; at++) {
+      if (clean(visible[at].textContent) === title) { index = at; break; }
+    }
+    if (index >= 0) {
+      headingSections.set(visible[index], section);
+      headings.push(visible[index]);
+      cursor = index + 1;
+    }
+  });
+  if (headings.length < 2) return false;
+  headings.forEach(heading => heading.classList.add('editable-heading'));
+  state.sectionPicker = {item, ...choice, headings, headingSections};
+  $('section-edit-tip').hidden = false;
+  $('article').classList.add('section-picking', 'pick-h' + choice.level);
+  $('edit-document').textContent = '退出选节';
+  editorAssets().catch(() => {});
+  return true;
+}
+
+function restoreEditorPlacement() {
+  $('edit-panel').classList.remove('section-edit');
+  $('article').after($('edit-panel'));
+}
+
+async function beginEdit(section = null) {
   if (!state.current || state.editing) return;
   const item = state.current;
+  if (!section && item.body.length >= LARGE_DOCUMENT_CHARS && enterSectionPicker(item)) return;
   $('edit-document').disabled = true;
   $('edit-document').textContent = '准备编辑…';
   let editor;
@@ -53,11 +140,16 @@ async function beginEdit() {
     await editorAssets();
     if (state.current !== item || state.searching) return;
     // Keep the reader in place while the editor parses larger Markdown files.
+    if (section) {
+      section.element.after($('edit-panel'));
+      $('edit-panel').classList.add('section-edit');
+    }
     $('edit-panel').hidden = false;
     editor = new toastui.Editor({
       el: $('markdown-editor'), height: 'calc(100vh - 175px)', minHeight: '520px',
       initialEditType: 'wysiwyg', previewStyle: 'tab', language: 'zh-CN',
-      initialValue: item.body, usageStatistics: false,
+      initialValue: section ? item.body.slice(section.start, section.end) : item.body,
+      usageStatistics: false,
       toolbarItems: [
         ['heading', 'bold', 'italic', 'strike'], ['hr', 'quote'],
         ['ul', 'ol', 'task', 'indent', 'outdent'], ['table', 'image', 'link'],
@@ -70,22 +162,32 @@ async function beginEdit() {
     });
     if (state.current !== item || state.searching) {
       editor.destroy(); $('markdown-editor').replaceChildren(); $('edit-panel').hidden = true;
+      restoreEditorPlacement();
       return;
     }
-    $('article').hidden = true;
-    $('source').hidden = true;
+    if (section) {
+      section.element.hidden = true;
+      $('section-edit-tip').hidden = true;
+      $('article').classList.remove('section-picking', 'pick-h' + state.sectionPicker.level);
+      $('edit-panel').scrollIntoView({block: 'start'});
+    } else {
+      $('article').hidden = true;
+      $('source').hidden = true;
+    }
     $('edit-document').hidden = true;
     $('edit-actions').hidden = false;
     $('search').disabled = true;
     closeOutline();
     $('right-toggle').hidden = true;
     refreshEditorTheme();
-    state.editing = {item, editor, baseline: editor.getMarkdown(), dirty: false, saving: false};
+    state.editing = {item, editor, section, baseline: editor.getMarkdown(), dirty: false, saving: false};
     editor.on('change', updateEditDirty);
     updateEditDirty();
   } catch (error) {
     editor?.destroy();
     $('markdown-editor').replaceChildren();
+    if (section) section.element.hidden = false;
+    restoreEditorPlacement();
     $('edit-status').textContent = '';
     $('article').hidden = false; $('source').hidden = false;
     $('edit-panel').hidden = true; $('edit-document').hidden = false;
@@ -94,22 +196,26 @@ async function beginEdit() {
     alert('编辑器加载失败：' + error.message);
   } finally {
     $('edit-document').disabled = false;
-    $('edit-document').textContent = '编辑本文';
+    $('edit-document').textContent = state.sectionPicker ? '退出选节' : '编辑本文';
   }
 }
 
 function endEdit() {
   if (!state.editing) return;
+  if (state.editing.section) state.editing.section.element.hidden = false;
   state.editing.editor.destroy();
   state.editing = null;
   $('markdown-editor').replaceChildren();
   $('edit-panel').hidden = true;
+  restoreEditorPlacement();
   $('article').hidden = false;
   $('source').hidden = false;
   $('edit-document').hidden = false;
   $('edit-actions').hidden = true;
   $('search').disabled = false;
   $('edit-status').textContent = '';
+  exitSectionPicker();
+  $('right-toggle').hidden = !$('outline-links').querySelector('a');
 }
 
 function cancelEdit() {
@@ -126,9 +232,16 @@ async function saveEdit() {
   $('save-edit').disabled = true;
   $('edit-status').textContent = '正在保存…';
   try {
+    let body = editing.editor.getMarkdown();
+    if (editing.section) {
+      const {start, end} = editing.section;
+      const original = editing.item.body.slice(start, end);
+      const trailingNewlines = /\n*$/.exec(original)[0];
+      body = editing.item.body.slice(0, start) + body.trimEnd() + trailingNewlines + editing.item.body.slice(end);
+    }
     const response = await fetch('/api/document', {
       method: 'POST', headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({id: editing.item.id, body: editing.editor.getMarkdown(),
+      body: JSON.stringify({id: editing.item.id, body,
         expectedSha256: editing.item.sha256}),
     });
     const result = await response.json();
@@ -345,6 +458,7 @@ function route({force = false} = {}) {
     }
     endEdit();
   }
+  if (state.sectionPicker && item?.id !== state.sectionPicker.item.id) exitSectionPicker();
   $('search').value = '';
   if (item && state.current?.id === item.id && !state.searching && !force) {
     scrollToSection(anchor); return;
@@ -373,6 +487,7 @@ async function loadBook() {
 
 $('search').oninput=()=>{
   const query=$('search').value.trim().toLowerCase(); if(!query)return route();
+  if (state.sectionPicker) exitSectionPicker();
   state.searching = true;
   closeOutline();
   $('right-toggle').hidden = true;
@@ -382,9 +497,21 @@ $('search').oninput=()=>{
   $('breadcrumb').textContent='全文搜索';$('source').textContent='';
 };
 $('article').addEventListener('click',e=>{if(e.target.closest('a')?.hash===location.hash)route();});
+$('article').addEventListener('click', e => {
+  const picker = state.sectionPicker;
+  if (!picker || state.editing) return;
+  const heading = e.target.closest('h' + picker.level);
+  if (!heading || !$('article').contains(heading)) return;
+  const section = picker.headingSections.get(heading);
+  const element = heading.closest('.section-fold');
+  if (!section || !element) return;
+  e.preventDefault();
+  e.stopPropagation();
+  beginEdit({...section, element});
+}, true);
 $('nav').addEventListener('click',e=>{if(e.target.closest('a')?.hash===location.hash)route();if(e.target.closest('a'))e.target.closest('details')?.setAttribute('open','');});
 $('right-toggle').onclick = toggleOutline;
-$('edit-document').onclick = beginEdit;
+$('edit-document').onclick = () => {if (state.sectionPicker) exitSectionPicker(); else beginEdit();};
 $('cancel-edit').onclick = cancelEdit;
 $('save-edit').onclick = saveEdit;
 $('left-toggle').onclick = () => setLeftSidebarOpen(document.body.classList.contains('left-collapsed'));
