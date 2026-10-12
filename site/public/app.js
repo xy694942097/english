@@ -64,13 +64,6 @@ function addDocumentContents(item) {
     used.add(h.id);
   });
   const entries = headings.filter(h => /^H[23]$/.test(h.tagName));
-  if (!entries.length) return;
-  const toc = document.createElement('details');
-  toc.className = 'document-toc';
-  toc.open = entries.length <= 20;
-  const summary = document.createElement('summary');
-  summary.textContent = '本文目录';
-  toc.append(summary);
   const list = document.createElement('ul');
   entries.forEach(h => {
     const li = document.createElement('li');
@@ -80,9 +73,9 @@ function addDocumentContents(item) {
     link.href = docHash(item.id, h.id);
     li.append(link); list.append(li);
   });
-  toc.append(list);
-  const title = article.querySelector('h1');
-  if (title) title.after(toc); else article.prepend(toc);
+  $('outline-links').replaceChildren(list);
+  $('outline-toggle').hidden = entries.length === 0;
+  if (!entries.length) closeOutline();
   article.querySelectorAll('a[href]').forEach(a => {
     const href = a.getAttribute('href');
     if (href?.startsWith('#') && !href.includes('::')) {
@@ -100,6 +93,58 @@ function scrollToSection(anchor) {
     if (p.tagName === 'DETAILS') p.open = true;
   }
   target.scrollIntoView({block:'start'});
+}
+
+function foldDocumentSections() {
+  const article = $('article');
+  const nodes = [...article.childNodes];
+  const stack = [];
+  let count = 0;
+  nodes.forEach(node => {
+    const heading = node.nodeType === Node.ELEMENT_NODE && /^H[2-6]$/.test(node.tagName);
+    if (heading) {
+      const level = Number(node.tagName.slice(1));
+      while (stack.length && stack.at(-1).level >= level) stack.pop();
+      const section = document.createElement('details');
+      section.className = 'section-fold';
+      section.open = true;
+      const summary = document.createElement('summary');
+      summary.append(node);
+      section.append(summary);
+      const content = document.createElement('div');
+      content.className = 'section-content';
+      section.append(content);
+      (stack.length ? stack.at(-1).content : article).append(section);
+      stack.push({level, content});
+      count++;
+    } else if (stack.length && !(node.nodeType === Node.ELEMENT_NODE && node.classList.contains('reference-answers'))) {
+      stack.at(-1).content.append(node);
+    } else {
+      stack.length = 0;
+      article.append(node);
+    }
+  });
+  if (!count) return;
+  const controls = document.createElement('div');
+  controls.className = 'section-controls';
+  for (const [label, open] of [['展开正文', true], ['收起正文', false]]) {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.textContent = label;
+    button.onclick = () => article.querySelectorAll('.section-fold').forEach(section => {section.open = open;});
+    controls.append(button);
+  }
+  article.querySelector('h1')?.after(controls);
+}
+
+function closeOutline() {
+  $('outline').hidden = true;
+  $('outline-toggle').setAttribute('aria-expanded', 'false');
+}
+
+function toggleOutline() {
+  $('outline').hidden = !$('outline').hidden;
+  $('outline-toggle').setAttribute('aria-expanded', String(!$('outline').hidden));
 }
 
 function nav() {
@@ -138,6 +183,7 @@ function route() {
   if (!state.current) return;
   $('article').innerHTML = renderDoc(item);
   addDocumentContents(item);
+  foldDocumentSections();
   $('breadcrumb').textContent = item.group + ' / ' + item.title;
   $('source').textContent = 'english/' + item.id;
   nav();
@@ -161,6 +207,10 @@ $('search').oninput=()=>{
 };
 $('article').addEventListener('click',e=>{if(e.target.closest('a')?.hash===location.hash)route();});
 $('nav').addEventListener('click',e=>{if(e.target.closest('a')?.hash===location.hash)route();if(e.target.closest('a'))e.target.closest('details')?.setAttribute('open','');});
+$('outline-toggle').onclick = toggleOutline;
+$('outline-close').onclick = closeOutline;
+$('outline-links').addEventListener('click', e => { if (e.target.closest('a')) closeOutline(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeOutline(); });
 $('theme').onclick=()=>{const current=document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');const next=current==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('english-theme',next);};
 if(localStorage.getItem('english-theme'))document.documentElement.dataset.theme=localStorage.getItem('english-theme');
 addEventListener('hashchange',route);

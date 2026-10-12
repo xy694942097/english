@@ -29,10 +29,13 @@ const assert = require('node:assert/strict');
     assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '表达章答案默认折叠');
 
     // 自动目录锚点不会被当成文档路由；跳到折叠答案时自动打开。
-    if (await page.locator('.document-toc').getAttribute('open') === null) await page.locator('.document-toc summary').click();
-    const contents = page.locator('.document-toc a');
+    assert.equal(await page.locator('#article .document-toc').count(), 0, '正文没有自动目录');
+    await page.getByRole('button', {name:'本篇目录', exact:true}).click();
+    assert.equal(await page.locator('#outline').isVisible(), true);
+    const contents = page.locator('#outline-links a');
     assert.ok(await contents.count() >= 8);
     await contents.filter({hasText: '参考答案'}).click();
+    assert.equal(await page.locator('#outline').isVisible(), false, '点击目录后抽屉关闭');
     await page.waitForFunction(() => location.hash.includes('::'));
     assert.notEqual(await page.locator('.reference-answers').getAttribute('open'), null);
     await page.reload();
@@ -110,6 +113,27 @@ const assert = require('node:assert/strict');
     assert.equal(await page.locator('#article table').count(), 0);
     assert.ok(await page.locator('#article h3').count() >= 1065, '第一季全部条目已展示');
     assert.equal(await page.locator('#nav').getByText('Better Call Saul：第一集纵向条目试读', {exact:true}).count(), 0);
+    await page.getByRole('button', {name:'收起正文',exact:true}).click();
+    assert.ok(await page.locator('.section-fold').evaluateAll(sections=>sections.every(s=>!s.open)), '正文全部收起');
+    assert.equal(await page.locator('#article blockquote').first().isVisible(), false);
+    await page.locator('#s01e01').click();
+    const firstChunk = page.locator('#article .section-fold .section-fold').first();
+    await firstChunk.locator('summary').first().click();
+    assert.equal(await page.locator('#article blockquote').first().isVisible(), true, '单独展开一个词块');
+    await page.getByRole('button', {name:'收起正文',exact:true}).click();
+    await page.getByRole('button', {name:'本篇目录', exact:true}).click();
+    await page.locator('#outline-links a').filter({hasText:/^1\. /}).last().click();
+    await page.waitForFunction(()=>location.hash.includes('::'));
+    const targetId = decodeURIComponent((await page.evaluate(()=>location.hash)).split('::')[1]);
+    assert.equal(await page.locator('#article').locator('[id]').filter({hasText:''}).evaluateAll((nodes,id)=>nodes.find(n=>n.id===id)?.closest('.section-fold')?.open,targetId), true, '目录展开目标词块');
+    await page.reload();
+    await page.getByRole('heading', {name:'Better Call Saul：Chunks 积累',exact:true}).waitFor();
+    assert.ok(await page.locator('#article .section-fold').evaluateAll(sections=>sections.every(s=>s.open)), '刷新后默认展开正文');
+    await page.getByRole('button', {name:'展开正文',exact:true}).click();
+    await page.getByRole('button', {name:'本篇目录',exact:true}).click();
+    await page.keyboard.press('Escape');
+    assert.equal(await page.locator('#outline').isVisible(), false, 'Escape 关闭右侧目录');
+
 
     // 移动端无横向溢出
     await page.setViewportSize({width: 390, height: 844});

@@ -15,7 +15,10 @@
   <header class="topbar">
     <a class="brand" href="#"><span class="brand-mark">E</span><span><strong>English Book</strong><small>A personal reading practice</small></span></a>
     <input id="search" type="search" aria-label="搜索知识书" placeholder="搜索词组、知识点或章节…">
-    <button id="theme" aria-label="切换深浅主题">切换主题</button>
+    <div class="top-actions">
+      <button id="outline-toggle" type="button" aria-controls="outline" aria-expanded="false" hidden>本篇目录</button>
+      <button id="theme" aria-label="切换深浅主题">切换主题</button>
+    </div>
   </header>
   <div class="shell">
     <aside class="sidebar">
@@ -27,6 +30,10 @@
       <article id="article" class="prose"><p>正在打开知识书…</p></article>
       <footer id="source"></footer>
     </main>
+    <aside id="outline" class="outline" aria-label="本篇目录" hidden>
+      <div class="outline-head"><strong>本篇目录</strong><button id="outline-close" type="button" aria-label="关闭本篇目录">关闭</button></div>
+      <nav id="outline-links" aria-label="文章小节"></nav>
+    </aside>
   </div>
 </body>
 </html>
