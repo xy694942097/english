@@ -1,0 +1,765 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S02/Better.Call.Saul.S02E06.en.srt",
+  "sha256": "c6c1720723dff330e0d67b8c102ab6f56ebbad3dfd75cfd65a25d462a432fd38",
+  "subtitle_blocks_read": 488,
+  "max_cue": 488,
+  "selection_status": "Candidates, pending user screening",
+  "items": [
+    {
+      "chunk": "be open to requests",
+      "meaning": "愿意接受点播／请求",
+      "start_cue": 39,
+      "end_cue": 40,
+      "start_time": "00:07:08,494",
+      "end_time": "00:07:14,331",
+      "quote": "Of course, I am open to requests. That's right. All you gotta do is call me."
+    },
+    {
+      "chunk": "all you gotta do is…",
+      "meaning": "你只需……；口语简化",
+      "start_cue": 40,
+      "end_cue": 40,
+      "start_time": "00:07:10,797",
+      "end_time": "00:07:14,331",
+      "quote": "That's right. All you gotta do is call me."
+    },
+    {
+      "chunk": "I should be so lucky.",
+      "meaning": "要真那样就好了；反讽式回应",
+      "start_cue": 46,
+      "end_cue": 46,
+      "start_time": "00:07:26,779",
+      "end_time": "00:07:27,978",
+      "quote": "I should be so lucky."
+    },
+    {
+      "chunk": "work for a living",
+      "meaning": "靠工作挣钱养活自己",
+      "start_cue": 49,
+      "end_cue": 49,
+      "start_time": "00:07:30,583",
+      "end_time": "00:07:35,753",
+      "quote": "You know, some people work for a living. No one gives us free cars."
+    },
+    {
+      "chunk": "be within my rights",
+      "meaning": "在我合法权利范围内",
+      "start_cue": 51,
+      "end_cue": 52,
+      "start_time": "00:07:36,622",
+      "end_time": "00:07:41,926",
+      "quote": "This place is paid up. I'm within my rights as your legal tenant. That's all you need to know."
+    },
+    {
+      "chunk": "have a pot on",
+      "meaning": "煮着一壶咖啡／茶；此处指咖啡",
+      "start_cue": 53,
+      "end_cue": 55,
+      "start_time": "00:07:41,928",
+      "end_time": "00:07:47,431",
+      "quote": "Do I smell coffee? Have you got a pot on? Why? How about a fill-up?"
+    },
+    {
+      "chunk": "the faster…, the faster…",
+      "meaning": "越快……就越快……；两边相互关联",
+      "start_cue": 57,
+      "end_cue": 57,
+      "start_time": "00:07:49,735",
+      "end_time": "00:07:53,471",
+      "quote": "Faster I get coffee, the faster I'm out of here."
+    },
+    {
+      "chunk": "just so you know",
+      "meaning": "先说明一下／让你知道；预先澄清",
+      "start_cue": 65,
+      "end_cue": 65,
+      "start_time": "00:09:32,271",
+      "end_time": "00:09:37,341",
+      "quote": "but just so you know, I did not ask him to step in on my behalf."
+    },
+    {
+      "chunk": "step in on sb.'s behalf",
+      "meaning": "代表某人出面干预",
+      "start_cue": 65,
+      "end_cue": 65,
+      "start_time": "00:09:32,271",
+      "end_time": "00:09:37,341",
+      "quote": "but just so you know, I did not ask him to step in on my behalf."
+    },
+    {
+      "chunk": "run circles around sb.",
+      "meaning": "让某人应付不过来；此处说孩子精力旺盛",
+      "start_cue": 74,
+      "end_cue": 74,
+      "start_time": "00:10:09,775",
+      "end_time": "00:10:14,211",
+      "quote": "Out of control. Just running circles around all of us."
+    },
+    {
+      "chunk": "Respectfully, I'm going to have to say no.",
+      "meaning": "恕我直言，我必须拒绝；礼貌而明确",
+      "start_cue": 78,
+      "end_cue": 78,
+      "start_time": "00:11:27,419",
+      "end_time": "00:11:31,622",
+      "quote": "Respectfully, I'm gonna have to say no."
+    },
+    {
+      "chunk": "barring that",
+      "meaning": "如果做不到那一点；正式替代方案",
+      "start_cue": 82,
+      "end_cue": 83,
+      "start_time": "00:12:51,704",
+      "end_time": "00:12:58,175",
+      "quote": "that the plaintiffs produce their medical records, or barring that, a signed HIPAA release so that we can examine the records ourselves."
+    },
+    {
+      "chunk": "the merits of a case",
+      "meaning": "案件的实质／实体争点；法律语境",
+      "start_cue": 85,
+      "end_cue": 85,
+      "start_time": "00:12:59,912",
+      "end_time": "00:13:02,246",
+      "quote": "have no bearing on the merits of this case."
+    },
+    {
+      "chunk": "bear directly on sth.",
+      "meaning": "与某事直接相关",
+      "start_cue": 87,
+      "end_cue": 88,
+      "start_time": "00:13:04,016",
+      "end_time": "00:13:08,552",
+      "quote": "as they bear directly on our contention that the plaintiffs are not adequate class representatives."
+    },
+    {
+      "chunk": "a transparent attempt at sth.",
+      "meaning": "明显是企图做某事；批评对方动机",
+      "start_cue": 89,
+      "end_cue": 89,
+      "start_time": "00:13:08,554",
+      "end_time": "00:13:13,323",
+      "quote": "This is a transparent attempt at intimidation, nothing more."
+    },
+    {
+      "chunk": "at the thought of sth.",
+      "meaning": "一想到某事就……；此处指病历被翻查",
+      "start_cue": 93,
+      "end_cue": 95,
+      "start_time": "00:13:18,330",
+      "end_time": "00:13:22,666",
+      "quote": "They're fearful, as any of us would be, at the thought of a bunch of strangers poking around in their personal files."
+    },
+    {
+      "chunk": "poke around in sth.",
+      "meaning": "翻看／窥探某人的私事",
+      "start_cue": 95,
+      "end_cue": 95,
+      "start_time": "00:13:21,133",
+      "end_time": "00:13:22,666",
+      "quote": "poking around in their personal files."
+    },
+    {
+      "chunk": "bank on sb. doing sth.",
+      "meaning": "押注某人会做某事；寄希望于",
+      "start_cue": 96,
+      "end_cue": 97,
+      "start_time": "00:13:22,668",
+      "end_time": "00:13:27,271",
+      "quote": "And by forcing them to reveal this information, the defense is banking on them simply dropping out of the case."
+    },
+    {
+      "chunk": "drop out of the case",
+      "meaning": "退出诉讼",
+      "start_cue": 97,
+      "end_cue": 97,
+      "start_time": "00:13:24,003",
+      "end_time": "00:13:27,271",
+      "quote": "the defense is banking on them simply dropping out of the case."
+    },
+    {
+      "chunk": "speak to sth.",
+      "meaning": "能说明／涉及某个问题；法律语境",
+      "start_cue": 103,
+      "end_cue": 104,
+      "start_time": "00:13:37,249",
+      "end_time": "00:13:39,716",
+      "quote": "that would speak to their competency as regards this class certification issue."
+    },
+    {
+      "chunk": "as regards sth.",
+      "meaning": "关于……；正式表达",
+      "start_cue": 104,
+      "end_cue": 104,
+      "start_time": "00:13:38,417",
+      "end_time": "00:13:39,716",
+      "quote": "as regards this class certification issue."
+    },
+    {
+      "chunk": "want it both ways",
+      "meaning": "两头好处都想占；立场自相矛盾",
+      "start_cue": 105,
+      "end_cue": 105,
+      "start_time": "00:13:39,718",
+      "end_time": "00:13:41,952",
+      "quote": "Your Honor, it seems like the defense wants it both ways, then."
+    },
+    {
+      "chunk": "be held to a contract",
+      "meaning": "受合同约束／须履行合同",
+      "start_cue": 110,
+      "end_cue": 112,
+      "start_time": "00:13:48,928",
+      "end_time": "00:13:55,999",
+      "quote": "The defense wants to claim that their residents are competent enough to be held to their contracts, but too incompetent to sue. So which is it?"
+    },
+    {
+      "chunk": "So which is it?",
+      "meaning": "那到底是哪一种？；逼对方澄清矛盾",
+      "start_cue": 112,
+      "end_cue": 112,
+      "start_time": "00:13:55,467",
+      "end_time": "00:13:55,999",
+      "quote": "So which is it?"
+    },
+    {
+      "chunk": "prey on sb.",
+      "meaning": "利用／掠夺弱势者",
+      "start_cue": 117,
+      "end_cue": 118,
+      "start_time": "00:14:05,411",
+      "end_time": "00:14:10,080",
+      "quote": "Or maybe Sandpiper preyed on mentally incompetent seniors and bilked them out of their money."
+    },
+    {
+      "chunk": "bilk sb. out of money",
+      "meaning": "骗取某人的钱；较强烈",
+      "start_cue": 118,
+      "end_cue": 118,
+      "start_time": "00:14:08,547",
+      "end_time": "00:14:10,080",
+      "quote": "and bilked them out of their money."
+    },
+    {
+      "chunk": "as stated in sth.",
+      "meaning": "如某文件所述；正式引用",
+      "start_cue": 121,
+      "end_cue": 122,
+      "start_time": "00:14:16,255",
+      "end_time": "00:14:22,626",
+      "quote": "Your Honor, as stated in the brief in front of you, this is a standard request granted in every case of its kind."
+    },
+    {
+      "chunk": "of its kind",
+      "meaning": "同类的；此处指同类案件",
+      "start_cue": 122,
+      "end_cue": 122,
+      "start_time": "00:14:18,190",
+      "end_time": "00:14:22,626",
+      "quote": "this is a standard request granted in every case of its kind."
+    },
+    {
+      "chunk": "an invasion of privacy",
+      "meaning": "侵犯隐私",
+      "start_cue": 124,
+      "end_cue": 125,
+      "start_time": "00:14:24,797",
+      "end_time": "00:14:28,699",
+      "quote": "Granting this invasion of privacy allows our clients to be doubly victimized."
+    },
+    {
+      "chunk": "lean toward doing sth.",
+      "meaning": "倾向于做某事；未作最终决定",
+      "start_cue": 127,
+      "end_cue": 128,
+      "start_time": "00:14:32,338",
+      "end_time": "00:14:37,307",
+      "quote": "I'm leaning toward granting the motion, but I would like to review the pleadings and briefs again."
+    },
+    {
+      "chunk": "go down swinging",
+      "meaning": "虽败犹奋力抗争；拳击比喻",
+      "start_cue": 138,
+      "end_cue": 138,
+      "start_time": "00:15:10,209",
+      "end_time": "00:15:14,244",
+      "quote": "But you went down swinging, and I admire that."
+    },
+    {
+      "chunk": "We can do better than that.",
+      "meaning": "我们能有更好的选择；提议升级",
+      "start_cue": 142,
+      "end_cue": 142,
+      "start_time": "00:15:20,920",
+      "end_time": "00:15:24,054",
+      "quote": "Oof. We can do better than that."
+    },
+    {
+      "chunk": "the works",
+      "meaning": "全套／应有尽有；此处指饮品配料齐全",
+      "start_cue": 148,
+      "end_cue": 148,
+      "start_time": "00:15:37,001",
+      "end_time": "00:15:40,737",
+      "quote": "Fresh ginger, real copper mug, the works."
+    },
+    {
+      "chunk": "pay your dues",
+      "meaning": "熬过必要的艰苦阶段才获得资格／地位",
+      "start_cue": 162,
+      "end_cue": 162,
+      "start_time": "00:16:10,502",
+      "end_time": "00:16:14,705",
+      "quote": "It sounds like you certainly paid your dues."
+    },
+    {
+      "chunk": "put sb. through school",
+      "meaning": "供某人完成学业",
+      "start_cue": 164,
+      "end_cue": 164,
+      "start_time": "00:16:15,574",
+      "end_time": "00:16:17,941",
+      "quote": "HHM put me through law school while I worked."
+    },
+    {
+      "chunk": "pay it off",
+      "meaning": "还清债务",
+      "start_cue": 166,
+      "end_cue": 166,
+      "start_time": "00:16:19,244",
+      "end_time": "00:16:22,446",
+      "quote": "And I imagine you're paying it off as part of your deal?"
+    },
+    {
+      "chunk": "bring back memories",
+      "meaning": "唤起往事／回忆",
+      "start_cue": 169,
+      "end_cue": 170,
+      "start_time": "00:16:24,817",
+      "end_time": "00:16:30,854",
+      "quote": "I have to say, watching you in court today, it sure did bring back some old memories for me."
+    },
+    {
+      "chunk": "land a big case",
+      "meaning": "拿到一个大案子",
+      "start_cue": 176,
+      "end_cue": 176,
+      "start_time": "00:16:43,268",
+      "end_time": "00:16:46,003",
+      "quote": "Anyway, we landed this monster,"
+    },
+    {
+      "chunk": "second chair to sb.",
+      "meaning": "在诉讼中担任某人的副手；法律语境",
+      "start_cue": 177,
+      "end_cue": 178,
+      "start_time": "00:16:46,005",
+      "end_time": "00:16:49,973",
+      "quote": "and I find out I'm second chair to one of the partners on the preliminary hearing."
+    },
+    {
+      "chunk": "define the rest of my career",
+      "meaning": "决定职业生涯后续走向",
+      "start_cue": 179,
+      "end_cue": 180,
+      "start_time": "00:16:49,975",
+      "end_time": "00:16:55,245",
+      "quote": "And I think, \"This is it! \"This is what will define the rest of my career.\""
+    },
+    {
+      "chunk": "split a payment over several cards",
+      "meaning": "把一笔费用分摊到几张卡上",
+      "start_cue": 183,
+      "end_cue": 184,
+      "start_time": "00:16:59,685",
+      "end_time": "00:17:04,454",
+      "quote": "I split it over three credit cards. I'm probably still paying it off to this day."
+    },
+    {
+      "chunk": "bright and early",
+      "meaning": "一大早；口语",
+      "start_cue": 185,
+      "end_cue": 185,
+      "start_time": "00:17:05,024",
+      "end_time": "00:17:09,459",
+      "quote": "So, I go in bright and early, I'm wearing my new suit, prepping my table,"
+    },
+    {
+      "chunk": "longer than I have been alive",
+      "meaning": "比我活的年头还长；夸张比较",
+      "start_cue": 189,
+      "end_cue": 189,
+      "start_time": "00:17:15,601",
+      "end_time": "00:17:19,736",
+      "quote": "These guys have been litigating longer than I've been alive."
+    },
+    {
+      "chunk": "like my life depended on it",
+      "meaning": "拼了命似的；强调投入",
+      "start_cue": 197,
+      "end_cue": 198,
+      "start_time": "00:17:43,429",
+      "end_time": "00:17:50,200",
+      "quote": "And I get up there and I argue like my life depended on it. I'm sweating and I'm citing statutes left and right."
+    },
+    {
+      "chunk": "left and right",
+      "meaning": "到处／接连不断地；此处指不停引用法条",
+      "start_cue": 198,
+      "end_cue": 198,
+      "start_time": "00:17:46,365",
+      "end_time": "00:17:50,200",
+      "quote": "I'm sweating and I'm citing statutes left and right."
+    },
+    {
+      "chunk": "it hit me that…",
+      "meaning": "我突然意识到……",
+      "start_cue": 203,
+      "end_cue": 203,
+      "start_time": "00:18:02,581",
+      "end_time": "00:18:08,452",
+      "quote": "But later, it hit me that my boss never intended to show."
+    },
+    {
+      "chunk": "trial by fire",
+      "meaning": "严峻的实战考验",
+      "start_cue": 205,
+      "end_cue": 205,
+      "start_time": "00:18:10,656",
+      "end_time": "00:18:13,256",
+      "quote": "They patted me on the back, said it was my trial by fire."
+    },
+    {
+      "chunk": "not sit well with sb.",
+      "meaning": "让某人心里不舒服／难以接受",
+      "start_cue": 206,
+      "end_cue": 207,
+      "start_time": "00:18:13,258",
+      "end_time": "00:18:18,628",
+      "quote": "And I laughed with them. But, you know, it never really sat well with me."
+    },
+    {
+      "chunk": "have your back",
+      "meaning": "支持你／替你撑腰",
+      "start_cue": 208,
+      "end_cue": 208,
+      "start_time": "00:18:18,630",
+      "end_time": "00:18:20,931",
+      "quote": "You want them to have your back."
+    },
+    {
+      "chunk": "prove my mettle",
+      "meaning": "证明自己的本事和韧性",
+      "start_cue": 209,
+      "end_cue": 209,
+      "start_time": "00:18:20,933",
+      "end_time": "00:18:25,168",
+      "quote": "Because at the end of the day, it wasn't about proving my mettle."
+    },
+    {
+      "chunk": "have my eye on sb.",
+      "meaning": "留意／看中某人；此处是招聘",
+      "start_cue": 213,
+      "end_cue": 214,
+      "start_time": "00:18:41,220",
+      "end_time": "00:18:47,224",
+      "quote": "You know, I've had my eye on you for a while. Since that Kettleman thing. It was an excellent deal you got for him."
+    },
+    {
+      "chunk": "be more than happy to do sth.",
+      "meaning": "非常乐意做某事；礼貌邀约",
+      "start_cue": 219,
+      "end_cue": 221,
+      "start_time": "00:19:03,275",
+      "end_time": "00:19:10,881",
+      "quote": "if on the off-chance you're pondering a change, Schweikart & Cokely would be more than happy to put your talents to good use."
+    },
+    {
+      "chunk": "put your talents to good use",
+      "meaning": "让才能派上好用场",
+      "start_cue": 221,
+      "end_cue": 221,
+      "start_time": "00:19:08,380",
+      "end_time": "00:19:10,881",
+      "quote": "to put your talents to good use."
+    },
+    {
+      "chunk": "work out the specifics",
+      "meaning": "把具体细节谈妥",
+      "start_cue": 224,
+      "end_cue": 224,
+      "start_time": "00:19:13,485",
+      "end_time": "00:19:17,754",
+      "quote": "work out specifics, but we think you would be a great fit."
+    },
+    {
+      "chunk": "be a great fit",
+      "meaning": "非常合适；职业匹配",
+      "start_cue": 224,
+      "end_cue": 224,
+      "start_time": "00:19:13,485",
+      "end_time": "00:19:17,754",
+      "quote": "work out specifics, but we think you would be a great fit."
+    },
+    {
+      "chunk": "I'm flattered, but…",
+      "meaning": "承蒙看重，不过……；礼貌拒绝",
+      "start_cue": 225,
+      "end_cue": 225,
+      "start_time": "00:19:21,225",
+      "end_time": "00:19:25,762",
+      "quote": "Well, I'm flattered, but there's clearly an ethical issue here."
+    },
+    {
+      "chunk": "rest assured",
+      "meaning": "请放心；正式安抚",
+      "start_cue": 227,
+      "end_cue": 228,
+      "start_time": "00:19:28,033",
+      "end_time": "00:19:32,669",
+      "quote": "And rest assured, we wouldn't be expecting any information about HHM's strategy."
+    },
+    {
+      "chunk": "spread your wings",
+      "meaning": "展翅施展才能；比喻",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:19:38,911",
+      "end_time": "00:19:42,846",
+      "quote": "and the freedom to really spread your wings."
+    },
+    {
+      "chunk": "give it some time",
+      "meaning": "花些时间考虑／不要急着决定",
+      "start_cue": 236,
+      "end_cue": 238,
+      "start_time": "00:19:57,896",
+      "end_time": "00:20:05,302",
+      "quote": "Well, give it some time, you think about it. And you give me a call, and we'll set up a meeting with the rest of the senior partners."
+    },
+    {
+      "chunk": "I was just about to do sth.",
+      "meaning": "我正要做某事",
+      "start_cue": 281,
+      "end_cue": 281,
+      "start_time": "00:26:28,353",
+      "end_time": "00:26:30,253",
+      "quote": "It's 1:15. I was just about to grab some lunch."
+    },
+    {
+      "chunk": "What more do you want?",
+      "meaning": "还有什么不满意的？；反问",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:27:22,173",
+      "end_time": "00:27:25,508",
+      "quote": "You've got a pool. What more do you want?"
+    },
+    {
+      "chunk": "Your next drink is on him.",
+      "meaning": "下一杯他请客；餐饮口语",
+      "start_cue": 309,
+      "end_cue": 310,
+      "start_time": "00:30:16,314",
+      "end_time": "00:30:21,951",
+      "quote": "you know that your next drink is on him. Just let me know when you're ready."
+    },
+    {
+      "chunk": "a watched pot never boils",
+      "meaning": "心急只觉时间过得慢；谚语",
+      "start_cue": 329,
+      "end_cue": 329,
+      "start_time": "00:32:27,511",
+      "end_time": "00:32:33,249",
+      "quote": "Have you ever heard the expression, \"A watched pot never boils\"?"
+    },
+    {
+      "chunk": "have a live one on the hook",
+      "meaning": "钓到一个上钩的目标；此处指骗局目标",
+      "start_cue": 348,
+      "end_cue": 349,
+      "start_time": "00:33:23,768",
+      "end_time": "00:33:29,438",
+      "quote": "I'm at the bar at Forque. And I've got a live one on the hook."
+    },
+    {
+      "chunk": "I'm on my way.",
+      "meaning": "我正在赶过去；回应召唤",
+      "start_cue": 350,
+      "end_cue": 350,
+      "start_time": "00:33:32,442",
+      "end_time": "00:33:35,644",
+      "quote": "I'm on my way. What's the shot?"
+    },
+    {
+      "chunk": "put out a few fires",
+      "meaning": "处理了几件突发麻烦；比喻",
+      "start_cue": 358,
+      "end_cue": 358,
+      "start_time": "00:33:55,099",
+      "end_time": "00:33:57,433",
+      "quote": "So sorry I'm late. I had to put out a few fires."
+    },
+    {
+      "chunk": "nothing stopping you",
+      "meaning": "没有什么拦着你；劝对方去做",
+      "start_cue": 372,
+      "end_cue": 372,
+      "start_time": "00:34:26,330",
+      "end_time": "00:34:30,866",
+      "quote": "But you could still wear the hat, though. Right? Nothing stopping you."
+    },
+    {
+      "chunk": "as far as I know",
+      "meaning": "据我所知；为说法留余地",
+      "start_cue": 374,
+      "end_cue": 374,
+      "start_time": "00:34:31,569",
+      "end_time": "00:34:33,769",
+      "quote": "I'm just saying there's no rule about that, as far as I know."
+    },
+    {
+      "chunk": "talk out of school",
+      "meaning": "泄露不该说的内部信息；口语",
+      "start_cue": 398,
+      "end_cue": 399,
+      "start_time": "00:35:41,104",
+      "end_time": "00:35:45,841",
+      "quote": "Look, I'm sure you're a nice guy, but she was talking out of school."
+    },
+    {
+      "chunk": "be full up on sth.",
+      "meaning": "名额／容量已满；此处为拒绝投资借口",
+      "start_cue": 401,
+      "end_cue": 401,
+      "start_time": "00:35:46,577",
+      "end_time": "00:35:48,177",
+      "quote": "We're full up on this thing."
+    },
+    {
+      "chunk": "go public",
+      "meaning": "公司上市",
+      "start_cue": 403,
+      "end_cue": 403,
+      "start_time": "00:35:48,746",
+      "end_time": "00:35:52,114",
+      "quote": "We sign one more investor, we gotta go public."
+    },
+    {
+      "chunk": "take sb. on",
+      "meaning": "接纳某人加入；此处指投资人",
+      "start_cue": 405,
+      "end_cue": 405,
+      "start_time": "00:35:55,253",
+      "end_time": "00:35:58,854",
+      "quote": "We cannot take anyone else on."
+    },
+    {
+      "chunk": "that time has passed",
+      "meaning": "那个机会／时机已经过去了",
+      "start_cue": 420,
+      "end_cue": 420,
+      "start_time": "00:38:44,388",
+      "end_time": "00:38:48,724",
+      "quote": "Hmm, that time has passed. No $5,000 for you."
+    },
+    {
+      "chunk": "I say the word,…",
+      "meaning": "只要我一声令下……；发出命令",
+      "start_cue": 425,
+      "end_cue": 425,
+      "start_time": "00:38:58,269",
+      "end_time": "00:39:02,805",
+      "quote": "I say the word, my nephews go to a certain motel."
+    },
+    {
+      "chunk": "pay sb. a visit",
+      "meaning": "去拜访某人；此处是威胁",
+      "start_cue": 426,
+      "end_cue": 427,
+      "start_time": "00:39:02,807",
+      "end_time": "00:39:07,943",
+      "quote": "Pay a visit to your daughter-in-law and your little granddaughter."
+    },
+    {
+      "chunk": "consider your position carefully",
+      "meaning": "仔细掂量自己的处境；威胁",
+      "start_cue": 429,
+      "end_cue": 429,
+      "start_time": "00:39:10,980",
+      "end_time": "00:39:15,184",
+      "quote": "Consider your position carefully."
+    },
+    {
+      "chunk": "hold up my end",
+      "meaning": "履行我这一方的约定",
+      "start_cue": 448,
+      "end_cue": 448,
+      "start_time": "00:41:37,528",
+      "end_time": "00:41:41,730",
+      "quote": "We made a deal. I didn't hold up my end."
+    },
+    {
+      "chunk": "pay off a loan",
+      "meaning": "还清贷款",
+      "start_cue": 463,
+      "end_cue": 463,
+      "start_time": "00:42:40,658",
+      "end_time": "00:42:43,392",
+      "quote": "even pay off my law school loans."
+    },
+    {
+      "chunk": "sad puppy eyes",
+      "meaning": "一副可怜巴巴的眼神；口语",
+      "start_cue": 467,
+      "end_cue": 467,
+      "start_time": "00:42:48,932",
+      "end_time": "00:42:50,532",
+      "quote": "So why the sad puppy eyes?"
+    },
+    {
+      "chunk": "get out from under sb.'s thumb",
+      "meaning": "摆脱某人的控制",
+      "start_cue": 470,
+      "end_cue": 470,
+      "start_time": "00:42:54,705",
+      "end_time": "00:42:58,373",
+      "quote": "It's a huge firm. You get out from under Howard's thumb."
+    },
+    {
+      "chunk": "a dead end",
+      "meaning": "没有发展前途的处境",
+      "start_cue": 472,
+      "end_cue": 472,
+      "start_time": "00:42:59,176",
+      "end_time": "00:43:04,079",
+      "quote": "Besides, HHM is looking more and more like a dead end for me anyway."
+    },
+    {
+      "chunk": "a steady paycheck",
+      "meaning": "稳定的工资收入",
+      "start_cue": 481,
+      "end_cue": 481,
+      "start_time": "00:43:35,145",
+      "end_time": "00:43:36,745",
+      "quote": "A steady pay check? Done."
+    },
+    {
+      "chunk": "Nailed it.",
+      "meaning": "搞定了／说对了；口语",
+      "start_cue": 483,
+      "end_cue": 483,
+      "start_time": "00:43:41,051",
+      "end_time": "00:43:43,385",
+      "quote": "A car that's all one color? Nailed it."
+    },
+    {
+      "chunk": "What's not to love?",
+      "meaning": "有什么不好的呢？；强调好处明显",
+      "start_cue": 487,
+      "end_cue": 488,
+      "start_time": "00:43:51,929",
+      "end_time": "00:43:59,501",
+      "quote": "What's not to love about that? Yeah. What's not to love?"
+    }
+  ]
+}

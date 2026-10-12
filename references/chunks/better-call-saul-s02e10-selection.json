@@ -1,0 +1,846 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S02/Better.Call.Saul.S02E10.en.srt",
+  "sha256": "1f8972faa39ac18b3ed169699840cccad3a6bd49c5054fc079554318f665f1d9",
+  "subtitle_blocks_read": 604,
+  "max_cue": 604,
+  "selection_status": "Candidates, pending user screening",
+  "items": [
+    {
+      "chunk": "When was the last time you…?",
+      "meaning": "你上次……是什么时候？；关心／了解近况",
+      "start_cue": 3,
+      "end_cue": 3,
+      "start_time": "00:00:33,343",
+      "end_time": "00:00:35,142",
+      "quote": "When was the last time you ate?"
+    },
+    {
+      "chunk": "stretch our legs",
+      "meaning": "起来走走、活动一下",
+      "start_cue": 8,
+      "end_cue": 9,
+      "start_time": "00:00:43,019",
+      "end_time": "00:00:48,255",
+      "quote": "Come on, Chuck, let's go over to novi's and stretch our legs, get some air, couple of hoagies."
+    },
+    {
+      "chunk": "Just a thought.",
+      "meaning": "只是提个想法；不强求",
+      "start_cue": 11,
+      "end_cue": 11,
+      "start_time": "00:00:52,061",
+      "end_time": "00:00:53,928",
+      "quote": "Just a thought."
+    },
+    {
+      "chunk": "clean up after sb.",
+      "meaning": "替某人收拾残局／善后；此处家人常替 Jimmy 收拾",
+      "start_cue": 16,
+      "end_cue": 18,
+      "start_time": "00:01:18,454",
+      "end_time": "00:01:28,295",
+      "quote": "I just remember the whole family cleaning up after you. And mom leaving her own birthday party to drive one of them home."
+    },
+    {
+      "chunk": "on the side",
+      "meaning": "另放在一边；点餐时说酱料分开",
+      "start_cue": 27,
+      "end_cue": 27,
+      "start_time": "00:01:49,252",
+      "end_time": "00:01:53,821",
+      "quote": "Roast beef, no tomato, Italian on the side?"
+    },
+    {
+      "chunk": "So this is it, then?",
+      "meaning": "所以就到这一步了？；面对最终结果",
+      "start_cue": 36,
+      "end_cue": 36,
+      "start_time": "00:03:26,449",
+      "end_time": "00:03:28,582",
+      "quote": "So this is it, then?"
+    },
+    {
+      "chunk": "She's gone.",
+      "meaning": "她去世了；委婉告知死讯",
+      "start_cue": 49,
+      "end_cue": 49,
+      "start_time": "00:04:35,151",
+      "end_time": "00:04:36,317",
+      "quote": "She's gone."
+    },
+    {
+      "chunk": "hold on a second",
+      "meaning": "稍等一下",
+      "start_cue": 63,
+      "end_cue": 63,
+      "start_time": "00:05:55,665",
+      "end_time": "00:05:57,998",
+      "quote": "Yeah, hold on... Hold on one second."
+    },
+    {
+      "chunk": "Are you with us?",
+      "meaning": "你能听见吗／还有意识吗？；急救场景",
+      "start_cue": 67,
+      "end_cue": 67,
+      "start_time": "00:06:02,972",
+      "end_time": "00:06:04,538",
+      "quote": "Hey, Chuck, you with us buddy?"
+    },
+    {
+      "chunk": "hang tight",
+      "meaning": "撑住／稍等；安抚口语",
+      "start_cue": 75,
+      "end_cue": 75,
+      "start_time": "00:06:27,630",
+      "end_time": "00:06:31,065",
+      "quote": "Hang tight, Charles, we're almost there."
+    },
+    {
+      "chunk": "Coming through!",
+      "meaning": "借过！；推着人或物经过",
+      "start_cue": 77,
+      "end_cue": 77,
+      "start_time": "00:06:42,278",
+      "end_time": "00:06:44,478",
+      "quote": "Coming through."
+    },
+    {
+      "chunk": "On three.",
+      "meaning": "数到三一起行动；协调动作",
+      "start_cue": 78,
+      "end_cue": 79,
+      "start_time": "00:06:48,818",
+      "end_time": "00:06:51,218",
+      "quote": "On three. One, two, three."
+    },
+    {
+      "chunk": "loss of consciousness",
+      "meaning": "失去意识；医疗搭配",
+      "start_cue": 83,
+      "end_cue": 86,
+      "start_time": "00:07:01,063",
+      "end_time": "00:07:11,605",
+      "quote": "witnessed by an employee. Estimated loss of consciousness is one minute. His vitals are stable. He's got a laceration to his forehead that appears to need suturing."
+    },
+    {
+      "chunk": "vitals are stable",
+      "meaning": "生命体征平稳；医疗搭配",
+      "start_cue": 85,
+      "end_cue": 85,
+      "start_time": "00:07:05,901",
+      "end_time": "00:07:06,800",
+      "quote": "His vitals are stable."
+    },
+    {
+      "chunk": "be on medication",
+      "meaning": "正在服药；就诊用语",
+      "start_cue": 106,
+      "end_cue": 106,
+      "start_time": "00:07:47,209",
+      "end_time": "00:07:48,842",
+      "quote": "Are you on any medications?"
+    },
+    {
+      "chunk": "have a condition",
+      "meaning": "患有某种病症／特殊健康状况",
+      "start_cue": 118,
+      "end_cue": 119,
+      "start_time": "00:08:05,928",
+      "end_time": "00:08:11,165",
+      "quote": "No! You don't understand. I have a condition. Charles... I have a hypersensitivity to electricity."
+    },
+    {
+      "chunk": "give your consent",
+      "meaning": "表示同意／授权；医疗法律语境",
+      "start_cue": 124,
+      "end_cue": 125,
+      "start_time": "00:08:19,875",
+      "end_time": "00:08:22,276",
+      "quote": "I did not give you my consent. You have no right to do this. You can't touch this."
+    },
+    {
+      "chunk": "have no right to do sth.",
+      "meaning": "没有权利做某事；抗议",
+      "start_cue": 125,
+      "end_cue": 125,
+      "start_time": "00:08:20,876",
+      "end_time": "00:08:22,276",
+      "quote": "You have no right to do this. You can't touch this."
+    },
+    {
+      "chunk": "draw blood",
+      "meaning": "抽血；医疗搭配",
+      "start_cue": 132,
+      "end_cue": 133,
+      "start_time": "00:08:34,356",
+      "end_time": "00:08:38,559",
+      "quote": "Draw a little bit of blood, suture up your wound, and do a very simple cat scan."
+    },
+    {
+      "chunk": "hold sb. down",
+      "meaning": "按住某人不让动",
+      "start_cue": 138,
+      "end_cue": 138,
+      "start_time": "00:08:43,499",
+      "end_time": "00:08:45,098",
+      "quote": "Can you hold him down? Restrain him."
+    },
+    {
+      "chunk": "We can't know for sure until…",
+      "meaning": "在……之前无法确定；说明判断条件",
+      "start_cue": 147,
+      "end_cue": 148,
+      "start_time": "00:09:18,167",
+      "end_time": "00:09:23,370",
+      "quote": "I'd love to be able to tell you, but we can't know for sure until we do those tests."
+    },
+    {
+      "chunk": "what sb. wants and what sb. needs",
+      "meaning": "某人想要的与真正需要的；对照骨架",
+      "start_cue": 153,
+      "end_cue": 155,
+      "start_time": "00:09:31,113",
+      "end_time": "00:09:36,316",
+      "quote": "He doesn't want to be here. What he wants and what he needs are two very different things, Jimmy."
+    },
+    {
+      "chunk": "fit the parameters",
+      "meaning": "符合条件／标准；正式",
+      "start_cue": 167,
+      "end_cue": 167,
+      "start_time": "00:10:12,855",
+      "end_time": "00:10:14,021",
+      "quote": "I mean, he fits the parameters."
+    },
+    {
+      "chunk": "wait around on sth.",
+      "meaning": "干等着某个程序完成",
+      "start_cue": 168,
+      "end_cue": 169,
+      "start_time": "00:10:14,023",
+      "end_time": "00:10:19,826",
+      "quote": "You're telling me he's in need of medical care so urgent that we can't wait around on court procedures."
+    },
+    {
+      "chunk": "pending results and treatment",
+      "meaning": "视检查结果及治疗而定；正式限定",
+      "start_cue": 176,
+      "end_cue": 176,
+      "start_time": "00:10:29,939",
+      "end_time": "00:10:33,974",
+      "quote": "Pending results and proper treatment, yes."
+    },
+    {
+      "chunk": "Let me be the one to tell him.",
+      "meaning": "由我亲自告诉他；主动承担谈话",
+      "start_cue": 178,
+      "end_cue": 178,
+      "start_time": "00:10:43,052",
+      "end_time": "00:10:45,986",
+      "quote": "Let me be the one to tell him."
+    },
+    {
+      "chunk": "Johnny-on-the-spot",
+      "meaning": "总能立刻出现／随叫随到的人；旧式口语，此处挖苦",
+      "start_cue": 181,
+      "end_cue": 182,
+      "start_time": "00:11:14,249",
+      "end_time": "00:11:19,853",
+      "quote": "Well, if it isn't Johnny-on-the-spot. What? What does that mean?"
+    },
+    {
+      "chunk": "in and out",
+      "meaning": "时而清醒时而失去意识；此处形容意识状态",
+      "start_cue": 195,
+      "end_cue": 196,
+      "start_time": "00:11:48,784",
+      "end_time": "00:11:51,518",
+      "quote": "I'd say maybe about a minute? You were, kind of, in and out."
+    },
+    {
+      "chunk": "There is only one way…",
+      "meaning": "只有一种可能／解释……；推断",
+      "start_cue": 201,
+      "end_cue": 202,
+      "start_time": "00:12:03,966",
+      "end_time": "00:12:09,636",
+      "quote": "There's only one way you could have gotten there so quickly. You never left."
+    },
+    {
+      "chunk": "get wound up",
+      "meaning": "情绪紧绷、激动起来；口语",
+      "start_cue": 203,
+      "end_cue": 204,
+      "start_time": "00:12:09,638",
+      "end_time": "00:12:13,306",
+      "quote": "I think you're getting all wound-up. Can you just take a few deep breaths?"
+    },
+    {
+      "chunk": "at my expense",
+      "meaning": "以我为代价／拿我取乐；此处指嘲笑",
+      "start_cue": 213,
+      "end_cue": 214,
+      "start_time": "00:12:27,256",
+      "end_time": "00:12:31,892",
+      "quote": "Just wanted to have a laugh at my expense? I called him."
+    },
+    {
+      "chunk": "Tomato, to-mahto.",
+      "meaning": "说法不同，本质一样；美式口语，对方不接受区别",
+      "start_cue": 227,
+      "end_cue": 229,
+      "start_time": "00:13:16,438",
+      "end_time": "00:13:25,345",
+      "quote": "You're trying to have me committed. No, it's a temporary... Temporary emergency guardianship. Tomato, to-mahto."
+    },
+    {
+      "chunk": "have sb. where you want them",
+      "meaning": "把某人逼到自己想要的处境／控制住",
+      "start_cue": 230,
+      "end_cue": 230,
+      "start_time": "00:13:25,581",
+      "end_time": "00:13:28,815",
+      "quote": "You've finally got me where you want me."
+    },
+    {
+      "chunk": "look beat",
+      "meaning": "看起来累坏了；口语",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:13:48,237",
+      "end_time": "00:13:49,002",
+      "quote": "Hey. You look beat."
+    },
+    {
+      "chunk": "be out to get sb.",
+      "meaning": "一心想整某人／找某人麻烦",
+      "start_cue": 241,
+      "end_cue": 241,
+      "start_time": "00:14:12,561",
+      "end_time": "00:14:16,563",
+      "quote": "it's like, he's really out to get you, Jimmy."
+    },
+    {
+      "chunk": "first, do no harm",
+      "meaning": "首先不要伤害病人；医学伦理格言",
+      "start_cue": 249,
+      "end_cue": 250,
+      "start_time": "00:16:22,758",
+      "end_time": "00:16:25,292",
+      "quote": "Primum non nocere. \"First do no harm.\""
+    },
+    {
+      "chunk": "It's as though…",
+      "meaning": "就好像……；通过类比说明处境",
+      "start_cue": 252,
+      "end_cue": 253,
+      "start_time": "00:16:27,396",
+      "end_time": "00:16:34,134",
+      "quote": "It's as though I had an allergy to penicillin, and yet you persist on treating my infection with it."
+    },
+    {
+      "chunk": "persist in doing sth.",
+      "meaning": "坚持继续做某事；常带批评",
+      "start_cue": 253,
+      "end_cue": 253,
+      "start_time": "00:16:30,799",
+      "end_time": "00:16:34,134",
+      "quote": "and yet you persist on treating my infection with it."
+    },
+    {
+      "chunk": "an analogy fits",
+      "meaning": "类比贴切／适用；此处医生否认其类比",
+      "start_cue": 254,
+      "end_cue": 255,
+      "start_time": "00:16:34,136",
+      "end_time": "00:16:38,505",
+      "quote": "I appreciate the analogy, Charles, but I don't think it quite fits."
+    },
+    {
+      "chunk": "in and out of a place",
+      "meaning": "很快去一趟就出来；别与意识时断时续的 in and out 混淆",
+      "start_cue": 256,
+      "end_cue": 256,
+      "start_time": "00:16:38,507",
+      "end_time": "00:16:42,742",
+      "quote": "We'll have you in and out of radiology before you know it, all right?"
+    },
+    {
+      "chunk": "before you know it",
+      "meaning": "转眼就好／很快；安抚",
+      "start_cue": 256,
+      "end_cue": 256,
+      "start_time": "00:16:38,507",
+      "end_time": "00:16:42,742",
+      "quote": "We'll have you in and out of radiology before you know it, all right?"
+    },
+    {
+      "chunk": "see about doing sth.",
+      "meaning": "看看能否安排／处理某事",
+      "start_cue": 257,
+      "end_cue": 258,
+      "start_time": "00:16:42,744",
+      "end_time": "00:16:46,546",
+      "quote": "Then we can see about getting that neck collar off and get you moving around."
+    },
+    {
+      "chunk": "Still no word?",
+      "meaning": "还没消息吗？；等待结果",
+      "start_cue": 267,
+      "end_cue": 267,
+      "start_time": "00:17:54,149",
+      "end_time": "00:17:55,682",
+      "quote": "Still no word?"
+    },
+    {
+      "chunk": "start over",
+      "meaning": "从头再来",
+      "start_cue": 270,
+      "end_cue": 270,
+      "start_time": "00:18:02,391",
+      "end_time": "00:18:04,624",
+      "quote": "Maybe they had to start over."
+    },
+    {
+      "chunk": "God knows how much longer…",
+      "meaning": "谁知道还要多久……；表达不耐烦",
+      "start_cue": 276,
+      "end_cue": 279,
+      "start_time": "00:18:17,539",
+      "end_time": "00:18:27,614",
+      "quote": "Would you get your work out, please? Because god knows how much longer we're gonna be here. I'd feel better if you were doing something, you know, unhospitaly."
+    },
+    {
+      "chunk": "I'm on it.",
+      "meaning": "我这就去办；接受任务",
+      "start_cue": 281,
+      "end_cue": 281,
+      "start_time": "00:18:29,684",
+      "end_time": "00:18:30,550",
+      "quote": "I'm on it."
+    },
+    {
+      "chunk": "ask for an update",
+      "meaning": "询问最新进展",
+      "start_cue": 284,
+      "end_cue": 284,
+      "start_time": "00:18:41,930",
+      "end_time": "00:18:45,031",
+      "quote": "You know what? I'm going to go ask for an update."
+    },
+    {
+      "chunk": "count on sb.",
+      "meaning": "依靠／信赖某人",
+      "start_cue": 293,
+      "end_cue": 296,
+      "start_time": "00:19:04,519",
+      "end_time": "00:19:13,093",
+      "quote": "someone you can trust, a man who says what he does and does what he says. When you need someone to count on..."
+    },
+    {
+      "chunk": "in short supply",
+      "meaning": "供应不足／如今很少见",
+      "start_cue": 300,
+      "end_cue": 300,
+      "start_time": "00:19:16,465",
+      "end_time": "00:19:21,067",
+      "quote": "Because moxie is in such short supply these days."
+    },
+    {
+      "chunk": "The good news is that…",
+      "meaning": "好消息是……；先报积极结果",
+      "start_cue": 310,
+      "end_cue": 311,
+      "start_time": "00:19:47,229",
+      "end_time": "00:19:50,964",
+      "quote": "So how is he? The good news is that physically, he's okay."
+    },
+    {
+      "chunk": "I'm sure that's no surprise to you.",
+      "meaning": "想必你对此不会惊讶；借已知情况解释",
+      "start_cue": 316,
+      "end_cue": 316,
+      "start_time": "00:20:02,544",
+      "end_time": "00:20:04,711",
+      "quote": "I'm sure that's no surprise to you."
+    },
+    {
+      "chunk": "my best guess is…",
+      "meaning": "我目前最合理的判断是……；保留不确定性",
+      "start_cue": 319,
+      "end_cue": 321,
+      "start_time": "00:20:08,450",
+      "end_time": "00:20:15,121",
+      "quote": "As far as losing consciousness, my best guess is Charles had what's called a stress-related syncope."
+    },
+    {
+      "chunk": "wear off",
+      "meaning": "药效／影响逐渐消退",
+      "start_cue": 330,
+      "end_cue": 333,
+      "start_time": "00:20:46,121",
+      "end_time": "00:20:56,329",
+      "quote": "Whatever you gave him should've worn off already, right? We watched him for several hours and we even gave him what's called a reversal agent. So, yes, the sedative wore off."
+    },
+    {
+      "chunk": "It's just a matter of time before…",
+      "meaning": "……只是时间问题",
+      "start_cue": 346,
+      "end_cue": 348,
+      "start_time": "00:21:24,359",
+      "end_time": "00:21:29,696",
+      "quote": "I have to believe that it's just a matter of time before he comes out of it. Matter of time."
+    },
+    {
+      "chunk": "as tight as they come",
+      "meaning": "紧／准到不能再紧／准；as adj. as they come 加强最高程度",
+      "start_cue": 354,
+      "end_cue": 355,
+      "start_time": "00:21:57,659",
+      "end_time": "00:22:02,095",
+      "quote": "It's about how tight she shoots. And this one's tight as they come."
+    },
+    {
+      "chunk": "one last thing",
+      "meaning": "最后还有一件事；补充提问",
+      "start_cue": 376,
+      "end_cue": 376,
+      "start_time": "00:23:10,765",
+      "end_time": "00:23:13,166",
+      "quote": "Uh... one last thing..."
+    },
+    {
+      "chunk": "None taken.",
+      "meaning": "没关系，我没觉得被冒犯；回应 no offense",
+      "start_cue": 377,
+      "end_cue": 378,
+      "start_time": "00:23:19,207",
+      "end_time": "00:23:24,677",
+      "quote": "No offence. None taken."
+    },
+    {
+      "chunk": "back with us",
+      "meaning": "恢复意识／醒过来；此处急救",
+      "start_cue": 381,
+      "end_cue": 381,
+      "start_time": "00:24:21,035",
+      "end_time": "00:24:25,238",
+      "quote": "Chuck! Hey, buddy, you're back with us."
+    },
+    {
+      "chunk": "How long was I out?",
+      "meaning": "我昏迷／失去意识多久？",
+      "start_cue": 388,
+      "end_cue": 388,
+      "start_time": "00:24:49,998",
+      "end_time": "00:24:51,664",
+      "quote": "How long was I out for?"
+    },
+    {
+      "chunk": "You've done your duty.",
+      "meaning": "你该做的都做了；此处请对方离开",
+      "start_cue": 411,
+      "end_cue": 411,
+      "start_time": "00:25:57,165",
+      "end_time": "00:26:00,533",
+      "quote": "You've done your duty. You can go now."
+    },
+    {
+      "chunk": "That came out a bit harsh.",
+      "meaning": "刚才那话说重了；即时修正语气",
+      "start_cue": 412,
+      "end_cue": 412,
+      "start_time": "00:26:01,936",
+      "end_time": "00:26:04,837",
+      "quote": "That came out a bit harsh. Hmm."
+    },
+    {
+      "chunk": "be poked and prodded",
+      "meaning": "被反复检查、摆弄；看病时抱怨",
+      "start_cue": 413,
+      "end_cue": 414,
+      "start_time": "00:26:04,839",
+      "end_time": "00:26:10,943",
+      "quote": "Look, I've been zapped and poked and prodded, and now I just..."
+    },
+    {
+      "chunk": "be left alone",
+      "meaning": "想一个人待着／不受打扰",
+      "start_cue": 415,
+      "end_cue": 415,
+      "start_time": "00:26:11,746",
+      "end_time": "00:26:13,546",
+      "quote": "I want to be left alone."
+    },
+    {
+      "chunk": "things go south",
+      "meaning": "事情变糟／出问题",
+      "start_cue": 416,
+      "end_cue": 416,
+      "start_time": "00:26:13,548",
+      "end_time": "00:26:17,650",
+      "quote": "If things start going south for you again, how am I even gonna know?"
+    },
+    {
+      "chunk": "look in on sb.",
+      "meaning": "顺道探望、看看某人情况",
+      "start_cue": 423,
+      "end_cue": 423,
+      "start_time": "00:26:37,005",
+      "end_time": "00:26:41,340",
+      "quote": "You need someone looking in on you. You got to eat, right?"
+    },
+    {
+      "chunk": "get backed up",
+      "meaning": "工作／队伍积压；此处客户在等待",
+      "start_cue": 437,
+      "end_cue": 440,
+      "start_time": "00:36:13,814",
+      "end_time": "00:36:23,689",
+      "quote": "Folks, I am sorry about the wait. But the attention I give each client means sometimes things get a little... ...backed up."
+    },
+    {
+      "chunk": "in turn",
+      "meaning": "依次、一个接一个",
+      "start_cue": 442,
+      "end_cue": 442,
+      "start_time": "00:36:24,492",
+      "end_time": "00:36:27,025",
+      "quote": "But I promise to get to each and every one of you, in turn."
+    },
+    {
+      "chunk": "pressing business",
+      "meaning": "紧急事务；这里是紧迫的法律工作",
+      "start_cue": 455,
+      "end_cue": 456,
+      "start_time": "00:36:54,188",
+      "end_time": "00:37:00,492",
+      "quote": "Unfortunately, uh, my associate tells me I'm needed for some brief but pressing legal business."
+    },
+    {
+      "chunk": "in the meantime",
+      "meaning": "与此同时／在这期间",
+      "start_cue": 457,
+      "end_cue": 458,
+      "start_time": "00:37:00,494",
+      "end_time": "00:37:06,932",
+      "quote": "I just need to make one quick phone call. Uh, in the meantime who was it who wanted coffee?"
+    },
+    {
+      "chunk": "return sb.'s call",
+      "meaning": "回某人的电话",
+      "start_cue": 463,
+      "end_cue": 463,
+      "start_time": "00:37:28,489",
+      "end_time": "00:37:32,357",
+      "quote": "Hey, Julie, it's me. Returning Howard's call."
+    },
+    {
+      "chunk": "be in the middle of sth.",
+      "meaning": "正忙着做某事",
+      "start_cue": 469,
+      "end_cue": 469,
+      "start_time": "00:38:16,270",
+      "end_time": "00:38:20,072",
+      "quote": "Jimmy, I'm, kind of, in the middle of something right now. Come back later."
+    },
+    {
+      "chunk": "clue me in",
+      "meaning": "跟我说说怎么回事／让我了解内情；口语",
+      "start_cue": 483,
+      "end_cue": 483,
+      "start_time": "00:40:09,483",
+      "end_time": "00:40:13,018",
+      "quote": "What do you say, Chuck? Uh, clue me in?"
+    },
+    {
+      "chunk": "from the start",
+      "meaning": "从一开始",
+      "start_cue": 488,
+      "end_cue": 488,
+      "start_time": "00:40:25,165",
+      "end_time": "00:40:26,932",
+      "quote": "Should've done this from the start."
+    },
+    {
+      "chunk": "right back at it",
+      "meaning": "休息一下后立刻继续干",
+      "start_cue": 499,
+      "end_cue": 499,
+      "start_time": "00:40:54,027",
+      "end_time": "00:40:56,528",
+      "quote": "Five minutes, and then right back at it."
+    },
+    {
+      "chunk": "out of the blue",
+      "meaning": "突然、毫无预兆",
+      "start_cue": 508,
+      "end_cue": 508,
+      "start_time": "00:41:35,669",
+      "end_time": "00:41:39,871",
+      "quote": "Regardless, it's, kind of, out of the blue. Don't you think?"
+    },
+    {
+      "chunk": "go down the drain",
+      "meaning": "付诸东流／垮掉",
+      "start_cue": 512,
+      "end_cue": 512,
+      "start_time": "00:41:45,112",
+      "end_time": "00:41:50,615",
+      "quote": "You're his number one guy. Without you, that whole place goes down the drain."
+    },
+    {
+      "chunk": "What brought this on?",
+      "meaning": "怎么突然变成这样？；追问原因",
+      "start_cue": 519,
+      "end_cue": 520,
+      "start_time": "00:42:11,905",
+      "end_time": "00:42:20,712",
+      "quote": "What brought this on exactly, Chuck, huh? 'Cause I don't know what you are if you're not a lawyer."
+    },
+    {
+      "chunk": "run sb. out of town on a rail",
+      "meaning": "把某人赶出城／扫地出门；夸张旧式说法",
+      "start_cue": 522,
+      "end_cue": 523,
+      "start_time": "00:42:27,254",
+      "end_time": "00:42:32,157",
+      "quote": "Before you run me out of town on a rail, huh? I'll be the only Mcgill carrying the family name."
+    },
+    {
+      "chunk": "carry the family name",
+      "meaning": "延续／代表家族的姓氏",
+      "start_cue": 523,
+      "end_cue": 523,
+      "start_time": "00:42:29,556",
+      "end_time": "00:42:32,157",
+      "quote": "I'll be the only Mcgill carrying the family name."
+    },
+    {
+      "chunk": "hide out",
+      "meaning": "躲起来；此处指逃避现实",
+      "start_cue": 531,
+      "end_cue": 531,
+      "start_time": "00:42:52,312",
+      "end_time": "00:42:54,112",
+      "quote": "Don't just hide out in your..."
+    },
+    {
+      "chunk": "give closing arguments",
+      "meaning": "作结案陈词；法庭搭配",
+      "start_cue": 534,
+      "end_cue": 535,
+      "start_time": "00:42:59,620",
+      "end_time": "00:43:05,090",
+      "quote": "When you're 99, you can drop dead giving closing arguments to judgebot 3,000,"
+    },
+    {
+      "chunk": "completely and utterly",
+      "meaning": "完全彻底地；强调",
+      "start_cue": 548,
+      "end_cue": 548,
+      "start_time": "00:43:29,850",
+      "end_time": "00:43:33,184",
+      "quote": "I blew it! Completely and utterly."
+    },
+    {
+      "chunk": "blow it",
+      "meaning": "把事情搞砸；口语",
+      "start_cue": 548,
+      "end_cue": 550,
+      "start_time": "00:43:29,850",
+      "end_time": "00:43:38,823",
+      "quote": "I blew it! Completely and utterly. And then I blamed... And then I blamed you."
+    },
+    {
+      "chunk": "What if I told you…?",
+      "meaning": "如果我告诉你……呢？；引出反转",
+      "start_cue": 560,
+      "end_cue": 560,
+      "start_time": "00:44:10,023",
+      "end_time": "00:44:14,326",
+      "quote": "What if I told you, you didn't make a mistake?"
+    },
+    {
+      "chunk": "go down exactly like sb. said",
+      "meaning": "事情完全按某人说的那样发生",
+      "start_cue": 568,
+      "end_cue": 569,
+      "start_time": "00:44:44,758",
+      "end_time": "00:44:52,364",
+      "quote": "It all went down exactly like you said. I mean, exactly."
+    },
+    {
+      "chunk": "chug along",
+      "meaning": "持续运转／顺利推进；此处比喻大脑仍很好使",
+      "start_cue": 573,
+      "end_cue": 574,
+      "start_time": "00:45:06,113",
+      "end_time": "00:45:13,418",
+      "quote": "So you can relax, okay? 'Cause that brain of yours is chugging along at 1,000% efficiency."
+    },
+    {
+      "chunk": "I wouldn't be telling you otherwise.",
+      "meaning": "要不是事实，我不会这么说；加强可信度",
+      "start_cue": 578,
+      "end_cue": 580,
+      "start_time": "00:45:22,062",
+      "end_time": "00:45:29,934",
+      "quote": "I sure as shit wouldn't be telling you otherwise. But, yes. It's the truth."
+    },
+    {
+      "chunk": "go to such lengths to do sth.",
+      "meaning": "为了做某事费那么大周折",
+      "start_cue": 581,
+      "end_cue": 581,
+      "start_time": "00:45:30,070",
+      "end_time": "00:45:33,438",
+      "quote": "You'd go to such lengths to humiliate me?"
+    },
+    {
+      "chunk": "work your butt off",
+      "meaning": "拼命工作；较粗口语",
+      "start_cue": 583,
+      "end_cue": 583,
+      "start_time": "00:45:35,108",
+      "end_time": "00:45:38,510",
+      "quote": "What? She worked her butt off to get Mesa Verde,"
+    },
+    {
+      "chunk": "sit around doing sth.",
+      "meaning": "坐着消磨时间／什么也不做",
+      "start_cue": 584,
+      "end_cue": 584,
+      "start_time": "00:45:38,512",
+      "end_time": "00:45:43,815",
+      "quote": "while you and Howard sat around sipping scotch and chortling."
+    },
+    {
+      "chunk": "wishful thinking",
+      "meaning": "一厢情愿的想法",
+      "start_cue": 595,
+      "end_cue": 595,
+      "start_time": "00:46:05,806",
+      "end_time": "00:46:08,039",
+      "quote": "Wishful thinking!"
+    },
+    {
+      "chunk": "You do realize…",
+      "meaning": "你应该明白／你知道自己……吧；强调后果",
+      "start_cue": 601,
+      "end_cue": 601,
+      "start_time": "00:46:46,179",
+      "end_time": "00:46:50,682",
+      "quote": "You do realize you just confessed to a felony."
+    },
+    {
+      "chunk": "It's your word against mine.",
+      "meaning": "各执一词、没有第三方证据；此处说难以证明",
+      "start_cue": 604,
+      "end_cue": 604,
+      "start_time": "00:46:55,956",
+      "end_time": "00:46:59,357",
+      "quote": "Besides, it's your word against mine."
+    }
+  ]
+}
