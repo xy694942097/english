@@ -1,0 +1,458 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S01/Better.Call.Saul.S01E02.en.srt",
+  "sha256": "26396955cbe6a467328edd88e7b561299f73b378b6fa2c062ddba8d6fb1735f5",
+  "subtitle_blocks_read": 612,
+  "max_cue": 612,
+  "selection_status": "Candidates, pending user screening",
+  "items": [
+    {
+      "chunk": "hang in there",
+      "meaning": "撑住，坚持一下（安慰／鼓励）",
+      "start_cue": 32,
+      "end_cue": 32,
+      "start_time": "00:01:25,191",
+      "end_time": "00:01:26,573",
+      "quote": "Just hang in there. Hang in there."
+    },
+    {
+      "chunk": "It's no joke.",
+      "meaning": "这可不是闹着玩的／事情很严重",
+      "start_cue": 51,
+      "end_cue": 51,
+      "start_time": "00:02:11,737",
+      "end_time": "00:02:13,570",
+      "quote": "Hit-and-run? It's no joke."
+    },
+    {
+      "chunk": "It's up to sb.",
+      "meaning": "由某人决定；此处也带“后果看你怎么做”的施压意味",
+      "start_cue": 55,
+      "end_cue": 55,
+      "start_time": "00:02:19,995",
+      "end_time": "00:02:22,963",
+      "quote": "- Y... yeah, yeah, maybe. - That's up to you, man."
+    },
+    {
+      "chunk": "play it smart",
+      "meaning": "聪明点，作出明智选择（可带警告）",
+      "start_cue": 67,
+      "end_cue": 67,
+      "start_time": "00:02:43,852",
+      "end_time": "00:02:45,402",
+      "quote": "Yeah, that's right... play it smart."
+    },
+    {
+      "chunk": "by any chance",
+      "meaning": "碰巧／有没有可能（缓和询问）",
+      "start_cue": 106,
+      "end_cue": 106,
+      "start_time": "00:06:47,553",
+      "end_time": "00:06:51,138",
+      "quote": "Is there, by any chance, a Betsy Kettleman here?"
+    },
+    {
+      "chunk": "look sb. in the eye",
+      "meaning": "直视某人的眼睛",
+      "start_cue": 107,
+      "end_cue": 108,
+      "start_time": "00:06:51,140",
+      "end_time": "00:06:55,643",
+      "quote": "See, I'm not sure if this is a situation where I should or should not look you in the eye."
+    },
+    {
+      "chunk": "I'm not sure if…",
+      "meaning": "我不确定是否……；委婉表达不确定",
+      "start_cue": 107,
+      "end_cue": 108,
+      "start_time": "00:06:51,140",
+      "end_time": "00:06:55,643",
+      "quote": "See, I'm not sure if this is a situation where I should or should not look you in the eye.",
+      "selection_status": "User accepted as useful common sentence pattern"
+    },
+    {
+      "chunk": "make an educated guess",
+      "meaning": "根据已有信息作出有依据的推测",
+      "start_cue": 128,
+      "end_cue": 128,
+      "start_time": "00:08:13,889",
+      "end_time": "00:08:18,309",
+      "quote": "I'm gonna make an educated guess what happened here."
+    },
+    {
+      "chunk": "cross a line",
+      "meaning": "越界，做了不该做的事",
+      "start_cue": 137,
+      "end_cue": 138,
+      "start_time": "00:08:39,582",
+      "end_time": "00:08:44,468",
+      "quote": "Now, at this juncture, I'm deducing that they said or did something that... Crossed a line,"
+    },
+    {
+      "chunk": "put sb. in their place",
+      "meaning": "让某人认清分寸／教训其别太放肆（强势）",
+      "start_cue": 139,
+      "end_cue": 140,
+      "start_time": "00:08:44,503",
+      "end_time": "00:08:49,256",
+      "quote": "and you, with some justification... You put them in their place."
+    },
+    {
+      "chunk": "The bottom line…",
+      "meaning": "说到底／最关键的是……（原句有停顿）",
+      "start_cue": 142,
+      "end_cue": 142,
+      "start_time": "00:08:55,514",
+      "end_time": "00:08:58,349",
+      "quote": "The bottom line... not to be morbid,"
+    },
+    {
+      "chunk": "jump to the nuclear option",
+      "meaning": "直接动用最极端的手段（比喻，力度强）",
+      "start_cue": 149,
+      "end_cue": 149,
+      "start_time": "00:09:18,204",
+      "end_time": "00:09:20,170",
+      "quote": "Why jump to the nuclear option?"
+    },
+    {
+      "chunk": "lay eyes on sb./sth.",
+      "meaning": "看见某人／某物；常用 never lay eyes on… 表示从未见过",
+      "start_cue": 153,
+      "end_cue": 154,
+      "start_time": "00:09:27,263",
+      "end_time": "00:09:31,932",
+      "quote": "Neither you nor your lovely abuelita will ever lay eyes on us ever again, guaranteed..."
+    },
+    {
+      "chunk": "Assuming…",
+      "meaning": "假设……／前提是……",
+      "start_cue": 156,
+      "end_cue": 156,
+      "start_time": "00:09:37,890",
+      "end_time": "00:09:41,308",
+      "quote": "Assuming, you know, that they're still breathing.",
+      "selection_status": "User accepted as useful common sentence pattern"
+    },
+    {
+      "chunk": "cut sb. loose",
+      "meaning": "放某人走／解除与某人的牵连；此处是放人",
+      "start_cue": 163,
+      "end_cue": 163,
+      "start_time": "00:10:27,940",
+      "end_time": "00:10:32,326",
+      "quote": "So, what... I should cut 'em loose?"
+    },
+    {
+      "chunk": "run a scam",
+      "meaning": "实施骗局，行骗",
+      "start_cue": 182,
+      "end_cue": 182,
+      "start_time": "00:12:19,093",
+      "end_time": "00:12:20,726",
+      "quote": "But I was running a scam."
+    },
+    {
+      "chunk": "get my name out",
+      "meaning": "让更多人知道我，打出名气",
+      "start_cue": 192,
+      "end_cue": 193,
+      "start_time": "00:12:37,862",
+      "end_time": "00:12:42,448",
+      "quote": "This is a good case for me... A lot of publicity. I'll get my name out, and..."
+    },
+    {
+      "chunk": "The joke's on sb.",
+      "meaning": "结果某人反而成了笑柄／吃亏的人",
+      "start_cue": 204,
+      "end_cue": 204,
+      "start_time": "00:13:06,107",
+      "end_time": "00:13:07,690",
+      "quote": "So, joke's on me. Ha ha!"
+    },
+    {
+      "chunk": "That's all this is.",
+      "meaning": "事情就是这么回事，仅此而已（限定问题的性质）",
+      "start_cue": 210,
+      "end_cue": 210,
+      "start_time": "00:13:31,499",
+      "end_time": "00:13:33,465",
+      "quote": "I made a mistake. That's all this is.",
+      "selection_status": "User accepted as useful common sentence pattern"
+    },
+    {
+      "chunk": "a known quantity",
+      "meaning": "背景或表现为人所知、可以判断的人／事；此处强调身份可核实",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:14:34,255",
+      "end_time": "00:14:35,722",
+      "quote": "I'm a known quantity... I am!"
+    },
+    {
+      "chunk": "the tip of the spear",
+      "meaning": "行动的先锋／最前线（比喻，较郑重）",
+      "start_cue": 236,
+      "end_cue": 237,
+      "start_time": "00:14:46,396",
+      "end_time": "00:14:50,062",
+      "quote": "I'm the tip of the spear, and releasing me would be the smart move."
+    },
+    {
+      "chunk": "take full responsibility",
+      "meaning": "承担全部责任（原文额外用 complete 强调）",
+      "start_cue": 269,
+      "end_cue": 269,
+      "start_time": "00:16:24,760",
+      "end_time": "00:16:27,143",
+      "quote": "I take full and complete responsibility,"
+    },
+    {
+      "chunk": "You really see sb. doing sth.?",
+      "meaning": "你真觉得某人会做……？（常带怀疑，不是实际看见）",
+      "start_cue": 282,
+      "end_cue": 282,
+      "start_time": "00:17:12,474",
+      "end_time": "00:17:15,475",
+      "quote": "You really see the FBI hiring those two flaquitos?",
+      "selection_status": "User accepted as useful common sentence pattern"
+    },
+    {
+      "chunk": "put sb. up to sth.",
+      "meaning": "怂恿／指使某人做某事（常用于不当行为）",
+      "start_cue": 311,
+      "end_cue": 311,
+      "start_time": "00:19:11,560",
+      "end_time": "00:19:14,728",
+      "quote": "They don't deserve to die. I put them up to it."
+    },
+    {
+      "chunk": "the apple of sb.'s eye",
+      "meaning": "某人最疼爱的人；原文临时用了复数 apples，不照搬为标准形式",
+      "start_cue": 323,
+      "end_cue": 324,
+      "start_time": "00:19:48,463",
+      "end_time": "00:19:55,602",
+      "quote": "What... for herself? No. No. For them... for these two, her boys, her apples of her eye."
+    },
+    {
+      "chunk": "That's on sb.",
+      "meaning": "那是某人的责任／后果由某人承担（不是物理位置）",
+      "start_cue": 329,
+      "end_cue": 329,
+      "start_time": "00:20:07,232",
+      "end_time": "00:20:08,448",
+      "quote": "No, that's on them."
+    },
+    {
+      "chunk": "The way I see it,…",
+      "meaning": "在我看来……（原文省略了 The）",
+      "start_cue": 333,
+      "end_cue": 333,
+      "start_time": "00:20:13,572",
+      "end_time": "00:20:16,739",
+      "quote": "Way I see it, that's because you're tough, but you're fair."
+    },
+    {
+      "chunk": "make the punishment fit the crime",
+      "meaning": "让惩罚与过错相称；法律／道德讨论",
+      "start_cue": 354,
+      "end_cue": 355,
+      "start_time": "00:21:06,842",
+      "end_time": "00:21:12,846",
+      "quote": "Wait. See, I'm advising... That you make the punishment fit the crime."
+    },
+    {
+      "chunk": "head in the wrong direction",
+      "meaning": "朝错误的方向发展；此处指谈判越谈越偏",
+      "start_cue": 376,
+      "end_cue": 376,
+      "start_time": "00:22:12,741",
+      "end_time": "00:22:14,407",
+      "quote": "I think we're heading in the wrong direction."
+    },
+    {
+      "chunk": "I ain't got all day.",
+      "meaning": "我没时间一直等（不耐烦；标准表达 I haven't got all day）",
+      "start_cue": 392,
+      "end_cue": 392,
+      "start_time": "00:23:07,746",
+      "end_time": "00:23:10,079",
+      "quote": "All right, lay 'em out! I ain't got all day!"
+    },
+    {
+      "chunk": "Save your breath.",
+      "meaning": "省省口舌吧／别白费力气说了（可显得冷淡）",
+      "start_cue": 409,
+      "end_cue": 409,
+      "start_time": "00:24:30,097",
+      "end_time": "00:24:32,264",
+      "quote": "- You... you... you... aah! Aah! - Save your breath."
+    },
+    {
+      "chunk": "talk sb. down from sth. to sth.",
+      "meaning": "通过劝说把结果从严重程度降到较轻程度；此处夸张地比较死刑与缓刑",
+      "start_cue": 412,
+      "end_cue": 413,
+      "start_time": "00:24:34,996",
+      "end_time": "00:24:39,165",
+      "quote": "Hey, I just talked you down from a death sentence... - Oh, my God! Oh, my! - ...to six months' probation."
+    },
+    {
+      "chunk": "You didn't…, did you?",
+      "meaning": "你没……吧？（求证，可能带担忧）",
+      "start_cue": 424,
+      "end_cue": 424,
+      "start_time": "00:27:50,182",
+      "end_time": "00:27:54,551",
+      "quote": "Jimmy, you didn't drive like this, did you?",
+      "selection_status": "User accepted as useful common sentence pattern"
+    },
+    {
+      "chunk": "I may have done sth.",
+      "meaning": "我可能做过……（保留对过去行为的不确定性）",
+      "start_cue": 454,
+      "end_cue": 454,
+      "start_time": "00:31:47,586",
+      "end_time": "00:31:51,755",
+      "quote": "Emergency-room bill... Yeah, I may have glanced at it.",
+      "selection_status": "User accepted as useful common sentence pattern"
+    },
+    {
+      "chunk": "I know how this looks.",
+      "meaning": "我知道这看起来像什么／会让你怎么想（解释可疑情况）",
+      "start_cue": 456,
+      "end_cue": 456,
+      "start_time": "00:31:55,761",
+      "end_time": "00:31:59,546",
+      "quote": "Hey, Chuck, listen, I... I know how this looks."
+    },
+    {
+      "chunk": "be down to my last dime",
+      "meaning": "只剩最后一点钱，几乎一文不剩",
+      "start_cue": 457,
+      "end_cue": 458,
+      "start_time": "00:31:59,598",
+      "end_time": "00:32:04,184",
+      "quote": "I'm down to my last dime, and, suddenly, I'm paying for broken legs, but..."
+    },
+    {
+      "chunk": "be a train wreck",
+      "meaning": "糟糕得一团乱／处于严重失序状态（负面评价）",
+      "start_cue": 501,
+      "end_cue": 501,
+      "start_time": "00:35:30,262",
+      "end_time": "00:35:32,312",
+      "quote": "- Petty with a prior. - Look, the parents are a train wreck."
+    },
+    {
+      "chunk": "be light on sth.",
+      "meaning": "某种东西不够／缺少；此处是停车券不足",
+      "start_cue": 504,
+      "end_cue": 504,
+      "start_time": "00:35:45,611",
+      "end_time": "00:35:47,577",
+      "quote": "- You're light on stickers. - Come on."
+    },
+    {
+      "chunk": "This is not a me problem. This is a you problem.",
+      "meaning": "这不是我的问题，是你需要解决的问题（直接、推卸或划清责任）",
+      "start_cue": 521,
+      "end_cue": 521,
+      "start_time": "00:36:59,651",
+      "end_time": "00:37:03,820",
+      "quote": "This is not a me problem... This is a you problem."
+    },
+    {
+      "chunk": "meet sb. halfway",
+      "meaning": "各让一步／作出折中，不是路上迎接",
+      "start_cue": 526,
+      "end_cue": 526,
+      "start_time": "00:37:33,351",
+      "end_time": "00:37:35,719",
+      "quote": "- Petty with a prior. - Come on. Meet me halfway."
+    },
+    {
+      "chunk": "freak sb. out",
+      "meaning": "把某人吓坏／弄得惊慌不安",
+      "start_cue": 564,
+      "end_cue": 564,
+      "start_time": "00:42:00,819",
+      "end_time": "00:42:04,454",
+      "quote": "Tuco freaked you out, huh?"
+    },
+    {
+      "chunk": "north of + 数字",
+      "meaning": "超过某个数字（金额等）",
+      "start_cue": 571,
+      "end_cue": 571,
+      "start_time": "00:42:37,022",
+      "end_time": "00:42:42,825",
+      "quote": "Um, north of a million and a half bucks... I think."
+    },
+    {
+      "chunk": "rip sb. off",
+      "meaning": "骗取／抢走某人的钱财；此处计划盗取对方的钱",
+      "start_cue": 576,
+      "end_cue": 578,
+      "start_time": "00:42:55,206",
+      "end_time": "00:43:04,213",
+      "quote": "- I'm gonna rip them off. - Oh. I like ripping off thieves 'cause they can't go to the cops... they have no recourse."
+    },
+    {
+      "chunk": "I'm…, not…",
+      "meaning": "我是……，不是……（强调身份、立场或界限）",
+      "start_cue": 593,
+      "end_cue": 593,
+      "start_time": "00:43:44,672",
+      "end_time": "00:43:48,391",
+      "quote": "Hey, look, I'm a lawyer, not a criminal.",
+      "selection_status": "User accepted as useful common sentence pattern"
+    },
+    {
+      "chunk": "I'm not doing that again, not ever.",
+      "meaning": "我再也不会这样做了，绝不（强调决心）",
+      "start_cue": 596,
+      "end_cue": 596,
+      "start_time": "00:43:57,602",
+      "end_time": "00:43:59,986",
+      "quote": "I'm not doing that again, not ever.",
+      "selection_status": "User accepted as useful common sentence pattern"
+    },
+    {
+      "chunk": "God forbid",
+      "meaning": "但愿不要发生（插入语，表示不希望某种坏事发生）",
+      "start_cue": 600,
+      "end_cue": 601,
+      "start_time": "00:44:10,782",
+      "end_time": "00:44:18,921",
+      "quote": "A-and if you're ever in trouble, God forbid, legal trouble, I will be there, 24-7, as a lawyer."
+    },
+    {
+      "chunk": "What's your angle?",
+      "meaning": "你到底有什么目的／打的什么算盘？（怀疑隐藏动机）",
+      "start_cue": 602,
+      "end_cue": 602,
+      "start_time": "00:44:18,957",
+      "end_time": "00:44:21,290",
+      "quote": "What's your angle?"
+    },
+    {
+      "chunk": "As far as I'm concerned,…",
+      "meaning": "在我看来／就我的立场而言……；不等于据我所知",
+      "start_cue": 605,
+      "end_cue": 605,
+      "start_time": "00:44:28,967",
+      "end_time": "00:44:31,767",
+      "quote": "As far as I'm concerned, you're a client."
+    },
+    {
+      "chunk": "be in the game",
+      "meaning": "参与这套活动／卷入其中；此处指犯罪圈，不等于所有场景都指犯罪",
+      "start_cue": 610,
+      "end_cue": 612,
+      "start_time": "00:45:04,252",
+      "end_time": "00:45:11,474",
+      "quote": "For when you figure out you're in the game. I'm not in the game. I... I promise."
+    }
+  ]
+}

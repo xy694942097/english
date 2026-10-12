@@ -52,3 +52,13 @@ main{flex:1;min-width:0;min-height:calc(100vh - 60px)}.reading-top{max-width:860
 /* ---- 响应式 ---- */
 @media(max-width:1150px){.topbar{grid-template-columns:220px 1fr auto;gap:16px;padding:0 16px}.sidebar{width:220px}.reading-top,.prose,#source{padding-left:24px;padding-right:24px}}
 @media(max-width:760px){.topbar{height:auto;position:static;grid-template-columns:1fr auto;padding:12px;gap:12px}.topbar input{grid-column:1 / -1;grid-row:2}.shell{display:block}.sidebar{position:static;width:100%;height:auto;max-height:235px;border-bottom:1px solid var(--line);border-right:none;padding:12px 0 16px}.nav-heading{padding:0 16px 10px}.nav-fold summary{padding:8px 16px 2px}.nav-link{display:inline-block;margin:2px;font-size:13px;padding:4px 10px}.nav-sub{padding:8px 16px 2px}.reading-top,.prose,#source{padding-left:16px;padding-right:16px}.reading-top{padding-top:20px}.prose h1{font-size:1.5em}}
+
+/* Heading anchors clear the fixed toolbar; contents follow the document hierarchy. */
+.prose :is(h1,h2,h3,h4,h5,h6) { scroll-margin-top: 100px; }
+.document-toc { margin: 1.2rem 0 2rem; padding: .8rem 1rem; border: 1px solid var(--line); border-radius: 6px; }
+.document-toc summary { cursor: pointer; font-weight: 600; }
+.document-toc ul { list-style: none; padding-left: 0; margin-bottom: .3rem; }
+.document-toc li { margin: .3rem 0; }
+.document-toc .toc-subsection { padding-left: 1.25rem; font-size: .94em; }
+.nav-maintenance { margin-top: 1.5rem; border-top: 1px solid var(--line); padding-top: .8rem; }
+.nav-maintenance > summary { cursor: pointer; padding: .7rem; color: var(--muted); font-size: .9rem; }

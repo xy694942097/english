@@ -2,13 +2,14 @@
 """将 book/08-frames/ 的 01-07 章合并为单篇总集文档（排版保持紧凑学习卡风格）。
 
 用法: python3 build_frames_collection.py
-输出: book/08-frames/08-frames-collection.md（同时挂进 course.json 导航）
+输出: engineering/archive/legacy-book/08-frames/08-frames-collection.md（同时挂进 course.json 导航）
 """
 
 import json
 import re
 from datetime import date
 from pathlib import Path
+from document_paths import document_path
 
 ROOT = Path(__file__).resolve().parents[1]
 FRAMES = ROOT / "book" / "08-frames"
@@ -52,7 +53,7 @@ def main():
     toc_lines = []
     parts = []
     for filename, title, solves in CHAPTERS:
-        path = FRAMES / filename
+        path = document_path("book/08-frames/" + filename)
         if not path.is_file():
             raise SystemExit(f"缺少章节文件: {path}")
         body = path.read_text(encoding="utf-8").strip()
@@ -72,25 +73,10 @@ def main():
 
 {chr(10).join(toc_lines)}
 """
-    output = FRAMES / "08-frames-collection.md"
+    output = document_path("book/08-frames/08-frames-collection.md")
     output.write_text(header + "\n".join(parts), encoding="utf-8")
 
-    # 挂进课程导航（家族F之后、样张之前）
-    course_path = ROOT / "book" / "course.json"
-    course = json.loads(course_path.read_text(encoding="utf-8"))
-    entry = {
-        "path": "book/08-frames/08-frames-collection.md",
-        "title": "总集：六大家族与教材回收（单篇通读版）",
-        "focus": "A-F 六家族 31 句式骨架 + 教材回收 9 句式骨架的单篇合集，适合通读与打印；分章学习仍用独立章。",
-        "level": "通读",
-    }
-    for topic in course["topics"]:
-        if topic["id"] == "frames":
-            if not any(l["path"] == entry["path"] for l in topic["lessons"]):
-                idx = next((i for i, l in enumerate(topic["lessons"]) if "[样张]" in l["title"]), len(topic["lessons"]))
-                topic["lessons"].insert(idx, entry)
-    course_path.write_text(json.dumps(course, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"已生成 {output} 并挂入课程导航")
+    print(f"已生成 {output}；导航由 nav.json 独立登记")
 
 
 if __name__ == "__main__":

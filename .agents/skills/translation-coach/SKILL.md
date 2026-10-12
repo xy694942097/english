@@ -5,9 +5,9 @@ description: 通过中文情境到英文表达训练英语；用于设计递进�
 
 # 中文到英文表达训练
 
-目标是让学习者面对**新的真实情境**时，能独立选出合适的英文说法。整句表达与交际动作是主轴；搭配、短语动词、话语套语和句式骨架可作为不同粒度的 **chunks** 记录，单词义项和语法按实际卡点补充，不分成孤立的背诵任务。采集 chunk 的门槛与训练循环见项目 `engineering/methodology/chunks-as-learning-units.md`。
+目标是让学习者面对**新的真实情境**时，能独立选出合适的英文说法。整句表达与交际动作是主轴；搭配、短语动词、话语套语和句式骨架可作为不同粒度的 **chunks** 记录，单词义项和语法按实际卡点补充，不分成孤立的背诵任务。采集 chunk 的门槛与训练循环见项目 `我的学习/把 chunks 作为快速理解与表达的学习单位.md`。
 
-本项目使用前先读 `background/LEARNER.md`、`background/METHOD.md`、`background/CURRENT.md`；规划或改编课程时再读 [PLAN.md](PLAN.md)，采集或审核素材时读 [references/sources-and-coverage.md](references/sources-and-coverage.md)。这些路径相对 english 项目根目录；在别的项目使用时，以用户当下目标和可用记录代替。不要用旧考试分数或一份练习总结给当前 CEFR 定级。
+本项目使用前先读 `我的学习/学习者背景.md`、`我的学习/学习方法与教学思想.md`、`我的学习/当前学习状态.md`；规划或改编课程时再读 [PLAN.md](PLAN.md)，采集或审核素材时读 [references/sources-and-coverage.md](references/sources-and-coverage.md)。这些路径相对 english 项目根目录；在别的项目使用时，以用户当下目标和可用记录代替。不要用旧考试分数或一份练习总结给当前 CEFR 定级。
 
 ## 先判断本次任务
 
@@ -16,7 +16,7 @@ description: 通过中文情境到英文表达训练英语；用于设计递进�
 | “这种练法有效吗”“怎么编排” | 讨论方法与取舍；没有用户作答就不产生学习成绩。 |
 | “搜集可翻译中文／地道英文” | 按素材规则建立候选池与来源记录；不把现成双语译文视为唯一标准答案。 |
 | “来练几句”“帮我改这段” | 走下面的训练与反馈流程；用户要求直接翻译时先直接回答，不强行考试。 |
-| “做计划／扩编 Book” | 查现有章节、进度与覆盖缺口；按 [PLAN.md](PLAN.md)规划，正式入书遵守项目 `AGENTS.md` 和 `book/TEMPLATE.md`。 |
+| “做计划／扩编 Book” | 查现有章节、进度与覆盖缺口；按 [PLAN.md](PLAN.md)规划，正式入书遵守项目 `AGENTS.md` 和 `engineering/agents/book-editorial/TEMPLATE.md`。 |
 
 本 Skill 管教学与选材。大批量生成句集、系统语法指南仍可使用项目现有 `english-content-forge`；从英文原文挖句式骨架可使用 `frame-miner`。只有任务确实需要时才读或调用它们。
 
@@ -54,8 +54,8 @@ description: 通过中文情境到英文表达训练英语；用于设计递进�
 
 采集规则、来源类型、记录字段、去重和质量门槛见 [references/sources-and-coverage.md](references/sources-and-coverage.md)。**先广收带来源的候选，再精选可教学条目**；中文情境和英语原句分别建候选，采集当下无需逐条配练习或判掌握。即使来自双语材料，也要核对原文、译文和语域，不把平行句对当唯一答案。若需下载资料，遵守项目 `materials/HANDBOOK.md` 的下载和许可记录规则。
 
-只有经审校且值得复用的表达才编入 `book/10-expression/` 或相关专题；需有情境、对照、边界与新语境练习。实际增编按用户请求执行，并同步 `nav.json`、`book/CHANGELOG.md`、`book/BACKLOG.md`；学习掌握只写进进度证据，不由教材篇数推断。涉及私人消息时，公开教材用去身份化的教学情境。
+只有经审校且值得复用的表达才编入 `book/10-expression/` 或相关专题；需有情境、对照、边界与新语境练习。实际增编按用户请求执行，并同步 `nav.json`、`engineering/agents/book-editorial/CHANGELOG.md`、`engineering/agents/book-editorial/BACKLOG.md`；学习掌握只写进进度证据，不由教材篇数推断。涉及私人消息时，公开教材用去身份化的教学情境。
 
 ## 方法依据的边界
 
-[Swain & Lapkin 的产出研究](https://academic.oup.com/applij/article-abstract/16/3/371/184113)支持“表达会暴露语言缺口”的机制；[Laufer & Girsai 的词汇／搭配研究](https://academic.oup.com/applij/article-abstract/29/4/694/183330)支持特定教学条件下翻译加对比反馈的记忆收益。这些不证明中译英单独足以带来整体流利，也不支持给所有人规定固定题量或时长。项目现有输入原则见 `background/METHOD.md` 与 `engineering/methodology/2026-09-14-input-principles.md`。
+[Swain & Lapkin 的产出研究](https://academic.oup.com/applij/article-abstract/16/3/371/184113)支持“表达会暴露语言缺口”的机制；[Laufer & Girsai 的词汇／搭配研究](https://academic.oup.com/applij/article-abstract/29/4/694/183330)支持特定教学条件下翻译加对比反馈的记忆收益。这些不证明中译英单独足以带来整体流利，也不支持给所有人规定固定题量或时长。项目现有输入原则见 `我的学习/学习方法与教学思想.md` 与 `engineering/methodology/2026-09-14-input-principles.md`。

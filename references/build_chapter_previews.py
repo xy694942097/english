@@ -9,6 +9,7 @@
 
 import re
 from pathlib import Path
+from document_paths import document_path
 
 ROOT = Path(__file__).resolve().parents[1]
 FRAMES = ROOT / "book" / "08-frames"
@@ -47,7 +48,7 @@ def extract_semantics(body: str) -> dict:
 
 
 for name in CHAPTERS:
-    path = FRAMES / name
+    path = document_path("book/08-frames/" + name)
     text = path.read_text(encoding="utf-8")
 
     # 幂等：删除已存在的预览节（表头列名兼容 框架/句式骨架 两种措辞）

@@ -18,6 +18,7 @@ import re
 import subprocess
 import sys
 from pathlib import Path
+from document_paths import document_path, write_document
 
 ROOT = Path(__file__).resolve().parent.parent
 MATERIALS = ROOT / "materials"
@@ -55,7 +56,7 @@ def convert_paper_txt(txt: Path) -> Path:
     if txt.stem.startswith("kaoyan1-2020"):
         note = "扫描件 OCR 产物（pytesseract，仅 eng 模型）：正文英文可用，中文与排版不可靠。"
     out = txt.with_suffix(".md")
-    out.write_text(
+    write_document(out,
         f"# {title}\n\n"
         f"> 来源：materials/papers/{txt.parent.name}/{txt.name}（原件 txt 保留在旁，"
         f"登记哈希见 materials/downloads-manifest.json）。{note}\n\n{body}\n",
@@ -97,7 +98,7 @@ def convert_wordbook(book: str, label: str) -> Path:
     for num, word, body in entries:
         parts.append(f"\n---\n\n## {word}\n\n{body}\n")
     out = WBMD / f"etymology-{book}.md"
-    out.write_text("".join(parts), encoding="utf-8")
+    write_document(out, "".join(parts), encoding="utf-8")
     return out
 
 
@@ -143,7 +144,7 @@ def paper_md(txt: Path, title: str, note: str) -> Path:
     """原件旁 md：来源头 + 质量注记 + 正文（数据层派生物，不进目录）。"""
     body = txt.read_text(encoding="utf-8", errors="replace").strip()
     out = txt.with_suffix(".md")
-    out.write_text(
+    write_document(out,
         f"# {title}\n\n"
         f"> 来源：materials/papers/ielts/{txt.parent.name}/{txt.stem}.pdf"
         f"（原件 PDF 保留在旁，登记哈希见 materials/downloads-manifest.json）。"
@@ -176,7 +177,7 @@ def cmd_ielts() -> None:
         report.append(f"TXT+MD {pdf_name}: txt {n}B → {md.name}")
 
     # 2) 雅思真题合集（readable，4 册合一）
-    out = READABLE / "雅思真题合集.md"
+    out = document_path('materials/readable/papers/雅思真题合集.md')
     parts = [f"# 雅思真题合集\n\n> 来源：materials/papers/ielts/剑桥雅思真题/（zeeklog/IELTS，"
              f"原件 PDF 与哈希见 manifest）。剑4/9/14/IELTS16体验版 4 册文字层完好者合一；"
              f"剑5-8/10-13/15-18 共 12 册为扫描件不可机读，留作人读原件。社区整理版，"
@@ -184,7 +185,7 @@ def cmd_ielts() -> None:
              f"重跑重建。\n"]
     for title, note, body in book_bodies:
         parts.append(f"\n---\n\n## {title}\n\n> {note}\n\n{body}\n")
-    out.write_text("".join(parts), encoding="utf-8")
+    write_document(out, "".join(parts), encoding="utf-8")
     report.append(f"合集 雅思真题合集.md（{out.stat().st_size // 1024}KB）")
 
     # 3) 雅思资料合集（介绍 3 + 作文范文 3 + 词表说明）
@@ -211,7 +212,7 @@ def cmd_ielts() -> None:
         wmd = wtxt.with_suffix(".md")
         if not wmd.exists() or True:
             body = wtxt.read_text(encoding="utf-8", errors="replace").strip()
-            wmd.write_text(
+            write_document(wmd,
                 "# 雅思词汇词根+联想记忆法（乱序便携版）单词表\n\n"
                 "> 来源：materials/vocabulary/IELTS-wordlist-fanhongtao.txt（fanhongtao/IELTS，"
                 "作者手抄录入 3722 行，含音标与中文释义；哈希见 manifest）。"
@@ -223,8 +224,8 @@ def cmd_ielts() -> None:
                      "jsonl 结构化豁免转 md；与 CET rich 同构，可直接走导入管线 |\n"
                      "| IELTS-wordlist-fanhongtao | 3722 行（音标+中文释义） | materials/vocabulary/ | "
                      "原件 txt + 原件旁 md（代码块包裹保排版） |\n")
-    out = READABLE / "雅思资料合集.md"
-    out.write_text("".join(parts), encoding="utf-8")
+    out = document_path('materials/readable/papers/雅思资料合集.md')
+    write_document(out, "".join(parts), encoding="utf-8")
     report.append(f"合集 雅思资料合集.md（{out.stat().st_size // 1024}KB）")
 
     # 4) 汇总：哪些册子是扫描件（未派生）
@@ -318,7 +319,7 @@ def merged_exam_doc(path: Path, title: str, source_note: str, sections: list[tup
              f"由 references/normalize_materials.py 重跑重建。\n"]
     for sec_title, body in sections:
         parts.append(f"\n---\n\n## {sec_title}\n\n{body}\n")
-    path.write_text("".join(parts), encoding="utf-8")
+    write_document(path, "".join(parts), encoding="utf-8")
     return path
 
 
@@ -330,13 +331,13 @@ def cmd_readable() -> None:
 
     # 真题合集（四/六/考研）
     specs = [
-        (OUT / "papers" / "四级真题合集.md", "四级真题合集",
+        (document_path('materials/readable/papers/四级真题合集.md'), "四级真题合集",
          "来源：materials/papers/exams/ 与 materials/papers/cet4/（DieDiDi、0609x 仓库），",
          collect_cet4(), ""),
-        (OUT / "papers" / "六级真题合集.md", "六级真题合集",
+        (document_path('materials/readable/papers/六级真题合集.md'), "六级真题合集",
          "来源：materials/papers/exams/ 与 materials/papers/cet6/（AndrewYuZhenYu 仓库），全年各套合并，",
          collect_cet6(), ""),
-        (OUT / "papers" / "考研真题合集.md", "考研真题合集",
+        (document_path('materials/readable/papers/考研真题合集.md'), "考研真题合集",
          "来源：materials/papers/exams/（youngflysky、zwd1216 仓库），",
          collect_kaoyan_exams(), "2020 年卷为扫描件 OCR（仅 eng 模型），中文与排版不可靠。"),
     ]
@@ -350,7 +351,7 @@ def cmd_readable() -> None:
         year = re.search(r"(\d{4})", src.stem)[1]
         body = re.sub(r"^---\n.*?\n---\n", "", src.read_text(encoding="utf-8").strip(), flags=re.S)
         jingfan.append((f"考研英语一 {year} 年阅读精翻", body))
-    out = OUT / "papers" / "考研精翻合集.md"
+    out = document_path('materials/readable/papers/考研精翻合集.md')
     merged_exam_doc(
         out, "考研精翻合集",
         "来源：materials/papers/kaoyan-jingfan/（Destinnnnn/kaoyan-english-1-2005-2026）。"
@@ -376,8 +377,8 @@ def cmd_readable() -> None:
         n_tb += 1
         body = re.sub(r"^# .+?\n+", "", f.read_text(encoding="utf-8", errors="replace").strip(), count=1)
         parts.append(f"\n---\n\n## 人教版《Go for it!》{pre}\n\n{body}\n")
-    out = OUT / "textbooks" / "初中英语教材合集.md"
-    out.write_text("".join(parts), encoding="utf-8")
+    out = document_path('materials/readable/textbooks/初中英语教材合集.md')
+    write_document(out, "".join(parts), encoding="utf-8")
     generated.append((str(out.relative_to(ROOT)), f"初中英语教材合集（{n_tb} 册）", out.stat().st_size))
 
     # 词源书说明页：指向 3 个合集（papers 子命令生成，前端直接可见）
@@ -394,7 +395,7 @@ def cmd_readable() -> None:
         if f.exists():
             n = len(parse_wordbook_entries(b))
             lines.append(f"| {label} | {f.name} | {n} | {f.stat().st_size // 1024}KB |\n")
-    (OUT / "dictionaries" / "wordbooks-full.md").write_text("".join(lines), encoding="utf-8")
+    write_document(OUT / "dictionaries" / "wordbooks-full.md", "".join(lines), encoding="utf-8")
     generated.append(("materials/readable/dictionaries/wordbooks-full.md", "词源书说明", 0))
 
     # 索引页
@@ -408,7 +409,7 @@ def cmd_readable() -> None:
              "雅思 12 册扫描真题不可机读，留作人读原件。\n\n"]
     for rel, title, size in generated:
         lines.append(f"- {title}（{size // 1024}KB）\n")
-    (OUT / "README.md").write_text("".join(lines), encoding="utf-8")
+    write_document(OUT / "README.md", "".join(lines), encoding="utf-8")
 
     print(f"[readable] generated {len(generated)} 合集 pages + index at materials/readable/")
 

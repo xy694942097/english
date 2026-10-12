@@ -1,0 +1,468 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S01/Better.Call.Saul.S01E01.en.srt",
+  "sha256": "230f39d6a13e74c27078e652c96e5e9c5058f032aae17a7b9e702b4f34dca00c",
+  "cues_read": 818,
+  "scope": "Read entire subtitle; selected character dialogue, excluding opening song, background TV, credits, previously collected items and uncertain creative phrases.",
+  "items": [
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "bully [someone] into [doing something]",
+      "start_cue": 68,
+      "end_cue": 68,
+      "start_time": "00:05:14,735",
+      "end_time": "00:05:18,704",
+      "quote": "Don't let false allegations bully you into an unfair fight.",
+      "note": "用威逼迫使某人做某事；into 后接名词或动名词，不是普通劝说。原例指因指控而被迫进入不公平的争斗。"
+    },
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "have [someone] cornered",
+      "start_cue": 71,
+      "end_cue": 71,
+      "start_time": "00:05:24,223",
+      "end_time": "00:05:27,591",
+      "quote": "When legal forces have you cornered, better call Saul!",
+      "note": "使某人陷入困境／无路可退；cornered 在此不是站在物理角落。法律广告语气强，不宜照搬为平静解释。"
+    },
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "Which brings us to…",
+      "start_cue": 110,
+      "end_cue": 110,
+      "start_time": "00:09:03,202",
+      "end_time": "00:09:05,369",
+      "quote": "Which brings us to these three...",
+      "note": "这就引出了……；用前面的论述自然转到下一个人或话题。可独立用于工作讲解。"
+    },
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "That's a bit of a reach.",
+      "start_cue": 123,
+      "end_cue": 123,
+      "start_time": "00:09:42,992",
+      "end_time": "00:09:45,576",
+      "quote": "That's a bit of a reach... Don't you think, Dave?",
+      "note": "这有点牵强／推得太远了；质疑推断或定性，reach 在此不是距离。"
+    },
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "Call me crazy, but…",
+      "start_cue": 129,
+      "end_cue": 132,
+      "start_time": "00:10:01,677",
+      "end_time": "00:10:12,436",
+      "quote": "Call me crazy, but I don't think they deserve to have their bright futures ruined by a momentary, minute, never-to-be-repeated lapse of judgment.",
+      "note": "你可以说我想法离谱，但……；先承认观点可能受质疑，再提出它。常是修辞性铺垫，不是真让别人评价精神状态。"
+    },
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "a lapse of judgment",
+      "start_cue": 132,
+      "end_cue": 132,
+      "start_time": "00:10:08,651",
+      "end_time": "00:10:12,436",
+      "quote": "never-to-be-repeated lapse of judgment.",
+      "note": "一时判断失误；lapse 有短暂失常之意，原说话人用它弱化行为严重性，不代表行为真的轻微。"
+    },
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "You're bigger than that.",
+      "start_cue": 133,
+      "end_cue": 133,
+      "start_time": "00:10:12,488",
+      "end_time": "00:10:17,524",
+      "quote": "Ladies and gentlemen, you're bigger than that.",
+      "note": "你有更大的气量／不至于计较到那种地步；这里试图劝陪审者宽容，也可能形成道德压力。"
+    },
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "Since when does [something] matter?",
+      "start_cue": 171,
+      "end_cue": 171,
+      "start_time": "00:12:24,954",
+      "end_time": "00:12:27,237",
+      "quote": "So, since when does that matter?!",
+      "note": "什么时候开始这也算事了？／怎么现在反倒在意这个？质疑某标准，常带不满；不是单纯询问起始日期。"
+    },
+    {
+      "group": "说服、辩护与争论",
+      "chunk": "It'll be a cold day in hell before…",
+      "start_cue": 176,
+      "end_cue": 177,
+      "start_time": "00:12:35,998",
+      "end_time": "00:12:39,967",
+      "quote": "'Cause it'll be a cold day in hell before I do any more P.D. work for this shitty court!",
+      "note": "除非太阳打西边出来，否则我绝不会……；强烈拒绝，带粗俗色彩。原句另有脏话，日常使用要考虑对象。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "I'm fuzzy as to [why/how…]",
+      "start_cue": 214,
+      "end_cue": 214,
+      "start_time": "00:15:18,661",
+      "end_time": "00:15:23,630",
+      "quote": "Well, I'm just fuzzy as to why you think he needs a lawyer.",
+      "note": "我不太明白……；fuzzy 指理解不清晰，as to 后引出不清楚的方面。原句用 just 缓和追问。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "be beyond reproach",
+      "start_cue": 215,
+      "end_cue": 215,
+      "start_time": "00:15:23,666",
+      "end_time": "00:15:27,834",
+      "quote": "I mean, Craig, the way you run your office is beyond reproach.",
+      "note": "无可指责，挑不出毛病；较正式，原场景带恭维与自我辩护色彩。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "[something] may be in order",
+      "start_cue": 236,
+      "end_cue": 236,
+      "start_time": "00:16:11,880",
+      "end_time": "00:16:15,098",
+      "quote": "I just think a little proactivity may be in order.",
+      "note": "也许该做一点……／……可能是合适的；此处 in order 不是按顺序。常用于较委婉建议。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "clear [something] up",
+      "start_cue": 245,
+      "end_cue": 245,
+      "start_time": "00:16:34,703",
+      "end_time": "00:16:37,654",
+      "quote": "\"Talk to me,\" he says. Uh, \"help me clear this thing up.",
+      "note": "把事情弄清楚／消除误会；原例是警探设想的诱导说辞，不等于同意其建议。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "go south",
+      "start_cue": 248,
+      "end_cue": 248,
+      "start_time": "00:16:40,909",
+      "end_time": "00:16:43,493",
+      "quote": "Hey, that's when it all goes south.",
+      "note": "开始出问题／变糟；不是向南走，适合描述计划、谈话或局势恶化。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "have [someone] in your corner",
+      "start_cue": 249,
+      "end_cue": 249,
+      "start_time": "00:16:43,545",
+      "end_time": "00:16:45,495",
+      "quote": "That's when you want someone in your corner,",
+      "note": "有人站在你这边、支持你；借用拳击角落的形象，原文 someone in your corner 是省略片段。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "fight tooth and nail",
+      "start_cue": 250,
+      "end_cue": 250,
+      "start_time": "00:16:45,547",
+      "end_time": "00:16:48,999",
+      "quote": "someone who will fight tooth and nail.",
+      "note": "竭尽全力争取／拼命抗争；力度大，不是普通做一点努力。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "sleep on it",
+      "start_cue": 262,
+      "end_cue": 262,
+      "start_time": "00:17:34,194",
+      "end_time": "00:17:37,578",
+      "quote": "I think maybe we should sleep on it.",
+      "note": "先不急着决定，考虑一晚再说；不是真的睡在某物上。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "come out of nowhere",
+      "start_cue": 298,
+      "end_cue": 298,
+      "start_time": "00:19:26,285",
+      "end_time": "00:19:27,951",
+      "quote": "I was making a turn! He came out of nowhere!",
+      "note": "突然冒出来／出乎意料地出现；这里是解释对方突然进入车前。"
+    },
+    {
+      "group": "工作讨论、建议与处理问题",
+      "chunk": "make things right / make it right",
+      "start_cue": 317,
+      "end_cue": 319,
+      "start_time": "00:19:58,886",
+      "end_time": "00:20:14,252",
+      "quote": "What are you gonna do to make things right? I don't know, fellas. What can I do to make it right?",
+      "note": "把问题补救好／作出弥补；不只是证明自己是对的。两种原文形式作为同一用途合并。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "make [a check] out to [someone]",
+      "start_cue": 375,
+      "end_cue": 375,
+      "start_time": "00:25:35,382",
+      "end_time": "00:25:38,383",
+      "quote": "And why was it made out to me... Why not Chuck?",
+      "note": "把支票收款人写成某人；原文是被动形式 made out to me，不能译为把某物看成我。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "I just assumed [that-clause]",
+      "start_cue": 377,
+      "end_cue": 378,
+      "start_time": "00:25:43,085",
+      "end_time": "00:25:46,302",
+      "quote": "I just assumed it was best to have the money go through you.",
+      "note": "我只是默认／未经确认就以为……；just 可能缓和解释，assumed 不等于有意安排。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "have [the money] go through [someone]",
+      "start_cue": 377,
+      "end_cue": 378,
+      "start_time": "00:25:43,085",
+      "end_time": "00:25:46,302",
+      "quote": "I just assumed it was best to have the money go through you.",
+      "note": "安排钱经过某人这个环节，由其接收／转交处理；have＋宾语＋动词原形是安排结构。此处不自动等于让对方管理所有钱。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "This isn't going away.",
+      "start_cue": 380,
+      "end_cue": 380,
+      "start_time": "00:25:48,757",
+      "end_time": "00:25:51,141",
+      "quote": "This isn't going away, Howard.",
+      "note": "这件事不会就这么算了／不会自行消失；可以是问题持续，也可以像原句一样构成施压。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "in that ballpark",
+      "start_cue": 391,
+      "end_cue": 391,
+      "start_time": "00:26:18,086",
+      "end_time": "00:26:21,871",
+      "quote": "Plus $17 million... In that ballpark.",
+      "note": "大约在那个数额／范围；不是棒球场的位置，常用于估价。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "do right by [someone]",
+      "start_cue": 397,
+      "end_cue": 397,
+      "start_time": "00:26:32,968",
+      "end_time": "00:26:35,969",
+      "quote": "It's time to do right by him and cash him out.",
+      "note": "公平对待某人／对得起某人；强调应得的待遇，不只是替人办事。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "do what's in [someone's] best interests",
+      "start_cue": 404,
+      "end_cue": 405,
+      "start_time": "00:26:52,737",
+      "end_time": "00:26:56,289",
+      "quote": "I'm just doing what's in his - best interests. - So am I.",
+      "note": "做对某人最有利的事；声称为其利益着想不等于真的符合本人意愿。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "get caught up in [something]",
+      "start_cue": 426,
+      "end_cue": 428,
+      "start_time": "00:27:59,554",
+      "end_time": "00:28:10,029",
+      "quote": "You know, Jimmy, sometimes, in our line of work, you can get so... Caught up in the idea of winning that you forget to listen to your heart.",
+      "note": "过度沉浸／陷在某种想法或活动中，以至于忽略其他事；原例是太执着于赢。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "All the more reason [to/not to do something]",
+      "start_cue": 498,
+      "end_cue": 500,
+      "start_time": "00:34:50,856",
+      "end_time": "00:34:58,078",
+      "quote": "Let's not exaggerate. I helped. You helped. All the more reason not to tear it down just for a little bit of cash.",
+      "note": "那就更有理由……／更不应该……；将对方刚说的事实转为支持自己的理由。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "go under",
+      "start_cue": 501,
+      "end_cue": 501,
+      "start_time": "00:34:58,114",
+      "end_time": "00:35:01,699",
+      "quote": "Look... Chuck, I'm going under, okay?",
+      "note": "撑不下去／财务上垮掉；此处说话人正缺钱，不是游到水下。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "the whole nine yards",
+      "start_cue": 508,
+      "end_cue": 508,
+      "start_time": "00:35:18,467",
+      "end_time": "00:35:19,850",
+      "quote": "The whole nine yards.",
+      "note": "全套，一整套该做的都做了；原例列举了法律工作全过程。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "[something] is beside the point",
+      "start_cue": 512,
+      "end_cue": 513,
+      "start_time": "00:35:27,860",
+      "end_time": "00:35:32,646",
+      "quote": "The money is beside the point. Money is not beside the point... Money is the point.",
+      "note": "……不是重点／与眼下要讨论的核心无关；原句双方争论钱到底是不是重点。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "have nowhere else to turn",
+      "start_cue": 511,
+      "end_cue": 511,
+      "start_time": "00:35:25,524",
+      "end_time": "00:35:27,808",
+      "quote": "You're representing people who have nowhere else to turn.",
+      "note": "没有其他地方／人可以求助；turn 指转向求助，不是没路可以转弯。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "have [someone] all worked up",
+      "start_cue": 531,
+      "end_cue": 531,
+      "start_time": "00:36:16,108",
+      "end_time": "00:36:18,075",
+      "quote": "This is what has you all worked up?",
+      "note": "让某人非常激动、焦虑或生气；原句追问原因，具体情绪看场景，不等于工作忙。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "make ends meet",
+      "start_cue": 545,
+      "end_cue": 547,
+      "start_time": "00:36:48,557",
+      "end_time": "00:36:55,479",
+      "quote": "And the two of you agreed that since, as everybody knows, you're going back to work any day now, that the firm should help you make ends meet.",
+      "note": "勉强维持收支、支付生活所需；不等于赚到很多钱。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "pick up where [someone] left off",
+      "start_cue": 551,
+      "end_cue": 552,
+      "start_time": "00:37:01,904",
+      "end_time": "00:37:06,907",
+      "quote": "I'm gonna go back to work, and I'm picking up where I left off!",
+      "note": "从先前停下的地方继续；可用于工作、学习或谈话。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "I understand [that…], but…",
+      "start_cue": 555,
+      "end_cue": 556,
+      "start_time": "00:37:38,991",
+      "end_time": "00:37:45,079",
+      "quote": "I understand that you're trying to look out for me, but you're missing the bigger picture.",
+      "note": "我理解……，但……；先承认对方动机，再指出不同判断，适合缓冲异议。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "look out for [someone]",
+      "start_cue": 555,
+      "end_cue": 555,
+      "start_time": "00:37:38,991",
+      "end_time": "00:37:42,576",
+      "quote": "I understand that you're trying to look out for me,",
+      "note": "照顾／维护某人的利益；不同于 look out! 的提醒危险。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "miss the bigger picture",
+      "start_cue": 556,
+      "end_cue": 556,
+      "start_time": "00:37:42,611",
+      "end_time": "00:37:45,079",
+      "quote": "but you're missing the bigger picture.",
+      "note": "忽略整体情况／大局；不是看漏了大一点的图片。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "It's simply a matter of [something]",
+      "start_cue": 573,
+      "end_cue": 573,
+      "start_time": "00:38:30,709",
+      "end_time": "00:38:34,661",
+      "quote": "It's simply a matter of professional courtesy.",
+      "note": "这只是……的问题／无非是……；界定争论的性质，simply 有弱化复杂性的作用。"
+    },
+    {
+      "group": "权益、钱款与立场",
+      "chunk": "ride on [someone else's] coattails",
+      "start_cue": 578,
+      "end_cue": 578,
+      "start_time": "00:38:51,931",
+      "end_time": "00:38:55,182",
+      "quote": "Why ride on someone else's coattails?",
+      "note": "借别人的成就、名声或地位获益；通常带负面评价，不是所有合作都算。"
+    },
+    {
+      "group": "计划、谈条件与临场应对",
+      "chunk": "have [something] dialed in",
+      "start_cue": 635,
+      "end_cue": 635,
+      "start_time": "00:42:09,811",
+      "end_time": "00:42:12,027",
+      "quote": "Slippin' Jimmy had it dialed in, all right?",
+      "note": "把某件事摸透、调到顺手状态；这里说对骗局驾轻就熟，迁移时可说已摸清流程，非只拨电话号码。"
+    },
+    {
+      "group": "计划、谈条件与临场应对",
+      "chunk": "How's [an offer] sound?",
+      "start_cue": 654,
+      "end_cue": 654,
+      "start_time": "00:42:56,691",
+      "end_time": "00:42:58,757",
+      "quote": "How's 2 grand sound?",
+      "note": "……怎么样？用金额或方案询问对方接受度；字幕保留口语形式，产出更稳妥写 How does [X] sound?。"
+    },
+    {
+      "group": "计划、谈条件与临场应对",
+      "chunk": "play it cool",
+      "start_cue": 706,
+      "end_cue": 706,
+      "start_time": "00:44:54,308",
+      "end_time": "00:44:55,608",
+      "quote": "I'm gonna play it cool,",
+      "note": "保持镇定／表现得若无其事；此处是安排表演，日常也可指别显得过度兴奋。"
+    },
+    {
+      "group": "计划、谈条件与临场应对",
+      "chunk": "I wouldn't think of [doing something]",
+      "start_cue": 727,
+      "end_cue": 727,
+      "start_time": "00:45:46,814",
+      "end_time": "00:45:49,348",
+      "quote": "I wouldn't think of, uh, taking your money for this.",
+      "note": "我绝不会考虑做……；此处是坚决表示不收这笔钱，不是我没想到。"
+    },
+    {
+      "group": "计划、谈条件与临场应对",
+      "chunk": "talk [something] over",
+      "start_cue": 729,
+      "end_cue": 729,
+      "start_time": "00:45:51,819",
+      "end_time": "00:45:55,187",
+      "quote": "Mm, yes, I'd... I'd be happy to talk it over.",
+      "note": "把某件事仔细商量一下；原文代词在中间：talk it over。"
+    },
+    {
+      "group": "计划、谈条件与临场应对",
+      "chunk": "run into [someone]",
+      "start_cue": 745,
+      "end_cue": 745,
+      "start_time": "00:47:38,506",
+      "end_time": "00:47:39,972",
+      "quote": "Funny to run into you, Betsy.",
+      "note": "偶然遇见某人；原场景是装作偶遇，不能因此把 run into 定义成故意接近。"
+    }
+  ]
+}

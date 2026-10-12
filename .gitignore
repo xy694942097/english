@@ -13,3 +13,13 @@ materials/*
 # 会话与临时输出
 sessions/web/
 /tmp-*
+
+# Generated reading corpora keep their previous local-only status after document relocation.
+/原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md
+/原文与参考资料/原文、教材与影视/四级真题合集.md
+/原文与参考资料/原文、教材与影视/六级真题合集.md
+/原文与参考资料/原文、教材与影视/考研真题合集.md
+/原文与参考资料/原文、教材与影视/考研精翻合集.md
+/原文与参考资料/原文、教材与影视/雅思真题合集.md
+/原文与参考资料/原文、教材与影视/雅思资料合集.md
+/原文与参考资料/原文、教材与影视/初中英语教材合集.md

@@ -1,0 +1,1026 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S01/Better.Call.Saul.S01E01.en.srt",
+  "sha256": "230f39d6a13e74c27078e652c96e5e9c5058f032aae17a7b9e702b4f34dca00c",
+  "subtitle_blocks_read": 818,
+  "selection_status": "Vocabulary candidates for learner feedback, not confirmed unknown or mastered.",
+  "method": "Read all 818 cues in three batches; collect vocabulary senses and short representative collocations, exclude standalone grammar/chunk frames, names, subtitle errors and very narrow background-TV terminology.",
+  "lexical_checks": [
+    {
+      "word": "minute",
+      "url": "https://dictionary.cambridge.org/dictionary/english/minute",
+      "sense": "adjective: extremely small"
+    },
+    {
+      "word": "peaked",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/peaked",
+      "sense": "slightly ill/pale"
+    },
+    {
+      "word": "shy",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/shy",
+      "sense": "less than"
+    },
+    {
+      "word": "pissant",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/pissant",
+      "sense": "offensive stupid/unpleasant"
+    },
+    {
+      "word": "wrinkle",
+      "url": "https://www.merriam-webster.com/dictionary/wrinkle",
+      "sense": "new method/innovation"
+    },
+    {
+      "word": "portion",
+      "url": "https://dictionary.cambridge.org/dictionary/english/portion",
+      "sense": "part/share; source refers to areas of a business"
+    },
+    {
+      "word": "reckoning / day of reckoning",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/day-of-reckoning",
+      "sense": "time when consequences are faced"
+    },
+    {
+      "word": "plasma",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/plasma",
+      "sense": "blood plasma"
+    },
+    {
+      "word": "convey",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/convey",
+      "sense": "express/communicate a thought, feeling, idea or wishes"
+    }
+  ],
+  "skipped": [
+    {
+      "word": "biff it",
+      "reason": "Context suggests fall/crash; checked Merriam-Webster biff entry gives a blow, does not directly establish this slang sense; defer instead of presenting unverified extension."
+    },
+    {
+      "word": "corpuscling / felonied",
+      "reason": "Playful nonce words, not standard forms to memorize."
+    },
+    {
+      "word": "heliogravure / tillage / trichinosis / Ginsu / Maui Wowie",
+      "reason": "Very narrow background vocabulary or names; exclude from first learner-calibration batch, not a blanket ban."
+    }
+  ],
+  "items": [
+    {
+      "word": "spur",
+      "meaning": "n. 马刺；骑马靴后用来催马的小装置（片头电视）",
+      "start_cue": 12,
+      "end_cue": 12,
+      "start_time": "00:02:59,732",
+      "end_time": "00:03:02,099",
+      "quote": "Look, he's even got the spurs on the back of his boots."
+    },
+    {
+      "word": "allegation",
+      "meaning": "n. 尚未证实的指控／说法；false allegations 不实指控",
+      "start_cue": 68,
+      "end_cue": 68,
+      "start_time": "00:05:14,735",
+      "end_time": "00:05:18,704",
+      "quote": "Don't let false allegations bully you into an unfair fight."
+    },
+    {
+      "word": "charge",
+      "meaning": "n. 刑事指控；此处不是费用／充电",
+      "start_cue": 70,
+      "end_cue": 70,
+      "start_time": "00:05:22,338",
+      "end_time": "00:05:24,171",
+      "quote": "No charge is too big for me."
+    },
+    {
+      "word": "dismiss a case",
+      "meaning": "v. 驳回／终止案件；dismiss 此处不是解雇",
+      "start_cue": 72,
+      "end_cue": 72,
+      "start_time": "00:05:29,429",
+      "end_time": "00:05:31,095",
+      "quote": "I'll get your case dismissed."
+    },
+    {
+      "word": "attorney-at-law",
+      "meaning": "n. 律师（正式称谓）；attorney 为美式常用",
+      "start_cue": 74,
+      "end_cue": 74,
+      "start_time": "00:05:34,600",
+      "end_time": "00:05:36,817",
+      "quote": "Because I'm Saul Goodman, attorney-at-law."
+    },
+    {
+      "word": "doomed",
+      "meaning": "adj. 注定失败／难逃厄运的；feel doomed 感到无望",
+      "start_cue": 78,
+      "end_cue": 78,
+      "start_time": "00:05:44,744",
+      "end_time": "00:05:46,494",
+      "quote": "Do you feel doomed?"
+    },
+    {
+      "word": "intimidate",
+      "meaning": "v. 恐吓／使人畏惧；不是 intimate 亲密的",
+      "start_cue": 79,
+      "end_cue": 79,
+      "start_time": "00:05:46,529",
+      "end_time": "00:05:48,913",
+      "quote": "Have opponents of freedom wrongly intimidated you?"
+    },
+    {
+      "word": "underdeveloped",
+      "meaning": "adj. 发育不充分／发展不足的；此处指少年大脑",
+      "start_cue": 104,
+      "end_cue": 105,
+      "start_time": "00:08:44,016",
+      "end_time": "00:08:48,485",
+      "quote": "you'll recall that you also had an underdeveloped 19-year-old brain.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "accountable",
+      "meaning": "adj. 应负责的；be held accountable for sth. 被要求为某事负责",
+      "start_cue": 106,
+      "end_cue": 108,
+      "start_time": "00:08:48,521",
+      "end_time": "00:08:58,746",
+      "quote": "Me, personally, I... It... If I were held accountable for some of the stupid decisions I made when I was 19... Oh, boy, wow.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "knucklehead",
+      "meaning": "n. 笨蛋／傻瓜（口语，贬义）",
+      "start_cue": 111,
+      "end_cue": 112,
+      "start_time": "00:09:05,421",
+      "end_time": "00:09:11,375",
+      "quote": "Now, these three knuckleheads... And I'm sorry, boys, but that's what you are..."
+    },
+    {
+      "word": "salient",
+      "meaning": "adj. 最重要／突出的；salient facts 关键事实",
+      "start_cue": 114,
+      "end_cue": 114,
+      "start_time": "00:09:14,430",
+      "end_time": "00:09:17,798",
+      "quote": "However, I would like you to remember two salient facts."
+    },
+    {
+      "word": "prosecution",
+      "meaning": "n. 控方／公诉方；不是保护 protection",
+      "start_cue": 117,
+      "end_cue": 118,
+      "start_time": "00:09:23,639",
+      "end_time": "00:09:30,644",
+      "quote": "Fact two... Now, the prosecution keeps bandying this term \"criminal trespass.\""
+    },
+    {
+      "word": "bandy",
+      "meaning": "v. 随口反复提某词／说法；原文 bandying this term",
+      "start_cue": 117,
+      "end_cue": 118,
+      "start_time": "00:09:23,639",
+      "end_time": "00:09:30,644",
+      "quote": "Fact two... Now, the prosecution keeps bandying this term \"criminal trespass.\""
+    },
+    {
+      "word": "trespass / criminal trespass",
+      "meaning": "n./v. 未经允许进入他人土地或建筑；criminal trespass 刑事非法侵入",
+      "start_cue": 117,
+      "end_cue": 123,
+      "start_time": "00:09:23,639",
+      "end_time": "00:09:45,576",
+      "quote": "Fact two... Now, the prosecution keeps bandying this term \"criminal trespass.\" Mr. Spinowzo, the property owner, admitted to us that he keeps most portions of his business open to the public both day and night. So, trespassing? That's a bit of a reach... Don't you think, Dave?"
+    },
+    {
+      "word": "portion",
+      "meaning": "n. 一部分／份额；此处指营业场所的区域，不是饭菜的一份",
+      "start_cue": 119,
+      "end_cue": 121,
+      "start_time": "00:09:30,646",
+      "end_time": "00:09:39,536",
+      "quote": "Mr. Spinowzo, the property owner, admitted to us that he keeps most portions of his business open to the public both day and night.",
+      "selection_status": "User reported unfamiliar"
+    },
+    {
+      "word": "momentary",
+      "meaning": "adj. 短暂的／一时的；momentary lapse 一时失误",
+      "start_cue": 129,
+      "end_cue": 131,
+      "start_time": "00:10:01,677",
+      "end_time": "00:10:08,599",
+      "quote": "Call me crazy, but I don't think they deserve to have their bright futures ruined by a momentary, minute,"
+    },
+    {
+      "word": "minute",
+      "meaning": "adj. 极小的／微不足道的；此处不是“分钟”",
+      "start_cue": 129,
+      "end_cue": 132,
+      "start_time": "00:10:01,677",
+      "end_time": "00:10:12,436",
+      "quote": "Call me crazy, but I don't think they deserve to have their bright futures ruined by a momentary, minute, never-to-be-repeated lapse of judgment."
+    },
+    {
+      "word": "lapse",
+      "meaning": "n. 一时失误；a lapse of judgment 一时判断失误",
+      "start_cue": 129,
+      "end_cue": 132,
+      "start_time": "00:10:01,677",
+      "end_time": "00:10:12,436",
+      "quote": "Call me crazy, but I don't think they deserve to have their bright futures ruined by a momentary, minute, never-to-be-repeated lapse of judgment.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "rolling",
+      "meaning": "正在录制／开机拍摄（口语）；Are you rolling? 开录了吗？",
+      "start_cue": 134,
+      "end_cue": 134,
+      "start_time": "00:11:14,583",
+      "end_time": "00:11:16,583",
+      "quote": "- Kenny, Kenny, are you rolling? - Yeah, yeah. Wait a minute."
+    },
+    {
+      "word": "dumbass",
+      "meaning": "n. 蠢货／傻逼（粗俗骂人话）",
+      "start_cue": 142,
+      "end_cue": 142,
+      "start_time": "00:11:31,901",
+      "end_time": "00:11:34,067",
+      "quote": "Dude, he's dead. They suck it all out, dumbass."
+    },
+    {
+      "word": "defendant",
+      "meaning": "n. 被告；与 defense 辩护不同",
+      "start_cue": 166,
+      "end_cue": 168,
+      "start_time": "00:12:14,276",
+      "end_time": "00:12:21,482",
+      "quote": "$700 per defense. No, no, no. \"Defendant.\" \"...dant.\" Three defendants, $2,100, which, by the way, bargain..."
+    },
+    {
+      "word": "try sb.",
+      "meaning": "v. 审理／审判某人；此处不是尝试",
+      "start_cue": 173,
+      "end_cue": 174,
+      "start_time": "00:12:29,658",
+      "end_time": "00:12:34,378",
+      "quote": "Look, didn't nobody tell you to try all three of them together. One trial... $700."
+    },
+    {
+      "word": "public defender / P.D.",
+      "meaning": "n. 公设辩护律师，为无力聘律师者提供刑事辩护（美国）",
+      "start_cue": 176,
+      "end_cue": 177,
+      "start_time": "00:12:35,998",
+      "end_time": "00:12:39,967",
+      "quote": "'Cause it'll be a cold day in hell before I do any more P.D. work for this shitty court!"
+    },
+    {
+      "word": "fumes",
+      "meaning": "n. 浓烈、可能有害的烟气／气味；此处油漆挥发气体",
+      "start_cue": 186,
+      "end_cue": 187,
+      "start_time": "00:13:23,045",
+      "end_time": "00:13:27,381",
+      "quote": "Uh, unfortunately, our offices are being painted and the fumes are quite horrid."
+    },
+    {
+      "word": "horrid",
+      "meaning": "adj. 很糟糕／令人不快的；此处指油漆气味",
+      "start_cue": 186,
+      "end_cue": 187,
+      "start_time": "00:13:23,045",
+      "end_time": "00:13:27,381",
+      "quote": "Uh, unfortunately, our offices are being painted and the fumes are quite horrid."
+    },
+    {
+      "word": "validate parking",
+      "meaning": "v. 认可停车凭证，使停车费可减免；此处不是证明人可信",
+      "start_cue": 192,
+      "end_cue": 196,
+      "start_time": "00:14:14,563",
+      "end_time": "00:14:26,406",
+      "quote": "Uh, I'm validated. See the stickers? Well, I see five stickers. You're one shy. It's $3. They gave me... Look. I'm validated for the entire day, okay?"
+    },
+    {
+      "word": "shy",
+      "meaning": "adj. 不足／差一点；one shy 少一个，不是害羞",
+      "start_cue": 194,
+      "end_cue": 194,
+      "start_time": "00:14:18,400",
+      "end_time": "00:14:20,567",
+      "quote": "You're one shy. It's $3."
+    },
+    {
+      "word": "swell",
+      "meaning": "adj. 很棒的（较老派口语）；此处带讽刺，不是肿胀",
+      "start_cue": 200,
+      "end_cue": 201,
+      "start_time": "00:14:33,449",
+      "end_time": "00:14:39,086",
+      "quote": "Well, gee, that's swell. And thank you for restoring my faith in the judicial system."
+    },
+    {
+      "word": "fuzzy",
+      "meaning": "adj. 模糊／不清楚的；此处指自己不太明白，不是毛茸茸",
+      "start_cue": 214,
+      "end_cue": 214,
+      "start_time": "00:15:18,661",
+      "end_time": "00:15:23,630",
+      "quote": "Well, I'm just fuzzy as to why you think he needs a lawyer.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "reproach",
+      "meaning": "n. 责备／指责；beyond reproach 无可指责",
+      "start_cue": 215,
+      "end_cue": 216,
+      "start_time": "00:15:23,666",
+      "end_time": "00:15:29,469",
+      "quote": "I mean, Craig, the way you run your office is beyond reproach. Yeah. Yeah. Beyond reproach.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "stickler",
+      "meaning": "n. 对规则／细节特别较真的人；a stickler for sth.",
+      "start_cue": 217,
+      "end_cue": 219,
+      "start_time": "00:15:29,505",
+      "end_time": "00:15:34,508",
+      "quote": "Yeah. I'm a stickler, you know, for... He is. He's a stickler with the money. - He's definitely a stickler. - Yeah. Yeah."
+    },
+    {
+      "word": "wrongdoing",
+      "meaning": "n. 不当／违法行为；innocent of wrongdoing 没有做错／违法",
+      "start_cue": 220,
+      "end_cue": 221,
+      "start_time": "00:15:34,510",
+      "end_time": "00:15:39,980",
+      "quote": "I mean, he's certainly not guilty of some... Is certainly not. He's innocent of any wrongdoing."
+    },
+    {
+      "word": "aggravation",
+      "meaning": "n. 烦人的麻烦／恼火；此处不是病情加重",
+      "start_cue": 223,
+      "end_cue": 224,
+      "start_time": "00:15:41,934",
+      "end_time": "00:15:48,105",
+      "quote": "And frankly, I don't go looking for guilty people to represent. I mean who needs that aggravation, right?"
+    },
+    {
+      "word": "treasury / treasurer",
+      "meaning": "n. 财政部门／公库；treasurer 财务主管，此处县财务官",
+      "start_cue": 227,
+      "end_cue": 234,
+      "start_time": "00:15:52,778",
+      "end_time": "00:16:08,458",
+      "quote": "And typically, when money goes missing from the county treasury... And the number here is, uh, $1.6 million... Well, that's an accounting... It's an accounting discrepancy. It's a discrepancy, absolutely. But typically, when that happens, the police look at the treasurer."
+    },
+    {
+      "word": "accounting discrepancy",
+      "meaning": "n. 账目不一致／差异；此处用来淡化资金失踪",
+      "start_cue": 230,
+      "end_cue": 232,
+      "start_time": "00:15:59,334",
+      "end_time": "00:16:03,036",
+      "quote": "Well, that's an accounting... It's an accounting discrepancy. It's a discrepancy, absolutely."
+    },
+    {
+      "word": "proactivity",
+      "meaning": "n. 主动采取行动、未雨绸缪；对应形容词 proactive",
+      "start_cue": 235,
+      "end_cue": 236,
+      "start_time": "00:16:08,510",
+      "end_time": "00:16:15,098",
+      "quote": "And since that person is, uh... I just think a little proactivity may be in order.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "letter of engagement",
+      "meaning": "n. 委托协议／聘用函；此处律师服务协议，不是订婚信",
+      "start_cue": 254,
+      "end_cue": 257,
+      "start_time": "00:16:58,065",
+      "end_time": "00:17:07,799",
+      "quote": "How would we proceed - if we decided to, uh... - Oh, well, this is a... Letter of engagement. It's very simple, straightforward."
+    },
+    {
+      "word": "classy",
+      "meaning": "adj. 有档次／有品位的（口语）",
+      "start_cue": 280,
+      "end_cue": 282,
+      "start_time": "00:18:37,140",
+      "end_time": "00:18:45,763",
+      "quote": "Okay, and the keyword here is \"classy,\" all right? Super classy... Use only flowers that look expensive, but, you know, aren't."
+    },
+    {
+      "word": "cop",
+      "meaning": "n. 警察（口语）；call the cops 报警",
+      "start_cue": 309,
+      "end_cue": 310,
+      "start_time": "00:19:47,699",
+      "end_time": "00:19:50,745",
+      "quote": "Where's the... Somebody call the cops! Don't call... don't call the police. Don't call the police."
+    },
+    {
+      "word": "buck / grand",
+      "meaning": "n. buck 美元（口语）；grand 一千元，后文 8 grand = 8,000 美元",
+      "start_cue": 321,
+      "end_cue": 322,
+      "start_time": "00:20:22,946",
+      "end_time": "00:20:28,750",
+      "quote": "$500. 500 bucks?"
+    },
+    {
+      "word": "hooker",
+      "meaning": "n. 性工作者（口语，带贬低意味）",
+      "start_cue": 332,
+      "end_cue": 333,
+      "start_time": "00:20:47,721",
+      "end_time": "00:20:53,141",
+      "quote": "The only way that entire car is worth 500 bucks is if there's a $300 hooker sitting in it."
+    },
+    {
+      "word": "windshield",
+      "meaning": "n. 汽车挡风玻璃（美式；英式 windscreen）",
+      "start_cue": 334,
+      "end_cue": 334,
+      "start_time": "00:20:53,193",
+      "end_time": "00:20:57,695",
+      "quote": "Now, let's talk about what you owe me for the windshield."
+    },
+    {
+      "word": "do",
+      "meaning": "n. 发型，hairdo 的简写；Nice do. 发型不错",
+      "start_cue": 349,
+      "end_cue": 349,
+      "start_time": "00:24:13,602",
+      "end_time": "00:24:17,020",
+      "quote": "Brenda, looking good. Nice do."
+    },
+    {
+      "word": "well-groomed",
+      "meaning": "adj. 仪表整洁／打扮得体的",
+      "start_cue": 356,
+      "end_cue": 356,
+      "start_time": "00:24:29,784",
+      "end_time": "00:24:31,417",
+      "quote": "Well-groomed, as always."
+    },
+    {
+      "word": "meddle",
+      "meaning": "v. 干涉／插手别人的事，常含不受欢迎之意",
+      "start_cue": 359,
+      "end_cue": 360,
+      "start_time": "00:24:47,969",
+      "end_time": "00:24:56,192",
+      "quote": "You have meddled with the primal forces of nature, Mr. Hamlin, and I won't have it!"
+    },
+    {
+      "word": "measly",
+      "meaning": "adj. 少得可怜／寒酸的（贬义）",
+      "start_cue": 370,
+      "end_cue": 370,
+      "start_time": "00:25:24,839",
+      "end_time": "00:25:28,057",
+      "quote": "A measly 26 grand?"
+    },
+    {
+      "word": "single-handedly",
+      "meaning": "adv. 独自地／靠一人之力",
+      "start_cue": 381,
+      "end_cue": 382,
+      "start_time": "00:25:51,176",
+      "end_time": "00:25:57,347",
+      "quote": "What Chuck did for this firm... And damn near single-handedly... 1/3 of this place belongs to him."
+    },
+    {
+      "word": "thingumajig",
+      "meaning": "n. 那个东西／叫不上名字的玩意儿（口语；原文复数）",
+      "start_cue": 385,
+      "end_cue": 386,
+      "start_time": "00:26:02,237",
+      "end_time": "00:26:09,025",
+      "quote": "You got five of these light thingumajigs? Uh, mm, 1, 2/3 are Chuck's."
+    },
+    {
+      "word": "Danish",
+      "meaning": "n. 丹麦酥皮糕点；此处不是丹麦人／丹麦语",
+      "start_cue": 387,
+      "end_cue": 390,
+      "start_time": "00:26:09,077",
+      "end_time": "00:26:18,034",
+      "quote": "Yeah. Six... How many danishes... Six danishes? You can have all the Danish you want, Jimmy. No, no. They're Chuck's danishes, and Chuck isn't greedy, so h-he'll just take two..."
+    },
+    {
+      "word": "penny-ante",
+      "meaning": "adj. 小额的／微不足道的（美式，贬义）",
+      "start_cue": 394,
+      "end_cue": 395,
+      "start_time": "00:26:25,961",
+      "end_time": "00:26:30,763",
+      "quote": "Until then, no more penny-ante checks designed to make it look like Chuck still works here."
+    },
+    {
+      "word": "convey",
+      "meaning": "v. 传达想法／意愿；convey wishes 传达意愿",
+      "start_cue": 398,
+      "end_cue": 398,
+      "start_time": "00:26:35,971",
+      "end_time": "00:26:39,272",
+      "quote": "So, these are Chuck's own wishes that you're conveying?",
+      "selection_status": "User reported unfamiliar"
+    },
+    {
+      "word": "payroll",
+      "meaning": "n. 工资发放体系／薪资名册；on payroll 仍由单位发工资",
+      "start_cue": 408,
+      "end_cue": 408,
+      "start_time": "00:27:02,330",
+      "end_time": "00:27:03,963",
+      "quote": "His secretary's still on payroll."
+    },
+    {
+      "word": "sabbatical",
+      "meaning": "n. 较长的休假／休职期，常用于研修；不等于辞职",
+      "start_cue": 409,
+      "end_cue": 410,
+      "start_time": "00:27:03,999",
+      "end_time": "00:27:08,334",
+      "quote": "If Chuck can call this an extended sabbatical, then so can we... He's that important to us."
+    },
+    {
+      "word": "relatable",
+      "meaning": "adj. 容易让人产生共鸣／亲近感的；此处赞美带讽刺",
+      "start_cue": 413,
+      "end_cue": 413,
+      "start_time": "00:27:15,844",
+      "end_time": "00:27:18,094",
+      "quote": "You're so down-to-earth and relatable."
+    },
+    {
+      "word": "atone",
+      "meaning": "v. 赎罪／弥补过错，常用 atone for sth.",
+      "start_cue": 414,
+      "end_cue": 414,
+      "start_time": "00:27:19,848",
+      "end_time": "00:27:24,684",
+      "quote": "And you... Will... Atone!"
+    },
+    {
+      "word": "filings",
+      "meaning": "n. 正式提交的文件；此处法院／案件相关文书",
+      "start_cue": 418,
+      "end_cue": 419,
+      "start_time": "00:27:43,505",
+      "end_time": "00:27:48,675",
+      "quote": "I almost forgot... This month's filings. You could save me the postage."
+    },
+    {
+      "word": "ground yourself",
+      "meaning": "v. 让身体接地、释放静电；不是“禁足自己”",
+      "start_cue": 437,
+      "end_cue": 438,
+      "start_time": "00:31:20,349",
+      "end_time": "00:31:25,032",
+      "quote": "Ground yourself? Yes, I grounded myself."
+    },
+    {
+      "word": "legal practice",
+      "meaning": "n. 律师业务／律师事务所经营；不是法律练习题",
+      "start_cue": 449,
+      "end_cue": 449,
+      "start_time": "00:32:50,570",
+      "end_time": "00:32:52,987",
+      "quote": "You do know I'm trying to start a legal practice, right?"
+    },
+    {
+      "word": "reimburse",
+      "meaning": "v. 偿还某人垫付的费用；通常 reimburse sb. for sth.",
+      "start_cue": 459,
+      "end_cue": 459,
+      "start_time": "00:33:12,258",
+      "end_time": "00:33:14,425",
+      "quote": "Go ahead... Reimburse yourself."
+    },
+    {
+      "word": "peaked",
+      "meaning": "adj. 脸色不好、看着不舒服的（美式口语）",
+      "start_cue": 464,
+      "end_cue": 464,
+      "start_time": "00:33:28,941",
+      "end_time": "00:33:30,524",
+      "quote": "You look peaked."
+    },
+    {
+      "word": "quicksand",
+      "meaning": "n. 流沙；此处比喻论证基础不稳",
+      "start_cue": 480,
+      "end_cue": 481,
+      "start_time": "00:34:09,148",
+      "end_time": "00:34:12,983",
+      "quote": "You proceed from false principles. Your argument is built on quicksand."
+    },
+    {
+      "word": "liquidate a firm",
+      "meaning": "v. 清算公司，把资产变现并处理债务／权益",
+      "start_cue": 485,
+      "end_cue": 486,
+      "start_time": "00:34:22,161",
+      "end_time": "00:34:26,914",
+      "quote": "In order to pay out my share, suppose my partners are forced to liquidate the firm."
+    },
+    {
+      "word": "crony",
+      "meaning": "n. 密友／同伙；常暗含裙带关系或偏袒（贬义）",
+      "start_cue": 491,
+      "end_cue": 492,
+      "start_time": "00:34:35,591",
+      "end_time": "00:34:40,678",
+      "quote": "What happens to your cronies in the mailroom, the assistants, the paralegals, the janitorial staff?"
+    },
+    {
+      "word": "mailroom",
+      "meaning": "n. 机构内收发信件、包裹的收发室",
+      "start_cue": 491,
+      "end_cue": 492,
+      "start_time": "00:34:35,591",
+      "end_time": "00:34:40,678",
+      "quote": "What happens to your cronies in the mailroom, the assistants, the paralegals, the janitorial staff?"
+    },
+    {
+      "word": "paralegal",
+      "meaning": "n. 律师助理，协助法律事务但不是执业律师",
+      "start_cue": 491,
+      "end_cue": 492,
+      "start_time": "00:34:35,591",
+      "end_time": "00:34:40,678",
+      "quote": "What happens to your cronies in the mailroom, the assistants, the paralegals, the janitorial staff?"
+    },
+    {
+      "word": "janitorial staff",
+      "meaning": "n. 保洁／建筑维护人员；janitor 管理、清洁楼宇的人",
+      "start_cue": 491,
+      "end_cue": 492,
+      "start_time": "00:34:35,591",
+      "end_time": "00:34:40,678",
+      "quote": "What happens to your cronies in the mailroom, the assistants, the paralegals, the janitorial staff?"
+    },
+    {
+      "word": "pissant",
+      "meaning": "adj./n. 蠢得可鄙／令人讨厌的（粗俗侮辱）",
+      "start_cue": 502,
+      "end_cue": 503,
+      "start_time": "00:35:01,701",
+      "end_time": "00:35:07,388",
+      "quote": "For the third time with these bull-crap contract counsel... - \"Bull crap\"? - Bull-crap, pissant P.D."
+    },
+    {
+      "word": "arraignment",
+      "meaning": "n. 正式宣读指控并要求被告答辩的庭审程序（美国法律）",
+      "start_cue": 506,
+      "end_cue": 507,
+      "start_time": "00:35:12,628",
+      "end_time": "00:35:18,432",
+      "quote": "I just had a case, Chuck, with three clients... Uh, arraignments, voir dire, jury trial..."
+    },
+    {
+      "word": "voir dire",
+      "meaning": "n. 此处：陪审员遴选询问；法语来源法律术语",
+      "start_cue": 507,
+      "end_cue": 507,
+      "start_time": "00:35:16,048",
+      "end_time": "00:35:18,432",
+      "quote": "Uh, arraignments, voir dire, jury trial..."
+    },
+    {
+      "word": "plasma",
+      "meaning": "n. 血浆；sell plasma 卖血浆，不是等离子体",
+      "start_cue": 510,
+      "end_cue": 510,
+      "start_time": "00:35:22,521",
+      "end_time": "00:35:25,472",
+      "quote": "Yeah, I might as well head down to skid row and sell plasma.",
+      "selection_status": "User reported unfamiliar"
+    },
+    {
+      "word": "reckoning / day of reckoning",
+      "meaning": "n. 清算／面对后果；day of reckoning 不得不付出代价、面对现实的时刻",
+      "start_cue": 525,
+      "end_cue": 526,
+      "start_time": "00:36:00,726",
+      "end_time": "00:36:04,928",
+      "quote": "I've been doing my damnedest, but the day of reckoning is here.",
+      "selection_status": "User reported unfamiliar"
+    },
+    {
+      "word": "stipend",
+      "meaning": "n. 定期津贴／补助，不一定是工资",
+      "start_cue": 535,
+      "end_cue": 536,
+      "start_time": "00:36:26,118",
+      "end_time": "00:36:31,538",
+      "quote": "A stipend... There's gonna be one every week. $857 from Hamlin, Hamlin, McGill?"
+    },
+    {
+      "word": "insistent",
+      "meaning": "adj. 坚持不懈要求某事的；此处指坚持让对方接受钱",
+      "start_cue": 538,
+      "end_cue": 539,
+      "start_time": "00:36:33,926",
+      "end_time": "00:36:38,679",
+      "quote": "I didn't want to take anything, but Howard was very insistent. And I'm gonna pay you back, too.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "recluse",
+      "meaning": "n. 离群索居／不愿见人的人",
+      "start_cue": 541,
+      "end_cue": 541,
+      "start_time": "00:36:40,716",
+      "end_time": "00:36:43,100",
+      "quote": "It's not like I'm a recluse."
+    },
+    {
+      "word": "sarcasm",
+      "meaning": "n. 讽刺／挖苦；minus the sarcasm 去掉讽刺的部分",
+      "start_cue": 548,
+      "end_cue": 548,
+      "start_time": "00:36:55,481",
+      "end_time": "00:36:57,781",
+      "quote": "That's correct, minus the sarcasm."
+    },
+    {
+      "word": "chump",
+      "meaning": "n. 易受骗、被人利用的傻瓜（口语）",
+      "start_cue": 549,
+      "end_cue": 549,
+      "start_time": "00:36:57,817",
+      "end_time": "00:36:59,450",
+      "quote": "Hamlin's making you a chump!"
+    },
+    {
+      "word": "say-so",
+      "meaning": "n. 某人一句话／指示；on sb.'s say-so 仅凭某人的话",
+      "start_cue": 568,
+      "end_cue": 569,
+      "start_time": "00:38:15,811",
+      "end_time": "00:38:22,399",
+      "quote": "So I'm not supposed to use my name o... On Hamlin's say-so? What's he gonna do... Sue me?"
+    },
+    {
+      "word": "adversarial",
+      "meaning": "adj. 对抗性的／双方相互敌对的",
+      "start_cue": 570,
+      "end_cue": 570,
+      "start_time": "00:38:22,401",
+      "end_time": "00:38:25,068",
+      "quote": "Nobody wants to create an adversarial situation."
+    },
+    {
+      "word": "matchbook",
+      "meaning": "n. 纸板夹装的火柴；此处印有律师业务信息",
+      "start_cue": 571,
+      "end_cue": 572,
+      "start_time": "00:38:25,070",
+      "end_time": "00:38:29,289",
+      "quote": "I'm sure Howard would gladly pay the cost of new matchbooks and so on."
+    },
+    {
+      "word": "courtesy",
+      "meaning": "n. 礼貌／礼节；professional courtesy 同业间的礼遇",
+      "start_cue": 573,
+      "end_cue": 573,
+      "start_time": "00:38:30,709",
+      "end_time": "00:38:34,661",
+      "quote": "It's simply a matter of professional courtesy."
+    },
+    {
+      "word": "stylistic",
+      "meaning": "adj. 风格上的；a stylistic choice 风格选择，此处带自我开脱",
+      "start_cue": 592,
+      "end_cue": 593,
+      "start_time": "00:39:52,507",
+      "end_time": "00:39:56,726",
+      "quote": "That sucked. We can call that a stylistic choice, I guess, - if you want to... - Hey, fellas.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "eerie",
+      "meaning": "adj. 怪异、令人不安的／诡异的",
+      "start_cue": 596,
+      "end_cue": 596,
+      "start_time": "00:40:01,316",
+      "end_time": "00:40:05,418",
+      "quote": "I know... Eerie, right."
+    },
+    {
+      "word": "murder",
+      "meaning": "n. 此处：极难熬的事（夸张口语），不是实际谋杀",
+      "start_cue": 613,
+      "end_cue": 613,
+      "start_time": "00:41:09,050",
+      "end_time": "00:41:11,834",
+      "quote": "Winters in Cicero are murder."
+    },
+    {
+      "word": "snot",
+      "meaning": "n. 鼻涕（随意口语）",
+      "start_cue": 616,
+      "end_cue": 616,
+      "start_time": "00:41:16,340",
+      "end_time": "00:41:20,159",
+      "quote": "I'm talking cold that'll freeze the snot right in your nose."
+    },
+    {
+      "word": "patch",
+      "meaning": "n. 一小片区域；a patch of ice 一小片冰，不是补丁",
+      "start_cue": 627,
+      "end_cue": 628,
+      "start_time": "00:41:48,623",
+      "end_time": "00:41:53,592",
+      "quote": "Soon as it was cold enough, he'd find a nice, smooth patch of ice."
+    },
+    {
+      "word": "clear",
+      "meaning": "v. 赚到／净得多少钱；clear 6, 8 grand 赚六千、八千",
+      "start_cue": 635,
+      "end_cue": 636,
+      "start_time": "00:42:09,811",
+      "end_time": "00:42:15,448",
+      "quote": "Slippin' Jimmy had it dialed in, all right? One good fall... He'd clear 6, 8 grand."
+    },
+    {
+      "word": "wrinkle",
+      "meaning": "n. 新花样／新点子；此处不是皱纹",
+      "start_cue": 642,
+      "end_cue": 643,
+      "start_time": "00:42:24,826",
+      "end_time": "00:42:28,043",
+      "quote": "The skateboard's a nice wrinkle... That makes it a year-round gig."
+    },
+    {
+      "word": "gig",
+      "meaning": "n. 一份活儿／赚钱的差事（口语；也可指演出）",
+      "start_cue": 642,
+      "end_cue": 643,
+      "start_time": "00:42:24,826",
+      "end_time": "00:42:28,043",
+      "quote": "The skateboard's a nice wrinkle... That makes it a year-round gig."
+    },
+    {
+      "word": "discreet",
+      "meaning": "adj. 不引人注意／低调的；此处拿夸张比喻反讽",
+      "start_cue": 658,
+      "end_cue": 659,
+      "start_time": "00:43:06,300",
+      "end_time": "00:43:11,871",
+      "quote": "Nice boat. Yeah, discreet, like a stripper pole in a mosque."
+    },
+    {
+      "word": "mosque",
+      "meaning": "n. 清真寺（伊斯兰教礼拜场所）",
+      "start_cue": 658,
+      "end_cue": 659,
+      "start_time": "00:43:06,300",
+      "end_time": "00:43:11,871",
+      "quote": "Nice boat. Yeah, discreet, like a stripper pole in a mosque.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "stripper pole",
+      "meaning": "n. 脱衣舞表演用的钢管（成人娱乐场所用语）",
+      "start_cue": 659,
+      "end_cue": 659,
+      "start_time": "00:43:08,703",
+      "end_time": "00:43:11,871",
+      "quote": "Yeah, discreet, like a stripper pole in a mosque."
+    },
+    {
+      "word": "station wagon",
+      "meaning": "n. 旅行车，后部带较大行李空间的轿车（美式）",
+      "start_cue": 662,
+      "end_cue": 663,
+      "start_time": "00:43:15,877",
+      "end_time": "00:43:21,113",
+      "quote": "I don't know. A station wagon? It's a Mercury, a 1988 Mercury Sable wagon."
+    },
+    {
+      "word": "license plate",
+      "meaning": "n. 汽车牌照／车牌（美式）",
+      "start_cue": 669,
+      "end_cue": 670,
+      "start_time": "00:43:33,394",
+      "end_time": "00:43:36,362",
+      "quote": "How does the license plate start? - 4. - 4."
+    },
+    {
+      "word": "rattled",
+      "meaning": "adj. 被吓到／慌乱、不安的；不是发出咔嗒声",
+      "start_cue": 690,
+      "end_cue": 692,
+      "start_time": "00:44:19,106",
+      "end_time": "00:44:25,527",
+      "quote": "Now, once you've got her good and rattled, then you call for an ambulance, but really, you're calling for me."
+    },
+    {
+      "word": "weed",
+      "meaning": "n. 大麻（俚语）；此处 weed dealer，不是杂草",
+      "start_cue": 693,
+      "end_cue": 694,
+      "start_time": "00:44:25,580",
+      "end_time": "00:44:28,581",
+      "quote": "I'm number one on your speed dial, right next to your weed dealer."
+    },
+    {
+      "word": "hotfoot it",
+      "meaning": "v. 急忙赶去（口语）",
+      "start_cue": 695,
+      "end_cue": 696,
+      "start_time": "00:44:28,616",
+      "end_time": "00:44:32,618",
+      "quote": "You call me. I hotfoot it over here. I just \"happen\" to be driving by."
+    },
+    {
+      "word": "stomp",
+      "meaning": "v. 跺脚／重重踩踏；此处演戏时跺脚制造气势",
+      "start_cue": 705,
+      "end_cue": 705,
+      "start_time": "00:44:51,806",
+      "end_time": "00:44:54,306",
+      "quote": "Yell. Stomp. Call me a douche bag.",
+      "selection_status": "Second-pass candidate, pending learner feedback"
+    },
+    {
+      "word": "razzmatazz",
+      "meaning": "n. 花哨、热闹的表演／噱头；此处是演戏时的嘴上招数",
+      "start_cue": 706,
+      "end_cue": 707,
+      "start_time": "00:44:54,308",
+      "end_time": "00:44:57,359",
+      "quote": "I'm gonna play it cool, give you back some of the razzmatazz."
+    },
+    {
+      "word": "dinghy",
+      "meaning": "n. 小艇；原句改写“水涨船高”的说法",
+      "start_cue": 715,
+      "end_cue": 715,
+      "start_time": "00:45:09,907",
+      "end_time": "00:45:12,074",
+      "quote": "I'm the rising tide that raises all dinghies."
+    },
+    {
+      "word": "embezzlement",
+      "meaning": "n. 侵吞／挪用受托管理的钱财；不同于泛指偷窃",
+      "start_cue": 728,
+      "end_cue": 729,
+      "start_time": "00:45:49,350",
+      "end_time": "00:45:55,187",
+      "quote": "The embezzlement case? Mm, yes, I'd... I'd be happy to talk it over."
+    },
+    {
+      "word": "textbook",
+      "meaning": "adj. 标准的／典型的；It was textbook. 完全按套路来的",
+      "start_cue": 752,
+      "end_cue": 753,
+      "start_time": "00:48:08,919",
+      "end_time": "00:48:12,538",
+      "quote": "It was textbook, man. We were diamonds, but then she just took off."
+    },
+    {
+      "word": "bail",
+      "meaning": "v. 突然离开／溜走（口语）；此处不是支付保释金",
+      "start_cue": 754,
+      "end_cue": 755,
+      "start_time": "00:48:12,590",
+      "end_time": "00:48:16,959",
+      "quote": "Okay, wait. She... She hit-and-run? That's what I'm saying. She bailed and wailed."
+    },
+    {
+      "word": "felony",
+      "meaning": "n. 重罪（美国法律分类）；不同于 misdemeanor 轻罪",
+      "start_cue": 772,
+      "end_cue": 773,
+      "start_time": "00:48:46,457",
+      "end_time": "00:48:51,076",
+      "quote": "You fell into the honeypot, kid. You get it? Hit-and-run is a felony."
+    },
+    {
+      "word": "mediate",
+      "meaning": "v. 调解，帮助双方解决争端",
+      "start_cue": 813,
+      "end_cue": 814,
+      "start_time": "00:51:02,960",
+      "end_time": "00:51:06,712",
+      "quote": "I can... I can mediate. It's... I represent their parents, so..."
+    }
+  ],
+  "learner_feedback": [
+    {
+      "date": "2026-10-11",
+      "feedback": "User reviewed initial 90 items and said all were not familiar and worth recording; explicitly added portion, reckoning, plasma, convey. This is unfamiliarity/usefulness evidence, not mastery."
+    }
+  ]
+}

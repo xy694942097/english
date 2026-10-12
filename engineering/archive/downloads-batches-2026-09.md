@@ -1,6 +1,6 @@
 # 下载批次记录归档（2026-09-14 ~ 09-16）
 
-> 本页是历史批次的事实记录（来源明细、许可、边界说明），归档自 references/README.md（2026-09-16 收敛规则时迁出）。现行规则见 materials/HANDBOOK.md；资料清单见 materials/README.md；流水账见 book/CHANGELOG.md。
+> 本页是历史批次的事实记录（来源明细、许可、边界说明），归档自 references/README.md（2026-09-16 收敛规则时迁出）。现行规则见 materials/HANDBOOK.md；资料清单见 materials/README.md；流水账见 engineering/agents/book-editorial/CHANGELOG.md。
 
 ## 真题语料（2026-09-16）
 

@@ -11,15 +11,15 @@ registry = []
 
 # 1) 已编章节：## N. 框架名
 CHAPTERS = {
-    "book/08-frames/01-degree-comparison.md": ("中学", "01"),
-    "book/08-frames/02-emphasis-focus.md": ("中学", "02"),
-    "book/08-frames/03-concession-contrast.md": ("中学", "03"),
-    "book/08-frames/04-stance-commentary.md": ("中学", "04"),
-    "book/08-frames/05-narrative-logic.md": ("中学", "05"),
-    "book/08-frames/06-condition-subjunctive.md": ("中学", "06"),
-    "book/08-frames/07-school-recall.md": ("中学", "07"),
-    "book/08-frames/09-exam-recall.md": ("四级六级考研", "09"),
-    "book/08-frames/12-readthrough-recall.md": ("中学", "12"),
+    "学习章节/句式与结构/家族A：程度与比较.md": ("中学", "01"),
+    "学习章节/句式与结构/家族B：强调与聚焦.md": ("中学", "02"),
+    "学习章节/句式与结构/家族C：让步与对照.md": ("中学", "03"),
+    "学习章节/句式与结构/家族D：评述与立场（Stance）.md": ("中学", "04"),
+    "学习章节/句式与结构/家族E：叙事与逻辑推进.md": ("中学", "05"),
+    "学习章节/句式与结构/家族F：条件与虚拟（书面高频）.md": ("中学", "06"),
+    "原文与参考资料/表达与语法查阅/教材回收：初高中句式骨架.md": ("中学", "07"),
+    "学习章节/句式与结构/真题回收：四六级考研句式骨架.md": ("四级六级考研", "09"),
+    "原文与参考资料/表达与语法查阅/教材回收：通读篇.md": ("中学", "12"),
 }
 for path, (lv, ch) in CHAPTERS.items():
     for line in (ROOT / path).read_text(encoding="utf-8").splitlines():

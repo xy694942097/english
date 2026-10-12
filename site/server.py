@@ -25,11 +25,16 @@ def read_nav(root=ROOT):
     return json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'groups': []}
 
 
+def read_aliases(root=ROOT):
+    path = root / 'engineering/design/document-paths-2026-10-11.json'
+    return json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+
+
 def catalog(root=ROOT):
     """只收录 nav.json 登记的文档；标题取自正文一级标题。"""
     nav = read_nav(root)
     items = []
-    for group in nav['groups']:
+    for group in nav['groups'] + nav.get('maintenance', []):
         def walk(items_list, title):
             for it in items_list:
                 if isinstance(it, str):
@@ -92,7 +97,7 @@ class Handler(BaseHTTPRequestHandler):
         url = urlsplit(self.path)
         try:
             if url.path == '/api/catalog':
-                return self.reply({'items': catalog(), 'nav': read_nav()})
+                return self.reply({'items': catalog(), 'nav': read_nav(), 'aliases': read_aliases()})
             if url.path.startswith('/files/'):
                 p = resolve_inside_root(url.path[len('/files/'):])
                 if p is None or not p.is_file():

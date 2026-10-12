@@ -2,46 +2,48 @@
 
 适用范围仅为 english。用户当前明确要求优先。
 
-## 目录体系（2026-09-23 更新：站点为纯 markdown 查看器）
+## 目录体系（2026-10-11：前端与文件系统一致）
 
-- **nav.json**：站点侧边栏目录的唯一登记处。显式列出要展示的文档（组名 + 路径，支持组内子标签），标题自动取自文档一级标题；未登记的文件不进站点（详见 site/README.md）。
-- **engineering/**：工程文档总目录，不进站点导航。内含子目录 agents/（agent 文档）、design/（设计方案）、methodology/（调研方法）、archive/（已完成或被取代的历史文档，只进不出，不删除）。新增工程文档放对应子目录。整理原则：文档失去现实效力（计划全部完成、被新文档取代、纯历史记录）就移入 archive/，保留路径与引用。
-- **AGENTS.md**：根目录唯一保留的 agent 文档；被它引用的其它 agent 文档放 engineering/agents/（目录职责见其 README.md）。
-- **progress/**：学习进度与能力诊断（非工程建设进度），保持根目录。
-- **book/**：教材，按主题目录保存 Markdown。书入口 README 与工程配套（TEMPLATE/BACKLOG/CHANGELOG）不进导航。
-- **engineering/skills/**：既有英语内容生产 skill 的源文件（frame-miner 拆句式骨架、english-content-forge 生成句集/指南）；中译英训练 `translation-coach` 的源文件在 `.agents/skills/translation-coach/`，此处保留指向它的站点阅读链接。三个 Skill 的 SKILL.md 与中译英计划已登记进 nav.json「内容生产 Skills」组；新增句集/完全指南类内容按 english-content-forge 流程（数据 jsonl → 渲染脚本出视图）执行。
-- **references/**：教材构建与归一脚本（build_chapter_previews / build_frames_collection / normalize_materials 等）及导入报告。挖掘中间数据（批次 json、句池、裁决存档）2026-09-24 已移入 engineering/archive/，脚本与报告留在原处。
-- **references/chunks/**：可在站点查看的 Chunks 候选收集箱与固定格式。它是采集区，不是正式 Book 或学习记录。
-- **vocabulary/**：历史讲义（1 篇旧课，已在 nav.json「学习档案→历史课堂」登记）。
-- **materials/**：下载资料总库（词表/词典/真题/教材/语料），只有 readable/ 合集在 nav.json 登记。每个文件登记 materials/downloads-manifest.json（SHA-256+URL+许可）。下载、选源与归一化规则唯一出处是 materials/HANDBOOK.md——照手册执行，不需重新决策；资料清单与批次记录见 materials/README.md。
+- **学习章节/**：正式学习文档；子目录“词义与搭配／句式与结构／口语表达”与前端子标签一致。
+- **表达练习/**：表达讲解和情境任务。
+- **Chunks 收集/**：候选收集箱及按作品整理的词块、词汇；默认录入路径见下文。
+- **原文与参考资料/**：可读原文、教材、影视资料入口与表达语法查阅；同名前端子标签对应同名子目录，审校状态写在文档中。
+- **我的学习/**：背景、方法、诊断与当前状态。
+- **编纂与维护/**：格式、来源操作、编辑清单、TED 维护和 Skills 阅读文档；前端作为独立折叠入口。
+- **nav.json**：只登记展示顺序与可见性，分组／子标签必须与实际父目录同名，不跨目录重新分类。
+- **materials/**：后台下载数据与来源 manifest，原文数据的目录、许可、哈希规则见 materials/HANDBOOK.md；面向读者的阅读文档放“原文与参考资料/”。
+- **references/**、**engineering/**、**site/**、**progress/**：生成工具、工程记录、查看器和后台练习证据；不映射成学习顶层目录。旧版未展示教材留在 engineering/archive/legacy-book，教材编纂说明在 engineering/agents/book-editorial。
+- **.agents/skills/translation-coach/**：中译英训练的实际 Skill 源包；“编纂与维护”下对应三篇为可读副本，执行时以源包为准。
+
+旧路径到新路径的映射保存在 engineering/design/document-paths-2026-10-11.json，用于旧网页深链兼容与生成工具定位；它不是第二套分类。后续新增文档直接使用新目录。
 
 ## 恢复
 
-先读 background/LEARNER.md、background/METHOD.md、background/CURRENT.md，再读当前章节。不要重复背景问卷，不从旧考试分数推断当前等级。
+先读 我的学习/学习者背景.md、我的学习/学习方法与教学思想.md、我的学习/当前学习状态.md，再读当前章节。不要重复背景问卷，不从旧考试分数推断当前等级。
 
 ## 教学
 
-遵守 background/METHOD.md。用户当前在搭建系统时，不擅自推进测验。听力暂缓，长难句是候选章节而非已证实短板。保留用户纠正，区分事实、假设、已讲解与掌握。
+遵守 我的学习/学习方法与教学思想.md。用户当前在搭建系统时，不擅自推进测验。听力暂缓，长难句是候选章节而非已证实短板。保留用户纠正，区分事实、假设、已讲解与掌握。
 
-用户要求中译英练习、中文与自然英文素材采集、表达课程计划或翻译评改时，使用 `engineering/skills/translation-coach/SKILL.md`；整句表达与交际意图优先，单词、词组和句式骨架按卡点嵌入。计划与来源规则见该 Skill 内的 `PLAN.md` 和 `references/sources-and-coverage.md`。
+用户要求中译英练习、中文与自然英文素材采集、表达课程计划或翻译评改时，使用 `.agents/skills/translation-coach/SKILL.md`；整句表达与交际意图优先，单词、词组和句式骨架按卡点嵌入。计划与来源规则见该 Skill 内的 `PLAN.md` 和 `references/sources-and-coverage.md`。
 
-用户提出的 chunks 上位概念与快速识别目标见 `engineering/methodology/chunks-as-learning-units.md`。采集候选是第一步，可以广收并暂记待核；编入正式教材或作为正确用法教学时才应用更严格的查证与迁移门槛。记录来源和语域，不把搜集数量当理解速度或掌握证据。
+用户提出的 chunks 上位概念与快速识别目标见 `我的学习/把 chunks 作为快速理解与表达的学习单位.md`。采集候选是第一步，可以广收并暂记待核；编入正式教材或作为正确用法教学时才应用更严格的查证与迁移门槛。记录来源和语域，不把搜集数量当理解速度或掌握证据。
 
-在本项目中用户说“帮我录入”且没有指定其他去处时，按 `references/chunks/FORMAT.md` 将其给出的单项、多行或文本候选录入 `references/chunks/INBOX.md` 的相应分类表格，每项一行、固定三列。只在收集箱内查重，Book 或其他文章里已有讲解不构成跳过理由；收集箱内同义、同功能且无独立学习价值的近重复跳过，不因片段更长就重收。先保留原句与来源；缺失例句写“待补例句”，查重时不覆盖旧例证。录入后报告新增、补充及跳过项。仅录为候选，不自动编入 Book、做学习测验或标掌握；用户指定别的目标时服从其指令。
+在本项目中用户说“帮我录入”且没有指定其他去处时，按 `编纂与维护/Chunks 收集箱格式与录入规则.md` 将其给出的单项、多行或文本候选录入 `Chunks 收集/Chunks 收集箱.md` 的相应分类表格，每项一行、固定三列。只在收集箱内查重，Book 或其他文章里已有讲解不构成跳过理由；收集箱内同义、同功能且无独立学习价值的近重复跳过，不因片段更长就重收。先保留原句与来源；缺失例句写“待补例句”，查重时不覆盖旧例证。录入后报告新增、补充及跳过项。仅录为候选，不自动编入 Book、做学习测验或标掌握；用户指定别的目标时服从其指令。
 
 ## 编纂 Book
 
-五个阅读专题与“中文到英文表达”在 nav.json 里以分组体现（原 course.json 已于 2026-09-23 废弃）。新增主线章先明确阅读或表达卡点、对照和新语境，再把 Markdown 路径登记进 nav.json 对应组；不要只增加词条数或按考试标签铺满目录。没有正文的未来主题只放BACKLOG，不作为可开始章节展示。
+站点顶层按“学习章节／表达练习／Chunks 收集／原文与参考资料／我的学习”五个用途组组织；词义、搭配、句式等知识类型用组内子标签表示，维护工具单列在 maintenance。原 course.json 已于 2026-09-23 废弃。新增主线章先明确阅读或表达卡点、对照和新语境，再把 Markdown 路径登记进 nav.json 对应组；不要只增加词条数或按考试标签铺满目录。没有正文的未来主题只放BACKLOG，不作为可开始章节展示。
 
-先读 `engineering/verification/book-editorial-inventory-2026-09-28.md` 判定文档角色：学习主线、表达练习、查阅资料、候选、隔离待修。隔离待修文档不得作为用法正确性的依据；查阅资料属于待审材料，引用某条之前仍须核对语境和来源。分类仅调整站点目录与教学用途，源路径暂时保持稳定；编辑状态不等于用户掌握。
+先读 `编纂与维护/English Book 编辑分层清单.md` 判定文档角色：学习主线、表达练习、查阅资料、候选、隔离待修。隔离待修文档不得作为用法正确性的依据；查阅资料属于待审材料，引用某条之前仍须核对语境和来源。现行文档已按目录用途迁移，审校与掌握状态不决定文件位置；编辑状态不等于用户掌握。
 
-正式教材源文件在 book/，按主题目录保存 Markdown；站点目录由 nav.json 显式登记，不再自动扫描。每章一级标题唯一（它就是站点里显示的标题）。新增章后验证 /api/catalog 能发现标题、分组、全文。
+正式教材源文件在“学习章节/”，按同名前端子目录保存 Markdown；站点目录由 nav.json 显式登记，不再自动扫描。每章一级标题唯一（它就是站点里显示的标题）。新增章后验证 /api/catalog 能发现标题、分组、全文。
 
-先读 book/README.md、book/BACKLOG.md 和相关已有章节，避免重复。按 book/TEMPLATE.md 的规范写实际内容；模板与 backlog 不算教学章。排版统一按 TEMPLATE.md 的「紧凑学习卡」风格（2026-09-16 用户定版，样张 book/08-frames/_样式样张A-紧凑学习卡.md）：语义加粗一句话、例句引用块中英对照、结构拆解代码块、变体对比表格，不叙事铺陈。
+先读 engineering/agents/book-editorial/README.md、engineering/agents/book-editorial/BACKLOG.md 和相关已有章节，避免重复。按 engineering/agents/book-editorial/TEMPLATE.md 的规范写实际内容；模板与 backlog 不算教学章。排版统一按 TEMPLATE.md 的「紧凑学习卡」风格（2026-09-16 用户定版，以当前 TEMPLATE.md 为准）：语义加粗一句话、例句引用块中英对照、结构拆解代码块、变体对比表格，不叙事铺陈。
 
 常用义项和搭配给自然语境、解释、结构、边界、变式练习；自造例句注明。对不确定的用法先查权威词典或一手语料，保留实际查阅链接，不能伪造来源。
 
-用户只说扩增时，默认一批 1–2 个主题、约 6–10 个表达，深入辨析，避免以词条数量代替质量。可增加新主题目录，前端无需改代码。更新 book/CHANGELOG.md 和 BACKLOG.md；材料扩增不修改掌握等级。
+用户只说扩增时，默认一批 1–2 个主题、约 6–10 个表达，深入辨析，避免以词条数量代替质量。可增加同名前端子目录，并显式登记 nav.json。更新 engineering/agents/book-editorial/CHANGELOG.md 和 BACKLOG.md；材料扩增不修改掌握等级。
 
 ## 句式骨架挖掘
 
@@ -49,7 +51,7 @@
 
 ## 下载资料选源与归一化
 
-TED 资料沿用用户确认的“带基本信息的 TXT”格式例外，执行前读 `materials/HANDBOOK.md` 的 TED 说明及 `references/ted/README.md`；不默认恢复 JSON/SRT/VTT，也不把获取脚本成功当成 manifest、索引与校验已经更新。
+TED 资料沿用用户确认的“带基本信息的 TXT”格式例外，执行前读 `materials/HANDBOOK.md` 的 TED 说明及 `编纂与维护/TED 资料收集经验与维护.md`；不默认恢复 JSON/SRT/VTT，也不把获取脚本成功当成 manifest、索引与校验已经更新。
 
 规则唯一出处：materials/HANDBOOK.md（2026-09-16 定版，含下载五原则、选源四级优先序、目录五分类、数据层/可读层分离、catalog 白名单、工具速查与不变式）。要点：优先公开仓库/官方平台，下载即登记 manifest；原件不改写，可读层由 references/normalize_materials.py 生成（幂等重跑），json/csv/jsonl 豁免不转；批量前先抽查质量。执行时照手册走即可。
 
@@ -57,9 +59,9 @@ TED 资料沿用用户确认的“带基本信息的 TXT”格式例外，执行
 
 **资料下载与归一化（2026-09-16 定版）**：规则唯一出处 materials/HANDBOOK.md（由旧「总则」与「选源规则」合并而来），执行时照手册走，不再临场决策。
 
-**对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 engineering/design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→background/LEARNER.md、background/METHOD.md、engineering/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
+**对话决策落档（2026-09-16 起，用户明确要求）**：与用户对话中决定的项目改动——工程怎么改、内容怎么改、背景/思路/方法论怎么改——必须在当轮对话内写入对应文件（工程改动→CURRENT.md 或 engineering/design/，内容改动→book/ 及 CHANGELOG/BACKLOG，背景与思路→我的学习/学习者背景.md、我的学习/学习方法与教学思想.md、engineering/methodology/，记忆类→.catpaw/memory）。只对话不落档视为未完成。落档后当轮回复里告知用户写入位置。
 
-学习背景写 background/LEARNER.md，教学方法写 background/METHOD.md；网页对话功能已删，不再自动保存原答与反馈。Codex 对话中的实际练习可把必要原答、提示与反馈写入 progress/ 作为证据，私人情境先去身份化。不要跨写 ml-foundations。Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
+学习背景写 我的学习/学习者背景.md，教学方法写 我的学习/学习方法与教学思想.md；网页对话功能已删，不再自动保存原答与反馈。Codex 对话中的实际练习可把必要原答、提示与反馈写入 progress/ 作为证据，私人情境先去身份化。不要跨写 ml-foundations。Book 正式编辑由用户在 Codex 中提出扩编请求后执行，避免把未经审校的每次回答自动收进教材。
 
 站点仅本地运行，不默认部署公网；纯只读查看器，无对话与写接口。测试：python3 site/test_server.py。
 

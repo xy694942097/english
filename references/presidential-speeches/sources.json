@@ -1,0 +1,176 @@
+[
+  {
+    "id": "DCPD-202400984",
+    "speaker": "Joe Biden",
+    "date": "2024-11-07",
+    "title": "Address to the Nation on the 2024 Presidential Election",
+    "label": "拜登：大选后的全国讲话",
+    "start": "Good morning."
+  },
+  {
+    "id": "DCPD-202300848",
+    "speaker": "Joe Biden",
+    "date": "2023-09-28",
+    "title": "Remarks on United States Democracy and the Legacy of Former Senator John S. McCain III in Tempe, Arizona",
+    "label": "拜登：民主与麦凯恩的遗产",
+    "start": "The President. Thank you"
+  },
+  {
+    "id": "DCPD-200900001",
+    "speaker": "Barack Obama",
+    "date": "2009-01-20",
+    "title": "Inaugural Address",
+    "label": "奥巴马：2009 年就职演说",
+    "start": "My fellow citizens,"
+  },
+  {
+    "id": "DCPD-201700058",
+    "speaker": "Donald Trump",
+    "date": "2017-01-20",
+    "title": "Inaugural Address",
+    "label": "特朗普：2017 年就职演说",
+    "start": "Chief Justice Roberts,"
+  },
+  {
+    "id": "PPP-1993-book1-doc-pg1",
+    "speaker": "Bill Clinton",
+    "date": "1993-01-20",
+    "label": "克林顿：1993 年就职演说",
+    "url": "https://www.govinfo.gov/content/pkg/PPP-1993-book1/html/PPP-1993-book1-doc-pg1.htm",
+    "start": "My fellow citizens, today we celebrate the my",
+    "title": "Inaugural Address",
+    "format": "pre"
+  },
+  {
+    "id": "PPP-1997-book1-doc-pg43",
+    "speaker": "Bill Clinton",
+    "date": "1997-01-20",
+    "label": "克林顿：1997 年就职演说",
+    "url": "https://www.govinfo.gov/content/pkg/PPP-1997-book1/html/PPP-1997-book1-doc-pg43.htm",
+    "start": "My fellow citizens, at this last Presidential",
+    "title": "Inaugural Address",
+    "format": "pre"
+  },
+  {
+    "id": "PPP-2000-book3-doc-pg2952",
+    "speaker": "Bill Clinton",
+    "date": "2001-01-18",
+    "label": "克林顿：告别讲话",
+    "url": "https://www.govinfo.gov/content/pkg/PPP-2000-book3/html/PPP-2000-book3-doc-pg2952.htm",
+    "start": "My fellow citizens, tonight is my last opport",
+    "title": "Farewell Address to the Nation",
+    "format": "pre"
+  },
+  {
+    "id": "PPP-2001-book1-doc-pg1",
+    "speaker": "George W. Bush",
+    "date": "2001-01-20",
+    "label": "小布什：2001 年就职演说",
+    "url": "https://www.govinfo.gov/content/pkg/PPP-2001-book1/html/PPP-2001-book1-doc-pg1.htm",
+    "start": "Thank you, all. Chief Justice Rehnquist, Pres",
+    "title": "Inaugural Address",
+    "format": "pre"
+  },
+  {
+    "id": "PPP-2001-book2-doc-pg1099",
+    "speaker": "George W. Bush",
+    "date": "2001-09-11",
+    "label": "小布什：九一一袭击后的全国讲话",
+    "url": "https://www.govinfo.gov/content/pkg/PPP-2001-book2/html/PPP-2001-book2-doc-pg1099.htm",
+    "start": "Good evening. Today our fellow citizens, our ",
+    "title": "Address to the Nation on the Terrorist Attacks",
+    "format": "pre"
+  },
+  {
+    "id": "PPP-2005-book1-doc-pg66",
+    "speaker": "George W. Bush",
+    "date": "2005-01-20",
+    "label": "小布什：2005 年就职演说",
+    "url": "https://www.govinfo.gov/content/pkg/PPP-2005-book1/html/PPP-2005-book1-doc-pg66.htm",
+    "start": "Vice President Cheney, Mr. Chief",
+    "title": "Inaugural Address",
+    "format": "pre"
+  },
+  {
+    "id": "DCPD-201300032",
+    "speaker": "Barack Obama",
+    "date": "2013-01-21",
+    "label": "奥巴马：2013 年就职演说",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-201300032/html/DCPD-201300032.htm",
+    "title": "Inaugural Address",
+    "start": "Thank you. Thank you so much."
+  },
+  {
+    "id": "DCPD-201500157",
+    "speaker": "Barack Obama",
+    "date": "2015-03-07",
+    "label": "奥巴马：塞尔玛民权游行五十周年讲话",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-201500157/html/DCPD-201500157.htm",
+    "title": "Remarks Commemorating the 50th Anniversary of the Selma to Montgomery Marches for Voting Rights in Selma, Alabama",
+    "start": "Audience member. We love you, President Obama!"
+  },
+  {
+    "id": "DCPD-201700007",
+    "speaker": "Barack Obama",
+    "date": "2017-01-07",
+    "label": "奥巴马：告别演讲前的每周讲话",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-201700007/html/DCPD-201700007.htm",
+    "title": "The President's Weekly Address",
+    "start": "Since the days of George Washington, Presidents have de",
+    "recorded_date": "2017-01-05"
+  },
+  {
+    "id": "DCPD-202000494",
+    "speaker": "Donald Trump",
+    "date": "2020-07-03",
+    "label": "特朗普：拉什莫尔山独立日庆典讲话",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202000494/html/DCPD-202000494.htm",
+    "title": "Remarks at an Independence Day Celebration at the Mount Rushmore National Memorial in Keystone, South Dakota",
+    "start": "The President. Well, thank you very much. And Governor "
+  },
+  {
+    "id": "DCPD-202500103",
+    "speaker": "Donald Trump",
+    "date": "2025-01-20",
+    "label": "特朗普：2025 年就职演说",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500103/html/DCPD-202500103.htm",
+    "title": "Inaugural Address",
+    "start": "Thank you. Thank you very much, everybody. [Applause] W"
+  },
+  {
+    "id": "DCPD-202500325",
+    "speaker": "Donald Trump",
+    "date": "2025-03-04",
+    "label": "特朗普：2025 年国会联席会议讲话",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500325/html/DCPD-202500325.htm",
+    "title": "Address Before a Joint Session of the Congress",
+    "start": "The President. Thank you. Thank you very much. Thank yo"
+  },
+  {
+    "id": "DCPD-202100048",
+    "speaker": "Joe Biden",
+    "date": "2021-01-20",
+    "label": "拜登：2021 年就职演说",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202100048/html/DCPD-202100048.htm",
+    "title": "Inaugural Address",
+    "start": "Chief Justice Roberts, Vice President Harris, Speaker P"
+  },
+  {
+    "id": "DCPD-202400170",
+    "speaker": "Joe Biden",
+    "date": "2024-03-07",
+    "label": "拜登：2024 年国情咨文",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202400170/html/DCPD-202400170.htm",
+    "title": "Address Before a Joint Session of the Congress on the State of the Union",
+    "start": "[Before speaking, the President presented his prepared "
+  },
+  {
+    "id": "DCPD-202500078",
+    "speaker": "Joe Biden",
+    "date": "2025-01-15",
+    "label": "拜登：告别讲话",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-202500078/html/DCPD-202500078.htm",
+    "title": "Farewell Address to the Nation",
+    "start": "My fellow Americans, I am speaking to you tonight from "
+  }
+]

@@ -14,52 +14,74 @@ const assert = require('node:assert/strict');
     await page.goto(base);
     await page.getByRole('heading', {name: '从 resigned 理解词义与搭配', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
-    assert.equal(await page.locator('#nav details').count(), 13, '按教学角色整理的十三个导航分组');
-    assert.equal(await page.locator('#nav a.nav-link').count(), 63, '63 个登记文档');
+    assert.equal(await page.locator('#nav .nav-fold').count(), 5, '五个学习导航分组');
+    const registeredCount = (await (await page.request.get(base + 'api/catalog')).json()).items.length;
+    assert.equal(await page.locator('#nav a.nav-link').count(), registeredCount, '登记文档均有导航入口');
     const navText = await page.locator('#nav').innerText();
-    assert.ok(navText.includes('表达练习') && navText.includes('查阅资料（待审校）'), '练习与查阅分区可见');
+    assert.ok(navText.includes('表达练习') && navText.includes('原文与参考资料'), '练习与查阅分区可见');
     assert.ok(!navText.includes('英语固定短语完全指南') && !navText.includes('雅思级别英语1000句 v2'), '隔离文档不在导航');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
 
     // 新表达章可由深链打开，且练习答案仍保持折叠
-    await page.goto(base + '#' + encodeURIComponent('book/10-expression/01-relationship-options.md'));
+    await page.goto(base + '#' + encodeURIComponent('表达练习/中文到英文表达：关系还有没有挽回余地.md'));
     await page.getByRole('heading', {name: '中文到英文表达：关系还有没有挽回余地', exact: true}).waitFor();
-    assert.equal(await page.locator('#article details').getAttribute('open'), null, '表达章答案默认折叠');
+    assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '表达章答案默认折叠');
+
+    // 自动目录锚点不会被当成文档路由；跳到折叠答案时自动打开。
+    if (await page.locator('.document-toc').getAttribute('open') === null) await page.locator('.document-toc summary').click();
+    const contents = page.locator('.document-toc a');
+    assert.ok(await contents.count() >= 8);
+    await contents.filter({hasText: '参考答案'}).click();
+    await page.waitForFunction(() => location.hash.includes('::'));
+    assert.notEqual(await page.locator('.reference-answers').getAttribute('open'), null);
+    await page.reload();
+    await page.getByRole('heading', {name: '参考答案', exact: true}).waitFor();
+    assert.notEqual(await page.locator('.reference-answers').getAttribute('open'), null);
+    assert.equal(await page.locator('#article h1').innerText(), '中文到英文表达：关系还有没有挽回余地');
 
     // 项目内 Skill 和学习计划在只读站点中可读
-    await page.goto(base + '#' + encodeURIComponent('engineering/skills/translation-coach/PLAN.md'));
+    await page.goto(base + '#' + encodeURIComponent('编纂与维护/中文到英文表达训练计划.md'));
     await page.getByRole('heading', {name: '中文到英文表达训练计划', exact: true}).waitFor();
 
-    await page.goto(base + '#' + encodeURIComponent('references/translation-training/pilot-001-prompts.md'));
+    await page.goto(base + '#' + encodeURIComponent('表达练习/中译英校准素材 P001：中文情境任务.md'));
     await page.getByRole('heading', {name: '中译英校准素材 P001：中文情境任务', exact: true}).waitFor();
 
-    await page.goto(base + '#' + encodeURIComponent('references/chunks/INBOX.md'));
+    await page.goto(base + '#' + encodeURIComponent('Chunks 收集/Chunks 收集箱.md'));
     await page.getByRole('heading', {name: 'Chunks 收集箱', exact: true}).waitFor();
     assert.equal(await page.locator('#article table').count(), 6, '六个分类各有一张收集表');
     assert.equal(await page.locator('#article table').first().locator('th').count(), 3, '收集表固定三列');
 
-    await page.goto(base + '#' + encodeURIComponent('book/11-spoken-chunks/01-standup-conversation-moves.md'));
+    await page.goto(base + '#' + encodeURIComponent('Chunks 收集/总统演讲 Chunks：坚持原则、澄清判断与回应挫折.md'));
+    await page.getByRole('heading', {name: '总统演讲 Chunks：坚持原则、澄清判断与回应挫折', exact: true}).waitFor();
+    assert.equal(await page.locator('#article tbody tr').count(), 20, '总统演讲精选二十个 chunks');
+    await page.goto(base + '#' + encodeURIComponent('原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md'));
+    await page.getByRole('heading', {name: '总统演讲原文合集：GovInfo', exact: true}).waitFor();
+
+    await page.goto(base + '#' + encodeURIComponent('学习章节/口语表达/脱口秀口语 Chunks：把观察、反问和不确定说出来.md'));
     await page.getByRole('heading', {name: '脱口秀口语 Chunks：把观察、反问和不确定说出来', exact: true}).waitFor();
     assert.equal(await page.locator('#article h2').filter({hasText: /^\d+\. /}).count(), 8, '脱口秀章展示八个知识点');
-    assert.equal(await page.locator('#article details').getAttribute('open'), null, '脱口秀章答案默认折叠');
+    assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '脱口秀章答案默认折叠');
 
-    await page.goto(base + '#' + encodeURIComponent('materials/SOURCES.md'));
+    await page.goto(base + '#' + encodeURIComponent('编纂与维护/资料来源.md'));
     await page.getByRole('heading', {name: '资料来源', exact: true}).waitFor();
     assert.ok((await page.locator('#article').innerText()).includes('English → Download'), '字幕来源操作说明可读');
 
     // 深链 + 参考答案折叠
-    await page.goto(base + '#' + encodeURIComponent('book/05-patterns/01-nothing-but.md'));
+    await page.goto(base + '#' + encodeURIComponent('学习章节/句式与结构/nothing but：几个小词，意思为什么差这么多.md'));
     await page.getByRole('heading', {name: 'nothing but：几个小词，意思为什么差这么多', exact: true}).waitFor();
-    assert.equal(await page.locator('#article details').getAttribute('open'), null, '参考答案默认折叠');
-    await page.locator('#article summary').click();
-    assert.notEqual(await page.locator('#article details').getAttribute('open'), null);
+    assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '参考答案默认折叠');
+    await page.locator('#article .reference-answers summary').click();
+    assert.notEqual(await page.locator('#article .reference-answers').getAttribute('open'), null);
 
     // 文内相对 .md 链接改写为 hash 深链（句式骨架导览含家族章链接）
-    await page.goto(base + '#' + encodeURIComponent('book/08-frames/00-guide.md'));
+    await page.goto(base + '#' + encodeURIComponent('学习章节/句式与结构/句式骨架（Frames）：比语法分析高一层的学习单位.md'));
     await page.getByRole('heading', {name: '句式骨架（Frames）：比语法分析高一层的学习单位', exact: true}).waitFor();
-    const relLink = await page.locator('#article a[href^="#book%2F"]').count();
-    assert.ok(relLink > 0, '文档间相对链接改写为站内深链');
+    const relLink = await page.locator('#article a[href^="#"]').evaluateAll(links => links.some(a => decodeURIComponent(a.hash.slice(1)).startsWith('学习章节/') && !a.hash.includes('::')));
+    assert.ok(relLink, '文档间相对链接改写为新目录深链');
+    await page.goto(base + '#' + encodeURIComponent('book/01-reading/02-resigned.md'));
+    await page.getByRole('heading', {name:'从 resigned 理解词义与搭配',exact:true}).waitFor();
+    assert.ok(decodeURIComponent(await page.evaluate(()=>location.hash)).startsWith('#学习章节/'), '旧文档书签自动转向新路径');
 
     // 搜索
     await page.locator('#search').fill('qualified support');
@@ -82,9 +104,35 @@ const assert = require('node:assert/strict');
     assert.equal(ok, 200, '/files/ 提供仓库内文件');
     assert.equal(blocked, 404, '/files/ 路径穿越被拒');
 
+    // 第一季词块页使用可流式阅读的纵向条目，不再出现整集长表格。
+    await page.goto(base + '#' + encodeURIComponent('Chunks 收集/Better Call Saul：Chunks 积累.md'));
+    await page.getByRole('heading', {name:'Better Call Saul：Chunks 积累',exact:true}).waitFor();
+    assert.equal(await page.locator('#article table').count(), 0);
+    assert.ok(await page.locator('#article h3').count() >= 1065, '第一季全部条目已展示');
+    assert.equal(await page.locator('#nav').getByText('Better Call Saul：第一集纵向条目试读', {exact:true}).count(), 0);
+
     // 移动端无横向溢出
     await page.setViewportSize({width: 390, height: 844});
     assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false);
+
+    // 自定义 Markdown 目录、重复标题与历史定位；搜索无结果后能回到原文。
+    const catalogue = await (await page.request.get(base + 'api/catalog')).json();
+    catalogue.items.push({id:'toc-fixture.md', title:'目录测试', group:'测试', body:'# 目录测试\n\n[跳到第二节](#重复-1)\n\n## 重复\n第一节\n\n## 重复\n第二节\n\n## 重复-1\n第三节'});
+    await page.route('**/api/catalog', route => route.fulfill({json:catalogue}));
+    await page.goto(base + '?toc-test#toc-fixture.md');
+    await page.getByRole('heading', {name:'目录测试',exact:true}).waitFor();
+    const ids = await page.locator('#article h2').evaluateAll(nodes => nodes.map(n=>n.id));
+    assert.equal(new Set(ids).size, 3, '重复标题及已有后缀不会产生重复 ID');
+    await page.getByRole('link', {name:'跳到第二节',exact:true}).click();
+    await page.waitForFunction(() => decodeURIComponent(location.hash).endsWith('::重复-1'));
+    await page.goBack();
+    await page.waitForFunction(() => !location.hash.includes('::'));
+    await page.goForward();
+    await page.waitForFunction(() => decodeURIComponent(location.hash).endsWith('::重复-1'));
+    await page.locator('#search').fill('no-results-928743');
+    await page.locator('#search').fill('');
+    await page.getByRole('heading', {name:'目录测试',exact:true}).waitFor();
+    await page.unroute('**/api/catalog');
 
     assert.deepEqual(errors, []);
     console.log('PASS: first doc, marked render, nav groups/folds, answer fold, md links, search, theme, /files/, mobile width; no page errors.');

@@ -40,6 +40,29 @@ class ViewerTests(unittest.TestCase):
             items = server.catalog(root)
             self.assertEqual(items[0]['title'], 'x')
 
+    def test_maintenance_docs_remain_searchable(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            (root / 'tools.md').write_text('# 维护工具\n工具正文')
+            (root / 'nav.json').write_text(json.dumps({'groups': [], 'maintenance': [
+                {'title': '编纂与维护', 'items': ['tools.md']},
+            ]}, ensure_ascii=False))
+            items = server.catalog(root)
+            self.assertEqual(items[0]['id'], 'tools.md')
+            self.assertEqual(items[0]['group'], '编纂与维护')
+
+    def test_project_navigation_matches_filesystem(self):
+        nav = server.read_nav()
+        for group in nav['groups'] + nav.get('maintenance', []):
+            for item in group['items']:
+                parent = Path(group['title'])
+                paths = [item] if isinstance(item, str) else item['items']
+                if isinstance(item, dict):
+                    parent /= item['sub']
+                for path in paths:
+                    self.assertEqual(Path(path).parent, parent)
+                    self.assertTrue((server.ROOT / path).is_file())
+
     def test_missing_registered_doc_is_reported(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)

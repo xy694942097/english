@@ -1,6 +1,6 @@
 # 历史方法草稿（已由 METHOD.md 替代）
 
-当前正式方法见 [METHOD.md](../background/METHOD.md)。下文保留为早期讨论记录，其中“短句难通常不是语法”和固定学习顺序等判断已经收窄：须依据实际语境区分词义、搭配、结构与篇章因素，不能预设全面诊断。
+当前正式方法见 [METHOD.md](../我的学习/学习方法与教学思想.md)。下文保留为早期讨论记录，其中“短句难通常不是语法”和固定学习顺序等判断已经收窄：须依据实际语境区分词义、搭配、结构与篇章因素，不能预设全面诊断。
 
 Adult English learning should start from use, not from page one of a textbook.
 

@@ -1,0 +1,1039 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S01/Better.Call.Saul.S01E04.en.srt",
+  "sha256": "ba6a6e3347340d9a9c7f8be7937e4263dfd2bc23ec43ed37e7f9ed32c3ab600d",
+  "subtitle_blocks_read": 709,
+  "max_cue": 709,
+  "selection_status": "Candidates, pending user screening; not mastery evidence",
+  "method": "Read all 709 cues in three consecutive batches; inspect inner chunks and outer frames; retain source words, strip presentational HTML tags only in the reading table.",
+  "lexical_checks": [
+    {
+      "chunk": "The worm has turned.",
+      "url": "https://dictionary.cambridge.org/dictionary/english/worm-turns",
+      "note": "Usual meaning is resisting after long mistreatment; subtitle uses it loosely for changed fortunes, labelled as contextual extension."
+    },
+    {
+      "chunk": "tide sb. over",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/tide-over",
+      "note": "Temporarily supply something lacking; source here uses another newspaper as stopgap."
+    }
+  ],
+  "items": [
+    {
+      "chunk": "It's a given (that)…",
+      "meaning": "……是理所当然／无需再说的；a given 是既定事实",
+      "start_cue": 12,
+      "end_cue": 12,
+      "start_time": "00:00:23,919",
+      "end_time": "00:00:25,804",
+      "quote": "It's a given you don't do it in her ear."
+    },
+    {
+      "chunk": "I know… and everything, but…",
+      "meaning": "我知道……什么的，但……（先承认，再表达不同看法）",
+      "start_cue": 21,
+      "end_cue": 22,
+      "start_time": "00:00:45,900",
+      "end_time": "00:00:52,089",
+      "quote": "I'm sorry, bro. I know it's yours and everything, but... - It's not even 2:00. - Yeah, it does kind of suck."
+    },
+    {
+      "chunk": "I never did catch your name.",
+      "meaning": "我还没听到／记住你的名字；委婉补问，did 表强调",
+      "start_cue": 30,
+      "end_cue": 30,
+      "start_time": "00:01:18,639",
+      "end_time": "00:01:20,158",
+      "quote": "Bro, I never did catch your name."
+    },
+    {
+      "chunk": "There's got to be…",
+      "meaning": "这里肯定有……／一定得有……；原例作肯定推测",
+      "start_cue": 38,
+      "end_cue": 38,
+      "start_time": "00:01:38,544",
+      "end_time": "00:01:40,996",
+      "quote": "There's got to be at least a thousand bucks in here, man."
+    },
+    {
+      "chunk": "have dibs on sth.",
+      "meaning": "先声明某物归自己／有优先权（口语，常用于抢先选）",
+      "start_cue": 79,
+      "end_cue": 79,
+      "start_time": "00:04:06,886",
+      "end_time": "00:04:09,693",
+      "quote": "I got dibs on that watch, man."
+    },
+    {
+      "chunk": "split sth. up",
+      "meaning": "把某物分开分配；此处是分钱与手表",
+      "start_cue": 90,
+      "end_cue": 90,
+      "start_time": "00:04:41,461",
+      "end_time": "00:04:42,894",
+      "quote": "So, how do you want to split this up?"
+    },
+    {
+      "chunk": "I'll tell you what…",
+      "meaning": "这样吧……（提出办法／交易条件）",
+      "start_cue": 91,
+      "end_cue": 92,
+      "start_time": "00:04:42,895",
+      "end_time": "00:04:48,456",
+      "quote": "I'll tell you what... you keep the cash. - I'll just keep the watch. - But it's worth like 3 grand, man."
+    },
+    {
+      "chunk": "sweeten the pot",
+      "meaning": "加码，使交易／奖励更有吸引力",
+      "start_cue": 98,
+      "end_cue": 100,
+      "start_time": "00:04:57,770",
+      "end_time": "00:05:06,661",
+      "quote": "I... sweeten the pot. I got, $5, $20, $40, $60, $80... 580 bucks. Add that to the $1,000... It's more than half."
+    },
+    {
+      "chunk": "We're good, right?",
+      "meaning": "咱们没问题／谈妥了，对吧？（也可确认关系无芥蒂）",
+      "start_cue": 103,
+      "end_cue": 104,
+      "start_time": "00:05:09,872",
+      "end_time": "00:05:13,809",
+      "quote": "No, I don't... I don't know. But we're good, right? Yeah? We good?"
+    },
+    {
+      "chunk": "a license to print money",
+      "meaning": "很容易持续赚钱的生意／办法（夸张）",
+      "start_cue": 109,
+      "end_cue": 109,
+      "start_time": "00:05:43,789",
+      "end_time": "00:05:45,707",
+      "quote": "It's like a license to print money."
+    },
+    {
+      "chunk": "It just came out.",
+      "meaning": "就那么脱口而出了／顺口说出来了",
+      "start_cue": 114,
+      "end_cue": 115,
+      "start_time": "00:05:53,633",
+      "end_time": "00:05:57,302",
+      "quote": "Just something in my brain, you know? It just came out. Too much?"
+    },
+    {
+      "chunk": "Too much?",
+      "meaning": "是不是有点过头了？（简短征询力度是否合适）",
+      "start_cue": 115,
+      "end_cue": 115,
+      "start_time": "00:05:54,967",
+      "end_time": "00:05:57,302",
+      "quote": "It just came out. Too much?"
+    },
+    {
+      "chunk": "That's about all.",
+      "meaning": "也就这样了／仅此而已（限制价值或程度）",
+      "start_cue": 121,
+      "end_cue": 121,
+      "start_time": "00:06:13,586",
+      "end_time": "00:06:17,215",
+      "quote": "It's good for making beer money. That's about all."
+    },
+    {
+      "chunk": "No one has to know.",
+      "meaning": "没必要让别人知道／可以瞒住别人（不是没人知道）",
+      "start_cue": 127,
+      "end_cue": 128,
+      "start_time": "00:06:43,835",
+      "end_time": "00:06:48,205",
+      "quote": "Please, okay? No one has to know. I mean, you could just pretend you didn't find us."
+    },
+    {
+      "chunk": "round sb. up",
+      "meaning": "搜捕／集中带走某人；此处指警方抓来嫌疑人",
+      "start_cue": 134,
+      "end_cue": 136,
+      "start_time": "00:06:59,601",
+      "end_time": "00:07:10,444",
+      "quote": "The cops are investigating this as a kidnapping. They already rounded up some poor suspect. A working-class guy. Father... I think."
+    },
+    {
+      "chunk": "Could this have been…?",
+      "meaning": "这会不会就是……？（猜测过去的人或事）",
+      "start_cue": 139,
+      "end_cue": 139,
+      "start_time": "00:07:17,869",
+      "end_time": "00:07:20,154",
+      "quote": "Could this have been the person in the van?"
+    },
+    {
+      "chunk": "What if…?",
+      "meaning": "要是……呢？／有没有可能……？（原例提出另一种解释）",
+      "start_cue": 140,
+      "end_cue": 141,
+      "start_time": "00:07:20,931",
+      "end_time": "00:07:28,045",
+      "quote": "What if the man they arrested Is the one we were warned about? Yeah, maybe he's not so innocent?"
+    },
+    {
+      "chunk": "I wouldn't know about any of that.",
+      "meaning": "那些事情我可不知道／不便作判断（此处回避表态）",
+      "start_cue": 149,
+      "end_cue": 149,
+      "start_time": "00:07:46,137",
+      "end_time": "00:07:48,615",
+      "quote": "I wouldn't know about any of that."
+    },
+    {
+      "chunk": "I can assure you (that)…",
+      "meaning": "我可以向你保证……（明确安抚或确认）",
+      "start_cue": 151,
+      "end_cue": 152,
+      "start_time": "00:07:50,081",
+      "end_time": "00:07:55,188",
+      "quote": "I can assure you that you and your family are safe. I mean, the police are all over this thing, so..."
+    },
+    {
+      "chunk": "be all over sth.",
+      "meaning": "全力关注／处理某事；此处说警方正在紧盯此事",
+      "start_cue": 151,
+      "end_cue": 152,
+      "start_time": "00:07:50,081",
+      "end_time": "00:07:55,188",
+      "quote": "I can assure you that you and your family are safe. I mean, the police are all over this thing, so..."
+    },
+    {
+      "chunk": "risk doing sth.",
+      "meaning": "冒做某事的风险；此处是不愿冒失去一切的风险",
+      "start_cue": 157,
+      "end_cue": 158,
+      "start_time": "00:08:07,418",
+      "end_time": "00:08:14,758",
+      "quote": "If they think I ran away, it'll look like I did something wrong. We can't risk losing everything just because of some teensy mistake."
+    },
+    {
+      "chunk": "What were you hoping would happen?",
+      "meaning": "你本来希望会发生什么？（追问预期结果）",
+      "start_cue": 160,
+      "end_cue": 161,
+      "start_time": "00:08:16,795",
+      "end_time": "00:08:21,798",
+      "quote": "What... what were you hoping would happen? I mean, before I found you, what were you planning to do?"
+    },
+    {
+      "chunk": "be in the process of doing sth.",
+      "meaning": "正在做某事的过程中（较中性正式）",
+      "start_cue": 162,
+      "end_cue": 163,
+      "start_time": "00:08:23,018",
+      "end_time": "00:08:28,172",
+      "quote": "Well, we were in the process of, you know, working that out... - We were working that out. - When you, um..."
+    },
+    {
+      "chunk": "work sth. out",
+      "meaning": "想出／商定具体办法；此处还在考虑接下来怎么做",
+      "start_cue": 162,
+      "end_cue": 163,
+      "start_time": "00:08:23,018",
+      "end_time": "00:08:28,172",
+      "quote": "Well, we were in the process of, you know, working that out... - We were working that out. - When you, um..."
+    },
+    {
+      "chunk": "make it work",
+      "meaning": "想办法让事情行得通／把问题处理好",
+      "start_cue": 172,
+      "end_cue": 172,
+      "start_time": "00:08:47,606",
+      "end_time": "00:08:50,160",
+      "quote": "Kim Wexler is very good. She'll make it work."
+    },
+    {
+      "chunk": "It's not a bug, it's a feature.",
+      "meaning": "这不是缺陷，而是特点／优势（常带幽默地重新解读问题）",
+      "start_cue": 175,
+      "end_cue": 176,
+      "start_time": "00:08:59,156",
+      "end_time": "00:09:03,779",
+      "quote": "Well, like they say in Silicon Valley, \"it's not a bug... it's a feature!\""
+    },
+    {
+      "chunk": "a bargaining chip",
+      "meaning": "谈判筹码，用来争取条件的优势",
+      "start_cue": 177,
+      "end_cue": 177,
+      "start_time": "00:09:04,142",
+      "end_time": "00:09:06,559",
+      "quote": "Did you ever hear of a bargaining chip?"
+    },
+    {
+      "chunk": "the mother of all + 复数名词",
+      "meaning": "最强／最大／最夸张的……（夸张口语）",
+      "start_cue": 178,
+      "end_cue": 178,
+      "start_time": "00:09:06,560",
+      "end_time": "00:09:10,567",
+      "quote": "What we have right here is the mother of all bargaining chips."
+    },
+    {
+      "chunk": "Just because… doesn't mean…",
+      "meaning": "不能仅因为……就认为……；否定由某事实推出结论",
+      "start_cue": 185,
+      "end_cue": 186,
+      "start_time": "00:09:30,894",
+      "end_time": "00:09:34,621",
+      "quote": "And, really, just because you're salaried, doesn't mean you don't deserve overtime."
+    },
+    {
+      "chunk": "That's only fair.",
+      "meaning": "这才公平／这不过是应得的（为要求辩护）",
+      "start_cue": 187,
+      "end_cue": 189,
+      "start_time": "00:09:34,622",
+      "end_time": "00:09:39,827",
+      "quote": "I think that's only fair. I mean, really, that's what this is about, right? - Fairness. - Fairness, right."
+    },
+    {
+      "chunk": "be right up there with sth.",
+      "meaning": "与某事同一等级／同样突出；此处讽刺对方的类比",
+      "start_cue": 191,
+      "end_cue": 193,
+      "start_time": "00:09:41,446",
+      "end_time": "00:09:52,965",
+      "quote": "If you want to talk about legal, slavery... That used to be legal. Human slavery. So... Yeah, this is right up there with that."
+    },
+    {
+      "chunk": "How hard is that?",
+      "meaning": "这能有多难？（反问，可能施加压力）",
+      "start_cue": 198,
+      "end_cue": 199,
+      "start_time": "00:10:11,643",
+      "end_time": "00:10:17,352",
+      "quote": "Please, didn't you say that you wanted to help us? So just pretend you never saw the money. How hard is that?"
+    },
+    {
+      "chunk": "be chock-full of sth.",
+      "meaning": "满是／塞满了某物（口语）",
+      "start_cue": 208,
+      "end_cue": 210,
+      "start_time": "00:10:41,322",
+      "end_time": "00:10:52,933",
+      "quote": "Look... I know that HHM is shiny and it's slick. It's chock-full of lawyers and, compared to them, I'm like a... A kiddy lemonade stand trying to compete with Wal-Mart."
+    },
+    {
+      "chunk": "But here's the thing…",
+      "meaning": "但关键在于……／不过有一点……（引出要点）",
+      "start_cue": 211,
+      "end_cue": 214,
+      "start_time": "00:10:52,934",
+      "end_time": "00:11:01,675",
+      "quote": "But here's the thing... What are you gonna get from me That you're not gonna get from those other guys? Passion, commitment."
+    },
+    {
+      "chunk": "What are you gonna get from me that…?",
+      "meaning": "你能从我这里得到什么，而从别人那里得不到？（强调差异价值）",
+      "start_cue": 212,
+      "end_cue": 214,
+      "start_time": "00:10:55,019",
+      "end_time": "00:11:01,675",
+      "quote": "What are you gonna get from me That you're not gonna get from those other guys? Passion, commitment."
+    },
+    {
+      "chunk": "Ask yourself this…",
+      "meaning": "你问问自己这个问题……（引导对方重新判断）",
+      "start_cue": 215,
+      "end_cue": 217,
+      "start_time": "00:11:01,676",
+      "end_time": "00:11:09,330",
+      "quote": "Ask yourself this... who found you? I don't see Howard Hamlin... ruining his $300 Gucci loafers out here."
+    },
+    {
+      "chunk": "morning, noon, or night",
+      "meaning": "无论白天晚上／任何时间",
+      "start_cue": 218,
+      "end_cue": 219,
+      "start_time": "00:11:09,331",
+      "end_time": "00:11:14,471",
+      "quote": "If you're with me, you're my number-one client. Morning, noon, or night, you call me... I'm there."
+    },
+    {
+      "chunk": "make the paper",
+      "meaning": "上报纸，被报纸报道；paper 此处是报纸",
+      "start_cue": 225,
+      "end_cue": 229,
+      "start_time": "00:12:07,191",
+      "end_time": "00:12:18,201",
+      "quote": "Did it make the paper? - What? - Did it make the paper? Did what make the paper? Okay, well, probably missed the deadline, but check it out tomorrow morning... front page."
+    },
+    {
+      "chunk": "safe and sound",
+      "meaning": "平安无事，安然无恙",
+      "start_cue": 230,
+      "end_cue": 231,
+      "start_time": "00:12:18,202",
+      "end_time": "00:12:21,705",
+      "quote": "The Kettlemans, all four of them... Safe and sound."
+    },
+    {
+      "chunk": "You called it.",
+      "meaning": "被你说中了／你预测得对",
+      "start_cue": 232,
+      "end_cue": 234,
+      "start_time": "00:12:21,706",
+      "end_time": "00:12:30,396",
+      "quote": "- Looks like you called it. - Yeah. Camping... you know, pretty much right in their own backyard. Well... Five miles above it."
+    },
+    {
+      "chunk": "break my heart",
+      "meaning": "让我伤心／心碎；此处对罪犯不聪明的说法带玩笑",
+      "start_cue": 238,
+      "end_cue": 240,
+      "start_time": "00:12:41,943",
+      "end_time": "00:12:50,950",
+      "quote": "You assume that criminals are gonna be smarter than they are. I don't know. It kind of breaks my heart a little."
+    },
+    {
+      "chunk": "why on earth…?",
+      "meaning": "到底为什么……？（加强疑惑或不满）",
+      "start_cue": 245,
+      "end_cue": 247,
+      "start_time": "00:13:25,325",
+      "end_time": "00:13:33,326",
+      "quote": "Whoa, whoa. Why is my client in handcuffs? This man is innocent. He's a victim. why... why on earth would he be cuffed?"
+    },
+    {
+      "chunk": "push your luck",
+      "meaning": "得寸进尺／进一步冒险，可能把好运耗尽",
+      "start_cue": 256,
+      "end_cue": 257,
+      "start_time": "00:13:50,678",
+      "end_time": "00:13:57,684",
+      "quote": "You really don't want to push your luck with me, scumbag. You got eyes on you, asshole. One little slip... just one."
+    },
+    {
+      "chunk": "make us square",
+      "meaning": "让我们两清／互不相欠；square 不是正方形",
+      "start_cue": 260,
+      "end_cue": 261,
+      "start_time": "00:14:07,805",
+      "end_time": "00:14:15,902",
+      "quote": "I believe I did more than what you asked of me, so, that would make us square, yes?"
+    },
+    {
+      "chunk": "You expect me to believe…?",
+      "meaning": "你指望我相信……？（强烈怀疑）",
+      "start_cue": 264,
+      "end_cue": 265,
+      "start_time": "00:14:19,957",
+      "end_time": "00:14:24,628",
+      "quote": "Camping? You expect me to believe that shit?"
+    },
+    {
+      "chunk": "run sth. by sb.",
+      "meaning": "把想法／方案告诉某人，听取意见",
+      "start_cue": 268,
+      "end_cue": 269,
+      "start_time": "00:14:29,550",
+      "end_time": "00:14:32,836",
+      "quote": "They decide to go camping Right after I run my little offer by you?"
+    },
+    {
+      "chunk": "between you and me",
+      "meaning": "私下说／只告诉你（引出不公开的话）",
+      "start_cue": 274,
+      "end_cue": 276,
+      "start_time": "00:14:52,323",
+      "end_time": "00:14:59,663",
+      "quote": "And between you and me, They're pretty rash when it comes to the decision-making. I mean, they're not really the plan-ahead types."
+    },
+    {
+      "chunk": "I'd… if I were you.",
+      "meaning": "我要是你就会……（原例是警告，非友善建议）",
+      "start_cue": 277,
+      "end_cue": 278,
+      "start_time": "00:14:59,664",
+      "end_time": "00:15:03,833",
+      "quote": "Yeah, I'd cut the cute attitude right about now If I were you."
+    },
+    {
+      "chunk": "Not to mention…",
+      "meaning": "更不用说……／还有……（补充进一步理由）",
+      "start_cue": 283,
+      "end_cue": 286,
+      "start_time": "00:15:21,602",
+      "end_time": "00:15:33,446",
+      "quote": "You didn't need any help getting caught, okay? The neighbor ID'd you. You were sloppy. Any trouble you might have... that's on you. Not to mention the blood in your van."
+    },
+    {
+      "chunk": "You have no idea…",
+      "meaning": "你根本不知道……有多……（强调对方不了解的程度）",
+      "start_cue": 288,
+      "end_cue": 290,
+      "start_time": "00:15:37,451",
+      "end_time": "00:15:45,542",
+      "quote": "You have no idea the tap-dance I had to give those cops To get you out of here. You gave them probable cause out the wazoo."
+    },
+    {
+      "chunk": "out the wazoo",
+      "meaning": "多得不得了（粗俗口语）；此处是证据／理由很多",
+      "start_cue": 290,
+      "end_cue": 290,
+      "start_time": "00:15:41,706",
+      "end_time": "00:15:45,542",
+      "quote": "You gave them probable cause out the wazoo."
+    },
+    {
+      "chunk": "round sth. off to + 数字",
+      "meaning": "把某数取整／凑整到……；此处将工时按 20 小时算",
+      "start_cue": 299,
+      "end_cue": 300,
+      "start_time": "00:17:11,604",
+      "end_time": "00:17:17,467",
+      "quote": "$950 an hour. round it off to 20 hours."
+    },
+    {
+      "chunk": "I have the very thing.",
+      "meaning": "我正好有你要的东西（very 强调恰好）",
+      "start_cue": 321,
+      "end_cue": 323,
+      "start_time": "00:18:29,896",
+      "end_time": "00:18:37,903",
+      "quote": "Okay, I'm gonna need your finest sea island cotton with a white club collar and french cuffs. I have the very thing."
+    },
+    {
+      "chunk": "I was picturing something in…",
+      "meaning": "我原本设想的是……样式／颜色（描述想要的效果）",
+      "start_cue": 325,
+      "end_cue": 326,
+      "start_time": "00:18:40,240",
+      "end_time": "00:18:45,310",
+      "quote": "Yeah, I was, you know, picturing something in a... - A light-blue knit. -"
+    },
+    {
+      "chunk": "It's not even close.",
+      "meaning": "差得远／根本不像（否定比较）",
+      "start_cue": 335,
+      "end_cue": 339,
+      "start_time": "00:19:38,198",
+      "end_time": "00:19:54,096",
+      "quote": "So, um, what do you think? \"Strawberry Fields Forever\"? No. Are you crazy? It's not even close. - Yes, it is. Look. - No, no. It's way more \"Sassafras Glow\". Way more."
+    },
+    {
+      "chunk": "back sb. up",
+      "meaning": "支持某人的说法／替某人作证；此处请求旁人帮腔",
+      "start_cue": 340,
+      "end_cue": 344,
+      "start_time": "00:19:54,097",
+      "end_time": "00:20:07,242",
+      "quote": "Use your eyes... Strawberry Fields Forever. Ladies, back me up. Hey. Is it... Sassafras Glow. - Am I right? - No. Maybe \"Rhapsody in Blonde,\" but... Yeah, see? They agree with me."
+    },
+    {
+      "chunk": "Whatever happened to…?",
+      "meaning": "……不是一直这么说的吗？／……怎么不作数了？（质疑原则被忘记）",
+      "start_cue": 345,
+      "end_cue": 345,
+      "start_time": "00:20:07,243",
+      "end_time": "00:20:09,411",
+      "quote": "Whatever happened to \"the customer is always right\"?"
+    },
+    {
+      "chunk": "Big deal. / No biggie.",
+      "meaning": "有什么大不了／没什么（前者常不屑，后者随意轻描淡写）",
+      "start_cue": 348,
+      "end_cue": 350,
+      "start_time": "00:20:13,082",
+      "end_time": "00:20:20,167",
+      "quote": "Big deal. I'll wash it out in the morning. - No biggie. Geez. - It's bleach. - It doesn't wash out. - What? It's permanent?"
+    },
+    {
+      "chunk": "go with sth.",
+      "meaning": "选用某个方案／风格；不是陪某人一起走",
+      "start_cue": 352,
+      "end_cue": 355,
+      "start_time": "00:20:23,495",
+      "end_time": "00:20:35,687",
+      "quote": "Change of plan, ladies. I want to go with a simple curling-iron job, okay? Give me, like, ringlets... You know, on top, like Tony Curtis in \"Spartacus.\""
+    },
+    {
+      "chunk": "be up for sth.",
+      "meaning": "愿意／有兴致参加某事；原例邀请看电影",
+      "start_cue": 367,
+      "end_cue": 368,
+      "start_time": "00:21:23,936",
+      "end_time": "00:21:31,610",
+      "quote": "Anyway, \"The Thing\" is playing downtown on Saturday. Thought you might be up for some Kurt Russell action."
+    },
+    {
+      "chunk": "I owe you one.",
+      "meaning": "我欠你一个人情（不一定指具体钱款）",
+      "start_cue": 369,
+      "end_cue": 369,
+      "start_time": "00:21:31,611",
+      "end_time": "00:21:34,446",
+      "quote": "I owe you one, so why don't we just grab some dinner first?"
+    },
+    {
+      "chunk": "My treat.",
+      "meaning": "我请客，我买单",
+      "start_cue": 369,
+      "end_cue": 370,
+      "start_time": "00:21:31,611",
+      "end_time": "00:21:36,782",
+      "quote": "I owe you one, so why don't we just grab some dinner first? My treat."
+    },
+    {
+      "chunk": "If not, can you… anyway?",
+      "meaning": "如果不行，你还是能……吗？（保留另一项请求）",
+      "start_cue": 371,
+      "end_cue": 372,
+      "start_time": "00:21:36,783",
+      "end_time": "00:21:43,288",
+      "quote": "And... You know, if not, can you give me a call anyway? I really want to talk to you."
+    },
+    {
+      "chunk": "If it's okay with you,…",
+      "meaning": "如果你同意／不介意，我就……（先征求许可）",
+      "start_cue": 382,
+      "end_cue": 384,
+      "start_time": "00:22:05,954",
+      "end_time": "00:22:12,317",
+      "quote": "If it's okay with you, I think I should try to talk them into hiring a PR firm. Certainly for the next couple of weeks."
+    },
+    {
+      "chunk": "talk sb. into doing sth.",
+      "meaning": "说服某人做某事（不是单纯与其谈论）",
+      "start_cue": 382,
+      "end_cue": 384,
+      "start_time": "00:22:05,954",
+      "end_time": "00:22:12,317",
+      "quote": "If it's okay with you, I think I should try to talk them into hiring a PR firm. Certainly for the next couple of weeks."
+    },
+    {
+      "chunk": "Am I crazy here?",
+      "meaning": "是我想多了吗／看错了吗？（求证自己的判断）",
+      "start_cue": 392,
+      "end_cue": 394,
+      "start_time": "00:23:00,623",
+      "end_time": "00:23:11,793",
+      "quote": "That's... I mean, that's my suit, right? - Am I crazy here? - No, you're not crazy. Look at the logo. That's our logo."
+    },
+    {
+      "chunk": "That's one way to put it.",
+      "meaning": "可以这么说吧（此处含保留，暗示另一种更负面的说法）",
+      "start_cue": 397,
+      "end_cue": 398,
+      "start_time": "00:23:18,755",
+      "end_time": "00:23:25,541",
+      "quote": "I really... h-h-he's, you know, a free spirit. Yeah, that's one way to put it."
+    },
+    {
+      "chunk": "give sb. the third degree",
+      "meaning": "盘问某人；原文用 This isn't the third degree 否认在审问",
+      "start_cue": 405,
+      "end_cue": 405,
+      "start_time": "00:23:41,715",
+      "end_time": "00:23:44,576",
+      "quote": "This isn't the third degree, Kim. I really don't care one way or the other."
+    },
+    {
+      "chunk": "I don't care one way or the other.",
+      "meaning": "无论怎样我都不在意／哪一种都无所谓",
+      "start_cue": 405,
+      "end_cue": 405,
+      "start_time": "00:23:41,715",
+      "end_time": "00:23:44,576",
+      "quote": "This isn't the third degree, Kim. I really don't care one way or the other."
+    },
+    {
+      "chunk": "force my hand",
+      "meaning": "逼得我不得不采取行动（通常并非本来想做的）",
+      "start_cue": 407,
+      "end_cue": 407,
+      "start_time": "00:23:49,916",
+      "end_time": "00:23:52,177",
+      "quote": "He's really forcing my hand here."
+    },
+    {
+      "chunk": "Am I interrupting?",
+      "meaning": "我有没有打扰你？（进入谈话或工作时试探）",
+      "start_cue": 410,
+      "end_cue": 411,
+      "start_time": "00:24:19,035",
+      "end_time": "00:24:24,571",
+      "quote": "Am I interrupting? Not at all. Perfect timing. Come on."
+    },
+    {
+      "chunk": "free of charge",
+      "meaning": "免费，不收费用",
+      "start_cue": 412,
+      "end_cue": 412,
+      "start_time": "00:24:26,385",
+      "end_time": "00:24:29,871",
+      "quote": "Sit. Have a massage, free of charge."
+    },
+    {
+      "chunk": "one of the perks of sth.",
+      "meaning": "某事／生活方式带来的好处之一（附带福利）",
+      "start_cue": 423,
+      "end_cue": 425,
+      "start_time": "00:25:07,527",
+      "end_time": "00:25:15,544",
+      "quote": "I get this free every night... Just one of the perks of salon living. The others being... Free cucumber water, obviously."
+    },
+    {
+      "chunk": "This won't end well for you.",
+      "meaning": "这事对你不会有好结果（警告／威胁）",
+      "start_cue": 434,
+      "end_cue": 436,
+      "start_time": "00:25:53,248",
+      "end_time": "00:25:58,917",
+      "quote": "Well, his head didn't actually explode, but, you know, pretty damn pissed, like \"this won't end well for you\" pissed."
+    },
+    {
+      "chunk": "What the hell is with…?",
+      "meaning": "……到底是怎么回事？（粗俗，强烈不满）",
+      "start_cue": 441,
+      "end_cue": 443,
+      "start_time": "00:26:06,861",
+      "end_time": "00:26:15,193",
+      "quote": "What the hell is with that billboard? I know you have a problem with Hamlin, but I... I just don't get your angle here."
+    },
+    {
+      "chunk": "make this personal",
+      "meaning": "把争执变成针对个人／夹带私人恩怨",
+      "start_cue": 447,
+      "end_cue": 449,
+      "start_time": "00:26:23,469",
+      "end_time": "00:26:33,378",
+      "quote": "I mean... Why are you making this personal? It's not personal? It is so personal. It is completely and totally personal."
+    },
+    {
+      "chunk": "fire the first shot",
+      "meaning": "先挑起冲突／率先发难（比喻）",
+      "start_cue": 463,
+      "end_cue": 464,
+      "start_time": "00:27:02,992",
+      "end_time": "00:27:08,853",
+      "quote": "Hey, all right, now, he fired the first shot, okay? Trying to keep me from using my name, my own name, Kim?"
+    },
+    {
+      "chunk": "come after sb.",
+      "meaning": "找某人麻烦／针对、追究某人；此处威胁法律行动",
+      "start_cue": 475,
+      "end_cue": 476,
+      "start_time": "00:27:43,649",
+      "end_time": "00:27:48,987",
+      "quote": "If Hamlin wants to come after me, he knows where I am. I'll be ready, guns blazing."
+    },
+    {
+      "chunk": "with guns blazing",
+      "meaning": "火力全开／强势迎战（原文省略 with，比喻）",
+      "start_cue": 475,
+      "end_cue": 476,
+      "start_time": "00:27:43,649",
+      "end_time": "00:27:48,987",
+      "quote": "If Hamlin wants to come after me, he knows where I am. I'll be ready, guns blazing."
+    },
+    {
+      "chunk": "ply my trade",
+      "meaning": "从事自己的职业／做本行生意（较正式）",
+      "start_cue": 479,
+      "end_cue": 481,
+      "start_time": "00:28:43,464",
+      "end_time": "00:28:51,382",
+      "quote": "Your honor, I'm a humble solo practitioner, merely trying to ply my trade In an aggressive and evolving marketplace."
+    },
+    {
+      "chunk": "There are only so many…",
+      "meaning": "……的数量毕竟有限（强调选择有限，不是数量很多）",
+      "start_cue": 487,
+      "end_cue": 488,
+      "start_time": "00:29:03,032",
+      "end_time": "00:29:07,869",
+      "quote": "It... there are only so many fonts out there. Does Mr. Hamlin outright own them all?"
+    },
+    {
+      "chunk": "in concert with sth.",
+      "meaning": "与某物一起／协同发挥作用（较正式）",
+      "start_cue": 489,
+      "end_cue": 491,
+      "start_time": "00:29:07,870",
+      "end_time": "00:29:18,043",
+      "quote": "No, but we've been using this particular font for 12 years now, and it, in concert with our tri-rectangle graphic and Hamlindigo Blue, constitutes a trademarked brand identifier."
+    },
+    {
+      "chunk": "Back up.",
+      "meaning": "等等，回到刚才那一点（此处不是让车倒退）",
+      "start_cue": 492,
+      "end_cue": 493,
+      "start_time": "00:29:18,044",
+      "end_time": "00:29:24,812",
+      "quote": "Whoa, whoa. Back up. Hamlindigo blue? Yes. That is our trademarked name."
+    },
+    {
+      "chunk": "So I can't… now?",
+      "meaning": "所以现在连……都不行了？（反问，表达不满）",
+      "start_cue": 504,
+      "end_cue": 506,
+      "start_time": "00:29:48,160",
+      "end_time": "00:29:57,001",
+      "quote": "So I can't advertise under my own name now? I'm to be penalized 'cause I happen to share a name with one of HHM's partners? You can't take my name from me."
+    },
+    {
+      "chunk": "be within your rights to do sth.",
+      "meaning": "有权／在合理权利范围内做某事",
+      "start_cue": 515,
+      "end_cue": 516,
+      "start_time": "00:30:18,397",
+      "end_time": "00:30:21,993",
+      "quote": "All right, yes, you are within your rights to advertise using your own name."
+    },
+    {
+      "chunk": "for your own gain",
+      "meaning": "为了自己获利／谋取个人利益",
+      "start_cue": 517,
+      "end_cue": 520,
+      "start_time": "00:30:21,994",
+      "end_time": "00:30:34,270",
+      "quote": "However, in my estimation, the billboard clearly and intentionally duplicates elements of the Hamlin, Hamlin, McGill logo. You're actively copying their established brand for your own gain."
+    },
+    {
+      "chunk": "Wise up.",
+      "meaning": "清醒点／明白点吧（直接，可带责备）",
+      "start_cue": 521,
+      "end_cue": 523,
+      "start_time": "00:30:34,271",
+      "end_time": "00:30:42,825",
+      "quote": "I don't see any other reasonable explanation. - Your honor, I... - Jimmy, Jimmy. Wise up. The billboard must come down within 48 hours."
+    },
+    {
+      "chunk": "It's right up your alley.",
+      "meaning": "这正合你兴趣／是你擅长的事（美式口语）",
+      "start_cue": 527,
+      "end_cue": 528,
+      "start_time": "00:30:52,446",
+      "end_time": "00:30:56,712",
+      "quote": "Yeah, but it's investigative journalism at its best. I-it's right up your alley."
+    },
+    {
+      "chunk": "sth. at its best",
+      "meaning": "某事最出色／最充分展现特点的样子",
+      "start_cue": 527,
+      "end_cue": 528,
+      "start_time": "00:30:52,446",
+      "end_time": "00:30:56,712",
+      "quote": "Yeah, but it's investigative journalism at its best. I-it's right up your alley."
+    },
+    {
+      "chunk": "a hot tip",
+      "meaning": "有价值的内幕线索／独家消息（不只是建议）",
+      "start_cue": 531,
+      "end_cue": 535,
+      "start_time": "00:31:16,298",
+      "end_time": "00:31:27,091",
+      "quote": "Can I get the news desk, please? I got a hot tip. Don't you want to be the station that brought down big law? You could be like the reporters that brought down big tobacco. Look, I'm talking Woodward and Bernstein here."
+    },
+    {
+      "chunk": "a miscarriage of justice",
+      "meaning": "司法不公／错误的司法结果（严肃用语，原说话人如此定性）",
+      "start_cue": 537,
+      "end_cue": 539,
+      "start_time": "00:31:31,730",
+      "end_time": "00:31:40,488",
+      "quote": "Well, it's a miscarriage of justice, <i>And I think your viewers would be very, very interested</i> And, grateful to you for exposing this injustice."
+    },
+    {
+      "chunk": "a pillar of the community",
+      "meaning": "社区中受尊敬、具有重要作用的人／组织",
+      "start_cue": 542,
+      "end_cue": 542,
+      "start_time": "00:31:45,194",
+      "end_time": "00:31:49,697",
+      "quote": "No, yes, HHM is a pillar of the community, yes."
+    },
+    {
+      "chunk": "pull yourself up by your bootstraps",
+      "meaning": "靠自己的努力改善处境（比喻）；原例用于塑造自力更生形象",
+      "start_cue": 546,
+      "end_cue": 549,
+      "start_time": "00:31:57,623",
+      "end_time": "00:32:07,548",
+      "quote": "Well, at least consider the human-interest angle here. Are you kidding? It's... lawyer pulls himself up by his bootstraps, Only to be ground under the heel of the old-money megafirm?"
+    },
+    {
+      "chunk": "May I suggest (that)…?",
+      "meaning": "容我建议……？（礼貌地提出具体改动）",
+      "start_cue": 557,
+      "end_cue": 559,
+      "start_time": "00:33:11,163",
+      "end_time": "00:33:20,121",
+      "quote": "Fine, may I suggest you widen the frame to include... The billboard is the story, okay? No, I'm also the story, so... Got to get me in there."
+    },
+    {
+      "chunk": "No offense, but…",
+      "meaning": "无意冒犯，但……（缓冲批评，不保证对方不会被冒犯）",
+      "start_cue": 561,
+      "end_cue": 562,
+      "start_time": "00:33:21,373",
+      "end_time": "00:33:26,844",
+      "quote": "You know, no offense to your minutes of experience, But I'd like to see what we got before we do this, okay?"
+    },
+    {
+      "chunk": "put myself through school",
+      "meaning": "自己挣钱支付学费并完成学业",
+      "start_cue": 586,
+      "end_cue": 587,
+      "start_time": "00:34:29,574",
+      "end_time": "00:34:35,079",
+      "quote": "Like most Americans, I'm a self-made man. I put myself through law school."
+    },
+    {
+      "chunk": "scrimp and save",
+      "meaning": "省吃俭用，努力攒钱",
+      "start_cue": 593,
+      "end_cue": 595,
+      "start_time": "00:34:52,347",
+      "end_time": "00:35:03,274",
+      "quote": "Well, I-i scrimped and I saved, and finally, I was able to buy one billboard... A tiny foray into advertising for my fledgling law firm."
+    },
+    {
+      "chunk": "side with sb.",
+      "meaning": "站在／支持某人一边；此处指法院裁决偏向哪一方",
+      "start_cue": 601,
+      "end_cue": 604,
+      "start_time": "00:35:17,939",
+      "end_time": "00:35:34,004",
+      "quote": "<i>They said that I was hurting their business.</i> They're rich. They're powerful. I'm just... One man. So, who do you think the courts sided with? So now my little billboard comes down."
+    },
+    {
+      "chunk": "one sth. at a time",
+      "meaning": "一次一个／一步一步来；原例每次爬一级梯子",
+      "start_cue": 621,
+      "end_cue": 622,
+      "start_time": "00:36:30,637",
+      "end_time": "00:36:37,483",
+      "quote": "Not looking down. One rung at a time. Not looking down."
+    },
+    {
+      "chunk": "Took you long enough.",
+      "meaning": "你可算……了／怎么这么久才来（不耐烦或打趣，省略 It）",
+      "start_cue": 633,
+      "end_cue": 634,
+      "start_time": "00:38:05,875",
+      "end_time": "00:38:09,248",
+      "quote": "You okay? Took you long enough."
+    },
+    {
+      "chunk": "be not a big fan of sth.",
+      "meaning": "不太喜欢某事／某物（较委婉，原例说怕高）",
+      "start_cue": 635,
+      "end_cue": 637,
+      "start_time": "00:38:20,138",
+      "end_time": "00:38:25,342",
+      "quote": "<i>I was scared, yes.</i> <i>I mean, I'm not really a big fan of heights...</i> <i>Let me tell you.</i>"
+    },
+    {
+      "chunk": "buy this",
+      "meaning": "相信这套说法，不是购买东西",
+      "start_cue": 642,
+      "end_cue": 645,
+      "start_time": "00:38:36,016",
+      "end_time": "00:38:44,160",
+      "quote": "This whole thing was a publicity stunt. It's got to be. <i>I think that's kind of all anybody wants when they're in trouble.</i> <i>Of course I didn't think...</i> You don't think anyone's gonna actually buy this?"
+    },
+    {
+      "chunk": "It's hard to say.",
+      "meaning": "很难说／不好判断（保留不确定性）",
+      "start_cue": 645,
+      "end_cue": 646,
+      "start_time": "00:38:42,010",
+      "end_time": "00:38:49,109",
+      "quote": "You don't think anyone's gonna actually buy this? It's hard to say. People love a hero."
+    },
+    {
+      "chunk": "take it as it comes",
+      "meaning": "事情来了再应对／顺其自然地处理",
+      "start_cue": 647,
+      "end_cue": 648,
+      "start_time": "00:38:49,110",
+      "end_time": "00:38:53,504",
+      "quote": "<i>You take it as it comes, right?</i> <i>The universe put me in that spot at that moment.</i>"
+    },
+    {
+      "chunk": "Who am I to say no?",
+      "meaning": "我又有什么理由／资格拒绝呢？（修辞性反问）",
+      "start_cue": 647,
+      "end_cue": 649,
+      "start_time": "00:38:49,110",
+      "end_time": "00:38:54,955",
+      "quote": "<i>You take it as it comes, right?</i> <i>The universe put me in that spot at that moment.</i> <i>Who am I to say no?</i>"
+    },
+    {
+      "chunk": "ring off the hook",
+      "meaning": "电话响个不停，来电接连不断",
+      "start_cue": 662,
+      "end_cue": 663,
+      "start_time": "00:41:12,463",
+      "end_time": "00:41:19,474",
+      "quote": "Hey, big day. My phone's ringing off the hook. I have three consults before lunchtime... three."
+    },
+    {
+      "chunk": "The worm has turned.",
+      "meaning": "原文借用：局面扭转；通常指长期受欺压者开始反抗，不泛化为万能“转运”说法",
+      "start_cue": 665,
+      "end_cue": 665,
+      "start_time": "00:41:22,898",
+      "end_time": "00:41:25,713",
+      "quote": "The worm has turned."
+    },
+    {
+      "chunk": "To what do you credit sth.?",
+      "meaning": "你把某个变化／成果归功于什么？（较正式；口语 What do you credit sth. to?）",
+      "start_cue": 667,
+      "end_cue": 667,
+      "start_time": "00:41:27,117",
+      "end_time": "00:41:30,355",
+      "quote": "So, to what do you credit this sudden change?"
+    },
+    {
+      "chunk": "keep plugging",
+      "meaning": "继续坚持、努力干下去（原文 plugging 未接宾语）",
+      "start_cue": 668,
+      "end_cue": 671,
+      "start_time": "00:41:30,356",
+      "end_time": "00:41:39,818",
+      "quote": "Well, I got to admit... you were right. How so? Well, you told me to keep plugging and, you know... do good work, and the clients will come."
+    },
+    {
+      "chunk": "elbow grease",
+      "meaning": "卖力干活／投入体力劳动，不是润滑油",
+      "start_cue": 685,
+      "end_cue": 686,
+      "start_time": "00:42:19,872",
+      "end_time": "00:42:25,207",
+      "quote": "I mean, hey, just took some elbow grease and clean living... People noticed."
+    },
+    {
+      "chunk": "I knew you had it in you.",
+      "meaning": "我就知道你有这个能力／潜力",
+      "start_cue": 687,
+      "end_cue": 687,
+      "start_time": "00:42:26,710",
+      "end_time": "00:42:28,929",
+      "quote": "I knew you had it in you."
+    },
+    {
+      "chunk": "I don't know what to tell you.",
+      "meaning": "我不知道还能怎么说／给你什么解释（可能无奈或回避）",
+      "start_cue": 691,
+      "end_cue": 696,
+      "start_time": "00:42:39,888",
+      "end_time": "00:42:54,899",
+      "quote": "Yeah. I didn't see it outside. Wasn't out there? It's always out there. I didn't see it. Maybe they forgot to deliver it. Maybe some kids grabbed it. Because if there's one thing kids love, it's local print journalism. I don't know what to tell you."
+    },
+    {
+      "chunk": "tide sb. over",
+      "meaning": "暂时满足所需、撑到之后；此处问另一份报纸能否先凑合读",
+      "start_cue": 699,
+      "end_cue": 700,
+      "start_time": "00:43:00,605",
+      "end_time": "00:43:05,921",
+      "quote": "You know, I know Albuquerque is a hub of global intrigue, but you think that'll tide you over?"
+    }
+  ]
+}
