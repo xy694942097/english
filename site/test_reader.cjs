@@ -23,17 +23,19 @@ const assert = require('node:assert/strict');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
 
-    // 编辑保持在阅读栏内，默认只有所见即所得正文；可切到单栏源码。
+    // 点击编辑直接让现有正文块可改，取消后恢复原文。
     page.on('dialog', dialog => dialog.accept());
     await page.getByRole('button', {name:'编辑本文', exact:true}).click();
-    await page.locator('.toastui-editor-ww-container').waitFor();
-    assert.equal(await page.locator('.toastui-editor-ww-container').isVisible(), true);
-    assert.equal(await page.locator('.toastui-editor-md-container').isVisible(), false, '默认不显示并排 Markdown 栏');
+    assert.equal(await page.locator('#article').isVisible(), true);
+    assert.ok(await page.locator('#article [contenteditable=true]').count() > 0, '正文直接可编辑');
     assert.equal(await page.locator('.sidebar').isVisible(), true, '编辑时保留导航');
-    await page.locator('.toastui-editor-mode-switch .tab-item').first().click();
-    assert.equal(await page.locator('.toastui-editor-md-container').isVisible(), true, '可切换到源码');
+    const originalText = await page.locator('#article p[data-md-start]').first().innerText();
+    await page.locator('#article p[data-md-start]').first().click();
+    await page.keyboard.type('测试取消');
+    assert.equal(await page.getByRole('button', {name:'保存修改'}).isEnabled(), true);
     await page.getByRole('button', {name:'取消', exact:true}).click();
     assert.equal(await page.locator('#article').isVisible(), true, '取消后回到原阅读页');
+    assert.equal(await page.locator('#article p[data-md-start]').first().innerText(), originalText);
 
     // 两侧边栏可独立收起并恢复，左侧状态可在刷新后保持。
     await page.getByRole('button', {name:'收起左侧导航',exact:true}).click();
@@ -137,13 +139,10 @@ const assert = require('node:assert/strict');
     await page.goto(base + '#' + encodeURIComponent('Chunks 收集/Better Call Saul：Chunks 积累.md'));
     await page.getByRole('heading', {name:'Better Call Saul：Chunks 积累',exact:true}).waitFor();
     await page.getByRole('button', {name:'编辑本文', exact:true}).click();
-    assert.equal(await page.locator('#section-edit-tip').isVisible(), true, '长文直接进入选节状态');
-    assert.equal(await page.locator('#article').isVisible(), true, '选节时保留原阅读页');
-    await page.locator('#article h2').first().click();
-    await page.locator('.toastui-editor-ww-container').waitFor();
-    assert.equal(await page.locator('#article > .section-fold').last().isVisible(), true, '编辑一节时其余剧集仍可见');
+    assert.equal(await page.locator('#article').isVisible(), true, '长文原页面直接可编辑');
+    assert.ok(await page.locator('#article [contenteditable=true]').count() > 8000);
     await page.getByRole('button', {name:'取消', exact:true}).click();
-    assert.equal(await page.locator('#section-edit-tip').isVisible(), false);
+    assert.equal(await page.locator('#article [contenteditable=true]').count(), 0);
     assert.equal(await page.locator('#article table').count(), 0);
     assert.ok(await page.locator('#article h3').count() >= 1065, '第一季全部条目已展示');
     assert.equal(await page.locator('#nav').getByText('Better Call Saul：第一集纵向条目试读', {exact:true}).count(), 0);
@@ -172,6 +171,9 @@ const assert = require('node:assert/strict');
     // 移动端无横向溢出
     await page.setViewportSize({width: 390, height: 844});
     assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false);
+    await page.getByRole('button', {name:'编辑本文', exact:true}).click();
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false, '移动端编辑工具栏不横向溢出');
+    await page.getByRole('button', {name:'取消', exact:true}).click();
 
     // 自定义 Markdown 目录、重复标题与历史定位；搜索无结果后能回到原文。
     const catalogue = await (await page.request.get(base + 'api/catalog')).json();
@@ -193,7 +195,7 @@ const assert = require('node:assert/strict');
     await page.unroute('**/api/catalog');
 
     assert.deepEqual(errors, []);
-    console.log('PASS: in-place and section editor, reader, nav, TOC, links, search, theme, /files/, mobile width; no page errors.');
+    console.log('PASS: direct block editing, reader, nav, TOC, links, search, theme, /files/, mobile width; no page errors.');
   } finally {
     await browser.close();
   }

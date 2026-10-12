@@ -92,14 +92,17 @@ body:not(.right-collapsed) #right-toggle { right: calc(min(360px, 100vw) - 15px)
 .section-content { padding-top: .3rem; }
 .section-controls { display: flex; gap: .5rem; flex-wrap: wrap; margin: .7rem 0 1.5rem; }
 .section-controls button { background: var(--paper); border: 1px solid var(--line); border-radius: 4px; padding: .35rem .7rem; font-size: .9em; }
-.section-edit-tip{max-width:860px;margin:8px auto 0;padding:8px 48px;color:var(--accent);font-size:13px}
-.section-picking .editable-heading{cursor:pointer}
-.section-picking .editable-heading::after{content:'编辑本节';display:inline-block;margin-left:.7em;color:var(--accent);font:600 12px var(--sans)}
-.section-picking .editable-heading:hover{color:var(--accent)}
+.quick-editing .section-controls{display:none}
+.quick-editing-mode .reading-top{position:sticky;top:60px;z-index:6;background:var(--bg);padding-bottom:8px;border-bottom:1px solid var(--line)}
+.quick-editing [data-md-start]{cursor:text;outline:1px solid transparent;outline-offset:4px}
+.quick-editing [data-md-start]:hover{outline-color:var(--line)}
+.quick-editing [data-md-start]:focus{outline:2px solid var(--accent);background:var(--paper)}
+.quick-format{display:flex;gap:2px;border-right:1px solid var(--line);padding-right:8px;margin-right:4px}
+.quick-format button{min-width:30px;padding:3px 6px;border-color:transparent;background:transparent}
+.quick-format button:hover{background:var(--soft)}
 
 /* Editor occupies the article's text column; its internal padding aligns with prose. */
 .reading-actions{flex-shrink:0}.edit-panel{padding:12px 48px 48px;max-width:910px;margin:auto}
-.edit-panel.section-edit{max-width:none;width:100%;margin:0;padding:8px 0 24px;scroll-margin-top:100px}
 .edit-actions{display:flex;align-items:center;gap:8px;flex-shrink:0}.edit-actions button{white-space:nowrap}
 #edit-status{font-size:12px;color:var(--muted);margin-right:6px}.edit-actions .primary{background:var(--accent);border-color:var(--accent);color:#fff}.edit-actions .primary:disabled{opacity:.5;cursor:default}
 .edit-hint{font-size:12px;color:var(--muted);margin:10px 0 0}
@@ -113,5 +116,5 @@ body:not(.right-collapsed) #right-toggle { right: calc(min(360px, 100vw) - 15px)
 #markdown-editor .toastui-editor-contents h2{font-size:1.35em}
 #markdown-editor .toastui-editor-contents h3{font-size:1.15em}
 #markdown-editor .toastui-editor-contents h4{font-size:1em}
-@media(max-width:1150px){.edit-panel{padding:12px 24px 40px}.section-edit-tip{padding-left:24px;padding-right:24px}}
-@media(max-width:760px){.edit-panel{padding:12px 0 32px}.edit-panel.section-edit{padding:8px 0 24px}.section-edit-tip{padding-left:16px;padding-right:16px}.edit-actions{flex-wrap:wrap;justify-content:flex-end}#edit-status{flex-basis:100%;text-align:right}.reading-top{padding-top:14px;align-items:flex-start}#markdown-editor .toastui-editor-contents{padding-left:16px;padding-right:16px}}
+@media(max-width:1150px){.edit-panel{padding:12px 24px 40px}}
+@media(max-width:760px){.edit-panel{padding:12px 0 32px}.reading-top{padding-top:14px;flex-direction:column;align-items:stretch}.reading-actions,.edit-actions{width:100%}.edit-actions{flex-wrap:wrap;justify-content:flex-end}#edit-status{flex-basis:100%;text-align:right}.quick-editing-mode .reading-top{top:100px}#markdown-editor .toastui-editor-contents{padding-left:16px;padding-right:16px}}
