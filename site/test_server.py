@@ -6,6 +6,48 @@ import server
 
 
 class ViewerTests(unittest.TestCase):
+    def make_edit_root(self, root):
+        (root / 'nav.json').write_text(json.dumps({'groups': [
+            {'title': '组', 'items': ['chapter.md']}]}), encoding='utf-8')
+        (root / 'chapter.md').write_text('# 原标题\n旧正文\n', encoding='utf-8')
+        return server.catalog(root)[0]
+
+    def test_save_registered_markdown_and_refresh_title(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            item = self.make_edit_root(root)
+            result = server.save_document('chapter.md', '# 新标题\n新正文\n', item['sha256'], root)
+            self.assertEqual(result['title'], '新标题')
+            self.assertEqual((root / 'chapter.md').read_text(encoding='utf-8'), '# 新标题\n新正文\n')
+            self.assertEqual(server.catalog(root)[0]['sha256'], result['sha256'])
+
+    def test_save_refuses_stale_version_and_unregistered_path(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            item = self.make_edit_root(root)
+            (root / 'chapter.md').write_text('# 外部修改\n', encoding='utf-8')
+            with self.assertRaises(server.SaveError) as error:
+                server.save_document('chapter.md', '# 网页修改\n', item['sha256'], root)
+            self.assertEqual(error.exception.status, 409)
+            self.assertEqual((root / 'chapter.md').read_text(encoding='utf-8'), '# 外部修改\n')
+            for bad_id in ('../chapter.md', 'unknown.md'):
+                with self.assertRaises(server.SaveError) as error:
+                    server.save_document(bad_id, 'bad', item['sha256'], root)
+                self.assertEqual(error.exception.status, 404)
+
+    def test_save_rejects_registered_symlink_outside_root(self):
+        with tempfile.TemporaryDirectory() as temp, tempfile.TemporaryDirectory() as outside:
+            root = Path(temp)
+            external = Path(outside) / 'external.md'
+            external.write_text('# Outside\n', encoding='utf-8')
+            (root / 'chapter.md').symlink_to(external)
+            (root / 'nav.json').write_text(json.dumps({'groups': [
+                {'title': '组', 'items': ['chapter.md']}]}), encoding='utf-8')
+            with self.assertRaises(server.SaveError) as error:
+                server.save_document('chapter.md', 'changed', server.digest(external.read_bytes()), root)
+            self.assertEqual(error.exception.status, 404)
+            self.assertEqual(external.read_text(encoding='utf-8'), '# Outside\n')
+
     def test_catalog_lists_only_registered_docs_with_md_titles(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)

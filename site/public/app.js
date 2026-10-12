@@ -1,6 +1,129 @@
 'use strict';
 const $ = id => document.getElementById(id);
-const state = {items: [], nav: {groups:[]}, aliases: {}, current: null, searching: false};
+const state = {items: [], nav: {groups:[]}, aliases: {}, current: null, searching: false, editing: null};
+let editorAssetsPromise;
+
+function editorAssets() {
+  if (editorAssetsPromise) return editorAssetsPromise;
+  for (const file of ['toastui-editor.css', 'toastui-editor-dark.css']) {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet'; link.href = '/vendor/toastui/' + file;
+    if (file.includes('dark')) link.id = 'editor-dark-css';
+    document.head.append(link);
+  }
+  const loadScript = src => new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+    script.src = src; script.onload = resolve; script.onerror = reject;
+    document.head.append(script);
+  });
+  editorAssetsPromise = loadScript('/vendor/toastui/editor-bundle.js')
+    .then(() => loadScript('/vendor/toastui/zh-cn.js'));
+  return editorAssetsPromise;
+}
+
+function refreshEditorTheme() {
+  const dark = (document.documentElement.dataset.theme ||
+    (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark';
+  $('edit-panel').classList.toggle('toastui-editor-dark', dark);
+  $('markdown-editor').querySelector('.toastui-editor-defaultUI')?.classList.toggle('toastui-editor-dark', dark);
+}
+
+function updateEditDirty() {
+  const editing = state.editing;
+  if (!editing) return;
+  editing.dirty = editing.editor.getMarkdown() !== editing.baseline;
+  $('save-edit').disabled = !editing.dirty || editing.saving;
+  $('edit-status').textContent = editing.dirty ? '有未保存的修改' : '尚无修改';
+}
+
+async function beginEdit() {
+  if (!state.current || state.editing) return;
+  const item = state.current;
+  $('edit-document').disabled = true;
+  try {
+    await editorAssets();
+    if (state.current !== item) return;
+    $('article').hidden = true;
+    $('source').hidden = true;
+    $('edit-panel').hidden = false;
+    $('edit-document').hidden = true;
+    $('edit-title').textContent = item.title;
+    $('search').disabled = true;
+    closeOutline();
+    $('right-toggle').hidden = true;
+    refreshEditorTheme();
+    const editor = new toastui.Editor({
+      el: $('markdown-editor'), height: 'calc(100vh - 225px)', minHeight: '450px',
+      initialEditType: 'markdown', previewStyle: 'vertical', language: 'zh-CN',
+      initialValue: item.body, usageStatistics: false,
+      toolbarItems: [
+        ['heading', 'bold', 'italic', 'strike'], ['hr', 'quote'],
+        ['ul', 'ol', 'task', 'indent', 'outdent'], ['table', 'image', 'link'],
+        ['code', 'codeblock'], ['scrollSync'],
+      ],
+      hooks: {addImageBlobHook: () => {
+        alert('请先把图片存入项目，再用图片网址或相对路径插入。');
+        return false;
+      }},
+    });
+    refreshEditorTheme();
+    state.editing = {item, editor, baseline: editor.getMarkdown(), dirty: false, saving: false};
+    editor.on('change', updateEditDirty);
+    updateEditDirty();
+  } catch (error) {
+    $('edit-status').textContent = '';
+    $('article').hidden = false; $('source').hidden = false;
+    $('edit-panel').hidden = true; $('edit-document').hidden = false;
+    $('search').disabled = false;
+    alert('编辑器加载失败：' + error.message);
+  } finally {
+    $('edit-document').disabled = false;
+  }
+}
+
+function endEdit() {
+  if (!state.editing) return;
+  state.editing.editor.destroy();
+  state.editing = null;
+  $('markdown-editor').replaceChildren();
+  $('edit-panel').hidden = true;
+  $('article').hidden = false;
+  $('source').hidden = false;
+  $('edit-document').hidden = false;
+  $('search').disabled = false;
+  $('edit-status').textContent = '';
+}
+
+function cancelEdit() {
+  if (!state.editing || state.editing.saving) return;
+  if (state.editing.dirty && !confirm('有未保存的修改，确定放弃吗？')) return;
+  endEdit();
+  route();
+}
+
+async function saveEdit() {
+  const editing = state.editing;
+  if (!editing || !editing.dirty || editing.saving) return;
+  editing.saving = true;
+  $('save-edit').disabled = true;
+  $('edit-status').textContent = '正在保存…';
+  try {
+    const response = await fetch('/api/document', {
+      method: 'POST', headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({id: editing.item.id, body: editing.editor.getMarkdown(),
+        expectedSha256: editing.item.sha256}),
+    });
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || '保存失败');
+    Object.assign(editing.item, result);
+    endEdit();
+    route({force: true});
+  } catch (error) {
+    $('edit-status').textContent = error.message;
+    editing.saving = false;
+    $('save-edit').disabled = false;
+  }
+}
 
 function fixAssets(contentEl, docPath) {
   // markdown 里的相对路径：图片改走 /files/，文档链接改成 hash 深链
@@ -188,8 +311,7 @@ function nav() {
   $('nav').innerHTML=html;
 }
 
-function route() {
-  $('search').value = '';
+function route({force = false} = {}) {
   const [rawId, rawAnchor=''] = location.hash.slice(1).split('::');
   let id, anchor; try { id=decodeURIComponent(rawId); anchor=decodeURIComponent(rawAnchor); } catch { id=''; anchor=''; }
   if (state.aliases[id] && state.items.some(x => x.id === state.aliases[id])) {
@@ -197,7 +319,16 @@ function route() {
     history.replaceState(null, '', docHash(id, anchor));
   }
   const item = state.items.find(x=>x.id===id) || state.items[0];
-  if (item && state.current?.id === item.id && !state.searching) {
+  if (state.editing) {
+    if (item?.id === state.editing.item.id) return;
+    if (state.editing.dirty && !confirm('有未保存的修改，确定离开吗？')) {
+      history.replaceState(null, '', docHash(state.editing.item.id));
+      return;
+    }
+    endEdit();
+  }
+  $('search').value = '';
+  if (item && state.current?.id === item.id && !state.searching && !force) {
     scrollToSection(anchor); return;
   }
   state.current = item;
@@ -208,6 +339,7 @@ function route() {
   foldDocumentSections();
   $('breadcrumb').textContent = item.group + ' / ' + item.title;
   $('source').textContent = 'english/' + item.id;
+  $('edit-document').hidden = false;
   nav();
   scrollToSection(anchor);
 }
@@ -225,6 +357,7 @@ $('search').oninput=()=>{
   state.searching = true;
   closeOutline();
   $('right-toggle').hidden = true;
+  $('edit-document').hidden = true;
   const results=state.items.filter(x=>(x.title+'\n'+x.body).toLowerCase().includes(query));
   $('article').innerHTML=`<h1>搜索知识书</h1><p>${results.length} 个结果</p>`+results.map(x=>{const at=x.body.toLowerCase().indexOf(query);return `<a class="search-result" href="#${encodeURIComponent(x.id)}"><strong>${x.title}</strong><small>${x.body.slice(Math.max(0,at-30),Math.max(0,at-30)+150)}</small></a>`;}).join('');
   $('breadcrumb').textContent='全文搜索';$('source').textContent='';
@@ -232,12 +365,16 @@ $('search').oninput=()=>{
 $('article').addEventListener('click',e=>{if(e.target.closest('a')?.hash===location.hash)route();});
 $('nav').addEventListener('click',e=>{if(e.target.closest('a')?.hash===location.hash)route();if(e.target.closest('a'))e.target.closest('details')?.setAttribute('open','');});
 $('right-toggle').onclick = toggleOutline;
+$('edit-document').onclick = beginEdit;
+$('cancel-edit').onclick = cancelEdit;
+$('save-edit').onclick = saveEdit;
 $('left-toggle').onclick = () => setLeftSidebarOpen(document.body.classList.contains('left-collapsed'));
 $('outline-links').addEventListener('click', e => { if (e.target.closest('a')) closeOutline(); });
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeOutline(); });
 setLeftSidebarOpen(localStorage.getItem('english-left-sidebar') !== 'closed');
 closeOutline();
-$('theme').onclick=()=>{const current=document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');const next=current==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('english-theme',next);};
+$('theme').onclick=()=>{const current=document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');const next=current==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('english-theme',next);refreshEditorTheme();};
 if(localStorage.getItem('english-theme'))document.documentElement.dataset.theme=localStorage.getItem('english-theme');
 addEventListener('hashchange',route);
+addEventListener('beforeunload', e => {if (state.editing?.dirty) {e.preventDefault(); e.returnValue = '';}});
 (async()=>{try{await loadBook();}catch(e){$('article').textContent=e.message;}})();

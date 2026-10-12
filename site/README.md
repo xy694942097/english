@@ -1,6 +1,6 @@
 # English Book 本地站点
 
-纯 markdown 文档查看器：侧边栏目录 + 关键词全文搜索 + 右侧自动目录跳转 + 深浅主题切换。只读，无学习记录、无词典、无对话后端（2026-09-23 收敛，决策记录见 `engineering/design/site-simplification-v2.md`）。
+本地 Markdown 阅读与编辑站点：侧边栏目录、全文搜索、右侧自动目录、标题折叠、深浅主题和手动编辑。仍无学习记录、词典或对话后端；2026-09-23 的查看器收敛见 `engineering/design/site-simplification-v2.md`，2026-10-12 按用户要求加入编辑源文件。
 
 ## 运行
 
@@ -9,7 +9,7 @@ cd /Users/xianyi/workspace/learn/english
 python3 site/server.py            # http://127.0.0.1:4174，可用 --port 换端口
 ```
 
-只监听回环地址。Python 3.10+，无其他依赖；前端零安装、无 CDN（marked 与 highlight.js 在 `site/public/vendor/`）。
+只监听回环地址。Python 3.10+，无其他运行依赖；前端零安装、无 CDN（marked、highlight.js 和 TOAST UI Editor 在 `site/public/vendor/`）。
 
 ## 配置 nav.json
 
@@ -43,11 +43,14 @@ python3 site/server.py            # http://127.0.0.1:4174，可用 --port 换端
 - **参考答案**：正文 `## 参考答案` 之后的内容默认折叠
 - **渲染**：marked（GFM：表格、删除线、嵌套列表等）+ highlight.js 代码高亮；不执行原始 HTML
 - **主题**：跟随系统深浅色，可手动切换并记忆
+- **编辑**：打开文章后点「编辑本文」，使用格式工具栏编辑，底部可在 Markdown 与所见即所得之间切换。默认是 Markdown 源码与实时预览；复杂文档建议保持 Markdown 模式，所见即所得切换可能整理原有源码排版。点「保存修改」会写回原 `.md` 文件，并刷新阅读页与目录标题；取消或离开时提示未保存内容。图片可填 URL 或项目内相对路径，暂不支持直接上传图片。
+- **保存边界**：`POST /api/document` 只接受 `nav.json` 登记的现有 `.md` 路径、同源浏览器请求和 8 MB 以内正文；服务端校验打开时的 SHA-256，若磁盘文件已被其他工具修改会返回 409，保留浏览器内编辑内容供复制。保存是直接改源文件，不代表教材已审校。建议让 Git 负责版本回退。
+- **编辑器来源**：TOAST UI Editor 3.2.2（MIT，[项目仓库](https://github.com/nhn/tui.editor)），运行包已本地打包，许可证见 `public/vendor/toastui/LICENSE`。该上游仓库已归档；以后若升级编辑器，需重新验证 Markdown 往返与浏览器兼容性。
 
 ## 验证
 
 ```bash
-python3 site/test_server.py        # 单元：目录登记、标题提取、路径边界
+python3 site/test_server.py        # 单元：目录、路径、保存及冲突检查
 python3 site/server.py &
 ENGLISH_TEST_URL=http://127.0.0.1:4174 node site/test_reader.cjs   # Playwright 冒烟
 ```
