@@ -1,0 +1,508 @@
+{
+  "source_id": "PPP-2005-book1-doc-pg66",
+  "html_source": "https://www.govinfo.gov/content/pkg/PPP-2005-book1/html/PPP-2005-book1-doc-pg66.htm",
+  "source_sha256": "2e5c00c7abbc6dd2bf9c874a3cddbab840165a7afebe41bb3e80cf41a30db982",
+  "paragraphs_read": 28,
+  "read_ranges": [
+    [
+      1,
+      28
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        28
+      ]
+    ],
+    "method": "首轮逐段检查外层表达骨架和内部搭配，二遍回看全部未收段及已收段中的对比、让步、否定、责任和请求动作；只在总统素材内查重，未按组成词简单推定掌握。",
+    "added": 6,
+    "intentionally_omitted": "称呼名单、套式宗教祝福、专名和政治口号、一次性长比喻；单词义项不伪装固定词块。"
+  },
+  "items": [
+    {
+      "chunk": "be determined to do sth.",
+      "meaning": "决心做某事",
+      "register": "中性／决心",
+      "note": "不是被决定安排去做。",
+      "paragraph": 2,
+      "quote": "I am grateful for the honor of this hour, mindful of the consequential times in which we live, and determined to fulfill the oath that I have sworn and you have witnessed.",
+      "quote_sha256": "d0e18781e86d4de5d8d63f67afc0a54d2773d9ecddc488a874e8aa7027c53902"
+    },
+    {
+      "chunk": "fulfill an oath",
+      "meaning": "履行誓言",
+      "register": "正式／承诺",
+      "note": "较庄重；普通工作约定常用 promise 或 commitment。",
+      "paragraph": 2,
+      "quote": "I am grateful for the honor of this hour, mindful of the consequential times in which we live, and determined to fulfill the oath that I have sworn and you have witnessed.",
+      "quote_sha256": "d0e18781e86d4de5d8d63f67afc0a54d2773d9ecddc488a874e8aa7027c53902"
+    },
+    {
+      "chunk": "stand watch",
+      "meaning": "站岗；守望",
+      "register": "正式／军事",
+      "note": "本句边境守卫，不声称普通日常高频。",
+      "paragraph": 3,
+      "quote": "For a half a century, America defended our own freedom by standing watch on distant borders.",
+      "quote_sha256": "8e96fbb1e2defd4bc00d3d09a284995c25708a82a655e620a126a2df4d561353"
+    },
+    {
+      "chunk": "be prone to sth.",
+      "meaning": "容易受某事影响／倾向于某事",
+      "register": "中性偏正式／分析",
+      "note": "常用于不利倾向；后接名词或 doing。",
+      "paragraph": 4,
+      "quote": "prone to ideologies that feed hatred and excuse murder,",
+      "quote_sha256": "b575df526f49d41c65daf6ff4588811fded2084c7633fb11b97b9c431cb0bf5f"
+    },
+    {
+      "chunk": "raise a threat",
+      "meaning": "带来或造成一种威胁",
+      "register": "正式／安全",
+      "note": "原句 mortal threat 为致命危险。",
+      "paragraph": 4,
+      "quote": "violence will gather and multiply in destructive power and cross the most defended borders and raise a mortal threat.",
+      "quote_sha256": "124e2d3fb4aad5432dcce90a9e036a014e1d35d1052bfaabb07765f96da45e90"
+    },
+    {
+      "chunk": "for as long as 从句",
+      "meaning": "只要某状态还持续，就……",
+      "register": "中性／条件持续",
+      "note": "兼有条件和时长，不等同任何瞬时if。",
+      "paragraph": 4,
+      "quote": "For as long as whole regions of the world simmer in resentment and tyranny, prone to ideologies that feed hatred and excuse murder, violence will gather and multiply in destructive power and cross the most defended borders and raise a mortal threat.",
+      "quote_sha256": "fc6ff9eb5a7db6c8e0658487ef7021f8cc6e16abd3fac5e78480403dfa9ebeb3"
+    },
+    {
+      "chunk": "be led to one conclusion",
+      "meaning": "由此得出一个结论",
+      "register": "正式／论证",
+      "note": "原句 led by events and common sense，外层推理动作。",
+      "paragraph": 5,
+      "quote": "We are led, by events and common sense, to one conclusion: The survival of liberty in our land increasingly depends on the success of liberty in other lands.",
+      "quote_sha256": "d98ef4fbc86d1baa8b93188d15f2f3424497c9bb96eea09e9eb4e9f8d69901a7"
+    },
+    {
+      "chunk": "be fit to do sth.",
+      "meaning": "有资格／适合做某事",
+      "register": "中性／判断",
+      "note": "此处否定谁有资格当主宰，不是身体健康义。",
+      "paragraph": 6,
+      "quote": "Across the generations, we have proclaimed the imperative of self-government, because no one is fit to be a master and no one deserves to be a slave.",
+      "quote_sha256": "3f1a23f6647128461bdf8ed84ced0b0ba73bc73bce72e5e997ac6a92dbd26506"
+    },
+    {
+      "chunk": "with the ultimate goal of doing sth.",
+      "meaning": "以最终做某事为目标",
+      "register": "中性偏正式／工作",
+      "note": "不等于目前步骤已达成目标。",
+      "paragraph": 7,
+      "quote": "So it is the policy of the United States to seek and support the growth of democratic movements and institutions in every nation and culture, with the ultimate goal of ending tyranny in our world.",
+      "quote_sha256": "c3fec1be224fc02ed5819de5c7f8df3222ee2fd95810b8d47246671bb06e1fb2"
+    },
+    {
+      "chunk": "by its nature",
+      "meaning": "就其本质而言",
+      "register": "中性偏正式／分析",
+      "note": "说明内在特性，不是天然材料。",
+      "paragraph": 7,
+      "quote": "Freedom, by its nature, must be chosen and defended by citizens and sustained by the rule of law and the protection of minorities.",
+      "quote_sha256": "effd09e30458456258dfbe4f58697823795d61c7146f4b59fab1ffd6ad2e560e"
+    },
+    {
+      "chunk": "impose sth. on sb.",
+      "meaning": "把某事强加给某人",
+      "register": "中性／批评",
+      "note": "原句拒绝强加政府形式。",
+      "paragraph": 7,
+      "quote": "America will not impose our own style of government on the unwilling.",
+      "quote_sha256": "177a6c1fd49bb17405018b268b092a6641ed97cae88cd623568feab73df8f082"
+    },
+    {
+      "chunk": "find one's own voice",
+      "meaning": "找到属于自己的表达方式／立场",
+      "register": "中性／成长",
+      "note": "不是发现声带。",
+      "paragraph": 7,
+      "quote": "Our goal instead is to help others find their own voice, attain their own freedom, and make their own way.",
+      "quote_sha256": "2e78af53550f6b2ef14f3e7ddc19f79d8b1943b47b178e4b92a214c0dbee9f80"
+    },
+    {
+      "chunk": "make one's own way",
+      "meaning": "独立闯出自己的路",
+      "register": "中性／成长",
+      "note": "与 make one's way to 地点 的前往义区分。",
+      "paragraph": 7,
+      "quote": "Our goal instead is to help others find their own voice, attain their own freedom, and make their own way.",
+      "quote_sha256": "2e78af53550f6b2ef14f3e7ddc19f79d8b1943b47b178e4b92a214c0dbee9f80"
+    },
+    {
+      "chunk": "sth. is no excuse for doing sth.",
+      "meaning": "某事不能成为做另一件事的借口",
+      "register": "中性／责任",
+      "note": "原句难度不是逃避理由，语气可能责备。",
+      "paragraph": 8,
+      "quote": "The difficulty of the task is no excuse for avoiding it.",
+      "quote_sha256": "92fd4d68eb71519ab3704cc0b2f9d23baf0c24c90f538905de4087a52b7f5acf"
+    },
+    {
+      "chunk": "sth. is not unlimited, but sth. is considerable",
+      "meaning": "某事并非无限，但仍相当可观",
+      "register": "正式／界定范围",
+      "note": "原句承认影响力局限再肯定实际作用。",
+      "paragraph": 8,
+      "quote": "America's influence is not unlimited, but fortunately for the oppressed, America's influence is considerable and we will use it confidently in freedom's cause.",
+      "quote_sha256": "5a5f12c594e307b6ebd697e1135b438aac435c5f48c48595a6d65eb625144f08"
+    },
+    {
+      "chunk": "test one's resolve",
+      "meaning": "考验某人的决心",
+      "register": "中性偏正式／对抗",
+      "note": "此处威胁是否坚定，不是笔试。",
+      "paragraph": 9,
+      "quote": "Some have unwisely chosen to test America's resolve and have found it firm.",
+      "quote_sha256": "3ad612683dfbe34b32fc406656d18a051600d9007bbd85c02b82715f2bffdca9"
+    },
+    {
+      "chunk": "at the mercy of sb./sth.",
+      "meaning": "任凭某人／事摆布；受制于……",
+      "register": "中性／困境",
+      "note": "不是得到对方仁慈照顾。",
+      "paragraph": 10,
+      "quote": "America will not pretend that jailed dissidents prefer their chains or that women welcome humiliation and servitude or that any human being aspires to live at the mercy of bullies.",
+      "quote_sha256": "c0ade5d9424e8cbbeada3da39417d672aebb70282ede3cd7a912c97e1ba04cdd"
+    },
+    {
+      "chunk": "make clear that 从句",
+      "meaning": "明确说明……",
+      "register": "中性／工作沟通",
+      "note": "原句 making clear that，保留从句内容。",
+      "paragraph": 10,
+      "quote": "We will encourage reform in other governments by making clear that success in our relations will require the decent treatment of their own people.",
+      "quote_sha256": "10c3316b35b65d43846a5dfa797dc78028c560addebd556089faaf5b13846bf2"
+    },
+    {
+      "chunk": "In the long run",
+      "meaning": "从长期来看",
+      "register": "中性／评价规划",
+      "note": "不指实际长跑。",
+      "paragraph": 10,
+      "quote": "In the long run, there is no justice without freedom and there can be no human rights without human liberty.",
+      "quote_sha256": "a56064ed458f56328f18da01387c629bb71816c68a33dc078c1625fe6827ef1e"
+    },
+    {
+      "chunk": "will not pretend that 从句",
+      "meaning": "不会假装……是真的",
+      "register": "中性／立场",
+      "note": "否定一个被指为虚假的主张，语气坚定。",
+      "paragraph": 10,
+      "quote": "America will not pretend that jailed dissidents prefer their chains or that women welcome humiliation and servitude or that any human being aspires to live at the mercy of bullies.",
+      "quote_sha256": "c0ade5d9424e8cbbeada3da39417d672aebb70282ede3cd7a912c97e1ba04cdd"
+    },
+    {
+      "chunk": "sb., of all people",
+      "meaning": "偏偏某人；尤其是某人",
+      "register": "中性／惊讶强调",
+      "note": "原句 Americans, of all people 强调不应该意外的人。",
+      "paragraph": 11,
+      "quote": "Americans, of all people, should never be surprised by the power of our ideals.",
+      "quote_sha256": "8d2ed5a8c3ab7a09cb63f25e10f7d0e6bda236a736d100b3fb2e1dd34d05232b"
+    },
+    {
+      "chunk": "stand for sth.",
+      "meaning": "坚持／捍卫某种价值",
+      "register": "中性／立场",
+      "note": "此处非缩写代表或参选义。",
+      "paragraph": 12,
+      "quote": "When you stand for your liberty, we will stand with you.",
+      "quote_sha256": "e1d3dacb40f1f7bcef9b5772b12dedc4901ae391cbf519f7fd9aa8299bf423bb"
+    },
+    {
+      "chunk": "stand with sb.",
+      "meaning": "与某人站在一起／支持某人",
+      "register": "中性／支持",
+      "note": "常用于有挑战的集体立场，亦可字面并肩。",
+      "paragraph": 12,
+      "quote": "When you stand for your liberty, we will stand with you.",
+      "quote_sha256": "e1d3dacb40f1f7bcef9b5772b12dedc4901ae391cbf519f7fd9aa8299bf423bb"
+    },
+    {
+      "chunk": "see sb. for who sb. is",
+      "meaning": "看清并认可某人的真实身份／价值",
+      "register": "中性／评价",
+      "note": "原句看到受压制改革者作为未来领导人的身份。",
+      "paragraph": 13,
+      "quote": "Democratic reformers facing repression, prison, or exile can know: America sees you for who you are, the future leaders of your free country.",
+      "quote_sha256": "bfa8f1e7b67e8613f047f02dde9022cae68e138e5370012b01aa79114ce8d211"
+    },
+    {
+      "chunk": "deny sth. to sb.",
+      "meaning": "不给某人某种权利或资源",
+      "register": "正式／权利",
+      "note": "原历史引文 deny freedom to others，非否认事实。",
+      "paragraph": 14,
+      "quote": "The rulers of outlaw regimes can know that we still believe as Abraham Lincoln did: ``Those who deny freedom to others deserve it not for themselves and, under the rule of a just God, cannot long retain it.''",
+      "quote_sha256": "31bd311ac6818f422881300b3a42b905528d54633e977e3c80b259ed76de4bcc"
+    },
+    {
+      "chunk": "walk at sb.'s side",
+      "meaning": "陪伴并支持某人前行",
+      "register": "正式／演讲比喻",
+      "note": "原句外交进步历程，不将整个旅程固定化。",
+      "paragraph": 15,
+      "quote": "Start on this journey of progress and justice, and America will walk at your side.",
+      "quote_sha256": "9cfeafd3ca425bccda0cf7daf29d6b0bff36d6f2ce89a1dc223b6c9c10cebc91"
+    },
+    {
+      "chunk": "rely on sb.'s counsel",
+      "meaning": "依赖某人的建议",
+      "register": "正式／协作",
+      "note": "counsel 这里建议，不是律师身份。",
+      "paragraph": 16,
+      "quote": "And all the allies of the United States can know: We honor your friendship; we rely on your counsel; and we depend on your help.",
+      "quote_sha256": "4cd04d84ae51d514c9b2601c58a2bdbbab773e030a7fd6844b373bcfb358e7f4"
+    },
+    {
+      "chunk": "concerted effort",
+      "meaning": "协调一致的共同努力",
+      "register": "中性偏正式／工作",
+      "note": "concerted 非音乐会。",
+      "paragraph": 16,
+      "quote": "The concerted effort of free nations to promote democracy is a prelude to our enemies' defeat.",
+      "quote_sha256": "4fb0cc240c81c32b071d74fd98b07a7c678446529c971192242c2c7d3b392e5c"
+    },
+    {
+      "chunk": "a prelude to sth.",
+      "meaning": "某事的前奏／预兆",
+      "register": "正式／分析",
+      "note": "表示后续事件之前的阶段，不断言必然因果。",
+      "paragraph": 16,
+      "quote": "The concerted effort of free nations to promote democracy is a prelude to our enemies' defeat.",
+      "quote_sha256": "4fb0cc240c81c32b071d74fd98b07a7c678446529c971192242c2c7d3b392e5c"
+    },
+    {
+      "chunk": "in good measure",
+      "meaning": "充分地；相当多地",
+      "register": "正式／评价",
+      "note": "原句指给了充分耐心；不同于 for good measure 的额外补充义。",
+      "paragraph": 17,
+      "quote": "From all of you I have asked patience in the hard task of securing America, which you have granted in good measure.",
+      "quote_sha256": "cdb761912eac5ef8b61ec85a455b0de7d68b059162315fe0939c47749b506bc9"
+    },
+    {
+      "chunk": "accept obligations",
+      "meaning": "承担义务",
+      "register": "正式／责任",
+      "note": "非只是认可别人有义务。",
+      "paragraph": 17,
+      "quote": "Our country has accepted obligations that are difficult to fulfill and would be dishonorable to abandon.",
+      "quote_sha256": "2bf3d003180b138aec2ece3ce1bb67b7d8b3a791dbfe91a4f15b99240e9b9bcc"
+    },
+    {
+      "chunk": "be difficult to fulfill",
+      "meaning": "难以履行",
+      "register": "中性偏正式／责任",
+      "note": "原句义务，可用于承诺；不同于难以满足愿望。",
+      "paragraph": 17,
+      "quote": "Our country has accepted obligations that are difficult to fulfill and would be dishonorable to abandon.",
+      "quote_sha256": "2bf3d003180b138aec2ece3ce1bb67b7d8b3a791dbfe91a4f15b99240e9b9bcc"
+    },
+    {
+      "chunk": "show one's devotion to sth.",
+      "meaning": "表现出对某事的忠诚／奉献",
+      "register": "正式／评价",
+      "note": "原句死亡体现献身，避免移植整句夸张到工作。",
+      "paragraph": 18,
+      "quote": "Some have shown their devotion to our country in deaths that honored their whole lives, and we will always honor their names and their sacrifice.",
+      "quote_sha256": "265bca46e2d30fec19c0f4ce168895cde061b67cb9aa12337fff286b9fad38a5"
+    },
+    {
+      "chunk": "for the first time",
+      "meaning": "第一次",
+      "register": "中性／叙事",
+      "note": "保留经历时间限定，不据简单判掌握。",
+      "paragraph": 19,
+      "quote": "All Americans have witnessed this idealism and some for the first time.",
+      "quote_sha256": "b46c304566e80d2b773dcdb33cea35255b703b0d2ee68210f9843e213c1617c7"
+    },
+    {
+      "chunk": "a cause larger than oneself",
+      "meaning": "超越个人利益的事业",
+      "register": "正式／演讲",
+      "note": "原句 larger than your wants, larger than yourself；非万能日常模板。",
+      "paragraph": 19,
+      "quote": "Make the choice to serve in a cause larger than your wants, larger than yourself, and in your days you will add not just to the wealth of our country but to its character.",
+      "quote_sha256": "c0c7578decbce5ca16b5862ba7edae1976690007396a7e50ce3fefbe2e2cdcc9"
+    },
+    {
+      "chunk": "have need of sth.",
+      "meaning": "需要某事",
+      "register": "正式／论述",
+      "note": "比 need sth. 庄重，原句 idealism and courage。",
+      "paragraph": 20,
+      "quote": "America has need of idealism and courage because we have essential work at home, the unfinished work of American freedom.",
+      "quote_sha256": "edaefcb38ad647251aae2b8df80bf8a22cc6a732ed1972510630d5c41ad8f4b4"
+    },
+    {
+      "chunk": "serve the needs of sth.",
+      "meaning": "满足某事／某时期的需要",
+      "register": "中性偏正式／工作",
+      "note": "不一定商业服务。",
+      "paragraph": 21,
+      "quote": "And now we will extend this vision by reforming great institutions to serve the needs of our time.",
+      "quote_sha256": "d3a901368e223cb1a785c9ec47907ccd7f6f314406a5026bceb1d97c99a11443"
+    },
+    {
+      "chunk": "on the edge of sth.",
+      "meaning": "处在某种境况的边缘",
+      "register": "中性偏正式",
+      "note": "原句 subsistence，表示勉强糊口的边缘。",
+      "paragraph": 21,
+      "quote": "In America's ideal of freedom, citizens find the dignity and security of economic independence instead of laboring on the edge of subsistence.",
+      "quote_sha256": "77a096acce5d3b39417c2504bf0dfe0133d80043539076a053cef9bd21a91d46"
+    },
+    {
+      "chunk": "in the end",
+      "meaning": "归根结底；最终",
+      "register": "中性／总结",
+      "note": "此处强调自治最终依靠自律，不只故事时间结尾。",
+      "paragraph": 22,
+      "quote": "Self-government relies, in the end, on the governing of the self.",
+      "quote_sha256": "e906a9a468fdee55999c7e88ea324e9d250c348ee726075fa080887ba49e4fb5"
+    },
+    {
+      "chunk": "look after sb.",
+      "meaning": "照顾某人",
+      "register": "中性／生活",
+      "note": "原句邻里互助，非寻找。",
+      "paragraph": 23,
+      "quote": "Our Nation relies on men and women who look after a neighbor and surround the lost with love.",
+      "quote_sha256": "fb60a9326d668f02bc54f7aa8dface08dcf3fcfe6d07a2b933cd1a192897436d"
+    },
+    {
+      "chunk": "have worth",
+      "meaning": "有价值；值得被珍视",
+      "register": "中性／人际评价",
+      "note": "人的价值，不仅财产价格。",
+      "paragraph": 23,
+      "quote": "Americans, at our best, value the life we see in one another and must always remember that even the unwanted have worth.",
+      "quote_sha256": "126cea6609ef51f0d7e006f317cce755d7c0860dbcac16b3b05f5c6d1d50f872"
+    },
+    {
+      "chunk": "at the same time",
+      "meaning": "同时",
+      "register": "中性／约束",
+      "note": "原句说不能同时传递自由又背负偏见，说明相容性。",
+      "paragraph": 23,
+      "quote": "And our country must abandon all the habits of racism, because we cannot carry the message of freedom and the baggage of bigotry at the same time.",
+      "quote_sha256": "11aa7496486063de7daaaa543fbde661e0d84082b96f620b6ae81e53b751a830"
+    },
+    {
+      "chunk": "from the perspective of sth.",
+      "meaning": "从某种角度来看",
+      "register": "中性偏正式／分析",
+      "note": "原句一天与世纪时间尺度对比。",
+      "paragraph": 24,
+      "quote": "From the perspective of a single day, including this day of dedication, the issues and questions before our country are many.",
+      "quote_sha256": "357bcffd92df32c0bc29692945d5837b2948abb1f8592822f5fe8a5efa3c205a"
+    },
+    {
+      "chunk": "bring credit to sth.",
+      "meaning": "为某事增光／赢得好评价",
+      "register": "正式／评价",
+      "note": "credit 非贷款；此处品格使事业受到尊重。",
+      "paragraph": 24,
+      "quote": "And did our character bring credit to that cause?",
+      "quote_sha256": "2b0039af592490afe5b0e7b40a09ee21659ad91f8029d871f7d1541beda00991"
+    },
+    {
+      "chunk": "in good faith",
+      "meaning": "真诚地；怀着诚意",
+      "register": "中性偏正式／承诺",
+      "note": "不等于宗教虔诚信仰。",
+      "paragraph": 25,
+      "quote": "We have known divisions, which must be healed to move forward in great purposes, and I will strive in good faith to heal them.",
+      "quote_sha256": "d6ce60d02d8e576c42440c4998eb9f4559833c2b29549bd8bdb17650f6f26b7a"
+    },
+    {
+      "chunk": "set sb. free",
+      "meaning": "使某人获得自由",
+      "register": "中性",
+      "note": "原句俘虏获释，与2001比喻解除束缚语义范围不同。",
+      "paragraph": 25,
+      "quote": "And we can feel that same unity and pride whenever America acts for good and the victims of disaster are given hope and the unjust encounter justice and the captives are set free.",
+      "quote_sha256": "b9b7646c397ed061b1dda1ddf0ad3566cdc0f886de650f73fb56c315015e7374"
+    },
+    {
+      "chunk": "an ebb and flow of sth.",
+      "meaning": "某事的起落消长",
+      "register": "中性偏正式／趋势",
+      "note": "原句 justice；不是海潮字面。",
+      "paragraph": 26,
+      "quote": "History has an ebb and flow of justice, but history also has a visible direction, set by liberty and the Author of Liberty.",
+      "quote_sha256": "9451cbad9d2c2c62c414f55e7fefdeb58dd113e7c1cf83eeb26c0bf896cb6c33"
+    },
+    {
+      "chunk": "wave upon wave of sth.",
+      "meaning": "一波又一波某物／人",
+      "register": "叙事／演讲",
+      "note": "原句士兵接连牺牲，有连续涌现意味。",
+      "paragraph": 26,
+      "quote": "When our Founders declared a new order of the ages, when soldiers died in wave upon wave for a union based on liberty, when citizens marched in peaceful outrage under the banner ``Freedom Now,'' they were acting on an ancient hope that is meant to be fulfilled.",
+      "quote_sha256": "48d1c00ce38871408cd8fc82b0acb621ca34b3b103e04a5288f6fcd267a15499"
+    },
+    {
+      "chunk": "be meant to do sth.",
+      "meaning": "被期待／注定要做某事",
+      "register": "中性／目的",
+      "note": "原句 hope ... meant to be fulfilled 含使命意味，不是已证实必然。",
+      "paragraph": 26,
+      "quote": "When our Founders declared a new order of the ages, when soldiers died in wave upon wave for a union based on liberty, when citizens marched in peaceful outrage under the banner ``Freedom Now,'' they were acting on an ancient hope that is meant to be fulfilled.",
+      "quote_sha256": "48d1c00ce38871408cd8fc82b0acb621ca34b3b103e04a5288f6fcd267a15499"
+    },
+    {
+      "chunk": "as if 从句",
+      "meaning": "仿佛……一样",
+      "register": "中性／描述",
+      "note": "原句历史引文 It rang as if it meant something，不把引述内容当作者事实。",
+      "paragraph": 27,
+      "quote": "When the Declaration of Independence was first read in public and the Liberty Bell was sounded in celebration, a witness said, ``It rang as if it meant something.'' In our time, it means something still.",
+      "quote_sha256": "23e1d7b9baef29f1628378a4f994fc0d401f6a0da16efa8b3ca89297adede698"
+    },
+    {
+      "chunk": "watch over sb./sth.",
+      "meaning": "照看／守护某人或某物",
+      "register": "中性",
+      "note": "原句宗教祝福，普通照看义可迁移但不改原场景。",
+      "paragraph": 28,
+      "quote": "May God bless you, and may He watch over the United States of America.",
+      "quote_sha256": "2ebe174e5ced8d2e737c1cfc048ad2a0eac1a2afe2fbbb0e8f72a58f25df00cc"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "in the end",
+      "meaning": "归根结底",
+      "register": "中性／总结",
+      "note": "原篇已收同段，不另列。",
+      "paragraph": 22,
+      "quote": "Self-government relies, in the end, on the governing of the self.",
+      "quote_sha256": "e906a9a468fdee55999c7e88ea324e9d250c348ee726075fa080887ba49e4fb5"
+    },
+    {
+      "chunk": "not because 从句 ... not because 从句 ...",
+      "meaning": "并不是因为……也不是因为……",
+      "register": "演讲／理由澄清",
+      "note": "之后原句另说 We have confidence because，与其他篇排除理由骨架合并变体。",
+      "paragraph": 26,
+      "quote": "We go forward with complete confidence in the eventual triumph of freedom, not because history runs on the wheels of inevitability--it is human choices that move events; not because we consider ourselves a chosen nation--God moves and chooses as He wills.",
+      "quote_sha256": "d41d1abdf0e21fb2eefc83ab827cdd2984b1e10a674dd19c2ffe15db21844138"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+}

@@ -1,0 +1,975 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S03/Better.Call.Saul.S03E06.en.srt",
+  "sha256": "e41f2733978fd7e569d1eb0cfec36eec2758ffa05a02f72fe2b245a7140c64e5",
+  "subtitle_blocks_read": 672,
+  "max_cue": 672,
+  "selection_status": "Candidates, pending user screening; not audio-verified",
+  "items": [
+    {
+      "chunk": "You're light.",
+      "meaning": "你交的钱／货数量不够；light此处指不足",
+      "start_cue": 31,
+      "end_cue": 36,
+      "start_time": "00:03:09,281",
+      "end_time": "00:03:35,041",
+      "quote": "Let me finish. You're light. Like I was saying, the guy's... Why didn't you make it up on your end? I did, but I couldn't make it all up. You got my share, man.",
+      "id": "S03E06-001"
+    },
+    {
+      "chunk": "make it up on sb.'s end",
+      "meaning": "从自己这边补足差额",
+      "start_cue": 32,
+      "end_cue": 39,
+      "start_time": "00:03:20,717",
+      "end_time": "00:03:45,891",
+      "quote": "You're light. Like I was saying, the guy's... Why didn't you make it up on your end? I did, but I couldn't make it all up. You got my share, man. I swear. All right. Make it up next week.",
+      "id": "S03E06-002",
+      "original_chunk": "make it up on one's end"
+    },
+    {
+      "chunk": "build a practice",
+      "meaning": "建立个人执业业务／开拓客户群；这里指律师事务",
+      "start_cue": 63,
+      "end_cue": 66,
+      "start_time": "00:06:42,336",
+      "end_time": "00:06:53,031",
+      "quote": "Jimmy McGill has worked tirelessly to build a practice that helps an underserved and frankly overlooked segment of our community... the elderly.",
+      "id": "S03E06-003"
+    },
+    {
+      "chunk": "an underserved segment of the community",
+      "meaning": "没有得到充分服务的社区人群",
+      "start_cue": 63,
+      "end_cue": 66,
+      "start_time": "00:06:42,336",
+      "end_time": "00:06:53,031",
+      "quote": "Jimmy McGill has worked tirelessly to build a practice that helps an underserved and frankly overlooked segment of our community... the elderly.",
+      "id": "S03E06-004"
+    },
+    {
+      "chunk": "in support of sb.",
+      "meaning": "为支持某人而……",
+      "start_cue": 67,
+      "end_cue": 69,
+      "start_time": "00:06:54,656",
+      "end_time": "00:07:01,680",
+      "quote": "You've heard from many of Mr. McGill's clients today. Every one of them came here gladly in support of their lawyer.",
+      "id": "S03E06-005"
+    },
+    {
+      "chunk": "reach out to sb.",
+      "meaning": "主动联系、接触或帮助某人",
+      "start_cue": 70,
+      "end_cue": 75,
+      "start_time": "00:07:02,391",
+      "end_time": "00:07:18,760",
+      "quote": "Jimmy McGill reached out to people who otherwise may never have seen an attorney in their entire lives. He took the time to make sure they had wills that accurately reflected their wishes, for a price they could afford, because Jimmy McGill cares about people.",
+      "id": "S03E06-006"
+    },
+    {
+      "chunk": "devote … years of sb.'s life to sth.",
+      "meaning": "将人生的……年投入某事",
+      "start_cue": 76,
+      "end_cue": 84,
+      "start_time": "00:07:19,651",
+      "end_time": "00:07:43,362",
+      "quote": "He's devoted the past three years of his life to his brother's welfare. Waking at 5:00 in the morning to buy Charles' favorite newspaper from the single newsstand in the city that carries it. Dropping everything to care for his brother through multiple hospitalizations. Even supporting Charles' career by hand-making a Mylar-lined suit jacket to spare his brother discomfort from exposure to electricity.",
+      "id": "S03E06-007",
+      "original_chunk": "devote … years of one's life to sth."
+    },
+    {
+      "chunk": "drop everything",
+      "meaning": "把所有其他事情放下，立刻去处理更紧迫的事",
+      "start_cue": 80,
+      "end_cue": 81,
+      "start_time": "00:07:30,369",
+      "end_time": "00:07:34,687",
+      "quote": "Dropping everything to care for his brother through multiple hospitalizations.",
+      "id": "S03E06-008"
+    },
+    {
+      "chunk": "spare sb. discomfort",
+      "meaning": "免使某人承受不适",
+      "start_cue": 82,
+      "end_cue": 84,
+      "start_time": "00:07:34,722",
+      "end_time": "00:07:43,362",
+      "quote": "Even supporting Charles' career by hand-making a Mylar-lined suit jacket to spare his brother discomfort from exposure to electricity.",
+      "id": "S03E06-009"
+    },
+    {
+      "chunk": "grow to epic proportions",
+      "meaning": "发展到极大的程度；夸张描述影响或规模",
+      "start_cue": 85,
+      "end_cue": 87,
+      "start_time": "00:07:45,106",
+      "end_time": "00:07:53,628",
+      "quote": "And yet, during this time, Charles McGill's irrational animus towards his brother... grew to epic proportions.",
+      "id": "S03E06-010"
+    },
+    {
+      "chunk": "use sth. against sb.",
+      "meaning": "利用某事对付某人",
+      "start_cue": 88,
+      "end_cue": 91,
+      "start_time": "00:07:54,292",
+      "end_time": "00:08:04,884",
+      "quote": "So when Jimmy discovered that Charles had used his love and his caring against him, when he discovered he had been betrayed by his only living blood relative...",
+      "id": "S03E06-011"
+    },
+    {
+      "chunk": "a living blood relative",
+      "meaning": "仍在世的血亲",
+      "start_cue": 88,
+      "end_cue": 91,
+      "start_time": "00:07:54,292",
+      "end_time": "00:08:04,884",
+      "quote": "So when Jimmy discovered that Charles had used his love and his caring against him, when he discovered he had been betrayed by his only living blood relative...",
+      "id": "S03E06-012"
+    },
+    {
+      "chunk": "force sb.'s way into sth.",
+      "meaning": "强行进入某处",
+      "start_cue": 96,
+      "end_cue": 98,
+      "start_time": "00:08:16,019",
+      "end_time": "00:08:24,608",
+      "quote": "Jimmy McGill understands he broke the law when he forced his way into his brother's house, and he is deeply sorry.",
+      "id": "S03E06-013",
+      "original_chunk": "force one's way into sth."
+    },
+    {
+      "chunk": "plain and simple",
+      "meaning": "就这么简单／说白了就是这样；强调直接结论",
+      "start_cue": 103,
+      "end_cue": 106,
+      "start_time": "00:08:41,994",
+      "end_time": "00:08:48,816",
+      "quote": "Jimmy McGill had no premeditated agenda when he entered his brother's home. - He lost his temper... - Chuck, please! - ... plain and simple. - Please let me in!",
+      "id": "S03E06-014"
+    },
+    {
+      "chunk": "a resounding yes",
+      "meaning": "响亮而明确的肯定答案",
+      "start_cue": 107,
+      "end_cue": 109,
+      "start_time": "00:08:48,841",
+      "end_time": "00:09:04,011",
+      "quote": "So now the question you must ask yourselves is this... Is the legal profession better with Jimmy McGill in it? I believe the answer is a resounding yes.",
+      "id": "S03E06-015"
+    },
+    {
+      "chunk": "Here's to …",
+      "meaning": "为……干杯；祝愿某事",
+      "start_cue": 111,
+      "end_cue": 116,
+      "start_time": "00:09:06,568",
+      "end_time": "00:09:20,679",
+      "quote": "Here's to 12 short months. Also, somebody call the Pope because according to your summation, I oughta be a saint. Me and Mother Teresa. Right up there with her. St. Jimmy. Yeah, has a nice ring to it.",
+      "id": "S03E06-016"
+    },
+    {
+      "chunk": "have a nice ring to it",
+      "meaning": "听起来不错／名称顺耳",
+      "start_cue": 114,
+      "end_cue": 116,
+      "start_time": "00:09:13,612",
+      "end_time": "00:09:20,679",
+      "quote": "I oughta be a saint. Me and Mother Teresa. Right up there with her. St. Jimmy. Yeah, has a nice ring to it.",
+      "id": "S03E06-017"
+    },
+    {
+      "chunk": "give any thought to sth.",
+      "meaning": "考虑过某事没有",
+      "start_cue": 119,
+      "end_cue": 122,
+      "start_time": "00:09:29,200",
+      "end_time": "00:09:36,045",
+      "quote": "So... have you given any thought to what you're gonna do for the next year... you know, with your clients?",
+      "id": "S03E06-018"
+    },
+    {
+      "chunk": "spread sth. out",
+      "meaning": "把某物摊开",
+      "start_cue": 127,
+      "end_cue": 129,
+      "start_time": "00:09:45,757",
+      "end_time": "00:09:51,601",
+      "quote": "Where are your notes? Let's, uh, spread 'em out and roll around on 'em, see what happens.",
+      "id": "S03E06-019"
+    },
+    {
+      "chunk": "That sounds like sb.",
+      "meaning": "这倒像某人的作风／听起来符合其一贯做法",
+      "start_cue": 137,
+      "end_cue": 141,
+      "start_time": "00:10:26,462",
+      "end_time": "00:10:37,228",
+      "quote": "Um, I-I was, uh, just at Chuck's, and he won't answer the door. I-I was out there knocking for almost an hour. That sounds like Chuck. I'm sure he's fine. He's just being dramatic.",
+      "id": "S03E06-020"
+    },
+    {
+      "chunk": "owe it to sb. to do sth.",
+      "meaning": "出于责任或情分应该为某人做某事",
+      "start_cue": 143,
+      "end_cue": 147,
+      "start_time": "00:10:39,214",
+      "end_time": "00:10:53,306",
+      "quote": "I want you to come with me to get him to let us in. Jimmy, he needs our help. No thanks. I... I've already kicked my door in for the year. You owe it to him.",
+      "id": "S03E06-021"
+    },
+    {
+      "chunk": "not owe sb. squat",
+      "meaning": "一点也不欠某人；squat在否定中表示一点都没有，粗俗随意",
+      "start_cue": 145,
+      "end_cue": 148,
+      "start_time": "00:10:45,307",
+      "end_time": "00:10:57,234",
+      "quote": "No thanks. I... I've already kicked my door in for the year. You owe it to him. I don't owe him squat.",
+      "id": "S03E06-022"
+    },
+    {
+      "chunk": "be right all along",
+      "meaning": "从头到尾一直是对的",
+      "start_cue": 160,
+      "end_cue": 164,
+      "start_time": "00:11:31,618",
+      "end_time": "00:11:57,962",
+      "quote": "Jimmy, he's still your brother. Not anymore, he's not. Chuck was right about you all along. He's mentally ill. What is your excuse?",
+      "id": "S03E06-023"
+    },
+    {
+      "chunk": "make it look easy",
+      "meaning": "把某事做得看起来很容易",
+      "start_cue": 169,
+      "end_cue": 176,
+      "start_time": "00:12:24,940",
+      "end_time": "00:12:52,884",
+      "quote": "how Matty used to make her Mickey Mouse pancakes on weekends. You know, two small pancake ears attached to a big one? She didn't remember, but I think it made her happy. She even asked for them the next morning. Boy, Matty made it look easy. And keeping the ears separated is really hard. Mine looked terrible. But Kaylee didn't care.",
+      "id": "S03E06-024"
+    },
+    {
+      "chunk": "take sb.'s breath away",
+      "meaning": "使某人震惊／一时说不出话；本句为孩子提问触动感情",
+      "start_cue": 179,
+      "end_cue": 187,
+      "start_time": "00:13:00,875",
+      "end_time": "00:13:24,252",
+      "quote": "there are times... Career day's coming up, and she asked me if I would go and talk about her daddy's job. She wants to know more about what he did. And that kind of took my breath away. Kaylee's teacher thinks it would be good for her, maybe make his absence feel... a little bit more... normal.",
+      "id": "S03E06-025",
+      "original_chunk": "take one's breath away"
+    },
+    {
+      "chunk": "be all for sth.",
+      "meaning": "完全支持／赞成某事",
+      "start_cue": 194,
+      "end_cue": 195,
+      "start_time": "00:13:43,499",
+      "end_time": "00:13:46,845",
+      "quote": "Well, honey, if it makes you feel any better, I'm all for it.",
+      "id": "S03E06-026"
+    },
+    {
+      "chunk": "volunteer sb. for sth.",
+      "meaning": "替某人报名／答应让某人承担任务",
+      "start_cue": 198,
+      "end_cue": 200,
+      "start_time": "00:13:52,714",
+      "end_time": "00:13:59,084",
+      "quote": "thing is, I sort of volunteered you for something. What? To help with the new playground.",
+      "id": "S03E06-027"
+    },
+    {
+      "chunk": "That's not really my department.",
+      "meaning": "这不太属于我的专长／职责；委婉拒绝",
+      "start_cue": 202,
+      "end_cue": 205,
+      "start_time": "00:14:02,324",
+      "end_time": "00:14:12,700",
+      "quote": "Sure, but why me? Well, they need someone who knows how to pour concrete. And the slide and the swings need something called footings, I think. Sweetheart, that's not really my department.",
+      "id": "S03E06-028"
+    },
+    {
+      "chunk": "price sth. out",
+      "meaning": "估算某事所需价格／向多方询价",
+      "start_cue": 209,
+      "end_cue": 212,
+      "start_time": "00:14:18,229",
+      "end_time": "00:14:28,509",
+      "quote": "Yeah. He told me about it a bunch of times. He said that when you were pricing it out, you thought that all the people who gave you quotes were crooks, so you decided to do it yourself.",
+      "id": "S03E06-029"
+    },
+    {
+      "chunk": "hang the moon",
+      "meaning": "了不起、近乎无所不能；原句表达孩子对父亲的崇拜",
+      "start_cue": 214,
+      "end_cue": 215,
+      "start_time": "00:14:33,349",
+      "end_time": "00:14:38,152",
+      "quote": "Pop, the way he talked about you, it was like you... hung the moon.",
+      "id": "S03E06-030"
+    },
+    {
+      "chunk": "get sb. out of sth.",
+      "meaning": "帮某人摆脱某项义务／困境",
+      "start_cue": 216,
+      "end_cue": 218,
+      "start_time": "00:14:40,516",
+      "end_time": "00:14:46,782",
+      "quote": "Sorry. I can get you out of it. - I just thought it was... - No, it's fine. Just tell me when and where.",
+      "id": "S03E06-031"
+    },
+    {
+      "chunk": "It's coming out of my end.",
+      "meaning": "这笔钱从我那份里出／我自己承担",
+      "start_cue": 226,
+      "end_cue": 228,
+      "start_time": "00:16:38,083",
+      "end_time": "00:16:47,443",
+      "quote": "That is a 35-year-old Macallan. I'm not gonna tell you how much it cost, but don't worry... it's coming out of my end.",
+      "id": "S03E06-032"
+    },
+    {
+      "chunk": "be at a crossroads",
+      "meaning": "处于重要抉择关口",
+      "start_cue": 238,
+      "end_cue": 241,
+      "start_time": "00:17:20,773",
+      "end_time": "00:17:29,006",
+      "quote": "Chuck, you're at a crossroads. You can keep looking backwards, stay focused on your brother, what he's up to, or you can go forward.",
+      "id": "S03E06-033"
+    },
+    {
+      "chunk": "Where would we be if …?",
+      "meaning": "要是……，我们会怎样？以假设强调代价或重要性",
+      "start_cue": 244,
+      "end_cue": 249,
+      "start_time": "00:17:35,149",
+      "end_time": "00:17:54,633",
+      "quote": "Where would we be if... say, Clarence Darrow had devoted the best years of his life to supervising his ne'er-do-well relatives? Think of the cases he wouldn't have taken, the injustices that would have gone unanswered. What a waste.",
+      "id": "S03E06-034"
+    },
+    {
+      "chunk": "put sb.'s energy into sth.",
+      "meaning": "把精力投入某事",
+      "start_cue": 250,
+      "end_cue": 253,
+      "start_time": "00:17:57,400",
+      "end_time": "00:18:19,809",
+      "quote": "I say... put your energy into the future. Anything else... is a waste of your time and intellect.",
+      "id": "S03E06-035",
+      "original_chunk": "put one's energy into sth."
+    },
+    {
+      "chunk": "It's go time!",
+      "meaning": "行动的时候到了／开始干吧；随意口语",
+      "start_cue": 266,
+      "end_cue": 268,
+      "start_time": "00:20:52,832",
+      "end_time": "00:20:58,037",
+      "quote": "Francesca, it's go time! Where do you wanna start? With the A's.",
+      "id": "S03E06-036"
+    },
+    {
+      "chunk": "take a sabbatical from sth.",
+      "meaning": "暂时休假、离开某项职业／活动",
+      "start_cue": 274,
+      "end_cue": 279,
+      "start_time": "00:21:07,346",
+      "end_time": "00:21:20,168",
+      "quote": "Hello, dear. Do you have a moment? I just wanted you to be the first to know, uh, that I'll be taking a brief sabbatical from the law, just one year. One quick trip of the Earth around the Sun, and I'll be back.",
+      "id": "S03E06-037"
+    },
+    {
+      "chunk": "hold for sb.",
+      "meaning": "请在线等候某人；电话转接用语",
+      "start_cue": 281,
+      "end_cue": 282,
+      "start_time": "00:21:22,971",
+      "end_time": "00:21:25,605",
+      "quote": "Next. Hold for Jimmy.",
+      "id": "S03E06-038"
+    },
+    {
+      "chunk": "How did sb. pass?",
+      "meaning": "某人是怎么去世的？委婉询问",
+      "start_cue": 282,
+      "end_cue": 284,
+      "start_time": "00:21:24,206",
+      "end_time": "00:21:31,705",
+      "quote": "Hold for Jimmy. I did? Aww, that's... that's... that's an honor. And how did he pass?",
+      "id": "S03E06-039"
+    },
+    {
+      "chunk": "legal boilerplate",
+      "meaning": "格式化的法律套话／通用条款",
+      "start_cue": 286,
+      "end_cue": 288,
+      "start_time": "00:21:34,198",
+      "end_time": "00:21:41,578",
+      "quote": "The details will all be in a letter you'll receive shortly. Mostly legal boilerplate. Now, you give that nephew a hug for me.",
+      "id": "S03E06-040"
+    },
+    {
+      "chunk": "legalistic mumbo-jumbo",
+      "meaning": "让人听不懂的法律套话；贬低繁琐术语，随意用语",
+      "start_cue": 302,
+      "end_cue": 305,
+      "start_time": "00:22:09,361",
+      "end_time": "00:22:19,418",
+      "quote": "The letter will explain it, but the... the details are just boring legalistic mumbo-jumbo. I don't know where those sounds are coming from, sir. You... you'll have to check.",
+      "id": "S03E06-041"
+    },
+    {
+      "chunk": "get down into the weeds",
+      "meaning": "陷入琐碎细节／展开细节讨论",
+      "start_cue": 311,
+      "end_cue": 314,
+      "start_time": "00:22:27,932",
+      "end_time": "00:22:38,952",
+      "quote": "Yes, Mrs. Pressman, I still have the document. I'm including the calico. Now I don't wanna get down into the weeds on this with you, sir. It's just my headache, sir. I'm tired.",
+      "id": "S03E06-042"
+    },
+    {
+      "chunk": "watch sb.'s mail for sth.",
+      "meaning": "留意信件，等某项文件寄来",
+      "start_cue": 315,
+      "end_cue": 318,
+      "start_time": "00:22:38,977",
+      "end_time": "00:22:46,938",
+      "quote": "Listen to you. Where'd you learn so much about lawyering? Yes, just watch your mail for that letter from my office. Okay. Bye-bye.",
+      "id": "S03E06-043",
+      "original_chunk": "watch one's mail for sth."
+    },
+    {
+      "chunk": "pull a commercial",
+      "meaning": "撤下某条广告／停止其播出",
+      "start_cue": 338,
+      "end_cue": 341,
+      "start_time": "00:23:45,759",
+      "end_time": "00:24:08,757",
+      "quote": "Francesca, get me KWBV! Okay. Get me the manager. Then get me somebody who can pull a commercial, stat!",
+      "id": "S03E06-044"
+    },
+    {
+      "chunk": "What gets me is …",
+      "meaning": "让我不舒服／想不通的是……",
+      "start_cue": 342,
+      "end_cue": 345,
+      "start_time": "00:24:25,646",
+      "end_time": "00:24:34,539",
+      "quote": "You finish making your calls? Yeah. That was a ton of fun. But what gets me is this. What is it?",
+      "id": "S03E06-045"
+    },
+    {
+      "chunk": "I'm out … bucks.",
+      "meaning": "我亏掉／损失了……美元；口语",
+      "start_cue": 349,
+      "end_cue": 351,
+      "start_time": "00:24:41,515",
+      "end_time": "00:24:48,319",
+      "quote": "I know, but can you believe this? I've got nine airings left. I'm out 4,000 bucks.",
+      "id": "S03E06-046"
+    },
+    {
+      "chunk": "find a loophole",
+      "meaning": "找到规则／合同的漏洞",
+      "start_cue": 356,
+      "end_cue": 360,
+      "start_time": "00:25:01,060",
+      "end_time": "00:25:13,325",
+      "quote": "This pile of garbage explicitly states I'm not allowed to resell. You're a lawyer. See if you can find a loophole. I cannot look at another contract. I'm up to my eyeballs in Mesa Verde.",
+      "id": "S03E06-047"
+    },
+    {
+      "chunk": "not do sb. any favors by doing sth.",
+      "meaning": "这样做并不是帮某人／反而对其不利",
+      "start_cue": 364,
+      "end_cue": 367,
+      "start_time": "00:25:22,192",
+      "end_time": "00:25:32,428",
+      "quote": "Yeah, how much notice should we give her? Two weeks? Well, we're not doing her any favors by keeping her in the dark. She should start looking.",
+      "id": "S03E06-048"
+    },
+    {
+      "chunk": "keep sb. in the dark",
+      "meaning": "不让某人知道实情／把某人蒙在鼓里",
+      "start_cue": 364,
+      "end_cue": 367,
+      "start_time": "00:25:22,192",
+      "end_time": "00:25:32,428",
+      "quote": "Yeah, how much notice should we give her? Two weeks? Well, we're not doing her any favors by keeping her in the dark. She should start looking.",
+      "id": "S03E06-049"
+    },
+    {
+      "chunk": "While we're on the subject …",
+      "meaning": "既然说到这件事……；转向相关话题",
+      "start_cue": 372,
+      "end_cue": 374,
+      "start_time": "00:25:43,451",
+      "end_time": "00:25:48,629",
+      "quote": "We just hired her. I like her. While we're on the subject, we need to talk about the overhead on this place.",
+      "id": "S03E06-050"
+    },
+    {
+      "chunk": "break the lease",
+      "meaning": "提前终止租约／违约退租",
+      "start_cue": 378,
+      "end_cue": 381,
+      "start_time": "00:25:54,968",
+      "end_time": "00:26:02,813",
+      "quote": "I don't need all this space. I only have one client. It's a huge client! I looked into it, and breaking the lease will cost a hell of a lot less than 10 months' rent.",
+      "id": "S03E06-051"
+    },
+    {
+      "chunk": "too good to be true",
+      "meaning": "好得令人难以相信是真的",
+      "start_cue": 400,
+      "end_cue": 407,
+      "start_time": "00:27:16,780",
+      "end_time": "00:27:32,182",
+      "quote": "Look at the two of you. I mean, you belong on TV! You're naturals! I know. You're thinking it's too good to be true. I mean, \"TV's too expensive. We can't afford that.\" Well, I'm telling you, you can.",
+      "id": "S03E06-053"
+    },
+    {
+      "chunk": "an all-inclusive package",
+      "meaning": "包含所有项目的一揽子套餐",
+      "start_cue": 414,
+      "end_cue": 417,
+      "start_time": "00:27:46,372",
+      "end_time": "00:27:55,249",
+      "quote": "Well, what I did for me, my friends, I will do that for you. Look, our all-inclusive Premium package... that's gonna be the best bang for your buck.",
+      "id": "S03E06-055"
+    },
+    {
+      "chunk": "the best bang for sb.'s buck",
+      "meaning": "最划算的效果／钱花得最值；口语",
+      "start_cue": 416,
+      "end_cue": 418,
+      "start_time": "00:27:50,025",
+      "end_time": "00:27:59,232",
+      "quote": "Look, our all-inclusive Premium package... that's gonna be the best bang for your buck. We'll shoot nine commercials for $4,900.",
+      "id": "S03E06-056",
+      "original_chunk": "the best bang for one's buck"
+    },
+    {
+      "chunk": "a prime slot",
+      "meaning": "黄金时段／理想的播出时段",
+      "start_cue": 419,
+      "end_cue": 422,
+      "start_time": "00:27:59,257",
+      "end_time": "00:28:12,154",
+      "quote": "Okay? And that includes the nine airings at 3:20 in the afternoon on channel KWBV. That is a prime slot with a viewership of tens of thousands of potential customers.",
+      "id": "S03E06-057"
+    },
+    {
+      "chunk": "a big financial commitment",
+      "meaning": "一笔重大的财务投入／付款承诺",
+      "start_cue": 423,
+      "end_cue": 427,
+      "start_time": "00:28:13,429",
+      "end_time": "00:28:23,335",
+      "quote": "- It does sound like a good deal. - It does. It's a lot of money. Well... that's... that's perfectly understandable. It's a big financial commitment.",
+      "id": "S03E06-058"
+    },
+    {
+      "chunk": "a flat rate",
+      "meaning": "统一固定价格／不随用量变化的收费",
+      "start_cue": 429,
+      "end_cue": 431,
+      "start_time": "00:28:25,728",
+      "end_time": "00:28:33,009",
+      "quote": "\"Toe-in-the-Water\" package. That's, uh, one commercial, flat rate, $849.95.",
+      "id": "S03E06-059"
+    },
+    {
+      "chunk": "a shorter window",
+      "meaning": "更短的可用时限／决策时间窗口",
+      "start_cue": 440,
+      "end_cue": 450,
+      "start_time": "00:28:54,977",
+      "end_time": "00:29:28,149",
+      "quote": "Gee, I'm sorry for any confusion, but I was talk... I was talking about, uh... a much shorter window for the thinking part. How short? We would have you on the air by 3:20 this afternoon. Today? You're gonna shoot a commercial in the next 2 1/2 hours? Oh, no. I mean, there's a whole post process. I mean, there's editing and mixing, coloring, layback. It's a whole megillah. You don't want to know. But we would need to be shooting in the next 15 minutes.",
+      "id": "S03E06-060"
+    },
+    {
+      "chunk": "be off-brand",
+      "meaning": "不符合一贯品牌形象",
+      "start_cue": 479,
+      "end_cue": 485,
+      "start_time": "00:31:35,123",
+      "end_time": "00:31:48,594",
+      "quote": "No. I can't do this. Sure you can. No! We... we're totally off-brand here. I'm Jimmy McGill, a lawyer you can trust. I can't suddenly turn into... Commercial Guy.",
+      "id": "S03E06-061"
+    },
+    {
+      "chunk": "repeat after me",
+      "meaning": "跟着我说／照我念一遍",
+      "start_cue": 486,
+      "end_cue": 491,
+      "start_time": "00:31:50,088",
+      "end_time": "00:32:02,454",
+      "quote": "Hold on. Uh, repeat after me... Uh, \"For a limited time, we'll shoot your commercial today \"and have it on the air tomorrow.\" For a limited time, we'll shoot your commercial today and have it on air tomorrow.",
+      "id": "S03E06-062"
+    },
+    {
+      "chunk": "Take your pick.",
+      "meaning": "随你挑一个",
+      "start_cue": 505,
+      "end_cue": 508,
+      "start_time": "00:34:14,609",
+      "end_time": "00:34:24,769",
+      "quote": "All the same weight? Within a quarter gram. Do you have a scale? Take your pick.",
+      "id": "S03E06-063"
+    },
+    {
+      "chunk": "push it",
+      "meaning": "得寸进尺／做得过分",
+      "start_cue": 509,
+      "end_cue": 519,
+      "start_time": "00:34:51,382",
+      "end_time": "00:35:56,214",
+      "quote": "You forgot how to count? You get five. Don Hector gets six. He's expecting six. And that's what I'm gonna bring. He's trying to take six. We only owe him five. He's pushing it. Give it to him. You sure? Give it to him.",
+      "id": "S03E06-064"
+    },
+    {
+      "chunk": "put a gun to sb.'s head",
+      "meaning": "拿枪抵住某人的头；也可比喻强迫，本句为字面威胁",
+      "start_cue": 541,
+      "end_cue": 545,
+      "start_time": "00:40:56,088",
+      "end_time": "00:41:07,703",
+      "quote": "So what happened? They called him. And, uh, while we were waiting to see what he'd say, one of the guys put a gun to my head. They put a gun to your head?",
+      "id": "S03E06-065"
+    },
+    {
+      "chunk": "get sth. over the border",
+      "meaning": "把某物运过边境",
+      "start_cue": 558,
+      "end_cue": 560,
+      "start_time": "00:41:48,898",
+      "end_time": "00:41:57,033",
+      "quote": "I want... a new way to get my stuff over the border. A legitimate business.",
+      "id": "S03E06-066"
+    },
+    {
+      "chunk": "a front for sth.",
+      "meaning": "掩护某项活动的合法表面业务；原句省略for短语，指走私掩护",
+      "start_cue": 559,
+      "end_cue": 564,
+      "start_time": "00:41:51,129",
+      "end_time": "00:42:03,746",
+      "quote": "a new way to get my stuff over the border. A legitimate business. Right. But the chicken man... Temporary. I want a new front... My own.",
+      "id": "S03E06-067"
+    },
+    {
+      "chunk": "12:30 sharp",
+      "meaning": "十二点半准时；sharp强调不迟不早",
+      "start_cue": 582,
+      "end_cue": 589,
+      "start_time": "00:43:37,986",
+      "end_time": "00:43:55,682",
+      "quote": "I promise, as soon as you see the first one, you're gonna want the whole package. Um, take about an hour. Um, so, I'll bring the whole team down there. We'll be there 12:30 sharp. I'm gonna turn you into a star. Absolutely. It will be on the air by tomorrow afternoon.",
+      "id": "S03E06-068"
+    },
+    {
+      "chunk": "Things must be looking up.",
+      "meaning": "看来情况在好转／开始有起色",
+      "start_cue": 597,
+      "end_cue": 599,
+      "start_time": "00:44:12,918",
+      "end_time": "00:44:20,455",
+      "quote": "So, sleeping in your own bed tonight. Things must be lookin' up. I needed clean clothes.",
+      "id": "S03E06-069"
+    },
+    {
+      "chunk": "go door-to-door",
+      "meaning": "挨家挨户上门",
+      "start_cue": 601,
+      "end_cue": 610,
+      "start_time": "00:44:23,416",
+      "end_time": "00:44:44,494",
+      "quote": "Well, I'm unloading that ad time. But I thought you couldn't sell it. Well, that's the thing... I'm not. Uh, they pay me to make a commercial, I throw in the airtime for free. - Smart. - Yeah. I spent most of the day going door-to-door, pitching. No dice. Then it came to me. I'm selling advertising... why not advertise? And it worked.",
+      "id": "S03E06-070"
+    },
+    {
+      "chunk": "No dice.",
+      "meaning": "没戏／行不通；简短拒绝或报告失败",
+      "start_cue": 607,
+      "end_cue": 610,
+      "start_time": "00:44:35,705",
+      "end_time": "00:44:44,494",
+      "quote": "I spent most of the day going door-to-door, pitching. No dice. Then it came to me. I'm selling advertising... why not advertise? And it worked.",
+      "id": "S03E06-071"
+    },
+    {
+      "chunk": "Then it came to me.",
+      "meaning": "然后我突然想到／灵机一动",
+      "start_cue": 607,
+      "end_cue": 610,
+      "start_time": "00:44:35,705",
+      "end_time": "00:44:44,494",
+      "quote": "I spent most of the day going door-to-door, pitching. No dice. Then it came to me. I'm selling advertising... why not advertise? And it worked.",
+      "id": "S03E06-072"
+    },
+    {
+      "chunk": "break even",
+      "meaning": "收支相抵／不赚不亏",
+      "start_cue": 619,
+      "end_cue": 623,
+      "start_time": "00:45:05,105",
+      "end_time": "00:45:19,213",
+      "quote": "I'm starting to think I might break even here. O-okay. Let's see it. Eeeesh, I don't know. It's not my best work. It's, um, very last-minute.",
+      "id": "S03E06-073"
+    },
+    {
+      "chunk": "It can't be that bad.",
+      "meaning": "不至于那么糟吧；缓和对方的自我评价",
+      "start_cue": 620,
+      "end_cue": 626,
+      "start_time": "00:45:10,029",
+      "end_time": "00:45:26,691",
+      "quote": "O-okay. Let's see it. Eeeesh, I don't know. It's not my best work. It's, um, very last-minute. Well, you're getting calls. It can't be that bad. Yeah. Wha... now you're getting shy?",
+      "id": "S03E06-074"
+    },
+    {
+      "chunk": "make it in …",
+      "meaning": "在某领域生存或取得成功",
+      "start_cue": 634,
+      "end_cue": 636,
+      "start_time": "00:45:57,105",
+      "end_time": "00:46:03,987",
+      "quote": "Struggling to make it in today's fast-paced economy? Thought television advertising was too expensive for you? Well, you better think again!",
+      "id": "S03E06-075"
+    },
+    {
+      "chunk": "You better think again.",
+      "meaning": "你最好重新想想；挑战对方判断",
+      "start_cue": 634,
+      "end_cue": 637,
+      "start_time": "00:45:57,105",
+      "end_time": "00:46:06,879",
+      "quote": "Struggling to make it in today's fast-paced economy? Thought television advertising was too expensive for you? Well, you better think again! You can't afford not to be on TV!",
+      "id": "S03E06-076"
+    },
+    {
+      "chunk": "can't afford not to do sth.",
+      "meaning": "不能不做某事／不做的代价承担不起",
+      "start_cue": 635,
+      "end_cue": 637,
+      "start_time": "00:45:59,707",
+      "end_time": "00:46:06,879",
+      "quote": "Thought television advertising was too expensive for you? Well, you better think again! You can't afford not to be on TV!",
+      "id": "S03E06-077"
+    },
+    {
+      "chunk": "a triple threat",
+      "meaning": "具备三种突出能力或优势的人；这里广告夸张赞美服务、产品与外貌",
+      "start_cue": 638,
+      "end_cue": 639,
+      "start_time": "00:46:06,904",
+      "end_time": "00:46:13,198",
+      "quote": "Look at you... you're a triple threat! Great services, great products, and most of all, that face!",
+      "id": "S03E06-078"
+    },
+    {
+      "chunk": "most of all",
+      "meaning": "最重要的是／尤其是",
+      "start_cue": 638,
+      "end_cue": 640,
+      "start_time": "00:46:06,904",
+      "end_time": "00:46:14,666",
+      "quote": "Look at you... you're a triple threat! Great services, great products, and most of all, that face! You're a star!",
+      "id": "S03E06-079"
+    },
+    {
+      "chunk": "You heard me right.",
+      "meaning": "你没听错；强调惊人的承诺或事实",
+      "start_cue": 644,
+      "end_cue": 646,
+      "start_time": "00:46:22,559",
+      "end_time": "00:46:27,642",
+      "quote": "And it gets better! I can have you on the air tomorrow. You heard me right... tomorrow!",
+      "id": "S03E06-080"
+    },
+    {
+      "chunk": "in a row",
+      "meaning": "连续地／接连",
+      "start_cue": 652,
+      "end_cue": 654,
+      "start_time": "00:46:43,521",
+      "end_time": "00:46:49,361",
+      "quote": "The guy at the station said he's never seen so many star wipes in a row. It's never been done.",
+      "id": "S03E06-081"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "if it makes you feel any better",
+      "meaning": "如果这能让你好受一点；安慰用语",
+      "start_cue": 193,
+      "end_cue": 195,
+      "start_time": "00:13:41,066",
+      "end_time": "00:13:46,845",
+      "quote": "Thanks for coming. It means a lot. Well, honey, if it makes you feel any better, I'm all for it.",
+      "reason": "已有同形同义"
+    },
+    {
+      "chunk": "be up to one's eyeballs in sth.",
+      "meaning": "忙得不可开交／被某事淹没；与up to one's ears同类",
+      "start_cue": 358,
+      "end_cue": 360,
+      "start_time": "00:25:06,463",
+      "end_time": "00:25:13,325",
+      "quote": "You're a lawyer. See if you can find a loophole. I cannot look at another contract. I'm up to my eyeballs in Mesa Verde.",
+      "reason": "本季up to one's ears同一忙碌程度义，eyes/ears仅形象变体"
+    },
+    {
+      "chunk": "give sb. notice",
+      "meaning": "提前通知某人终止雇用／租约等；此处通知解雇",
+      "start_cue": 362,
+      "end_cue": 365,
+      "start_time": "00:25:17,223",
+      "end_time": "00:25:24,976",
+      "quote": "So, what do you want to do about Francesca? Do about her? What? Yeah, how much notice should we give her? Two weeks?",
+      "reason": "已有give notice同一通知终止义"
+    },
+    {
+      "chunk": "down the drain",
+      "meaning": "白白浪费／付诸东流",
+      "start_cue": 458,
+      "end_cue": 460,
+      "start_time": "00:30:11,818",
+      "end_time": "00:30:18,887",
+      "quote": "No! I air in 2 hours and 20 minutes, and I have no client. That's another 400 bucks down the drain.",
+      "reason": "已有go down the drain同一浪费义"
+    },
+    {
+      "chunk": "Chop-chop!",
+      "meaning": "快点快点！随意催促",
+      "start_cue": 465,
+      "end_cue": 468,
+      "start_time": "00:30:31,567",
+      "end_time": "00:31:07,720",
+      "quote": "Have you not been listening? That's what I've been trying... Oh. Right. Let's go! Chop-chop!",
+      "reason": "前季同形同义"
+    },
+    {
+      "chunk": "either way",
+      "meaning": "不管哪种结果／无论做不做",
+      "start_cue": 499,
+      "end_cue": 502,
+      "start_time": "00:32:20,251",
+      "end_time": "00:32:30,859",
+      "quote": "Cut. Maybe next time. Woof. We gonna do this or not? 'Cause either way, I'm getting my 100 bucks.",
+      "reason": "前季同形同义"
+    },
+    {
+      "chunk": "It gets better.",
+      "meaning": "还有更好的消息／事情还会更好",
+      "start_cue": 644,
+      "end_cue": 646,
+      "start_time": "00:46:22,559",
+      "end_time": "00:46:27,642",
+      "quote": "And it gets better! I can have you on the air tomorrow. You heard me right... tomorrow!",
+      "reason": "前季同形同义"
+    },
+    {
+      "chunk": "hold up one's end",
+      "meaning": "履行自己应尽的那一份职责／承诺",
+      "start_cue": 389,
+      "end_cue": 391,
+      "start_time": "00:26:20,780",
+      "end_time": "00:26:28,319",
+      "quote": "As... as far as I'm concerned, nothing's changed, all right? I'll hold up my end, you hold up yours. 50-50.",
+      "id": "S03E06-052",
+      "existing_chunk": "hold up my end",
+      "reason": "独立复核：只换占位符，履行自己那份约定义相同"
+    },
+    {
+      "chunk": "throw sth. in for free",
+      "meaning": "免费附送某物／服务",
+      "start_cue": 408,
+      "end_cue": 411,
+      "start_time": "00:27:32,207",
+      "end_time": "00:27:42,163",
+      "quote": "And here's the beauty part... for a reasonable price, we will shoot your commercial, and then we'll throw in the airtime for the low, low price of free.",
+      "id": "S03E06-054",
+      "existing_chunk": "throw sth. in",
+      "reason": "独立复核：既有额外附赠义，for free只明说免费"
+    }
+  ],
+  "pending": [
+    {
+      "chunk": "a toe-in-the-water package",
+      "meaning": "先小规模试水的套餐；营销现场组合，核心比喻toe in the water",
+      "start_cue": 428,
+      "end_cue": 431,
+      "start_time": "00:28:23,360",
+      "end_time": "00:28:33,009",
+      "quote": "Uh, that's why we have our, uh, \"Toe-in-the-Water\" package. That's, uh, one commercial, flat rate, $849.95.",
+      "reason": "营销套餐的临时名称，普通试水比喻可核后另收，不教作固定套餐说法"
+    }
+  ],
+  "vocabulary_candidates": [
+    "cruiser",
+    "stash",
+    "gutter",
+    "animus",
+    "squat",
+    "footings",
+    "boilerplate",
+    "hiatus",
+    "overhead",
+    "moiré"
+  ],
+  "read_batches": [
+    [
+      1,
+      672
+    ]
+  ],
+  "second_pass": "Revisited all unselected cues; kept additional phone-transfer and evaluative noun phrase, separated temporary marketing name.",
+  "review_notes": [
+    {
+      "action": "duplicate_skipped",
+      "original_item": {
+        "chunk": "hold up one's end",
+        "meaning": "履行自己应尽的那一份职责／承诺",
+        "start_cue": 389,
+        "end_cue": 391,
+        "start_time": "00:26:20,780",
+        "end_time": "00:26:28,319",
+        "quote": "As... as far as I'm concerned, nothing's changed, all right? I'll hold up my end, you hold up yours. 50-50.",
+        "id": "S03E06-052"
+      },
+      "reason": "只换占位符，履行自己那份约定义相同",
+      "existing_chunk": "hold up my end"
+    },
+    {
+      "action": "duplicate_skipped",
+      "original_item": {
+        "chunk": "throw sth. in for free",
+        "meaning": "免费附送某物／服务",
+        "start_cue": 408,
+        "end_cue": 411,
+        "start_time": "00:27:32,207",
+        "end_time": "00:27:42,163",
+        "quote": "And here's the beauty part... for a reasonable price, we will shoot your commercial, and then we'll throw in the airtime for the low, low price of free.",
+        "id": "S03E06-054"
+      },
+      "reason": "既有额外附赠义，for free只明说免费",
+      "existing_chunk": "throw sth. in"
+    }
+  ],
+  "independent_review": {
+    "scope": "S03E01–E07 chunk/meaning/quote，against S01–S02；本次未重新做全集提取",
+    "status": "completed",
+    "duplicate_skipped": 2,
+    "vocabulary_track": 0,
+    "pending": 0,
+    "corrected": 0,
+    "boundary": "简单、能逐词理解不是删除理由；同形新义、不同语气或有独立接法的变体保留"
+  },
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

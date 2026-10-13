@@ -1,0 +1,951 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S03/Better.Call.Saul.S03E04.en.srt",
+  "sha256": "bd4dc30cdd6fac57873521dd32eb364c93ef071b2a6fc276dd70e6768b916307",
+  "subtitle_blocks_read": 568,
+  "max_cue": 568,
+  "selection_status": "Candidates, pending user screening; not audio-verified",
+  "items": [
+    {
+      "chunk": "get used to sth.",
+      "meaning": "逐渐适应某事／习惯新安排",
+      "start_cue": 31,
+      "end_cue": 32,
+      "start_time": "00:09:05,159",
+      "end_time": "00:09:09,108",
+      "quote": "They changed my hours up at work. I'm still gettin' used to it.",
+      "id": "S03E04-001"
+    },
+    {
+      "chunk": "I don't know how to thank you.",
+      "meaning": "我不知道该怎么感谢你才好；强烈表达感激",
+      "start_cue": 45,
+      "end_cue": 46,
+      "start_time": "00:09:33,362",
+      "end_time": "00:09:38,032",
+      "quote": "Mike, I don't know how to thank you. Well, you don't have to.",
+      "id": "S03E04-002"
+    },
+    {
+      "chunk": "put sb. out",
+      "meaning": "给某人添麻烦／让某人不方便",
+      "start_cue": 50,
+      "end_cue": 51,
+      "start_time": "00:09:44,725",
+      "end_time": "00:09:52,847",
+      "quote": "Sure. I'm making lasagna. There'll be plenty. Well, that's very sweet, but I don't want to put you out.",
+      "id": "S03E04-003"
+    },
+    {
+      "chunk": "let well enough alone",
+      "meaning": "事情本来已经可以，就别再多此一举折腾",
+      "start_cue": 58,
+      "end_cue": 60,
+      "start_time": "00:10:23,479",
+      "end_time": "00:10:30,017",
+      "quote": "I shoulda let well enough alone. Well, I can't understand it. According to the map, we were supposed to be taking a shortcut.",
+      "id": "S03E04-004"
+    },
+    {
+      "chunk": "get a lift",
+      "meaning": "搭便车／找人捎一程",
+      "start_cue": 65,
+      "end_cue": 66,
+      "start_time": "00:10:36,492",
+      "end_time": "00:10:48,473",
+      "quote": "Maybe we can get a lift. Hey!",
+      "id": "S03E04-005"
+    },
+    {
+      "chunk": "hang around sth.",
+      "meaning": "在某处逗留、转悠",
+      "start_cue": 67,
+      "end_cue": 68,
+      "start_time": "00:10:48,498",
+      "end_time": "00:10:50,905",
+      "quote": "What's the matter? There's some guys hanging around the truck.",
+      "id": "S03E04-006"
+    },
+    {
+      "chunk": "keep sb. waiting",
+      "meaning": "让某人等候；服务语境",
+      "start_cue": 103,
+      "end_cue": 104,
+      "start_time": "00:12:42,351",
+      "end_time": "00:12:46,860",
+      "quote": "I'd be happy to take a message. Uh, I'm sure Mr. Fring wouldn't want to keep you waiting.",
+      "id": "S03E04-007"
+    },
+    {
+      "chunk": "on the premises",
+      "meaning": "在场所范围内／店内",
+      "start_cue": 115,
+      "end_cue": 118,
+      "start_time": "00:13:14,080",
+      "end_time": "00:13:23,108",
+      "quote": "You can't light that in here. Sir! There's no smoking on the premises. Please, sir, look... look at the signs.",
+      "id": "S03E04-008"
+    },
+    {
+      "chunk": "a health-code violation",
+      "meaning": "违反卫生规范的行为",
+      "start_cue": 119,
+      "end_cue": 120,
+      "start_time": "00:13:23,133",
+      "end_time": "00:13:29,041",
+      "quote": "No fumar. You can't. That's... it's a... it's a health-code violation.",
+      "id": "S03E04-009"
+    },
+    {
+      "chunk": "employees only",
+      "meaning": "仅限员工进入／使用",
+      "start_cue": 121,
+      "end_cue": 121,
+      "start_time": "00:13:33,894",
+      "end_time": "00:13:36,496",
+      "quote": "- Uh, sir, it's employees only. - We have to go, okay?",
+      "id": "S03E04-010"
+    },
+    {
+      "chunk": "be compensated for sb.'s full shift",
+      "meaning": "按完整班次获得报酬／补偿",
+      "start_cue": 137,
+      "end_cue": 139,
+      "start_time": "00:15:36,512",
+      "end_time": "00:15:44,294",
+      "quote": "I want you all to go home now. You will be compensated for your full shifts. Normal schedule tomorrow.",
+      "id": "S03E04-011",
+      "original_chunk": "be compensated for one's full shift"
+    },
+    {
+      "chunk": "Please do as I ask.",
+      "meaning": "请按我说的做；礼貌形式下仍是明确指令",
+      "start_cue": 148,
+      "end_cue": 149,
+      "start_time": "00:16:14,487",
+      "end_time": "00:16:17,888",
+      "quote": "Please do as I ask. I'll see you tomorrow.",
+      "id": "S03E04-012"
+    },
+    {
+      "chunk": "at maximum capacity",
+      "meaning": "已达最大容量／负荷",
+      "start_cue": 166,
+      "end_cue": 168,
+      "start_time": "00:17:41,333",
+      "end_time": "00:17:52,933",
+      "quote": "I understand that your supply line has been compromised, and this is most unfortunate. However, my trucks are already at maximum capacity.",
+      "id": "S03E04-013"
+    },
+    {
+      "chunk": "Make room.",
+      "meaning": "腾出空间；此处要求运输中挤出容量",
+      "start_cue": 168,
+      "end_cue": 169,
+      "start_time": "00:17:48,481",
+      "end_time": "00:17:54,706",
+      "quote": "However, my trucks are already at maximum capacity. Make room.",
+      "id": "S03E04-014"
+    },
+    {
+      "chunk": "answer to sb.",
+      "meaning": "向某人负责／受某人指挥",
+      "start_cue": 170,
+      "end_cue": 171,
+      "start_time": "00:17:56,489",
+      "end_time": "00:18:00,610",
+      "quote": "Don Hector, you must understand that I answer to Juan Bolsa.",
+      "id": "S03E04-015"
+    },
+    {
+      "chunk": "acquit oneself + 方式副词",
+      "meaning": "表现得……；正式搭配，本句impeccably为表现无可挑剔，非宣告无罪义",
+      "start_cue": 192,
+      "end_cue": 193,
+      "start_time": "00:22:51,128",
+      "end_time": "00:22:58,159",
+      "quote": "Despite the difficult circumstances, you all acquitted yourselves impeccably.",
+      "id": "S03E04-017"
+    },
+    {
+      "chunk": "seek counseling",
+      "meaning": "寻求心理辅导／咨询帮助",
+      "start_cue": 194,
+      "end_cue": 197,
+      "start_time": "00:22:58,594",
+      "end_time": "00:23:10,198",
+      "quote": "That said, if any of you wish to seek counseling due to lingering trauma, speak with me privately, and it will be arranged.",
+      "id": "S03E04-018"
+    },
+    {
+      "chunk": "lingering trauma",
+      "meaning": "持续未消退的心理创伤",
+      "start_cue": 195,
+      "end_cue": 197,
+      "start_time": "00:23:01,161",
+      "end_time": "00:23:10,198",
+      "quote": "if any of you wish to seek counseling due to lingering trauma, speak with me privately, and it will be arranged.",
+      "id": "S03E04-019"
+    },
+    {
+      "chunk": "in one way or another",
+      "meaning": "以某种方式／多多少少",
+      "start_cue": 198,
+      "end_cue": 200,
+      "start_time": "00:23:10,589",
+      "end_time": "00:23:19,947",
+      "quote": "Also, you will all be receiving 24 hours of overtime, as I am sure, in one way or another, each of you brought this incident home with you.",
+      "id": "S03E04-020"
+    },
+    {
+      "chunk": "I'm ashamed to say (that) …",
+      "meaning": "说起来我很惭愧……；承认难堪的经历",
+      "start_cue": 210,
+      "end_cue": 211,
+      "start_time": "00:23:49,182",
+      "end_time": "00:23:56,660",
+      "quote": "And I-I am... I'm ashamed to say that I paid them.",
+      "id": "S03E04-022"
+    },
+    {
+      "chunk": "conduct sb.'s business",
+      "meaning": "经营自己的生意／开展业务",
+      "start_cue": 212,
+      "end_cue": 214,
+      "start_time": "00:23:57,246",
+      "end_time": "00:24:06,497",
+      "quote": "You see, in that place, at that time, if I wished to conduct my business... I had no choice.",
+      "id": "S03E04-023",
+      "original_chunk": "conduct one's business"
+    },
+    {
+      "chunk": "have no reason to fear",
+      "meaning": "没有理由害怕／无需恐惧",
+      "start_cue": 227,
+      "end_cue": 228,
+      "start_time": "00:24:48,996",
+      "end_time": "00:24:56,387",
+      "quote": "Here, the righteous have no reason to fear. Here, those men have no power.",
+      "id": "S03E04-024"
+    },
+    {
+      "chunk": "I'm calling to confirm an appointment.",
+      "meaning": "我打电话来确认预约；接待套语",
+      "start_cue": 249,
+      "end_cue": 251,
+      "start_time": "00:26:03,571",
+      "end_time": "00:26:12,181",
+      "quote": "Hello. I'm calling to confirm an appointment for Charles McGill. Yes, it's 215 San Cristobal Road... McGill, with an \"M.\"",
+      "id": "S03E04-025"
+    },
+    {
+      "chunk": "Thanks, anyway.",
+      "meaning": "不管怎样还是谢谢；即使没得到帮助仍礼貌收尾",
+      "start_cue": 254,
+      "end_cue": 256,
+      "start_time": "00:26:14,590",
+      "end_time": "00:26:19,218",
+      "quote": "I thought it was you guys. Guess I was wrong. Thanks, anyway.",
+      "id": "S03E04-026"
+    },
+    {
+      "chunk": "Good thing …",
+      "meaning": "幸好……；口语省略It's a good thing",
+      "start_cue": 258,
+      "end_cue": 260,
+      "start_time": "00:26:24,694",
+      "end_time": "00:26:31,366",
+      "quote": "Well, that's why I'm calling. I think it's for this week, but... Good thing my head's attached to my neck, right?",
+      "id": "S03E04-027"
+    },
+    {
+      "chunk": "lose track",
+      "meaning": "记不清数量／忘记进展或位置",
+      "start_cue": 277,
+      "end_cue": 279,
+      "start_time": "00:27:13,069",
+      "end_time": "00:27:19,971",
+      "quote": "How many calls did that take? I lost track. Is that it? Yeah. I'm nearly done.",
+      "id": "S03E04-028"
+    },
+    {
+      "chunk": "Mind the step.",
+      "meaning": "当心台阶；提醒脚下安全",
+      "start_cue": 300,
+      "end_cue": 302,
+      "start_time": "00:28:58,474",
+      "end_time": "00:29:12,517",
+      "quote": "If you don't mind wiping your shoes? It's this way. Mind... mind the step here.",
+      "id": "S03E04-029"
+    },
+    {
+      "chunk": "board sth. over",
+      "meaning": "用木板封住某处",
+      "start_cue": 303,
+      "end_cue": 304,
+      "start_time": "00:29:12,519",
+      "end_time": "00:29:18,456",
+      "quote": "Uh, as you'll see, the frame is boarded over, but the, uh, the door itself is intact.",
+      "id": "S03E04-030"
+    },
+    {
+      "chunk": "from the look of it",
+      "meaning": "从它的样子来看／看起来",
+      "start_cue": 308,
+      "end_cue": 309,
+      "start_time": "00:29:35,871",
+      "end_time": "00:29:44,561",
+      "quote": "- Break-in? - That's right. Went after your copper wire, from the look of it.",
+      "id": "S03E04-031"
+    },
+    {
+      "chunk": "There was a time when …",
+      "meaning": "曾经有那么一段时候……；回忆以前的情况",
+      "start_cue": 310,
+      "end_cue": 311,
+      "start_time": "00:29:46,653",
+      "end_time": "00:29:50,956",
+      "quote": "There was a time... remember? When we could leave our doors unlocked.",
+      "id": "S03E04-032"
+    },
+    {
+      "chunk": "in some detail",
+      "meaning": "比较详细地；不是随便提到一下",
+      "start_cue": 318,
+      "end_cue": 320,
+      "start_time": "00:30:01,368",
+      "end_time": "00:30:08,907",
+      "quote": "I believe my assistant was very clear with your dispatcher... no electricity, due to a condition that was explained in some detail.",
+      "id": "S03E04-033"
+    },
+    {
+      "chunk": "power tools",
+      "meaning": "电动工具；与纯手动工具相对",
+      "start_cue": 324,
+      "end_cue": 328,
+      "start_time": "00:30:20,053",
+      "end_time": "00:30:31,663",
+      "quote": "I'm sorry! I'm sorry! I understood there would be no power tools of any kind. What? A screwdriver and a hammer? Turns a morning job into two days with me, myself, and Bengay.",
+      "id": "S03E04-034"
+    },
+    {
+      "chunk": "the rule of thirds",
+      "meaning": "三分法；摄影构图术语",
+      "start_cue": 340,
+      "end_cue": 342,
+      "start_time": "00:32:45,646",
+      "end_time": "00:32:55,034",
+      "quote": "At some point, we should probably discuss the rule of thirds, but, otherwise, these, uh... Oh, wow. Yep.",
+      "id": "S03E04-036"
+    },
+    {
+      "chunk": "speak freely",
+      "meaning": "畅所欲言／坦率地说",
+      "start_cue": 352,
+      "end_cue": 354,
+      "start_time": "00:33:35,645",
+      "end_time": "00:33:43,815",
+      "quote": "what'dya think of him? I mean, speak freely. You couldn't possibly offend me. He's a bit of a prick, right?",
+      "id": "S03E04-037"
+    },
+    {
+      "chunk": "dish the dirt",
+      "meaning": "说八卦／揭别人隐私；随意口语",
+      "start_cue": 355,
+      "end_cue": 358,
+      "start_time": "00:33:46,260",
+      "end_time": "00:33:54,385",
+      "quote": "Nothing? Seriously? All right. Can't even dish the dirt with this guy.",
+      "id": "S03E04-038"
+    },
+    {
+      "chunk": "even Steven",
+      "meaning": "两不相欠／扯平了；随意口语",
+      "start_cue": 359,
+      "end_cue": 360,
+      "start_time": "00:33:54,410",
+      "end_time": "00:33:59,641",
+      "quote": "Isn't our business concluded? Yeah, even Steven.",
+      "id": "S03E04-039"
+    },
+    {
+      "chunk": "for once",
+      "meaning": "这一次总算……；与平时情况对照",
+      "start_cue": 365,
+      "end_cue": 367,
+      "start_time": "00:34:09,663",
+      "end_time": "00:34:17,932",
+      "quote": "I did it right. Thank you. Nice to fix something for once.",
+      "id": "S03E04-040"
+    },
+    {
+      "chunk": "from my end",
+      "meaning": "从我这边／在我负责的这一头",
+      "start_cue": 370,
+      "end_cue": 371,
+      "start_time": "00:34:23,582",
+      "end_time": "00:34:28,417",
+      "quote": "All right. If you ever need anything from my end...",
+      "id": "S03E04-041"
+    },
+    {
+      "chunk": "If I may make an observation …",
+      "meaning": "如果允许我说一句／提出一个看法……；正式缓冲",
+      "start_cue": 379,
+      "end_cue": 381,
+      "start_time": "00:35:57,438",
+      "end_time": "00:36:05,212",
+      "quote": "If I may make an observation... Perhaps you are trying to correct something which cannot be corrected.",
+      "id": "S03E04-042"
+    },
+    {
+      "chunk": "take money for sth.",
+      "meaning": "为某事收取报酬",
+      "start_cue": 382,
+      "end_cue": 382,
+      "start_time": "00:36:06,713",
+      "end_time": "00:36:10,248",
+      "quote": "It's not the kind of thing I want to take money for.",
+      "id": "S03E04-043"
+    },
+    {
+      "chunk": "The fact remains that …",
+      "meaning": "事实仍然是……；指出不受前面解释影响的事实",
+      "start_cue": 383,
+      "end_cue": 384,
+      "start_time": "00:36:10,250",
+      "end_time": "00:36:15,053",
+      "quote": "But the fact remains that your actions benefited me more than you can know.",
+      "id": "S03E04-044"
+    },
+    {
+      "chunk": "more than you can know",
+      "meaning": "远超你所能知道／意识到的程度",
+      "start_cue": 383,
+      "end_cue": 384,
+      "start_time": "00:36:10,250",
+      "end_time": "00:36:15,053",
+      "quote": "But the fact remains that your actions benefited me more than you can know.",
+      "id": "S03E04-045"
+    },
+    {
+      "chunk": "have sb./sth. out of sb.'s head",
+      "meaning": "不再一直想着某人／某事；摆脱心理困扰",
+      "start_cue": 385,
+      "end_cue": 386,
+      "start_time": "00:36:15,055",
+      "end_time": "00:36:21,257",
+      "quote": "That's your business. I'm just glad to have Salamanca out of my head.",
+      "id": "S03E04-046",
+      "original_chunk": "have sb./sth. out of one's head"
+    },
+    {
+      "chunk": "Would you care to know why …?",
+      "meaning": "你想知道为什么……吗？较正式、克制的引入",
+      "start_cue": 391,
+      "end_cue": 394,
+      "start_time": "00:36:58,994",
+      "end_time": "00:37:14,633",
+      "quote": "Would you care to know why... I stopped you from killing Hector? Like you said... it wasn't in your interest. A bullet to the head would have been far too humane.",
+      "id": "S03E04-047"
+    },
+    {
+      "chunk": "It'll have to do.",
+      "meaning": "只好将就／也只能这样了",
+      "start_cue": 403,
+      "end_cue": 404,
+      "start_time": "00:39:20,812",
+      "end_time": "00:39:24,871",
+      "quote": "Mr. McGill, does this work for you? It'll have to do. Thank you.",
+      "id": "S03E04-048"
+    },
+    {
+      "chunk": "be no longer with us",
+      "meaning": "已经去世；委婉表达",
+      "start_cue": 411,
+      "end_cue": 413,
+      "start_time": "00:39:38,193",
+      "end_time": "00:39:45,291",
+      "quote": "I was actually speaking to my husband about your condition. Oh, yes? I had an aunt. She's no longer with us.",
+      "id": "S03E04-049"
+    },
+    {
+      "chunk": "get down to it",
+      "meaning": "开始认真处理正事",
+      "start_cue": 420,
+      "end_cue": 423,
+      "start_time": "00:39:58,916",
+      "end_time": "00:40:10,907",
+      "quote": "All right. Let's get down to it. We are here to finalize the Pre-Prosecution Diversion for James Morgan McGill.",
+      "id": "S03E04-050"
+    },
+    {
+      "chunk": "waive sb.'s rights to sth.",
+      "meaning": "放弃某项权利；法律语境",
+      "start_cue": 425,
+      "end_cue": 428,
+      "start_time": "00:40:14,443",
+      "end_time": "00:40:22,752",
+      "quote": "Mr. James McGill has signed a contract waiving his rights to a speedy trial and presentment of his case within the statute of limitations.",
+      "id": "S03E04-051",
+      "original_chunk": "waive one's rights to sth."
+    },
+    {
+      "chunk": "the statute of limitations",
+      "meaning": "法定时效／诉讼时效；法律术语",
+      "start_cue": 425,
+      "end_cue": 428,
+      "start_time": "00:40:14,443",
+      "end_time": "00:40:22,752",
+      "quote": "Mr. James McGill has signed a contract waiving his rights to a speedy trial and presentment of his case within the statute of limitations.",
+      "id": "S03E04-052"
+    },
+    {
+      "chunk": "maintain lawful employment",
+      "meaning": "保持合法工作／从事合法职业；法律安排中的搭配",
+      "start_cue": 434,
+      "end_cue": 436,
+      "start_time": "00:40:34,028",
+      "end_time": "00:40:43,862",
+      "quote": "Community service hours will be assigned. You must maintain lawful employment. Must only associate with law-abiding citizens.",
+      "id": "S03E04-053"
+    },
+    {
+      "chunk": "law-abiding citizens",
+      "meaning": "守法公民",
+      "start_cue": 435,
+      "end_cue": 436,
+      "start_time": "00:40:37,201",
+      "end_time": "00:40:43,862",
+      "quote": "You must maintain lawful employment. Must only associate with law-abiding citizens.",
+      "id": "S03E04-054"
+    },
+    {
+      "chunk": "violate the terms of an agreement",
+      "meaning": "违反协议条款",
+      "start_cue": 437,
+      "end_cue": 442,
+      "start_time": "00:40:43,887",
+      "end_time": "00:40:56,491",
+      "quote": "Your client understands that, if he violates the terms of the agreement or is arrested for any infraction, the crimes to which he has confessed here will be prosecuted to the full extent of the law, in addition to any new charges?",
+      "id": "S03E04-055"
+    },
+    {
+      "chunk": "to the full extent of the law",
+      "meaning": "在法律允许的最大范围内／依法尽可能严厉地",
+      "start_cue": 437,
+      "end_cue": 442,
+      "start_time": "00:40:43,887",
+      "end_time": "00:40:56,491",
+      "quote": "Your client understands that, if he violates the terms of the agreement or is arrested for any infraction, the crimes to which he has confessed here will be prosecuted to the full extent of the law, in addition to any new charges?",
+      "id": "S03E04-056"
+    },
+    {
+      "chunk": "be referred to sth.",
+      "meaning": "被转交／提交某机构处理；此处指供词交律师协会",
+      "start_cue": 444,
+      "end_cue": 447,
+      "start_time": "00:40:57,822",
+      "end_time": "00:41:08,039",
+      "quote": "And I must inform you, Mr. McGill, as an officer of the court and member of the bar, your confession will be referred to the New Mexico Bar Association.",
+      "id": "S03E04-057"
+    },
+    {
+      "chunk": "Would it not be more accurate to say …?",
+      "meaning": "说成……不是更准确吗？正式反问修正措辞",
+      "start_cue": 451,
+      "end_cue": 454,
+      "start_time": "00:41:15,773",
+      "end_time": "00:41:24,947",
+      "quote": "Actually, page 2, he \"damaged the victim's property.\" Would it not be more accurate to say \"destroyed a cassette tape\"?",
+      "id": "S03E04-058"
+    },
+    {
+      "chunk": "Works for us.",
+      "meaning": "我们可以接受／对我们可行；代表一方确认措辞或方案",
+      "start_cue": 466,
+      "end_cue": 468,
+      "start_time": "00:41:49,607",
+      "end_time": "00:41:57,146",
+      "quote": "Uh, we'd suggest \"destroyed item of personal property.\" Ms. Wexler? Works for us.",
+      "id": "S03E04-059"
+    },
+    {
+      "chunk": "If you would.",
+      "meaning": "有劳你这样做／请吧；礼貌地接受对方主动帮忙",
+      "start_cue": 469,
+      "end_cue": 470,
+      "start_time": "00:41:57,148",
+      "end_time": "00:42:00,349",
+      "quote": "Shall I change it, or...? If you would.",
+      "id": "S03E04-060"
+    },
+    {
+      "chunk": "find sth. wanting",
+      "meaning": "认为某物不够好／有所欠缺；wanting不是想要",
+      "start_cue": 476,
+      "end_cue": 477,
+      "start_time": "00:42:22,073",
+      "end_time": "00:42:27,182",
+      "quote": "Charles, was there anything else you found wanting in your brother's statement?",
+      "id": "S03E04-061"
+    },
+    {
+      "chunk": "a lack of remorse",
+      "meaning": "缺乏悔意",
+      "start_cue": 481,
+      "end_cue": 485,
+      "start_time": "00:42:36,854",
+      "end_time": "00:42:50,526",
+      "quote": "No, not all set, Mr. McGill. Your brother may be satisfied, but I am not. The confession you've written is adequate, but, frankly, I-I sense a lack of remorse. And I, for one, would like to hear an apology.",
+      "id": "S03E04-062"
+    },
+    {
+      "chunk": "There's no excuse for that.",
+      "meaning": "这没有借口／没有什么能为之辩解",
+      "start_cue": 494,
+      "end_cue": 500,
+      "start_time": "00:43:27,081",
+      "end_time": "00:43:49,068",
+      "quote": "I lost my temper, and I did some things... so many things that I regret. I shouldn't have broken down your door. Doesn't matter how I was provoked. I-I shouldn't have done that. There's no excuse for that. Or for the things that I said.",
+      "id": "S03E04-063"
+    },
+    {
+      "chunk": "pay up",
+      "meaning": "把欠款付清／掏钱偿付",
+      "start_cue": 509,
+      "end_cue": 514,
+      "start_time": "00:44:14,919",
+      "end_time": "00:44:28,130",
+      "quote": "On to the matter of restitution. Mr. McGill, according to your agreement, you have two weeks to pay your brother back. I would like to pay up now, if I may. You may. The amount is $321.",
+      "id": "S03E04-064"
+    },
+    {
+      "chunk": "a full accounting",
+      "meaning": "完整的账目／全面核算；此处用于核对赔偿金额",
+      "start_cue": 515,
+      "end_cue": 520,
+      "start_time": "00:44:28,132",
+      "end_time": "00:44:43,198",
+      "quote": "Uh, Ms. Hay. I'm sorry. That figure doesn't represent a full accounting. Oh, no? I believe the correct amount is $323.98. That includes the cassette tape... which was destroyed.",
+      "id": "S03E04-065"
+    },
+    {
+      "chunk": "put sb. on notice",
+      "meaning": "正式提醒／告知某人某事，常带警告意味",
+      "start_cue": 524,
+      "end_cue": 526,
+      "start_time": "00:45:12,076",
+      "end_time": "00:45:21,083",
+      "quote": "What do you say we get you home? Howard. Chuck. I'm putting you both on notice regarding the bar hearing.",
+      "id": "S03E04-066"
+    },
+    {
+      "chunk": "file a motion to suppress sth.",
+      "meaning": "提交排除某证据的动议；法律程序搭配",
+      "start_cue": 526,
+      "end_cue": 528,
+      "start_time": "00:45:18,216",
+      "end_time": "00:45:25,421",
+      "quote": "I'm putting you both on notice regarding the bar hearing. The first thing, I'm filing a motion to suppress that tape. The tape that Jimmy destroyed, you mean?",
+      "id": "S03E04-067"
+    },
+    {
+      "chunk": "stop with the games",
+      "meaning": "别再耍花招／玩把戏",
+      "start_cue": 529,
+      "end_cue": 530,
+      "start_time": "00:45:26,568",
+      "end_time": "00:45:29,592",
+      "quote": "How about we stop with the games? There's no way there isn't a duplicate.",
+      "id": "S03E04-068"
+    },
+    {
+      "chunk": "There's no way …",
+      "meaning": "不可能……；强调确信某种情况不成立",
+      "start_cue": 529,
+      "end_cue": 537,
+      "start_time": "00:45:26,568",
+      "end_time": "00:45:41,900",
+      "quote": "How about we stop with the games? There's no way there isn't a duplicate. Really? Of course there is. You knew Jimmy was gonna break in. You wanted him to. There's no way you were gonna let him destroy the only copy of that tape, so you made a duplicate... - it's the first thing you did. - Kim...",
+      "id": "S03E04-069"
+    },
+    {
+      "chunk": "under lock and key",
+      "meaning": "锁好并妥善保管",
+      "start_cue": 539,
+      "end_cue": 542,
+      "start_time": "00:45:43,441",
+      "end_time": "00:45:54,683",
+      "quote": "Actually, Jimmy destroyed the duplicate. Ah, it's fine, Howard. The original is under lock and key, and in due time, it will be put into evidence for your review.",
+      "id": "S03E04-070"
+    },
+    {
+      "chunk": "in due time",
+      "meaning": "到适当的时候／到时候自然会",
+      "start_cue": 540,
+      "end_cue": 542,
+      "start_time": "00:45:46,677",
+      "end_time": "00:45:54,683",
+      "quote": "Ah, it's fine, Howard. The original is under lock and key, and in due time, it will be put into evidence for your review.",
+      "id": "S03E04-071"
+    },
+    {
+      "chunk": "put sth. into evidence",
+      "meaning": "将某物作为证据提交",
+      "start_cue": 541,
+      "end_cue": 542,
+      "start_time": "00:45:48,940",
+      "end_time": "00:45:54,683",
+      "quote": "The original is under lock and key, and in due time, it will be put into evidence for your review.",
+      "id": "S03E04-072"
+    },
+    {
+      "chunk": "Count on it.",
+      "meaning": "这点你放心／我肯定会；此处坚定回应自己会提动议",
+      "start_cue": 543,
+      "end_cue": 544,
+      "start_time": "00:45:54,685",
+      "end_time": "00:45:59,355",
+      "quote": "So, of course, file whatever motions you'd like. - It's your privilege. - I will. Count on it.",
+      "id": "S03E04-073"
+    },
+    {
+      "chunk": "the standard of proof",
+      "meaning": "证明标准；法律术语",
+      "start_cue": 545,
+      "end_cue": 550,
+      "start_time": "00:45:59,357",
+      "end_time": "00:46:15,227",
+      "quote": "But, Kim, you should be aware... because I believe this will be your first disciplinary hearing... uh, the Bar Association's standard of proof is far more lenient than what you're used to. Motions aside, that tape will be played.",
+      "id": "S03E04-074"
+    },
+    {
+      "chunk": "sth. aside, …",
+      "meaning": "撇开某事不谈……；把一个因素放到一边后给判断",
+      "start_cue": 545,
+      "end_cue": 550,
+      "start_time": "00:45:59,357",
+      "end_time": "00:46:15,227",
+      "quote": "But, Kim, you should be aware... because I believe this will be your first disciplinary hearing... uh, the Bar Association's standard of proof is far more lenient than what you're used to. Motions aside, that tape will be played.",
+      "id": "S03E04-075"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "take a shortcut",
+      "meaning": "走近路／采用更省事的办法",
+      "start_cue": 59,
+      "end_cue": 60,
+      "start_time": "00:10:25,081",
+      "end_time": "00:10:30,017",
+      "quote": "Well, I can't understand it. According to the map, we were supposed to be taking a shortcut.",
+      "reason": "先前take shortcuts同一省时省事义"
+    },
+    {
+      "chunk": "a pillar of the community",
+      "meaning": "社区的重要支柱人物；称赞其地位和贡献",
+      "start_cue": 126,
+      "end_cue": 128,
+      "start_time": "00:14:19,282",
+      "end_time": "00:14:27,288",
+      "quote": "Gus Fring is a pillar of our local business community, and not just for underwriting our travel raffle, but for making the best damn chicken in town!",
+      "reason": "先前同形同义"
+    },
+    {
+      "chunk": "Took you long enough.",
+      "meaning": "你可算来了／花的时间够久的；责怪或揶揄迟到",
+      "start_cue": 153,
+      "end_cue": 153,
+      "start_time": "00:16:40,213",
+      "end_time": "00:16:42,580",
+      "quote": "Took you long enough.",
+      "reason": "先前同形同义"
+    },
+    {
+      "chunk": "move on from sth.",
+      "meaning": "从某事中走出来，继续向前",
+      "start_cue": 231,
+      "end_cue": 233,
+      "start_time": "00:25:02,343",
+      "end_time": "00:25:12,119",
+      "quote": "Back across the border. They will not return. We will move on from this.",
+      "reason": "先前同形同义"
+    },
+    {
+      "chunk": "That's your business.",
+      "meaning": "那是你自己的事；划清责任或拒绝介入",
+      "start_cue": 383,
+      "end_cue": 385,
+      "start_time": "00:36:10,250",
+      "end_time": "00:36:17,122",
+      "quote": "But the fact remains that your actions benefited me more than you can know. That's your business.",
+      "reason": "先前同形同义"
+    },
+    {
+      "chunk": "do a number on sb.",
+      "meaning": "给某人造成很大影响／伤害；随意口语",
+      "start_cue": 417,
+      "end_cue": 418,
+      "start_time": "00:39:51,823",
+      "end_time": "00:39:56,169",
+      "quote": "Something about the frequency of their voices really did a number on her.",
+      "reason": "先前同形同义影响／伤害义"
+    },
+    {
+      "chunk": "look sb. in the eye",
+      "meaning": "直视某人的眼睛；面对面郑重表达",
+      "start_cue": 490,
+      "end_cue": 492,
+      "start_time": "00:43:06,234",
+      "end_time": "00:43:22,276",
+      "quote": "I was wrong. Mr. McGill, could you at least look your brother in the eye? Chuck...",
+      "reason": "先前同形同义"
+    },
+    {
+      "chunk": "apologize to each and every one of you",
+      "meaning": "向你们每一个人道歉；each and every强调无一例外",
+      "start_cue": 188,
+      "end_cue": 190,
+      "start_time": "00:22:33,573",
+      "end_time": "00:22:44,710",
+      "quote": "I would, uh, I would like to apologize to each and every one of you who, yesterday, had to endure the behavior of those men.",
+      "id": "S03E04-016",
+      "existing_chunk": "each and every one",
+      "reason": "独立复核：表达核心已收，外加普通apologize不增加独立模板"
+    },
+    {
+      "chunk": "It's your call.",
+      "meaning": "你来决定／由你说了算",
+      "start_cue": 325,
+      "end_cue": 329,
+      "start_time": "00:30:22,007",
+      "end_time": "00:30:33,431",
+      "quote": "I understood there would be no power tools of any kind. What? A screwdriver and a hammer? Turns a morning job into two days with me, myself, and Bengay. But... it's your call.",
+      "id": "S03E04-035",
+      "existing_chunk": "It's sb.'s call.",
+      "reason": "独立复核：只把既有sb.换成your，同一由某人决定功能"
+    }
+  ],
+  "pending": [
+    {
+      "chunk": "give sth. a … pass",
+      "meaning": "按某一标准再检查一遍；原句是a remorse pass，属现场临时组合",
+      "start_cue": 279,
+      "end_cue": 281,
+      "start_time": "00:27:17,880",
+      "end_time": "00:27:24,863",
+      "quote": "Yeah. I'm nearly done. I'm just giving it a remorse pass. Well, remorse is important.",
+      "reason": "原句a remorse pass属临时创作，不升级为通用框架"
+    },
+    {
+      "chunk": "make fast work of sth.",
+      "meaning": "很快把某事做完；原句fast work，常规形式也见make short/quick work of，候选接法待核",
+      "start_cue": 332,
+      "end_cue": 333,
+      "start_time": "00:30:51,498",
+      "end_time": "00:30:56,975",
+      "quote": "You seem to be making fast work of it. That's good. That's good.",
+      "reason": "原句搭配需进一步核定常规程度，保留候选待核"
+    },
+    {
+      "chunk": "bring an incident home with oneself",
+      "meaning": "把某次事件的影响带回家；这里是情绪影响，不是实物",
+      "start_cue": 198,
+      "end_cue": 200,
+      "start_time": "00:23:10,589",
+      "end_time": "00:23:19,947",
+      "quote": "Also, you will all be receiving 24 hours of overtime, as I am sure, in one way or another, each of you brought this incident home with you.",
+      "id": "S03E04-021",
+      "reason": "一次性的事件影响隐喻，不能据本例假定bring an incident home是通行固定模板"
+    }
+  ],
+  "vocabulary_candidates": [
+    "underwrite",
+    "cartel",
+    "mule",
+    "remorse",
+    "crème de la crème",
+    "doorjamb",
+    "irrevocable",
+    "restitution"
+  ],
+  "read_batches": [
+    [
+      1,
+      568
+    ]
+  ],
+  "second_pass": "Reviewed all initially unselected cues; added service warnings, agreement replies and compensation wording. Suspect subtitle wording at146 and578–579 spelling inpreview not normalized into correct teaching templates.",
+  "review_notes": [
+    {
+      "action": "duplicate_skipped",
+      "original_item": {
+        "chunk": "apologize to each and every one of you",
+        "meaning": "向你们每一个人道歉；each and every强调无一例外",
+        "start_cue": 188,
+        "end_cue": 190,
+        "start_time": "00:22:33,573",
+        "end_time": "00:22:44,710",
+        "quote": "I would, uh, I would like to apologize to each and every one of you who, yesterday, had to endure the behavior of those men.",
+        "id": "S03E04-016"
+      },
+      "reason": "表达核心已收，外加普通apologize不增加独立模板",
+      "existing_chunk": "each and every one"
+    },
+    {
+      "action": "corrected",
+      "original_item": {
+        "chunk": "acquit oneself impeccably",
+        "meaning": "表现得无可挑剔；acquit oneself在此指表现，不是宣告无罪",
+        "start_cue": 192,
+        "end_cue": 193,
+        "start_time": "00:22:51,128",
+        "end_time": "00:22:58,159",
+        "quote": "Despite the difficult circumstances, you all acquitted yourselves impeccably.",
+        "id": "S03E04-017"
+      },
+      "updated_chunk": "acquit oneself + 方式副词",
+      "updated_meaning": "表现得……；正式搭配，本句impeccably为表现无可挑剔，非宣告无罪义",
+      "reason": "按现场语境修正或约束泛化，原引文和时间码不改"
+    },
+    {
+      "action": "pending",
+      "original_item": {
+        "chunk": "bring an incident home with oneself",
+        "meaning": "把某次事件的影响带回家；这里是情绪影响，不是实物",
+        "start_cue": 198,
+        "end_cue": 200,
+        "start_time": "00:23:10,589",
+        "end_time": "00:23:19,947",
+        "quote": "Also, you will all be receiving 24 hours of overtime, as I am sure, in one way or another, each of you brought this incident home with you.",
+        "id": "S03E04-021"
+      },
+      "reason": "一次性的事件影响隐喻，不能据本例假定bring an incident home是通行固定模板"
+    },
+    {
+      "action": "duplicate_skipped",
+      "original_item": {
+        "chunk": "It's your call.",
+        "meaning": "你来决定／由你说了算",
+        "start_cue": 325,
+        "end_cue": 329,
+        "start_time": "00:30:22,007",
+        "end_time": "00:30:33,431",
+        "quote": "I understood there would be no power tools of any kind. What? A screwdriver and a hammer? Turns a morning job into two days with me, myself, and Bengay. But... it's your call.",
+        "id": "S03E04-035"
+      },
+      "reason": "只把既有sb.换成your，同一由某人决定功能",
+      "existing_chunk": "It's sb.'s call."
+    }
+  ],
+  "independent_review": {
+    "scope": "S03E01–E07 chunk/meaning/quote，against S01–S02；本次未重新做全集提取",
+    "status": "completed",
+    "duplicate_skipped": 2,
+    "vocabulary_track": 0,
+    "pending": 1,
+    "corrected": 1,
+    "boundary": "简单、能逐词理解不是删除理由；同形新义、不同语气或有独立接法的变体保留"
+  },
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

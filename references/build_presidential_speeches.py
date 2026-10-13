@@ -73,6 +73,38 @@ class Paragraphs(HTMLParser):
             self.tag = None
 
 
+
+def render_chunks(sources, selection):
+    """Render curated chunks by speech; discovery/dedup remain editorial work."""
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for chunk in selection['chunks']:
+        groups[chunk['source_id']].append(chunk)
+    speakers = ['Bill Clinton', 'George W. Bush', 'Barack Obama', 'Donald Trump', 'Joe Biden']
+    ordered = sorted(sources, key=lambda src: (speakers.index(src['speaker']), src['date']))
+    lines = ['# 总统演讲：Chunks 积累', '',
+             f"取自五位总统的 {len(groups)} 篇官方实录，按演讲分组。记录可迁移的搭配、话语套语和句子骨架；正式与演讲语气标在意思中，不把出现次数当作日常高频或掌握证据。", '',
+             '原文见 [总统演讲原文合集](../原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md)。以下是候选积累；段号对应本地可读层，原句逐字保留。', '']
+    for src in ordered:
+        if src['id'] not in groups:
+            continue
+        lines += [f"## {src['date']} · {src['label']}", '']
+        for i, chunk in enumerate(sorted(groups[src['id']], key=lambda x: x['paragraph']), 1):
+            location = f"P{chunk['paragraph']:03d}"
+            if chunk.get('end_paragraph', chunk['paragraph']) != chunk['paragraph']:
+                location += f"–P{chunk['end_paragraph']:03d}"
+            register = chunk.get('register', '')
+            lines += [f"### {i}. {chunk['chunk']}", '',
+                      f"**意思：** {chunk['meaning']}" + (f"（{register}）" if register else ''), '',
+                      '> ' + chunk['quote'].replace('\n', ' '), '',
+                      f"**来源：** [{src['speaker']} · {location}]({source_url(src)})", '']
+            if chunk.get('note'):
+                lines += [f"**补充：** {chunk['note']}", '']
+            if chunk.get('transfer'):
+                lines += [f"> {chunk['transfer']}（教学自造）", '']
+    return '\n'.join(lines).rstrip() + '\n'
+
+
 def main():
     sources = json.loads((META / 'sources.json').read_text())
     speeches = {}
@@ -111,31 +143,12 @@ def main():
         selection = json.loads(chunks_path.read_text())
         chunks = selection['chunks']
         for chunk in chunks:
-            paragraph = speeches[chunk['source_id']][chunk['paragraph'] - 1]
+            paragraph = ' '.join(speeches[chunk['source_id']][chunk['paragraph'] - 1:chunk.get('end_paragraph', chunk['paragraph'])])
             if chunk['quote'] not in paragraph:
                 raise ValueError(f"Quotation mismatch: {chunk['chunk']}")
         print('verified', len(chunks), 'verbatim quotations')
-        report = ['# 总统演讲 Chunks：坚持原则、澄清判断与回应挫折', '',
-                  '2026-10-08 首批：通读四篇 GovInfo 官方演讲后精选 20 个候选。原文例证按本地段号定位并逐字校验；提取片段会保留大小写、停顿和官方更正。场景迁移句均为教学自造。单篇或本批出现次数不等于英语总体频率。', '',
-                  '原文合集见 [总统演讲原文合集](../../原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md)，数据见 `references/presidential-speeches/chunks.json`。它是采集与解释资料，尚未经过用户练习验证。', '', '## 本批来源', '']
-        for src in sources:
-            if src['id'] not in {chunk['source_id'] for chunk in chunks}:
-                continue
-            url = source_url(src)
-            report.append(f"- {src['date']} · {src['label']} · [{src['id']}]({url})")
-        report += ['', '## Chunks 与使用边界', '', '| Chunk | 中文意思与语气 | 原文例证 |', '|---|---|---|']
-        for chunk in chunks:
-            src = next(s for s in sources if s['id'] == chunk['source_id'])
-            url = source_url(src)
-            report.append(f"| {chunk['chunk']} | {chunk['meaning']}；{chunk['register']}。{chunk['note']} | {chunk['quote']}（[{src['speaker']} {src['date']} · P{chunk['paragraph']:03d}]({url})） |")
-        report += ['', '## 从演讲迁移到日常（教学自造）', '']
-        for i, chunk in enumerate(chunks, 1):
-            report += [f"**{i}. {chunk['chunk']}**", '', f"> {chunk['transfer']}（教学自造）", '']
-        report += ['## 跳过与边界', '']
-        for item in selection['skipped']:
-            report.append(f"- `{item['text']}`：{item['reason']}")
-        report += ['', '最长保留项是“重新界定问题”的半固定骨架，完整原句仅作证据；不把整段政治论证当一个 chunk。演讲有正式、鼓动和郑重语气，日常使用时应按对象与场景调低力度。', '']
-        write_document(ROOT / 'course/Chunks 收集/总统演讲 Chunks：坚持原则、澄清判断与回应挫折.md', '\n'.join(report), encoding='utf-8')
+        report = render_chunks(sources, selection)
+        (ROOT / 'course/Chunks 收集/总统演讲：Chunks 积累.md').write_text(report, encoding='utf-8')
     OUT.parent.mkdir(parents=True, exist_ok=True)
     write_document(OUT, '\n'.join(lines).rstrip() + '\n', encoding='utf-8')
 

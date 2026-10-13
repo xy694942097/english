@@ -1,0 +1,445 @@
+{
+  "source_id": "PPP-2001-book1-doc-pg1",
+  "html_source": "https://www.govinfo.gov/content/pkg/PPP-2001-book1/html/PPP-2001-book1-doc-pg1.htm",
+  "source_sha256": "4ae199f7617a46146d5b719006b9a2e4c621a08697a0d564d48adda3cc537504",
+  "paragraphs_read": 30,
+  "read_ranges": [
+    [
+      1,
+      30
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        30
+      ]
+    ],
+    "method": "首轮逐段检查外层表达骨架和内部搭配，二遍回看全部未收段及已收段中的对比、让步、否定、责任和请求动作；只在总统素材内查重，未按组成词简单推定掌握。",
+    "added": 8,
+    "intentionally_omitted": "称呼名单、套式宗教祝福、专名和政治口号、一次性长比喻；单词义项不伪装固定词块。"
+  },
+  "items": [
+    {
+      "chunk": "the peaceful transfer of authority",
+      "meaning": "权力的和平交接",
+      "register": "正式／公共事务",
+      "note": "属于制度论述搭配，不声称日常高频。",
+      "paragraph": 1,
+      "quote": "The peaceful transfer of authority is rare in history, yet common in our country.",
+      "quote_sha256": "1f5ba3433ee88dcf49417af207d58c957be55f0de4ad78fb1989cfdaea8ebb71"
+    },
+    {
+      "chunk": "with grace",
+      "meaning": "从容得体地；有风度地",
+      "register": "中性偏正式／评价",
+      "note": "原句竞选结束时保持风度，不是舞蹈优雅。",
+      "paragraph": 2,
+      "quote": "As I begin, I thank President Clinton for his service to our Nation, and I thank Vice President Gore for a contest conducted with spirit and ended with grace.",
+      "quote_sha256": "e18d3dd84d1d7de8c71554643d48806dcc9ed19130fa815bf76fd4f47f46da74"
+    },
+    {
+      "chunk": "be honored and humbled to do sth.",
+      "meaning": "能做某事感到荣幸与谦卑",
+      "register": "正式／感谢",
+      "note": "适合承接重任或荣誉，非受羞辱。",
+      "paragraph": 3,
+      "quote": "I am honored and humbled to stand here where so many of America's leaders have come before me, and so many will follow.",
+      "quote_sha256": "d8567fb371157ad1a73dd0bc36bb5af111baa058d4a383ef974521b86941980b"
+    },
+    {
+      "chunk": "deserve a chance",
+      "meaning": "值得得到一次机会",
+      "register": "中性／公平",
+      "note": "可用于普通人或新方案，不仅政治立场。",
+      "paragraph": 4,
+      "quote": "The grandest of these ideals is an unfolding American promise that everyone belongs, that everyone deserves a chance, that no insignificant person was ever born.",
+      "quote_sha256": "9320c5c06604778aee4710224d80069b8da60d4ac6a676d7e2772e0b490506a6"
+    },
+    {
+      "chunk": "be called to do sth.",
+      "meaning": "被赋予做某事的使命或责任",
+      "register": "正式／演讲",
+      "note": "此处非打电话叫来，而是道德责任。",
+      "paragraph": 5,
+      "quote": "Americans are called to enact this promise in our lives and in our laws.",
+      "quote_sha256": "feaf7863f7dd07bb8f4a4e8352548ef65555ce3488966e9b24230ec9d12fc98d"
+    },
+    {
+      "chunk": "take root",
+      "meaning": "扎根；开始稳固发展",
+      "register": "中性／过程比喻",
+      "note": "原句信念在各国扎根。",
+      "paragraph": 6,
+      "quote": "Now it is a seed upon the wind, taking root in many nations.",
+      "quote_sha256": "d649ac2b8f0bb6183a7df44e3ab5d20eaac9178fa2a7aae3097426d8c557f8f0"
+    },
+    {
+      "chunk": "pass sth. along",
+      "meaning": "将某物传下去／转交下去",
+      "register": "中性",
+      "note": "原句 a trust；不单指消息转发。",
+      "paragraph": 6,
+      "quote": "It is the inborn hope of our humanity, an ideal we carry but do not own, a trust we bear and pass along.",
+      "quote_sha256": "3f70fb9903e34a85b24a006ea1b557c706407e5a4f54b19b2c0e35d69d1b2ab7"
+    },
+    {
+      "chunk": "have a long way yet to travel",
+      "meaning": "尚有很长一段路要走",
+      "register": "中性／过程",
+      "note": "原句社会理想仍未完成，是旅程比喻。",
+      "paragraph": 6,
+      "quote": "Even after nearly 225 years, we have a long way yet to travel.",
+      "quote_sha256": "b97fc9c2cd068ab3623a0db280641d27c37117103e8dd64a9b52c06ac133714f"
+    },
+    {
+      "chunk": "run deep",
+      "meaning": "根深蒂固；十分深刻",
+      "register": "中性／分析",
+      "note": "原句 differences；可接 feelings、divisions 等。",
+      "paragraph": 7,
+      "quote": "And sometimes our differences run so deep, it seems we share a continent but not a country.",
+      "quote_sha256": "9ce77b12f26f4b0bbcd5fb0b987794359729d59b1d215e6431a3ccd97c44e899"
+    },
+    {
+      "chunk": "It seems 从句",
+      "meaning": "看起来似乎……",
+      "register": "中性／推断",
+      "note": "原句省略 that，不将语气判断当证实事实。",
+      "paragraph": 7,
+      "quote": "And sometimes our differences run so deep, it seems we share a continent but not a country.",
+      "quote_sha256": "9ce77b12f26f4b0bbcd5fb0b987794359729d59b1d215e6431a3ccd97c44e899"
+    },
+    {
+      "chunk": "While 从句, others 从句",
+      "meaning": "有些人……，另一些人却……",
+      "register": "论述／对照",
+      "note": "while 在此对比不同群体，非单纯同时。",
+      "paragraph": 7,
+      "quote": "While many of our citizens prosper, others doubt the promise, even the justice of our own country.",
+      "quote_sha256": "b1de4a5882825a48a79e824a3912c407893a43b6edf3b05f4f55c9ea9f6dac43"
+    },
+    {
+      "chunk": "in one's reach",
+      "meaning": "在某人能力所及范围内",
+      "register": "中性／信心",
+      "note": "原句集体目标可实现；不是正在手里握着。",
+      "paragraph": 8,
+      "quote": "I know this is in our reach because we are guided by a power larger than ourselves, who creates us equal, in His image, and we are confident in principles that unite and lead us onward.",
+      "quote_sha256": "7322b5def39926c4554bb0ef44d821b6f97724f560159edfb5d56656ad288960"
+    },
+    {
+      "chunk": "rise/lift sb. above sth.",
+      "meaning": "使某人超越某种局限／利益",
+      "register": "正式／鼓励",
+      "note": "原句 lift us above our interests；不是所有提升都用above。",
+      "paragraph": 9,
+      "quote": "We are bound by ideals that move us beyond our backgrounds, lift us above our interests, and teach us what it means to be citizens.",
+      "quote_sha256": "41eae045499b780d24d556cd615e3f9016ba862b8380dce17043bd1a6458696a"
+    },
+    {
+      "chunk": "at one's best",
+      "meaning": "处在最佳状态；表现最好时",
+      "register": "中性／评价",
+      "note": "at its best 与正常总体评价不同。",
+      "paragraph": 10,
+      "quote": "America at its best matches a commitment to principle with a concern for civility.",
+      "quote_sha256": "f7a0933e31e85cdecf05b4dae8594dc6d37bbda421d67572b87ca742a95725c2"
+    },
+    {
+      "chunk": "live out sth.",
+      "meaning": "将理想／信念落实到生活中",
+      "register": "中性偏正式／行动",
+      "note": "原句 promise；不是 live out one's days 的度余生义。",
+      "paragraph": 10,
+      "quote": "Today we affirm a new commitment to live out our Nation's promise through civility, courage, compassion, and character.",
+      "quote_sha256": "36c9fac9196c01a006a2a7c5a047059dab0c79ea3005da3e4387b6efc96364f8"
+    },
+    {
+      "chunk": "good will and respect",
+      "meaning": "善意与尊重",
+      "register": "中性／人际",
+      "note": "good will 与 goodwill 同概念；原拼法保留。",
+      "paragraph": 10,
+      "quote": "A civil society demands from each of us good will and respect, fair dealing and forgiveness.",
+      "quote_sha256": "0b6017834f145c1d169f25175692e0f2cee0bf8c1db804cbd001166139dcdb25"
+    },
+    {
+      "chunk": "fair dealing",
+      "meaning": "公正待人／公平交易",
+      "register": "中性偏正式",
+      "note": "不只买卖价格公平。",
+      "paragraph": 10,
+      "quote": "A civil society demands from each of us good will and respect, fair dealing and forgiveness.",
+      "quote_sha256": "0b6017834f145c1d169f25175692e0f2cee0bf8c1db804cbd001166139dcdb25"
+    },
+    {
+      "chunk": "the stakes of sth.",
+      "meaning": "某事所牵涉的得失和风险",
+      "register": "中性／讨论",
+      "note": "非木桩或赌注字面；可谈争论的重要性。",
+      "paragraph": 11,
+      "quote": "Some seem to believe that our politics can afford to be petty because in a time of peace the stakes of our debates appear small.",
+      "quote_sha256": "e6cb0fa9402e54662a43b738628d437cd8cf94829e5e5d626ba78e3b00ca9071"
+    },
+    {
+      "chunk": "If sb. does not do sth., ...",
+      "meaning": "如果某人不做某事，就……",
+      "register": "中性／条件警示",
+      "note": "本段三次表达不行动的后果，不据普通语法判已掌握。",
+      "paragraph": 11,
+      "quote": "If our country does not lead the cause of freedom, it will not be led.",
+      "quote_sha256": "76f47ead36e8edfbf9961f3c1f8be8a6a6d6fc1715de9f240d1ba227c817d488"
+    },
+    {
+      "chunk": "live up to sth.",
+      "meaning": "达到某个标准／不辜负某种要求",
+      "register": "中性",
+      "note": "原句 calling；与总统候选其他篇同义者合并为例证。",
+      "paragraph": 12,
+      "quote": "We must live up to the calling we share.",
+      "quote_sha256": "c063f8a9e8a6617c14bf60ee1b223fd3d5366540ca272b162611d06bc77bd9b1"
+    },
+    {
+      "chunk": "keep a commitment",
+      "meaning": "履行承诺",
+      "register": "中性／工作",
+      "note": "原句 this commitment, if we keep it，it 回指承诺。",
+      "paragraph": 12,
+      "quote": "And this commitment, if we keep it, is a way to shared accomplishment.",
+      "quote_sha256": "f41bc9705ec99a93b7aba85c41144b83a0467a49c5e1b47b57092d214369d7c3"
+    },
+    {
+      "chunk": "pass sth. on to sb.",
+      "meaning": "把某事传给某人承担",
+      "register": "中性／责任",
+      "note": "此处把问题甩给后代，与传承理念有负面区别。",
+      "paragraph": 13,
+      "quote": "We must show courage in a time of blessing by confronting problems instead of passing them on to future generations.",
+      "quote_sha256": "f09e59eb1266756a3ee8235888fd86a574fffcada256d5c9767c26edc8d23c88"
+    },
+    {
+      "chunk": "spare sb. from sth.",
+      "meaning": "让某人免于某种痛苦或困难",
+      "register": "中性",
+      "note": "原句 struggles；不同于给某人腾出时间。",
+      "paragraph": 14,
+      "quote": "We will reform Social Security and Medicare, sparing our children from struggles we have the power to prevent.",
+      "quote_sha256": "39e9489ea95c0780af89907efb487b39f2d5c0f41c3e41fa03b9fbf32d6c9bfc"
+    },
+    {
+      "chunk": "recover the momentum of sth.",
+      "meaning": "恢复某事的发展势头",
+      "register": "正式／工作趋势",
+      "note": "非物理动量。",
+      "paragraph": 14,
+      "quote": "And we will reduce taxes to recover the momentum of our economy and reward the effort and enterprise of working Americans.",
+      "quote_sha256": "bce0ec17061351d7b9bebc3139a9141a74d1293ce2b8c5acfe3dad371793650e"
+    },
+    {
+      "chunk": "make no mistake",
+      "meaning": "务必明白；不要误以为别的意思",
+      "register": "中性／警告强调",
+      "note": "原句主语 enemies should，语气强势。",
+      "paragraph": 15,
+      "quote": "The enemies of liberty and our country should make no mistake: America remains engaged in the world, by history and by choice, shaping a balance of power that favors freedom.",
+      "quote_sha256": "78716bcfd1168e9fa7b543a9a79f762118d79232d7bdb3318ee7382ce2461bb7"
+    },
+    {
+      "chunk": "by choice",
+      "meaning": "出于自己的选择",
+      "register": "中性／动机",
+      "note": "与原句 by history 对照，非偶然。",
+      "paragraph": 15,
+      "quote": "The enemies of liberty and our country should make no mistake: America remains engaged in the world, by history and by choice, shaping a balance of power that favors freedom.",
+      "quote_sha256": "78716bcfd1168e9fa7b543a9a79f762118d79232d7bdb3318ee7382ce2461bb7"
+    },
+    {
+      "chunk": "bad faith",
+      "meaning": "不诚实的意图；缺乏诚意",
+      "register": "正式／沟通法律",
+      "note": "与宗教信仰不同。",
+      "paragraph": 16,
+      "quote": "We will meet aggression and bad faith with resolve and strength.",
+      "quote_sha256": "8b83830ce2d7301274f1ff68d88a4f22e6ab7e5e6e96f7e83c6088915f75724a"
+    },
+    {
+      "chunk": "speak for sth.",
+      "meaning": "为某种价值发声／代表它",
+      "register": "中性／立场",
+      "note": "此处不是 speak for sb. 代某人决定的接法。",
+      "paragraph": 16,
+      "quote": "And to all nations, we will speak for the values that gave our Nation birth.",
+      "quote_sha256": "9541e9d00ed47f34b7c0f32fe78ba43c31db4c0e2fe596ee109dc9967e8fee33"
+    },
+    {
+      "chunk": "whatever one's views of sth.",
+      "meaning": "无论某人对某事有什么看法",
+      "register": "正式／让步",
+      "note": "原句省略 may be；用来先承认立场差异。",
+      "paragraph": 17,
+      "quote": "And whatever our views of its cause, we can agree that children at risk are not at fault.",
+      "quote_sha256": "7c09ad50ed423117c21b908a14f4a0da7e4e3a519c7c9540f613e3fbf392841d"
+    },
+    {
+      "chunk": "at risk",
+      "meaning": "处于危险／容易受害的状态",
+      "register": "中性",
+      "note": "原句 children；风险具体内容需语境。",
+      "paragraph": 17,
+      "quote": "And whatever our views of its cause, we can agree that children at risk are not at fault.",
+      "quote_sha256": "7c09ad50ed423117c21b908a14f4a0da7e4e3a519c7c9540f613e3fbf392841d"
+    },
+    {
+      "chunk": "at fault",
+      "meaning": "有过错；应负责任",
+      "register": "中性／判断",
+      "note": "原句否定，强调孩子无需为贫困负责。",
+      "paragraph": 17,
+      "quote": "And whatever our views of its cause, we can agree that children at risk are not at fault.",
+      "quote_sha256": "7c09ad50ed423117c21b908a14f4a0da7e4e3a519c7c9540f613e3fbf392841d"
+    },
+    {
+      "chunk": "an act of God",
+      "meaning": "不可抗力性质的天灾",
+      "register": "正式／法律兼宗教",
+      "note": "原句反对用天灾解释遗弃和虐待；并非通常上帝的一切行为。",
+      "paragraph": 18,
+      "quote": "Abandonment and abuse are not acts of God; they are failures of love.",
+      "quote_sha256": "d9376c7949ac2155415b693739506609caa864837937799600f71b5752139b84"
+    },
+    {
+      "chunk": "no substitute for sth.",
+      "meaning": "不能代替某事",
+      "register": "中性／界限",
+      "note": "通常说明某种手段无法弥补另一种必要条件。",
+      "paragraph": 18,
+      "quote": "And the proliferation of prisons, however necessary, is no substitute for hope and order in our souls.",
+      "quote_sha256": "3f33be641ca8e5a969356be91cb49153ded75e5ea59808e6eb51ca4fd58cae54"
+    },
+    {
+      "chunk": "in need",
+      "meaning": "处于需要帮助的困境",
+      "register": "中性",
+      "note": "原句贫困者，非随意需要一个物品。",
+      "paragraph": 18,
+      "quote": "Americans in need are not strangers; they are citizens-- not problems but priorities.",
+      "quote_sha256": "c9ef27be949bb266fa06e078fda26bf6ffd65233cc2bc1cc2c09f5ef025d83b2"
+    },
+    {
+      "chunk": "however + 形容词",
+      "meaning": "无论多么……；尽管……",
+      "register": "论述／让步",
+      "note": "原句 however necessary 为省略结构；仍承认必要性。",
+      "paragraph": 18,
+      "quote": "And the proliferation of prisons, however necessary, is no substitute for hope and order in our souls.",
+      "quote_sha256": "3f33be641ca8e5a969356be91cb49153ded75e5ea59808e6eb51ca4fd58cae54"
+    },
+    {
+      "chunk": "respond to sth.",
+      "meaning": "对某事起反应／能因某事而缓解",
+      "register": "中性",
+      "note": "原句人的深刻创伤会因导师关怀而缓解，非回复邮件义。",
+      "paragraph": 19,
+      "quote": "And some needs and hurts are so deep they will only respond to a mentor's touch or a pastor's prayer.",
+      "quote_sha256": "f0b55e73929768c1fcea304b02403cf8b236f8e847582312a103ff82ea4b06b2"
+    },
+    {
+      "chunk": "set sb. free",
+      "meaning": "使某人获得自由／摆脱束缚",
+      "register": "中性",
+      "note": "原句承诺使人自由为比喻，非真开牢门。",
+      "paragraph": 21,
+      "quote": "And we find that children and community are the commitments that set us free.",
+      "quote_sha256": "ce72272e97518a4c380eb848815fb3d0734df6661697407e1561e83b6067518c"
+    },
+    {
+      "chunk": "give direction to sth.",
+      "meaning": "为某事提供方向",
+      "register": "中性／工作",
+      "note": "此处道德行为引导自由的使用。",
+      "paragraph": 22,
+      "quote": "Our public interest depends on private character, on civic duty and family bonds and basic fairness, on uncounted, unhonored acts of decency, which give direction to our freedom.",
+      "quote_sha256": "ff69d6b3709b1f6b8a824d9aa652a5badba0e009b52a4ec7075833762adbb9a9"
+    },
+    {
+      "chunk": "serve the public interest",
+      "meaning": "服务公共利益",
+      "register": "正式／公共工作",
+      "note": "非服务某个客户个人。",
+      "paragraph": 24,
+      "quote": "I will live and lead by these principles: to advance my convictions with civility, to serve the public interest with courage, to speak for greater justice and compassion, to call for responsibility and try to live it, as well.",
+      "quote_sha256": "f19d588a6485147b91b8148a1eb575ef7de68be2009fe50b7de76167bf125aef"
+    },
+    {
+      "chunk": "I ask sb. to do sth.",
+      "meaning": "我请求某人做某事",
+      "register": "中性／请求",
+      "note": "演讲语气直接，不代表所有工作场景礼貌程度相同。",
+      "paragraph": 25,
+      "quote": "I ask you to seek a common good beyond your comfort, to defend needed reforms against easy attacks, to serve your Nation, beginning with your neighbor.",
+      "quote_sha256": "bcb4ed52e66a6b38282aa7c53d3ce4e34b08a82ef0ae6719f0964aa92877b652"
+    },
+    {
+      "chunk": "as important as sth.",
+      "meaning": "与某事同样重要",
+      "register": "中性／评价",
+      "note": "原句 anything Government does 是强调比较标准。",
+      "paragraph": 25,
+      "quote": "What you do is as important as anything Government does.",
+      "quote_sha256": "07db911a2eb16d57ae480ec1002ef053514a98818e6b053100da7a6dbc794c94"
+    },
+    {
+      "chunk": "not because 从句 but because 从句",
+      "meaning": "不是因为……而是因为……",
+      "register": "中性／澄清理由",
+      "note": "与Obama2013同功能骨架，待全总统范围合并。",
+      "paragraph": 26,
+      "quote": "Americans are generous and strong and decent, not because we believe in ourselves but because we hold beliefs beyond ourselves.",
+      "quote_sha256": "18effb339a4229090400dd62ec7cdd97d1403c81094cc66f3c217e273efd884c"
+    },
+    {
+      "chunk": "Do you not think 从句?",
+      "meaning": "难道你不认为……吗？",
+      "register": "正式／反问",
+      "note": "历史引文引导认同；比 Don't you think 庄重，不能当无偏询问。",
+      "paragraph": 27,
+      "quote": "Do you not think an angel rides in the whirlwind and directs this storm?''",
+      "quote_sha256": "cfd814c6066c55c49d0a1ad1edf0f07ff494c28c5ee3e8e7ca91b5051a5a3973"
+    },
+    {
+      "chunk": "Much time has passed since 从句",
+      "meaning": "自……以来已经过了很久",
+      "register": "中性／叙事",
+      "note": "保留时间起点，非所有 since 都因果。",
+      "paragraph": 28,
+      "quote": "Much time has passed since Jefferson arrived for his inauguration.",
+      "quote_sha256": "7b1b433bf7381ca33123748a9751fbcf91e569b133fe8847e2c89875248db3c0"
+    },
+    {
+      "chunk": "in service to sb.",
+      "meaning": "为某人服务；服务于某人",
+      "register": "正式／责任",
+      "note": "原句 to one another，非 in service 设备运行状态。",
+      "paragraph": 29,
+      "quote": "And our duty is fulfilled in service to one another.",
+      "quote_sha256": "5b70ed3f2cdb0743e919cd0d31e6f6ce3a4b526117a14549c2c4527ed3188d74"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "be called to do sth.",
+      "meaning": "被赋予某种责任／使命",
+      "register": "正式／演讲",
+      "note": "与5段同义重复，留在duplicates。",
+      "paragraph": 23,
+      "quote": "Sometimes in life we're called to do great things.",
+      "quote_sha256": "7f8d28cc9d33174f614c12b6399bfe4dfc8dcfe7c84a3bf2351fef3cff82f061"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+}

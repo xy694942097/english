@@ -1,0 +1,350 @@
+{
+  "source_id": "DCPD-202000494",
+  "html_source": "https://www.govinfo.gov/content/pkg/DCPD-202000494/html/DCPD-202000494.htm",
+  "source_sha256": "7d0d683326e2650a660507547cd61b42975d4d494b67cff3bd044623752cba2e",
+  "paragraphs_read": 82,
+  "read_ranges": [
+    [
+      1,
+      82
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        82
+      ]
+    ],
+    "method": "逐段通读整体交际动作及内部词块；回看未选段与已选段，补充解释、对比、条件、叙事、工作与生活结构。观众插话单独识别，分页断句核对连续原段。未用词表筛选代替通读。",
+    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。"
+  },
+  "items": [
+    {
+      "chunk": "wish each and every one of you ...",
+      "meaning": "祝你们每一位……",
+      "register": "中性／节日致意",
+      "note": "each and every 强调无一例外。",
+      "paragraph": 2,
+      "quote": "As we begin this Fourth of July weekend, the First Lady and I would wish each and every one of you a very, very happy Independence Day. Thank you.",
+      "quote_sha256": "fe0e3e4f0aeb2dfa85ee97c4e49f0c7afe7283b94b97fab49a818d4fbd2b96fc"
+    },
+    {
+      "chunk": "show one's appreciation to sb. for sth.",
+      "meaning": "因某事向某人表达感谢",
+      "register": "正式／致谢",
+      "note": "官方本地可读层在 U.S. 前跨段；连续合并段3–4。",
+      "paragraph": 3,
+      "quote": "Let us show our appreciation to the South Dakota Army and Air National Guard, and the U.S. Air Force for inspiring us with that magnificent display of American air power.",
+      "quote_sha256": "0716f082554a6943a0e759f8e31ee4b486a0b16a69f1d38f522101f5c4e33fdd",
+      "end_paragraph": 4
+    },
+    {
+      "chunk": "There could be no better ... than ...",
+      "meaning": "没有比……更好的……了",
+      "register": "中性／推荐或赞美",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 7,
+      "quote": "There could be no better place to celebrate America's independence than beneath this magnificent, incredible, majestic mountain and monument to the greatest Americans who have ever lived.",
+      "quote_sha256": "bbe82cc52894dfa0ab5999b026edeec22624527bfaab6af2e1562fed635efad6"
+    },
+    {
+      "chunk": "pay tribute to sb./sth.",
+      "meaning": "向某人／某事致敬",
+      "register": "正式／纪念",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 7,
+      "quote": "Today we pay tribute to the exceptional lives and extraordinary legacies of George Washington, Thomas Jefferson, Abraham Lincoln, and Teddy Roosevelt.",
+      "quote_sha256": "2dd7eb6ce26eac4feffdd72a110692f6b2c47710e033140757f6932d580e542c"
+    },
+    {
+      "chunk": "be made possible by sth.",
+      "meaning": "因某事而成为可能",
+      "register": "中性偏正式／解释条件",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 12,
+      "quote": "It was all made possible by the courage of 56 patriots who gathered in Philadelphia 244 years ago and signed the Declaration of Independence.",
+      "quote_sha256": "6720b27098d83139c55c269c4916d3f5ca704bbf9f9fee36b8e391fbeeb26003"
+    },
+    {
+      "chunk": "set sth. in motion",
+      "meaning": "使某事开始运转／发生",
+      "register": "中性偏正式／因果叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 13,
+      "quote": "These immortal words set in motion the unstoppable march of freedom.",
+      "quote_sha256": "5248cf5732bc0b0c4ca2d2b6cfd990f3545f6f9ebab25af3facee7683377a195"
+    },
+    {
+      "chunk": "have no idea why 从句",
+      "meaning": "完全不知道为什么……",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 16,
+      "quote": "Many of these people have no idea why they are doing this, but some know exactly what they are doing.",
+      "quote_sha256": "99adbe54263761696ff29cbec2c83548a36a018758d0fa0b940ef628a1474701"
+    },
+    {
+      "chunk": "have no place in sth.",
+      "meaning": "在某处／体系中不应存在",
+      "register": "中性偏正式／立场",
+      "note": "近 no room for，但此处 place 强调不属于该环境。",
+      "paragraph": 18,
+      "quote": "This is the very definition of totalitarianism, and it is completely alien to our culture and our values, and it has absolutely no place in the United States of America.",
+      "quote_sha256": "ce0563e837be6aa1558bddd17f2d9222a50380e77e8bc69d26d2478b8cb42adb"
+    },
+    {
+      "chunk": "in so doing",
+      "meaning": "在这样做的过程中",
+      "register": "正式／连接后果",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 20,
+      "quote": "In so doing, they would destroy the very civilization that rescued billions from poverty, disease, violence, and hunger and that lifted humanity to new heights of achievement, discovery, and progress.",
+      "quote_sha256": "fbb3c8e57fbd9d2a670013f006ea4d94cf465cff7abd164986864ec609145a74"
+    },
+    {
+      "chunk": "to the fullest extent of the law",
+      "meaning": "在法律允许的最大范围内",
+      "register": "正式／法律承诺",
+      "note": "法律语域，不泛化为日常程度副词。",
+      "paragraph": 22,
+      "quote": "That is why I am deploying Federal law enforcement to protect our monuments, arrest the rioters, and prosecute offenders to the fullest extent of the law.",
+      "quote_sha256": "31676c710ffa1b5b7596a0f8b1a7ec76d065241f3f76d43644069b8238dd654f"
+    },
+    {
+      "chunk": "I am pleased to report that ...",
+      "meaning": "我很高兴报告……",
+      "register": "正式／汇报",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 24,
+      "quote": "I am pleased to report that yesterday, Federal agents arrested the suspected ringleader of the attack on the statue of the great Andrew Jackson in Washington, DC, and, in addition, hundreds more have been arrested.",
+      "quote_sha256": "e697659afd795e4aed51988274bcab314c2a0180ba502653fe668723906dfa72"
+    },
+    {
+      "chunk": "beyond all recognition",
+      "meaning": "变得完全认不出来",
+      "register": "中性偏正式／变化评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 26,
+      "quote": "The radical view of American history is a web of lies: All perspective is removed, every virtue is obscured, every motive is twisted, every fact is distorted, and every flaw is magnified until the history is purged and the record is disfigured beyond all recognition.",
+      "quote_sha256": "5031e57f35ccbe57c86fe8c1e24476896c42d77af6434f97cef67ecf90175be4"
+    },
+    {
+      "chunk": "set the record straight",
+      "meaning": "澄清事实／纠正错误说法",
+      "register": "中性／澄清",
+      "note": "原句 set history and history's record straight；保留实用内核而非照搬双宾语。",
+      "paragraph": 27,
+      "quote": "Today we will set history and history's record straight.",
+      "quote_sha256": "bf163bde514068fe93bd37149f2cf33182edf9dbadb096d72d331ce059df2b93"
+    },
+    {
+      "chunk": "from head to toe",
+      "meaning": "从头到脚／全身上下",
+      "register": "中性／描述",
+      "note": "此处转喻整个人体现品格，不限身体外观。",
+      "paragraph": 28,
+      "quote": "From head to toe, George Washington represented the strength, grace, and dignity of the American people.",
+      "quote_sha256": "348f75c8871c45af424ea45d86992cd26a619f0993bfc56ad5a7b7c2da5ed243"
+    },
+    {
+      "chunk": "create sth. out of nothing",
+      "meaning": "从无到有创造某物",
+      "register": "中性／叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 28,
+      "quote": "From a small volunteer force of citizen farmers, he created the Continental Army out of nothing and rallied them to stand against the most powerful military on Earth.",
+      "quote_sha256": "cadd4f3f6789cb1cfcf6497ad6ddb88a6c96687bc424f98d69dbca8b76f0ba7b"
+    },
+    {
+      "chunk": "setback after setback",
+      "meaning": "一次又一次的挫折",
+      "register": "中性偏正式／叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 29,
+      "quote": "Through 8 long years, through the brutal winter at Valley Forge, through setback after setback on the field of battle, he led those patriots to ultimate triumph.",
+      "quote_sha256": "f5830db5833733922703777391a0be821429e9d35298fb88c760c056f531857d"
+    },
+    {
+      "chunk": "what remains of sth.",
+      "meaning": "某事剩下的部分",
+      "register": "中性／叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 29,
+      "quote": "When the Army had dwindled to a few thousand men at Christmas of 1776, when defeat seemed absolutely certain, he took what remained of his forces on a daring nighttime crossing of the Delaware River.",
+      "quote_sha256": "d7522ed16f35ce6815a6c98392ec2a32e8fa70bb21ec9a934b0f99a4e58bb117"
+    },
+    {
+      "chunk": "when called upon",
+      "meaning": "在被要求／需要出面时",
+      "register": "中性偏正式／叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 31,
+      "quote": "When called upon again, he presided over the Constitutional Convention in Philadelphia and was unanimously elected our first President.",
+      "quote_sha256": "1485b9a29983b6e3e166aa02c66f5d46efb2e1df6edfb443154af769546829a4"
+    },
+    {
+      "chunk": "step down",
+      "meaning": "卸任／辞去职位",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 31,
+      "quote": "When he stepped down after two terms, his former adversary King George called him \"the greatest man of the age.\"",
+      "quote_sha256": "79c5ce1317ec3cf9ac154d9b65925fa2f8d8b9c51d8e342ef68a3bb849258414"
+    },
+    {
+      "chunk": "rise ... from obscurity",
+      "meaning": "从默默无闻到……",
+      "register": "正式／生涯叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 35,
+      "quote": "The first Republican President, he rose to high office from obscurity, based on a force and clarity of his antislavery convictions.",
+      "quote_sha256": "203e0a9efaa788e3833ab8cc67680fed3f336b0249529d052ecf7fd26add0a4e"
+    },
+    {
+      "chunk": "cost sb. one's life",
+      "meaning": "使某人付出生命代价",
+      "register": "中性偏正式／叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 38,
+      "quote": "Lincoln won the Civil War; he issued the Emancipation Proclamation; he led the passage of the 13th Amendment, abolishing slavery for all time; and ultimately, his determination to preserve our Nation and our Union cost him his life.",
+      "quote_sha256": "019fe2a18ba352c7f82ec73e02707436e6a5d70f4c69fa46686f0c2394648344"
+    },
+    {
+      "chunk": "clean up corruption",
+      "meaning": "整治腐败",
+      "register": "正式／治理",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 40,
+      "quote": "He cleaned up corruption as police commissioner of New York City, then served as the Governor of New York, Vice President, and at 42 years old, became the youngest ever President of the United States.",
+      "quote_sha256": "9d6601deb558ee725731383de24f9f35b36b4080e6cc7cc2f75e1f0f08a2e50a"
+    },
+    {
+      "chunk": "No ... that ... can possibly ...",
+      "meaning": "任何……的……都不可能……",
+      "register": "正式／否定推论",
+      "note": "这是说话人的立场推论，不验证政治评价。",
+      "paragraph": 42,
+      "quote": "No movement that seeks to dismantle these treasured American legacies can possibly have a love of America at its heart.",
+      "quote_sha256": "91371b1e02f2b22b1dc953f92bcd31e42392ed218815a57231bcc19499031286"
+    },
+    {
+      "chunk": "under the banner of sth.",
+      "meaning": "以某事的旗号",
+      "register": "正式／政治或组织评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 43,
+      "quote": "The radical ideology attacking our country advances under the banner of social justice.",
+      "quote_sha256": "34c77dabb5285ad84f4e48bea10f6bd47c194fae3fbcc003ce325225d81ec45a"
+    },
+    {
+      "chunk": "This is who we are. This is what we believe.",
+      "meaning": "这就是我们／我们的信念",
+      "register": "演讲／群体价值总结",
+      "note": "并列指代总结的结构，不当作独立政治口号。",
+      "paragraph": 54,
+      "quote": "This is who we are. This is what we believe.",
+      "quote_sha256": "faa456989806ff7750427ed743aceff0db909df78dc8714b99fadd4bc79e8f96"
+    },
+    {
+      "chunk": "stand in sb.'s way",
+      "meaning": "挡某人的路／阻碍某人",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 57,
+      "quote": "But just as patriots did in centuries past, the American people will stand in their way.",
+      "quote_sha256": "abb089ff477d599712b5ffce808b7ef70f453ff2aadbd6b16c7cf0c4b1e48645"
+    },
+    {
+      "chunk": "speak up",
+      "meaning": "大声表达意见／站出来说话",
+      "register": "中性／立场表达",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 60,
+      "quote": "My fellow Americans, it is time to speak up loudly and strongly and powerfully and defend the integrity of our country.",
+      "quote_sha256": "a448382d7c0deaa369e7c11ecd5ebc820fa3da43c6e38d4e4906ec6c2e100186"
+    },
+    {
+      "chunk": "give rise to sth.",
+      "meaning": "促成／产生某事",
+      "register": "中性偏正式／因果",
+      "note": "原句是孕育人物的国家叙事；不把人名列为chunk。",
+      "paragraph": 70,
+      "quote": "We are the nation that gave rise to the Wright Brothers, the Tuskegee Airmen, Harriet Tubman, Clara Barton, Jesse Owens, George Patton—General George Patton—the great Louie Armstrong, Alan Shepard, Elvis Presley, and Mohammad Ali.",
+      "quote_sha256": "9f9e31ee91bbfb487800bba847f48b54efe670d889ec0a98b650a107d6df9590"
+    },
+    {
+      "chunk": "hold sb. down",
+      "meaning": "压制某人／阻碍其发展",
+      "register": "中性／鼓励",
+      "note": "与物理按住不同。",
+      "paragraph": 75,
+      "quote": "And we will teach our children to know that they live in a land of legends, that nothing can stop them, and that no one can hold them down.",
+      "quote_sha256": "2e3113dd3c93e0233c0a1c134418ed70a7b71409591b257d297a7f91b2586e4d"
+    },
+    {
+      "chunk": "make strides",
+      "meaning": "取得进展",
+      "register": "中性偏正式／进展汇报",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 77,
+      "quote": "Uplifted by the titans of Mount Rushmore, we will find unity that no one expected; we will make strides that no one thought possible.",
+      "quote_sha256": "6e5a9b6ecace5d7cf6ff6683c8d87aa1f81b37661a7cec4f28f9f81fa1815120"
+    },
+    {
+      "chunk": "the best is yet to come",
+      "meaning": "最好的尚未到来／未来会更好",
+      "register": "中性／乐观鼓励",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 79,
+      "quote": "And ladies and gentlemen: the best is yet to come.",
+      "quote_sha256": "0fb4e3b9435fa904439d7c4d54d41f0a830719c0c84595d4d3b2a392320d2375"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 74,
+      "chunk": "lose sight of sth.",
+      "reason": "本总统集合 DCPD-201700007 已收同义，不重复。"
+    },
+    {
+      "paragraph": 20,
+      "chunk": "Make no mistake: ...",
+      "reason": "本总统集合 PPP-2001-book1-doc-pg1 已收 make no mistake；相同意思及交际功能，不因更长片段重复。",
+      "quote": "Make no mistake: This left-wing cultural revolution is designed to overthrow the American Revolution.",
+      "quote_sha256": "47501c88783df2f25f3f92eb672c33cfa68f8bae75b44618c8bbe81f554983c2"
+    },
+    {
+      "paragraph": 36,
+      "chunk": "give every ounce of strength one has",
+      "reason": "本总统集合 DCPD-200900001 已收 give one's all to sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "He signed the law that built the transcontinental railroad; he signed the Homestead Act, given to some incredible scholars—as simply defined, ordinary citizens free land to settle anywhere in the American West; and he led the country through the darkest hours of American history, giving every ounce of strength that he had to ensure that Government of the people, by the people, and for the people did not perish from this Earth.",
+      "quote_sha256": "c178e7b2aa4c61457a1d6333d65c6018a1b3a5366f9ad4d9b4462cd68f591217"
+    },
+    {
+      "paragraph": 62,
+      "chunk": "for the sake of sth.",
+      "reason": "本总统集合 DCPD-200900001 已收 for sth.'s sake；相同意思及交际功能，不因更长片段重复。",
+      "quote": "For the sake of our honor, for the sake of our children, for the sake of our Union, we must protect and preserve our history, our heritage, and our great heroes.",
+      "quote_sha256": "d3fa59700bc606b3ebeff5a4aa68c0ec5b2fcba2193589b43a2cf8f9bc8c89c1"
+    },
+    {
+      "paragraph": 66,
+      "chunk": "in the face of sth.",
+      "reason": "本总统集合 DCPD-200900001 已收 in the face of sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "In the face of lies meant to divide us, demoralize us, and diminish us, we will show that the story of America unites us, inspires us, includes us all, and makes everyone free.",
+      "quote_sha256": "d3aaf5cec059e92067c11197ca5ef0dd29f96fa40d83834820f8b7b53174d465"
+    },
+    {
+      "paragraph": 67,
+      "chunk": "live up to sth.",
+      "reason": "本总统集合 PPP-2001-book1-doc-pg1 已收 live up to sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "He called on his fellow citizens not to rip down their heritage, but to live up to their heritage.",
+      "quote_sha256": "aa01bb00ed2203c5314b21bc9928a3d1f8154e1c0a547c0fc970bded464de77b"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。"
+}

@@ -1,0 +1,498 @@
+{
+  "source_id": "DCPD-201300032",
+  "html_source": "https://www.govinfo.gov/content/pkg/DCPD-201300032/html/DCPD-201300032.htm",
+  "source_sha256": "47833bf661cb5823372beb3da1bc7b6eacb635285b1e5cb25cd4eefe891f9a2b",
+  "paragraphs_read": 30,
+  "read_ranges": [
+    [
+      1,
+      30
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        30
+      ]
+    ],
+    "method": "先逐段检查外层表达动作及内部搭配，再回看所有未收段和已有条目所在段；补充否定推论、条件、转述、时间与普通动作结构，不按单词简单或考试出现推定掌握。",
+    "added": 3,
+    "intentionally_omitted": "称呼致谢、宗教祝福、政治运动口号、专名罗列、一次性长修辞、仅依赖具体历史的比喻；引用段可收可迁移局部但不冒充日常高频。"
+  },
+  "items": [
+    {
+      "chunk": "bear witness to sth.",
+      "meaning": "见证某事",
+      "register": "正式／演讲",
+      "note": "用于说明一种事实的存在，语气庄重。",
+      "paragraph": 3,
+      "quote": "Each time we gather to inaugurate a President we bear witness to the enduring strength of our Constitution.",
+      "quote_sha256": "6fa7e7476c56c502b61d73cd493ee6c206b91413647465591ad96a50608cf119"
+    },
+    {
+      "chunk": "What makes sb./sth. + 形容词 is sth.",
+      "meaning": "使某人／某物具有某种特点的是……",
+      "register": "中性／解释",
+      "note": "原句两次 what makes 重复为演讲强调，骨架可迁移。",
+      "paragraph": 3,
+      "quote": "What makes us exceptional—what makes us American—is our allegiance to an idea articulated in a declaration made more than two centuries ago:",
+      "quote_sha256": "dc7f5bd63d2300eb3fdf6474d601e77a73214cf21cbd9eb6b2f5e7344dcffd84"
+    },
+    {
+      "chunk": "replace sth. with sth.",
+      "meaning": "用后者替换前者",
+      "register": "中性／工作",
+      "note": "保留替换方向，不因基本词而删除。",
+      "paragraph": 5,
+      "quote": "The patriots of 1776 did not fight to replace the tyranny of a king with the privileges of a few or the rule of a mob.",
+      "quote_sha256": "3683370902d53b3c05763f78490232ec14ff547d419fb91ad3e5b3cb236c6f27"
+    },
+    {
+      "chunk": "vow to do sth.",
+      "meaning": "郑重承诺做某事",
+      "register": "正式／决心",
+      "note": "比普通 promise 庄重。",
+      "paragraph": 7,
+      "quote": "We made ourselves anew, and vowed to move forward together.",
+      "quote_sha256": "f304cc03a2857d13155a40c2974c0befc585baad1fbe98afcc23e87c2c036596"
+    },
+    {
+      "chunk": "determine that 从句",
+      "meaning": "确定／判定……",
+      "register": "正式／判断",
+      "note": "原句集体确定社会需要，非 determine to 决心接法。",
+      "paragraph": 8,
+      "quote": "Together, we determined that a modern economy requires railroads and highways to speed travel and commerce, schools and colleges to train our workers.",
+      "quote_sha256": "aebd2b60fc84b34c208ae6ad26c141dda6fdcc81b24ff616e0e96fa40eac93ef"
+    },
+    {
+      "chunk": "fair play",
+      "meaning": "公平竞争；按规则办事",
+      "register": "中性／评价",
+      "note": "不限体育场景。",
+      "paragraph": 9,
+      "quote": "Together, we discovered that a free market only thrives when there are rules to ensure competition and fair play.",
+      "quote_sha256": "8b662ade64b5876971172dc4606783ec58e4da10951445810e4689ec06dcce31"
+    },
+    {
+      "chunk": "care for sb.",
+      "meaning": "照顾某人",
+      "register": "中性／生活",
+      "note": "原句照顾弱势者，不是喜欢某人的义项。",
+      "paragraph": 10,
+      "quote": "Together, we resolved that a great nation must care for the vulnerable and protect its people from life's worst hazards and misfortune.",
+      "quote_sha256": "436022f0d581ded6818feaa84d4a73ef45c44884fe4c0746d66539cf72ec8d8a"
+    },
+    {
+      "chunk": "Through it all",
+      "meaning": "在经历这一切的过程中始终",
+      "register": "中性／回顾",
+      "note": "承接此前讲述的困难或变化。",
+      "paragraph": 11,
+      "quote": "Through it all, we have never relinquished our skepticism of central authority nor have we succumbed to the fiction that all society's ills can be cured through government alone.",
+      "quote_sha256": "e8d85678100b517c76b6bd1083858b4c75862330f0500216254d01e9daa3f179"
+    },
+    {
+      "chunk": "succumb to sth.",
+      "meaning": "屈服于；受到某事支配",
+      "register": "正式／评价",
+      "note": "此处是接受一种虚构观点，不单列 succumb 义项。",
+      "paragraph": 11,
+      "quote": "Through it all, we have never relinquished our skepticism of central authority nor have we succumbed to the fiction that all society's ills can be cured through government alone.",
+      "quote_sha256": "e8d85678100b517c76b6bd1083858b4c75862330f0500216254d01e9daa3f179"
+    },
+    {
+      "chunk": "insistence on sth.",
+      "meaning": "对某事的坚持或要求",
+      "register": "中性偏正式",
+      "note": "on 后名词或 doing，不是 insist to。",
+      "paragraph": 11,
+      "quote": "Our celebration of initiative and enterprise, our insistence on hard work and personal responsibility, these are constants in our character.",
+      "quote_sha256": "17834b629e2d4e9ac66d4aeff4dd58360708ff099955ac5a811cafe63732bef5"
+    },
+    {
+      "chunk": "when sth. changes, so must sb./sth.",
+      "meaning": "某事变化，某人／物也必须变化",
+      "register": "论述",
+      "note": "so 引倒装表示同样，原句 times change, so must we。",
+      "paragraph": 12,
+      "quote": "But we have always understood that when times change, so must we; that fidelity to our founding principles requires new responses to new challenges; that preserving our individual freedoms ultimately requires collective action.",
+      "quote_sha256": "bd09e7e1eea1f06aedd26870885ab6fa1596e8f8d6af62f2c63478b0a253777c"
+    },
+    {
+      "chunk": "can no more do A than do B",
+      "meaning": "A 与 B 一样都做不到",
+      "register": "正式／比较论证",
+      "note": "不同于 no more than 的数量限制；须完整看两端。",
+      "paragraph": 12,
+      "quote": "For the American people can no more meet the demands of today's world by acting alone than American soldiers could have met the forces of fascism or communism with muskets and militias.",
+      "quote_sha256": "9903923fb4bf7793e01459d872d78afb0e22412ee295e45566af69e230f469d3"
+    },
+    {
+      "chunk": "Now more than ever",
+      "meaning": "现在比以往任何时候更……",
+      "register": "中性／强调",
+      "note": "接当前尤其迫切的需求。",
+      "paragraph": 12,
+      "quote": "Now more than ever, we must do these things together, as one nation and one people.",
+      "quote_sha256": "f29163a88a1b62c5dd3694b87ec6de8a9d6ba3df9d50ff3bc891c00e8768f28f"
+    },
+    {
+      "chunk": "steel one's resolve",
+      "meaning": "使决心更加坚定",
+      "register": "正式／演讲",
+      "note": "steel 为动词，不是钢材名词。",
+      "paragraph": 13,
+      "quote": "This generation of Americans has been tested by crises that steeled our resolve and proved our resilience.",
+      "quote_sha256": "0c399d428083dbbd1dfe0559ce4c70708e180e26145adf5518c111a9ff5b9dc3"
+    },
+    {
+      "chunk": "have a gift for sth.",
+      "meaning": "在某事上有天赋",
+      "register": "中性／评价",
+      "note": "gift 非此处礼物；原句 a gift for reinvention。",
+      "paragraph": 13,
+      "quote": "America's possibilities are limitless, for we possess all the qualities that this world without boundaries demands: youth and drive; diversity and openness; an endless capacity for risk and a gift for reinvention.",
+      "quote_sha256": "1dd37637c325ce20469237c3433094c636ecbc6c21656a25c5c9d32bdc2319d3"
+    },
+    {
+      "chunk": "so long as 从句",
+      "meaning": "只要……",
+      "register": "中性／条件",
+      "note": "原句把团结设为成功条件，不指时长。",
+      "paragraph": 13,
+      "quote": "My fellow Americans, we are made for this moment and we will seize it—so long as we seize it together.",
+      "quote_sha256": "795602f5a5f65e8bd1d5462f1769624327347dbffb254667ad1f73942fd09234"
+    },
+    {
+      "chunk": "barely make it",
+      "meaning": "勉强撑下去／过活",
+      "register": "中性／生活",
+      "note": "此处经济处境，非赶上车或考试通过义。",
+      "paragraph": 14,
+      "quote": "For we, the people, understand that our country cannot succeed when a shrinking few do very well and a growing many barely make it.",
+      "quote_sha256": "d318942497fb69e4ea93d950e0b4f05e4be24518eeb46680afea6bf3d091bd68"
+    },
+    {
+      "chunk": "on/from the brink of sth.",
+      "meaning": "濒临／摆脱某种险境边缘",
+      "register": "中性偏正式",
+      "note": "原句 from the brink of hardship 表示脱离困境边缘。",
+      "paragraph": 14,
+      "quote": "We know that America thrives when every person can find independence and pride in their work; when the wages of honest labor liberate families from the brink of hardship.",
+      "quote_sha256": "daa1221646bd09aeea8611198ea1e34e9f73f177dd431c19f2ad4bf6440c8b7a"
+    },
+    {
+      "chunk": "have the same chance to do sth. as sb.",
+      "meaning": "有与某人同样的机会做某事",
+      "register": "中性／公平",
+      "note": "same 后保留 as 对照对象。",
+      "paragraph": 14,
+      "quote": "We are true to our creed when a little girl born into the bleakest poverty knows that she has the same chance to succeed as anybody else, because she is an American; she is free and she is equal, not just in the eyes of God, but also in our own.",
+      "quote_sha256": "c7ce621aec15564ebc41c7013de02dc59c3ea1d4007270c066e3ea584c0d020d"
+    },
+    {
+      "chunk": "in the eyes of sb.",
+      "meaning": "在某人看来；按某人的评价",
+      "register": "中性",
+      "note": "此处分别说 God 与我们，不是视力。",
+      "paragraph": 14,
+      "quote": "We are true to our creed when a little girl born into the bleakest poverty knows that she has the same chance to succeed as anybody else, because she is an American; she is free and she is equal, not just in the eyes of God, but also in our own.",
+      "quote_sha256": "c7ce621aec15564ebc41c7013de02dc59c3ea1d4007270c066e3ea584c0d020d"
+    },
+    {
+      "chunk": "inadequate to the needs of sth.",
+      "meaning": "不足以满足某事的需要",
+      "register": "正式／评价",
+      "note": "可用于说明旧办法无法应对新要求。",
+      "paragraph": 15,
+      "quote": "We understand that outworn programs are inadequate to the needs of our time.",
+      "quote_sha256": "e57c25fbbde2ac6eb5be5102468dcbf4499399de3253af85991a263f6b96bc3f"
+    },
+    {
+      "chunk": "have nowhere to turn",
+      "meaning": "无人可求助；无处寻求支持",
+      "register": "中性／困境",
+      "note": "turn 此处是求助，不是转弯。",
+      "paragraph": 16,
+      "quote": "For we remember the lessons of our past, when twilight years were spent in poverty and parents of a child with a disability had nowhere to turn.",
+      "quote_sha256": "427b1fb49818aaca077a24ca86e5063aff46912e90ced3d50253e13e91a581ea"
+    },
+    {
+      "chunk": "choose between doing A and doing B",
+      "meaning": "在两种做法之间作选择",
+      "register": "中性／取舍",
+      "note": "原句 reject belief 反对被迫二选一。",
+      "paragraph": 16,
+      "quote": "But we reject the belief that America must choose between caring for the generation that built this country and investing in the generation that will build its future.",
+      "quote_sha256": "ac46c119e0534f050f8f3df99480b14973d490b9af0e78cfaf0257419641abc9"
+    },
+    {
+      "chunk": "no matter how + 形容词/副词 + 从句",
+      "meaning": "无论多么……",
+      "register": "中性／让步",
+      "note": "此处 responsibly，主句仍可能遭遇不幸。",
+      "paragraph": 17,
+      "quote": "We recognize that no matter how responsibly we live our lives, any one of us at any time may face a job loss or a sudden illness or a home swept away in a terrible storm.",
+      "quote_sha256": "82ec1e6515d419aa9620dc813d91761b358e2753e21de4ca07a3f120e4a2417c"
+    },
+    {
+      "chunk": "be reserved for sb.",
+      "meaning": "仅留给某些人；专供某人",
+      "register": "中性／界限",
+      "note": "原句否定自由只属于幸运者。",
+      "paragraph": 17,
+      "quote": "We do not believe that in this country freedom is reserved for the lucky, or happiness for the few.",
+      "quote_sha256": "e9f7a211ecfca0ce38efe17019f2bdf62529ad89e8114d706cf40661d015d635"
+    },
+    {
+      "chunk": "free sb. to do sth.",
+      "meaning": "使某人能够放开手去做某事",
+      "register": "中性",
+      "note": "不是本句收费义；解除限制、创造条件。",
+      "paragraph": 17,
+      "quote": "They do not make us a nation of takers; they free us to take the risks that make this country great.",
+      "quote_sha256": "90675ab1feae23e75ec47944d533d4a290081bf44b95946fbb4a163f4e0f87df"
+    },
+    {
+      "chunk": "failure to do sth.",
+      "meaning": "未能做某事",
+      "register": "中性偏正式",
+      "note": "名词结构可作主语，适合分析后果。",
+      "paragraph": 18,
+      "quote": "We will respond to the threat of climate change, knowing that the failure to do so would betray our children and future generations.",
+      "quote_sha256": "a69f1b2207925ba933afc000b1a4c0e7fd7dd1592189cb36c47bf12c8d23a9e5"
+    },
+    {
+      "chunk": "lend meaning to sth.",
+      "meaning": "赋予某事意义",
+      "register": "正式／评价",
+      "note": "lend 在此不是借钱；不将 creed 政治词写进泛化形式。",
+      "paragraph": 19,
+      "quote": "That's what will lend meaning to the creed our fathers once declared.",
+      "quote_sha256": "8c2add43ed677f1d73d53e0de17cfeb06f530633d555474da961d3125c59794c"
+    },
+    {
+      "chunk": "know too well sth.",
+      "meaning": "对某事深有体会",
+      "register": "中性／经历",
+      "note": "too well 强调常因痛苦经历而熟知。",
+      "paragraph": 20,
+      "quote": "Our citizens, seared by the memory of those we have lost, know too well the price that is paid for liberty.",
+      "quote_sha256": "63845ccdafab117eccc0201823aa88bcf53678609ac226a690d767044bda5b5f"
+    },
+    {
+      "chunk": "do sb. harm",
+      "meaning": "伤害某人",
+      "register": "中性",
+      "note": "harm 作名词，区别 do harm to sth. 接法。",
+      "paragraph": 20,
+      "quote": "The knowledge of their sacrifice will keep us forever vigilant against those who would do us harm.",
+      "quote_sha256": "1e40181408244bf8ee6b283712b6223259a2de8488165f682230c2b1996a451a"
+    },
+    {
+      "chunk": "resolve one's differences",
+      "meaning": "解决彼此的分歧",
+      "register": "中性／沟通工作",
+      "note": "不是抹掉所有差别；通常通过协商。",
+      "paragraph": 21,
+      "quote": "We will show the courage to try and resolve our differences with other nations peacefully—not because we are naive about the dangers we face, but because engagement can more durably lift suspicion and fear.",
+      "quote_sha256": "16c8f40a660f5b1d7e239adcc5cbd527e50154ebcc06bd119a57a88b48ce6638"
+    },
+    {
+      "chunk": "not because 从句, but because 从句",
+      "meaning": "不是因为……，而是因为……",
+      "register": "中性／澄清理由",
+      "note": "与 not out of 名词 的接法有独立差异，不据课本出现排除。",
+      "paragraph": 21,
+      "quote": "We will show the courage to try and resolve our differences with other nations peacefully—not because we are naive about the dangers we face, but because engagement can more durably lift suspicion and fear.",
+      "quote_sha256": "16c8f40a660f5b1d7e239adcc5cbd527e50154ebcc06bd119a57a88b48ce6638"
+    },
+    {
+      "chunk": "have a stake in sth.",
+      "meaning": "某事关系到自身利益；有利害关系",
+      "register": "中性／讨论",
+      "note": "此处世界和平关系到国家利益；非仅指股权。",
+      "paragraph": 22,
+      "quote": "And we will renew those institutions that extend our capacity to manage crisis abroad, for no one has a greater stake in a peaceful world than its most powerful nation.",
+      "quote_sha256": "e5de6e8f92330b466a69150708f2d0c7990c85f68849837469f580015e8c0e75"
+    },
+    {
+      "chunk": "on behalf of sb.",
+      "meaning": "代表某人；为某人的利益",
+      "register": "中性／工作",
+      "note": "原句为自由渴望者发声，不只代理签字。",
+      "paragraph": 22,
+      "quote": "We will support democracy from Asia to Africa, from the Americas to the Middle East, because our interests and our conscience compel us to act on behalf of those who long for freedom.",
+      "quote_sha256": "1826106e41e1a057750786c35561fb7f73b5d9007be481c35df34d027136514e"
+    },
+    {
+      "chunk": "be inextricably bound to sth.",
+      "meaning": "与某事不可分割地联系在一起",
+      "register": "正式／论述",
+      "note": "语域比 be linked to 更庄重。",
+      "paragraph": 23,
+      "quote": "our individual freedom is inextricably bound to the freedom of every soul on Earth.",
+      "quote_sha256": "f866a268a5509ea798dc9f92f8b5aef6d7c2bb0e0b6b822cc2c2f5a9918b1282"
+    },
+    {
+      "chunk": "sth. is not complete until 从句",
+      "meaning": "某事要到……才算完成",
+      "register": "中性／目标边界",
+      "note": "原段多次重复；可迁移到项目验收条件。",
+      "paragraph": 24,
+      "quote": "For our journey is not complete until our wives, our mothers and daughters can earn a living equal to their efforts.",
+      "quote_sha256": "b3889433a7922636776a28d63c97e474cd1828fc66e741d049f0d26eb780f623"
+    },
+    {
+      "chunk": "earn a living",
+      "meaning": "谋生",
+      "register": "中性／生活",
+      "note": "不是单纯赚一笔钱。",
+      "paragraph": 24,
+      "quote": "For our journey is not complete until our wives, our mothers and daughters can earn a living equal to their efforts.",
+      "quote_sha256": "b3889433a7922636776a28d63c97e474cd1828fc66e741d049f0d26eb780f623"
+    },
+    {
+      "chunk": "exercise the right to do sth.",
+      "meaning": "行使做某事的权利",
+      "register": "正式／权利",
+      "note": "exercise 非锻炼义。",
+      "paragraph": 24,
+      "quote": "Our journey is not complete until no citizen is forced to wait for hours to exercise the right to vote.",
+      "quote_sha256": "77d7e8a5d787d6f8317e3ecb99cbdfed24902f720d3ed8f58584c994d511f005"
+    },
+    {
+      "chunk": "safe from harm",
+      "meaning": "免受伤害；安全无虞",
+      "register": "中性",
+      "note": "from 接威胁来源，此处概括 harm。",
+      "paragraph": 24,
+      "quote": "Our journey is not complete until all our children, from the streets of Detroit to the hills of Appalachia, to the quiet lanes of Newtown, know that they are cared for and cherished and always safe from harm.",
+      "quote_sha256": "52eb0efdeeb323f84d3533ce63b77ba61df73b9b46b7c2b6e0b13a0babd26be9"
+    },
+    {
+      "chunk": "doing sth. does not require sb. to do sth.",
+      "meaning": "做一件事并不要求某人做另一件事",
+      "register": "中性／澄清界限",
+      "note": "避免把必要条件强加给对方。",
+      "paragraph": 25,
+      "quote": "Being true to our founding documents does not require us to agree on every contour of life.",
+      "quote_sha256": "7004c955dee6f1734f4d80829b2915333d3c0f9daf1847a52daa27fbdaa98cb1"
+    },
+    {
+      "chunk": "It does not mean 从句",
+      "meaning": "这并不意味着……",
+      "register": "中性／澄清",
+      "note": "it 回指前述主张；保留外层否定推论动作。",
+      "paragraph": 25,
+      "quote": "It does not mean we all define liberty in exactly the same way or follow the same precise path to happiness.",
+      "quote_sha256": "b17fee96f5805d75ddb0f68632020128743d90a0248657938b42b0edf3bb5fb6"
+    },
+    {
+      "chunk": "for all time",
+      "meaning": "永远；永久地",
+      "register": "正式／时间范围",
+      "note": "原句非要求一次解决永久争论。",
+      "paragraph": 25,
+      "quote": "Progress does not compel us to settle centuries-long debates about the role of government for all time, but it does require us to act in our time.",
+      "quote_sha256": "698b12b11521fe9ff0832bd853a482fbd14621469742ea40e637669e987a3a4a"
+    },
+    {
+      "chunk": "cannot afford delay",
+      "meaning": "不能再拖延",
+      "register": "中性／工作决心",
+      "note": "afford 指代价承受，不指支付延期费。",
+      "paragraph": 26,
+      "quote": "For now decisions are upon us and we cannot afford delay.",
+      "quote_sha256": "dc7ef5d273ce5cdadc40a004078da80e92b0b06a2b4bd3c277552684ed56f1e5"
+    },
+    {
+      "chunk": "mistake sth. for sth.",
+      "meaning": "把前者误认为后者",
+      "register": "中性／辨析",
+      "note": "不要颠倒对象。",
+      "paragraph": 26,
+      "quote": "We cannot mistake absolutism for principle or substitute spectacle for politics or treat name-calling as reasoned debate.",
+      "quote_sha256": "a00708156adafa2223fd28ab2a8415419f1e016b05b9bb4b915b64a94fc01ce1"
+    },
+    {
+      "chunk": "substitute sth. for sth.",
+      "meaning": "以前者替代后者",
+      "register": "中性／工作",
+      "note": "与 replace A with B 的宾语方向不同。",
+      "paragraph": 26,
+      "quote": "We cannot mistake absolutism for principle or substitute spectacle for politics or treat name-calling as reasoned debate.",
+      "quote_sha256": "a00708156adafa2223fd28ab2a8415419f1e016b05b9bb4b915b64a94fc01ce1"
+    },
+    {
+      "chunk": "treat sth. as sth.",
+      "meaning": "把某事当作另一种事来对待",
+      "register": "中性／判断",
+      "note": "原句批评把辱骂当成理性讨论。",
+      "paragraph": 26,
+      "quote": "We cannot mistake absolutism for principle or substitute spectacle for politics or treat name-calling as reasoned debate.",
+      "quote_sha256": "a00708156adafa2223fd28ab2a8415419f1e016b05b9bb4b915b64a94fc01ce1"
+    },
+    {
+      "chunk": "It will be up to sb. to do sth.",
+      "meaning": "将由某人负责做某事",
+      "register": "中性／责任",
+      "note": "不是某人能否做到的能力判断。",
+      "paragraph": 26,
+      "quote": "We must act, we must act knowing that today's victories will be only partial and that it will be up to those who stand here in 4 years and 40 years and 400 years hence to advance the timeless spirit once conferred to us in a spare Philadelphia hall.",
+      "quote_sha256": "b1c49d61929de18d187208536cefc048a1cda0fd361b3f0eea414aef52decf76"
+    },
+    {
+      "chunk": "act knowing that 从句",
+      "meaning": "明知……仍采取行动",
+      "register": "中性偏正式／立场",
+      "note": "knowing 为伴随状态，原句接受不完美结果。",
+      "paragraph": 26,
+      "quote": "We must act, knowing that our work will be imperfect.",
+      "quote_sha256": "ce12d97601149000a4fb92c859055d81bcc8a7d6e464963b5d80ae7095594e97"
+    },
+    {
+      "chunk": "not so different from sth.",
+      "meaning": "与某事并没有那么不同",
+      "register": "中性／比较",
+      "note": "so 限定差异程度，不完全等同。",
+      "paragraph": 27,
+      "quote": "But the words I spoke today are not so different from the oath that is taken each time a soldier signs up for duty or an immigrant realizes her dream.",
+      "quote_sha256": "1bdd4dbee8f16125748a7367fab8548bd4f14c322e49b8860a8e714f4411d918"
+    },
+    {
+      "chunk": "fill sb.'s heart with pride",
+      "meaning": "使某人心中充满自豪",
+      "register": "中性偏演讲／情绪",
+      "note": "普通交流可理解，但此场景庄重。",
+      "paragraph": 27,
+      "quote": "My oath is not so different from the pledge we all make to the flag that waves above and that fills our hearts with pride.",
+      "quote_sha256": "10f3bb8a1ddceb31a5654a865f9b45cb7a10e22d80a689fc5dfb8affd45aa9f0"
+    },
+    {
+      "chunk": "in defense of sth.",
+      "meaning": "为维护某事；为某事辩护",
+      "register": "中性偏正式",
+      "note": "不只是军事防御。",
+      "paragraph": 28,
+      "quote": "You and I, as citizens, have the obligation to shape the debates of our time—not only with the votes we cast, but with the voices we lift in defense of our most ancient values and enduring ideals.",
+      "quote_sha256": "376c6fd660f6c983b20ee07e4c22258420043cef3f97de486a236bf96aa6a540"
+    },
+    {
+      "chunk": "answer the call of sth.",
+      "meaning": "响应某事的召唤",
+      "register": "正式／演讲",
+      "note": "原句 history 是修辞；常用在使命或责任，非普通电话。",
+      "paragraph": 29,
+      "quote": "With common effort and common purpose, with passion and dedication, let us answer the call of history and carry into an uncertain future that precious light of freedom.",
+      "quote_sha256": "7a22efd8258fe5aa8017932ac4861c53fda0580b3b1245cce1bccd4a5cdde763"
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+}

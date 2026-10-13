@@ -1,0 +1,3328 @@
+{
+  "root_duplicates_removed": [
+    {
+      "episode": "s03e08",
+      "chunk": "What's the deal with sth.?",
+      "meaning": "某事是怎么回事？询问原因／背景",
+      "start_cue": 55,
+      "end_cue": 55,
+      "start_time": "00:03:12,211",
+      "end_time": "00:03:14,439",
+      "quote": "What's the deal with the coins?",
+      "id": "S03E08-009",
+      "reason": "仅补占位符",
+      "earlier": {
+        "episode": "s02e09",
+        "chunk": "What's the deal with…?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s03e08",
+      "chunk": "the better part of …",
+      "meaning": "某段时间的大部分、接近整个时长",
+      "start_cue": 187,
+      "end_cue": 187,
+      "start_time": "00:13:25,298",
+      "end_time": "00:13:29,406",
+      "quote": "almost next to my skin for the better part of two hours.",
+      "id": "S03E08-027",
+      "reason": "同一时间大部分义",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "the better part of sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s03e08",
+      "chunk": "Hate to break it to you, …",
+      "meaning": "不愿告诉你这个坏消息，但……",
+      "start_cue": 614,
+      "end_cue": 614,
+      "start_time": "00:42:58,876",
+      "end_time": "00:43:01,192",
+      "quote": "Hate to break it to you, smart guy,",
+      "id": "S03E08-085",
+      "reason": "仅省略主语和连接词",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "I hate to break it to you, but…"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s03e09",
+      "chunk": "each and every …",
+      "meaning": "每一个、无一例外；加强all",
+      "start_cue": 305,
+      "end_cue": 305,
+      "start_time": "00:16:00,433",
+      "end_time": "00:16:02,633",
+      "quote": "for taxes on each and every gallon.",
+      "id": "S03E09-048",
+      "reason": "同一强调全部的框架",
+      "earlier": {
+        "episode": "s02e09",
+        "chunk": "each and every one"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s03e09",
+      "chunk": "speak out of school",
+      "meaning": "说不该说的／透露私事；较老派",
+      "start_cue": 473,
+      "end_cue": 473,
+      "start_time": "00:27:57,425",
+      "end_time": "00:28:00,169",
+      "quote": "I don't want to speak out of school, but...",
+      "id": "S03E09-068",
+      "reason": "同一固定习语的动词近变体",
+      "earlier": {
+        "episode": "s02e06",
+        "chunk": "talk out of school"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s03e09",
+      "chunk": "On it.",
+      "meaning": "正在办／马上办；工作回应",
+      "start_cue": 729,
+      "end_cue": 729,
+      "start_time": "00:44:53,493",
+      "end_time": "00:44:56,021",
+      "quote": "On it. Sorry about that.",
+      "id": "S03E09-095",
+      "reason": "仅省略主语系词",
+      "earlier": {
+        "episode": "s02e10",
+        "chunk": "I'm on it."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s03e10",
+      "chunk": "This isn't personal.",
+      "meaning": "这并非针对你个人；冲突缓和",
+      "start_cue": 471,
+      "end_cue": 471,
+      "start_time": "00:42:49,839",
+      "end_time": "00:42:51,875",
+      "quote": "Hector, this isn't personal...",
+      "id": "S03E10-061",
+      "reason": "同一冲突缓和句",
+      "earlier": {
+        "episode": "s01e07",
+        "chunk": "It's not personal."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e02",
+      "chunk": "fill sb. in on sth.",
+      "meaning": "向某人交代情况、补充信息",
+      "start_cue": 102,
+      "end_cue": 102,
+      "start_time": "00:11:05,249",
+      "end_time": "00:11:07,543",
+      "quote": "Guessing Henry filled you in on what we look for?",
+      "id": "S04E02-021",
+      "reason": "只补出告知内容",
+      "earlier": {
+        "episode": "s01e06",
+        "chunk": "fill sb. in"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e02",
+      "chunk": "I feel sorry for sb.",
+      "meaning": "我替某人感到可怜／遗憾；可带轻视",
+      "start_cue": 205,
+      "end_cue": 205,
+      "start_time": "00:16:41,334",
+      "end_time": "00:16:43,670",
+      "quote": "I feel sorry for you.",
+      "id": "S04E02-043",
+      "reason": "只增加主语",
+      "earlier": {
+        "episode": "s02e09",
+        "chunk": "feel sorry for sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e02",
+      "chunk": "sentimental value",
+      "meaning": "情感／纪念价值",
+      "start_cue": 379,
+      "end_cue": 379,
+      "start_time": "00:32:23,818",
+      "end_time": "00:32:26,946",
+      "quote": "- I mean, anything with sentimental value. - We can set up a time.",
+      "id": "S04E02-067",
+      "reason": "同一核心名词搭配",
+      "earlier": {
+        "episode": "s02e02",
+        "chunk": "have sentimental value"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e03",
+      "chunk": "throw in sth.",
+      "meaning": "额外加上某物；此处点餐追加",
+      "start_cue": 234,
+      "end_cue": 234,
+      "start_time": "00:27:06,459",
+      "end_time": "00:27:09,629",
+      "quote": "Could you also throw in some dipping sticks?",
+      "id": "S04E03-049",
+      "reason": "仅宾语位置",
+      "earlier": {
+        "episode": "s01e06",
+        "chunk": "throw sth. in"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e03",
+      "chunk": "good to go",
+      "meaning": "已就绪、可以继续",
+      "start_cue": 348,
+      "end_cue": 348,
+      "start_time": "00:36:40,366",
+      "end_time": "00:36:43,494",
+      "quote": "For the disbursement of funds, then we should be good to go.",
+      "id": "S04E03-064",
+      "reason": "省略系词",
+      "earlier": {
+        "episode": "s02e03",
+        "chunk": "be good to go"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e03",
+      "chunk": "look into sth.",
+      "meaning": "调查／研究某事",
+      "start_cue": 358,
+      "end_cue": 358,
+      "start_time": "00:37:08,644",
+      "end_time": "00:37:13,232",
+      "quote": "Maybe, uh, you could also start looking into federal charter regs.",
+      "id": "S04E03-065",
+      "reason": "只换对象",
+      "earlier": {
+        "episode": "s02e04",
+        "chunk": "look into it"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e03",
+      "chunk": "get it over with",
+      "meaning": "赶快把不愉快的事做完",
+      "start_cue": 368,
+      "end_cue": 368,
+      "start_time": "00:38:06,410",
+      "end_time": "00:38:08,579",
+      "quote": "Okay. Let's get it over with.",
+      "id": "S04E03-068",
+      "reason": "只换代词",
+      "earlier": {
+        "episode": "s02e07",
+        "chunk": "get this over with"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "get it over with",
+      "meaning": "赶紧把不愉快的事了结",
+      "start_cue": 203,
+      "end_cue": 203,
+      "start_time": "00:25:52,551",
+      "end_time": "00:25:53,586",
+      "quote": "Let's get it over with.",
+      "reason": "只换代词",
+      "earlier": {
+        "episode": "s02e07",
+        "chunk": "get this over with"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e03",
+      "chunk": "rip the Band-Aid off",
+      "meaning": "快刀斩乱麻、一次面对痛苦；比喻",
+      "start_cue": 369,
+      "end_cue": 369,
+      "start_time": "00:38:08,745",
+      "end_time": "00:38:11,498",
+      "quote": "You know, rip the band-aid off, right?",
+      "id": "S04E03-069",
+      "reason": "可分短语动词宾语位置",
+      "earlier": {
+        "episode": "s02e08",
+        "chunk": "rip off the Band-Aid"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e04",
+      "chunk": "take responsibility",
+      "meaning": "承担责任",
+      "start_cue": 126,
+      "end_cue": 126,
+      "start_time": "00:12:02,848",
+      "end_time": "00:12:06,935",
+      "quote": "To make matters worse, the hospital refuses to take responsibility.",
+      "id": "S04E04-027",
+      "reason": "去掉程度强调，不产生新接法",
+      "earlier": {
+        "episode": "s01e02",
+        "chunk": "take full responsibility"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e05",
+      "chunk": "be right in the middle of sth.",
+      "meaning": "正忙于某事、无法抽身",
+      "start_cue": 378,
+      "end_cue": 378,
+      "start_time": "00:38:00,028",
+      "end_time": "00:38:03,490",
+      "quote": "Unfortunately, I'm right in the middle of something. I can be there at 4.",
+      "id": "S04E05-068",
+      "reason": "只添加强调词",
+      "earlier": {
+        "episode": "s02e10",
+        "chunk": "be in the middle of sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e06",
+      "chunk": "I take it (that) …",
+      "meaning": "我想／推测……；根据迹象作判断",
+      "start_cue": 371,
+      "end_cue": 371,
+      "start_time": "00:26:19,203",
+      "end_time": "00:26:22,707",
+      "quote": "Just making the office a little more feng shui, I take it?",
+      "id": "S04E06-052",
+      "reason": "只补可省略that",
+      "earlier": {
+        "episode": "s02e03",
+        "chunk": "I take it…"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e06",
+      "chunk": "Same goes for sb.",
+      "meaning": "某人也一样、上述道理同样适用",
+      "start_cue": 351,
+      "end_cue": 351,
+      "start_time": "00:24:53,159",
+      "end_time": "00:24:54,869",
+      "quote": "Same goes for you.",
+      "id": "S04E06-050",
+      "reason": "省略冠词，缩减占位符",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "The same goes for sb./sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e06",
+      "chunk": "That's on me.",
+      "meaning": "那是我的责任／我来承担；这里指错在自己",
+      "start_cue": 427,
+      "end_cue": 427,
+      "start_time": "00:30:37,586",
+      "end_time": "00:30:39,964",
+      "quote": "That's... that's on me.",
+      "id": "S04E06-064",
+      "reason": "同一责任归属义",
+      "earlier": {
+        "episode": "s01e02",
+        "chunk": "That's on sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e06",
+      "chunk": "keep an eye on sb.",
+      "meaning": "留意／盯着某人",
+      "start_cue": 531,
+      "end_cue": 531,
+      "start_time": "00:40:43,442",
+      "end_time": "00:40:44,610",
+      "quote": "Keep an eye on this one.",
+      "id": "S04E06-076",
+      "reason": "既有框架涵盖人",
+      "earlier": {
+        "episode": "s01e06",
+        "chunk": "keep an eye on sb./sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e06",
+      "chunk": "No offence.",
+      "meaning": "无意冒犯；异议／检查前的缓和",
+      "start_cue": 200,
+      "end_cue": 200,
+      "start_time": "00:14:01,842",
+      "end_time": "00:14:03,844",
+      "quote": "I'm gonna need to vet them. No offence.",
+      "id": "S04E06-032",
+      "reason": "英美拼写及后句省略",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "No offense, but…"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "No offense.",
+      "meaning": "无意冒犯；未必真能消除冒犯",
+      "start_cue": 399,
+      "end_cue": 399,
+      "start_time": "00:44:25,694",
+      "end_time": "00:44:28,822",
+      "quote": "All right, no offense. You don't know her like I do.",
+      "selection_pass": 2,
+      "reason": "同一缓冲套语",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "No offense, but…"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e08",
+      "chunk": "not take sth. for granted",
+      "meaning": "不把某帮助／拥有的东西视作理所当然",
+      "start_cue": 6,
+      "end_cue": 6,
+      "start_time": "00:00:27,153",
+      "end_time": "00:00:29,322",
+      "quote": "I don't take this for granted.",
+      "id": "S04E08-002",
+      "reason": "仅否定，非新词块义",
+      "earlier": {
+        "episode": "s02e04",
+        "chunk": "take sth. for granted"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e08",
+      "chunk": "It means a lot.",
+      "meaning": "这对我意义重大；表达感谢",
+      "start_cue": 7,
+      "end_cue": 7,
+      "start_time": "00:00:29,488",
+      "end_time": "00:00:31,657",
+      "quote": "It means a lot.",
+      "id": "S04E08-003",
+      "reason": "同一感激回应",
+      "earlier": {
+        "episode": "s01e08",
+        "chunk": "That means a lot."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e08",
+      "chunk": "inside and out",
+      "meaning": "里里外外／从内心到外表",
+      "start_cue": 381,
+      "end_cue": 381,
+      "start_time": "00:35:33,299",
+      "end_time": "00:35:38,971",
+      "quote": "Why, I'd say he's a lovely person, both inside and out.",
+      "id": "S04E08-040",
+      "reason": "已有搭配涵盖副词块",
+      "earlier": {
+        "episode": "s02e08",
+        "chunk": "know sth. inside and out"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e09",
+      "chunk": "just between you and me",
+      "meaning": "就咱俩私下说；保密性询问",
+      "start_cue": 479,
+      "end_cue": 479,
+      "start_time": "00:38:25,179",
+      "end_time": "00:38:28,348",
+      "quote": "I know they said I'd hear from them, but just between you and me...",
+      "id": "S04E09-059",
+      "reason": "仅添加just",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "between you and me"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e09",
+      "chunk": "God forbid (that) …",
+      "meaning": "但愿不会……；本句讽刺对方仿佛把合作当灾难",
+      "start_cue": 609,
+      "end_cue": 609,
+      "start_time": "00:46:25,575",
+      "end_time": "00:46:27,827",
+      "quote": "But god forbid you should have an office with me.",
+      "id": "S04E09-079",
+      "reason": "仅补从句槽位",
+      "earlier": {
+        "episode": "s01e03",
+        "chunk": "God forbid"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e09",
+      "chunk": "wrap up",
+      "meaning": "结束、收尾",
+      "start_cue": 511,
+      "end_cue": 511,
+      "start_time": "00:40:35,142",
+      "end_time": "00:40:37,019",
+      "quote": "They're wrapping up.",
+      "id": "S04E09-063",
+      "reason": "本场同为结束，非包装义",
+      "earlier": {
+        "episode": "s02e04",
+        "chunk": "wrap it up"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e09",
+      "chunk": "nail it",
+      "meaning": "表现非常成功／回答得极好；口语",
+      "start_cue": 557,
+      "end_cue": 557,
+      "start_time": "00:44:05,060",
+      "end_time": "00:44:07,979",
+      "quote": "- That's a big one. - Huge. And I nailed it.",
+      "id": "S04E09-069",
+      "reason": "同一搞定义，时态差异",
+      "earlier": {
+        "episode": "s02e06",
+        "chunk": "Nailed it."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "Here's what's going to happen.",
+      "meaning": "接下来是这么安排的；指示或威胁开场",
+      "start_cue": 27,
+      "end_cue": 27,
+      "start_time": "00:01:51,216",
+      "end_time": "00:01:55,428",
+      "quote": "So here's what's going to happen.",
+      "reason": "going to/gonna缩略差异",
+      "earlier": {
+        "episode": "s01e06",
+        "chunk": "Here's what's gonna happen."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "Let me put it this way.",
+      "meaning": "我换个方式说吧",
+      "start_cue": 177,
+      "end_cue": 177,
+      "start_time": "00:15:34,131",
+      "end_time": "00:15:36,591",
+      "quote": "Oh, yeah. Just let me put it this way.",
+      "reason": "仅添加发言开场",
+      "earlier": {
+        "episode": "s02e03",
+        "chunk": "put it this way"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "The only way this works is…",
+      "meaning": "唯一能奏效的办法就是……",
+      "start_cue": 37,
+      "end_cue": 38,
+      "start_time": "00:14:22,429",
+      "end_time": "00:14:25,933",
+      "quote": "The only way that this works for you is with me dead.",
+      "selection_pass": 2,
+      "reason": "同一唯一可行办法框架",
+      "earlier": {
+        "episode": "s01e07",
+        "chunk": "That's the only way this works."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "I'm not saying… but…",
+      "meaning": "我不是说……，不过……；限定主张",
+      "start_cue": 137,
+      "end_cue": 139,
+      "start_time": "00:11:05,655",
+      "end_time": "00:11:13,244",
+      "quote": "I'm not saying a few lawyers can solve a massive, systemic problem. But they could make it better.",
+      "reason": "仅少that槽位",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "I'm not saying (that)…, but…"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "make things happen",
+      "meaning": "有能力推动事情落地",
+      "start_cue": 146,
+      "end_cue": 146,
+      "start_time": "00:11:25,508",
+      "end_time": "00:11:28,094",
+      "quote": "You can make things happen. Fair enough.",
+      "reason": "只换对象",
+      "earlier": {
+        "episode": "s01e09",
+        "chunk": "make sth. happen"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "Spill.",
+      "meaning": "快说吧／把消息讲出来；非正式",
+      "start_cue": 200,
+      "end_cue": 200,
+      "start_time": "00:17:49,725",
+      "end_time": "00:17:53,728",
+      "quote": "Oh, and that is not all. Spill.",
+      "selection_pass": 2,
+      "reason": "同一催告知，省略宾语",
+      "earlier": {
+        "episode": "s02e07",
+        "chunk": "Spill it."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "the bottom line is…",
+      "meaning": "归根结底／最关键的是……",
+      "start_cue": 490,
+      "end_cue": 491,
+      "start_time": "00:41:33,147",
+      "end_time": "00:41:38,610",
+      "quote": "But, um, the bottom line is I need a new place to do business, pronto.",
+      "reason": "同一归结重点功能",
+      "earlier": {
+        "episode": "s01e02",
+        "chunk": "The bottom line…"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "the price is right",
+      "meaning": "价格合适",
+      "start_cue": 492,
+      "end_cue": 492,
+      "start_time": "00:41:38,611",
+      "end_time": "00:41:42,113",
+      "quote": "Now, this place is a shithole, but the price is right.",
+      "reason": "同一价格合适义",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "If the price is right."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "on top of sth.",
+      "meaning": "在某项之外再加上",
+      "start_cue": 83,
+      "end_cue": 83,
+      "start_time": "00:11:15,075",
+      "end_time": "00:11:19,012",
+      "quote": "We're pushing to get an extra 30% on top of the penalty.",
+      "reason": "本场同为此外再加，非空间义",
+      "earlier": {
+        "episode": "s01e08",
+        "chunk": "on top of that"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "put out a fire",
+      "meaning": "扑灭危机／解决紧急问题；这里比喻安抚客户",
+      "start_cue": 108,
+      "end_cue": 108,
+      "start_time": "00:12:20,307",
+      "end_time": "00:12:22,876",
+      "quote": "Well, I think we just put out a major fire.",
+      "reason": "同一解决突发麻烦隐喻",
+      "earlier": {
+        "episode": "s02e06",
+        "chunk": "put out a few fires"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "each and every one of you",
+      "meaning": "你们每一个人，无一例外",
+      "start_cue": 155,
+      "end_cue": 155,
+      "start_time": "00:15:36,269",
+      "end_time": "00:15:39,206",
+      "quote": "I look forward to sitting down with each and every one of you.",
+      "selection_pass": 2,
+      "reason": "仅補具体群体",
+      "earlier": {
+        "episode": "s02e09",
+        "chunk": "each and every one"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "one at a time",
+      "meaning": "一次一个，按顺序来",
+      "start_cue": 202,
+      "end_cue": 202,
+      "start_time": "00:17:41,561",
+      "end_time": "00:17:44,264",
+      "quote": "Open for business. One at a time.",
+      "selection_pass": 2,
+      "reason": "同一逐个进行框架",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "one sth. at a time"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "get it out of your system",
+      "meaning": "把压抑的情绪释放掉",
+      "start_cue": 279,
+      "end_cue": 279,
+      "start_time": "00:22:15,468",
+      "end_time": "00:22:17,188",
+      "quote": "Hoping you might get it out of your system.",
+      "reason": "同一发泄冲动义",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "get sth. out of your system"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "for the best",
+      "meaning": "从长远看反而是好事",
+      "start_cue": 19,
+      "end_cue": 19,
+      "start_time": "00:01:11,926",
+      "end_time": "00:01:14,470",
+      "quote": "You know what? Maybe that's for the best.",
+      "reason": "省略系词",
+      "earlier": {
+        "episode": "s01e09",
+        "chunk": "be for the best"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "I've been meaning to ask…",
+      "meaning": "我一直想问……；引入久未提的事",
+      "start_cue": 285,
+      "end_cue": 285,
+      "start_time": "00:16:58,048",
+      "end_time": "00:17:00,508",
+      "quote": "I've been meaning to ask, if you don't mind.",
+      "reason": "ask被动作槽位涵盖",
+      "earlier": {
+        "episode": "s01e07",
+        "chunk": "I've been meaning to do sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "have a good shot",
+      "meaning": "很有机会成功",
+      "start_cue": 379,
+      "end_cue": 379,
+      "start_time": "00:21:57,681",
+      "end_time": "00:21:59,807",
+      "quote": "Yeah. Cliff thinks I have a good shot.",
+      "reason": "省略目标",
+      "earlier": {
+        "episode": "s02e03",
+        "chunk": "have a good shot at sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "grease some wheels",
+      "meaning": "打点疏通以办成事；此处暗示贿赂",
+      "start_cue": 270,
+      "end_cue": 270,
+      "start_time": "00:19:42,268",
+      "end_time": "00:19:44,628",
+      "quote": "and I might have to grease some wheels over at MVD... Do it.",
+      "reason": "同一疏通关系隐喻",
+      "earlier": {
+        "episode": "s02e05",
+        "chunk": "grease the wheels"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "put a face to a name",
+      "meaning": "把名字和本人对上号",
+      "start_cue": 352,
+      "end_cue": 352,
+      "start_time": "00:23:34,761",
+      "end_time": "00:23:36,881",
+      "quote": "No, I haven't, but it's nice to put a face to a name.",
+      "reason": "冠词差异",
+      "earlier": {
+        "episode": "s02e07",
+        "chunk": "put a face to the name"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "bet the farm on sth.",
+      "meaning": "把全部身家／一切押在某事上",
+      "start_cue": 622,
+      "end_cue": 622,
+      "start_time": "00:42:01,736",
+      "end_time": "00:42:03,390",
+      "quote": "You wanna bet the farm on that?",
+      "reason": "仅明确押注对象",
+      "earlier": {
+        "episode": "s01e08",
+        "chunk": "bet the farm"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "can't help oneself",
+      "meaning": "控制不住自己，忍不住那样做",
+      "start_cue": 720,
+      "end_cue": 720,
+      "start_time": "00:46:37,838",
+      "end_time": "00:46:39,622",
+      "quote": "Jimmy, you can't help yourself.",
+      "reason": "仅人称泛化",
+      "earlier": {
+        "episode": "s02e05",
+        "chunk": "can't help himself"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "be in the middle of something",
+      "meaning": "正忙着处理某件事",
+      "start_cue": 764,
+      "end_cue": 764,
+      "start_time": "00:48:35,651",
+      "end_time": "00:48:37,064",
+      "quote": "Think I'm in the middle of something.",
+      "selection_pass": 2,
+      "reason": "占位符全写简写",
+      "earlier": {
+        "episode": "s02e10",
+        "chunk": "be in the middle of sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "for the better part of a year",
+      "meaning": "一年的大部分时间",
+      "start_cue": 712,
+      "end_cue": 712,
+      "start_time": "00:46:14,684",
+      "end_time": "00:46:15,884",
+      "quote": "for the better part of a year.",
+      "reason": "只换具体时段",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "the better part of sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e08",
+      "chunk": "talk sb. out of it",
+      "meaning": "说服某人打消念头",
+      "start_cue": 266,
+      "end_cue": 268,
+      "start_time": "00:21:36,469",
+      "end_time": "00:21:46,130",
+      "quote": "But my husband talked him out of it because he wanted to get me out of there. He talked Lalo out of it.",
+      "selection_pass": 2,
+      "reason": "对象代词",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "talk sb. out of sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e08",
+      "chunk": "say it out loud",
+      "meaning": "大声说出来；此处要求明确表态",
+      "start_cue": 430,
+      "end_cue": 430,
+      "start_time": "00:44:38,240",
+      "end_time": "00:44:39,894",
+      "quote": "Say it out loud. I need to hear it.",
+      "selection_pass": 2,
+      "reason": "对象代词",
+      "earlier": {
+        "episode": "s02e07",
+        "chunk": "say sth. out loud"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e09",
+      "chunk": "every chance I get",
+      "meaning": "一有机会就",
+      "start_cue": 265,
+      "end_cue": 265,
+      "start_time": "00:35:38,788",
+      "end_time": "00:35:40,616",
+      "quote": "instead of yitzing him every chance I got.",
+      "reason": "仅人称",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "every chance sb. gets"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e09",
+      "chunk": "be in this together",
+      "meaning": "共同承担这件事，彼此支持",
+      "start_cue": 419,
+      "end_cue": 419,
+      "start_time": "00:45:41,956",
+      "end_time": "00:45:45,612",
+      "quote": "because we're in this together, okay?",
+      "reason": "陈述句与泛化形式",
+      "earlier": {
+        "episode": "s01e07",
+        "chunk": "We're in this together."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e09",
+      "chunk": "That's on us.",
+      "meaning": "那是我们的责任；此处否定，责任归属义",
+      "start_cue": 453,
+      "end_cue": 453,
+      "start_time": "00:47:30,499",
+      "end_time": "00:47:32,284",
+      "quote": "Okay? What happened to him wasn't on us.",
+      "reason": "责任归属义人称变化",
+      "earlier": {
+        "episode": "s01e02",
+        "chunk": "That's on sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "Your name came up.",
+      "meaning": "说话时提到了你",
+      "start_cue": 188,
+      "end_cue": 188,
+      "start_time": "00:12:00,020",
+      "end_time": "00:12:01,188",
+      "quote": "Your name came up.",
+      "reason": "同一谈话提名义",
+      "earlier": {
+        "episode": "s02e02",
+        "chunk": "sb.'s name comes up"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "back me up",
+      "meaning": "帮我说话／支持我的立场",
+      "start_cue": 760,
+      "end_cue": 760,
+      "start_time": "00:53:18,596",
+      "end_time": "00:53:20,965",
+      "quote": "Jeff, come on, man, back me up here.",
+      "reason": "同一支持立场义",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "back sb. up"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "Let it go.",
+      "meaning": "别再纠缠／放下那件事",
+      "start_cue": 688,
+      "end_cue": 688,
+      "start_time": "00:49:25,963",
+      "end_time": "00:49:26,963",
+      "quote": "Let it go.",
+      "selection_pass": 2,
+      "reason": "此处同为别再纠缠",
+      "earlier": {
+        "episode": "s01e03",
+        "chunk": "let sth. go"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e12",
+      "chunk": "I'll take that as a yes.",
+      "meaning": "我就当你答应了／算是肯定",
+      "start_cue": 185,
+      "end_cue": 185,
+      "start_time": "00:12:55,909",
+      "end_time": "00:12:57,210",
+      "quote": "I'm gonna take that as a yes.",
+      "reason": "仅增加主语与时态",
+      "earlier": {
+        "episode": "s01e07",
+        "chunk": "take that as a yes"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e12",
+      "chunk": "That's rich.",
+      "meaning": "你也好意思说／真会装；讽刺双标",
+      "start_cue": 228,
+      "end_cue": 228,
+      "start_time": "00:15:01,468",
+      "end_time": "00:15:05,572",
+      "quote": "That is really rich, you... You preaching to me?",
+      "reason": "仅缩略",
+      "earlier": {
+        "episode": "s02e04",
+        "chunk": "That is rich."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "as we speak",
+      "meaning": "就在此刻；正在发生",
+      "start_cue": 118,
+      "end_cue": 119,
+      "start_time": "00:14:00,573",
+      "end_time": "00:14:04,177",
+      "quote": "The fact is, I'm standing in the middle of a police station as we speak.",
+      "reason": "同一就在此刻义",
+      "earlier": {
+        "episode": "s02e01",
+        "chunk": "as I speak"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "put oneself through school",
+      "meaning": "自己挣钱供自己上学",
+      "start_cue": 446,
+      "end_cue": 446,
+      "start_time": "00:34:12,251",
+      "end_time": "00:34:15,354",
+      "quote": "Yeah. That's how I put myself through bartending school.",
+      "reason": "人称泛化",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "put myself through school"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "With that in mind,…",
+      "meaning": "考虑到这一点……",
+      "start_cue": 469,
+      "end_cue": 469,
+      "start_time": "00:36:09,768",
+      "end_time": "00:36:12,103",
+      "quote": "With that in mind, you're sure we can't have a few words?",
+      "reason": "同一考虑前述因素义",
+      "earlier": {
+        "episode": "s02e03",
+        "chunk": "with all that in mind"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "a heart-to-heart",
+      "meaning": "开诚布公的深入谈话",
+      "start_cue": 822,
+      "end_cue": 822,
+      "start_time": "00:58:19,096",
+      "end_time": "00:58:22,099",
+      "quote": "I'm gonna take a pass on the heart-to-heart, Chuck.",
+      "reason": "同一坦诚谈话义",
+      "earlier": {
+        "episode": "s01e06",
+        "chunk": "a heart-to-heart with sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "side with sb.",
+      "meaning": "站在某人一边／支持某人",
+      "start_cue": 680,
+      "end_cue": 680,
+      "start_time": "00:44:55,954",
+      "end_time": "00:44:57,695",
+      "quote": "I sided with Chuck too often?",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "side with sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e09",
+      "chunk": "I'd prefer not to.",
+      "meaning": "我宁愿不这样做；礼貌拒绝",
+      "start_cue": 367,
+      "end_cue": 367,
+      "start_time": "00:42:37,380",
+      "end_time": "00:42:38,773",
+      "quote": "Your Honor, I'd prefer not to.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "I'd prefer not to."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "on the house",
+      "meaning": "免费赠送，由店家请",
+      "start_cue": 389,
+      "end_cue": 389,
+      "start_time": "00:25:16,683",
+      "end_time": "00:25:17,683",
+      "quote": "On the house.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s01e06",
+        "chunk": "on the house"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "No kidding?",
+      "meaning": "真的假的？；吃惊确认",
+      "start_cue": 186,
+      "end_cue": 186,
+      "start_time": "00:11:54,681",
+      "end_time": "00:11:56,016",
+      "quote": "No kidding?",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "No kidding?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e01",
+      "chunk": "on the … front",
+      "meaning": "在……这方面／针对某事的进展",
+      "start_cue": 297,
+      "end_cue": 297,
+      "start_time": "00:28:36,746",
+      "end_time": "00:28:38,206",
+      "quote": "On the Howard front.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "on the… front"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e12",
+      "chunk": "Here's the thing…",
+      "meaning": "问题／情况是这样……",
+      "start_cue": 25,
+      "end_cue": 25,
+      "start_time": "00:03:37,150",
+      "end_time": "00:03:38,852",
+      "quote": "Well, here's the thing,",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e01",
+        "chunk": "Here's the thing."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "do your thing",
+      "meaning": "去做你擅长／要做的事",
+      "start_cue": 634,
+      "end_cue": 634,
+      "start_time": "00:42:35,167",
+      "end_time": "00:42:37,961",
+      "quote": "Just go, just do your thing in Santa Fe,",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e01",
+        "chunk": "Do your thing."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "sooner or later",
+      "meaning": "迟早",
+      "start_cue": 401,
+      "end_cue": 401,
+      "start_time": "00:33:10,289",
+      "end_time": "00:33:12,324",
+      "quote": "Wherever he is now, sooner or later,",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e03",
+        "chunk": "sooner or later"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "You bet.",
+      "meaning": "当然／没问题；积极回应",
+      "start_cue": 391,
+      "end_cue": 391,
+      "start_time": "00:31:09,941",
+      "end_time": "00:31:12,194",
+      "quote": "Thanks, Kim. See you tomorrow? You bet.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e05",
+        "chunk": "You bet."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "as far as I know",
+      "meaning": "据我所知；限定信息范围",
+      "start_cue": 401,
+      "end_cue": 402,
+      "start_time": "00:31:56,071",
+      "end_time": "00:31:59,740",
+      "quote": "And as far as I know, they're not investigating either of you.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e06",
+        "chunk": "as far as I know"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "be swamped",
+      "meaning": "忙得不可开交；此处接待很多事务",
+      "start_cue": 93,
+      "end_cue": 93,
+      "start_time": "00:08:13,483",
+      "end_time": "00:08:15,818",
+      "quote": "I imagine you're swamped when you're in town.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e08",
+        "chunk": "be swamped"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e01",
+      "chunk": "Chop chop.",
+      "meaning": "快点；催促，可能显得不客气",
+      "start_cue": 524,
+      "end_cue": 524,
+      "start_time": "00:48:09,751",
+      "end_time": "00:48:11,794",
+      "quote": "Andale. Chop chop.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e08",
+        "chunk": "Chop-chop!"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "start over",
+      "meaning": "重新开始",
+      "start_cue": 746,
+      "end_cue": 746,
+      "start_time": "00:53:50,595",
+      "end_time": "00:53:53,364",
+      "quote": "Kim had the guts to start over.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e10",
+        "chunk": "start over"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "You got that right.",
+      "meaning": "你可说对了；强烈赞同",
+      "start_cue": 593,
+      "end_cue": 593,
+      "start_time": "00:44:12,417",
+      "end_time": "00:44:13,417",
+      "quote": "You got that right.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e02",
+        "chunk": "You got that right."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e08",
+      "chunk": "Nothing like that.",
+      "meaning": "不是那回事／不用那样的帮助",
+      "start_cue": 340,
+      "end_cue": 340,
+      "start_time": "00:38:00,669",
+      "end_time": "00:38:02,410",
+      "quote": "Nothing like that.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e03",
+        "chunk": "Nothing like that."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e10",
+      "chunk": "make room",
+      "meaning": "腾出地方",
+      "start_cue": 42,
+      "end_cue": 42,
+      "start_time": "00:04:44,201",
+      "end_time": "00:04:46,537",
+      "quote": "Come on, make room.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e04",
+        "chunk": "Make room."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e01",
+      "chunk": "from the look of it",
+      "meaning": "从眼前情况看",
+      "start_cue": 110,
+      "end_cue": 110,
+      "start_time": "00:18:32,435",
+      "end_time": "00:18:35,062",
+      "quote": "Hired operators from the look of it.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e04",
+        "chunk": "from the look of it"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e06",
+      "chunk": "under oath",
+      "meaning": "在宣誓后作证；法律",
+      "start_cue": 711,
+      "end_cue": 711,
+      "start_time": "00:49:09,239",
+      "end_time": "00:49:13,868",
+      "quote": "Look, if I got caught, and god forbid, you're questioned under oath,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e05",
+        "chunk": "under oath"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e05",
+      "chunk": "set the scene",
+      "meaning": "交代场景／背景",
+      "start_cue": 198,
+      "end_cue": 198,
+      "start_time": "00:17:14,159",
+      "end_time": "00:17:16,745",
+      "quote": "- Hmm? - Paint a picture. Set the scene.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e05",
+        "chunk": "set the scene"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e05",
+      "chunk": "be at a crossroads",
+      "meaning": "处于重大选择的岔路口",
+      "start_cue": 539,
+      "end_cue": 539,
+      "start_time": "00:48:09,929",
+      "end_time": "00:48:13,600",
+      "quote": "It seems to me that you are at a crossroads.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e06",
+        "chunk": "be at a crossroads"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "too good to be true",
+      "meaning": "好得让人难以相信",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:19:40,877",
+      "end_time": "00:19:43,421",
+      "quote": "It seems too good to be true.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e06",
+        "chunk": "too good to be true"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "be on a roll",
+      "meaning": "接连走好运／连连成功",
+      "start_cue": 215,
+      "end_cue": 215,
+      "start_time": "00:18:30,015",
+      "end_time": "00:18:34,018",
+      "quote": "Are we on a roll or are we on a roll?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e07",
+        "chunk": "be on a roll"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "fair warning",
+      "meaning": "提前警告你；提醒后果",
+      "start_cue": 77,
+      "end_cue": 78,
+      "start_time": "00:09:37,359",
+      "end_time": "00:09:40,797",
+      "quote": "And, fair warning, there's gonna be a quiz later. Probably.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e07",
+        "chunk": "Fair warning, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e04",
+      "chunk": "point sb. out",
+      "meaning": "把某人指认出来",
+      "start_cue": 296,
+      "end_cue": 296,
+      "start_time": "00:21:37,547",
+      "end_time": "00:21:40,800",
+      "quote": "And could you point him out to the court, please?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e07",
+        "chunk": "point sb. out"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e10",
+      "chunk": "pull sth. off",
+      "meaning": "成功做成有难度的事",
+      "start_cue": 599,
+      "end_cue": 599,
+      "start_time": "00:55:34,499",
+      "end_time": "00:55:38,753",
+      "quote": "He doesn't deserve that. And who knows if we could pull it off?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e07",
+        "chunk": "pull sth. off"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "if it wasn't for sb.",
+      "meaning": "若没有某人的帮助／影响；反事实口语",
+      "start_cue": 287,
+      "end_cue": 287,
+      "start_time": "00:17:05,806",
+      "end_time": "00:17:08,392",
+      "quote": "I wouldn't be here today if it wasn't for Howard.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e08",
+        "chunk": "if it wasn't for sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "wiggle room",
+      "meaning": "调整余地／回旋空间",
+      "start_cue": 270,
+      "end_cue": 270,
+      "start_time": "00:23:17,497",
+      "end_time": "00:23:19,699",
+      "quote": "I'm just... I'm hoping there's some wiggle room.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e08",
+        "chunk": "wiggle room"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e01",
+      "chunk": "sure as shooting",
+      "meaning": "肯定会；口语强调确定",
+      "start_cue": 134,
+      "end_cue": 134,
+      "start_time": "00:14:19,985",
+      "end_time": "00:14:23,697",
+      "quote": "The skells who've been buying my phones, sure as shooting, sooner or later,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e08",
+        "chunk": "sure as shooting"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "take a rain check",
+      "meaning": "这次先不接受，留待下次",
+      "start_cue": 37,
+      "end_cue": 37,
+      "start_time": "00:02:17,513",
+      "end_time": "00:02:22,059",
+      "quote": "How about we take a rain check on that? We just need to get this done. Feel me?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "take a rain check"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e01",
+      "chunk": "come to light",
+      "meaning": "浮出水面、被发现",
+      "start_cue": 602,
+      "end_cue": 602,
+      "start_time": "00:49:50,613",
+      "end_time": "00:49:52,073",
+      "quote": "New evidence has come to light,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "come to light"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "come to light",
+      "meaning": "被揭露／为人所知",
+      "start_cue": 127,
+      "end_cue": 127,
+      "start_time": "00:20:02,369",
+      "end_time": "00:20:03,936",
+      "quote": "How did this come to light?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "come to light"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "big time",
+      "meaning": "非常／大大地；非正式程度副词",
+      "start_cue": 511,
+      "end_cue": 511,
+      "start_time": "00:38:47,826",
+      "end_time": "00:38:49,661",
+      "quote": "Yeah. Big time.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "Big time."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e09",
+      "chunk": "pull an all-nighter",
+      "meaning": "通宵干活／学习",
+      "start_cue": 418,
+      "end_cue": 418,
+      "start_time": "00:45:40,085",
+      "end_time": "00:45:41,885",
+      "quote": "I'll order a pizza. We'll pull an all-nighter",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "pull an all-nighter"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "You're not hearing me.",
+      "meaning": "你没听明白我的重点；非听力字面义",
+      "start_cue": 19,
+      "end_cue": 19,
+      "start_time": "00:07:04,119",
+      "end_time": "00:07:06,600",
+      "quote": "Or maybe... No, you're not hearing me.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "You're not hearing me."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e09",
+      "chunk": "put sth. behind us",
+      "meaning": "把某事放下、不再纠缠",
+      "start_cue": 409,
+      "end_cue": 409,
+      "start_time": "00:45:24,373",
+      "end_time": "00:45:26,288",
+      "quote": "We're gonna... We're gonna put it behind us.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e10",
+        "chunk": "put sth. behind us"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e03",
+      "chunk": "out of one's own pocket",
+      "meaning": "自己掏钱",
+      "start_cue": 549,
+      "end_cue": 549,
+      "start_time": "00:47:34,978",
+      "end_time": "00:47:38,606",
+      "quote": "I can take off any day this week, and I'll pay for it out of my own pocket.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e10",
+        "chunk": "out of one's own pocket"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "Don't bother.",
+      "meaning": "不用费心了／算了；此处撤回邀请",
+      "start_cue": 534,
+      "end_cue": 534,
+      "start_time": "00:44:32,796",
+      "end_time": "00:44:35,382",
+      "quote": "You know what? Don't bother.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e10",
+        "chunk": "Don't bother."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "How's sth. coming along?",
+      "meaning": "某事进展怎么样？",
+      "start_cue": 444,
+      "end_cue": 444,
+      "start_time": "00:38:10,152",
+      "end_time": "00:38:12,820",
+      "quote": "How's your edge coming along?",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e10",
+        "chunk": "How's sth. coming along?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e02",
+      "chunk": "make one's own hours",
+      "meaning": "自己安排工作时间",
+      "start_cue": 198,
+      "end_cue": 198,
+      "start_time": "00:19:23,788",
+      "end_time": "00:19:25,832",
+      "quote": "I'm still making my own hours.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e01",
+        "chunk": "make one's own hours"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e01",
+      "chunk": "I'm good.",
+      "meaning": "不用了，我这样就好；此处谢绝服务，不是评价自己优秀",
+      "start_cue": 12,
+      "end_cue": 12,
+      "start_time": "00:02:46,667",
+      "end_time": "00:02:48,461",
+      "quote": "I'm good. Really.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "I'm good."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "top-of-the-line",
+      "meaning": "最顶级的；常形容产品",
+      "start_cue": 40,
+      "end_cue": 40,
+      "start_time": "00:08:03,961",
+      "end_time": "00:08:05,963",
+      "quote": "Three CCD, top-of-the-line,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "top-of-the-line"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e05",
+      "chunk": "due diligence",
+      "meaning": "尽职调查／应尽的审慎核查；正式",
+      "start_cue": 38,
+      "end_cue": 38,
+      "start_time": "00:04:41,157",
+      "end_time": "00:04:44,743",
+      "quote": "I'm Everett acker's attorney, I'm just dotting the I's in \"due diligence.\"",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "due diligence"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "show one's face",
+      "meaning": "露面；常用于责备缺席",
+      "start_cue": 485,
+      "end_cue": 485,
+      "start_time": "00:42:46,698",
+      "end_time": "00:42:49,000",
+      "quote": "But not one of them showed his face.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "show one's face"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e01",
+      "chunk": "get past sth.",
+      "meaning": "先越过／不再纠缠某个问题",
+      "start_cue": 67,
+      "end_cue": 67,
+      "start_time": "00:07:54,808",
+      "end_time": "00:07:59,188",
+      "quote": "I know who you are. You know who you are. Let's just get past that.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "get past sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e08",
+      "chunk": "Safe travels.",
+      "meaning": "一路平安",
+      "start_cue": 355,
+      "end_cue": 355,
+      "start_time": "00:38:40,361",
+      "end_time": "00:38:41,797",
+      "quote": "Well, safe travels, Mr. Fring.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "Safe travels."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "What were you thinking?",
+      "meaning": "你当时怎么想的？；常责备荒唐行为",
+      "start_cue": 96,
+      "end_cue": 97,
+      "start_time": "00:12:09,863",
+      "end_time": "00:12:17,570",
+      "quote": "What were you thinking? What... were... you... thinking?",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "What were you thinking?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e04",
+      "chunk": "do sb. wrong",
+      "meaning": "不公正地对待／伤害某人",
+      "start_cue": 149,
+      "end_cue": 149,
+      "start_time": "00:12:13,191",
+      "end_time": "00:12:15,861",
+      "quote": "Hamlin Hamlin McGill did you wrong.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e03",
+        "chunk": "do sb. wrong"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "cut a deal",
+      "meaning": "达成交易／协议",
+      "start_cue": 191,
+      "end_cue": 191,
+      "start_time": "00:14:07,014",
+      "end_time": "00:14:11,101",
+      "quote": "Now I think that the da's primed to cut a deal,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e03",
+        "chunk": "cut a deal"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "cast aspersions",
+      "meaning": "散布恶意怀疑／中伤；正式",
+      "start_cue": 49,
+      "end_cue": 50,
+      "start_time": "00:02:39,493",
+      "end_time": "00:02:46,166",
+      "quote": "so stop trying to cast, y'know... aspersions.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e03",
+        "chunk": "cast aspersions"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "let sb. down",
+      "meaning": "让某人失望",
+      "start_cue": 126,
+      "end_cue": 126,
+      "start_time": "00:09:23,689",
+      "end_time": "00:09:28,026",
+      "quote": "I can't tell you how much I regret that I let you down.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e03",
+        "chunk": "let sb. down"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "land on one's feet",
+      "meaning": "遭遇困难后总能安稳脱身／重新站稳",
+      "start_cue": 701,
+      "end_cue": 701,
+      "start_time": "00:45:46,961",
+      "end_time": "00:45:48,267",
+      "quote": "You always land on your feet.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e03",
+        "chunk": "land on one's feet"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e02",
+      "chunk": "How's business?",
+      "meaning": "生意最近怎么样？",
+      "start_cue": 417,
+      "end_cue": 417,
+      "start_time": "00:34:48,003",
+      "end_time": "00:34:49,003",
+      "quote": "How's business?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "How's business?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "stick to sth.",
+      "meaning": "坚持／履行某个决定",
+      "start_cue": 245,
+      "end_cue": 245,
+      "start_time": "00:17:49,653",
+      "end_time": "00:17:51,655",
+      "quote": "We'll see if he sticks to it.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "stick to sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "Having said that, …",
+      "meaning": "话虽如此……；转折补充",
+      "start_cue": 485,
+      "end_cue": 485,
+      "start_time": "00:40:57,039",
+      "end_time": "00:40:58,498",
+      "quote": "Having said that, your honour,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "Having said that, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "Having said that,…",
+      "meaning": "话虽如此……；转入限定或相反考量",
+      "start_cue": 70,
+      "end_cue": 70,
+      "start_time": "00:10:39,372",
+      "end_time": "00:10:40,908",
+      "quote": "Having said that... Uh, absolutely.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "Having said that, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "a conflict of interest",
+      "meaning": "利益冲突",
+      "start_cue": 308,
+      "end_cue": 308,
+      "start_time": "00:25:43,866",
+      "end_time": "00:25:46,534",
+      "quote": "so this would be a clear conflict of interest.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "a conflict of interest"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "put one's money where one's mouth is",
+      "meaning": "用行动／真金白银兑现所说的话",
+      "start_cue": 150,
+      "end_cue": 150,
+      "start_time": "00:11:38,186",
+      "end_time": "00:11:41,065",
+      "quote": "But you're putting your money where your mouth is.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "put one's money where one's mouth is"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e12",
+      "chunk": "swing by",
+      "meaning": "顺路过来",
+      "start_cue": 518,
+      "end_cue": 518,
+      "start_time": "00:51:32,390",
+      "end_time": "00:51:33,858",
+      "quote": "I'll swing by and pick you up.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "swing by"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e09",
+      "chunk": "the heat dies down",
+      "meaning": "警方追查／关注慢慢减弱；犯罪口语",
+      "start_cue": 305,
+      "end_cue": 305,
+      "start_time": "00:29:29,310",
+      "end_time": "00:29:32,313",
+      "quote": "Then the heat will die down, like it always does.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "the heat dies down"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "come a long way",
+      "meaning": "取得很大进展",
+      "start_cue": 313,
+      "end_cue": 313,
+      "start_time": "00:18:41,651",
+      "end_time": "00:18:43,986",
+      "quote": "but it's come a long way.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "come a long way"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "Sorry to keep you waiting.",
+      "meaning": "抱歉让你久等",
+      "start_cue": 58,
+      "end_cue": 58,
+      "start_time": "00:04:29,437",
+      "end_time": "00:04:31,397",
+      "quote": "Sorry to keep you waiting.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "Sorry to keep you waiting."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "bring the hammer down",
+      "meaning": "严厉惩罚／强力打击",
+      "start_cue": 506,
+      "end_cue": 506,
+      "start_time": "00:38:16,261",
+      "end_time": "00:38:17,729",
+      "quote": "maybe they bring the hammer down.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "bring the hammer down"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e08",
+      "chunk": "Suit yourself.",
+      "meaning": "随你吧；对方不听建议时回应",
+      "start_cue": 247,
+      "end_cue": 247,
+      "start_time": "00:34:12,009",
+      "end_time": "00:34:14,178",
+      "quote": "You suit yourself.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "Suit yourself."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e02",
+      "chunk": "be on sb.'s ass",
+      "meaning": "紧追某人／盯着某人不放；粗俗",
+      "start_cue": 336,
+      "end_cue": 336,
+      "start_time": "00:29:07,997",
+      "end_time": "00:29:09,582",
+      "quote": "They were on my ass.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "be on sb.'s ass"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e05",
+      "chunk": "a word to the wise",
+      "meaning": "给懂行的人一句提醒；忠告套语",
+      "start_cue": 33,
+      "end_cue": 33,
+      "start_time": "00:04:23,556",
+      "end_time": "00:04:26,225",
+      "quote": "It's coming up on the hour, so a word to the wise,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "a word to the wise"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e06",
+      "chunk": "lose track of time",
+      "meaning": "忘了时间、没注意已经过了多久",
+      "start_cue": 5,
+      "end_cue": 5,
+      "start_time": "00:01:15,368",
+      "end_time": "00:01:17,286",
+      "quote": "Guess I kind of lost track of time.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "lose track of time"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e08",
+      "chunk": "What's the point?",
+      "meaning": "有何意义／有什么用？；此处绝望质疑",
+      "start_cue": 323,
+      "end_cue": 323,
+      "start_time": "00:45:35,775",
+      "end_time": "00:45:37,235",
+      "quote": "What's the point?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "What's the point?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e12",
+      "chunk": "in the wrong place at the wrong time",
+      "meaning": "不幸在错误时间到了错误地方",
+      "start_cue": 272,
+      "end_cue": 272,
+      "start_time": "00:21:53,780",
+      "end_time": "00:21:55,260",
+      "quote": "in the wrong place at the wrong time.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "in the wrong place at the wrong time"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "Let's leave it at that.",
+      "meaning": "就说到这里／不用再深究",
+      "start_cue": 409,
+      "end_cue": 409,
+      "start_time": "00:32:28,247",
+      "end_time": "00:32:30,225",
+      "quote": "We're paying him to do a job, let's just leave it at that.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "Let's leave it at that."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "on such short notice",
+      "meaning": "在通知得如此仓促的情况下",
+      "start_cue": 118,
+      "end_cue": 118,
+      "start_time": "00:08:51,031",
+      "end_time": "00:08:53,951",
+      "quote": "Rich: Thank you for making time for us on such short notice.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e06",
+        "chunk": "on such short notice"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "fall apart",
+      "meaning": "关系破裂／崩溃；此处婚姻",
+      "start_cue": 709,
+      "end_cue": 709,
+      "start_time": "00:46:07,242",
+      "end_time": "00:46:08,330",
+      "quote": "My marriage falling apart.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e06",
+        "chunk": "fall apart"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e08",
+      "chunk": "The clock's ticking.",
+      "meaning": "时间不多了／倒计时在继续",
+      "start_cue": 135,
+      "end_cue": 135,
+      "start_time": "00:08:17,279",
+      "end_time": "00:08:19,194",
+      "quote": "Clock's ticking, Mrs. Goodman.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e06",
+        "chunk": "The clock's ticking."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e06",
+      "chunk": "hold off on sth.",
+      "meaning": "暂缓某事、先别进行",
+      "start_cue": 249,
+      "end_cue": 249,
+      "start_time": "00:18:33,655",
+      "end_time": "00:18:37,492",
+      "quote": "Dorothy, hold off on that call, please. Thanks.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e07",
+        "chunk": "hold off on sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e05",
+      "chunk": "Fair enough.",
+      "meaning": "有道理／可以接受；承认对方理由",
+      "start_cue": 180,
+      "end_cue": 180,
+      "start_time": "00:16:05,882",
+      "end_time": "00:16:10,345",
+      "quote": "Fair enough. I'm ready to discuss the details when you are.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e07",
+        "chunk": "Fair enough."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "tear sb. down",
+      "meaning": "贬低、诋毁某人",
+      "start_cue": 504,
+      "end_cue": 504,
+      "start_time": "00:52:37,436",
+      "end_time": "00:52:40,896",
+      "quote": "Somehow, some way, it benefits you to tear him down.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e07",
+        "chunk": "tear sb. down"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e12",
+      "chunk": "sit tight",
+      "meaning": "耐心等着，先别行动",
+      "start_cue": 460,
+      "end_cue": 460,
+      "start_time": "00:48:56,434",
+      "end_time": "00:48:58,136",
+      "quote": "Breathe deep and sit tight.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e07",
+        "chunk": "sit tight"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e03",
+      "chunk": "put on one's big boy pants",
+      "meaning": "成熟一点、承担现实责任；随意且可能居高临下",
+      "start_cue": 459,
+      "end_cue": 459,
+      "start_time": "00:39:22,444",
+      "end_time": "00:39:28,617",
+      "quote": "Put on your big boy pants and face reality. No one is mistreating you here.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e07",
+        "chunk": "put on one's big-boy pants"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "jump bail",
+      "meaning": "弃保潜逃；法律表达",
+      "start_cue": 123,
+      "end_cue": 124,
+      "start_time": "00:19:53,226",
+      "end_time": "00:19:57,564",
+      "quote": "Seems Salamanca jumped the $7 million he posted in bail and fled to Mexico.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e07",
+        "chunk": "jump bail"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e03",
+      "chunk": "a word of warning",
+      "meaning": "一句提醒／警告",
+      "start_cue": 403,
+      "end_cue": 403,
+      "start_time": "00:34:48,629",
+      "end_time": "00:34:53,133",
+      "quote": "- A word of warning, he's very unpleasant. - Got it.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e08",
+        "chunk": "a word of warning"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "a nice touch",
+      "meaning": "一个不错的细节／点缀",
+      "start_cue": 477,
+      "end_cue": 477,
+      "start_time": "00:51:18,732",
+      "end_time": "00:51:21,693",
+      "quote": "Lady Liberty's a nice touch, though.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e08",
+        "chunk": "a nice touch"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "check on sb.",
+      "meaning": "查看某人是否安好",
+      "start_cue": 33,
+      "end_cue": 34,
+      "start_time": "00:03:31,979",
+      "end_time": "00:03:37,117",
+      "quote": "There's some people I'd like to check on in five or ten years, make sure they're doing okay.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e08",
+        "chunk": "check on sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e04",
+      "chunk": "Be that as it may, …",
+      "meaning": "尽管如此／不管怎样……；正式让步",
+      "start_cue": 57,
+      "end_cue": 57,
+      "start_time": "00:07:04,717",
+      "end_time": "00:07:07,928",
+      "quote": "Be that as it may, even misdemeanours add up,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e08",
+        "chunk": "Be that as it may, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "see fit to do sth.",
+      "meaning": "认为适当而决定做某事；较正式",
+      "start_cue": 507,
+      "end_cue": 507,
+      "start_time": "00:42:07,984",
+      "end_time": "00:42:13,824",
+      "quote": "How can you possibly see fit to separate this beautiful family?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e08",
+        "chunk": "see fit to do sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e03",
+      "chunk": "in one's price range",
+      "meaning": "在能负担的价格范围内",
+      "start_cue": 543,
+      "end_cue": 543,
+      "start_time": "00:47:04,781",
+      "end_time": "00:47:08,034",
+      "quote": "There are some really nice options in your price range.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e08",
+        "chunk": "in one's price range"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "so far, so good",
+      "meaning": "到目前为止一切顺利",
+      "start_cue": 303,
+      "end_cue": 303,
+      "start_time": "00:18:13,416",
+      "end_time": "00:18:16,876",
+      "quote": "Well, so far, so good. It's no Wexler-McGill.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e09",
+        "chunk": "So far so good."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e02",
+      "chunk": "You're a lifesaver.",
+      "meaning": "你真是帮了大忙；感谢",
+      "start_cue": 205,
+      "end_cue": 205,
+      "start_time": "00:19:46,436",
+      "end_time": "00:19:49,022",
+      "quote": "Oh, thanks, Mike. You're a lifesaver.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e09",
+        "chunk": "You're a lifesaver."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e10",
+      "chunk": "You're a lifesaver.",
+      "meaning": "你真是救星／帮大忙了",
+      "start_cue": 462,
+      "end_cue": 462,
+      "start_time": "00:31:40,332",
+      "end_time": "00:31:42,501",
+      "quote": "Oh, my God. You're a lifesaver.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e09",
+        "chunk": "You're a lifesaver."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "get a jump on sth.",
+      "meaning": "提前开始做某事，占个先机",
+      "start_cue": 29,
+      "end_cue": 29,
+      "start_time": "00:04:49,056",
+      "end_time": "00:04:51,592",
+      "quote": "Can't sleep. Figured I'd get a jump on work.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e09",
+        "chunk": "get a jump on sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e03",
+      "chunk": "Don't get me wrong.",
+      "meaning": "别误会我的意思；先澄清再补充",
+      "start_cue": 246,
+      "end_cue": 246,
+      "start_time": "00:23:59,689",
+      "end_time": "00:24:02,567",
+      "quote": "Don't get me wrong, I respect your devotion to your pro bono clients,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e09",
+        "chunk": "Don't get me wrong, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e04",
+      "chunk": "stand by",
+      "meaning": "待命、做好准备",
+      "start_cue": 386,
+      "end_cue": 386,
+      "start_time": "00:28:05,560",
+      "end_time": "00:28:09,063",
+      "quote": "Man: Target is approaching. Position 2, stand by.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e09",
+        "chunk": "Stand by."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e05",
+      "chunk": "have a peek at sth.",
+      "meaning": "瞄一眼／快速看看",
+      "start_cue": 40,
+      "end_cue": 40,
+      "start_time": "00:04:47,997",
+      "end_time": "00:04:50,499",
+      "quote": "I'm sure it is. Can I have a peek at that?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e10",
+        "chunk": "have a peek at sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e04",
+      "chunk": "do whatever it takes",
+      "meaning": "不惜一切办法去做",
+      "start_cue": 479,
+      "end_cue": 479,
+      "start_time": "00:39:33,664",
+      "end_time": "00:39:37,167",
+      "quote": "I'm the guy who'll do whatever it takes to stick it to them.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e10",
+        "chunk": "do whatever it takes"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e07",
+      "chunk": "look down on sb.",
+      "meaning": "看不起某人",
+      "start_cue": 559,
+      "end_cue": 559,
+      "start_time": "00:46:01,092",
+      "end_time": "00:46:03,219",
+      "quote": "You look down on me? You pity me?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e10",
+        "chunk": "look down on sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e01",
+      "chunk": "Keep it that way.",
+      "meaning": "就保持这样；强调别改变当前状态",
+      "start_cue": 10,
+      "end_cue": 10,
+      "start_time": "00:07:36,654",
+      "end_time": "00:07:38,071",
+      "quote": "Keep it that way.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e10",
+        "chunk": "keep it that way"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e07",
+      "chunk": "up close",
+      "meaning": "凑近看／近距离",
+      "start_cue": 259,
+      "end_cue": 259,
+      "start_time": "00:19:08,973",
+      "end_time": "00:19:10,253",
+      "quote": "until I saw the photos up close.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e01",
+        "chunk": "up close"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "give sb. a run for their money",
+      "meaning": "实力足以与某人竞争",
+      "start_cue": 105,
+      "end_cue": 106,
+      "start_time": "00:08:36,088",
+      "end_time": "00:08:39,759",
+      "quote": "Yeah. They give Java Joe's a run for their money, if you ask me.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e01",
+        "chunk": "give sb. a run for their money"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "make an example out of sb.",
+      "meaning": "严惩某人以儆效尤",
+      "start_cue": 576,
+      "end_cue": 576,
+      "start_time": "00:55:39,284",
+      "end_time": "00:55:41,702",
+      "quote": "They will definitely make an example out of you.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e01",
+        "chunk": "make an example out of sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e10",
+      "chunk": "It just slipped out.",
+      "meaning": "一不小心说漏嘴了",
+      "start_cue": 185,
+      "end_cue": 185,
+      "start_time": "00:14:25,732",
+      "end_time": "00:14:26,732",
+      "quote": "Just slipped out.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e02",
+        "chunk": "It just slipped out."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "step up",
+      "meaning": "站出来承担责任／积极行动",
+      "start_cue": 71,
+      "end_cue": 71,
+      "start_time": "00:10:41,041",
+      "end_time": "00:10:44,277",
+      "quote": "It's great to see the next generation stepping up, isn't it?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e02",
+        "chunk": "step up"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "Don't tell me…",
+      "meaning": "别告诉我连……也……；预料坏消息",
+      "start_cue": 121,
+      "end_cue": 121,
+      "start_time": "00:09:16,023",
+      "end_time": "00:09:18,525",
+      "quote": "Ah, don't tell me... Laser tag?",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e03",
+        "chunk": "Don't tell me."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "Help me understand.",
+      "meaning": "请给我解释清楚；可带质疑",
+      "start_cue": 638,
+      "end_cue": 638,
+      "start_time": "00:48:15,326",
+      "end_time": "00:48:17,228",
+      "quote": "Help me understand.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e03",
+        "chunk": "Help me understand."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e10",
+      "chunk": "I'm just browsing.",
+      "meaning": "我只是随便看看；购物拒绝协助",
+      "start_cue": 287,
+      "end_cue": 287,
+      "start_time": "00:22:31,718",
+      "end_time": "00:22:33,152",
+      "quote": "I'm just browsing.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e04",
+        "chunk": "I'm just browsing."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e10",
+      "chunk": "Sounds like a plan.",
+      "meaning": "就这么办／安排不错",
+      "start_cue": 711,
+      "end_cue": 711,
+      "start_time": "00:46:50,775",
+      "end_time": "00:46:52,510",
+      "quote": "Huh, Gene? Sounds like a plan.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e04",
+        "chunk": "Sounds like a plan."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e12",
+      "chunk": "the real deal",
+      "meaning": "真有本事、货真价实的人或物",
+      "start_cue": 395,
+      "end_cue": 395,
+      "start_time": "00:43:40,585",
+      "end_time": "00:43:42,320",
+      "quote": "He the real deal?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e04",
+        "chunk": "the real deal"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "the little guy",
+      "meaning": "普通人／弱势的小人物",
+      "start_cue": 242,
+      "end_cue": 242,
+      "start_time": "00:19:45,252",
+      "end_time": "00:19:48,120",
+      "quote": "What you're doing to help the little guy.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e04",
+        "chunk": "the little guy"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "If you say so.",
+      "meaning": "你说是就是吧；常带保留或不信",
+      "start_cue": 253,
+      "end_cue": 253,
+      "start_time": "00:30:59,058",
+      "end_time": "00:31:00,626",
+      "quote": "If you say so.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e04",
+        "chunk": "If you say so."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "check out",
+      "meaning": "核查后没有问题；资料吻合",
+      "start_cue": 102,
+      "end_cue": 102,
+      "start_time": "00:10:31,704",
+      "end_time": "00:10:35,083",
+      "quote": "It all checks out. Dental records too.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e04",
+        "chunk": "check out"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "Say again?",
+      "meaning": "再说一遍？；电话或通讯口语",
+      "start_cue": 207,
+      "end_cue": 207,
+      "start_time": "00:13:54,167",
+      "end_time": "00:13:55,535",
+      "quote": "Say again, how much?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e05",
+        "chunk": "Say again?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "Knock yourself out.",
+      "meaning": "尽管去做／随你；允许对方尝试",
+      "start_cue": 215,
+      "end_cue": 215,
+      "start_time": "00:13:25,377",
+      "end_time": "00:13:26,754",
+      "quote": "Knock yourself out.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e05",
+        "chunk": "Knock yourself out."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e06",
+      "chunk": "keys to the kingdom",
+      "meaning": "获得关键资源／权力的钥匙；比喻",
+      "start_cue": 211,
+      "end_cue": 211,
+      "start_time": "00:13:08,652",
+      "end_time": "00:13:11,571",
+      "quote": "Black book? Yeah, keys to the kingdom.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e05",
+        "chunk": "keys to the kingdom"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "First things first.",
+      "meaning": "先办最重要的事",
+      "start_cue": 204,
+      "end_cue": 204,
+      "start_time": "00:26:04,964",
+      "end_time": "00:26:06,198",
+      "quote": "First things first.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e06",
+        "chunk": "first things first"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "How's it hanging?",
+      "meaning": "最近怎么样？；很随意的招呼",
+      "start_cue": 244,
+      "end_cue": 244,
+      "start_time": "00:20:26,840",
+      "end_time": "00:20:29,467",
+      "quote": "Great! Thanks. How's it hanging, Steve-O?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e06",
+        "chunk": "How's it hanging?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "All set.",
+      "meaning": "准备好了／安排妥了",
+      "start_cue": 54,
+      "end_cue": 54,
+      "start_time": "00:16:27,454",
+      "end_time": "00:16:28,454",
+      "quote": "All set.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e07",
+        "chunk": "All set."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e01",
+      "chunk": "You can't miss it.",
+      "meaning": "你一看就能找到；指目标显眼",
+      "start_cue": 481,
+      "end_cue": 481,
+      "start_time": "00:44:26,236",
+      "end_time": "00:44:28,738",
+      "quote": "Okay. It's the middle one. You can't miss it.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e08",
+        "chunk": "You can't miss it."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "go easy on sth.",
+      "meaning": "对某事收敛些／别做过头；此处别太多威胁",
+      "start_cue": 529,
+      "end_cue": 529,
+      "start_time": "00:53:42,125",
+      "end_time": "00:53:44,669",
+      "quote": "Okay, let's just go easy on the threats.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e08",
+        "chunk": "go easy on sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e01",
+      "chunk": "lie low",
+      "meaning": "暂时躲起来避风头",
+      "start_cue": 26,
+      "end_cue": 26,
+      "start_time": "00:08:15,819",
+      "end_time": "00:08:17,820",
+      "quote": "I'm fixing up a place for you to lie low.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e08",
+        "chunk": "lie low"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "go about one's business",
+      "meaning": "照常做自己的事",
+      "start_cue": 427,
+      "end_cue": 427,
+      "start_time": "00:33:41,134",
+      "end_time": "00:33:43,844",
+      "quote": "let them go about their business.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e09",
+        "chunk": "go about one's business"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e04",
+      "chunk": "And for what?",
+      "meaning": "那又为了什么？；批评付出或结果不值得",
+      "start_cue": 289,
+      "end_cue": 289,
+      "start_time": "00:23:31,400",
+      "end_time": "00:23:32,692",
+      "quote": "And for what?",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e09",
+        "chunk": "And for what?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e13",
+      "chunk": "hang over one's head",
+      "meaning": "一直悬着、构成威胁",
+      "start_cue": 504,
+      "end_cue": 504,
+      "start_time": "00:38:11,222",
+      "end_time": "00:38:13,925",
+      "quote": "Kim's already got a civil suit hanging over her head.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e09",
+        "chunk": "hang over one's head"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "What are you getting at?",
+      "meaning": "你到底想说什么？；询问言外之意",
+      "start_cue": 143,
+      "end_cue": 143,
+      "start_time": "00:20:51,651",
+      "end_time": "00:20:53,320",
+      "quote": "What are you getting at?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e09",
+        "chunk": "What are you getting at?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e03",
+      "chunk": "tip one's hand",
+      "meaning": "泄露自己的打算／底牌",
+      "start_cue": 82,
+      "end_cue": 82,
+      "start_time": "00:17:29,882",
+      "end_time": "00:17:31,682",
+      "quote": "I mean, there's a dozen ways we tip our hand.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e10",
+        "chunk": "tip one's hand"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e01",
+      "chunk": "What's the harm in doing sth.?",
+      "meaning": "做某事又有什么坏处呢？；试探劝说",
+      "start_cue": 319,
+      "end_cue": 319,
+      "start_time": "00:30:03,458",
+      "end_time": "00:30:05,252",
+      "quote": "What's the harm in listening?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e10",
+        "chunk": "What's the harm in doing sth.?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "level with sb.",
+      "meaning": "跟某人说实话／坦诚相告",
+      "start_cue": 80,
+      "end_cue": 80,
+      "start_time": "00:11:05,132",
+      "end_time": "00:11:07,100",
+      "quote": "But I'm gonna level with you.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e10",
+        "chunk": "level with sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "last I heard",
+      "meaning": "据我最近一次听到的消息",
+      "start_cue": 162,
+      "end_cue": 162,
+      "start_time": "00:10:45,946",
+      "end_time": "00:10:47,781",
+      "quote": "so last I heard, he walked.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e10",
+        "chunk": "Last I heard, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e02",
+      "chunk": "the odds are…",
+      "meaning": "很可能……；对可能性作判断",
+      "start_cue": 446,
+      "end_cue": 446,
+      "start_time": "00:47:36,260",
+      "end_time": "00:47:39,179",
+      "quote": "So the odds are he's searching for Varga.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s01e03",
+        "chunk": "Odds are,…"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e09",
+      "chunk": "get one's shit together",
+      "meaning": "把自己整顿好、别再乱来；粗俗",
+      "start_cue": 635,
+      "end_cue": 635,
+      "start_time": "00:56:33,724",
+      "end_time": "00:56:36,018",
+      "quote": "Jesus, get your shit together.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s04e06",
+        "chunk": "Get your shit together."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e09",
+      "chunk": "hang over one's head",
+      "meaning": "某事一直压着自己、带来压力",
+      "start_cue": 466,
+      "end_cue": 466,
+      "start_time": "00:45:29,102",
+      "end_time": "00:45:31,104",
+      "quote": "without mesa verde hanging over my head.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "hang over sb.'s head"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e09",
+      "chunk": "say one's piece",
+      "meaning": "把自己的意见说完",
+      "start_cue": 386,
+      "end_cue": 386,
+      "start_time": "00:44:26,098",
+      "end_time": "00:44:28,317",
+      "quote": "Shh. Just let me say my piece, okay?",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s05e07",
+        "chunk": "Say your piece."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s04e04",
+      "chunk": "a conflict of interest",
+      "meaning": "利益冲突；法律／商业用语",
+      "start_cue": 151,
+      "end_cue": 151,
+      "start_time": "00:13:30,435",
+      "end_time": "00:13:32,604",
+      "quote": "You wanted to discuss the conflict of interest.",
+      "id": "S04E04-032",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s02e07",
+        "chunk": "conflict of interest"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e12",
+      "chunk": "in one's possession",
+      "meaning": "在某人手中／由某人持有",
+      "start_cue": 454,
+      "end_cue": 454,
+      "start_time": "00:48:42,653",
+      "end_time": "00:48:44,089",
+      "quote": "Was it in your possession?",
+      "selection_pass": 2,
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s03e05",
+        "chunk": "in sb.'s possession"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e11",
+      "chunk": "get one's hands on sth.",
+      "meaning": "设法弄到某物",
+      "start_cue": 259,
+      "end_cue": 259,
+      "start_time": "00:18:07,854",
+      "end_time": "00:18:10,557",
+      "quote": "After that, we need to get our hands on some barbiturates.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "get your hands on sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e01",
+      "chunk": "a false alarm",
+      "meaning": "虚惊一场；并非真的出了事",
+      "start_cue": 16,
+      "end_cue": 16,
+      "start_time": "00:03:12,401",
+      "end_time": "00:03:15,279",
+      "quote": "Yeah, I'm fine. It was a false alarm.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s04e01",
+        "chunk": "false alarm"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s05e05",
+      "chunk": "watch one's step",
+      "meaning": "留神脚下；此处字面提醒",
+      "start_cue": 247,
+      "end_cue": 247,
+      "start_time": "00:22:16,002",
+      "end_time": "00:22:19,088",
+      "quote": "Sir, sir, please watch your step. Stop right there!",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s04e10",
+        "chunk": "Watch your step."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "episode": "s06e05",
+      "chunk": "hold up one's end",
+      "meaning": "做好自己那一份／履行责任",
+      "start_cue": 300,
+      "end_cue": 300,
+      "start_time": "00:23:06,318",
+      "end_time": "00:23:08,855",
+      "quote": "I think you can hold up your end.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s02e06",
+        "chunk": "hold up my end"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "same_form_distinct_meanings_preserved": [
+    {
+      "normalized": "give sb a hand",
+      "reason": "鼓掌与帮忙",
+      "episodes": [
+        "s03e10",
+        "s06e07"
+      ]
+    },
+    {
+      "normalized": "be on the clock",
+      "reason": "计时与按工时计费",
+      "episodes": [
+        "s04e02",
+        "s06e11"
+      ]
+    },
+    {
+      "normalized": "pull the trigger",
+      "reason": "字面开枪与比喻拍板",
+      "episodes": [
+        "s05e06",
+        "s06e02"
+      ]
+    },
+    {
+      "normalized": "conk out",
+      "reason": "睡着与机器停转",
+      "episodes": [
+        "s05e07",
+        "s06e10"
+      ]
+    },
+    {
+      "normalized": "live with that",
+      "reason": "接受安排与长期承受愧疚",
+      "episodes": [
+        "s06e13",
+        "s06e13"
+      ]
+    }
+  ],
+  "scope": "S03–S06; S01–S02 files not mutated"
+}

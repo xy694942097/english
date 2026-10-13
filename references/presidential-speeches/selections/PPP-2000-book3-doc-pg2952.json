@@ -1,0 +1,359 @@
+{
+  "source_id": "PPP-2000-book3-doc-pg2952",
+  "html_source": "materials/corpus/presidential-speeches/govinfo/PPP-2000-book3-doc-pg2952.htm",
+  "source_sha256": "1492488fbb516c477cb7f0fa688282e79f0d01d4f2d8dab36591dc09b60a3b13",
+  "paragraphs_read": 18,
+  "read_ranges": [
+    [
+      1,
+      18
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        18
+      ]
+    ],
+    "method": "逐项回看首遍未选句段，补充责任、决心、时间限定、能力对照和必要条件等表达；独立复核纠正George W.被错误断句。",
+    "added": 3
+  },
+  "items": [
+    {
+      "chunk": "be grateful to sb. for sth.",
+      "meaning": "由衷、非常感激某人",
+      "register": "正式",
+      "note": "比普通thanks更郑重。",
+      "paragraph": 1,
+      "quote": "I am profoundly grateful to you for twice giving me the honor to serve, to work for you and with you to prepare our Nation for the 21st century.",
+      "original_chunk": "be profoundly grateful to sb.",
+      "quote_sha256": "774b38c856a7bf2318e7ec166598ab6b7c1de3602b1d47b087d7e6831faf2867"
+    },
+    {
+      "chunk": "rise to a challenge",
+      "meaning": "迎接挑战并作出有力应对",
+      "register": "中性",
+      "note": "rise to不是把挑战升高。",
+      "paragraph": 3,
+      "quote": "This has been a time of dramatic transformation, and you have risen to every new challenge.",
+      "quote_sha256": "90761a20b302327fdc1c3f02a11ba92011378aa2dc7eccc9dee7fba9fcacf95e"
+    },
+    {
+      "chunk": "the social fabric",
+      "meaning": "社会联系与秩序构成的整体",
+      "register": "正式",
+      "note": "fabric比喻人群、制度、关系组成的结构。",
+      "paragraph": 3,
+      "quote": "You have made our social fabric stronger, our families healthier and safer, our people more prosperous.",
+      "quote_sha256": "6bf03bd85eef5d90c080a4e64a68353d9f08a99c0a31d73b931c29853c856199"
+    },
+    {
+      "chunk": "steer one's course by sth.",
+      "meaning": "以某种原则为自己的行动导航",
+      "register": "正式",
+      "note": "以航行为比喻，可用于人生或组织方向。",
+      "paragraph": 5,
+      "quote": "I have steered my course by our enduring values: opportunity for all, responsibility from all, a community of all Americans.",
+      "quote_sha256": "28a40827f96fa40e311cc0ba76c0fe7838be0f8324604815ccf80a2e9b0a7222"
+    },
+    {
+      "chunk": "put people first",
+      "meaning": "把人放在首位／优先考虑人的需要",
+      "register": "中性",
+      "note": "可用于服务或组织理念。",
+      "paragraph": 5,
+      "quote": "I have sought to give America a new kind of Government, smaller, more modern, more effective, full of ideas and policies appropriate to this new time, always putting people first, always focusing on the future.",
+      "quote_sha256": "dea4bca42fab3450786cdb4b5d15e96231d783a6516bc512430c16fbe6386521"
+    },
+    {
+      "chunk": "break records",
+      "meaning": "打破纪录",
+      "register": "中性",
+      "note": "record此处为最高或最低记录，不是文件。",
+      "paragraph": 6,
+      "quote": "Our economy is breaking records with more than 22 million new jobs, the lowest unemployment in 30 years, the highest homeownership ever, the longest expansion in history.",
+      "quote_sha256": "55977e54942885eca999d4243adce48c3ef50132bed54f53574789c80e20903f"
+    },
+    {
+      "chunk": "lift sb. out of poverty",
+      "meaning": "帮助某人摆脱贫困",
+      "register": "正式",
+      "note": "常用被动形式，行动者由语境决定。",
+      "paragraph": 6,
+      "quote": "More than 3 million children have health insurance now, and more than 7 million Americans have been lifted out of poverty.",
+      "quote_sha256": "27daaa30218c697ffd4a9980b92d2c1a30ae4235e29f1bf3e7ef213e6d89ead9"
+    },
+    {
+      "chunk": "across the board",
+      "meaning": "全面地／在各个方面或群体中",
+      "register": "中性",
+      "note": "不只在董事会里。",
+      "paragraph": 6,
+      "quote": "Incomes are rising across the board.",
+      "quote_sha256": "620ffbe4504b8ff534086f5d89286e8768be13cbd3b31d378b2d0d153073fee2"
+    },
+    {
+      "chunk": "in every corner of the globe",
+      "meaning": "遍及全球每个角落",
+      "register": "正式",
+      "note": "泛指广泛范围，带演讲夸张。",
+      "paragraph": 7,
+      "quote": "America has been a force for peace and prosperity in every corner of the globe.",
+      "quote_sha256": "2ca718bc264d5ca50a0c8d85ee79a0e4d229a0108c38f18f4da1ad5b63bc8a4f"
+    },
+    {
+      "chunk": "turn over the reins to sb.",
+      "meaning": "把领导权／控制权交给某人",
+      "register": "正式",
+      "note": "reins是缰绳的领导权比喻。",
+      "paragraph": 7,
+      "quote": "I'm very grateful to be able to turn over the reins of leadership to a new President with America in such a strong position to meet the challenges of the future.",
+      "quote_sha256": "93e20f75e8b0d15720b7b141be8610fa60b9237cb0f277c95935601c9423fc47"
+    },
+    {
+      "chunk": "leave sb. with … thoughts",
+      "meaning": "临别时留给某人几个想法／建议",
+      "register": "中性",
+      "note": "用于结束发言或总结。",
+      "paragraph": 8,
+      "quote": "Tonight I want to leave you with three thoughts about our future.",
+      "quote_sha256": "019700d8e4951bbc8e8d83bd8579750939ca0b9d168d02bcea17f8b319e6a689"
+    },
+    {
+      "chunk": "fiscal responsibility",
+      "meaning": "财政纪律／负责任的预算管理",
+      "register": "正式",
+      "note": "公共政策搭配。",
+      "paragraph": 9,
+      "quote": "First, America must maintain our record of fiscal responsibility.",
+      "quote_sha256": "5b69d57a16e6173df8c2693000133546fee52768e3560c9a9f17cf238f378225"
+    },
+    {
+      "chunk": "pay down debt",
+      "meaning": "逐步偿还、降低债务余额",
+      "register": "中性",
+      "note": "不等于一次全部付清。",
+      "paragraph": 9,
+      "quote": "Through our last four budgets we've turned record deficits to record surpluses, and we've been able to pay down $600 billion of our national debt--on track to be debt-free by the end of the decade for the first time since 1835.",
+      "quote_sha256": "8721b54ded5e13d11a4d1ab3c584e3851d40d01732366c91692326fc90afef6d"
+    },
+    {
+      "chunk": "on track to do sth.",
+      "meaning": "按目前进展有望做到某事",
+      "register": "中性",
+      "note": "表示轨迹或趋势，不是绝对保证。",
+      "paragraph": 9,
+      "quote": "Through our last four budgets we've turned record deficits to record surpluses, and we've been able to pay down $600 billion of our national debt--on track to be debt-free by the end of the decade for the first time since 1835.",
+      "quote_sha256": "8721b54ded5e13d11a4d1ab3c584e3851d40d01732366c91692326fc90afef6d"
+    },
+    {
+      "chunk": "provide tax relief",
+      "meaning": "提供税收减免／减轻税负",
+      "register": "正式",
+      "note": "公共政策搭配。",
+      "paragraph": 9,
+      "quote": "If we choose wisely, we can pay down the debt, deal with the retirement of the baby boomers, invest more in our future, and provide tax relief.",
+      "quote_sha256": "ebe495b3756d827398f4369656c6e93d5088540e5177d6cf0717ab3cfc752a97"
+    },
+    {
+      "chunk": "look to sb. to do sth.",
+      "meaning": "期待、依靠某人去做某事",
+      "register": "中性",
+      "note": "区别于仅朝某方向看。",
+      "paragraph": 10,
+      "quote": "People all around the world look to America to be a force for peace and prosperity, freedom and security.",
+      "quote_sha256": "7a868d8cabbdf00895ed0babc1bb53f6e6f314c13193c96d83633e3e3932c2c1"
+    },
+    {
+      "chunk": "be subject to sth.",
+      "meaning": "受到某种影响、约束或风险",
+      "register": "正式",
+      "note": "不只表示某门科目的subject。",
+      "paragraph": 10,
+      "quote": "But the forces of integration that have created these good opportunities also make us more subject to global forces of destruction, to terrorism, organized crime and narcotrafficking, the spread of deadly weapons and disease, the degradation of the global environment.",
+      "quote_sha256": "653b3728a56d54830db718fcb4969101ff8f84376ea6dd44957f82b94a6c5c7b"
+    },
+    {
+      "chunk": "close the gap between A and B",
+      "meaning": "缩小A与B之间的差距",
+      "register": "中性",
+      "note": "可描述技能、收入或表现差距。",
+      "paragraph": 11,
+      "quote": "The expansion of trade hasn't fully closed the gap between those of us who live on the cutting edge of the global economy and the billions around the world who live on the knife's edge of survival.",
+      "quote_sha256": "3f340bc7cfc281d57d096946ab545357f268fd74f4d862b3b22b84a3277124e3"
+    },
+    {
+      "chunk": "on the cutting edge of sth.",
+      "meaning": "处于某领域最前沿",
+      "register": "中性",
+      "note": "不是切东西的边缘。",
+      "paragraph": 11,
+      "quote": "The expansion of trade hasn't fully closed the gap between those of us who live on the cutting edge of the global economy and the billions around the world who live on the knife's edge of survival.",
+      "quote_sha256": "3f340bc7cfc281d57d096946ab545357f268fd74f4d862b3b22b84a3277124e3"
+    },
+    {
+      "chunk": "on the knife's edge of sth.",
+      "meaning": "处于某种危险局面的边缘",
+      "register": "演讲",
+      "note": "本句指生存岌岌可危，属强烈比喻。 不把完整on the knife's edge of sth.断言为日常高频固定形式。",
+      "paragraph": 11,
+      "quote": "The expansion of trade hasn't fully closed the gap between those of us who live on the cutting edge of the global economy and the billions around the world who live on the knife's edge of survival.",
+      "quote_sha256": "3f340bc7cfc281d57d096946ab545357f268fd74f4d862b3b22b84a3277124e3"
+    },
+    {
+      "chunk": "It requires more than A; it requires B.",
+      "meaning": "光有A还不够，还需要B",
+      "register": "中性",
+      "note": "用递进修正“只有态度足够”的想法。",
+      "paragraph": 11,
+      "quote": "This global gap requires more than compassion; it requires action.",
+      "quote_sha256": "a979a17ff36f38562584a35b42119d88e7d27e1298c2c5b42a86c1295f376827"
+    },
+    {
+      "chunk": "a powder keg",
+      "meaning": "一触即发的危险局面／潜在危机",
+      "register": "正式",
+      "note": "原指火药桶，此处为比喻。",
+      "paragraph": 11,
+      "quote": "Global poverty is a powder keg that could be ignited by our indifference.",
+      "quote_sha256": "a0bee54a810bcb0b8db2b8231f40adcfcba113f95956d9b2185a732fb8469268"
+    },
+    {
+      "chunk": "If we want …, then we must …",
+      "meaning": "要实现某目标，就必须采取某种行动",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 12,
+      "quote": "If we want the world to embody our shared values, then we must assume a shared responsibility.",
+      "quote_sha256": "2f5a8212aad4e841f746fbd78e749a242d2517b227055d628df08189dcfd5e50"
+    },
+    {
+      "chunk": "If … have taught us anything, it is that …",
+      "meaning": "如果……让我们学到了什么，那就是……",
+      "register": "正式",
+      "note": "从经历引出核心教训，不必用战争作主语。",
+      "paragraph": 13,
+      "quote": "If the wars of the 20th century, especially the recent ones in Kosovo and Bosnia, have taught us anything, it is that we achieve our aims by defending our values and leading the forces of freedom and peace.",
+      "quote_sha256": "1e850a2fd7afb9897eacaeb157e29444d49ac893d45f3081787d11f8640eb62e"
+    },
+    {
+      "chunk": "achieve one's aims",
+      "meaning": "实现目标",
+      "register": "中性",
+      "note": "aims偏目的、目标，不是瞄准动作。",
+      "paragraph": 13,
+      "quote": "If the wars of the 20th century, especially the recent ones in Kosovo and Bosnia, have taught us anything, it is that we achieve our aims by defending our values and leading the forces of freedom and peace.",
+      "quote_sha256": "1e850a2fd7afb9897eacaeb157e29444d49ac893d45f3081787d11f8640eb62e"
+    },
+    {
+      "chunk": "in word and deed",
+      "meaning": "在言语和行动上都……",
+      "register": "正式",
+      "note": "强调说与做一致。",
+      "paragraph": 13,
+      "quote": "We must embrace boldly and resolutely that duty to lead--to stand with our allies in word and deed and to put a human face on the global economy, so that expanded trade benefits all peoples in all nations, lifting lives and hopes all across the world.",
+      "quote_sha256": "6cdc3fa842091f0139b7be23ca8bb32c7a0b51cdd58923964f50b2b8c1deea9c"
+    },
+    {
+      "chunk": "put a human face on sth.",
+      "meaning": "让某个抽象过程体现人的处境和需要",
+      "register": "正式",
+      "note": "不只是给某物贴上人脸。",
+      "paragraph": 13,
+      "quote": "We must embrace boldly and resolutely that duty to lead--to stand with our allies in word and deed and to put a human face on the global economy, so that expanded trade benefits all peoples in all nations, lifting lives and hopes all across the world.",
+      "quote_sha256": "6cdc3fa842091f0139b7be23ca8bb32c7a0b51cdd58923964f50b2b8c1deea9c"
+    },
+    {
+      "chunk": "unite around common values",
+      "meaning": "围绕共同价值团结起来",
+      "register": "正式",
+      "note": "around连接共同的中心或目标。",
+      "paragraph": 14,
+      "quote": "As we become ever more diverse, we must work harder to unite around our common values and our common humanity.",
+      "quote_sha256": "d390bed1a0604b983b750ae78758840f9cb384c762fbff959c21425eda8398d3"
+    },
+    {
+      "chunk": "overcome one's differences",
+      "meaning": "克服彼此分歧",
+      "register": "中性",
+      "note": "不表示个性差异必须被消灭，具体看语境。",
+      "paragraph": 14,
+      "quote": "We must work harder to overcome our differences, in our hearts and in our laws.",
+      "quote_sha256": "55c6c7eb341d49a3fcbf1980a88860fc2272fc2096cc6f252aa5400a8d4ac920"
+    },
+    {
+      "chunk": "regardless of sth.",
+      "meaning": "不论某事／不受该因素影响",
+      "register": "中性",
+      "note": "后接名词或从句，与despite有区别。",
+      "paragraph": 14,
+      "quote": "We must treat all our people with fairness and dignity, regardless of their race, religion, gender, or sexual orientation, and regardless of when they arrived in our country--always moving toward the more perfect Union of our Founders' dreams.",
+      "quote_sha256": "96413842c2f086c31352b99b76df87a3b733a9fe76ee90e10ed8546a5d6b51a8"
+    },
+    {
+      "chunk": "wish sb. one's very best",
+      "meaning": "向某人致以最诚挚的祝愿",
+      "register": "正式",
+      "note": "常用于告别或交接。",
+      "paragraph": 15,
+      "quote": "Hillary, Chelsea, and I join all Americans in wishing our very best to the next President, George W. Bush, to his family and his administration, in meeting these challenges, and in leading freedom's march in this new century.",
+      "quote_sha256": "267c8c2feb65fb8a5e24b086843c1c2db4e7a85fa279fb48a1fd958d5ec445ee"
+    },
+    {
+      "chunk": "one's best days lie ahead",
+      "meaning": "最好的日子还在前面",
+      "register": "演讲",
+      "note": "积极愿景，不是可验证的未来保证。",
+      "paragraph": 16,
+      "quote": "As for me, I'll leave the Presidency more idealistic, more full of hope than the day I arrived, and more confident than ever that America's best days lie ahead.",
+      "quote_sha256": "4cacb0c56a9d7f79394d3823caf274fe5175b1be02badfda7091246c577d9c30"
+    },
+    {
+      "chunk": "As for me, …",
+      "meaning": "至于我……；转向自己的情况",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 16,
+      "quote": "As for me, I'll leave the Presidency more idealistic, more full of hope than the day I arrived, and more confident than ever that America's best days lie ahead.",
+      "quote_sha256": "4cacb0c56a9d7f79394d3823caf274fe5175b1be02badfda7091246c577d9c30"
+    },
+    {
+      "chunk": "more … than ever",
+      "meaning": "比以往任何时候都更……",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 16,
+      "quote": "As for me, I'll leave the Presidency more idealistic, more full of hope than the day I arrived, and more confident than ever that America's best days lie ahead.",
+      "quote_sha256": "4cacb0c56a9d7f79394d3823caf274fe5175b1be02badfda7091246c577d9c30"
+    },
+    {
+      "chunk": "In the years ahead, …",
+      "meaning": "在未来的岁月里……",
+      "register": "中性",
+      "note": "比next year覆盖更宽时间。",
+      "paragraph": 17,
+      "quote": "In the years ahead, I will never hold a position higher or a covenant more sacred than that of President of the United States.",
+      "quote_sha256": "9ab55be977ce0231ac824031541c3121b3c052e9cd79817a05f1688d8dc0e4bd"
+    },
+    {
+      "chunk": "There is no … I will … more … than …",
+      "meaning": "没有什么……比……更令我……；最高评价框架",
+      "register": "正式",
+      "note": "保持比较对象和被评价维度；原例表达身份自豪。",
+      "paragraph": 17,
+      "quote": "But there is no title I will wear more proudly than that of citizen.",
+      "quote_sha256": "708e0c2103d3c81874ca063242eede5858a5e80a4b4c0449e93d808c0f7b2042"
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [],
+  "vocabulary_candidates": [
+    "steadfastness",
+    "posterity",
+    "pretense",
+    "narcotrafficking",
+    "acrimony"
+  ]
+}

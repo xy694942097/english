@@ -1,0 +1,911 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S05/Better.Call.Saul.S05E01.en.srt",
+  "sha256": "2474c3992e2aedf40819b9f230afe6b3d1865cf192e1ac0579b598335ffd7961",
+  "subtitle_blocks_read": 649,
+  "max_cue": 649,
+  "read_batches": [
+    [
+      1,
+      649
+    ]
+  ],
+  "selection_status": "Candidates, pending user screening",
+  "items": [
+    {
+      "chunk": "take off on foot",
+      "meaning": "拔腿跑掉；这里指步行逃走",
+      "start_cue": 2,
+      "end_cue": 2,
+      "start_time": "00:01:50,736",
+      "end_time": "00:01:54,240",
+      "quote": "Nine juveniles with spray cans, uh, took off on foot.",
+      "id": "S05E01-001"
+    },
+    {
+      "chunk": "freshen sb.'s coffee",
+      "meaning": "给咖啡续杯／添些热咖啡；服务用语，原句省略coffee",
+      "start_cue": 13,
+      "end_cue": 13,
+      "start_time": "00:02:50,963",
+      "end_time": "00:02:53,090",
+      "quote": "Can I at least freshen that for you?",
+      "id": "S05E01-002"
+    },
+    {
+      "chunk": "sign for a delivery",
+      "meaning": "签收送来的货物",
+      "start_cue": 23,
+      "end_cue": 23,
+      "start_time": "00:03:36,634",
+      "end_time": "00:03:42,723",
+      "quote": "And, um, also I think you're gonna have to sign for a delivery this afternoon.",
+      "id": "S05E01-003"
+    },
+    {
+      "chunk": "hang around",
+      "meaning": "在某处徘徊／逗留",
+      "start_cue": 27,
+      "end_cue": 27,
+      "start_time": "00:03:57,905",
+      "end_time": "00:03:59,698",
+      "quote": "Somebody hanging around or...?",
+      "id": "S05E01-004"
+    },
+    {
+      "chunk": "up close",
+      "meaning": "近距离地；靠近看",
+      "start_cue": 57,
+      "end_cue": 57,
+      "start_time": "00:07:17,438",
+      "end_time": "00:07:20,149",
+      "quote": "I wasn't all the way sure, but now that I'm seeing you up close,",
+      "id": "S05E01-005"
+    },
+    {
+      "chunk": "I'm not all the way sure.",
+      "meaning": "我还不是完全确定；all the way强调完全",
+      "start_cue": 57,
+      "end_cue": 58,
+      "start_time": "00:07:17,438",
+      "end_time": "00:07:22,818",
+      "quote": "I wasn't all the way sure, but now that I'm seeing you up close, sure, it's you.",
+      "id": "S05E01-006"
+    },
+    {
+      "chunk": "get sb. mixed up with sb. else",
+      "meaning": "把某人错认成另一个人",
+      "start_cue": 63,
+      "end_cue": 63,
+      "start_time": "00:07:40,794",
+      "end_time": "00:07:42,963",
+      "quote": "You got me mixed up with someone.",
+      "id": "S05E01-007"
+    },
+    {
+      "chunk": "There we go.",
+      "meaning": "这就对了；满意地确认对方做到了",
+      "start_cue": 87,
+      "end_cue": 87,
+      "start_time": "00:09:18,934",
+      "end_time": "00:09:20,144",
+      "quote": "There we go.",
+      "id": "S05E01-008"
+    },
+    {
+      "chunk": "You didn't ask, but…",
+      "meaning": "虽然你没问，不过……；主动补充",
+      "start_cue": 89,
+      "end_cue": 89,
+      "start_time": "00:09:29,278",
+      "end_time": "00:09:32,197",
+      "quote": "You didn't ask, but the name's Jeff.",
+      "id": "S05E01-009"
+    },
+    {
+      "chunk": "cash on delivery",
+      "meaning": "货到付款",
+      "start_cue": 108,
+      "end_cue": 108,
+      "start_time": "00:11:30,983",
+      "end_time": "00:11:35,153",
+      "quote": "And we are still in a cash-on-delivery situation. Uh...",
+      "id": "S05E01-010"
+    },
+    {
+      "chunk": "get made",
+      "meaning": "身份被认出来／暴露；犯罪语境口语",
+      "start_cue": 111,
+      "end_cue": 111,
+      "start_time": "00:11:41,285",
+      "end_time": "00:11:44,663",
+      "quote": "- How hot are you? - I got made.",
+      "id": "S05E01-011"
+    },
+    {
+      "chunk": "have it all figured out",
+      "meaning": "已经把整件事想明白了",
+      "start_cue": 143,
+      "end_cue": 143,
+      "start_time": "00:14:49,264",
+      "end_time": "00:14:53,101",
+      "quote": "All of a sudden, I've got it all figured out. But I... I do.",
+      "id": "S05E01-012"
+    },
+    {
+      "chunk": "Is there some angle I'm not seeing?",
+      "meaning": "是不是有我没考虑到的方面？；检查盲点",
+      "start_cue": 147,
+      "end_cue": 147,
+      "start_time": "00:15:03,737",
+      "end_time": "00:15:06,865",
+      "quote": "Unless, is there some angle that I'm not seeing here?",
+      "id": "S05E01-013"
+    },
+    {
+      "chunk": "slow sb.'s roll",
+      "meaning": "放慢节奏、别急着推进；美式随意口语",
+      "start_cue": 148,
+      "end_cue": 148,
+      "start_time": "00:15:06,948",
+      "end_time": "00:15:11,161",
+      "quote": "If you want me to slow my roll, I can come back and do this another day.",
+      "id": "S05E01-014",
+      "original_chunk": "slow one's roll"
+    },
+    {
+      "chunk": "Five minutes max.",
+      "meaning": "最多五分钟；口语时间上限",
+      "start_cue": 150,
+      "end_cue": 150,
+      "start_time": "00:15:17,626",
+      "end_time": "00:15:20,754",
+      "quote": "- I say sure. - Great. Five minutes Max.",
+      "id": "S05E01-015"
+    },
+    {
+      "chunk": "be stepped on",
+      "meaning": "毒品被掺东西稀释；犯罪俚语，仅此语境",
+      "start_cue": 181,
+      "end_cue": 181,
+      "start_time": "00:17:31,134",
+      "end_time": "00:17:34,512",
+      "quote": "Couple of skells on fourth have been complaining that this stuff is stepped on.",
+      "id": "S05E01-016"
+    },
+    {
+      "chunk": "give sb. a run for their money",
+      "meaning": "让对方遇到强劲对手；实力不容小觑",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:23:15,311",
+      "end_time": "00:23:19,148",
+      "quote": "Because Saul Goodman is gonna give you a run for your money.",
+      "id": "S05E01-017"
+    },
+    {
+      "chunk": "The real trick is to do sth.",
+      "meaning": "真正难的／关键的一步是……",
+      "start_cue": 237,
+      "end_cue": 239,
+      "start_time": "00:23:37,250",
+      "end_time": "00:23:45,883",
+      "quote": "The real trick is gonna be to get my clients to know that the cell-phone guy is now a lawyer. - Their lawyer. - Yep, that'll be a trick.",
+      "id": "S05E01-018"
+    },
+    {
+      "chunk": "What I'm thinking is…",
+      "meaning": "我的想法是……；提出方案",
+      "start_cue": 240,
+      "end_cue": 242,
+      "start_time": "00:23:51,139",
+      "end_time": "00:23:57,604",
+      "quote": "What I'm thinking is, see, I've still got almost a full pallet of cell phones left, so why not run a promotion?",
+      "id": "S05E01-019"
+    },
+    {
+      "chunk": "make an event out of sth.",
+      "meaning": "把某事办成一次活动、搞出声势",
+      "start_cue": 243,
+      "end_cue": 243,
+      "start_time": "00:23:57,687",
+      "end_time": "00:24:01,524",
+      "quote": "I'll make a real event out of it. I'll give them away, okay?",
+      "id": "S05E01-020"
+    },
+    {
+      "chunk": "limited time only",
+      "meaning": "仅限一段时间；促销用语",
+      "start_cue": 245,
+      "end_cue": 245,
+      "start_time": "00:24:04,902",
+      "end_time": "00:24:07,071",
+      "quote": "limited time only,",
+      "id": "S05E01-021"
+    },
+    {
+      "chunk": "get sb. hooked",
+      "meaning": "让某人被吸引住、上钩；这里指成为客户",
+      "start_cue": 251,
+      "end_cue": 251,
+      "start_time": "00:24:25,381",
+      "end_time": "00:24:29,969",
+      "quote": "Get people in the door, once they're hooked, I will up sell them.",
+      "id": "S05E01-022"
+    },
+    {
+      "chunk": "rain or shine",
+      "meaning": "不管天气好坏／无论如何照常进行",
+      "start_cue": 256,
+      "end_cue": 257,
+      "start_time": "00:24:44,025",
+      "end_time": "00:24:48,780",
+      "quote": "Rain or shine, these morons will be out there doing stupid shit and getting arrested for it.",
+      "id": "S05E01-023"
+    },
+    {
+      "chunk": "not make a bit of difference",
+      "meaning": "一点影响都没有",
+      "start_cue": 258,
+      "end_cue": 258,
+      "start_time": "00:24:48,863",
+      "end_time": "00:24:50,865",
+      "quote": "Little discount won't make a bit of difference.",
+      "id": "S05E01-024"
+    },
+    {
+      "chunk": "When you're right, you're right.",
+      "meaning": "你说得对，我得承认；承认对方有道理",
+      "start_cue": 262,
+      "end_cue": 262,
+      "start_time": "00:25:02,377",
+      "end_time": "00:25:04,587",
+      "quote": "You know what, when you're right, you're right.",
+      "id": "S05E01-025"
+    },
+    {
+      "chunk": "go too far",
+      "meaning": "做得过头、越过限度",
+      "start_cue": 264,
+      "end_cue": 264,
+      "start_time": "00:25:15,556",
+      "end_time": "00:25:19,727",
+      "quote": "This is why this works. I go too far, and you pull me back.",
+      "id": "S05E01-026"
+    },
+    {
+      "chunk": "sell oneself short",
+      "meaning": "低估自己的价值／把自己看轻",
+      "start_cue": 265,
+      "end_cue": 265,
+      "start_time": "00:25:23,940",
+      "end_time": "00:25:26,818",
+      "quote": "Don't you think you're selling yourself short?",
+      "id": "S05E01-027"
+    },
+    {
+      "chunk": "Did I keep you waiting?",
+      "meaning": "让你久等了吗？",
+      "start_cue": 278,
+      "end_cue": 278,
+      "start_time": "00:27:11,380",
+      "end_time": "00:27:12,924",
+      "quote": "Lalo: Did I keep you waiting?",
+      "id": "S05E01-028"
+    },
+    {
+      "chunk": "have a confession to make",
+      "meaning": "有件事要坦白",
+      "start_cue": 288,
+      "end_cue": 288,
+      "start_time": "00:27:56,259",
+      "end_time": "00:27:58,511",
+      "quote": "I have a confession to make.",
+      "id": "S05E01-029"
+    },
+    {
+      "chunk": "through an oversight",
+      "meaning": "因为疏忽",
+      "start_cue": 294,
+      "end_cue": 294,
+      "start_time": "00:28:18,197",
+      "end_time": "00:28:23,202",
+      "quote": "But through an oversight, ziegler became aware of our other activities.",
+      "id": "S05E01-030"
+    },
+    {
+      "chunk": "too great to resist",
+      "meaning": "诱惑大到无法抗拒",
+      "start_cue": 295,
+      "end_cue": 296,
+      "start_time": "00:28:23,286",
+      "end_time": "00:28:28,332",
+      "quote": "The temptation was too great for him to resist and he stole two keys of product.",
+      "id": "S05E01-031"
+    },
+    {
+      "chunk": "It's not simply that…; it's that…",
+      "meaning": "不只是因为……，而是……；重述真正的问题",
+      "start_cue": 300,
+      "end_cue": 301,
+      "start_time": "00:28:40,678",
+      "end_time": "00:28:46,350",
+      "quote": "Is not simply that I allowed this to happen... It's that I hid the truth.",
+      "id": "S05E01-032"
+    },
+    {
+      "chunk": "It would be simpler to show you.",
+      "meaning": "给你看会更容易说明；以展示代替解释",
+      "start_cue": 311,
+      "end_cue": 311,
+      "start_time": "00:29:43,324",
+      "end_time": "00:29:45,910",
+      "quote": "It would be simpler for me to show you.",
+      "id": "S05E01-033"
+    },
+    {
+      "chunk": "Nothing is keeping sb. from doing sth.",
+      "meaning": "没有什么阻止某人做某事",
+      "start_cue": 318,
+      "end_cue": 318,
+      "start_time": "00:30:23,990",
+      "end_time": "00:30:26,951",
+      "quote": "Bolsa: Nothing was keeping you from sharing all this.",
+      "id": "S05E01-034"
+    },
+    {
+      "chunk": "A lot of trouble could have been avoided.",
+      "meaning": "本来可以避免许多麻烦；事后反思",
+      "start_cue": 319,
+      "end_cue": 319,
+      "start_time": "00:30:27,034",
+      "end_time": "00:30:28,828",
+      "quote": "A lot of trouble could have been avoided.",
+      "id": "S05E01-035"
+    },
+    {
+      "chunk": "any number of sth.",
+      "meaning": "许多／不知多少个",
+      "start_cue": 320,
+      "end_cue": 320,
+      "start_time": "00:30:28,911",
+      "end_time": "00:30:32,206",
+      "quote": "Gus: Yes, there were any number of misunderstandings.",
+      "id": "S05E01-036"
+    },
+    {
+      "chunk": "I've heard so much about you.",
+      "meaning": "久闻大名；见面客套",
+      "start_cue": 330,
+      "end_cue": 330,
+      "start_time": "00:31:35,853",
+      "end_time": "00:31:38,647",
+      "quote": "What a pleasure. I've heard so much about you.",
+      "id": "S05E01-037"
+    },
+    {
+      "chunk": "This is non-negotiable.",
+      "meaning": "这点没有商量余地",
+      "start_cue": 338,
+      "end_cue": 338,
+      "start_time": "00:32:02,505",
+      "end_time": "00:32:06,592",
+      "quote": "You two must coexist. This is non-negotiable.",
+      "id": "S05E01-038"
+    },
+    {
+      "chunk": "protect sb.'s interests",
+      "meaning": "维护某人的利益",
+      "start_cue": 347,
+      "end_cue": 347,
+      "start_time": "00:32:45,923",
+      "end_time": "00:32:48,509",
+      "quote": "Lalo: To protect my family's interests.",
+      "id": "S05E01-039"
+    },
+    {
+      "chunk": "carry a grudge",
+      "meaning": "记恨、怀恨在心；常见形式也有hold a grudge",
+      "start_cue": 356,
+      "end_cue": 356,
+      "start_time": "00:33:16,370",
+      "end_time": "00:33:19,290",
+      "quote": "might carry a grudge after he shot fring's boyfriend in the head.",
+      "id": "S05E01-040"
+    },
+    {
+      "chunk": "It's all business.",
+      "meaning": "纯粹是生意；把私人感情排除在外",
+      "start_cue": 357,
+      "end_cue": 357,
+      "start_time": "00:33:21,375",
+      "end_time": "00:33:25,713",
+      "quote": "You don't understand Gustavo. With him, it's all business.",
+      "id": "S05E01-041"
+    },
+    {
+      "chunk": "There's nothing more to say.",
+      "meaning": "没什么可再说的了",
+      "start_cue": 365,
+      "end_cue": 365,
+      "start_time": "00:34:01,457",
+      "end_time": "00:34:03,542",
+      "quote": "Then there's nothing more to say.",
+      "id": "S05E01-042"
+    },
+    {
+      "chunk": "Give my best to sb.",
+      "meaning": "替我向某人问好",
+      "start_cue": 366,
+      "end_cue": 366,
+      "start_time": "00:34:08,130",
+      "end_time": "00:34:10,883",
+      "quote": "- Give my best to your uncle. - I will.",
+      "id": "S05E01-043"
+    },
+    {
+      "chunk": "wait sb.'s turn",
+      "meaning": "等轮到自己",
+      "start_cue": 375,
+      "end_cue": 375,
+      "start_time": "00:35:14,071",
+      "end_time": "00:35:15,864",
+      "quote": "Everybody got to wait their turn.",
+      "id": "S05E01-044",
+      "original_chunk": "wait one's turn"
+    },
+    {
+      "chunk": "through no fault of sb.'s own",
+      "meaning": "并非自身过错造成",
+      "start_cue": 379,
+      "end_cue": 381,
+      "start_time": "00:35:26,041",
+      "end_time": "00:35:33,716",
+      "quote": "I'm guessing from our brief acquaintance that you are a fella who, occasionally, through no fault of your own, finds yourself in a donnybrook or two.",
+      "id": "S05E01-045",
+      "original_chunk": "through no fault of one's own"
+    },
+    {
+      "chunk": "the boys in blue",
+      "meaning": "警察；非正式俗称",
+      "start_cue": 387,
+      "end_cue": 387,
+      "start_time": "00:35:52,276",
+      "end_time": "00:35:54,236",
+      "quote": "with the boys in blue.",
+      "id": "S05E01-046"
+    },
+    {
+      "chunk": "find oneself in possession of sth.",
+      "meaning": "发现自己持有某物；正式，原句推测麻烦",
+      "start_cue": 394,
+      "end_cue": 396,
+      "start_time": "00:36:10,336",
+      "end_time": "00:36:16,800",
+      "quote": "I'm the lawyer who's gonna fight for you. You might find yourself in possession of a few pieces of military ordnance, you know?",
+      "id": "S05E01-047"
+    },
+    {
+      "chunk": "give sb. the evil eye",
+      "meaning": "恶狠狠地瞪某人",
+      "start_cue": 399,
+      "end_cue": 399,
+      "start_time": "00:36:23,849",
+      "end_time": "00:36:26,477",
+      "quote": "and the cops are giving you the evil eye.",
+      "id": "S05E01-048"
+    },
+    {
+      "chunk": "look at sb. sideways",
+      "meaning": "用怀疑／不满的眼神看某人",
+      "start_cue": 410,
+      "end_cue": 410,
+      "start_time": "00:36:59,301",
+      "end_time": "00:37:01,637",
+      "quote": "Cops pick you up, threaten you, look at you sideways,",
+      "id": "S05E01-049"
+    },
+    {
+      "chunk": "Zip your lip.",
+      "meaning": "闭嘴别说话；口语命令",
+      "start_cue": 413,
+      "end_cue": 413,
+      "start_time": "00:37:06,392",
+      "end_time": "00:37:08,394",
+      "quote": "Zip your lip and press the button.",
+      "id": "S05E01-050"
+    },
+    {
+      "chunk": "Use it in good health.",
+      "meaning": "祝你用得开心／好好使用；送礼套语",
+      "start_cue": 425,
+      "end_cue": 425,
+      "start_time": "00:37:31,333",
+      "end_time": "00:37:32,709",
+      "quote": "Use in good health.",
+      "id": "S05E01-051"
+    },
+    {
+      "chunk": "due to popular demand",
+      "meaning": "应大众要求；宣传套语",
+      "start_cue": 428,
+      "end_cue": 428,
+      "start_time": "00:37:47,516",
+      "end_time": "00:37:48,976",
+      "quote": "Due to popular demand,",
+      "id": "S05E01-052"
+    },
+    {
+      "chunk": "be paid in full",
+      "meaning": "获得全额付款",
+      "start_cue": 452,
+      "end_cue": 452,
+      "start_time": "00:39:42,839",
+      "end_time": "00:39:47,261",
+      "quote": "The job may only be half done, but you're being paid in full.",
+      "id": "S05E01-053"
+    },
+    {
+      "chunk": "Does it need to be said that…?",
+      "meaning": "还需要说……吗？；强调理所当然的要求",
+      "start_cue": 453,
+      "end_cue": 454,
+      "start_time": "00:39:47,344",
+      "end_time": "00:39:52,808",
+      "quote": "Does it need to be said that your cooperation is expected to continue?",
+      "id": "S05E01-054"
+    },
+    {
+      "chunk": "hang a right",
+      "meaning": "向右拐；随意口语",
+      "start_cue": 465,
+      "end_cue": 465,
+      "start_time": "00:40:21,086",
+      "end_time": "00:40:23,755",
+      "quote": "you'll hit the main highway in four miles.",
+      "id": "S05E01-055"
+    },
+    {
+      "chunk": "stumble on sth.",
+      "meaning": "偶然发现／碰上",
+      "start_cue": 490,
+      "end_cue": 490,
+      "start_time": "00:43:15,802",
+      "end_time": "00:43:19,598",
+      "quote": "The entrances to the site have been sealed. Nobody's gonna stumble on it.",
+      "id": "S05E01-056"
+    },
+    {
+      "chunk": "deal with sb.",
+      "meaning": "处理掉／对付某人；此处带威胁意味，不泛化成普通照料",
+      "start_cue": 495,
+      "end_cue": 496,
+      "start_time": "00:43:33,987",
+      "end_time": "00:43:41,203",
+      "quote": "Once Salamanca is dealt with, and he will be dealt with, construction will resume.",
+      "id": "S05E01-057"
+    },
+    {
+      "chunk": "Would you care to comment on sth.?",
+      "meaning": "愿意对此发表评论吗？；媒体／正式问话",
+      "start_cue": 512,
+      "end_cue": 512,
+      "start_time": "00:45:43,658",
+      "end_time": "00:45:46,286",
+      "quote": "Would you care to comment on the Carl gravenhorst case?",
+      "id": "S05E01-058"
+    },
+    {
+      "chunk": "clear sb.'s name",
+      "meaning": "洗清某人的嫌疑、恢复清白",
+      "start_cue": 533,
+      "end_cue": 535,
+      "start_time": "00:46:28,954",
+      "end_time": "00:46:34,626",
+      "quote": "By the time we're through, Carl gravenhorst's name will be cleared and we'll receive a settlement. A cash settlement.",
+      "id": "S05E01-059"
+    },
+    {
+      "chunk": "Go if you must, but…",
+      "meaning": "非走不可就走吧，不过……；先让步再警告",
+      "start_cue": 537,
+      "end_cue": 537,
+      "start_time": "00:46:38,129",
+      "end_time": "00:46:40,799",
+      "quote": "Go if you must. But know this:",
+      "id": "S05E01-060"
+    },
+    {
+      "chunk": "make it sb.'s business to do sth.",
+      "meaning": "把某事当作自己的职责／重点去做",
+      "start_cue": 540,
+      "end_cue": 541,
+      "start_time": "00:46:45,679",
+      "end_time": "00:46:53,061",
+      "quote": "I'm Saul Goodman, and I make it my business to defend the citizens of Albuquerque against injustices of every kind.",
+      "id": "S05E01-061",
+      "original_chunk": "make it one's business to do sth."
+    },
+    {
+      "chunk": "throw everything at sb.",
+      "meaning": "动用所有能用的招数对付某人",
+      "start_cue": 566,
+      "end_cue": 566,
+      "start_time": "00:48:07,677",
+      "end_time": "00:48:09,679",
+      "quote": "At trial, the da will throw everything at us.",
+      "id": "S05E01-062"
+    },
+    {
+      "chunk": "roll the dice",
+      "meaning": "赌一把、冒险碰运气",
+      "start_cue": 567,
+      "end_cue": 567,
+      "start_time": "00:48:09,763",
+      "end_time": "00:48:11,973",
+      "quote": "- You'll be rolling the dice. - Yeah, roll the dice.",
+      "id": "S05E01-063"
+    },
+    {
+      "chunk": "I don't mean to tell you your business, but…",
+      "meaning": "我不想教你做你的本职工作，不过……；委婉越界建议",
+      "start_cue": 568,
+      "end_cue": 568,
+      "start_time": "00:48:12,057",
+      "end_time": "00:48:15,185",
+      "quote": "Yeah, I don't mean to tell you your business, miss wexler,",
+      "id": "S05E01-064"
+    },
+    {
+      "chunk": "I've heard good things.",
+      "meaning": "我听到的评价不错；推荐回应",
+      "start_cue": 585,
+      "end_cue": 585,
+      "start_time": "00:49:09,906",
+      "end_time": "00:49:11,241",
+      "quote": "I've heard good things.",
+      "id": "S05E01-065"
+    },
+    {
+      "chunk": "give sb. what for",
+      "meaning": "痛斥某人／狠狠教训；口语",
+      "start_cue": 599,
+      "end_cue": 600,
+      "start_time": "00:49:42,147",
+      "end_time": "00:49:46,860",
+      "quote": "I'm from the da's office, okay? I'm giving you what for. You're giving me what for. We'll be loud.",
+      "id": "S05E01-066"
+    },
+    {
+      "chunk": "push back",
+      "meaning": "反对、抵制；这里指强力反击",
+      "start_cue": 606,
+      "end_cue": 606,
+      "start_time": "00:50:04,878",
+      "end_time": "00:50:07,505",
+      "quote": "You fight me, I will push back hard.",
+      "id": "S05E01-067"
+    },
+    {
+      "chunk": "a lead-pipe cinch",
+      "meaning": "十拿九稳的事；较旧的美式口语",
+      "start_cue": 609,
+      "end_cue": 609,
+      "start_time": "00:50:17,348",
+      "end_time": "00:50:20,101",
+      "quote": "- Lead-pipe cinch. - He's the client, it's his decision.",
+      "id": "S05E01-068"
+    },
+    {
+      "chunk": "If this isn't sth., I don't know what is.",
+      "meaning": "这还不算……，那我不知道什么才算；强烈肯定",
+      "start_cue": 615,
+      "end_cue": 615,
+      "start_time": "00:50:31,821",
+      "end_time": "00:50:34,258",
+      "quote": "If this isn't using our powers for good, I don't know what is.",
+      "id": "S05E01-069"
+    },
+    {
+      "chunk": "take sth. off the table",
+      "meaning": "撤回提议、不再作为可选方案",
+      "start_cue": 625,
+      "end_cue": 625,
+      "start_time": "00:51:24,666",
+      "end_time": "00:51:26,417",
+      "quote": "They're taking the deal off the table.",
+      "id": "S05E01-070"
+    },
+    {
+      "chunk": "soon enough",
+      "meaning": "用不了多久；暗示不用急",
+      "start_cue": 632,
+      "end_cue": 632,
+      "start_time": "00:51:55,697",
+      "end_time": "00:51:57,615",
+      "quote": "We'll find out soon enough.",
+      "id": "S05E01-071"
+    },
+    {
+      "chunk": "make an example out of sb.",
+      "meaning": "惩罚某人以警告别人、杀一儆百",
+      "start_cue": 634,
+      "end_cue": 634,
+      "start_time": "00:52:02,704",
+      "end_time": "00:52:04,956",
+      "quote": "It looks like they want to make an example out of you.",
+      "id": "S05E01-072"
+    },
+    {
+      "chunk": "I can't promise anything, but…",
+      "meaning": "不能保证结果，不过……；谨慎答应尝试",
+      "start_cue": 646,
+      "end_cue": 647,
+      "start_time": "00:52:52,628",
+      "end_time": "00:52:56,966",
+      "quote": "I can't promise anything, but... - I'll look into it. - Sure, sure.",
+      "id": "S05E01-073"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "change one's mind",
+      "meaning": "改变主意",
+      "start_cue": 124,
+      "end_cue": 124,
+      "start_time": "00:12:32,878",
+      "end_time": "00:12:34,463",
+      "quote": "I've changed my mind.",
+      "reason": "人工复核：同形同义／同功能近重复，未新增独立学习点",
+      "existing_chunk": "I've changed my mind."
+    },
+    {
+      "chunk": "sure as shooting",
+      "meaning": "肯定会；口语强调确定",
+      "start_cue": 134,
+      "end_cue": 134,
+      "start_time": "00:14:19,985",
+      "end_time": "00:14:23,697",
+      "quote": "The skells who've been buying my phones, sure as shooting, sooner or later,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e08",
+        "chunk": "sure as shooting"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "come to light",
+      "meaning": "浮出水面、被发现",
+      "start_cue": 602,
+      "end_cue": 602,
+      "start_time": "00:49:50,613",
+      "end_time": "00:49:52,073",
+      "quote": "New evidence has come to light,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "come to light"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "I'm good.",
+      "meaning": "不用了，我这样就好；此处谢绝服务，不是评价自己优秀",
+      "start_cue": 12,
+      "end_cue": 12,
+      "start_time": "00:02:46,667",
+      "end_time": "00:02:48,461",
+      "quote": "I'm good. Really.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "I'm good."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "get past sth.",
+      "meaning": "先越过／不再纠缠某个问题",
+      "start_cue": 67,
+      "end_cue": 67,
+      "start_time": "00:07:54,808",
+      "end_time": "00:07:59,188",
+      "quote": "I know who you are. You know who you are. Let's just get past that.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "get past sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "a false alarm",
+      "meaning": "虚惊一场；并非真的出了事",
+      "start_cue": 16,
+      "end_cue": 16,
+      "start_time": "00:03:12,401",
+      "end_time": "00:03:15,279",
+      "quote": "Yeah, I'm fine. It was a false alarm.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s04e01",
+        "chunk": "false alarm"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "pending": [
+    {
+      "cue": 126,
+      "text": "fonnard",
+      "reason": "字幕疑似forward误写，不当标准拼写"
+    },
+    {
+      "chunk": "let one's end down",
+      "meaning": "没有履行自己那一份职责；此字幕用法可理解，常见固定说法let the side down另待核",
+      "start_cue": 458,
+      "end_cue": 458,
+      "start_time": "00:40:01,066",
+      "end_time": "00:40:04,653",
+      "quote": "You let your end down, there will be consequences.",
+      "reason": "可理解为履职失责，但固定搭配需核原音；不作为优选模板；原句片段／临时语境表达，暂不作为可直接套用的标准模板"
+    }
+  ],
+  "vocabulary_candidates": [
+    {
+      "cue": 134,
+      "word": "skell",
+      "meaning": "游荡的无业者／街头混混；贬义美式俚语"
+    },
+    {
+      "cue": 381,
+      "word": "donnybrook",
+      "meaning": "混战、争吵"
+    },
+    {
+      "cue": 590,
+      "word": "hot",
+      "meaning": "偷来的；赃物义"
+    }
+  ],
+  "second_pass": {
+    "range": [
+      1,
+      649
+    ],
+    "method": "在首遍完整字幕输出上，从头重新检查未选cue及相邻上下文；再查外层骨架、短回应、普通搭配。二遍不靠regex发现。",
+    "status": "completed",
+    "added_candidates": [
+      "I'm good.",
+      "hang around",
+      "I'm not all the way sure.",
+      "You didn't ask, but…",
+      "Five minutes max.",
+      "The real trick is to do sth.",
+      "find oneself in possession of sth.",
+      "Use it in good health.",
+      "Go if you must, but…",
+      "I don't mean to tell you your business, but…",
+      "soon enough"
+    ],
+    "added_count": 11,
+    "read_batches": [
+      [
+        1,
+        649
+      ]
+    ],
+    "final_selected_count": 78,
+    "note": "added_candidates列的是二遍发现候选，随后部分因重复／转词汇／待核而不进入items。"
+  },
+  "validation": {
+    "quote_rule": "去HTML并合并空白；不改原词、拼写和标点",
+    "coverage_boundary": "通读与回查记录不证明无遗漏；候选不等于已掌握",
+    "selected_items": 78,
+    "source_hash_verified": true,
+    "quote_and_timecode_verified": true
+  },
+  "read_note": "每集完整输出所有cue，输出上限保证未截断；以集为读取批次，不虚构100条工具读取批次。",
+  "deduplication_note": "对S01–S03首批已有清单做规范化提示并人工核含义；季内顺序去重。同形新义保留。跨其他并行季由主agent最终统查。",
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

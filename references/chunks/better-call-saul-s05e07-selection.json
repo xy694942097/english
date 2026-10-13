@@ -1,0 +1,978 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S05/Better.Call.Saul.S05E07.en.srt",
+  "sha256": "dcc2ae22b762cc8dff6627734b6049cbf4a4696fa1768876515c4fa17400f44f",
+  "subtitle_blocks_read": 569,
+  "max_cue": 569,
+  "read_batches": [
+    [
+      1,
+      569
+    ]
+  ],
+  "selection_status": "Candidates, pending user screening",
+  "items": [
+    {
+      "chunk": "go back over sth.",
+      "meaning": "把过去内容重新梳理／重新谈一遍",
+      "start_cue": 1,
+      "end_cue": 1,
+      "start_time": "00:00:08,759",
+      "end_time": "00:00:12,597",
+      "quote": "Jimmy: And anything that already happened, we're not going back over all that.",
+      "id": "S05E07-001"
+    },
+    {
+      "chunk": "Past is past.",
+      "meaning": "过去的就让它过去；不再追究",
+      "start_cue": 3,
+      "end_cue": 3,
+      "start_time": "00:00:15,808",
+      "end_time": "00:00:17,560",
+      "quote": "Right. Past is past.",
+      "id": "S05E07-002"
+    },
+    {
+      "chunk": "have the urge to do sth.",
+      "meaning": "有做某事的冲动",
+      "start_cue": 5,
+      "end_cue": 6,
+      "start_time": "00:00:19,812",
+      "end_time": "00:00:23,482",
+      "quote": "If I have the urge to not tell you something, then I've gotta tell you.",
+      "id": "S05E07-003"
+    },
+    {
+      "chunk": "It works both ways.",
+      "meaning": "这对双方都适用／双方都要如此",
+      "start_cue": 8,
+      "end_cue": 8,
+      "start_time": "00:00:25,401",
+      "end_time": "00:00:26,777",
+      "quote": "And it works both ways.",
+      "id": "S05E07-004"
+    },
+    {
+      "chunk": "not like what one hears",
+      "meaning": "不喜欢听到的消息",
+      "start_cue": 12,
+      "end_cue": 12,
+      "start_time": "00:00:40,249",
+      "end_time": "00:00:42,501",
+      "quote": "and you don't like what you hear?",
+      "id": "S05E07-005"
+    },
+    {
+      "chunk": "cross that bridge when we come to it",
+      "meaning": "问题到时候再解决，不提前担忧",
+      "start_cue": 15,
+      "end_cue": 15,
+      "start_time": "00:00:49,425",
+      "end_time": "00:00:51,510",
+      "quote": "We'll cross that bridge when we come to it.",
+      "id": "S05E07-006"
+    },
+    {
+      "chunk": "It looks that way.",
+      "meaning": "看来是那样；根据眼下情形回答",
+      "start_cue": 18,
+      "end_cue": 18,
+      "start_time": "00:01:05,775",
+      "end_time": "00:01:07,485",
+      "quote": "Yeah, it looks that way.",
+      "id": "S05E07-007"
+    },
+    {
+      "chunk": "do it up right",
+      "meaning": "好好办、办得像样；随意口语",
+      "start_cue": 32,
+      "end_cue": 32,
+      "start_time": "00:02:00,788",
+      "end_time": "00:02:03,958",
+      "quote": "Then we should do it up right, then, for the rugrat.",
+      "id": "S05E07-008"
+    },
+    {
+      "chunk": "get hitched",
+      "meaning": "结婚；随意口语",
+      "start_cue": 40,
+      "end_cue": 40,
+      "start_time": "00:02:32,194",
+      "end_time": "00:02:33,946",
+      "quote": "You getting hitched for that?",
+      "id": "S05E07-009"
+    },
+    {
+      "chunk": "Just making sure.",
+      "meaning": "只是确认一下",
+      "start_cue": 55,
+      "end_cue": 55,
+      "start_time": "00:03:47,395",
+      "end_time": "00:03:49,063",
+      "quote": "Just making sure.",
+      "id": "S05E07-010"
+    },
+    {
+      "chunk": "All set.",
+      "meaning": "都准备好了",
+      "start_cue": 56,
+      "end_cue": 56,
+      "start_time": "00:03:50,606",
+      "end_time": "00:03:53,484",
+      "quote": "Clerk: All set. I just need 25 dollars.",
+      "id": "S05E07-011"
+    },
+    {
+      "chunk": "for better, for worse",
+      "meaning": "无论境况好坏；婚礼誓词",
+      "start_cue": 69,
+      "end_cue": 73,
+      "start_time": "00:05:13,564",
+      "end_time": "00:05:27,536",
+      "quote": "To be your lawfully wedded wife, to have and to hold, from this day fonnard, for better, for worse, for richer, for poorer, in sickness and in health, till death do you part?",
+      "id": "S05E07-012"
+    },
+    {
+      "chunk": "in sickness and in health",
+      "meaning": "无论疾病或健康；婚礼誓词",
+      "start_cue": 71,
+      "end_cue": 73,
+      "start_time": "00:05:19,195",
+      "end_time": "00:05:27,536",
+      "quote": "for better, for worse, for richer, for poorer, in sickness and in health, till death do you part?",
+      "id": "S05E07-013"
+    },
+    {
+      "chunk": "till death do you part",
+      "meaning": "直到死亡将你们分开；传统婚礼措辞",
+      "start_cue": 73,
+      "end_cue": 73,
+      "start_time": "00:05:23,449",
+      "end_time": "00:05:27,536",
+      "quote": "in sickness and in health, till death do you part?",
+      "id": "S05E07-014"
+    },
+    {
+      "chunk": "by the power vested in me",
+      "meaning": "依据授予我的权力；仪式／正式",
+      "start_cue": 88,
+      "end_cue": 89,
+      "start_time": "00:06:08,285",
+      "end_time": "00:06:14,750",
+      "quote": "Then by the power vested in me by the state of new Mexico, I now pronounce you husband and wife.",
+      "id": "S05E07-015"
+    },
+    {
+      "chunk": "sth. is out",
+      "meaning": "某方案不可能／已排除；此处午餐安排",
+      "start_cue": 93,
+      "end_cue": 93,
+      "start_time": "00:06:53,872",
+      "end_time": "00:06:56,083",
+      "quote": "Jimmy: So lunch is definitely out?",
+      "id": "S05E07-016"
+    },
+    {
+      "chunk": "can't get away",
+      "meaning": "脱不开身、走不开",
+      "start_cue": 94,
+      "end_cue": 94,
+      "start_time": "00:06:56,166",
+      "end_time": "00:06:58,252",
+      "quote": "Sorry, I just can't get away.",
+      "id": "S05E07-017"
+    },
+    {
+      "chunk": "murder in the first degree",
+      "meaning": "一级谋杀；法律",
+      "start_cue": 109,
+      "end_cue": 109,
+      "start_time": "00:08:14,828",
+      "end_time": "00:08:17,539",
+      "quote": "Murder in the first degree,",
+      "id": "S05E07-018"
+    },
+    {
+      "chunk": "tampering with evidence",
+      "meaning": "篡改／干扰证据；法律",
+      "start_cue": 111,
+      "end_cue": 111,
+      "start_time": "00:08:20,918",
+      "end_time": "00:08:23,295",
+      "quote": "tampering with evidence, arson...",
+      "id": "S05E07-019"
+    },
+    {
+      "chunk": "spiral out of control",
+      "meaning": "愈演愈烈直到失去控制",
+      "start_cue": 121,
+      "end_cue": 121,
+      "start_time": "00:09:03,836",
+      "end_time": "00:09:07,172",
+      "quote": "The situation in tucumcari spiral led out of control,",
+      "id": "S05E07-020"
+    },
+    {
+      "chunk": "Nothing like that will ever happen again.",
+      "meaning": "这种事以后绝不会再发生；保证",
+      "start_cue": 129,
+      "end_cue": 129,
+      "start_time": "00:09:34,450",
+      "end_time": "00:09:36,785",
+      "quote": "Nothing like that will ever happen again.",
+      "id": "S05E07-021"
+    },
+    {
+      "chunk": "go off course",
+      "meaning": "偏离正轨",
+      "start_cue": 130,
+      "end_cue": 130,
+      "start_time": "00:09:38,829",
+      "end_time": "00:09:41,874",
+      "quote": "No one's denying that things went off course,",
+      "id": "S05E07-022"
+    },
+    {
+      "chunk": "drop the ball",
+      "meaning": "失职、关键时刻没做好",
+      "start_cue": 136,
+      "end_cue": 136,
+      "start_time": "00:09:58,265",
+      "end_time": "00:10:00,517",
+      "quote": "Kim, you dropped the ball, that's for sure.",
+      "id": "S05E07-023"
+    },
+    {
+      "chunk": "You could do a whole lot better.",
+      "meaning": "你完全可以找更好的人；这里指伴侣，常冒犯",
+      "start_cue": 147,
+      "end_cue": 147,
+      "start_time": "00:10:50,317",
+      "end_time": "00:10:52,319",
+      "quote": "You could do a whole lot better.",
+      "id": "S05E07-024"
+    },
+    {
+      "chunk": "fifty-fifty",
+      "meaning": "机会各占一半／难说能否成功",
+      "start_cue": 148,
+      "end_cue": 148,
+      "start_time": "00:11:03,872",
+      "end_time": "00:11:07,042",
+      "quote": "I'll say fifty—fifty. But we gave it a shot.",
+      "id": "S05E07-025"
+    },
+    {
+      "chunk": "walk on eggshells",
+      "meaning": "小心翼翼、怕惹人生气",
+      "start_cue": 151,
+      "end_cue": 151,
+      "start_time": "00:11:14,716",
+      "end_time": "00:11:17,636",
+      "quote": "- Then what? We walk on eggshells forever? - Mmm.",
+      "id": "S05E07-026"
+    },
+    {
+      "chunk": "negotiate in bad faith",
+      "meaning": "缺乏诚意地谈判／故意欺骗；正式",
+      "start_cue": 166,
+      "end_cue": 166,
+      "start_time": "00:12:17,321",
+      "end_time": "00:12:19,615",
+      "quote": "that the other side was negotiating in bad faith.",
+      "id": "S05E07-027"
+    },
+    {
+      "chunk": "go sb.'s own way",
+      "meaning": "按自己的主意来",
+      "start_cue": 169,
+      "end_cue": 169,
+      "start_time": "00:12:24,578",
+      "end_time": "00:12:27,456",
+      "quote": "and at every point, you chose to go your own way.",
+      "id": "S05E07-028",
+      "original_chunk": "go one's own way"
+    },
+    {
+      "chunk": "brass tacks",
+      "meaning": "实质问题、具体细节；这里省略get down to",
+      "start_cue": 187,
+      "end_cue": 187,
+      "start_time": "00:13:53,208",
+      "end_time": "00:13:56,795",
+      "quote": "Okay, brass tacks. Um... How solid is this \"de guzman\" thing?",
+      "id": "S05E07-029"
+    },
+    {
+      "chunk": "How solid is sth.?",
+      "meaning": "某个安排有多可靠／稳妥？",
+      "start_cue": 187,
+      "end_cue": 187,
+      "start_time": "00:13:53,208",
+      "end_time": "00:13:56,795",
+      "quote": "Okay, brass tacks. Um... How solid is this \"de guzman\" thing?",
+      "id": "S05E07-030"
+    },
+    {
+      "chunk": "a power move",
+      "meaning": "显示掌控力的举动",
+      "start_cue": 192,
+      "end_cue": 192,
+      "start_time": "00:14:11,184",
+      "end_time": "00:14:14,271",
+      "quote": "so I say, make them come to us, power move...",
+      "id": "S05E07-031"
+    },
+    {
+      "chunk": "Here's the thing about sth.",
+      "meaning": "某事的关键问题在于……",
+      "start_cue": 194,
+      "end_cue": 194,
+      "start_time": "00:14:21,236",
+      "end_time": "00:14:23,947",
+      "quote": "- Here's the thing about going to trial... - No, no, no.",
+      "id": "S05E07-032"
+    },
+    {
+      "chunk": "get sb. out on bail",
+      "meaning": "让某人获保释出狱",
+      "start_cue": 198,
+      "end_cue": 198,
+      "start_time": "00:14:33,165",
+      "end_time": "00:14:36,084",
+      "quote": "- You're gonna get me out on bail. - Bail?",
+      "id": "S05E07-033"
+    },
+    {
+      "chunk": "She's out.",
+      "meaning": "她睡着了；此处out指熟睡",
+      "start_cue": 221,
+      "end_cue": 221,
+      "start_time": "00:16:20,730",
+      "end_time": "00:16:21,940",
+      "quote": "She's out.",
+      "id": "S05E07-034"
+    },
+    {
+      "chunk": "wear sb. out",
+      "meaning": "把某人累坏",
+      "start_cue": 223,
+      "end_cue": 223,
+      "start_time": "00:16:25,735",
+      "end_time": "00:16:28,405",
+      "quote": "I think you wore her out with all that hide-and-seek.",
+      "id": "S05E07-035"
+    },
+    {
+      "chunk": "tear around",
+      "meaning": "到处乱跑、疯跑",
+      "start_cue": 227,
+      "end_cue": 227,
+      "start_time": "00:16:39,791",
+      "end_time": "00:16:43,753",
+      "quote": "The kid's 2 years old and he's still tearing around the house at midnight.",
+      "id": "S05E07-036"
+    },
+    {
+      "chunk": "conk out",
+      "meaning": "睡着／累倒；口语",
+      "start_cue": 232,
+      "end_cue": 232,
+      "start_time": "00:16:51,845",
+      "end_time": "00:16:55,015",
+      "quote": "Heh. Never wanted to conk out.",
+      "dedup_note": "同形不同义／独立功能保留：睡着与机器停转",
+      "id": "S05E07-037"
+    },
+    {
+      "chunk": "cry sb.'s eyes out",
+      "meaning": "哭得很伤心、哭个不停",
+      "start_cue": 237,
+      "end_cue": 237,
+      "start_time": "00:17:10,071",
+      "end_time": "00:17:12,115",
+      "quote": "Cried his eyes out.",
+      "id": "S05E07-038",
+      "original_chunk": "cry one's eyes out"
+    },
+    {
+      "chunk": "play the cards one is dealt",
+      "meaning": "接受现有条件，尽力应对；牌局比喻",
+      "start_cue": 242,
+      "end_cue": 242,
+      "start_time": "00:17:31,968",
+      "end_time": "00:17:34,971",
+      "quote": "Decided to play the cards I was dealt.",
+      "id": "S05E07-039"
+    },
+    {
+      "chunk": "speak truth to power",
+      "meaning": "对有权势的人直言真实意见",
+      "start_cue": 244,
+      "end_cue": 244,
+      "start_time": "00:17:47,984",
+      "end_time": "00:17:49,569",
+      "quote": "You spoke truth to power.",
+      "id": "S05E07-040"
+    },
+    {
+      "chunk": "a moot point",
+      "meaning": "无需再讨论／对结果无意义的问题；此处因保释不可能",
+      "start_cue": 271,
+      "end_cue": 271,
+      "start_time": "00:20:05,705",
+      "end_time": "00:20:07,248",
+      "quote": "Anyway, it's a moot point.",
+      "id": "S05E07-041"
+    },
+    {
+      "chunk": "a flight risk",
+      "meaning": "有潜逃风险的人；法律",
+      "start_cue": 272,
+      "end_cue": 272,
+      "start_time": "00:20:07,332",
+      "end_time": "00:20:09,918",
+      "quote": "Because the guy is the definition of a flight risk.",
+      "id": "S05E07-042"
+    },
+    {
+      "chunk": "just for show",
+      "meaning": "只是做做样子",
+      "start_cue": 273,
+      "end_cue": 273,
+      "start_time": "00:20:10,001",
+      "end_time": "00:20:14,422",
+      "quote": "So, look, I'm gonna put up a fight, right? Just for show.",
+      "id": "S05E07-043"
+    },
+    {
+      "chunk": "out of the picture",
+      "meaning": "不再参与／不能再施加影响",
+      "start_cue": 292,
+      "end_cue": 292,
+      "start_time": "00:22:30,892",
+      "end_time": "00:22:32,852",
+      "quote": "Listen, you said, when lalo's out of the picture,",
+      "id": "S05E07-044"
+    },
+    {
+      "chunk": "Say your piece.",
+      "meaning": "把你要说的话说完／发表你的看法",
+      "start_cue": 295,
+      "end_cue": 295,
+      "start_time": "00:22:39,567",
+      "end_time": "00:22:41,903",
+      "quote": "- Mike: Say your piece. - I'm done.",
+      "id": "S05E07-045"
+    },
+    {
+      "chunk": "I want out.",
+      "meaning": "我想退出／脱身",
+      "start_cue": 296,
+      "end_cue": 296,
+      "start_time": "00:22:43,696",
+      "end_time": "00:22:45,198",
+      "quote": "I want out.",
+      "id": "S05E07-046"
+    },
+    {
+      "chunk": "square sth. with sb.",
+      "meaning": "把某事跟某人谈妥、协调好",
+      "start_cue": 297,
+      "end_cue": 297,
+      "start_time": "00:22:45,281",
+      "end_time": "00:22:47,575",
+      "quote": "Mike: And you want me to square it with fring.",
+      "id": "S05E07-047"
+    },
+    {
+      "chunk": "a smashing success",
+      "meaning": "巨大成功",
+      "start_cue": 312,
+      "end_cue": 312,
+      "start_time": "00:24:09,365",
+      "end_time": "00:24:13,620",
+      "quote": "which we've been testing in select franchises, has been a smashing success,",
+      "id": "S05E07-048"
+    },
+    {
+      "chunk": "foot traffic",
+      "meaning": "到店的人流／客流量",
+      "start_cue": 313,
+      "end_cue": 313,
+      "start_time": "00:24:13,703",
+      "end_time": "00:24:16,331",
+      "quote": "contributing to an 18 percent increase in foot traffic",
+      "id": "S05E07-049"
+    },
+    {
+      "chunk": "roll out sth.",
+      "meaning": "推出新产品／计划",
+      "start_cue": 317,
+      "end_cue": 317,
+      "start_time": "00:24:23,046",
+      "end_time": "00:24:27,508",
+      "quote": "So we are planning to fully roll out avocado mania in q2.",
+      "id": "S05E07-050"
+    },
+    {
+      "chunk": "repeat business",
+      "meaning": "回头客带来的生意",
+      "start_cue": 320,
+      "end_cue": 320,
+      "start_time": "00:24:34,682",
+      "end_time": "00:24:38,436",
+      "quote": "resulting in increased repeat business system-wide.",
+      "id": "S05E07-051"
+    },
+    {
+      "chunk": "consecutive quarters",
+      "meaning": "连续的季度；财报",
+      "start_cue": 331,
+      "end_cue": 331,
+      "start_time": "00:25:14,555",
+      "end_time": "00:25:20,395",
+      "quote": "Representing the eighth consecutive quarter of comparable sales increases.",
+      "id": "S05E07-052"
+    },
+    {
+      "chunk": "with a kick",
+      "meaning": "带辛辣冲劲／刺激感；这里形容口味",
+      "start_cue": 337,
+      "end_cue": 337,
+      "start_time": "00:25:44,752",
+      "end_time": "00:25:48,631",
+      "quote": "The curly fry with the southwestern kick.",
+      "id": "S05E07-053"
+    },
+    {
+      "chunk": "now that you're here",
+      "meaning": "既然你现在来了；接在新情况下的判断后",
+      "start_cue": 356,
+      "end_cue": 358,
+      "start_time": "00:28:31,210",
+      "end_time": "00:28:40,469",
+      "quote": "Well... I don't feel well. Maybe things will improve, now that you're here.",
+      "id": "S05E07-054"
+    },
+    {
+      "chunk": "come this close",
+      "meaning": "差点就……；通常伴手势，原句指差点暴露",
+      "start_cue": 378,
+      "end_cue": 378,
+      "start_time": "00:29:50,456",
+      "end_time": "00:29:53,626",
+      "quote": "Last year, the auditors came this close.",
+      "id": "S05E07-055"
+    },
+    {
+      "chunk": "with sb.'s back to the wall",
+      "meaning": "被逼入绝境",
+      "start_cue": 390,
+      "end_cue": 390,
+      "start_time": "00:30:23,197",
+      "end_time": "00:30:27,118",
+      "quote": "The two of us. Our backs to the wall.",
+      "id": "S05E07-056",
+      "original_chunk": "with one's back to the wall"
+    },
+    {
+      "chunk": "complete with sth.",
+      "meaning": "配有某物；常用于描述设施",
+      "start_cue": 408,
+      "end_cue": 408,
+      "start_time": "00:31:45,654",
+      "end_time": "00:31:48,616",
+      "quote": "complete with soaring stone fireplace.\"",
+      "id": "S05E07-057"
+    },
+    {
+      "chunk": "Make yourself at home.",
+      "meaning": "别拘束、当自己家；此处带讽刺",
+      "start_cue": 436,
+      "end_cue": 436,
+      "start_time": "00:33:37,725",
+      "end_time": "00:33:39,560",
+      "quote": "Make yourself at home.",
+      "id": "S05E07-058"
+    },
+    {
+      "chunk": "take marching orders from sb.",
+      "meaning": "听某人的指令行事",
+      "start_cue": 445,
+      "end_cue": 445,
+      "start_time": "00:34:12,218",
+      "end_time": "00:34:16,055",
+      "quote": "Yeah, look, I don't take marching orders from the man behind the curtain.",
+      "id": "S05E07-059"
+    },
+    {
+      "chunk": "the man behind the curtain",
+      "meaning": "幕后操控的人；比喻",
+      "start_cue": 445,
+      "end_cue": 445,
+      "start_time": "00:34:12,218",
+      "end_time": "00:34:16,055",
+      "quote": "Yeah, look, I don't take marching orders from the man behind the curtain.",
+      "id": "S05E07-060"
+    },
+    {
+      "chunk": "play to sb.",
+      "meaning": "迎合某人／针对观众表现",
+      "start_cue": 462,
+      "end_cue": 462,
+      "start_time": "00:38:59,254",
+      "end_time": "00:39:01,882",
+      "quote": "Uh, play to the judge, okay?",
+      "id": "S05E07-061"
+    },
+    {
+      "chunk": "have reason to believe that…",
+      "meaning": "有理由相信……；正式论断",
+      "start_cue": 475,
+      "end_cue": 477,
+      "start_time": "00:40:23,171",
+      "end_time": "00:40:32,514",
+      "quote": "I have reason to believe that the prosecution's key witness was coached by a private investigator who was hired to pervert justice.",
+      "id": "S05E07-062"
+    },
+    {
+      "chunk": "the key witness",
+      "meaning": "关键证人；法律",
+      "start_cue": 475,
+      "end_cue": 477,
+      "start_time": "00:40:23,171",
+      "end_time": "00:40:32,514",
+      "quote": "I have reason to believe that the prosecution's key witness was coached by a private investigator who was hired to pervert justice.",
+      "id": "S05E07-063"
+    },
+    {
+      "chunk": "in light of sth.",
+      "meaning": "考虑到／鉴于某事",
+      "start_cue": 487,
+      "end_cue": 491,
+      "start_time": "00:41:02,127",
+      "end_time": "00:41:16,475",
+      "quote": "In light of the extraordinary violence of the crime and the fact that mr de guzman is a foreign national with no ties to the community, we ask that the court recognise him as a flight risk and as a danger to the citizens of new Mexico.",
+      "id": "S05E07-064"
+    },
+    {
+      "chunk": "patently false",
+      "meaning": "明显不实、显然错误；正式",
+      "start_cue": 498,
+      "end_cue": 498,
+      "start_time": "00:41:39,373",
+      "end_time": "00:41:41,500",
+      "quote": "that's just patently false.",
+      "id": "S05E07-065"
+    },
+    {
+      "chunk": "the love of sb.'s life",
+      "meaning": "一生挚爱",
+      "start_cue": 501,
+      "end_cue": 501,
+      "start_time": "00:41:48,965",
+      "end_time": "00:41:53,303",
+      "quote": "That's his fiancée and the love of his life, Beth McKinnon.",
+      "id": "S05E07-066",
+      "original_chunk": "the love of one's life"
+    },
+    {
+      "chunk": "set the amount at + 数额",
+      "meaning": "将金额定为……",
+      "start_cue": 518,
+      "end_cue": 518,
+      "start_time": "00:43:13,592",
+      "end_time": "00:43:16,303",
+      "quote": "I will set the amount at 7 million.",
+      "id": "S05E07-067"
+    },
+    {
+      "chunk": "Are you listening to yourself?",
+      "meaning": "你听听你自己在说什么？；质疑荒谬发言",
+      "start_cue": 544,
+      "end_cue": 544,
+      "start_time": "00:45:09,165",
+      "end_time": "00:45:11,376",
+      "quote": "Are you listening to yourself?",
+      "id": "S05E07-068"
+    },
+    {
+      "chunk": "little old me",
+      "meaning": "我这么个不起眼的人；可自谦或讽刺",
+      "start_cue": 555,
+      "end_cue": 555,
+      "start_time": "00:45:48,246",
+      "end_time": "00:45:50,874",
+      "quote": "A chance to play at the palace. Little old me?",
+      "id": "S05E07-069"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "hold out on sb.",
+      "meaning": "瞒着某人、没把知道的全部告诉对方；原句省略on me",
+      "start_cue": 304,
+      "end_cue": 304,
+      "start_time": "00:23:11,933",
+      "end_time": "00:23:14,018",
+      "quote": "What are you holding out?",
+      "reason": "同形同义候选，保留既有项",
+      "existing_chunk": "hold out on sb."
+    },
+    {
+      "chunk": "full disclosure",
+      "meaning": "把事实全部说清／不隐瞒",
+      "start_cue": 7,
+      "end_cue": 7,
+      "start_time": "00:00:23,566",
+      "end_time": "00:00:25,318",
+      "quote": "Right. Full disclosure.",
+      "reason": "人工复核：同形同义／同功能近重复，未新增独立学习点",
+      "existing_chunk": "make a full disclosure"
+    },
+    {
+      "chunk": "take a rain check",
+      "meaning": "这次先不接受，留待下次",
+      "start_cue": 37,
+      "end_cue": 37,
+      "start_time": "00:02:17,513",
+      "end_time": "00:02:22,059",
+      "quote": "How about we take a rain check on that? We just need to get this done. Feel me?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "take a rain check"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Don't bother.",
+      "meaning": "不用费心了／算了；此处撤回邀请",
+      "start_cue": 534,
+      "end_cue": 534,
+      "start_time": "00:44:32,796",
+      "end_time": "00:44:35,382",
+      "quote": "You know what? Don't bother.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e10",
+        "chunk": "Don't bother."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "cut a deal",
+      "meaning": "达成交易／协议",
+      "start_cue": 191,
+      "end_cue": 191,
+      "start_time": "00:14:07,014",
+      "end_time": "00:14:11,101",
+      "quote": "Now I think that the da's primed to cut a deal,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e03",
+        "chunk": "cut a deal"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "let sb. down",
+      "meaning": "让某人失望",
+      "start_cue": 126,
+      "end_cue": 126,
+      "start_time": "00:09:23,689",
+      "end_time": "00:09:28,026",
+      "quote": "I can't tell you how much I regret that I let you down.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e03",
+        "chunk": "let sb. down"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "stick to sth.",
+      "meaning": "坚持／履行某个决定",
+      "start_cue": 245,
+      "end_cue": 245,
+      "start_time": "00:17:49,653",
+      "end_time": "00:17:51,655",
+      "quote": "We'll see if he sticks to it.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "stick to sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Having said that, …",
+      "meaning": "话虽如此……；转折补充",
+      "start_cue": 485,
+      "end_cue": 485,
+      "start_time": "00:40:57,039",
+      "end_time": "00:40:58,498",
+      "quote": "Having said that, your honour,",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "Having said that, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Sorry to keep you waiting.",
+      "meaning": "抱歉让你久等",
+      "start_cue": 58,
+      "end_cue": 58,
+      "start_time": "00:04:29,437",
+      "end_time": "00:04:31,397",
+      "quote": "Sorry to keep you waiting.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "Sorry to keep you waiting."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "on such short notice",
+      "meaning": "在通知得如此仓促的情况下",
+      "start_cue": 118,
+      "end_cue": 118,
+      "start_time": "00:08:51,031",
+      "end_time": "00:08:53,951",
+      "quote": "Rich: Thank you for making time for us on such short notice.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e06",
+        "chunk": "on such short notice"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "see fit to do sth.",
+      "meaning": "认为适当而决定做某事；较正式",
+      "start_cue": 507,
+      "end_cue": 507,
+      "start_time": "00:42:07,984",
+      "end_time": "00:42:13,824",
+      "quote": "How can you possibly see fit to separate this beautiful family?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e08",
+        "chunk": "see fit to do sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "look down on sb.",
+      "meaning": "看不起某人",
+      "start_cue": 559,
+      "end_cue": 559,
+      "start_time": "00:46:01,092",
+      "end_time": "00:46:03,219",
+      "quote": "You look down on me? You pity me?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e10",
+        "chunk": "look down on sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [
+    {
+      "cue": 33,
+      "word": "rugrat",
+      "meaning": "小孩；随意俚语"
+    },
+    {
+      "cue": 46,
+      "word": "dissolution",
+      "meaning": "婚姻解除；此处前两次离婚记录"
+    },
+    {
+      "cue": 207,
+      "word": "ephemeral",
+      "meaning": "短暂的、转瞬即逝的"
+    },
+    {
+      "cue": 547,
+      "word": "unhinged",
+      "meaning": "失去理智的"
+    },
+    {
+      "chunk": "a sidebar",
+      "meaning": "请求法官与律师在陪审团听不到的地方私下讨论；庭审术语",
+      "start_cue": 514,
+      "end_cue": 514,
+      "start_time": "00:42:34,010",
+      "end_time": "00:42:36,138",
+      "quote": "Your honour, a sidebar?",
+      "reason": "主要学习点是单词义项，转词汇轨道"
+    },
+    {
+      "chunk": "be connected",
+      "meaning": "有背景／有势力关系；此处帮派关系",
+      "start_cue": 254,
+      "end_cue": 254,
+      "start_time": "00:18:54,884",
+      "end_time": "00:18:59,723",
+      "quote": "I have a new client. He's, uh, connected.",
+      "reason": "此项主要学习点为单词／专业词义，转词汇候选，不作Chunk条目"
+    },
+    {
+      "chunk": "high up",
+      "meaning": "身居高位、在组织中地位高",
+      "start_cue": 256,
+      "end_cue": 256,
+      "start_time": "00:19:04,102",
+      "end_time": "00:19:05,102",
+      "quote": "Pretty high up.",
+      "reason": "此项主要学习点为单词／专业词义，转词汇候选，不作Chunk条目"
+    }
+  ],
+  "second_pass": {
+    "range": [
+      1,
+      569
+    ],
+    "method": "在首遍完整字幕输出上，从头重新检查未选cue及相邻上下文；再查外层骨架、短回应、普通搭配。二遍不靠regex发现。",
+    "status": "completed",
+    "added_candidates": [
+      "go back over sth.",
+      "not like what one hears",
+      "All set.",
+      "sth. is out",
+      "Nothing like that will ever happen again.",
+      "fifty-fifty",
+      "go one's own way",
+      "How solid is sth.?",
+      "Here's the thing about sth.",
+      "stick to sth.",
+      "now that you're here",
+      "the key witness"
+    ],
+    "added_count": 12,
+    "read_batches": [
+      [
+        1,
+        569
+      ]
+    ],
+    "final_selected_count": 79,
+    "note": "added_candidates列的是二遍发现候选，随后部分因重复／转词汇／待核而不进入items。"
+  },
+  "validation": {
+    "quote_rule": "去HTML并合并空白；不改原词、拼写和标点",
+    "coverage_boundary": "通读与回查记录不证明无遗漏；候选不等于已掌握",
+    "selected_items": 79,
+    "source_hash_verified": true,
+    "quote_and_timecode_verified": true
+  },
+  "read_note": "每集完整输出所有cue，输出上限保证未截断；以集为读取批次，不虚构100条工具读取批次。",
+  "deduplication_note": "对S01–S03首批已有清单做规范化提示并人工核含义；季内顺序去重。同形新义保留。跨其他并行季由主agent最终统查。",
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

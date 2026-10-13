@@ -1,0 +1,997 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S03/Better.Call.Saul.S03E02.en.srt",
+  "sha256": "3f6c8b4ec9ab6a8df1f960df201f598b912682b26f4326b57cd3218dd6cae355",
+  "subtitle_blocks_read": 599,
+  "max_cue": 599,
+  "selection_status": "Candidates, pending user screening; community subtitles, not audio-verified",
+  "read_batches": [
+    [
+      1,
+      240
+    ],
+    [
+      241,
+      599
+    ]
+  ],
+  "second_pass": "Re-read initially unselected cues; recovered short evaluative, reception and work-organization frames.",
+  "items": [
+    {
+      "chunk": "pull sth. out of action",
+      "meaning": "让某物停止使用／退出运行",
+      "start_cue": 16,
+      "end_cue": 17,
+      "start_time": "00:02:18,681",
+      "end_time": "00:02:24,547",
+      "quote": "Once the casino pulls a deck of cards out of action... they drill a hole through them and sell them to the public.",
+      "id": "S03E02-001"
+    },
+    {
+      "chunk": "prevent sb. from doing sth.",
+      "meaning": "阻止某人做某事",
+      "start_cue": 20,
+      "end_cue": 20,
+      "start_time": "00:02:31,178",
+      "end_time": "00:02:34,306",
+      "quote": "I suppose that's to prevent people from cheating with them.",
+      "id": "S03E02-002"
+    },
+    {
+      "chunk": "make for sth.",
+      "meaning": "使得／成为某种结果；这里指废牌用来当纪念品很合适，常见makes for a good…，不是表示去往某处的make for",
+      "start_cue": 22,
+      "end_cue": 22,
+      "start_time": "00:02:36,434",
+      "end_time": "00:02:38,077",
+      "quote": "Makes for a good souvenir.",
+      "id": "S03E02-003"
+    },
+    {
+      "chunk": "kill the lights",
+      "meaning": "关灯；随意口语",
+      "start_cue": 26,
+      "end_cue": 26,
+      "start_time": "00:02:53,409",
+      "end_time": "00:02:56,720",
+      "quote": "I hate to say it, but I think it might be time to kill the lights.",
+      "id": "S03E02-004"
+    },
+    {
+      "chunk": "Just what I needed.",
+      "meaning": "正是我需要的；此处认真感谢咖啡，也可在其他语境反讽",
+      "start_cue": 32,
+      "end_cue": 32,
+      "start_time": "00:04:43,523",
+      "end_time": "00:04:45,692",
+      "quote": "Just what I needed.",
+      "id": "S03E02-005"
+    },
+    {
+      "chunk": "Drink up.",
+      "meaning": "把饮料喝完／赶紧喝；短促的劝饮用语",
+      "start_cue": 33,
+      "end_cue": 33,
+      "start_time": "00:04:47,138",
+      "end_time": "00:04:49,307",
+      "quote": "Drink up, guys. Don't need you falling asleep.",
+      "id": "S03E02-006"
+    },
+    {
+      "chunk": "shit the bed",
+      "meaning": "坏掉／彻底失灵；粗俗口语，此处指电池",
+      "start_cue": 35,
+      "end_cue": 35,
+      "start_time": "00:04:52,710",
+      "end_time": "00:04:55,354",
+      "quote": "Oh, yeah. It finally shit the bed, but...",
+      "id": "S03E02-007"
+    },
+    {
+      "chunk": "swap sth. out",
+      "meaning": "把某物换掉，换上替代品",
+      "start_cue": 35,
+      "end_cue": 36,
+      "start_time": "00:04:52,710",
+      "end_time": "00:04:58,149",
+      "quote": "Oh, yeah. It finally shit the bed, but... we swapped it out a couple hours ago.",
+      "id": "S03E02-008"
+    },
+    {
+      "chunk": "run early / late",
+      "meaning": "比预定时间早／晚；用于日程和到场时间",
+      "start_cue": 46,
+      "end_cue": 47,
+      "start_time": "00:13:08,084",
+      "end_time": "00:13:12,355",
+      "quote": "Hey, are you running early, or am I running late? No, sorry. I'm a little early.",
+      "id": "S03E02-009"
+    },
+    {
+      "chunk": "come off of … years at …",
+      "meaning": "刚结束在某处工作的……年经历；随意口语",
+      "start_cue": 58,
+      "end_cue": 58,
+      "start_time": "00:13:43,734",
+      "end_time": "00:13:46,028",
+      "quote": "So you're coming off of seven years at the MVD?",
+      "id": "S03E02-010"
+    },
+    {
+      "chunk": "That's … for you.",
+      "meaning": "……就是这样；常带对熟悉现象的无奈或讽刺",
+      "start_cue": 66,
+      "end_cue": 67,
+      "start_time": "00:14:04,328",
+      "end_time": "00:14:09,444",
+      "quote": "So I don't know if that answers the question, except to say that's the government for you.",
+      "id": "S03E02-011"
+    },
+    {
+      "chunk": "You got that right.",
+      "meaning": "你说得没错；加强赞同",
+      "start_cue": 68,
+      "end_cue": 68,
+      "start_time": "00:14:09,469",
+      "end_time": "00:14:13,389",
+      "quote": "You got that right. Well, I for one, am not calling it the MVD.",
+      "id": "S03E02-012"
+    },
+    {
+      "chunk": "for one",
+      "meaning": "就我个人而言；把自己作为明确的例子",
+      "start_cue": 68,
+      "end_cue": 69,
+      "start_time": "00:14:09,469",
+      "end_time": "00:14:15,875",
+      "quote": "You got that right. Well, I for one, am not calling it the MVD. DMV all the way.",
+      "id": "S03E02-013"
+    },
+    {
+      "chunk": "all the way",
+      "meaning": "坚定支持／完全选择某方；这里说只认DMV叫法",
+      "start_cue": 68,
+      "end_cue": 69,
+      "start_time": "00:14:09,469",
+      "end_time": "00:14:15,875",
+      "quote": "You got that right. Well, I for one, am not calling it the MVD. DMV all the way.",
+      "id": "S03E02-014"
+    },
+    {
+      "chunk": "sb.'s fair share of sth.",
+      "meaning": "相当多的某种经历或对象；不一定真指公平分配",
+      "start_cue": 75,
+      "end_cue": 76,
+      "start_time": "00:14:28,522",
+      "end_time": "00:14:33,677",
+      "quote": "- ... belligerent. - What about old folks? - You get your fair share of them? - Oh, lots of elderly drivers.",
+      "id": "S03E02-015",
+      "original_chunk": "one's fair share of sth."
+    },
+    {
+      "chunk": "a trick question",
+      "meaning": "有陷阱的提问／故意试探的问题",
+      "start_cue": 83,
+      "end_cue": 84,
+      "start_time": "00:14:48,467",
+      "end_time": "00:14:54,180",
+      "quote": "No, I would never. No. Nor should you. That was a trick question.",
+      "id": "S03E02-016"
+    },
+    {
+      "chunk": "pass with flying colors",
+      "meaning": "出色地通过／高分过关",
+      "start_cue": 85,
+      "end_cue": 85,
+      "start_time": "00:14:54,181",
+      "end_time": "00:14:56,537",
+      "quote": "You passed with flying colors. Very good.",
+      "id": "S03E02-017"
+    },
+    {
+      "chunk": "have an eye for sth.",
+      "meaning": "善于留意或判断某方面；此处看重条理和细节",
+      "start_cue": 91,
+      "end_cue": 92,
+      "start_time": "00:15:12,408",
+      "end_time": "00:15:18,079",
+      "quote": "So I'm looking for someone with an eye for organization... - ... and detail. - Well, DMV's great for that.",
+      "id": "S03E02-018"
+    },
+    {
+      "chunk": "let a mistake slip through",
+      "meaning": "让错误漏过检查／未能发现错误",
+      "start_cue": 94,
+      "end_cue": 96,
+      "start_time": "00:15:20,207",
+      "end_time": "00:15:27,634",
+      "quote": "We did see hundreds of people every day. And you'd never want to let a mistake slip through on their forms. You'd have a horrible cascade of problems.",
+      "id": "S03E02-019"
+    },
+    {
+      "chunk": "a cascade of problems",
+      "meaning": "接连发生的一连串问题",
+      "start_cue": 95,
+      "end_cue": 96,
+      "start_time": "00:15:22,209",
+      "end_time": "00:15:27,634",
+      "quote": "And you'd never want to let a mistake slip through on their forms. You'd have a horrible cascade of problems.",
+      "id": "S03E02-020"
+    },
+    {
+      "chunk": "a good benefits package",
+      "meaning": "不错的一揽子员工福利",
+      "start_cue": 100,
+      "end_cue": 101,
+      "start_time": "00:15:34,954",
+      "end_time": "00:15:41,024",
+      "quote": "I have to imagine you'll be giving up a good benefits package. Good health care and retirement plans, but...",
+      "id": "S03E02-021"
+    },
+    {
+      "chunk": "too much red tape",
+      "meaning": "太多繁琐手续／官僚程序",
+      "start_cue": 102,
+      "end_cue": 104,
+      "start_time": "00:15:41,025",
+      "end_time": "00:15:49,157",
+      "quote": "there's a bureaucracy to government work, that... ultimately became too frustrating. I guess what you'd call it, too much red tape.",
+      "id": "S03E02-022"
+    },
+    {
+      "chunk": "be comfortable with sth.",
+      "meaning": "熟悉并能自如使用某物／做某事",
+      "start_cue": 107,
+      "end_cue": 108,
+      "start_time": "00:15:54,143",
+      "end_time": "00:15:58,733",
+      "quote": "And I see here both Word and Excel, you're comfortable with? - Absolutely. - Excel and Word, wow!",
+      "id": "S03E02-023"
+    },
+    {
+      "chunk": "You had me at …",
+      "meaning": "你一说到……我就被打动了；幽默套语",
+      "start_cue": 109,
+      "end_cue": 109,
+      "start_time": "00:15:58,734",
+      "end_time": "00:16:00,819",
+      "quote": "Well, you had me at old people.",
+      "id": "S03E02-024"
+    },
+    {
+      "chunk": "check sb.'s references",
+      "meaning": "核查某人的推荐人／背景证明；招聘用语",
+      "start_cue": 123,
+      "end_cue": 123,
+      "start_time": "00:16:31,976",
+      "end_time": "00:16:34,580",
+      "quote": "- We haven't checked her references. - So we'll check them.",
+      "id": "S03E02-025"
+    },
+    {
+      "chunk": "Perfection is the enemy of …",
+      "meaning": "追求完美反而妨碍……；警惕过度求全的框架，后项随具体观点变化",
+      "start_cue": 126,
+      "end_cue": 127,
+      "start_time": "00:16:39,609",
+      "end_time": "00:16:44,313",
+      "quote": "Yeah, because you're searching for perfection... and perfection is the enemy of perfectly adequate.",
+      "id": "S03E02-026"
+    },
+    {
+      "chunk": "That's the bar?",
+      "meaning": "标准就只有这样吗？bar比喻要求门槛，带质疑",
+      "start_cue": 128,
+      "end_cue": 128,
+      "start_time": "00:16:44,322",
+      "end_time": "00:16:46,990",
+      "quote": "- That's the bar? Adequate? - She's more than adequate.",
+      "id": "S03E02-027"
+    },
+    {
+      "chunk": "give sth./sb. a test run",
+      "meaning": "让某事物或人试运行／试做一次",
+      "start_cue": 136,
+      "end_cue": 136,
+      "start_time": "00:17:04,091",
+      "end_time": "00:17:06,259",
+      "quote": "Can we give her a test run, please?",
+      "id": "S03E02-028"
+    },
+    {
+      "chunk": "have a good feeling about sth.",
+      "meaning": "对某事有好的预感／觉得会顺利",
+      "start_cue": 137,
+      "end_cue": 137,
+      "start_time": "00:17:06,260",
+      "end_time": "00:17:08,254",
+      "quote": "I got a good feeling about this.",
+      "id": "S03E02-029"
+    },
+    {
+      "chunk": "half the battle",
+      "meaning": "事情成功所需的重要一半；比喻关键步骤",
+      "start_cue": 139,
+      "end_cue": 140,
+      "start_time": "00:17:16,470",
+      "end_time": "00:17:22,278",
+      "quote": "Now, getting these oldsters to call, that's half the battle, so... - they need to hear a friendly voice. - Friendly? Absolutely.",
+      "id": "S03E02-030"
+    },
+    {
+      "chunk": "come off as …",
+      "meaning": "给人以……印象／显得……",
+      "start_cue": 141,
+      "end_cue": 143,
+      "start_time": "00:17:22,303",
+      "end_time": "00:17:28,841",
+      "quote": "Speak loudly and clearly... but be careful with the loud and clear because it can come off as angry.",
+      "id": "S03E02-031"
+    },
+    {
+      "chunk": "hit the head",
+      "meaning": "去洗手间；随意口语",
+      "start_cue": 147,
+      "end_cue": 147,
+      "start_time": "00:17:34,109",
+      "end_time": "00:17:35,747",
+      "quote": "You need to hit the head before things...",
+      "id": "S03E02-033"
+    },
+    {
+      "chunk": "put sb. on hold",
+      "meaning": "让电话中的某人等候",
+      "start_cue": 149,
+      "end_cue": 150,
+      "start_time": "00:17:40,286",
+      "end_time": "00:17:46,324",
+      "quote": "Offices of Jimmy McGill. How may I help you? I'm sorry. May I put you on hold?",
+      "id": "S03E02-034"
+    },
+    {
+      "chunk": "It's a hot one out there.",
+      "meaning": "外面可真热；one指今天／此时天气，口语天气闲聊",
+      "start_cue": 163,
+      "end_cue": 163,
+      "start_time": "00:18:21,249",
+      "end_time": "00:18:22,866",
+      "quote": "It's a hot one out there.",
+      "id": "S03E02-035"
+    },
+    {
+      "chunk": "Will that work?",
+      "meaning": "这样安排可以吗？核对时间或方案",
+      "start_cue": 172,
+      "end_cue": 173,
+      "start_time": "00:18:44,233",
+      "end_time": "00:18:50,339",
+      "quote": "Uh, this Friday is open. Yes. Jimmy has a 9:00 free. Will that work?",
+      "id": "S03E02-036"
+    },
+    {
+      "chunk": "a number we can reach you at",
+      "meaning": "可以联系到你的电话号码；接待安排用语",
+      "start_cue": 174,
+      "end_cue": 175,
+      "start_time": "00:18:50,854",
+      "end_time": "00:18:57,821",
+      "quote": "Fantastic. Can you spell your name for me? And a number we can reach you at?",
+      "id": "S03E02-037"
+    },
+    {
+      "chunk": "Thank you for holding.",
+      "meaning": "谢谢你在线等候；电话接待用语",
+      "start_cue": 179,
+      "end_cue": 179,
+      "start_time": "00:19:10,357",
+      "end_time": "00:19:13,644",
+      "quote": "I am so sorry. Thank you for holding. How may I help you?",
+      "id": "S03E02-038"
+    },
+    {
+      "chunk": "set sb. up with an appointment",
+      "meaning": "替某人安排一次预约",
+      "start_cue": 180,
+      "end_cue": 181,
+      "start_time": "00:19:14,468",
+      "end_time": "00:19:19,480",
+      "quote": "Well, I can set you up with an appointment. Jimmy is busy at the moment, but if you'd like...",
+      "id": "S03E02-039"
+    },
+    {
+      "chunk": "leave a message",
+      "meaning": "留言；此处在对方无法接听时留话",
+      "start_cue": 184,
+      "end_cue": 185,
+      "start_time": "00:19:27,124",
+      "end_time": "00:19:33,067",
+      "quote": "I'm sorry, but Jimmy is unavailable at the moment. If you'd like to leave a message, Mr...",
+      "id": "S03E02-040"
+    },
+    {
+      "chunk": "patch sb. through",
+      "meaning": "把某人的电话接通／转接过去",
+      "start_cue": 189,
+      "end_cue": 191,
+      "start_time": "00:19:44,683",
+      "end_time": "00:19:52,622",
+      "quote": "This one don't wanna talk about Cracker Barrel. Yeah, patch that one through. Mr. McGill will take your call.",
+      "id": "S03E02-041"
+    },
+    {
+      "chunk": "crush sb.'s spirit",
+      "meaning": "打击某人的热情／让某人灰心",
+      "start_cue": 192,
+      "end_cue": 193,
+      "start_time": "00:19:56,445",
+      "end_time": "00:20:01,981",
+      "quote": "- Hey. - Your new assistant's a real pip. Yeah, thanks for crushing her spirit on the first day.",
+      "id": "S03E02-042"
+    },
+    {
+      "chunk": "be on this line",
+      "meaning": "在这通电话线上／参与这次通话",
+      "start_cue": 195,
+      "end_cue": 196,
+      "start_time": "00:20:06,747",
+      "end_time": "00:20:11,042",
+      "quote": "You the only one on this line? Yeah, only me. What's up?",
+      "id": "S03E02-043"
+    },
+    {
+      "chunk": "pull into a parking lot",
+      "meaning": "开进停车场",
+      "start_cue": 201,
+      "end_cue": 203,
+      "start_time": "00:20:28,561",
+      "end_time": "00:20:37,861",
+      "quote": "Sometime in the next 10 to 15 minutes... a guy in an old green Chevy Blazer is gonna pull into that parking lot. He'll take a knapsack, and he'll go inside.",
+      "id": "S03E02-044"
+    },
+    {
+      "chunk": "charm sb. into doing sth.",
+      "meaning": "凭讨好／魅力说服某人做某事；本句带讽刺",
+      "start_cue": 218,
+      "end_cue": 220,
+      "start_time": "00:21:08,115",
+      "end_time": "00:21:14,629",
+      "quote": "You gonna do the job or not? Fine. I'll do the job. You charmed me into it.",
+      "id": "S03E02-045"
+    },
+    {
+      "chunk": "May I take your order?",
+      "meaning": "请问要点什么？餐饮接待用语",
+      "start_cue": 221,
+      "end_cue": 221,
+      "start_time": "00:21:33,515",
+      "end_time": "00:21:36,195",
+      "quote": "Welcome to Los Pollos Hermanos. May I take your order?",
+      "id": "S03E02-046"
+    },
+    {
+      "chunk": "Dining in or to go?",
+      "meaning": "在店里吃还是打包带走？点餐用语",
+      "start_cue": 225,
+      "end_cue": 226,
+      "start_time": "00:21:44,193",
+      "end_time": "00:21:47,153",
+      "quote": "Dining in or to go? Dining in.",
+      "id": "S03E02-047"
+    },
+    {
+      "chunk": "Will that be all?",
+      "meaning": "还需要别的吗？核对订单是否完整",
+      "start_cue": 227,
+      "end_cue": 228,
+      "start_time": "00:21:47,154",
+      "end_time": "00:21:51,197",
+      "quote": "- Will that be all today? - Uh, yeah. Your total's $3.19.",
+      "id": "S03E02-048"
+    },
+    {
+      "chunk": "get behind the eight ball",
+      "meaning": "陷入不利处境／处处受制；台球比喻",
+      "start_cue": 259,
+      "end_cue": 260,
+      "start_time": "00:24:16,637",
+      "end_time": "00:24:19,697",
+      "quote": "When you get behind the eight ball... Sure. You're right.",
+      "id": "S03E02-049"
+    },
+    {
+      "chunk": "Coming up.",
+      "meaning": "马上好／马上送上；接待回应",
+      "start_cue": 265,
+      "end_cue": 266,
+      "start_time": "00:24:56,009",
+      "end_time": "00:25:01,120",
+      "quote": "Manuel, where's my 22? Coming up.",
+      "id": "S03E02-050"
+    },
+    {
+      "chunk": "Are you still looking?",
+      "meaning": "还在看／还没选好吗？此处问是否选好餐点",
+      "start_cue": 271,
+      "end_cue": 272,
+      "start_time": "00:27:08,600",
+      "end_time": "00:27:12,770",
+      "quote": "You ready or are you still looking? Sorry. I'm still trying to decide.",
+      "id": "S03E02-051"
+    },
+    {
+      "chunk": "Allow me.",
+      "meaning": "让我来吧；礼貌主动帮忙",
+      "start_cue": 278,
+      "end_cue": 279,
+      "start_time": "00:28:03,333",
+      "end_time": "00:28:06,792",
+      "quote": "Oh. Well, I'm sorry. Allow me.",
+      "id": "S03E02-052"
+    },
+    {
+      "chunk": "That's what I get for doing sth.",
+      "meaning": "这就是我……的后果；自嘲吃亏",
+      "start_cue": 280,
+      "end_cue": 281,
+      "start_time": "00:28:09,744",
+      "end_time": "00:28:15,534",
+      "quote": "You know, they say a nice watch band is as important as the watch. That's what I get for cheaping out.",
+      "id": "S03E02-053"
+    },
+    {
+      "chunk": "cheap out",
+      "meaning": "图便宜／舍不得花钱而降低质量；随意口语",
+      "start_cue": 281,
+      "end_cue": 281,
+      "start_time": "00:28:13,290",
+      "end_time": "00:28:15,534",
+      "quote": "That's what I get for cheaping out.",
+      "id": "S03E02-054"
+    },
+    {
+      "chunk": "Is there anything else I can do for you?",
+      "meaning": "还有什么我能帮你的吗？接待收尾",
+      "start_cue": 289,
+      "end_cue": 290,
+      "start_time": "00:28:38,106",
+      "end_time": "00:28:42,236",
+      "quote": "No problem. It's my pleasure. Is there anything else I can do for you?",
+      "id": "S03E02-055"
+    },
+    {
+      "chunk": "go bold with sth.",
+      "meaning": "在某方面作大胆选择；这里指多加辣酱，语境搭配",
+      "start_cue": 298,
+      "end_cue": 300,
+      "start_time": "00:28:57,292",
+      "end_time": "00:29:07,031",
+      "quote": "He ordered the number three with potatoes and coffee... went bold with the extra salsa... and he paid cash out of his left front pocket.",
+      "id": "S03E02-056"
+    },
+    {
+      "chunk": "What's our next move?",
+      "meaning": "我们下一步怎么做？商量行动策略",
+      "start_cue": 312,
+      "end_cue": 314,
+      "start_time": "00:29:36,331",
+      "end_time": "00:29:41,978",
+      "quote": "So... what's our next move, huh? Are we gonna follow this guy?",
+      "id": "S03E02-057"
+    },
+    {
+      "chunk": "clear sb.'s morning",
+      "meaning": "把上午的其他安排推掉，腾出时间",
+      "start_cue": 318,
+      "end_cue": 320,
+      "start_time": "00:29:51,304",
+      "end_time": "00:30:00,861",
+      "quote": "- That's it? - That's it. I mean, I cleared my morning. What, we're not gonna do, like...",
+      "id": "S03E02-058",
+      "original_chunk": "clear one's morning"
+    },
+    {
+      "chunk": "sit on sb.",
+      "meaning": "盯住／监视某人；此处为调查跟踪语境，不是坐在人身上",
+      "start_cue": 320,
+      "end_cue": 322,
+      "start_time": "00:29:58,353",
+      "end_time": "00:30:06,019",
+      "quote": "What, we're not gonna do, like... tail him to a new location? Or, I mean, we gotta sit on him, at least, I...",
+      "id": "S03E02-059"
+    },
+    {
+      "chunk": "Who's got your back?",
+      "meaning": "谁一直在支持你／罩着你？反问强调自己提供帮助",
+      "start_cue": 324,
+      "end_cue": 326,
+      "start_time": "00:30:17,872",
+      "end_time": "00:30:24,184",
+      "quote": "Hey. Who's got your back, huh? Me. That's who.",
+      "id": "S03E02-060"
+    },
+    {
+      "chunk": "leave a phone record",
+      "meaning": "留下通话记录",
+      "start_cue": 342,
+      "end_cue": 344,
+      "start_time": "00:34:22,654",
+      "end_time": "00:34:31,264",
+      "quote": "I didn't wanna call you because then it would leave a phone record. I was gonna come in, but... then I thought maybe Jimmy shouldn't see me.",
+      "id": "S03E02-061"
+    },
+    {
+      "chunk": "I'm a little hazy on …",
+      "meaning": "我对……不太清楚／记不清",
+      "start_cue": 357,
+      "end_cue": 358,
+      "start_time": "00:35:00,294",
+      "end_time": "00:35:06,674",
+      "quote": "I think I'm bound by confidentiality, maybe? I'm a little hazy on the legal points...",
+      "id": "S03E02-062"
+    },
+    {
+      "chunk": "have a buffer",
+      "meaning": "有一层隔离／缓冲；本句指通过中间人减少法律风险的设想，并非可靠法律建议",
+      "start_cue": 359,
+      "end_cue": 362,
+      "start_time": "00:35:06,675",
+      "end_time": "00:35:17,268",
+      "quote": "but if I tell you what I heard and not Jimmy directly... like... like we have a buffer... - ... then legally, I'm safe? - Ernie.",
+      "id": "S03E02-063"
+    },
+    {
+      "chunk": "the rest of the way",
+      "meaning": "余下的过程／接下来的部分",
+      "start_cue": 373,
+      "end_cue": 374,
+      "start_time": "00:35:46,006",
+      "end_time": "00:35:50,436",
+      "quote": "- I'll tell them. - Now, you remember Francesca. She'll take care of you the rest of the way.",
+      "id": "S03E02-064"
+    },
+    {
+      "chunk": "set the stage for sb.",
+      "meaning": "向某人交代背景，铺垫接下来要讲的事；此处不是安排舞台",
+      "start_cue": 401,
+      "end_cue": 403,
+      "start_time": "00:36:46,547",
+      "end_time": "00:36:53,633",
+      "quote": "Kim, let me set the stage for you, okay? When I went to Chuck's place last week... it was like the inside of a Jiffy Pop wrapper, all right?",
+      "id": "S03E02-065"
+    },
+    {
+      "chunk": "a broken man",
+      "meaning": "精神受到重创、已垮掉的人；人物状态搭配",
+      "start_cue": 410,
+      "end_cue": 411,
+      "start_time": "00:37:07,151",
+      "end_time": "00:37:11,571",
+      "quote": "I had to. He... he... Kim, he was broken. He was a broken man.",
+      "id": "S03E02-066"
+    },
+    {
+      "chunk": "Sorry for the delay.",
+      "meaning": "抱歉让你久等／耽搁了；恢复接待时的套语",
+      "start_cue": 442,
+      "end_cue": 443,
+      "start_time": "00:39:00,097",
+      "end_time": "00:39:03,933",
+      "quote": "Sorry for the delay, everyone. Mr. Witchell, thank you for your patience.",
+      "id": "S03E02-067"
+    },
+    {
+      "chunk": "I would never have thought to do sth.",
+      "meaning": "我怎么也不会想到要做某事；强调想法出人意料",
+      "start_cue": 445,
+      "end_cue": 446,
+      "start_time": "00:39:07,715",
+      "end_time": "00:39:12,052",
+      "quote": "I gotta say... I would never have thought to collect bottle caps.",
+      "id": "S03E02-068"
+    },
+    {
+      "chunk": "sort sth. by date",
+      "meaning": "将某物按日期排序",
+      "start_cue": 467,
+      "end_cue": 470,
+      "start_time": "00:40:24,676",
+      "end_time": "00:40:31,949",
+      "quote": "Can you go through the Mesa Verde files, in my office... and pull all the ones labeled \"CRA evaluations\"... and sort them by date? I need to make sure I have the most recent.",
+      "id": "S03E02-069"
+    },
+    {
+      "chunk": "get off the phone with sb.",
+      "meaning": "结束与某人的电话",
+      "start_cue": 474,
+      "end_cue": 474,
+      "start_time": "00:40:41,442",
+      "end_time": "00:40:44,058",
+      "quote": "just got off the phone with my old Crim-Pro professor.",
+      "id": "S03E02-070"
+    },
+    {
+      "chunk": "poke holes in sth.",
+      "meaning": "挑出某种说法／证据的漏洞",
+      "start_cue": 482,
+      "end_cue": 483,
+      "start_time": "00:41:02,547",
+      "end_time": "00:41:07,551",
+      "quote": "We can poke holes in the custody... throw doubt the voice on the tape is even yours.",
+      "id": "S03E02-071"
+    },
+    {
+      "chunk": "failing that",
+      "meaning": "如果那样还不行／如果前面的方法失败",
+      "start_cue": 482,
+      "end_cue": 485,
+      "start_time": "00:41:02,547",
+      "end_time": "00:41:11,513",
+      "quote": "We can poke holes in the custody... throw doubt the voice on the tape is even yours. Even failing that, its probative value doesn't outweigh how prejudicial it is.",
+      "id": "S03E02-072"
+    },
+    {
+      "chunk": "probative value",
+      "meaning": "证据证明力；法律术语搭配",
+      "start_cue": 484,
+      "end_cue": 485,
+      "start_time": "00:41:07,552",
+      "end_time": "00:41:11,513",
+      "quote": "Even failing that, its probative value doesn't outweigh how prejudicial it is.",
+      "id": "S03E02-073"
+    },
+    {
+      "chunk": "get sth. excluded outright",
+      "meaning": "使某物直接被排除；此处指排除证据",
+      "start_cue": 486,
+      "end_cue": 487,
+      "start_time": "00:41:11,514",
+      "end_time": "00:41:17,105",
+      "quote": "I think we can get the whole thing bounced under 403. Probably get it excluded outright.",
+      "id": "S03E02-074"
+    },
+    {
+      "chunk": "act accordingly",
+      "meaning": "据此行动／按情况采取相应措施",
+      "start_cue": 495,
+      "end_cue": 497,
+      "start_time": "00:41:45,506",
+      "end_time": "00:41:53,212",
+      "quote": "If Chuck has a plan for this tape, I don't know what it is. At this point, all we can do is wait for his move, then act accordingly.",
+      "id": "S03E02-075"
+    },
+    {
+      "chunk": "the cost is starting to add up",
+      "meaning": "费用开始不断累积／越来越可观",
+      "start_cue": 526,
+      "end_cue": 528,
+      "start_time": "00:48:03,104",
+      "end_time": "00:48:12,032",
+      "quote": "I think I've been very patient... but the cost of these around-the-clock private investigators, is really starting to add up.",
+      "id": "S03E02-077"
+    },
+    {
+      "chunk": "have an ethical obligation to do sth.",
+      "meaning": "有职业伦理义务做某事；本句在to之后被打断，不能补造角色后面实际说了什么",
+      "start_cue": 529,
+      "end_cue": 531,
+      "start_time": "00:48:12,057",
+      "end_time": "00:48:19,369",
+      "quote": "Howard. This is our duty. As officers of the court... - we have an ethical obligation to... - Yes.",
+      "id": "S03E02-078"
+    },
+    {
+      "chunk": "sit back and do nothing",
+      "meaning": "袖手旁观／坐等而不采取行动",
+      "start_cue": 532,
+      "end_cue": 533,
+      "start_time": "00:48:19,370",
+      "end_time": "00:48:23,311",
+      "quote": "My brother broke the law. We can't just sit back and do nothing.",
+      "id": "S03E02-079"
+    },
+    {
+      "chunk": "be open to alternate strategies",
+      "meaning": "愿意考虑其他策略，而不只坚持当前办法",
+      "start_cue": 534,
+      "end_cue": 537,
+      "start_time": "00:48:23,336",
+      "end_time": "00:48:32,685",
+      "quote": "I'm not talking about doing nothing. I just want to... free up our minds... and be open to alternate strategies, please.",
+      "id": "S03E02-080"
+    },
+    {
+      "chunk": "I wouldn't put anything past sb.",
+      "meaning": "某人什么都干得出来；带怀疑或负面评价",
+      "start_cue": 542,
+      "end_cue": 543,
+      "start_time": "00:48:47,064",
+      "end_time": "00:48:52,748",
+      "quote": "Jimmy will most likely break in while he thinks I'm sleeping. I mean, I wouldn't put anything past him.",
+      "id": "S03E02-081"
+    },
+    {
+      "chunk": "under cover of darkness",
+      "meaning": "趁夜色掩护／利用黑暗隐蔽行动",
+      "start_cue": 544,
+      "end_cue": 545,
+      "start_time": "00:48:52,773",
+      "end_time": "00:48:56,531",
+      "quote": "It just makes the most sense... he'll try to steal the tape under cover of darkness.",
+      "id": "S03E02-082"
+    },
+    {
+      "chunk": "burn sth. to the ground",
+      "meaning": "把某物彻底烧毁",
+      "start_cue": 578,
+      "end_cue": 579,
+      "start_time": "00:50:23,422",
+      "end_time": "00:50:29,391",
+      "quote": "Or did you make copies? Huh, Chuck? Huh? You tell me, or I'll burn this whole goddamn house to the ground.",
+      "id": "S03E02-083"
+    },
+    {
+      "chunk": "be a witness to sth.",
+      "meaning": "亲眼见证某事／是某事的目击者",
+      "start_cue": 583,
+      "end_cue": 587,
+      "start_time": "00:50:37,366",
+      "end_time": "00:50:46,212",
+      "quote": "Howard... you were a witness to what happened here? I was. And you? I'm a witness.",
+      "id": "S03E02-084"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "How can you not?",
+      "start_cue": 80,
+      "end_cue": 82,
+      "reason": "已有How could you not…，同一反问动作"
+    },
+    {
+      "chunk": "find the right fit",
+      "start_cue": 124,
+      "end_cue": 125,
+      "reason": "已有the right fit，同一匹配人选义"
+    },
+    {
+      "chunk": "ring off the hook",
+      "start_cue": 134,
+      "end_cue": 135,
+      "reason": "前季同形同义"
+    },
+    {
+      "chunk": "Meet me halfway.",
+      "start_cue": 538,
+      "end_cue": 538,
+      "reason": "已有meet sb. halfway，同一妥协义"
+    },
+    {
+      "chunk": "How can you be so sure?",
+      "start_cue": 546,
+      "end_cue": 548,
+      "reason": "已有How are you so sure?，同一质疑确定性动作"
+    },
+    {
+      "chunk": "That's what I get for cheaping out.",
+      "start_cue": 280,
+      "end_cue": 281,
+      "reason": "已有同一句中的完整骨架和独立动词，不重复长片段"
+    }
+  ],
+  "pending": [
+    {
+      "chunk": "a heartstrings con job",
+      "start_cue": 561,
+      "end_cue": 561,
+      "reason": "临时组合，保留现场意思；未作为标准模板教学"
+    },
+    {
+      "chunk": "put a little sunshine in one's voice",
+      "meaning": "说话带点热情愉快；本句比喻，不当固定习语",
+      "start_cue": 144,
+      "end_cue": 145,
+      "start_time": "00:17:28,866",
+      "end_time": "00:17:32,677",
+      "quote": "Be folksy. - Put a little sunshine in your voice. - Got it.",
+      "id": "S03E02-032",
+      "reason": "原选材已注明为临场比喻；迁移时不宜当成固定习语，保留原句待选"
+    }
+  ],
+  "vocabulary_candidates": [
+    "belligerent",
+    "geezer",
+    "folksy",
+    "dietetic",
+    "pip",
+    "Mylar",
+    "probative",
+    "prejudicial",
+    "straggler",
+    {
+      "chunk": "around-the-clock",
+      "meaning": "昼夜不停的／全天候的；复合词放在搭配中记录",
+      "start_cue": 526,
+      "end_cue": 528,
+      "start_time": "00:48:03,104",
+      "end_time": "00:48:12,032",
+      "quote": "I think I've been very patient... but the cost of these around-the-clock private investigators, is really starting to add up.",
+      "id": "S03E02-076",
+      "reason": "compound adjective around-the-clock为全天候的单词学习点；本项未指定有独立价值的名词搭配，转词汇"
+    }
+  ],
+  "intentional_omissions": [
+    "Season recaps and next-episode preview repetitions; credits and lyrics",
+    "Cue 493 double negation may be a subtitle error or spoken repair; do not teach it as a standard template"
+  ],
+  "review_notes": [
+    {
+      "action": "corrected",
+      "original_item": {
+        "chunk": "make for sth.",
+        "meaning": "有助于成为／可以用作……；这里指适合作纪念品",
+        "start_cue": 22,
+        "end_cue": 22,
+        "start_time": "00:02:36,434",
+        "end_time": "00:02:38,077",
+        "quote": "Makes for a good souvenir.",
+        "id": "S03E02-003"
+      },
+      "updated_chunk": "make for sth.",
+      "updated_meaning": "使得／成为某种结果；这里指废牌用来当纪念品很合适，常见makes for a good…，不是表示去往某处的make for",
+      "reason": "按现场语境修正或约束泛化，原引文和时间码不改"
+    },
+    {
+      "action": "pending",
+      "original_item": {
+        "chunk": "put a little sunshine in one's voice",
+        "meaning": "说话带点热情愉快；本句比喻，不当固定习语",
+        "start_cue": 144,
+        "end_cue": 145,
+        "start_time": "00:17:28,866",
+        "end_time": "00:17:32,677",
+        "quote": "Be folksy. - Put a little sunshine in your voice. - Got it.",
+        "id": "S03E02-032"
+      },
+      "reason": "原选材已注明为临场比喻；迁移时不宜当成固定习语，保留原句待选"
+    },
+    {
+      "action": "vocabulary_track",
+      "original_item": {
+        "chunk": "around-the-clock",
+        "meaning": "昼夜不停的／全天候的；复合词放在搭配中记录",
+        "start_cue": 526,
+        "end_cue": 528,
+        "start_time": "00:48:03,104",
+        "end_time": "00:48:12,032",
+        "quote": "I think I've been very patient... but the cost of these around-the-clock private investigators, is really starting to add up.",
+        "id": "S03E02-076"
+      },
+      "reason": "compound adjective around-the-clock为全天候的单词学习点；本项未指定有独立价值的名词搭配，转词汇"
+    },
+    {
+      "action": "corrected",
+      "original_item": {
+        "chunk": "have an ethical obligation to do sth.",
+        "meaning": "有道义／职业伦理义务做某事",
+        "start_cue": 529,
+        "end_cue": 531,
+        "start_time": "00:48:12,057",
+        "end_time": "00:48:19,369",
+        "quote": "Howard. This is our duty. As officers of the court... - we have an ethical obligation to... - Yes.",
+        "id": "S03E02-078"
+      },
+      "updated_chunk": "have an ethical obligation to do sth.",
+      "updated_meaning": "有职业伦理义务做某事；本句在to之后被打断，不能补造角色后面实际说了什么",
+      "reason": "按现场语境修正或约束泛化，原引文和时间码不改"
+    }
+  ],
+  "independent_review": {
+    "scope": "S03E01–E07 chunk/meaning/quote，against S01–S02；本次未重新做全集提取",
+    "status": "completed",
+    "duplicate_skipped": 0,
+    "vocabulary_track": 1,
+    "pending": 1,
+    "corrected": 2,
+    "boundary": "简单、能逐词理解不是删除理由；同形新义、不同语气或有独立接法的变体保留"
+  },
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

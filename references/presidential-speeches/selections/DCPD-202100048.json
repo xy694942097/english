@@ -1,0 +1,445 @@
+{
+  "source_id": "DCPD-202100048",
+  "html_source": "materials/corpus/presidential-speeches/govinfo/DCPD-202100048.htm",
+  "source_sha256": "558c0877990aecbe59fdb293dfd4c0ce0789e89437ac17029b8e5556f42113e2",
+  "paragraphs_read": 47,
+  "read_ranges": [
+    [
+      1,
+      47
+    ]
+  ],
+  "first_pass": {
+    "method": "依read_rows段号逐段阅读全文，分别扫描外层表达动作和内部词块；人工列候选，不使用预设regex发现。",
+    "items": 41
+  },
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        47
+      ]
+    ],
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "added": 6
+  },
+  "items": [
+    {
+      "paragraph": 2,
+      "chunk": "rise to the challenge",
+      "meaning": "迎接挑战，表现出应对能力",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Through a crucible for the ages America has been tested anew, and America has risen to the challenge."
+    },
+    {
+      "paragraph": 4,
+      "chunk": "set one's sights on sth.",
+      "meaning": "把目标定在……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "As we look ahead in our uniquely American way—restless, bold, optimistic—and set our sights on the Nation we know we can be and we must be, I thank my predecessors of both parties for their presence here today."
+    },
+    {
+      "paragraph": 4,
+      "chunk": "from the bottom of one's heart",
+      "meaning": "发自内心地",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I thank them from the bottom of my heart."
+    },
+    {
+      "paragraph": 5,
+      "chunk": "depend not on A, but on B",
+      "meaning": "所依靠的不是A，而是B",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "重定因果或责任来源的外层骨架。",
+      "quote": "I have just taken the sacred oath each of these patriots have taken, the oath first sworn by George Washington. But the American story depends not on any one of us, not on some of us, but on all of us, on \"We the People,\" who seek a more perfect Union."
+    },
+    {
+      "paragraph": 6,
+      "chunk": "have far to go",
+      "meaning": "还有很长的路要走",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "指目标尚未达到，可比喻用于项目与学习。",
+      "quote": "But we still have far to go."
+    },
+    {
+      "paragraph": 6,
+      "chunk": "press forward",
+      "meaning": "继续坚定推进",
+      "register": "正式／演讲",
+      "note": "正式；带决心。",
+      "quote": "We'll press forward with speed and urgency, for we have much to do in this winter of peril and significant possibilities: much to repair, much to restore, much to heal, much to build, and much to gain."
+    },
+    {
+      "paragraph": 7,
+      "chunk": "years in the making",
+      "meaning": "酝酿／形成了多年",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "不能译为未来要花多年。",
+      "quote": "A cry for racial justice some 400 years in the making moves us."
+    },
+    {
+      "paragraph": 8,
+      "chunk": "require more than words",
+      "meaning": "需要的不只是口头表态",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "To overcome these challenges—to restore the soul and secure the future of America— requires so much more than words. It requires the most elusive of all things in a democracy: unity. Unity."
+    },
+    {
+      "paragraph": 9,
+      "chunk": "put pen to paper",
+      "meaning": "提笔写下／签署",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "语境是签署；书面表达。",
+      "quote": "When he put pen to paper, the President said, and I quote, \"If my name ever goes down into history it will be for this act, and my whole soul is in it.\" My whole soul is in it."
+    },
+    {
+      "paragraph": 12,
+      "chunk": "right wrongs",
+      "meaning": "纠正不公或错误",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We can right wrongs."
+    },
+    {
+      "paragraph": 12,
+      "chunk": "put sb. to work",
+      "meaning": "让某人投入工作",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "With unity we can do great things, important things. We can right wrongs. We can put people to work in good jobs. We can teach our children in safe schools. We can overcome the deadly virus. We can reward work and rebuild the middle class and make health care secure for all. We can deliver racial justice, and we can make America, once again, the leading force for good in the world."
+    },
+    {
+      "paragraph": 13,
+      "chunk": "sound to sb. like sth.",
+      "meaning": "在某人听来像……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "表达对一种说法的感受，而非声音音色。",
+      "quote": "I know speaking of unity can sound to some like a foolish fantasy these days. I know the forces that divide us are deep and they are real. But I also know they are not new. Our history has been a constant struggle between the American ideal that we all are created equal and the harsh, ugly reality that racism, nativism, fear, demonization have long torn us apart. The battle is perennial. And victory is never assured."
+    },
+    {
+      "paragraph": 13,
+      "chunk": "tear sb. apart",
+      "meaning": "使人分裂／疏远",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句指社会被分裂；与悲痛义区分。",
+      "quote": "I know speaking of unity can sound to some like a foolish fantasy these days. I know the forces that divide us are deep and they are real. But I also know they are not new. Our history has been a constant struggle between the American ideal that we all are created equal and the harsh, ugly reality that racism, nativism, fear, demonization have long torn us apart. The battle is perennial. And victory is never assured."
+    },
+    {
+      "paragraph": 14,
+      "chunk": "come together to do sth.",
+      "meaning": "联合起来做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "In each of these moments, enough of us—enough of us—have come together to carry all of us forward."
+    },
+    {
+      "paragraph": 15,
+      "chunk": "show the way",
+      "meaning": "指明方向",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "History, faith, and reason show the way: the way of unity."
+    },
+    {
+      "paragraph": 16,
+      "chunk": "treat sb. with dignity and respect",
+      "meaning": "以尊严与尊重对待某人",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We can treat each other with dignity and respect."
+    },
+    {
+      "paragraph": 16,
+      "chunk": "join forces",
+      "meaning": "联手、合作",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We can join forces, stop the shouting, and lower the temperature."
+    },
+    {
+      "paragraph": 17,
+      "chunk": "I guarantee you, 从句",
+      "meaning": "我向你保证……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "明确的强承诺。",
+      "quote": "If we do that, I guarantee you, we will not fail."
+    },
+    {
+      "paragraph": 18,
+      "chunk": "start afresh",
+      "meaning": "重新开始",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And so today, at this time, in this place, let's start afresh, all of us."
+    },
+    {
+      "paragraph": 18,
+      "chunk": "sth. doesn't have to be sth.",
+      "meaning": "某事不必成为……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "说明更坏的结果并非必然；与禁止不同。",
+      "quote": "Politics doesn't have to be a raging fire destroying everything in its path."
+    },
+    {
+      "paragraph": 21,
+      "chunk": "hang in the balance",
+      "meaning": "处于未定的紧要关头",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "结果可能向任一方向发展，较书面。",
+      "quote": "Just look around. Here we stand, in the shadow of the Capitol dome, as was mentioned earlier, completed amid the Civil War, when the Union itself was literally hanging in the balance. Yet we endured, we prevailed."
+    },
+    {
+      "paragraph": 23,
+      "chunk": "Don't tell me 从句",
+      "meaning": "别跟我说……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句为强势驳斥并非寻求信息。",
+      "quote": "And today we mark the swearing-in of the first woman in American history elected to national office: Vice President Kamala Harris. Don't tell me things can't change."
+    },
+    {
+      "paragraph": 26,
+      "chunk": "place one's faith in sb.",
+      "meaning": "相信、信任某人",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "To all those who supported our campaign, I am humbled by the faith you've placed in us. To all those who did not support us, let me say this: Hear me out as we move forward. Take a"
+    },
+    {
+      "paragraph": 26,
+      "chunk": "hear sb. out",
+      "meaning": "听某人把话说完",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "To all those who supported our campaign, I am humbled by the faith you've placed in us. To all those who did not support us, let me say this: Hear me out as we move forward. Take a"
+    },
+    {
+      "paragraph": 27,
+      "chunk": "so be it",
+      "meaning": "那就这样吧／就接受这个结果",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "带接受而不再强求的语气。",
+      "quote": "measure of me and my heart. And if you still disagree, so be it. That's democracy. That's America. The right to dissent peaceably, within the guardrails of our Republic, is perhaps this Nation's greatest strength. Yet hear me clearly: Disagreement must not lead to disunion. And I pledge this to you: I will be a President for all Americans—all Americans. And I promise you, I will fight as hard for those who did not support me as for those who did."
+    },
+    {
+      "paragraph": 27,
+      "chunk": "fight as hard for A as for B",
+      "meaning": "为A和B同样努力争取",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "保留比较骨架；fight 可指积极争取。",
+      "quote": "And I promise you, I will fight as hard for those who did not support me as for those who did."
+    },
+    {
+      "paragraph": 29,
+      "chunk": "teach sb. a painful lesson",
+      "meaning": "让某人吃到教训",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Recent weeks and months have taught us a painful lesson."
+    },
+    {
+      "paragraph": 30,
+      "chunk": "I get it",
+      "meaning": "我理解／我懂你的处境",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "同理回应；此处不是收到了物品。",
+      "quote": "Look, I understand that many of my fellow Americans view the future with fear and trepidation. I understand they worry about their jobs. I understand, like my dad, they lay at bed at night staring at the ceiling, wondering: \"Can I keep my health care? Can I pay my mortgage?\" Thinking about their families, about what comes next. I promise you, I get it. But the answer is not to turn inward, to retreat into competing factions, distrusting those who don't look like you or worship the way you do or don't get their news from the same sources you do. We must end this uncivil war that pits red against blue, rural versus urban, conservative versus liberal. We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment. Stand in their shoes."
+    },
+    {
+      "paragraph": 30,
+      "chunk": "pit A against B",
+      "meaning": "使A与B对立",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Look, I understand that many of my fellow Americans view the future with fear and trepidation. I understand they worry about their jobs. I understand, like my dad, they lay at bed at night staring at the ceiling, wondering: \"Can I keep my health care? Can I pay my mortgage?\" Thinking about their families, about what comes next. I promise you, I get it. But the answer is not to turn inward, to retreat into competing factions, distrusting those who don't look like you or worship the way you do or don't get their news from the same sources you do. We must end this uncivil war that pits red against blue, rural versus urban, conservative versus liberal. We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment. Stand in their shoes."
+    },
+    {
+      "paragraph": 30,
+      "chunk": "stand in the other person's shoes",
+      "meaning": "站在对方的立场考虑",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "常见变体put oneself in sb.'s shoes，原文stand照录。",
+      "quote": "We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment."
+    },
+    {
+      "paragraph": 31,
+      "chunk": "Here's the thing about sth.",
+      "meaning": "关于某事，关键在于……",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语引出解释。",
+      "quote": "Because here is the thing about life: There is no accounting for what fate will deal you."
+    },
+    {
+      "paragraph": 31,
+      "chunk": "There is no accounting for sth.",
+      "meaning": "无法解释／预测某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句面对命运的不可预知；固定说法并非会计。",
+      "quote": "Because here is the thing about life: There is no accounting for what fate will deal you."
+    },
+    {
+      "paragraph": 32,
+      "chunk": "lend a hand",
+      "meaning": "帮一把、提供帮助",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "There are other days when we're called to lend a hand."
+    },
+    {
+      "paragraph": 33,
+      "chunk": "set aside sth.",
+      "meaning": "暂放一边，不让其干扰当前任务",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We must set aside politics and finally face this pandemic as one Nation."
+    },
+    {
+      "paragraph": 33,
+      "chunk": "get through sth.",
+      "meaning": "撑过、度过困难",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And I promise you this: As the Bible says, \"Weeping may endure for a night, but joy cometh in the morning.\" We will get through this, together—together."
+    },
+    {
+      "paragraph": 34,
+      "chunk": "come out stronger for it",
+      "meaning": "经历此事后反而更强",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "for it 指因为经历了考验。",
+      "quote": "So here is my message to those beyond our borders: America has been tested, and we have come out stronger for it."
+    },
+    {
+      "paragraph": 35,
+      "chunk": "have been through so much",
+      "meaning": "经历过很多艰难事情",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Look, you all know, we have been through so much in this Nation."
+    },
+    {
+      "paragraph": 36,
+      "chunk": "lose one's life",
+      "meaning": "丧生",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "So I ask you, let's say a silent prayer for those who have lost their lives, for those they left behind, and for our country."
+    },
+    {
+      "paragraph": 38,
+      "chunk": "all at once",
+      "meaning": "同时，一起",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "But the fact is, we face them all at once, presenting this Nation with one of the gravest of responsibilities we've had."
+    },
+    {
+      "paragraph": 39,
+      "chunk": "step up",
+      "meaning": "主动承担责任",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Now we're going to be tested. Are we going to step up? All of us? It is time for boldness, for there is so much to do. And this is certain, I promise you: We will be judged, you and I, by how we resolve these cascading crises of our era. Will we rise to the occasion, is the question. Will we master this rare and difficult hour? Will we meet our obligations and pass along a new and better world to our children? I believe we must; I'm sure you do as well. I believe we will."
+    },
+    {
+      "paragraph": 39,
+      "chunk": "rise to the occasion",
+      "meaning": "在关键时刻发挥出应有能力",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "与rise to the challenge近义，场合触发点有独立边界。",
+      "quote": "Will we rise to the occasion, is the question."
+    },
+    {
+      "paragraph": 40,
+      "chunk": "stand out",
+      "meaning": "突出、引人注意",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And when we do, we will write the next great chapter in the history of the United States of America: the American story, a story that might sound something like a song that means a lot to me. It's called \"American Anthem,\" and there's one verse that stands out, at least for me, and it goes like this:"
+    },
+    {
+      "paragraph": 43,
+      "chunk": "give one's best",
+      "meaning": "尽自己最大的努力",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Let's add—let's us add our own work and prayers to the unfolding story of our great Nation. If we do this, then when our days are through, our children and our children's children will say of us: \"They gave their best. They did their duty. They healed a broken land.\""
+    },
+    {
+      "paragraph": 44,
+      "chunk": "give sb. one's word",
+      "meaning": "向某人郑重保证",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "My fellow Americans, I close today where I began, with a sacred oath. Before God and all of you I give you my word: I will always level with you. I will defend the Constitution. I will defend our democracy. I will defend America. And I will give all, all of you, keep everything you—I do, in your service, thinking not of power, but of possibilities; not of personal interest, but of the public good. And together, we shall write an American story of hope, not fear; of unity, not division; of light, not darkness. A story of decency and dignity, love and healing, greatness and goodness."
+    },
+    {
+      "paragraph": 44,
+      "chunk": "level with sb.",
+      "meaning": "对某人坦诚相告",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语；不是与某人保持水平。",
+      "quote": "Before God and all of you I give you my word: I will always level with you."
+    },
+    {
+      "paragraph": 45,
+      "chunk": "on one's watch",
+      "meaning": "在某人负责／任职期间",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "强调负责期间发生的事情。",
+      "quote": "May this be the story that guides us, the story that inspires us, and the story that tells ages yet to come that we answered the call of history, we met the moment; democracy and hope, truth and justice, did not die on our watch, but thrived; that America secured liberty at home and stood once again as a beacon to the world. That is what we owe our forebearers, one another, and generations to follow."
+    },
+    {
+      "paragraph": 46,
+      "chunk": "with all one's heart",
+      "meaning": "全心全意地",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "So with purpose and resolve we turn to those tasks of our time, sustained by faith, driven by conviction, and devoted to one another and the country we love with all our hearts."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 16,
+      "text": "lower the temperature",
+      "reason": "与202400984 bring down the temperature同义代表"
+    },
+    {
+      "paragraph": 16,
+      "text": "see each other not as adversaries, but as neighbors",
+      "reason": "与202400984 see sb. not as A but as B同一骨架"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [
+    {
+      "paragraph": 2,
+      "word": "crucible",
+      "meaning": "严峻考验",
+      "quote": "Through a crucible for the ages America has been tested anew, and America has risen to the challenge."
+    },
+    {
+      "paragraph": 13,
+      "word": "nativism",
+      "meaning": "排外主义",
+      "quote": "I know speaking of unity can sound to some like a foolish fantasy these days. I know the forces that divide us are deep and they are real. But I also know they are not new. Our history has been a constant struggle between the American ideal that we all are created equal and the harsh, ugly reality that racism, nativism, fear, demonization have long torn us apart. The battle is perennial. And victory is never assured."
+    },
+    {
+      "paragraph": 30,
+      "word": "trepidation",
+      "meaning": "忧惧",
+      "quote": "Look, I understand that many of my fellow Americans view the future with fear and trepidation. I understand they worry about their jobs. I understand, like my dad, they lay at bed at night staring at the ceiling, wondering: \"Can I keep my health care? Can I pay my mortgage?\" Thinking about their families, about what comes next. I promise you, I get it. But the answer is not to turn inward, to retreat into competing factions, distrusting those who don't look like you or worship the way you do or don't get their news from the same sources you do. We must end this uncivil war that pits red against blue, rural versus urban, conservative versus liberal. We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment. Stand in their shoes."
+    },
+    {
+      "paragraph": 39,
+      "word": "cascading",
+      "meaning": "接连发生的",
+      "quote": "Now we're going to be tested. Are we going to step up? All of us? It is time for boldness, for there is so much to do. And this is certain, I promise you: We will be judged, you and I, by how we resolve these cascading crises of our era. Will we rise to the occasion, is the question. Will we master this rare and difficult hour? Will we meet our obligations and pass along a new and better world to our children? I believe we must; I'm sure you do as well. I believe we will."
+    }
+  ],
+  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。"
+}

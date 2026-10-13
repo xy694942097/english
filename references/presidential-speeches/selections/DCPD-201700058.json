@@ -1,0 +1,276 @@
+{
+  "source_id": "DCPD-201700058",
+  "html_source": "https://www.govinfo.gov/content/pkg/DCPD-201700058/html/DCPD-201700058.htm",
+  "source_sha256": "d993211500af343d5eb84e7d94ff02723fbf8e571cf03585849004c9888fd6aa",
+  "paragraphs_read": 32,
+  "read_ranges": [
+    [
+      1,
+      32
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        32
+      ]
+    ],
+    "method": "逐段通读整体交际动作及内部词块；回看未选段与已选段，补充解释、对比、条件、叙事、工作与生活结构。观众插话单独识别，分页断句核对连续原段。未用词表筛选代替通读。",
+    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。"
+  },
+  "items": [
+    {
+      "chunk": "all talk and no action",
+      "meaning": "光说不做；只会嘴上说",
+      "register": "日常／直接批评",
+      "note": "带明确负面评价；评价同事时可能显得尖锐。",
+      "paragraph": 25,
+      "quote": "We will no longer accept politicians who are all talk and no action, constantly complaining, but never doing anything about it.",
+      "quote_sha256": "3f1f4f20906bc9a7b17a8e2b3023e6d6d436f37e428283eb040b4c8f44c9d1fa"
+    },
+    {
+      "chunk": "get the job done",
+      "meaning": "把任务完成；重点在结果",
+      "register": "日常／工作",
+      "note": "job 可以是具体任务，不一定是职业岗位；不自动表示完成得好。",
+      "paragraph": 2,
+      "quote": "We will face challenges, we will confront hardships, but we will get the job done.",
+      "quote_sha256": "00602d66951fd25792c578601a8b70ae34591d328b4655b0aabaeb27f2653881"
+    },
+    {
+      "chunk": "let [someone] down",
+      "meaning": "让某人失望；辜负其期待",
+      "register": "日常",
+      "note": "此处不是物理上放下人；ever 强化原句的承诺。",
+      "paragraph": 17,
+      "quote": "I will fight for you with every breath in my body, and I will never, ever let you down.",
+      "quote_sha256": "fb708d6f3892f2e090ed0a26de918529d45e81d2ac5232e0cdb687f0c59e66d7"
+    },
+    {
+      "chunk": "no room for [X]",
+      "meaning": "没有容纳 X 的余地；某种态度或行为不应存在",
+      "register": "中性／立场表达",
+      "note": "可字面指空间，也可抽象表达不容许；no room for error 表示不允许出错。",
+      "paragraph": 23,
+      "quote": "When you open your heart to patriotism, there is no room for prejudice.",
+      "quote_sha256": "90118661c0e2b5410e372d40ad3260e8a1ab34f388974db6675b4ce3e93c9610"
+    },
+    {
+      "chunk": "for years to come",
+      "meaning": "在未来许多年里",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 2,
+      "quote": "Together, we will determine the course of America and the world for many, many years to come.",
+      "quote_sha256": "0d22f7e2c9d0f6283662403adffc16922af749356108d3ebd8270bd82359848d"
+    },
+    {
+      "chunk": "carry out sth.",
+      "meaning": "执行／开展某事",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 3,
+      "quote": "Every 4 years, we gather on these steps to carry out the orderly and peaceful transfer of power, and we are grateful to President Obama and First Lady Michelle Obama for their gracious aid throughout this transition.",
+      "quote_sha256": "dec6a6bc73513c6b45a257983e690f5d258d1da198828e7f006b337c3e4b731c"
+    },
+    {
+      "chunk": "not merely ... but ...",
+      "meaning": "不只是……，而是……",
+      "register": "正式／重定焦点",
+      "note": "强调后半部分更重要的性质。",
+      "paragraph": 4,
+      "quote": "Today's ceremony, however, has very special meaning. Because today we are not merely transferring power from one administration to another or from one party to another, but we are transferring power from Washington, DC, and giving it back to you, the people.",
+      "quote_sha256": "7cc400985121345740ef9d4d07ae849fdc973e25584e836aae99f57e4f25a870"
+    },
+    {
+      "chunk": "reap the rewards of sth.",
+      "meaning": "获得某事带来的回报",
+      "register": "中性偏正式／评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 5,
+      "quote": "For too long, a small group in our Nation's Capital has reaped the rewards of Government while the people have borne the cost.",
+      "quote_sha256": "fe18a866eebe5144f9387df3f626e363308bbd86e419c5222323bd90bc9bcc2b"
+    },
+    {
+      "chunk": "bear the cost",
+      "meaning": "承担代价",
+      "register": "中性偏正式／评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 5,
+      "quote": "For too long, a small group in our Nation's Capital has reaped the rewards of Government while the people have borne the cost.",
+      "quote_sha256": "fe18a866eebe5144f9387df3f626e363308bbd86e419c5222323bd90bc9bcc2b"
+    },
+    {
+      "chunk": "share in sth.",
+      "meaning": "分享／分得某事的成果",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 5,
+      "quote": "Washington flourished, but the people did not share in its wealth.",
+      "quote_sha256": "2956070a2271b0d29149f6bc77bc19563060715e294ae9d925568d20358344c2"
+    },
+    {
+      "chunk": "while ... there is little to ...",
+      "meaning": "虽然／当……，却没有多少值得……的事",
+      "register": "正式／对照评价",
+      "note": "原句 while 表并存对比；槽位须保留有意义的评价动作。",
+      "paragraph": 5,
+      "quote": "Their victories have not been your victories; their triumphs have not been your triumphs; and while they celebrated in our Nation's Capital, there was little to celebrate for struggling families all across our land.",
+      "quote_sha256": "7b02feea8aa15359f4ec2835f139f60793e89e70eaf56e611a2d86e5d9827b61"
+    },
+    {
+      "chunk": "What truly matters is not ... but whether ...",
+      "meaning": "真正重要的不是……，而是是否……",
+      "register": "中性偏正式／澄清标准",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 7,
+      "quote": "What truly matters is not which party controls our Government, but whether our Government is controlled by the people.",
+      "quote_sha256": "603ce003b9aecf77a25d31b4e5e71ea0d72b8a3617f4980a0abe492defe6f57d"
+    },
+    {
+      "chunk": "At the center of sth. is ...",
+      "meaning": "某事的核心是……",
+      "register": "正式／说明核心",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 8,
+      "quote": "At the center of this movement is a crucial conviction: that a nation exists to serve its citizens.",
+      "quote_sha256": "89f64f5f09d3d35761a9595db2758421292b63d2184fd4676db52d861eb42968"
+    },
+    {
+      "chunk": "at the expense of sth.",
+      "meaning": "以牺牲某事为代价",
+      "register": "中性偏正式／代价对比",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 12,
+      "quote": "For many decades, we've enriched foreign industry at the expense of American industry, subsidized the armies of other countries while allowing for the very sad depletion of our military.",
+      "quote_sha256": "ff628846a001437cec325a8441065a1ae9965b535d02ff27380dc4b000093c3a"
+    },
+    {
+      "chunk": "fall into disrepair",
+      "meaning": "失修而破败",
+      "register": "中性偏正式／描述设施",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 12,
+      "quote": "We've defended other nations' borders while refusing to defend our own and spent trillions and trillions of dollars overseas while America's infrastructure has fallen into disrepair and decay.",
+      "quote_sha256": "43d5cf1cb71b9415513ffbab4c1022a175cda6d33c7a9d44d5d4ca9907c55f48"
+    },
+    {
+      "chunk": "one by one",
+      "meaning": "一个接一个地",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 13,
+      "quote": "One by one, the factories shuttered and left our shores, with not even a thought about the millions and millions of American workers that were left behind.",
+      "quote_sha256": "0a408ba22b5a60d09d7128acc6ed8fbccba6710141a776e7a1f250ba85aaa2c0"
+    },
+    {
+      "chunk": "from this day forward",
+      "meaning": "从今天起",
+      "register": "正式／宣布新阶段",
+      "note": "原段第二次 this 重复保留，不改原句。",
+      "paragraph": 15,
+      "quote": "From this day forward, a new vision will govern our land.",
+      "quote_sha256": "6541e44e1e96c53324a5cc5941f59cc762c8ae85cf6e7e352f5cc0350b88a901"
+    },
+    {
+      "chunk": "get sb. back to work",
+      "meaning": "让某人重新开始工作",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 20,
+      "quote": "We will get our people off of welfare and back to work, rebuilding our country with American hands and American labor.",
+      "quote_sha256": "f96c492b4c414ba249cb07b3030d7cd2f3f2efcb608673be6cd13f3f9575af72"
+    },
+    {
+      "chunk": "with the understanding that 从句",
+      "meaning": "以……这一共同理解／前提为基础",
+      "register": "中性偏正式／说明前提",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 21,
+      "quote": "We will seek friendship and good will with the nations of the world, but we do so with the understanding that it is the right of all nations to put their own interests first.",
+      "quote_sha256": "edcf1c8a7e8a42c34fc8cd29d02b0ae47ccd63f9de93b78a870d91ce5e962b2c"
+    },
+    {
+      "chunk": "put one's own interests first",
+      "meaning": "把自己的利益放在首位",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 21,
+      "quote": "We will seek friendship and good will with the nations of the world, but we do so with the understanding that it is the right of all nations to put their own interests first.",
+      "quote_sha256": "edcf1c8a7e8a42c34fc8cd29d02b0ae47ccd63f9de93b78a870d91ce5e962b2c"
+    },
+    {
+      "chunk": "speak one's mind",
+      "meaning": "坦率说出自己的想法",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 23,
+      "quote": "We must speak our minds openly, debate our disagreements honestly, but always pursue solidarity.",
+      "quote_sha256": "f2c85420ceaa60d0b3d179be10b2c40abf9c859a64182da800c87f3d7575177f"
+    },
+    {
+      "chunk": "think big",
+      "meaning": "大胆设想／有大志向",
+      "register": "中性／鼓励",
+      "note": "原句 dream even bigger 是同句修辞延伸。",
+      "paragraph": 25,
+      "quote": "Finally, we must think big and dream even bigger.",
+      "quote_sha256": "b9d365ce87599b0775009602a69963212d3af19014c986fe1f9e1145c62f3484"
+    },
+    {
+      "chunk": "Do not allow anyone to tell you that ...",
+      "meaning": "不要让任何人告诉你……",
+      "register": "中性／鼓励或反驳",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 26,
+      "quote": "Do not allow anyone to tell you that it cannot be done.",
+      "quote_sha256": "8194f79834c532ff68e18d1ef55c2d236fd2ddc732f9f2f232bd81edb51085bf"
+    },
+    {
+      "chunk": "whether ... or ..., 从句",
+      "meaning": "无论是……还是……，都……",
+      "register": "中性／包容与共同结果",
+      "note": "保留原句代词 they，不替换成文法练习改写。",
+      "paragraph": 29,
+      "quote": "And whether a child is born in the urban sprawl of Detroit or the windswept plains of Nebraska, they look up at the same night sky, they fill their heart with the same dreams, and they are infused with the breath of life by the same almighty Creator.",
+      "quote_sha256": "7caf2fbd42bead950495dc9bb7162c5b62846e1aae1e7b8bb782f06d7bcb5fcf"
+    },
+    {
+      "chunk": "guide sb. along the way",
+      "meaning": "在途中／过程中引导某人",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 30,
+      "quote": "And your courage and goodness and love will forever guide us along the way.",
+      "quote_sha256": "c80fbc62664a0b827b84f7a6acb41723b161cda91bc42590ea008307197f8fac"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 3,
+      "chunk": "be grateful to sb. for sth.",
+      "reason": "本总统集合 PPP-2000-book3-doc-pg2952 已收 be grateful to sb. for sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "Every 4 years, we gather on these steps to carry out the orderly and peaceful transfer of power, and we are grateful to President Obama and First Lady Michelle Obama for their gracious aid throughout this transition.",
+      "quote_sha256": "dec6a6bc73513c6b45a257983e690f5d258d1da198828e7f006b337c3e4b731c"
+    },
+    {
+      "paragraph": 9,
+      "chunk": "rob sb./sth. of sth.",
+      "reason": "本总统集合 DCPD-201500157 已收 rob sb. of sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "But for too many of our citizens, a different reality exists: Mothers and children trapped in poverty in our inner cities; rusted-out factories scattered like tombstones across the landscape of our Nation; an education system, flush with cash, but which leaves our young and beautiful students deprived of all knowledge; and the crime and the gangs and the drugs that have stolen too many lives and robbed our country of so much unrealized potential.",
+      "quote_sha256": "74248d4ef0a01e711001fa2a2ddd0bad58de174702e905214db3f9cb8166b865"
+    },
+    {
+      "paragraph": 21,
+      "chunk": "impose sth. on sb.",
+      "reason": "本总统集合 PPP-2005-book1-doc-pg66 已收 impose sth. on sb.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "We do not seek to impose our way of life on anyone, but rather to let it shine as an example—we will shine—for everyone to follow.",
+      "quote_sha256": "2064d6eea2180cd6c5a99fde80483bb2046cb240d5323cccf0ef298158f23d62"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。"
+}

@@ -1,0 +1,675 @@
+{
+  "source_id": "DCPD-200900001",
+  "html_source": "https://www.govinfo.gov/content/pkg/DCPD-200900001/html/DCPD-200900001.htm",
+  "source_sha256": "d8c42495d3745fa95d818290867c01ac8832fb33415f40802cf2c3af6a331fb5",
+  "paragraphs_read": 28,
+  "read_ranges": [
+    [
+      1,
+      28
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        28
+      ]
+    ],
+    "method": "先逐段检查外层表达动作及内部搭配，再回看所有未收段和已有条目所在段；补充否定推论、条件、转述、时间与普通动作结构，不按单词简单或考试出现推定掌握。",
+    "added": 5,
+    "intentionally_omitted": "称呼致谢、宗教祝福、政治运动口号、专名罗列、一次性长修辞、仅依赖具体历史的比喻；引用段可收可迁移局部但不冒充日常高频。"
+  },
+  "items": [
+    {
+      "chunk": "humbled by sth.",
+      "meaning": "因某种责任或经历而感到谦卑",
+      "register": "正式／感谢",
+      "note": "不是受羞辱；常用于承接重任。",
+      "paragraph": 1,
+      "quote": "My fellow citizens, I stand here today humbled by the task before us, grateful for the trust you have bestowed, mindful of the sacrifices borne by our ancestors.",
+      "quote_sha256": "03e45346da96b074ba07681196c3b68166d0e18903f085d8985c83c15aa15bd4"
+    },
+    {
+      "chunk": "mindful of sth.",
+      "meaning": "牢记并顾及某事",
+      "register": "正式／工作论述",
+      "note": "后接名词，表示有意识地考虑。",
+      "paragraph": 1,
+      "quote": "My fellow citizens, I stand here today humbled by the task before us, grateful for the trust you have bestowed, mindful of the sacrifices borne by our ancestors.",
+      "quote_sha256": "03e45346da96b074ba07681196c3b68166d0e18903f085d8985c83c15aa15bd4"
+    },
+    {
+      "chunk": "thank sb. for sth.",
+      "meaning": "为某事向某人致谢",
+      "register": "中性／感谢",
+      "note": "保留具体感谢理由的表达动作；不据简单判定已掌握。",
+      "paragraph": 1,
+      "quote": "I thank President Bush for his service to our Nation, as well as the generosity and cooperation he has shown throughout this transition.",
+      "quote_sha256": "77b658c16fd436cdff884ad8cea2a62692709df7414115c8192650a7ab987bb7"
+    },
+    {
+      "chunk": "every so often",
+      "meaning": "偶尔；隔一阵子",
+      "register": "中性／叙事",
+      "note": "非规律地发生，不等于 every day。",
+      "paragraph": 2,
+      "quote": "Yet every so often, the oath is taken amidst gathering clouds and raging storms.",
+      "quote_sha256": "9604461029d4aeef76e91cb3906a93ed94e8e09f2d8760fdf46c7e26ecfffc66"
+    },
+    {
+      "chunk": "carry on",
+      "meaning": "继续坚持做下去",
+      "register": "中性",
+      "note": "原句无宾语；可另接 doing sth.。",
+      "paragraph": 2,
+      "quote": "At these moments, America has carried on not simply because of the skill or vision of those in high office, but because we the people have remained faithful to the ideals of our forbearers and true to our founding documents.",
+      "quote_sha256": "5db4d78e887a24aae29430ddaa8b7d43f27469f7261343bee9865434881aaa87"
+    },
+    {
+      "chunk": "remain faithful to sth.",
+      "meaning": "始终忠于某种理想或承诺",
+      "register": "正式／立场",
+      "note": "适合价值或承诺，不是每种维持状态。",
+      "paragraph": 2,
+      "quote": "At these moments, America has carried on not simply because of the skill or vision of those in high office, but because we the people have remained faithful to the ideals of our forbearers and true to our founding documents.",
+      "quote_sha256": "5db4d78e887a24aae29430ddaa8b7d43f27469f7261343bee9865434881aaa87"
+    },
+    {
+      "chunk": "in the midst of sth.",
+      "meaning": "正处于某事之中",
+      "register": "中性偏正式",
+      "note": "常用来说明危机、活动或变化的阶段。",
+      "paragraph": 3,
+      "quote": "That we are in the midst of crisis is now well understood.",
+      "quote_sha256": "1d8275829f10edac63b3f4851f68713809f89ad5d023a45b7cfead001bf94806"
+    },
+    {
+      "chunk": "on the part of sb.",
+      "meaning": "某人方面的；由某人表现出的",
+      "register": "正式／归因",
+      "note": "不是某物的一部分。",
+      "paragraph": 3,
+      "quote": "Our economy is badly weakened, a consequence of greed and irresponsibility on the part of some, but also our collective failure to make hard choices and prepare the Nation for a new age.",
+      "quote_sha256": "53078cf98f8f65bd3b911036163c9d6c8abcdc9189279da56f6eef33ad156033"
+    },
+    {
+      "chunk": "make hard choices",
+      "meaning": "作出艰难取舍",
+      "register": "中性／工作",
+      "note": "hard 指难以取舍，非难理解。",
+      "paragraph": 3,
+      "quote": "Our economy is badly weakened, a consequence of greed and irresponsibility on the part of some, but also our collective failure to make hard choices and prepare the Nation for a new age.",
+      "quote_sha256": "53078cf98f8f65bd3b911036163c9d6c8abcdc9189279da56f6eef33ad156033"
+    },
+    {
+      "chunk": "no less + 形容词",
+      "meaning": "同样地；丝毫不逊色",
+      "register": "论述",
+      "note": "原句 less measurable but no less profound 对比可测性与影响。",
+      "paragraph": 4,
+      "quote": "Less measurable but no less profound is a sapping of confidence across our land, a nagging fear that America's decline is inevitable, that the next generation must lower its sights.",
+      "quote_sha256": "028cf9d57dd93972c52cc875f17e252a91c1497ac4e10ec9dd1244f1dbde11e9"
+    },
+    {
+      "chunk": "a nagging fear that 从句",
+      "meaning": "挥之不去的担忧：……",
+      "register": "中性／心理叙述",
+      "note": "nagging 指反复缠绕，不是别人唠叨。",
+      "paragraph": 4,
+      "quote": "Less measurable but no less profound is a sapping of confidence across our land, a nagging fear that America's decline is inevitable, that the next generation must lower its sights.",
+      "quote_sha256": "028cf9d57dd93972c52cc875f17e252a91c1497ac4e10ec9dd1244f1dbde11e9"
+    },
+    {
+      "chunk": "lower one's sights",
+      "meaning": "降低自己的目标或期望",
+      "register": "中性／评价",
+      "note": "sights 不是此处的视力。",
+      "paragraph": 4,
+      "quote": "Less measurable but no less profound is a sapping of confidence across our land, a nagging fear that America's decline is inevitable, that the next generation must lower its sights.",
+      "quote_sha256": "028cf9d57dd93972c52cc875f17e252a91c1497ac4e10ec9dd1244f1dbde11e9"
+    },
+    {
+      "chunk": "in a short span of time",
+      "meaning": "在很短的时间内",
+      "register": "中性偏正式",
+      "note": "span 指一段持续时间。",
+      "paragraph": 4,
+      "quote": "They will not be met easily or in a short span of time.",
+      "quote_sha256": "77daa220b2545100f95d3064d20887d081f790ae942bd5db986f2c0ba4ab0de4"
+    },
+    {
+      "chunk": "choose sth. over sth.",
+      "meaning": "在两者间选择前者",
+      "register": "中性／选择",
+      "note": "over 表偏好，不是空间上方。",
+      "paragraph": 5,
+      "quote": "On this day, we gather because we have chosen hope over fear, unity of purpose over conflict and discord.",
+      "quote_sha256": "29088271119f7243e0036f63e570f99c5150061d7d2a0dfb551a87824a05bdcf"
+    },
+    {
+      "chunk": "for far too long",
+      "meaning": "已经持续太久",
+      "register": "中性／批评",
+      "note": "far 强化 too long；暗示应当改变。",
+      "paragraph": 5,
+      "quote": "On this day, we come to proclaim an end to the petty grievances and false promises, the recriminations and worn-out dogmas that for far too long have strangled our politics.",
+      "quote_sha256": "bfda4327dce554ebb910fd1bef9f55811925c5c37db760046d0ea34b7a936176"
+    },
+    {
+      "chunk": "The time has come to do sth.",
+      "meaning": "到了该做某事的时候",
+      "register": "正式／宣布行动",
+      "note": "语气比 it's time 更庄重。",
+      "paragraph": 6,
+      "quote": "We remain a young nation, but in the words of Scripture, the time has come to set aside childish things.",
+      "quote_sha256": "5c6d6ff93f208a7c93262779e98864fc291f3d581206be9b1aceafa50274e706"
+    },
+    {
+      "chunk": "set aside sth.",
+      "meaning": "放下；暂不考虑某事",
+      "register": "中性",
+      "note": "此处为放下幼稚行为，非预留资金义。",
+      "paragraph": 6,
+      "quote": "We remain a young nation, but in the words of Scripture, the time has come to set aside childish things.",
+      "quote_sha256": "5c6d6ff93f208a7c93262779e98864fc291f3d581206be9b1aceafa50274e706"
+    },
+    {
+      "chunk": "carry forward sth.",
+      "meaning": "继续推进或传承某事",
+      "register": "正式／工作",
+      "note": "可接工作、计划或传统；不指一般携带。",
+      "paragraph": 6,
+      "quote": "The time has come to reaffirm our enduring spirit, to choose our better history, to carry forward that precious gift, that noble idea passed on from generation to generation: the God-given promise that all are equal, all are free, and all deserve a chance to pursue their full measure of happiness.",
+      "quote_sha256": "3abda0c88a6f02108d86599fa4854c6b5baf0ecfba40b1c2c800e71450d68479"
+    },
+    {
+      "chunk": "pass sth. on (to sb.)",
+      "meaning": "把某物传给他人",
+      "register": "中性",
+      "note": "原句被动 passed on；对象为理念。",
+      "paragraph": 6,
+      "quote": "The time has come to reaffirm our enduring spirit, to choose our better history, to carry forward that precious gift, that noble idea passed on from generation to generation: the God-given promise that all are equal, all are free, and all deserve a chance to pursue their full measure of happiness.",
+      "quote_sha256": "3abda0c88a6f02108d86599fa4854c6b5baf0ecfba40b1c2c800e71450d68479"
+    },
+    {
+      "chunk": "[X] is never a given",
+      "category": "句式骨架",
+      "meaning": "X 从来不是理所当然或自动有保证的",
+      "register": "中性／论述",
+      "note": "a given 作名词指可当成既定事实的东西；不能理解为过去分词被给予。",
+      "paragraph": 7,
+      "quote": "greatness is never a given.",
+      "quote_sha256": "cb7591945a63a3d47ab023477a86f9d2c0ac0c6245f4ec80bb65e610ba345b4c"
+    },
+    {
+      "chunk": "settle for less",
+      "category": "短语动词与动词结构",
+      "meaning": "接受更低的标准或次一等的结果；将就",
+      "register": "日常／鼓励或评价",
+      "note": "settle for 指接受不那么理想的选项；less 的比较标准由语境给出。",
+      "paragraph": 7,
+      "quote": "Our journey has never been one of shortcuts or settling for less.",
+      "quote_sha256": "90a2ca2f5e81b957d4fc90eae1376235c91b2574952f7bcf3cd1a3bc8cd57186"
+    },
+    {
+      "chunk": "in search of sth.",
+      "meaning": "寻找某物或某种生活",
+      "register": "中性／叙事",
+      "note": "介词短语，可修饰旅行或行动。",
+      "paragraph": 8,
+      "quote": "For us, they packed up their few worldly possessions and traveled across oceans in search of a new life.",
+      "quote_sha256": "1cf4593e50d29ec1c00df462bd457e72285d375b15045b5a074048d34bf97059"
+    },
+    {
+      "chunk": "pack up sth.",
+      "meaning": "收拾打包某物",
+      "register": "中性／生活",
+      "note": "原句是打包随身物品；不混入停工义。",
+      "paragraph": 8,
+      "quote": "For us, they packed up their few worldly possessions and traveled across oceans in search of a new life.",
+      "quote_sha256": "1cf4593e50d29ec1c00df462bd457e72285d375b15045b5a074048d34bf97059"
+    },
+    {
+      "chunk": "time and again",
+      "meaning": "一再；屡次",
+      "register": "中性／叙事",
+      "note": "强调整段经历里的重复。",
+      "paragraph": 9,
+      "quote": "Time and again, these men and women struggled and sacrificed and worked ‘til their hands were raw so that we might live a better life.",
+      "quote_sha256": "c93bc71fdcf54c9376c6ba548e2cd6897eba8a6ae6f043df72a3d92ded6245a7"
+    },
+    {
+      "chunk": "the sum of sth.",
+      "meaning": "某些部分的总和",
+      "register": "中性／论述",
+      "note": "原句用 bigger than the sum 对比整体与部分；不将政治比喻整句固定化。",
+      "paragraph": 9,
+      "quote": "They saw America as bigger than the sum of our individual ambitions, greater than all the differences of birth or wealth or faction.",
+      "quote_sha256": "338ee0cdd493dc18ca451e7aef95246786fdbd2a6f86d567a230976d43c6adcb"
+    },
+    {
+      "chunk": "stand pat",
+      "meaning": "维持原样，不作改变",
+      "register": "中性／评价",
+      "note": "原句 standing pat；带保守不动的意味。",
+      "paragraph": 10,
+      "quote": "But our time of standing pat, of protecting narrow interests and putting off unpleasant decisions, that time has surely passed.",
+      "quote_sha256": "ffb80f54c1458ab02ac3463325285fdf3bcf3f0cfa03d928b945da31f9c77cea"
+    },
+    {
+      "chunk": "put off sth.",
+      "meaning": "推迟某事",
+      "register": "中性／工作生活",
+      "note": "此处接 decisions；不是使人反感义。",
+      "paragraph": 10,
+      "quote": "But our time of standing pat, of protecting narrow interests and putting off unpleasant decisions, that time has surely passed.",
+      "quote_sha256": "ffb80f54c1458ab02ac3463325285fdf3bcf3f0cfa03d928b945da31f9c77cea"
+    },
+    {
+      "chunk": "pick oneself up",
+      "meaning": "重新振作起来",
+      "register": "中性／鼓励",
+      "note": "此处为受挫后的恢复，亦有字面起身义。",
+      "paragraph": 10,
+      "quote": "Starting today, we must pick ourselves up, dust ourselves off, and begin again the work of remaking America.",
+      "quote_sha256": "a0dee193e68daf12f568074852c028bfcafd42b94a674192db25ba8fd183300f"
+    },
+    {
+      "chunk": "dust oneself off",
+      "meaning": "受挫后整理心情重新开始",
+      "register": "中性／鼓励",
+      "note": "与 pick oneself up 相接；此处为比喻。",
+      "paragraph": 10,
+      "quote": "Starting today, we must pick ourselves up, dust ourselves off, and begin again the work of remaking America.",
+      "quote_sha256": "a0dee193e68daf12f568074852c028bfcafd42b94a674192db25ba8fd183300f"
+    },
+    {
+      "chunk": "no less + 形容词 + than ...",
+      "meaning": "与……相比丝毫不逊色",
+      "register": "中性／比较",
+      "note": "原句 productive than when；比第4段程度强调多明确比较对象。",
+      "paragraph": 10,
+      "quote": "Our workers are no less productive than when this crisis began.",
+      "quote_sha256": "5b062a65d3d21fff6b6b0aa53ae8e21c7ffc13296f382724b4e06a254afe8c7b"
+    },
+    {
+      "chunk": "call for sth.",
+      "meaning": "需要；要求某事",
+      "register": "中性／判断",
+      "note": "此处是形势需要行动，不是呼叫某人。",
+      "paragraph": 11,
+      "quote": "The state of the economy calls for action, bold and swift, and we will act not only to create new jobs but to lay a new foundation for growth.",
+      "quote_sha256": "764bbcb3abd69c7ae8435ba586f3bbbe95eac7b74ede0d77280129e021ad1a0c"
+    },
+    {
+      "chunk": "lay a foundation for sth.",
+      "meaning": "为某事奠定基础",
+      "register": "中性／工作",
+      "note": "foundation 可比喻后续发展条件。",
+      "paragraph": 11,
+      "quote": "The state of the economy calls for action, bold and swift, and we will act not only to create new jobs but to lay a new foundation for growth.",
+      "quote_sha256": "764bbcb3abd69c7ae8435ba586f3bbbe95eac7b74ede0d77280129e021ad1a0c"
+    },
+    {
+      "chunk": "meet the demands of sth.",
+      "meaning": "满足某事提出的要求",
+      "register": "中性／工作",
+      "note": "demands 为要求，非 demand 动词。",
+      "paragraph": 11,
+      "quote": "And we will transform our schools and colleges and universities to meet the demands of a new age.",
+      "quote_sha256": "5aaa55e8d3cab47d74e9fc4a16da5ac99e86aedcaa8e7ba37f041ccfa57e8346"
+    },
+    {
+      "chunk": "There are some who 从句",
+      "meaning": "有些人认为／做……",
+      "register": "论述",
+      "note": "引入一种立场，原句 question 与 suggest 说明具体异议。",
+      "paragraph": 12,
+      "quote": "Now, there are some who question the scale of our ambitions, who suggest that our system cannot tolerate too many big plans.",
+      "quote_sha256": "011a8f2a97f2e366442b6d06f4849adc2b162c95be7c51c4b6c7184b8019cde3"
+    },
+    {
+      "chunk": "question the scale of sth.",
+      "meaning": "质疑某事的规模",
+      "register": "正式／讨论",
+      "note": "question 作动词；不等同询问尺寸。",
+      "paragraph": 12,
+      "quote": "Now, there are some who question the scale of our ambitions, who suggest that our system cannot tolerate too many big plans.",
+      "quote_sha256": "011a8f2a97f2e366442b6d06f4849adc2b162c95be7c51c4b6c7184b8019cde3"
+    },
+    {
+      "chunk": "What sb. fails to understand is that 从句",
+      "meaning": "某人没有理解的是……",
+      "register": "论述／较直接",
+      "note": "指明对方遗漏，工作中可能显得强硬。",
+      "paragraph": 13,
+      "quote": "What the cynics fail to understand is that the ground has shifted beneath them; that the stale political arguments that have consumed us for so long no longer apply.",
+      "quote_sha256": "0c6d31a761e74e2adbfabd6d2733dfc0c3351361e888e6dbf800cb8af5d80623"
+    },
+    {
+      "chunk": "hold sb. to account",
+      "meaning": "要求某人负责并接受问责",
+      "register": "正式／责任",
+      "note": "原句被动 be held to account；不等于记账。",
+      "paragraph": 13,
+      "quote": "And those of us who manage the public's dollars will be held to account to spend wisely, reform bad habits, and do our business in the light of day, because only then can we restore the vital trust between a people and their government.",
+      "quote_sha256": "35b98cabc404697c67513e9291a85eb341bb29dcdac397d9a6d5e30d606a2f44"
+    },
+    {
+      "chunk": "in the light of day",
+      "meaning": "公开地；在公众可见之处",
+      "register": "中性偏正式",
+      "note": "原句指政府透明操作，也可字面指白天。",
+      "paragraph": 13,
+      "quote": "And those of us who manage the public's dollars will be held to account to spend wisely, reform bad habits, and do our business in the light of day, because only then can we restore the vital trust between a people and their government.",
+      "quote_sha256": "35b98cabc404697c67513e9291a85eb341bb29dcdac397d9a6d5e30d606a2f44"
+    },
+    {
+      "chunk": "The question is not whether [A], but whether [B]",
+      "category": "句式骨架",
+      "meaning": "真正要问的不是 A，而是 B；重新界定讨论焦点",
+      "register": "工作讨论／论述",
+      "note": "whether A/B 可各接一个完整判断；不只是替换 but，而是在转移判定标准。",
+      "paragraph": 13,
+      "quote": "The question we ask today is not whether our Government is too big or too small, but whether it works;",
+      "quote_sha256": "ad45b7b39fbd06aba24eff1565ff838586865fcae8346c937c16a76bfcd68f86"
+    },
+    {
+      "chunk": "Where the answer is yes/no, ...",
+      "meaning": "如果答案是肯定／否定的，就……",
+      "register": "正式／条件论证",
+      "note": "where 此处不是物理地点，而是适用情形。",
+      "paragraph": 13,
+      "quote": "Where the answer is yes, we intend to move forward.",
+      "quote_sha256": "e6ed0c40786b5bdf313fdaca759b378568e74526eae16a2a269ad2b8bcf62856"
+    },
+    {
+      "chunk": "spin out of control",
+      "meaning": "迅速失去控制",
+      "register": "中性／问题描述",
+      "note": "spin 带失控发展的意味。",
+      "paragraph": 14,
+      "quote": "But this crisis has reminded us that without a watchful eye, the market can spin out of control.",
+      "quote_sha256": "866527a1681304ab5a308106f9c0ac224169cccb16f3fc6430654deb68b7d90f"
+    },
+    {
+      "chunk": "not out of [X], but because [Y]",
+      "category": "句式骨架",
+      "meaning": "不是出于 X，而是因为 Y；澄清动机",
+      "register": "口语书面均可／解释",
+      "note": "out of 在此引出动机，X 常为情绪或态度名词，Y 为从句；不要照抄原政治主张。",
+      "paragraph": 14,
+      "quote": "not out of charity, but because it is the surest route to our common good.",
+      "quote_sha256": "89106dd80b906fea1be6293109b978ef329f055bef79ba5182f988cdd8d7e2cd"
+    },
+    {
+      "chunk": "As for sth.",
+      "meaning": "至于某事；转到另一个话题",
+      "register": "中性／衔接",
+      "note": "引出已相关的议题，不必机械接每段。",
+      "paragraph": 15,
+      "quote": "As for our common defense, we reject as false the choice between our safety and our ideals.",
+      "quote_sha256": "69c583f64612ea132b0ed85482bd94c72ecf89777147bc72f406ed9d2c56e914"
+    },
+    {
+      "chunk": "for sth.'s sake",
+      "meaning": "为了某事；看在某事份上",
+      "register": "中性／动机",
+      "note": "原句 expedience's sake 为图方便，语境正式。",
+      "paragraph": 15,
+      "quote": "Those ideals still light the world, and we will not give them up for expedience's sake.",
+      "quote_sha256": "01fcbf952bca8231024ea2e48467a067ff5a135f871b6fa32949abc34c934612"
+    },
+    {
+      "chunk": "face down sth.",
+      "meaning": "坚决对抗并压制某种威胁",
+      "register": "中性偏正式",
+      "note": "比 face 更有不退缩并迫使对方让步的意味。",
+      "paragraph": 16,
+      "quote": "Recall that earlier generations faced down fascism and communism not just with missiles and tanks but with sturdy alliances and enduring convictions.",
+      "quote_sha256": "0a5cd4b8a73055fe7cabfb27a7593a83168c37abccbe47fad1ff5b14ec6ccbfa"
+    },
+    {
+      "chunk": "entitle sb. to do sth.",
+      "meaning": "使某人有权做某事",
+      "register": "正式／权利边界",
+      "note": "否定可用于澄清资格并不授权任意行动。",
+      "paragraph": 16,
+      "quote": "They understood that our power alone cannot protect us, nor does it entitle us to do as we please.",
+      "quote_sha256": "55e4ff1ec7a6d3fb849a1a1a6652d1718f83cf0c944f681862094ab50f6ba6f9"
+    },
+    {
+      "chunk": "do as one pleases",
+      "meaning": "随心所欲地做",
+      "register": "中性／批评",
+      "note": "原句 do as we please；可能带未经约束的负面意思。",
+      "paragraph": 16,
+      "quote": "They understood that our power alone cannot protect us, nor does it entitle us to do as we please.",
+      "quote_sha256": "55e4ff1ec7a6d3fb849a1a1a6652d1718f83cf0c944f681862094ab50f6ba6f9"
+    },
+    {
+      "chunk": "work tirelessly to do sth.",
+      "meaning": "不懈努力做某事",
+      "register": "正式／承诺",
+      "note": "tirelessly 强调持续投入，日常承诺不宜夸大。",
+      "paragraph": 17,
+      "quote": "With old friends and former foes, we will work tirelessly to lessen the nuclear threat and roll back the specter of a warming planet.",
+      "quote_sha256": "ad5c6e4a944f8a7d0c151e10f63bae99b0938257bc82d14c56718185932143ab"
+    },
+    {
+      "chunk": "roll back sth.",
+      "meaning": "逆转；削弱某种发展或影响",
+      "register": "正式／政策工作",
+      "note": "与 rollback 软件含义相关但此处为遏制趋势。",
+      "paragraph": 17,
+      "quote": "With old friends and former foes, we will work tirelessly to lessen the nuclear threat and roll back the specter of a warming planet.",
+      "quote_sha256": "ad5c6e4a944f8a7d0c151e10f63bae99b0938257bc82d14c56718185932143ab"
+    },
+    {
+      "chunk": "cannot help but do sth.",
+      "meaning": "不由得做某事；忍不住……",
+      "register": "中性",
+      "note": "此处是相信；but 后动词原形。",
+      "paragraph": 18,
+      "quote": "we cannot help but believe that the old hatreds shall someday pass;",
+      "quote_sha256": "52d7f69dbb2db4d0681e88406993a55376c639783a9f4dd61f005908f5371d6f"
+    },
+    {
+      "chunk": "usher in a new era of sth.",
+      "meaning": "开启某事的新时期",
+      "register": "正式／演讲",
+      "note": "庄重宣布改变，不声称日常高频。",
+      "paragraph": 18,
+      "quote": "America must play its role in ushering in a new era of peace.",
+      "quote_sha256": "0d37871c9c36974fe7d48f138c12c98b005ca8139f5876c9ba558b4df07fbf75"
+    },
+    {
+      "chunk": "blame sth. on sb.",
+      "meaning": "把某个问题归咎于某人",
+      "register": "中性／归因",
+      "note": "被指责的事在 blame 后，责任对象在 on 后。",
+      "paragraph": 19,
+      "quote": "To those leaders around the globe who seek to sow conflict or blame their society's ills on the West, know that your people will judge you on what you can build, not what you destroy.",
+      "quote_sha256": "1282a6fa76323c7926efcd2d2520c7953aef359905cd278f00920be5aab54ba1"
+    },
+    {
+      "chunk": "cling to sth.",
+      "meaning": "紧抓住某事不放",
+      "register": "中性／评价",
+      "note": "此处 cling to power；不只字面抓住。",
+      "paragraph": 19,
+      "quote": "To those who cling to power through corruption and deceit and the silencing of dissent, know that you are on the wrong side of history, but that we will extend a hand if you are willing to unclench your fist.",
+      "quote_sha256": "15b6316eb580a8492f8ff5df640fec73109d8ec1a9a5e91845fb1cc78918baad"
+    },
+    {
+      "chunk": "extend a hand",
+      "meaning": "伸出援手；表示愿意合作",
+      "register": "正式／和解",
+      "note": "原句与 unclench your fist 构成修辞，只收可迁移部分。",
+      "paragraph": 19,
+      "quote": "To those who cling to power through corruption and deceit and the silencing of dissent, know that you are on the wrong side of history, but that we will extend a hand if you are willing to unclench your fist.",
+      "quote_sha256": "15b6316eb580a8492f8ff5df640fec73109d8ec1a9a5e91845fb1cc78918baad"
+    },
+    {
+      "chunk": "can no longer afford sth.",
+      "meaning": "再也承受不起某种行为或状态",
+      "register": "中性／立场",
+      "note": "此处不是金钱购买；表达继续如此代价太高。",
+      "paragraph": 20,
+      "quote": "And to those nations like ours that enjoy relative plenty, we say we can no longer afford indifference to suffering outside our borders, nor can we consume the world's resources without regard to effect, for the world has changed, and we must change with it.",
+      "quote_sha256": "d02fe67c8168965507b4dffffe2f2c79dfdb88a9f032f0a8e4c3adddc1a5a0a9"
+    },
+    {
+      "chunk": "without regard to sth.",
+      "meaning": "不顾及某事",
+      "register": "正式／批评",
+      "note": "后接后果、差异等名词。",
+      "paragraph": 20,
+      "quote": "And to those nations like ours that enjoy relative plenty, we say we can no longer afford indifference to suffering outside our borders, nor can we consume the world's resources without regard to effect, for the world has changed, and we must change with it.",
+      "quote_sha256": "d02fe67c8168965507b4dffffe2f2c79dfdb88a9f032f0a8e4c3adddc1a5a0a9"
+    },
+    {
+      "chunk": "find meaning in sth.",
+      "meaning": "从某事中找到意义",
+      "register": "中性／价值",
+      "note": "不是理解一句话的含义。",
+      "paragraph": 21,
+      "quote": "We honor them not only because they are guardians of our liberty, but because they embody the spirit of service, a willingness to find meaning in something greater than themselves.",
+      "quote_sha256": "f01ceff34f49e20cf4ee9fcb505f884c134937afc32d09ec57f02d0afd4a7837"
+    },
+    {
+      "chunk": "take in a stranger",
+      "meaning": "收留陌生人",
+      "register": "中性／生活",
+      "note": "take in 的收留义；与欺骗、领会义区分。",
+      "paragraph": 22,
+      "quote": "It is the kindness to take in a stranger when the levees break, the selflessness of workers who would rather cut their hours than see a friend lose their job, which sees us through our darkest hours.",
+      "quote_sha256": "512118791fc2a5f8aa37696a9835d36c761ab3654d17846275afd465ec1ad2a5"
+    },
+    {
+      "chunk": "would rather do sth. than do sth.",
+      "meaning": "宁愿做前者也不愿后者",
+      "register": "中性／取舍",
+      "note": "原句宁减工时不愿朋友失业。",
+      "paragraph": 22,
+      "quote": "It is the kindness to take in a stranger when the levees break, the selflessness of workers who would rather cut their hours than see a friend lose their job, which sees us through our darkest hours.",
+      "quote_sha256": "512118791fc2a5f8aa37696a9835d36c761ab3654d17846275afd465ec1ad2a5"
+    },
+    {
+      "chunk": "see [someone] through [a difficult period]",
+      "category": "短语动词与动词结构",
+      "meaning": "帮助某人撑过困难时期",
+      "register": "中性",
+      "note": "不是看穿某人；与 see through an excuse（识破借口）区分。原句包含 which 回指，不能把截取片段当完整句。",
+      "paragraph": 22,
+      "quote": "which sees us through our darkest hours.",
+      "quote_sha256": "8dfadef5a1a77e8264ada66e27590c19864c79335b12b36ad658da0162499194"
+    },
+    {
+      "chunk": "What is required of sb. is sth.",
+      "meaning": "对某人的要求是……",
+      "register": "正式／解释",
+      "note": "原句 now is；把责任明确给对象。",
+      "paragraph": 23,
+      "quote": "What is required of us now is a new era of responsibility, a recognition on the part of every American that we have duties to ourselves, our Nation, and the world.",
+      "quote_sha256": "8b96438c695918cbb5fb842e996f0f9afd2f39cbcf25cdbe9fb6ec1a14e815b4"
+    },
+    {
+      "chunk": "firm in the knowledge that 从句",
+      "meaning": "坚定地知道／确信……",
+      "register": "正式／立场",
+      "note": "不声称日常口语套语。",
+      "paragraph": 23,
+      "quote": "Duties that we do not grudgingly accept but, rather, seize gladly, firm in the knowledge that there is nothing so satisfying to the spirit, so defining of our character, than giving our all to a difficult task.",
+      "quote_sha256": "a4aec8133505fcfb8c9eb0aae86adca20715c51aa717dcd46bd62b065c059a41"
+    },
+    {
+      "chunk": "give one's all to sth.",
+      "meaning": "全力投入某事",
+      "register": "中性／决心",
+      "note": "all 指全部努力，不是全部财物。",
+      "paragraph": 23,
+      "quote": "Duties that we do not grudgingly accept but, rather, seize gladly, firm in the knowledge that there is nothing so satisfying to the spirit, so defining of our character, than giving our all to a difficult task.",
+      "quote_sha256": "a4aec8133505fcfb8c9eb0aae86adca20715c51aa717dcd46bd62b065c059a41"
+    },
+    {
+      "chunk": "call on sb. to do sth.",
+      "meaning": "号召／要求某人做某事",
+      "register": "正式／行动",
+      "note": "与 call for sth. 接法和对象不同。",
+      "paragraph": 24,
+      "quote": "This is the source of our confidence—the knowledge that God calls on us to shape an uncertain destiny.",
+      "quote_sha256": "7101d6c21005c658e9c567a70ef067aaafe810ede4ec8d3378480f4507f4ef23"
+    },
+    {
+      "chunk": "join in sth.",
+      "meaning": "参加某项共同活动",
+      "register": "中性／生活",
+      "note": "原句 celebration；不同于 join 某个组织。",
+      "paragraph": 24,
+      "quote": "This is the meaning of our liberty and our creed; why men and women and children of every race and every faith can join in celebration across this magnificent Mall, and why a man whose father less than 60 years ago might not have been served at a local restaurant can now stand before you to take a most sacred oath.",
+      "quote_sha256": "cce7584ec79aa3fdb7862e60e5e5418e36e467d8d5f3d37fe65174662df28ed5"
+    },
+    {
+      "chunk": "how far sb. has come/traveled",
+      "meaning": "某人已经走了多远；取得多少进展",
+      "register": "中性／回顾",
+      "note": "原句 traveled 有旅程意象，非固定政治口号。",
+      "paragraph": 25,
+      "quote": "So let us mark this day with remembrance of who we are and how far we have traveled.",
+      "quote_sha256": "6f9fba7ef9eb1e3a4940526914e6819a7948ea79ff4b3598bf31ec78531f3eb5"
+    },
+    {
+      "chunk": "in doubt",
+      "meaning": "尚无定论；不确定",
+      "register": "中性",
+      "note": "原句 outcome ... most in doubt 表示结果最悬而未决。",
+      "paragraph": 25,
+      "quote": "At a moment when the outcome of our Revolution was most in doubt, the Father of our Nation ordered these words be read to the people:",
+      "quote_sha256": "6cb32b0ad9f6064e0f365cdc48f96d30f764016c30e7f1ba793785b167dcc613"
+    },
+    {
+      "chunk": "nothing but sth.",
+      "meaning": "只有某事；除了某事别无其他",
+      "register": "中性／限定",
+      "note": "原句为历史引文，nothing but 严格保留限制范围。",
+      "paragraph": 26,
+      "quote": "\"Let it be told to the future world . . . that in the depth of winter, when nothing but hope and virtue could survive . . . that the city and the country, alarmed at one common danger, came forth to meet [it].\"",
+      "quote_sha256": "b0b77a142ec396e60e5f7ee48015f12daf8169d5b83a90f70827d550cf2165d7"
+    },
+    {
+      "chunk": "in the face of sth.",
+      "meaning": "面对某种困难或危险",
+      "register": "中性偏正式",
+      "note": "不是看着某人脸的字面义。",
+      "paragraph": 27,
+      "quote": "America, in the face of our common dangers, in this winter of our hardship, let us remember these timeless words.",
+      "quote_sha256": "8423a993f77627d8ccebc8551b0ff335f7f2b705349acc66c4bb05cc456299e9"
+    },
+    {
+      "chunk": "refuse to do sth.",
+      "meaning": "拒绝做某事",
+      "register": "中性／决心",
+      "note": "可明确表达不愿让某结果发生，未推定用户已掌握。",
+      "paragraph": 27,
+      "quote": "Let it be said by our children's children that when we were tested, we refused to let this journey end; that we did not turn back, nor did we falter.",
+      "quote_sha256": "9994adc234cbb755a66160ecd89338a20d32c1063a330cf73da7034a7cab559a"
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [],
+  "vocabulary_candidates": [
+    {
+      "chunk": "a given",
+      "meaning": "理所当然有保证的东西",
+      "register": "中性／论述",
+      "note": "原精选完整骨架另保留；本项不另收，转词汇备注。",
+      "paragraph": 7,
+      "quote": "In reaffirming the greatness of our Nation, we understand that greatness is never a given.",
+      "quote_sha256": "eb1e366f0a2bf262e91392f1e738906330008948f573f03f1b979475f27d91e9"
+    }
+  ],
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+}

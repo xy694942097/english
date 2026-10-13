@@ -1,0 +1,884 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S06/Better.Call.Saul.S06E05.en.srt",
+  "sha256": "076545ac87548b76d731e457f65c049bfdd8546bc1704411293330394d99cea6",
+  "subtitle_blocks_read": 517,
+  "max_cue": 517,
+  "read_batches": [
+    {
+      "start_cue": 1,
+      "end_cue": 517
+    }
+  ],
+  "selection_status": "Candidates, pending user screening",
+  "review": {
+    "first_pass": "按字幕顺序完整通读所列实际读取范围；跨cue合并句义，外层表达动作与内部搭配分别检查；输出未截断",
+    "second_pass": "重看未收录cue及长空白区，补查外层骨架、短回应、普通动作搭配；未选歌词只作为场景背景，不采歌词",
+    "second_pass_range": [
+      1,
+      517
+    ],
+    "lyrics_policy": "第一遍逐cue读含歌词；第二遍聚焦未选对白，歌词不再重复输出",
+    "second_pass_batches": [
+      {
+        "start_cue": 1,
+        "end_cue": 517,
+        "scope": "未选对白cue；已选及有理由去重项不重复输出，歌词不采集"
+      }
+    ],
+    "candidate_added_second_pass": 19
+  },
+  "items": [
+    {
+      "chunk": "a to-go order",
+      "meaning": "外带订单；美式餐饮",
+      "start_cue": 39,
+      "end_cue": 39,
+      "start_time": "00:08:17,965",
+      "end_time": "00:08:19,332",
+      "quote": "To-go order?",
+      "selection_pass": 2,
+      "id": "S06E05-001"
+    },
+    {
+      "chunk": "a side of sth.",
+      "meaning": "一份配菜／小份附餐",
+      "start_cue": 49,
+      "end_cue": 49,
+      "start_time": "00:09:06,614",
+      "end_time": "00:09:10,317",
+      "quote": "Also, two cokes and a side of coleslaw.",
+      "selection_pass": 2,
+      "id": "S06E05-002"
+    },
+    {
+      "chunk": "if you will",
+      "meaning": "可以这么说的话；标明临时用词或修辞",
+      "start_cue": 55,
+      "end_cue": 55,
+      "start_time": "00:10:02,102",
+      "end_time": "00:10:04,037",
+      "quote": "are able to \"discover,\" if you will,",
+      "selection_pass": 2,
+      "id": "S06E05-003"
+    },
+    {
+      "chunk": "the claims at issue",
+      "meaning": "争议中的诉求；正式法律语境",
+      "start_cue": 56,
+      "end_cue": 56,
+      "start_time": "00:10:04,171",
+      "end_time": "00:10:08,441",
+      "quote": "information that is relevant to the claims at issue.",
+      "id": "S06E05-004"
+    },
+    {
+      "chunk": "if you know what I mean",
+      "meaning": "你懂我的意思吧；暗示未直说的意思",
+      "start_cue": 65,
+      "end_cue": 65,
+      "start_time": "00:10:28,696",
+      "end_time": "00:10:30,931",
+      "quote": "a \"protracted timeline,\" if you know what I mean.",
+      "id": "S06E05-005"
+    },
+    {
+      "chunk": "have every right to do sth.",
+      "meaning": "完全有权做某事",
+      "start_cue": 68,
+      "end_cue": 69,
+      "start_time": "00:10:36,103",
+      "end_time": "00:10:39,239",
+      "quote": "You have every right to pursue independent legal representation.",
+      "id": "S06E05-006"
+    },
+    {
+      "chunk": "For those of you who don't know me,…",
+      "meaning": "对还不认识我的各位……；自我介绍开场",
+      "start_cue": 74,
+      "end_cue": 75,
+      "start_time": "00:10:50,150",
+      "end_time": "00:10:53,586",
+      "quote": "For those of you who don't know me yet, I'm your lead attorney... Howard Hamlin.",
+      "selection_pass": 2,
+      "id": "S06E05-007"
+    },
+    {
+      "chunk": "get to the finish line",
+      "meaning": "到达终点／把事情办完",
+      "start_cue": 78,
+      "end_cue": 78,
+      "start_time": "00:10:59,592",
+      "end_time": "00:11:03,430",
+      "quote": "Listen. I know you all want to get to the finish line.",
+      "selection_pass": 2,
+      "id": "S06E05-008"
+    },
+    {
+      "chunk": "have a ways to go",
+      "meaning": "还有很长一段路／工作要做；美式口语",
+      "start_cue": 81,
+      "end_cue": 81,
+      "start_time": "00:11:07,234",
+      "end_time": "00:11:08,714",
+      "quote": "Truth is, we still have a ways to go.",
+      "id": "S06E05-009"
+    },
+    {
+      "chunk": "get your due",
+      "meaning": "得到应得的权益／报偿",
+      "start_cue": 86,
+      "end_cue": 86,
+      "start_time": "00:11:25,618",
+      "end_time": "00:11:29,723",
+      "quote": "Now, to get your due, it may take a little extra time.",
+      "id": "S06E05-010"
+    },
+    {
+      "chunk": "send a message",
+      "meaning": "传递强烈立场／起警示作用",
+      "start_cue": 95,
+      "end_cue": 95,
+      "start_time": "00:11:50,110",
+      "end_time": "00:11:51,845",
+      "quote": "We're sending a message...",
+      "id": "S06E05-011"
+    },
+    {
+      "chunk": "pick the pockets of sb.",
+      "meaning": "偷走某人的钱；此处比喻剥削",
+      "start_cue": 96,
+      "end_cue": 97,
+      "start_time": "00:11:51,979",
+      "end_time": "00:11:55,983",
+      "quote": "We're not gonna let big corporations pick the pockets of hard-working folks.",
+      "id": "S06E05-012"
+    },
+    {
+      "chunk": "I'm not asking you to respond.",
+      "meaning": "我没要求你答复；澄清自己只是告知",
+      "start_cue": 121,
+      "end_cue": 121,
+      "start_time": "00:12:48,168",
+      "end_time": "00:12:49,569",
+      "quote": "I'm not asking you to respond.",
+      "id": "S06E05-013"
+    },
+    {
+      "chunk": "There's no harm in doing sth.",
+      "meaning": "做某事没有坏处",
+      "start_cue": 127,
+      "end_cue": 127,
+      "start_time": "00:12:59,746",
+      "end_time": "00:13:02,816",
+      "quote": "Howard, there's no harm in asking for help.",
+      "id": "S06E05-014"
+    },
+    {
+      "chunk": "not the problem you think",
+      "meaning": "并非你所认为的那个问题",
+      "start_cue": 144,
+      "end_cue": 144,
+      "start_time": "00:14:00,908",
+      "end_time": "00:14:02,575",
+      "quote": "Just not the problem you think.",
+      "id": "S06E05-015"
+    },
+    {
+      "chunk": "You'll have to excuse me.",
+      "meaning": "请恕我先失陪；此处离开会谈",
+      "start_cue": 146,
+      "end_cue": 146,
+      "start_time": "00:14:04,177",
+      "end_time": "00:14:05,817",
+      "quote": "J-Jimmy McGill? You'll have to excuse me.",
+      "selection_pass": 2,
+      "id": "S06E05-016"
+    },
+    {
+      "chunk": "Justice will be served.",
+      "meaning": "正义终将得到伸张；此处律师宣传，带夸张",
+      "start_cue": 153,
+      "end_cue": 153,
+      "start_time": "00:15:31,864",
+      "end_time": "00:15:34,434",
+      "quote": "Justice will be served in four and a half minutes.",
+      "id": "S06E05-017"
+    },
+    {
+      "chunk": "a little TLC",
+      "meaning": "一点细心照料；tender loving care 的缩写",
+      "start_cue": 164,
+      "end_cue": 164,
+      "start_time": "00:16:01,094",
+      "end_time": "00:16:04,364",
+      "quote": "I know that this place needs a little TLC.",
+      "id": "S06E05-018"
+    },
+    {
+      "chunk": "make an honest woman out of sb.",
+      "meaning": "娶某人为妻；陈旧戏谑说法，带旧式性别观念",
+      "start_cue": 169,
+      "end_cue": 169,
+      "start_time": "00:16:14,174",
+      "end_time": "00:16:16,443",
+      "quote": "That's right... made an honest woman out of her.",
+      "id": "S06E05-019"
+    },
+    {
+      "chunk": "blaze sb.'s own trail",
+      "meaning": "开创自己的道路",
+      "start_cue": 170,
+      "end_cue": 170,
+      "start_time": "00:16:16,576",
+      "end_time": "00:16:18,978",
+      "quote": "She's blazing her own trail, and I couldn't be prouder.",
+      "id": "S06E05-020",
+      "original_chunk": "blaze one's own trail"
+    },
+    {
+      "chunk": "I couldn't be prouder.",
+      "meaning": "我再自豪不过了",
+      "start_cue": 170,
+      "end_cue": 170,
+      "start_time": "00:16:16,576",
+      "end_time": "00:16:18,978",
+      "quote": "She's blazing her own trail, and I couldn't be prouder.",
+      "id": "S06E05-021"
+    },
+    {
+      "chunk": "Think of it this way…",
+      "meaning": "从这个角度想吧……",
+      "start_cue": 173,
+      "end_cue": 173,
+      "start_time": "00:16:23,383",
+      "end_time": "00:16:24,851",
+      "quote": "But think of it this way...",
+      "id": "S06E05-022"
+    },
+    {
+      "chunk": "of all stripes",
+      "meaning": "各种类型／背景的",
+      "start_cue": 179,
+      "end_cue": 179,
+      "start_time": "00:16:39,332",
+      "end_time": "00:16:42,435",
+      "quote": "we welcome all ages, all creeds, all stripes.",
+      "id": "S06E05-023"
+    },
+    {
+      "chunk": "What A is to B, C is to D.",
+      "meaning": "A之于B，如同C之于D；类比骨架",
+      "start_cue": 183,
+      "end_cue": 184,
+      "start_time": "00:16:49,209",
+      "end_time": "00:16:52,512",
+      "quote": "What Colonel Sanders is to chicken, Saul Goodman is to the law.",
+      "id": "S06E05-024"
+    },
+    {
+      "chunk": "make it up to sb.",
+      "meaning": "补偿某人先前受到的亏欠",
+      "start_cue": 186,
+      "end_cue": 186,
+      "start_time": "00:16:55,948",
+      "end_time": "00:16:59,219",
+      "quote": "And what happened last time, I-I-I wanna make it up to ya.",
+      "selection_pass": 2,
+      "id": "S06E05-025"
+    },
+    {
+      "chunk": "need a warm body",
+      "meaning": "只需要一个能在场干活的人；不强调能力，戏谑",
+      "start_cue": 189,
+      "end_cue": 189,
+      "start_time": "00:17:04,991",
+      "end_time": "00:17:06,926",
+      "quote": "You're just desperate and need a warm body.",
+      "id": "S06E05-026"
+    },
+    {
+      "chunk": "take a personal day",
+      "meaning": "因私事请一天假",
+      "start_cue": 193,
+      "end_cue": 193,
+      "start_time": "00:17:10,797",
+      "end_time": "00:17:12,999",
+      "quote": "I took half a personal day for this.",
+      "id": "S06E05-027"
+    },
+    {
+      "chunk": "Did I mention…?",
+      "meaning": "我有没有提过……？；补充诱因或重要细节",
+      "start_cue": 199,
+      "end_cue": 200,
+      "start_time": "00:17:25,345",
+      "end_time": "00:17:30,317",
+      "quote": "Did I mention... the signing bonus?",
+      "id": "S06E05-028"
+    },
+    {
+      "chunk": "get a say in sth.",
+      "meaning": "对某事有发言权",
+      "start_cue": 201,
+      "end_cue": 201,
+      "start_time": "00:17:37,990",
+      "end_time": "00:17:39,492",
+      "quote": "I get a say in the decorating.",
+      "id": "S06E05-029"
+    },
+    {
+      "chunk": "leave sb. in the lurch",
+      "meaning": "让某人陷在困难中无人帮忙",
+      "start_cue": 211,
+      "end_cue": 211,
+      "start_time": "00:18:19,766",
+      "end_time": "00:18:23,236",
+      "quote": "but sorry I left you in the lurch.",
+      "id": "S06E05-030"
+    },
+    {
+      "chunk": "a deep dive into sth.",
+      "meaning": "深入研究某事",
+      "start_cue": 223,
+      "end_cue": 223,
+      "start_time": "00:18:51,198",
+      "end_time": "00:18:53,366",
+      "quote": "It's a deep dive into class action.",
+      "id": "S06E05-031"
+    },
+    {
+      "chunk": "dodge a bullet",
+      "meaning": "躲过一场麻烦／险情",
+      "start_cue": 235,
+      "end_cue": 235,
+      "start_time": "00:19:25,097",
+      "end_time": "00:19:27,600",
+      "quote": "Well, then, you dodged a bullet.",
+      "id": "S06E05-032"
+    },
+    {
+      "chunk": "I'm just getting started.",
+      "meaning": "我才刚开始；暗示还有很多可以做",
+      "start_cue": 244,
+      "end_cue": 244,
+      "start_time": "00:19:49,589",
+      "end_time": "00:19:52,325",
+      "quote": "I'm just getting started.",
+      "selection_pass": 2,
+      "id": "S06E05-033"
+    },
+    {
+      "chunk": "knock sth. out",
+      "meaning": "迅速完成某事；工作口语",
+      "start_cue": 250,
+      "end_cue": 250,
+      "start_time": "00:20:21,688",
+      "end_time": "00:20:24,657",
+      "quote": "Shoplifting? I can, uh, knock that out in 10.",
+      "id": "S06E05-034"
+    },
+    {
+      "chunk": "turn tables",
+      "meaning": "让客人吃完离席换下一批；餐厅周转，此处类比办案",
+      "start_cue": 253,
+      "end_cue": 253,
+      "start_time": "00:20:29,128",
+      "end_time": "00:20:31,398",
+      "quote": "Our business model is turning tables.",
+      "id": "S06E05-035"
+    },
+    {
+      "chunk": "make a house call",
+      "meaning": "上门提供服务；原指医生出诊",
+      "start_cue": 255,
+      "end_cue": 255,
+      "start_time": "00:20:33,966",
+      "end_time": "00:20:35,902",
+      "quote": "Remind me again why I'm making a house call.",
+      "id": "S06E05-036"
+    },
+    {
+      "chunk": "punch it out",
+      "meaning": "用打架解决争端；非正式",
+      "start_cue": 277,
+      "end_cue": 277,
+      "start_time": "00:22:10,497",
+      "end_time": "00:22:11,864",
+      "quote": "Let's punch it out.",
+      "id": "S06E05-037"
+    },
+    {
+      "chunk": "I'm dead serious.",
+      "meaning": "我是认真的，一点不开玩笑",
+      "start_cue": 278,
+      "end_cue": 278,
+      "start_time": "00:22:11,998",
+      "end_time": "00:22:15,334",
+      "quote": "Are you kidding? I'm dead serious.",
+      "selection_pass": 2,
+      "id": "S06E05-038"
+    },
+    {
+      "chunk": "hide sb.'s tracks",
+      "meaning": "掩盖自己的行动痕迹",
+      "start_cue": 287,
+      "end_cue": 287,
+      "start_time": "00:22:35,922",
+      "end_time": "00:22:37,890",
+      "quote": "You didn't even try to hide your tracks.",
+      "id": "S06E05-039",
+      "original_chunk": "hide one's tracks"
+    },
+    {
+      "chunk": "I could go on.",
+      "meaning": "我还可以继续举很多例子",
+      "start_cue": 292,
+      "end_cue": 292,
+      "start_time": "00:22:44,997",
+      "end_time": "00:22:46,533",
+      "quote": "Please. I could go on.",
+      "id": "S06E05-040"
+    },
+    {
+      "chunk": "All roads lead back to sb.",
+      "meaning": "线索都指向某人；这里不是所有道路通向罗马",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:22:46,666",
+      "end_time": "00:22:48,935",
+      "quote": "All roads lead back to you.",
+      "id": "S06E05-041"
+    },
+    {
+      "chunk": "Psych 101",
+      "meaning": "心理学入门常识；101 指最基础课程",
+      "start_cue": 294,
+      "end_cue": 294,
+      "start_time": "00:22:49,068",
+      "end_time": "00:22:52,171",
+      "quote": "It's Psych 101. You want to get caught.",
+      "selection_pass": 2,
+      "id": "S06E05-042"
+    },
+    {
+      "chunk": "beat the shit out of sb.",
+      "meaning": "痛打某人；粗俗",
+      "start_cue": 299,
+      "end_cue": 299,
+      "start_time": "00:23:03,249",
+      "end_time": "00:23:06,185",
+      "quote": "You want to beat the shit out of me, legally?",
+      "selection_pass": 2,
+      "id": "S06E05-043"
+    },
+    {
+      "chunk": "Indulge me.",
+      "meaning": "就迁就我一下／陪我试试",
+      "start_cue": 303,
+      "end_cue": 303,
+      "start_time": "00:23:14,694",
+      "end_time": "00:23:15,828",
+      "quote": "Indulge me.",
+      "id": "S06E05-044"
+    },
+    {
+      "chunk": "mistake kindness for weakness",
+      "meaning": "把善意误当软弱",
+      "start_cue": 325,
+      "end_cue": 325,
+      "start_time": "00:25:31,197",
+      "end_time": "00:25:33,365",
+      "quote": "You've mistaken my kindness for weakness.",
+      "id": "S06E05-045"
+    },
+    {
+      "chunk": "I'd like to think that…",
+      "meaning": "我愿意相信／希望……是真的；留有保留",
+      "start_cue": 326,
+      "end_cue": 327,
+      "start_time": "00:25:34,701",
+      "end_time": "00:25:39,972",
+      "quote": "I'd like to think that tonight made a difference. I'd like to think that this ends it.",
+      "id": "S06E05-046"
+    },
+    {
+      "chunk": "as expected",
+      "meaning": "和预料的一样",
+      "start_cue": 330,
+      "end_cue": 330,
+      "start_time": "00:26:15,975",
+      "end_time": "00:26:19,278",
+      "quote": "Pretty much as expected.",
+      "selection_pass": 2,
+      "id": "S06E05-047"
+    },
+    {
+      "chunk": "miss a bet",
+      "meaning": "错失一个可利用的机会；较旧式口语",
+      "start_cue": 345,
+      "end_cue": 345,
+      "start_time": "00:28:53,565",
+      "end_time": "00:28:55,534",
+      "quote": "I'd say you'd be missing a bet.",
+      "selection_pass": 2,
+      "id": "S06E05-048"
+    },
+    {
+      "chunk": "worm sth. out of sb.",
+      "meaning": "设法从某人口中套出信息",
+      "start_cue": 349,
+      "end_cue": 349,
+      "start_time": "00:29:11,717",
+      "end_time": "00:29:12,919",
+      "quote": "Wow. You wormed it out of her.",
+      "id": "S06E05-049"
+    },
+    {
+      "chunk": "suck sb. into sb.'s game",
+      "meaning": "把某人拖进自己设置的局面／斗争",
+      "start_cue": 361,
+      "end_cue": 362,
+      "start_time": "00:30:08,941",
+      "end_time": "00:30:16,015",
+      "quote": "I should've left Howard standing there like a yutz. Instead, I let him suck me into his game.",
+      "id": "S06E05-050",
+      "original_chunk": "suck sb. into one's game"
+    },
+    {
+      "chunk": "a waiting game",
+      "meaning": "只能耐心等待时机的局面",
+      "start_cue": 400,
+      "end_cue": 400,
+      "start_time": "00:33:05,884",
+      "end_time": "00:33:08,287",
+      "quote": "It's a waiting game.",
+      "id": "S06E05-051"
+    },
+    {
+      "chunk": "if that's what you're thinking",
+      "meaning": "如果你考虑的是这件事；预判对方想法",
+      "start_cue": 408,
+      "end_cue": 409,
+      "start_time": "00:35:12,878",
+      "end_time": "00:35:16,382",
+      "quote": "I can put more guys on the place, if that's what you're thinking.",
+      "selection_pass": 2,
+      "id": "S06E05-052"
+    },
+    {
+      "chunk": "here on business",
+      "meaning": "在此出差／办生意",
+      "start_cue": 416,
+      "end_cue": 416,
+      "start_time": "00:39:15,120",
+      "end_time": "00:39:16,488",
+      "quote": "Yeah, I'm here on business.",
+      "selection_pass": 2,
+      "id": "S06E05-053"
+    },
+    {
+      "chunk": "This close.",
+      "meaning": "就差这么一点；强调险些做到",
+      "start_cue": 426,
+      "end_cue": 426,
+      "start_time": "00:39:42,347",
+      "end_time": "00:39:44,516",
+      "quote": "Mm-hmm. This close.",
+      "id": "S06E05-054"
+    },
+    {
+      "chunk": "and so on",
+      "meaning": "诸如此类；补列举",
+      "start_cue": 484,
+      "end_cue": 484,
+      "start_time": "00:42:43,494",
+      "end_time": "00:42:46,564",
+      "quote": "They sent flowers, keepsakes, and so on.",
+      "selection_pass": 2,
+      "id": "S06E05-055"
+    },
+    {
+      "chunk": "in another life",
+      "meaning": "换一种人生／下辈子吧；表达此生无缘",
+      "start_cue": 512,
+      "end_cue": 513,
+      "start_time": "00:44:30,769",
+      "end_time": "00:44:37,108",
+      "quote": "Well, in another life. In another life, yes.",
+      "id": "S06E05-056"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "a Hail Mary",
+      "meaning": "成功希望很小的最后一搏；美式体育比喻",
+      "start_cue": 281,
+      "end_cue": 281,
+      "start_time": "00:22:19,238",
+      "end_time": "00:22:20,673",
+      "quote": "Call it a Hail Mary.",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s01e06-selection.json",
+          "孤注一掷、成功希望渺茫的最后一招（美式比喻）"
+        ]
+      ]
+    },
+    {
+      "chunk": "I take it…",
+      "meaning": "我想……吧；据情况推断并确认",
+      "start_cue": 399,
+      "end_cue": 399,
+      "start_time": "00:32:58,244",
+      "end_time": "00:33:00,412",
+      "quote": "No news yet, I take it.",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s02e03-selection.json",
+          "我猜／我理解是……；寻求确认"
+        ]
+      ]
+    },
+    {
+      "chunk": "on top of sth.",
+      "meaning": "在某项之外再加上",
+      "start_cue": 83,
+      "end_cue": 83,
+      "start_time": "00:11:15,075",
+      "end_time": "00:11:19,012",
+      "quote": "We're pushing to get an extra 30% on top of the penalty.",
+      "reason": "本场同为此外再加，非空间义",
+      "earlier": {
+        "episode": "s01e08",
+        "chunk": "on top of that"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "put out a fire",
+      "meaning": "扑灭危机／解决紧急问题；这里比喻安抚客户",
+      "start_cue": 108,
+      "end_cue": 108,
+      "start_time": "00:12:20,307",
+      "end_time": "00:12:22,876",
+      "quote": "Well, I think we just put out a major fire.",
+      "reason": "同一解决突发麻烦隐喻",
+      "earlier": {
+        "episode": "s02e06",
+        "chunk": "put out a few fires"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "each and every one of you",
+      "meaning": "你们每一个人，无一例外",
+      "start_cue": 155,
+      "end_cue": 155,
+      "start_time": "00:15:36,269",
+      "end_time": "00:15:39,206",
+      "quote": "I look forward to sitting down with each and every one of you.",
+      "selection_pass": 2,
+      "reason": "仅補具体群体",
+      "earlier": {
+        "episode": "s02e09",
+        "chunk": "each and every one"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "one at a time",
+      "meaning": "一次一个，按顺序来",
+      "start_cue": 202,
+      "end_cue": 202,
+      "start_time": "00:17:41,561",
+      "end_time": "00:17:44,264",
+      "quote": "Open for business. One at a time.",
+      "selection_pass": 2,
+      "reason": "同一逐个进行框架",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "one sth. at a time"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "get it out of your system",
+      "meaning": "把压抑的情绪释放掉",
+      "start_cue": 279,
+      "end_cue": 279,
+      "start_time": "00:22:15,468",
+      "end_time": "00:22:17,188",
+      "quote": "Hoping you might get it out of your system.",
+      "reason": "同一发泄冲动义",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "get sth. out of your system"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "sooner or later",
+      "meaning": "迟早",
+      "start_cue": 401,
+      "end_cue": 401,
+      "start_time": "00:33:10,289",
+      "end_time": "00:33:12,324",
+      "quote": "Wherever he is now, sooner or later,",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s02e03",
+        "chunk": "sooner or later"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "show one's face",
+      "meaning": "露面；常用于责备缺席",
+      "start_cue": 485,
+      "end_cue": 485,
+      "start_time": "00:42:46,698",
+      "end_time": "00:42:49,000",
+      "quote": "But not one of them showed his face.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "show one's face"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Having said that,…",
+      "meaning": "话虽如此……；转入限定或相反考量",
+      "start_cue": 70,
+      "end_cue": 70,
+      "start_time": "00:10:39,372",
+      "end_time": "00:10:40,908",
+      "quote": "Having said that... Uh, absolutely.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e04",
+        "chunk": "Having said that, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "get a jump on sth.",
+      "meaning": "提前开始做某事，占个先机",
+      "start_cue": 29,
+      "end_cue": 29,
+      "start_time": "00:04:49,056",
+      "end_time": "00:04:51,592",
+      "quote": "Can't sleep. Figured I'd get a jump on work.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e09",
+        "chunk": "get a jump on sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "step up",
+      "meaning": "站出来承担责任／积极行动",
+      "start_cue": 71,
+      "end_cue": 71,
+      "start_time": "00:10:41,041",
+      "end_time": "00:10:44,277",
+      "quote": "It's great to see the next generation stepping up, isn't it?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e02",
+        "chunk": "step up"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "the little guy",
+      "meaning": "普通人／弱势的小人物",
+      "start_cue": 242,
+      "end_cue": 242,
+      "start_time": "00:19:45,252",
+      "end_time": "00:19:48,120",
+      "quote": "What you're doing to help the little guy.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e04",
+        "chunk": "the little guy"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "level with sb.",
+      "meaning": "跟某人说实话／坦诚相告",
+      "start_cue": 80,
+      "end_cue": 80,
+      "start_time": "00:11:05,132",
+      "end_time": "00:11:07,100",
+      "quote": "But I'm gonna level with you.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e10",
+        "chunk": "level with sb."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "hold up one's end",
+      "meaning": "做好自己那一份／履行责任",
+      "start_cue": 300,
+      "end_cue": 300,
+      "start_time": "00:23:06,318",
+      "end_time": "00:23:08,855",
+      "quote": "I think you can hold up your end.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s02e06",
+        "chunk": "hold up my end"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "pending": [
+    {
+      "chunk": "pay respect to sb.",
+      "meaning": "表达敬意；通常也用 pay respects，原文单数保留",
+      "start_cue": 482,
+      "end_cue": 483,
+      "start_time": "00:42:38,156",
+      "end_time": "00:42:43,361",
+      "quote": "You'd think they'd want to pay respect to the man who saved their lives.",
+      "pending_reason": "临时比喻或字幕接法需核查；保留原文作为候选，不作标准模板"
+    }
+  ],
+  "vocabulary_candidates": [
+    {
+      "word": "germane",
+      "meaning": "有关联的／切题的",
+      "start_cue": 135,
+      "end_cue": 135,
+      "start_time": "00:13:22,735",
+      "end_time": "00:13:26,006",
+      "quote": "I'm not sure why that's germane, but... Kim Wexler.",
+      "status": "首遍通读中另轨记录的词汇候选；未作全面词汇提取"
+    },
+    {
+      "word": "stache",
+      "meaning": "胡子／小胡子；mustache缩略口语",
+      "start_cue": 353,
+      "end_cue": 353,
+      "start_time": "00:29:28,434",
+      "end_time": "00:29:30,269",
+      "quote": "Ah, love the 'stache.",
+      "status": "首遍通读中另轨记录的词汇候选；未作全面词汇提取"
+    }
+  ],
+  "validation": {
+    "source_sha256_verified": true,
+    "source_cue_sequence_verified": true,
+    "quotes_and_times_verified": true,
+    "scope": "核实所有保留/重复/待核/词汇候选的原句及起止cue时间码；不证明无遗漏"
+  },
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

@@ -1,0 +1,879 @@
+{
+  "source_id": "DCPD-202500325",
+  "html_source": "https://www.govinfo.gov/content/pkg/DCPD-202500325/html/DCPD-202500325.htm",
+  "source_sha256": "38fbddefd5f60e7da0dd81118a97187d6f0b8fa35d4fb9506c259c810c6abb3d",
+  "paragraphs_read": 312,
+  "read_ranges": [
+    [
+      1,
+      312
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        312
+      ]
+    ],
+    "method": "逐段通读整体交际动作及内部词块；回看未选段与已选段，补充解释、对比、条件、叙事、工作与生活结构。观众插话单独识别，分页断句核对连续原段。未用词表筛选代替通读。",
+    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。"
+  },
+  "items": [
+    {
+      "chunk": "be just getting started",
+      "meaning": "才刚刚开始",
+      "register": "中性／进展与鼓励",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 7,
+      "quote": "We have accomplished more in 43 days than most administrations accomplished in 4 years or 8 years, and we are just getting started.",
+      "quote_sha256": "a386664beb83a9e1f0a8b308b244dfe84bcd74041a3ba9ec9dc23b4c20c90fb8"
+    },
+    {
+      "chunk": "be headed in the right direction",
+      "meaning": "正朝正确方向发展",
+      "register": "中性／进展评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 17,
+      "quote": "Now, for the first time in modern history, more Americans believe that our country is headed in the right direction than the wrong direction.",
+      "quote_sha256": "2b8afeba57568b4da7429a1e0b383bfae98c43bf29d7511b55945e9feae49a48"
+    },
+    {
+      "chunk": "by far the lowest ... ever recorded",
+      "meaning": "迄今记录中低得多的最低……",
+      "register": "中性偏正式／数据比较",
+      "note": "by far 加强最高级；只收表达，不核实统计。",
+      "paragraph": 36,
+      "quote": "As a result, illegal border crossings last month were, by far, the lowest ever recorded—ever.",
+      "quote_sha256": "bfeb6eb5b40eaeeb31ae8925ac8edb864fa4005ec252b32cbf1536fbe2a61e37"
+    },
+    {
+      "chunk": "There is absolutely nothing I can say to ...",
+      "meaning": "我说什么都无法……",
+      "register": "中性／挫败与无效感",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 39,
+      "quote": "This is my fifth such speech to Congress, and, once again, I look at the Democrats in front of me, and I realize there is absolutely nothing I can say to make them happy or to make them stand or smile or applaud.",
+      "quote_sha256": "25d2adb99cffc9db3832502b1a7003d8bf9c85404928292e1d75b7a86af1d642"
+    },
+    {
+      "chunk": "no matter what",
+      "meaning": "无论发生什么／怎么做都……",
+      "register": "中性／无条件坚持",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 39,
+      "quote": "They won't do it no matter what.",
+      "quote_sha256": "d91a60405bd4b967ecdc969095867594018e2bc1fdbb1b1ee0016ac970fcbef2"
+    },
+    {
+      "chunk": "Why not join sb. in doing sth.?",
+      "meaning": "何不和某人一起做某事？",
+      "register": "中性／邀请",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 41,
+      "quote": "So, Democrats sitting before me, for just this 1 night, why not join us in celebrating so many incredible wins for America?",
+      "quote_sha256": "b0a6e93121cc99db6d22b6a2d2611979e9dcc4ffffbaebdbe8cfd7a6436e969e"
+    },
+    {
+      "chunk": "show up for work in person",
+      "meaning": "亲自到岗工作",
+      "register": "中性／工作",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 46,
+      "quote": "They will either show up for work in person or be removed from their job.",
+      "quote_sha256": "d46df56509f283b8afc44853498aaa95b9af3ce2e8eb259338b108cc33dc7a6e"
+    },
+    {
+      "chunk": "How did that work out?",
+      "meaning": "那样做结果如何？",
+      "register": "口语／反问评价",
+      "note": "原句带讥讽，不当作客观询问的唯一语气。",
+      "paragraph": 47,
+      "quote": "How did that work out? [Laughter] Not too good. Not too good.",
+      "quote_sha256": "c5afbd900aaebb8f07ffe8d9423dca1c15a7cce5afb78668871c834764803cb5"
+    },
+    {
+      "chunk": "be hired and promoted based on sth.",
+      "meaning": "依据某事被录用和晋升",
+      "register": "中性／工作标准",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 51,
+      "quote": "We believe that whether you are a doctor, an accountant, a lawyer, or an air traffic controller, you should be hired and promoted based on skill and competence, not race or gender.",
+      "quote_sha256": "49ec7d6d845fd70a0423ede6e0ab02e892e07f418aec87cdb0682c2572f0ce00"
+    },
+    {
+      "chunk": "put up with sth.",
+      "meaning": "忍受／容忍某事",
+      "register": "中性／表达界限",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 58,
+      "quote": "We're not going to put up with it any longer.",
+      "quote_sha256": "6f5a016aef72cdf7477b3e3b6c26f857c67c4d1b37ba38c31175169cb7bb5e3f"
+    },
+    {
+      "chunk": "only a small fraction of sth.",
+      "meaning": "只是某事的一小部分",
+      "register": "中性／规模限定",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 59,
+      "quote": "What I have just described is only a small fraction of the commonsense revolution that is now, because of us, sweeping the entire world.",
+      "quote_sha256": "7b1309fc8669acd9c061e13b9877686aac6d9a608ad7c21490cd11071b131cf7"
+    },
+    {
+      "chunk": "drive sth. out of reach for sb.",
+      "meaning": "使某事超出某人的承受／取得范围",
+      "register": "中性偏正式／因果",
+      "note": "原句经济负担，不是伸手距离。",
+      "paragraph": 60,
+      "quote": "Their policies drove up energy prices, pushed up grocery costs, and drove the necessities of life out of reach for millions and millions of Americans.",
+      "quote_sha256": "aa00cfd8a555f1d7b1f3f71b9fd8a9f2622f6724d757b10d6bf60c3ec0095e03"
+    },
+    {
+      "chunk": "get out of control",
+      "meaning": "失去控制",
+      "register": "中性／变化评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 63,
+      "quote": "Joe Biden especially let the price of eggs get out of control.",
+      "quote_sha256": "2b4fca951826c084605840eb2b2e1567ff9c8e04ad16f1f809e574ba51aacdc6"
+    },
+    {
+      "chunk": "slow sth. to a halt",
+      "meaning": "使某事放慢直到停顿",
+      "register": "中性偏正式／变化叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 67,
+      "quote": "The previous administration cut the number of new oil and gas leases by 95 percent, slowed pipeline construction to a halt, and closed more than 100 power plants.",
+      "quote_sha256": "5c24093e6f62a8b8fa9f0f2d08113662f77bb2704387e77c29cf6f692355c10b"
+    },
+    {
+      "chunk": "be all set to go",
+      "meaning": "准备完毕／可以开始",
+      "register": "口语／进度",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 69,
+      "quote": "It's all set to go.",
+      "quote_sha256": "cf1fc10c9689c37e85d54ed9a7359cb49bdd5e7d757a02b0c845635b7d43b28f"
+    },
+    {
+      "chunk": "to that end",
+      "meaning": "为此目的",
+      "register": "正式／行动衔接",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 70,
+      "quote": "And to that end, I have created the brandnew Department of Government Efficiency—DOGE—perhaps you've heard of it—perhaps—which is headed by Elon Musk, who is in the gallery tonight.",
+      "quote_sha256": "fb3bf02967753d07cd8215fe52561cda173a26fc6ce3f604235a89555653f06a"
+    },
+    {
+      "chunk": "find out and expose sth.",
+      "meaning": "查明并揭露某事",
+      "register": "中性偏正式／调查",
+      "note": "原文被动 found out and exposed；不核实欺诈金额。",
+      "paragraph": 80,
+      "quote": "They're so bad. Many more have been found out and exposed and swiftly terminated by a group of very intelligent, mostly young people, headed up by Elon. And we appreciate it. We've found hundreds of billions of dollars of fraud.",
+      "quote_sha256": "227a9207826d89b8d5bf2670560a38d7c34edc76e442ec84e73c8a740cc602e0"
+    },
+    {
+      "chunk": "just in time",
+      "meaning": "刚好及时／赶在最后时刻",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 82,
+      "quote": "We got it just in time.",
+      "quote_sha256": "208a9c8b54dc3e002fd9174e3384ee575d6d520a5d97a557b158b9305086a2d1"
+    },
+    {
+      "chunk": "Believe it or not, ...",
+      "meaning": "信不信由你，……",
+      "register": "口语／引出惊讶信息",
+      "note": "引文是讲话主张，收集不表示认可其真实性。",
+      "paragraph": 85,
+      "quote": "Believe it or not, Government databases list 4.7 million Social Security members from people aged 100 to 109 years old.",
+      "quote_sha256": "c4c1a6bfb1e73dcc5c4b10ef39c346f72407e61c3894842598e877269a87dd86"
+    },
+    {
+      "chunk": "It's not going to be pretty",
+      "meaning": "结果／场面不会好看",
+      "register": "口语／预示不愉快",
+      "note": "惯用预测，不指美学外观。",
+      "paragraph": 99,
+      "quote": "But we're going to find out where that money is going, and it's not going to be pretty.",
+      "quote_sha256": "07c41d79ac311a783eb232b141e99177fb29f581cf3404e93d792051d25c9acf"
+    },
+    {
+      "chunk": "It's about time",
+      "meaning": "早就该这样了／总算",
+      "register": "口语／评价迟到变化",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 101,
+      "quote": "It's about time.",
+      "quote_sha256": "8e242a3ff226b9f2c7662707f986cd486c87a97743a66c44cf0472b62544f8ae"
+    },
+    {
+      "chunk": "with that goal in mind",
+      "meaning": "考虑到／围绕这个目标",
+      "register": "中性偏正式／计划",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 103,
+      "quote": "With that goal in mind, we have developed in great detail what we are calling the gold card, which goes on sale very, very soon.",
+      "quote_sha256": "a29861b349a1c1f8f14d45202c06725ef5c573c2927b546c27a2241b75945995"
+    },
+    {
+      "chunk": "hold back sth.",
+      "meaning": "阻碍某事发展",
+      "register": "中性／负面因果",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 108,
+      "quote": "For nearly 100 years, the Federal bureaucracy has grown until it has crushed our freedoms, ballooned our deficits, and held back America's potential in every possible way.",
+      "quote_sha256": "152316918769e7658dff52957d07a6d0e906b02b773ef7730f0b9cc99e76510b"
+    },
+    {
+      "chunk": "sth. that should take X instead takes Y",
+      "meaning": "本来应只需X的事却花了Y",
+      "register": "中性／预期与实际对比",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 109,
+      "quote": "Approvals that should take 10 days to get instead take 10 years, 15 years, and even 20 years before you reject it.",
+      "quote_sha256": "ee2a7edfac41a1af6ce944578664c09ceeaa3d75bf7e2125654f96006219387f"
+    },
+    {
+      "chunk": "do sb. a big favor",
+      "meaning": "帮某人一个大忙",
+      "register": "口语／利益与帮助",
+      "note": "此处反讽式政治劝说，日常可是真诚帮助。",
+      "paragraph": 112,
+      "quote": "So I'm doing you a big favor by telling you that.",
+      "quote_sha256": "32eaf7dd1e17f439b0916c3b974121593b0794707fe41f51d949ca344cb6e4c1"
+    },
+    {
+      "chunk": "but only if 从句",
+      "meaning": "但只有在……条件下",
+      "register": "中性／限制条件",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 117,
+      "quote": "And I also want to make interest payments on car loans tax deductible, but only if the car is made in America.",
+      "quote_sha256": "b1f2c6a3211d39d1521cd44336037d46871a097f0ea843b0aa90637c31fb5250"
+    },
+    {
+      "chunk": "That, along with sth., will allow ... to ...",
+      "meaning": "这一点，加上某事，将使……能……",
+      "register": "中性偏正式／解释共同原因",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 120,
+      "quote": "That, along with our other policies, will allow our auto industry to absolutely boom.",
+      "quote_sha256": "6b5bbf37eb8a86e025505488ca4374ff7dc3b8eb3403981f165e82cae6de07c6"
+    },
+    {
+      "chunk": "It's sb.'s turn to do sth.",
+      "meaning": "轮到某人做某事",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 123,
+      "quote": "Other countries have used tariffs against us for decades, and now it's our turn to start using them against those other countries.",
+      "quote_sha256": "046f193bd4be1e5ca8d56e551dac24563ab625fceac860d0d1b53781ed5b4cfe"
+    },
+    {
+      "chunk": "twice what ...",
+      "meaning": "是……的两倍",
+      "register": "中性／数量比较",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 124,
+      "quote": "China's average tariff on our products is twice what we charge them.",
+      "quote_sha256": "4c0fc7f055b1287da6d65c1ab1dba725d169bcb17d1fed1955000db2010289ab"
+    },
+    {
+      "chunk": "be ripped off",
+      "meaning": "被宰／被占便宜",
+      "register": "口语／强烈抱怨",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 128,
+      "quote": "We have been ripped off for decades by nearly every country on Earth, and we will not let that happen any longer.",
+      "quote_sha256": "1e1ea224644dc0377bed7647571a512563aecbdd070dc6438deb1ec9baac60d8"
+    },
+    {
+      "chunk": "in effect",
+      "meaning": "实际上／实质上",
+      "register": "中性偏正式／重新表述",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 130,
+      "quote": "They are, in effect, receiving subsidies of hundreds of billions of dollars.",
+      "quote_sha256": "e27a9b097b910b3dc2f010b822b9a4f6e1dd427799559bde5651fcf741fd53e1"
+    },
+    {
+      "chunk": "not mean a thing",
+      "meaning": "毫无意义／作用",
+      "register": "口语／否定评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 134,
+      "quote": "We give hundreds of billions of dollars, and it doesn't mean a thing.",
+      "quote_sha256": "d97513dd790df0bddfda1a0f8bb34daac357ceb238ac43337d79ed3d827b1fcb"
+    },
+    {
+      "chunk": "whatever is left over",
+      "meaning": "剩下的所有东西",
+      "register": "中性／剩余资源",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 136,
+      "quote": "And whatever is left over, Mr. Speaker, you should use it to reduce debt or any other reason you want to.",
+      "quote_sha256": "1195235ae51dbdb235366412b0f173b1401043ae91e7b73eccaada55ac76c569"
+    },
+    {
+      "chunk": "bear with sb.",
+      "meaning": "请耐心等某人／体谅某人",
+      "register": "口语／请求耐心",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 138,
+      "quote": "Fifty billion dollars of purchases, and I said, \"Just bear with me,\" and they did.",
+      "quote_sha256": "f8b6d8831ed1421b7411954900a96d7cf0569cc42053d20a3e2c3ddb8580b439"
+    },
+    {
+      "chunk": "have a field day",
+      "meaning": "大显身手／有充分享受的机会",
+      "register": "口语／乐观预期",
+      "note": "也可用于趁机攻击，此处农民受益预期；不是田间日。",
+      "paragraph": 139,
+      "quote": "And it hurt our farmers, but our farmers are going to have a field day right now.",
+      "quote_sha256": "385659037c00527dcf76508884c5c70a5a3e26b16f545b583945da0a5445e008"
+    },
+    {
+      "chunk": "Stories like ... remind us that ...",
+      "meaning": "像……这样的故事提醒我们……",
+      "register": "中性偏正式／由例子归纳",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 144,
+      "quote": "Stories like Jeff's remind us that tariffs are not just about protecting American jobs.",
+      "quote_sha256": "dd6129876f0fb620c524c45f0b090da95d681410a4d9eb9d40b353c95e5418c3"
+    },
+    {
+      "chunk": "be okay with sth.",
+      "meaning": "能够接受某事",
+      "register": "口语／让步",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 145,
+      "quote": "There will be a little disturbance, but we're okay with that. It won't be much.",
+      "quote_sha256": "634a1072cd213e65bd11e63c908abaa97f3c4ca02b182ea95cde414d7233f9fb"
+    },
+    {
+      "chunk": "devote oneself to sth.",
+      "meaning": "致力于某事",
+      "register": "中性偏正式／介绍贡献",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 149,
+      "quote": "And I also want to recognize another person who has devoted herself to foster care community.",
+      "quote_sha256": "45c4fd9b946cba7cd00eab181c636e4bf41c1d69aa1372e74eefc670824aaab7"
+    },
+    {
+      "chunk": "yield ... results",
+      "meaning": "产生……的结果",
+      "register": "中性偏正式／成果",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 149,
+      "quote": "Melania's work has yielded incredible results, helping prepare our Nation's future leaders as they enter the workforce.",
+      "quote_sha256": "1db94360c50b9d7b7338d86ef104c058543f1adb64ab24eefad1b5dbe3b4f4a6"
+    },
+    {
+      "chunk": "be poised to do sth.",
+      "meaning": "即将／已具备条件做某事",
+      "register": "中性偏正式／未来进展",
+      "note": "原段在后文人物资料处断段；此引文取包含目标的必要连续片段。",
+      "paragraph": 150,
+      "quote": "Haley Ferguson, who benefited from the First Lady's Fostering the Future initiative and is poised to complete her education and become a teacher,",
+      "quote_sha256": "61df41fa92131e90a18b2a9476edd99f4c16ccca8d37830a59b073844d2ae108"
+    },
+    {
+      "chunk": "if you don't mind",
+      "meaning": "如果你不介意",
+      "register": "口语／征询或缓和",
+      "note": "此处玩笑式附加语。",
+      "paragraph": 154,
+      "quote": "And I'm going to use that bill for myself too, if you don't mind",
+      "quote_sha256": "0a9cb541d4cb1c94fd96fc7a26440e8fe5b5d353fcfe0261efbbe76d00126506"
+    },
+    {
+      "chunk": "in vain",
+      "meaning": "徒劳／白白地",
+      "register": "中性偏正式／牺牲或努力",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 161,
+      "quote": "Last year, I told Laken's grieving parents that we would ensure their daughter would not have died in vain.",
+      "quote_sha256": "b446f2cd1785dba19b113dd110ff5e015aef28f1450e2503cb388cc09b8c0990"
+    },
+    {
+      "chunk": "It turned out that all we really needed was ...",
+      "meaning": "结果发现，我们真正需要的只是……",
+      "register": "中性／纠正预期",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 164,
+      "quote": "But it turned out that all we really needed was a new President.",
+      "quote_sha256": "5cc40a894a05e06539fa37025a09db6448671cf6ae56e2710774ff6a8233edf3"
+    },
+    {
+      "chunk": "keep one's word to sb.",
+      "meaning": "兑现对某人的承诺",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 171,
+      "quote": "And earlier tonight I signed an order keeping my word to you.",
+      "quote_sha256": "3a64fecf6c5e44976e68a4811034e37dde2301603ad6e41ded1c45a74df5e77d"
+    },
+    {
+      "chunk": "in loving memory of sb.",
+      "meaning": "深情纪念某人",
+      "register": "正式／悼念",
+      "note": "纪念逝者语域，不随意用作普通怀念。",
+      "paragraph": 173,
+      "quote": "Alexis, moments ago, I formally renamed that refuge in loving memory of your beautiful daughter, Jocelyn.",
+      "quote_sha256": "7ce203678f8959693fd776be92e37e46ad876ab0366ad536627f0205b5dab46c"
+    },
+    {
+      "chunk": "if you would, may I have sth.?",
+      "meaning": "烦请您把某物给我好吗？",
+      "register": "礼貌／请求",
+      "note": "if you would 是省略式礼貌引导。",
+      "paragraph": 174,
+      "quote": "So, Mr. Vice President, if you would, may I have the order?",
+      "quote_sha256": "d7d30a386d4e74948a062c58fc27eda82d6cfe3a664d140e20a602c5e72348ce"
+    },
+    {
+      "chunk": "leap into action",
+      "meaning": "立即投入行动",
+      "register": "中性偏正式／紧急叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 179,
+      "quote": "Roberto saw that his partner was totally exposed, in great danger, and he leapt into action, returning fire and providing crucial seconds for his fellow agent to seek safety— safety, just—and just barely.",
+      "quote_sha256": "80414e3666fe9081b0847ddc8a25443b408c669c7d657f490705ab4901c07359"
+    },
+    {
+      "chunk": "pose a grave threat to sth.",
+      "meaning": "对某事构成严重威胁",
+      "register": "正式／风险说明",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 182,
+      "quote": "The territory to the immediate south of our border is now dominated entirely by criminal cartels that murder, rape, torture, and exercise total control—they have total control over a whole Nation—posing a grave threat to our national security.",
+      "quote_sha256": "8b1982a84dd171d97b4ca6fa2b1dac1671b76e6bdd90c4241dcdfd22ec040750"
+    },
+    {
+      "chunk": "hand over sth. to sb.",
+      "meaning": "把某物／某人移交给某人",
+      "register": "中性／移交",
+      "note": "原句 handed over to us 29 ... 宾语较长后置。",
+      "paragraph": 183,
+      "quote": "Five nights ago, Mexican authorities, because of our tariff policies being imposed on them— think of this—handed over to us 29 of the biggest cartel leaders in their country.",
+      "quote_sha256": "f9b742fd7f501624be3e1148855f05d2eca17e32d8cebb3cd37d5ed467ef1d77"
+    },
+    {
+      "chunk": "lay out exactly how ...",
+      "meaning": "具体说明将如何……",
+      "register": "中性／方案说明",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 185,
+      "quote": "I have sent Congress a detailed funding request laying out exactly how we will eliminate these threats to protect our homeland and complete the largest deportation operation in American history, larger even than current record holder, President Dwight D. Eisenhower, a moderate man but someone who believed very strongly in borders.",
+      "quote_sha256": "4341520579752f6b469c88ebffb782bdd26a9b4cf5a811753662b6541d960a1d"
+    },
+    {
+      "chunk": "without delay",
+      "meaning": "毫不拖延地",
+      "register": "中性偏正式／要求",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 185,
+      "quote": "Americans expect Congress to send me this funding without delay so I can sign it into law.",
+      "quote_sha256": "128acd6081b1f5448ef39bbd1c33a2fadde4ff322b25f138d88dee254c797849"
+    },
+    {
+      "chunk": "turn sth. upside down",
+      "meaning": "彻底颠覆／打乱某事",
+      "register": "中性／评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 188,
+      "quote": "In recent years, our justice system has been turned upside down by radical-left lunatics.",
+      "quote_sha256": "2e905a94aec29734924f338e67548dff6bd0012496e5f624057e5f4555e1a0f0"
+    },
+    {
+      "chunk": "go by the name of ...",
+      "meaning": "名叫／以……为名",
+      "register": "中性／人物介绍",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 197,
+      "quote": "The thug in the seat next to him had 14 prior arrests and went by the name of \"Killer.\"",
+      "quote_sha256": "a2c9499d7b97c0063b874f84331a0f34ee6518f8b9635eba44503e72338a5cd6"
+    },
+    {
+      "chunk": "be diagnosed with sth.",
+      "meaning": "被诊断患有某病",
+      "register": "中性／健康叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 206,
+      "quote": "But in 2018, D.J. was diagnosed with brain cancer.",
+      "quote_sha256": "440cb30be77ebe3c69d3c6be2895bb66d8c5e3fb6f347ace37010d88c37bbb29"
+    },
+    {
+      "chunk": "at most",
+      "meaning": "最多／至多",
+      "register": "中性／数量上限",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 206,
+      "quote": "The doctors gave him five months at most to live.",
+      "quote_sha256": "70391b1285e7792bf1744660aaf44cd59ede263fe9cab8c3db0237fce7a986d7"
+    },
+    {
+      "chunk": "be on a quest to do sth.",
+      "meaning": "不断追求／努力去实现某事",
+      "register": "中性偏正式／历程",
+      "note": "比 try 更强调持续寻求。",
+      "paragraph": 207,
+      "quote": "Since that time, D.J. and his dad have been on a quest to make his dream come true, and D.J. has been sworn in as an honorary law enforcement officer, actually, a number of times.",
+      "quote_sha256": "bcc0976c318eae4e1ff80f231783fe47315e4cf6763a0b7a9b1181f884ddcf00"
+    },
+    {
+      "chunk": "figure out what is going on",
+      "meaning": "弄清到底发生了什么",
+      "register": "中性偏口语／查明情况",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 222,
+      "quote": "So we're going to find out what it is, and there's nobody better than Bobby and all of the people that are working with you—you have the best—to figure out what is going on.",
+      "quote_sha256": "4c5a8725b16148f17d8385add5d671d36838f70b1e92689ac925b358612b0faa"
+    },
+    {
+      "chunk": "carry on the family legacy",
+      "meaning": "延续家庭传承",
+      "register": "中性偏正式／生涯叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 239,
+      "quote": "Jason tragically lost his dad, who was also a Los Angeles County sheriff's deputy, when he was just a boy, and now he wants to carry on the family legacy of service.",
+      "quote_sha256": "415db746b822c67a97641eb37553ba3f2e4bc50c59975d8b06465d3616e6b226"
+    },
+    {
+      "chunk": "as a first step",
+      "meaning": "作为第一步",
+      "register": "中性／步骤说明",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 244,
+      "quote": "As a first step, I'm asking Congress to fund a state-of-the-art Golden Dome missile defense shield to protect our homeland, all made in the U.S.A.",
+      "quote_sha256": "c6f0b779e0bdad6065cfe3f525c19ac9ddfa9d5e47e59678f15d672ed5af5309"
+    },
+    {
+      "chunk": "have a huge impact",
+      "meaning": "产生重大影响",
+      "register": "中性／后果评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 248,
+      "quote": "It will have a huge impact.",
+      "quote_sha256": "d37de9d53f843ce81a8e524219d5e5b12b29efa9b09da5255b3a9d69d82465ec"
+    },
+    {
+      "chunk": "have to do with sth.",
+      "meaning": "与某事有关",
+      "register": "中性／关联说明",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 250,
+      "quote": "Just today, a large American company announced they are buying both ports around the Panama Canal and lots of other things having to do with the Panama Canal and a couple of other canals.",
+      "quote_sha256": "d6f1f5e43dad251d0ff10981371f01ee31aff9fa55a96abd4dfe211fa26e1a4f"
+    },
+    {
+      "chunk": "in charge",
+      "meaning": "负责／主管",
+      "register": "中性／职责",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 253,
+      "quote": "And we have Marco Rubio in charge.",
+      "quote_sha256": "3c0aa86706ac4465000c489085a0ad5826290108a82a53c1c59bd9bbf1b71eca"
+    },
+    {
+      "chunk": "know who to blame if anything goes wrong",
+      "meaning": "知道一旦出事该怪谁",
+      "register": "口语／玩笑或追责",
+      "note": "此处开玩笑；迁移时注意可能显得推责。",
+      "paragraph": 253,
+      "quote": "Now we know who to blame if anything goes wrong.",
+      "quote_sha256": "a17a5617d7da8c1ba0ff6c1b88f3f38d5b7165008197ac7de3aedd6185fea8f3"
+    },
+    {
+      "chunk": "one way or the other",
+      "meaning": "无论用哪种办法／不管怎样",
+      "register": "中性偏口语／决心",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 257,
+      "quote": "One way or the other, we're going to get it.",
+      "quote_sha256": "fe72d10d919498cc6814908d99a090ebb21b4e3e6042a0065225b2e056063d2c"
+    },
+    {
+      "chunk": "not that ...; it was ...",
+      "meaning": "问题不在于……，而在于……",
+      "register": "中性／澄清批评焦点",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 261,
+      "quote": "Three and a half years ago, ISIS terrorists killed 13 American servicemembers and countless others in the Abbey Gate bombing during the disastrous and incompetent withdrawal from Afghanistan—not that they were withdrawing; it was the way they withdrew.",
+      "quote_sha256": "9bdcd49cbb1bd75112a0251aaee844dfd9e5f35b4dbc509cbe208916096d51e2"
+    },
+    {
+      "chunk": "as ... as you can be under those circumstances",
+      "meaning": "在那种情况下所能达到的最……状态",
+      "register": "中性／有条件评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 266,
+      "quote": "They were very happy—as happy as you can be under those circumstances.",
+      "quote_sha256": "6125f3b301cbaba1b5dc6a110ac6b1d86d59c0cfd5b43dc877031df850eafecf"
+    },
+    {
+      "chunk": "for no reason whatsoever",
+      "meaning": "完全无缘无故",
+      "register": "中性／强烈否定理由",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 266,
+      "quote": "Their child, brother, sister, son, daughter was killed for no reason whatsoever.",
+      "quote_sha256": "d42cabd97a931fc94311ee9aebf3e6413d465cd8c0a9db76cd2934558ce05c56"
+    },
+    {
+      "chunk": "build on that foundation",
+      "meaning": "在此基础上进一步发展",
+      "register": "中性偏正式／计划",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 268,
+      "quote": "And now we're going to build on that foundation to create a more peaceful and prosperous future for the entire region.",
+      "quote_sha256": "63fc0b2ca04ec1c5d4497aaa9e9f3aceadf3ee4d8b1019aad95e8a7d9120bbbf"
+    },
+    {
+      "chunk": "with no end in sight",
+      "meaning": "看不到结束的迹象",
+      "register": "中性偏正式／持续困境",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 269,
+      "quote": "Millions of Ukrainians and Russians have been needlessly killed or wounded in this horrific and brutal conflict with no end in sight.",
+      "quote_sha256": "ddfa9b5e77eb6a53b9e715143dcbc810e69cd30deafa47a1c06a53d0c3113cd0"
+    },
+    {
+      "chunk": "like taking candy from a baby",
+      "meaning": "像从婴儿手里拿糖一样轻而易举",
+      "register": "口语／比喻、贬抑",
+      "note": "带不公平或欺负弱者意味；原句评价援助，不泛化为所有 easy。",
+      "paragraph": 276,
+      "quote": "Like taking candy from a baby, that's what happened.",
+      "quote_sha256": "3f84fa2e79559cdc4628d81e58c63a42ff24d83bb487a8a35b9fbc8580e1e45b"
+    },
+    {
+      "chunk": "get along very well with sb.",
+      "meaning": "与某人相处／合作融洽",
+      "register": "中性／关系",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 277,
+      "quote": "But we're getting along very well with them, and lots of good things are happening.",
+      "quote_sha256": "849a6e3de0036ab1a9294862e2c69aceed8ad5d65981b3c3e562a2531a73aad7"
+    },
+    {
+      "chunk": "at any time that is convenient for you",
+      "meaning": "在您方便的任何时间",
+      "register": "礼貌／协调时间",
+      "note": "这是演讲引述泽连斯基来信，引用作者须明确。",
+      "paragraph": 279,
+      "quote": "Regarding the agreement on minerals and security, Ukraine is ready to sign it at any time that is convenient for you.",
+      "quote_sha256": "a35cbe1220a273beec95288332c65305fd0cc26757fee4318c0613991cbe1ec8"
+    },
+    {
+      "chunk": "stand ready to do sth.",
+      "meaning": "随时准备做某事",
+      "register": "正式／承诺",
+      "note": "演讲内引用来信。",
+      "paragraph": 279,
+      "quote": "My team and I stand ready to work under President Trump's strong leadership to get a peace that lasts.",
+      "quote_sha256": "ed631a82ce9b0981ae7f41eb6c00914841d1596f8dce08a8115370608a78d3b4"
+    },
+    {
+      "chunk": "barely lift a finger to do sth.",
+      "meaning": "几乎没有付出一点努力做某事",
+      "register": "口语／尖锐批评",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 285,
+      "quote": "The previous administration barely lifted a finger to help him.",
+      "quote_sha256": "27a1ea83754214e30a70bbaceb3752e06fc2569cf747b80d517432226f37f8a8"
+    },
+    {
+      "chunk": "have no idea where to begin",
+      "meaning": "完全不知道从何开始",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 285,
+      "quote": "They knew he was innocent, but they had no idea where to begin.",
+      "quote_sha256": "d8ab7522591e6ef8723f19210d04b590a3d06acd72d0ec0e4e23b6cf71f74dbe"
+    },
+    {
+      "chunk": "safe and sound",
+      "meaning": "安然无恙",
+      "register": "中性／平安回归",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 286,
+      "quote": "To Marc and his great mom, we are delighted to have you safe and sound and with us.",
+      "quote_sha256": "a7d1190af4a1214ebc4e0f41cab9b4c85e32ccf102dfb0420f39d0fb525fe9fe"
+    },
+    {
+      "chunk": "As fate would have it, ...",
+      "meaning": "命运巧合的是……",
+      "register": "叙事／偶然相遇",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 287,
+      "quote": "As fate would have it, Marc Fogel was born in a small, rural town—in Butler, Pennsylvania—have you heard of it?—where his mother has lived for the past 78 years.",
+      "quote_sha256": "8f27b257b91bdc791ca67d14ec967753c69d7d960924c3da3f2d3f4ece15d08a"
+    },
+    {
+      "chunk": "happen to do sth.",
+      "meaning": "碰巧做某事",
+      "register": "中性／偶然叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 287,
+      "quote": "I just happened to go there last July 13 for a rally.",
+      "quote_sha256": "c164dd3434aa526cb446fe69af14fddc13a89e8a02e986fab07a019c59cc60ce"
+    },
+    {
+      "chunk": "shield sb. from sth.",
+      "meaning": "保护某人免受某事",
+      "register": "中性偏正式／行动叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 290,
+      "quote": "He threw himself on top of his wife and daughters and shielded them from the bullets with his own body.",
+      "quote_sha256": "a762ee878bead6d9669f6ecccae5a7f648edaf742b0f1824c1b1718f37546e6e"
+    },
+    {
+      "chunk": "do whatever it takes to do sth.",
+      "meaning": "尽一切必要努力做某事",
+      "register": "中性／决心",
+      "note": "原句过去时，不将历史赞颂当熟练证明。",
+      "paragraph": 297,
+      "quote": "From the patriots of Lexington and Concord to the heroes of Gettysburg and Normandy, from the warriors who crossed the Delaware to the trailblazers who climbed the Rockies, and from the legends who soared at Kitty Hawk to the astronauts who touched the Moon, Americans have always been the people who defied all odds, transcended all dangers, made the most extraordinary sacrifices, and did whatever it took to defend our children, our country, and our freedom.",
+      "quote_sha256": "c22acab77b68bee5a9b81f0a6668659420a5e29bc57057f038af55b9144c092e"
+    },
+    {
+      "chunk": "stand on the shoulders of sb.",
+      "meaning": "在前人的成就基础上继续发展",
+      "register": "正式／承继比喻",
+      "note": "已建立的继承比喻，与一次性地理修辞区分。",
+      "paragraph": 302,
+      "quote": "We stand on the shoulders of these pioneers who won and built the modern age, these workers who poured their sweat into the skylines of our cities, these warriors who shed their blood on fields of battle and gave everything they had for our rights and for our freedom.",
+      "quote_sha256": "92f00668637cad343e48fd88a30ddf8f35fac7d64514fd10fe6b6346fab6058d"
+    },
+    {
+      "chunk": "take sth. into one's own hands",
+      "meaning": "亲自掌控／处理某事",
+      "register": "中性／主动承担",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 303,
+      "quote": "Now it is our time to take up the righteous cause of American liberty, and it is our turn to take America's destiny into our own hands and begin the most thrilling days in the history of our country.",
+      "quote_sha256": "f2aafb07e31de39ba5eb8ce53b32e67347feaeec000265a36052cb8633dd0025"
+    },
+    {
+      "chunk": "get ready for sth.",
+      "meaning": "为某事做好准备",
+      "register": "中性／预告",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 309,
+      "quote": "The President. My fellow Americans, get ready for an incredible future, because the golden age of America has only just begun.",
+      "quote_sha256": "e74d873008537008f485783c7e6b054cad641579e1dd0999ed5d9f0841aba690"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 8,
+      "chunk": "be on the verge of sth.",
+      "reason": "本总统集合 DCPD-202500103 已收同义；本篇不重复。"
+    },
+    {
+      "paragraph": 153,
+      "chunk": "look forward to doing sth.",
+      "reason": "本总统集合 DCPD-202500103 已收同义；本篇不重复。"
+    },
+    {
+      "paragraph": 207,
+      "chunk": "make one's dream come true",
+      "reason": "本总统集合 DCPD-202500103 已收同义；本篇不重复。"
+    },
+    {
+      "paragraph": 236,
+      "chunk": "I am pleased to report that ...",
+      "reason": "本总统集合 DCPD-202000494 已收同义；本篇不重复。"
+    },
+    {
+      "paragraph": 100,
+      "chunk": "bring down costs and prices",
+      "reason": "本总统集合 DCPD-202500103 已收同义；本篇不重复。"
+    },
+    {
+      "paragraph": 6,
+      "chunk": "nothing but sth.",
+      "reason": "本总统集合 DCPD-200900001 已收 nothing but sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "From that moment on, it has been nothing but swift and unrelenting action to usher in the greatest and most successful era in the history of our country.",
+      "quote_sha256": "1516750c7825d371a85e41181335488ef91b3298a11b60c6db38db116a4f6c9b"
+    },
+    {
+      "paragraph": 34,
+      "chunk": "What makes it even more ... is that ...",
+      "reason": "本总统集合 DCPD-202400170 已收 What makes sth. ... is that 从句；相同意思及交际功能，不因更长片段重复。",
+      "quote": "And what makes it even more impressive is that—do you know who number two is? George Washington. How about that?",
+      "quote_sha256": "eec40ea7792a8f8c19e6d57eb773b5a97612e07a776d322675f45fb43ef0b1b0"
+    },
+    {
+      "paragraph": 114,
+      "chunk": "across the board",
+      "reason": "本总统集合 PPP-2000-book3-doc-pg2952 已收 across the board；相同意思及交际功能，不因更长片段重复。",
+      "quote": "We're seeking permanent income tax cuts all across the board.",
+      "quote_sha256": "08bacc6771333fa59dccee1ad66be3cafa58fd174c03a16e6bfee8be4ebe8c06"
+    },
+    {
+      "paragraph": 125,
+      "chunk": "kick in",
+      "reason": "本总统集合 DCPD-202400984 已收 kick in；相同意思及交际功能，不因更长片段重复。",
+      "quote": "But we're going to do it on April—I'm a very superstitious person—April 2, reciprocal tariffs kick in.",
+      "quote_sha256": "d7042343add9970719f09bca471c4a81d98983787681e68fc45c099cbe9ee8a9"
+    },
+    {
+      "paragraph": 125,
+      "chunk": "back and forth",
+      "reason": "本总统集合 DCPD-202500078 已收 back and forth；相同意思及交际功能，不因更长片段重复。",
+      "quote": "That's reciprocal, back and forth.",
+      "quote_sha256": "cf7bf60b73743c2bc197d62ba98ac787893250b1a62122a772742de37e239d39"
+    },
+    {
+      "paragraph": 136,
+      "chunk": "get rid of sth.",
+      "reason": "本总统集合 DCPD-202300848 已收 get rid of sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "You should get rid of the CHIP Act.",
+      "quote_sha256": "72c487a773fa1cbd50aa1f28666a3c7298776026b59b73a4d2cfa7aedf6fa29e"
+    },
+    {
+      "paragraph": 169,
+      "chunk": "There is still much work to be done",
+      "reason": "本总统集合 DCPD-202400170 已收 There's more to do；相同意思及交际功能，不因更长片段重复。",
+      "quote": "But there still is much work to be done.",
+      "quote_sha256": "c431043c4b7f2081b77adfe7a79396324be6fdb9bb26a27b8a5e6bec0b438352"
+    },
+    {
+      "paragraph": 212,
+      "chunk": "be exposed to sth.",
+      "reason": "本总统集合 DCPD-202500078 已收 be exposed to sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "D.J.'s doctors believe his cancer likely came from a chemical he was exposed to when he was younger.",
+      "quote_sha256": "3874d1a0314a8fb52b8e0785a5117181aaea173ba5b87d67b0a06c20b37bf8a5"
+    },
+    {
+      "paragraph": 241,
+      "chunk": "be a very big deal",
+      "reason": "本总统集合 DCPD-202400170 已收 a very big deal；相同意思及交际功能，不因更长片段重复。",
+      "quote": "And, Jason, that's a very big deal getting in.",
+      "quote_sha256": "12472e0619b749656240965123734ef22d748d08d4362aac4bc1beab23b33526"
+    },
+    {
+      "paragraph": 293,
+      "chunk": "cheer sb. on",
+      "reason": "本总统集合 DCPD-202400170 已收 cheer on sb./sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "He is cheering you on.",
+      "quote_sha256": "ba878840a905954f6a6aee0da0bc097e3ac2f5d8473ba309e69745fcd68e937a"
+    },
+    {
+      "paragraph": 306,
+      "chunk": "through it all",
+      "reason": "本总统集合 DCPD-201300032 已收 Through it all；相同意思及交际功能，不因更长片段重复。",
+      "quote": "And, through it all, we are going to rediscover the unstoppable power of the American spirit, and we are going to renew unlimited promise of the American dream.",
+      "quote_sha256": "d0f175f3c7dc8f45816bd934f96af9650db60665463c083d7a964f0a11b590c5"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。"
+}

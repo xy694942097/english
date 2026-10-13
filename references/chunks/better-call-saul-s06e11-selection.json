@@ -1,0 +1,1107 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S06/Better.Call.Saul.S06E11.en.srt",
+  "sha256": "6295d3144ed2162e9c7993491daec274d979d11df462872f57978327aa9ddf15",
+  "subtitle_blocks_read": 790,
+  "max_cue": 790,
+  "read_batches": [
+    {
+      "start_cue": 1,
+      "end_cue": 400
+    },
+    {
+      "start_cue": 401,
+      "end_cue": 790
+    }
+  ],
+  "selection_status": "Candidates, pending user screening",
+  "review": {
+    "first_pass": "按字幕顺序完整通读所列实际读取范围；跨cue合并句义，外层表达动作与内部搭配分别检查；输出未截断",
+    "second_pass": "重看未收录cue及长空白区，补查外层骨架、短回应、普通动作搭配；未选歌词只作为场景背景，不采歌词",
+    "second_pass_range": [
+      1,
+      790
+    ],
+    "lyrics_policy": "第一遍逐cue读含歌词；第二遍聚焦未选对白，歌词不再重复输出",
+    "second_pass_batches": [
+      {
+        "start_cue": 1,
+        "end_cue": 790,
+        "scope": "未选对白cue；已选及有理由去重项不重复输出，歌词不采集"
+      }
+    ],
+    "candidate_added_second_pass": 28
+  },
+  "items": [
+    {
+      "chunk": "Anywhere but…",
+      "meaning": "哪里都行，就是别去……；强烈排除",
+      "start_cue": 12,
+      "end_cue": 12,
+      "start_time": "00:00:35,703",
+      "end_time": "00:00:37,071",
+      "quote": "Anywhere but the desert!",
+      "id": "S06E11-001"
+    },
+    {
+      "chunk": "Lay it on me.",
+      "meaning": "说吧，我听着；要求告知消息",
+      "start_cue": 74,
+      "end_cue": 74,
+      "start_time": "00:06:26,186",
+      "end_time": "00:06:27,788",
+      "quote": "Lay it on me.",
+      "id": "S06E11-002"
+    },
+    {
+      "chunk": "How hot?",
+      "meaning": "风声有多紧／警方追得有多紧？；犯罪语境",
+      "start_cue": 98,
+      "end_cue": 98,
+      "start_time": "00:08:19,466",
+      "end_time": "00:08:23,971",
+      "quote": "Okay, well, uh, tell me, how hot?",
+      "selection_pass": 2,
+      "id": "S06E11-003"
+    },
+    {
+      "chunk": "when the shit hit the fan",
+      "meaning": "事情闹大／灾难爆发时；粗俗",
+      "start_cue": 102,
+      "end_cue": 102,
+      "start_time": "00:08:29,877",
+      "end_time": "00:08:32,379",
+      "quote": "Not as often as when the shit first hit the fan,",
+      "id": "S06E11-004"
+    },
+    {
+      "chunk": "buy the farm",
+      "meaning": "死了；美式委婉俚语",
+      "start_cue": 106,
+      "end_cue": 106,
+      "start_time": "00:08:42,255",
+      "end_time": "00:08:45,192",
+      "quote": "So the maestro buying the farm, it didn't change anything?",
+      "id": "S06E11-005"
+    },
+    {
+      "chunk": "If anything,…",
+      "meaning": "要说有什么变化，倒是……；修正预期",
+      "start_cue": 107,
+      "end_cue": 107,
+      "start_time": "00:08:45,325",
+      "end_time": "00:08:47,728",
+      "quote": "No. If anything, it made it worse.",
+      "id": "S06E11-006"
+    },
+    {
+      "chunk": "a heads-up would've been nice",
+      "meaning": "要是能提前提醒一下就好了；抱怨没通知",
+      "start_cue": 140,
+      "end_cue": 140,
+      "start_time": "00:09:54,294",
+      "end_time": "00:09:56,930",
+      "quote": "A-And a heads up would've been nice, by the way.",
+      "id": "S06E11-007"
+    },
+    {
+      "chunk": "chump change",
+      "meaning": "微不足道的小钱；美式",
+      "start_cue": 145,
+      "end_cue": 145,
+      "start_time": "00:10:05,739",
+      "end_time": "00:10:07,875",
+      "quote": "And I'm guessing that wasn't chump change.",
+      "id": "S06E11-008"
+    },
+    {
+      "chunk": "give me the lowdown",
+      "meaning": "把真实情况／详情告诉我",
+      "start_cue": 151,
+      "end_cue": 151,
+      "start_time": "00:10:22,289",
+      "end_time": "00:10:23,791",
+      "quote": "gimme the lowdown.",
+      "id": "S06E11-009"
+    },
+    {
+      "chunk": "fill me in",
+      "meaning": "告诉我进展／补齐我不知道的信息",
+      "start_cue": 155,
+      "end_cue": 155,
+      "start_time": "00:10:28,595",
+      "end_time": "00:10:30,097",
+      "quote": "Just fill me in.",
+      "id": "S06E11-010"
+    },
+    {
+      "chunk": "Any word on sb.?",
+      "meaning": "有某人的消息吗？",
+      "start_cue": 165,
+      "end_cue": 165,
+      "start_time": "00:10:54,387",
+      "end_time": "00:10:55,787",
+      "quote": "I mean, any word on those two guys?",
+      "selection_pass": 2,
+      "id": "S06E11-011"
+    },
+    {
+      "chunk": "switch sides",
+      "meaning": "转到另一阵营／换边",
+      "start_cue": 170,
+      "end_cue": 170,
+      "start_time": "00:11:09,402",
+      "end_time": "00:11:10,537",
+      "quote": "He switched sides.",
+      "id": "S06E11-012"
+    },
+    {
+      "chunk": "come out",
+      "meaning": "公开自己的同性恋身份；此处误解前一句的笑点",
+      "start_cue": 171,
+      "end_cue": 171,
+      "start_time": "00:11:11,404",
+      "end_time": "00:11:13,040",
+      "quote": "He came out, huh?",
+      "id": "S06E11-013"
+    },
+    {
+      "chunk": "check in on sb.",
+      "meaning": "问候看看某人怎么样",
+      "start_cue": 185,
+      "end_cue": 185,
+      "start_time": "00:11:51,812",
+      "end_time": "00:11:52,880",
+      "quote": "Checking in on me.",
+      "id": "S06E11-014"
+    },
+    {
+      "chunk": "Look what the cat dragged in!",
+      "meaning": "瞧瞧谁来了！；熟人间戏谑，字面有嫌弃",
+      "start_cue": 213,
+      "end_cue": 213,
+      "start_time": "00:16:03,263",
+      "end_time": "00:16:05,432",
+      "quote": "Oh, hey, Jeffie! Look what the cat dragged in!",
+      "id": "S06E11-015"
+    },
+    {
+      "chunk": "pop up",
+      "meaning": "在屏幕上突然出现；也可指临时出现",
+      "start_cue": 223,
+      "end_cue": 223,
+      "start_time": "00:16:25,518",
+      "end_time": "00:16:29,022",
+      "quote": "These funny cat videos just pop up!",
+      "selection_pass": 2,
+      "id": "S06E11-016"
+    },
+    {
+      "chunk": "Wouldn't that be something?",
+      "meaning": "那不是挺惊人／有意思吗？；想象评价",
+      "start_cue": 229,
+      "end_cue": 229,
+      "start_time": "00:16:37,564",
+      "end_time": "00:16:39,699",
+      "quote": "Ooh, wouldn't that be something?",
+      "selection_pass": 2,
+      "id": "S06E11-017"
+    },
+    {
+      "chunk": "leave sb. to sth.",
+      "meaning": "让某人继续做某事，不打扰",
+      "start_cue": 239,
+      "end_cue": 239,
+      "start_time": "00:17:07,827",
+      "end_time": "00:17:10,497",
+      "quote": "How about, uh, we leave you to the cat videos,",
+      "selection_pass": 2,
+      "id": "S06E11-018"
+    },
+    {
+      "chunk": "take a gander",
+      "meaning": "看一眼；随意口语",
+      "start_cue": 241,
+      "end_cue": 241,
+      "start_time": "00:17:14,167",
+      "end_time": "00:17:16,503",
+      "quote": "I mean, is that car running? I'd love to take a gander.",
+      "id": "S06E11-019"
+    },
+    {
+      "chunk": "First up,…",
+      "meaning": "第一项／首先……",
+      "start_cue": 253,
+      "end_cue": 253,
+      "start_time": "00:17:52,004",
+      "end_time": "00:17:54,941",
+      "quote": "First up, you have a night shift, right?",
+      "selection_pass": 2,
+      "id": "S06E11-020"
+    },
+    {
+      "chunk": "the graveyard shift",
+      "meaning": "深夜班",
+      "start_cue": 254,
+      "end_cue": 254,
+      "start_time": "00:17:55,074",
+      "end_time": "00:17:56,409",
+      "quote": "You mean the graveyard shift?",
+      "id": "S06E11-021"
+    },
+    {
+      "chunk": "You're shitting me.",
+      "meaning": "你在开玩笑吧？；粗俗吃惊",
+      "start_cue": 261,
+      "end_cue": 261,
+      "start_time": "00:18:14,261",
+      "end_time": "00:18:15,395",
+      "quote": "You're shitting me?",
+      "selection_pass": 2,
+      "id": "S06E11-022"
+    },
+    {
+      "chunk": "back in business",
+      "meaning": "重新开始干／恢复运作",
+      "start_cue": 266,
+      "end_cue": 266,
+      "start_time": "00:18:37,550",
+      "end_time": "00:18:38,785",
+      "quote": "So we're back in business?",
+      "id": "S06E11-023"
+    },
+    {
+      "chunk": "Am I right?",
+      "meaning": "我没说错吧？；寻求认同",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:19:55,828",
+      "end_time": "00:19:57,664",
+      "quote": "But worse, am I right?",
+      "selection_pass": 2,
+      "id": "S06E11-024"
+    },
+    {
+      "chunk": "A bet's a bet.",
+      "meaning": "打了赌就得认；强调兑现",
+      "start_cue": 295,
+      "end_cue": 295,
+      "start_time": "00:20:00,433",
+      "end_time": "00:20:04,604",
+      "quote": "- A bet's a bet. - With gusto!",
+      "id": "S06E11-025"
+    },
+    {
+      "chunk": "up the stakes",
+      "meaning": "提高赌注／增加风险",
+      "start_cue": 297,
+      "end_cue": 297,
+      "start_time": "00:20:06,873",
+      "end_time": "00:20:08,007",
+      "quote": "Up the stakes?",
+      "id": "S06E11-026"
+    },
+    {
+      "chunk": "Don't be a wuss.",
+      "meaning": "别怂；非正式贬低",
+      "start_cue": 306,
+      "end_cue": 306,
+      "start_time": "00:20:25,325",
+      "end_time": "00:20:26,559",
+      "quote": "Don't be a wuss.",
+      "id": "S06E11-027"
+    },
+    {
+      "chunk": "buy another round",
+      "meaning": "再请大家一轮酒",
+      "start_cue": 319,
+      "end_cue": 319,
+      "start_time": "00:20:57,023",
+      "end_time": "00:21:00,226",
+      "quote": "I grab the hundo first, you buy another round.",
+      "id": "S06E11-028"
+    },
+    {
+      "chunk": "courtesy of sb.",
+      "meaning": "由某人提供／请客",
+      "start_cue": 329,
+      "end_cue": 329,
+      "start_time": "00:21:31,591",
+      "end_time": "00:21:34,894",
+      "quote": "once again courtesy of my little friend.",
+      "id": "S06E11-029"
+    },
+    {
+      "chunk": "a man of many talents",
+      "meaning": "多才多艺的人",
+      "start_cue": 336,
+      "end_cue": 336,
+      "start_time": "00:22:05,925",
+      "end_time": "00:22:10,797",
+      "quote": "Well, you see, I'm a man of many talents.",
+      "id": "S06E11-030"
+    },
+    {
+      "chunk": "simple as simple can be",
+      "meaning": "再简单不过了",
+      "start_cue": 355,
+      "end_cue": 355,
+      "start_time": "00:22:50,937",
+      "end_time": "00:22:53,072",
+      "quote": "Simple as simple can be.",
+      "id": "S06E11-031"
+    },
+    {
+      "chunk": "I'll see you around.",
+      "meaning": "回头见；随意告别",
+      "start_cue": 375,
+      "end_cue": 375,
+      "start_time": "00:23:37,750",
+      "end_time": "00:23:40,152",
+      "quote": "I'll see you around next time, pal.",
+      "selection_pass": 2,
+      "id": "S06E11-032"
+    },
+    {
+      "chunk": "attorney-client privilege",
+      "meaning": "律师与委托人之间的保密特权；法律",
+      "start_cue": 413,
+      "end_cue": 413,
+      "start_time": "00:32:35,387",
+      "end_time": "00:32:37,189",
+      "quote": "That will get you attorney-client privilege",
+      "selection_pass": 2,
+      "id": "S06E11-033"
+    },
+    {
+      "chunk": "put two and two together",
+      "meaning": "根据线索推断出真相",
+      "start_cue": 422,
+      "end_cue": 422,
+      "start_time": "00:32:52,804",
+      "end_time": "00:32:54,249",
+      "quote": "It's not like he ain't gonna put two and two together.",
+      "id": "S06E11-034"
+    },
+    {
+      "chunk": "the whole package",
+      "meaning": "完整的一套／不只某一部分",
+      "start_cue": 427,
+      "end_cue": 427,
+      "start_time": "00:33:02,348",
+      "end_time": "00:33:04,783",
+      "quote": "You're the whole freakin' package.",
+      "selection_pass": 2,
+      "id": "S06E11-035"
+    },
+    {
+      "chunk": "churn out sth.",
+      "meaning": "大量快速生产某物",
+      "start_cue": 447,
+      "end_cue": 447,
+      "start_time": "00:33:58,036",
+      "end_time": "00:34:00,396",
+      "quote": "How much product can you churn out with a set-up like this?",
+      "id": "S06E11-036"
+    },
+    {
+      "chunk": "get all sb.'s ducks in a row",
+      "meaning": "把各项准备安排妥当",
+      "start_cue": 453,
+      "end_cue": 453,
+      "start_time": "00:34:10,682",
+      "end_time": "00:34:12,194",
+      "quote": "Listen, when I get all my ducks in a row,",
+      "id": "S06E11-037",
+      "original_chunk": "get all one's ducks in a row"
+    },
+    {
+      "chunk": "a starting point for negotiation",
+      "meaning": "谈判的起点条件",
+      "start_cue": 457,
+      "end_cue": 458,
+      "start_time": "00:34:19,225",
+      "end_time": "00:34:23,061",
+      "quote": "I'm taking the $80,000 as a starting point for negotiation.",
+      "id": "S06E11-038"
+    },
+    {
+      "chunk": "call shotgun",
+      "meaning": "抢先声明要坐副驾驶；美式",
+      "start_cue": 460,
+      "end_cue": 460,
+      "start_time": "00:34:25,664",
+      "end_time": "00:34:27,699",
+      "quote": "And, uh... I'm callin' shotgun.",
+      "id": "S06E11-039"
+    },
+    {
+      "chunk": "give it some gas",
+      "meaning": "踩点油门",
+      "start_cue": 474,
+      "end_cue": 474,
+      "start_time": "00:35:03,235",
+      "end_time": "00:35:04,679",
+      "quote": "You gotta give it some gas when you're backing up.",
+      "id": "S06E11-040"
+    },
+    {
+      "chunk": "I'm not a fan of sth.",
+      "meaning": "我不怎么喜欢某事；委婉批评",
+      "start_cue": 483,
+      "end_cue": 484,
+      "start_time": "00:35:21,720",
+      "end_time": "00:35:25,991",
+      "quote": "Fellas, I was enjoying the Laurel and Hardy vibe, but I'm not such a fan of the Bickersons.",
+      "selection_pass": 2,
+      "id": "S06E11-041"
+    },
+    {
+      "chunk": "cool down",
+      "meaning": "冷却下来；也可指情绪平复",
+      "start_cue": 490,
+      "end_cue": 490,
+      "start_time": "00:35:38,136",
+      "end_time": "00:35:40,105",
+      "quote": "and so we just need to let it cool down.",
+      "selection_pass": 2,
+      "id": "S06E11-042"
+    },
+    {
+      "chunk": "I second that.",
+      "meaning": "我赞同这个意见",
+      "start_cue": 504,
+      "end_cue": 504,
+      "start_time": "00:36:57,316",
+      "end_time": "00:36:58,950",
+      "quote": "I second that.",
+      "id": "S06E11-043"
+    },
+    {
+      "chunk": "play your own game",
+      "meaning": "按自己的策略行事，别盲从",
+      "start_cue": 549,
+      "end_cue": 549,
+      "start_time": "00:41:59,450",
+      "end_time": "00:42:01,319",
+      "quote": "Play your own game,",
+      "id": "S06E11-044"
+    },
+    {
+      "chunk": "you never know who's swimming nude until the tide goes out",
+      "meaning": "潮退才知道谁在裸泳；投资格言，暴露风险时才能看清实力",
+      "start_cue": 553,
+      "end_cue": 553,
+      "start_time": "00:42:06,191",
+      "end_time": "00:42:09,194",
+      "quote": "you never know who's swimming nude until the tide goes out.",
+      "id": "S06E11-045"
+    },
+    {
+      "chunk": "the game is rigged",
+      "meaning": "规则被操纵／竞争被做了手脚",
+      "start_cue": 556,
+      "end_cue": 556,
+      "start_time": "00:42:14,666",
+      "end_time": "00:42:16,267",
+      "quote": "it feels like the game is rigged.",
+      "id": "S06E11-046"
+    },
+    {
+      "chunk": "I wish I could disagree, but I can't.",
+      "meaning": "我也希望能反驳，可惜不能；无奈赞同",
+      "start_cue": 559,
+      "end_cue": 559,
+      "start_time": "00:42:19,237",
+      "end_time": "00:42:21,907",
+      "quote": "I wish I could disagree with you, Viktor, but I can't.",
+      "id": "S06E11-047"
+    },
+    {
+      "chunk": "straight shooters",
+      "meaning": "诚实直爽、值得信赖的人",
+      "start_cue": 561,
+      "end_cue": 561,
+      "start_time": "00:42:24,109",
+      "end_time": "00:42:28,346",
+      "quote": "But the majority, I believe, are straight shooters.",
+      "id": "S06E11-048"
+    },
+    {
+      "chunk": "a special place in Hell for sb.",
+      "meaning": "某人坏得该下地狱受特别惩罚；强烈道德谴责",
+      "start_cue": 567,
+      "end_cue": 568,
+      "start_time": "00:42:39,057",
+      "end_time": "00:42:41,759",
+      "quote": "I gotta believe there's a special place in Hell for those people.",
+      "id": "S06E11-049"
+    },
+    {
+      "chunk": "in my experience",
+      "meaning": "按我的经验",
+      "start_cue": 570,
+      "end_cue": 570,
+      "start_time": "00:42:44,696",
+      "end_time": "00:42:48,433",
+      "quote": "But in my experience, that's the exception.",
+      "selection_pass": 2,
+      "id": "S06E11-050"
+    },
+    {
+      "chunk": "a few bad apples",
+      "meaning": "一小部分害群之马",
+      "start_cue": 571,
+      "end_cue": 571,
+      "start_time": "00:42:48,566",
+      "end_time": "00:42:53,371",
+      "quote": "Y-You can't let a few bad apples spoil it for the rest of us.",
+      "id": "S06E11-051"
+    },
+    {
+      "chunk": "work like a charm",
+      "meaning": "极其有效；这里是自嘲反话，因为仍秃头",
+      "start_cue": 579,
+      "end_cue": 579,
+      "start_time": "00:43:20,465",
+      "end_time": "00:43:21,967",
+      "quote": "Worked like a charm.",
+      "id": "S06E11-052"
+    },
+    {
+      "chunk": "This sb.'s on me.",
+      "meaning": "这杯／这轮我请",
+      "start_cue": 587,
+      "end_cue": 587,
+      "start_time": "00:43:45,423",
+      "end_time": "00:43:47,926",
+      "quote": "Come on. More drinks. This one's on me.",
+      "selection_pass": 2,
+      "id": "S06E11-053",
+      "original_chunk": "This one's on me."
+    },
+    {
+      "chunk": "It's none of my business, but…",
+      "meaning": "本不该我管，但……；缓和越界建议",
+      "start_cue": 589,
+      "end_cue": 591,
+      "start_time": "00:43:55,166",
+      "end_time": "00:44:00,105",
+      "quote": "Hey, uh, it's none of my business, but, um... should you be drinkin'?",
+      "id": "S06E11-054"
+    },
+    {
+      "chunk": "You only go around once.",
+      "meaning": "人生只有一次；劝尽情享受",
+      "start_cue": 592,
+      "end_cue": 592,
+      "start_time": "00:44:06,812",
+      "end_time": "00:44:08,346",
+      "quote": "You only go around once.",
+      "id": "S06E11-055"
+    },
+    {
+      "chunk": "Feed me, what have we got?",
+      "meaning": "给我消息，有什么进展？；工作口语，原文不完整句保留",
+      "start_cue": 598,
+      "end_cue": 598,
+      "start_time": "00:45:26,024",
+      "end_time": "00:45:27,425",
+      "quote": "Feed me, what do we got?",
+      "selection_pass": 2,
+      "id": "S06E11-056"
+    },
+    {
+      "chunk": "be on the clock",
+      "meaning": "正在计酬工作时间；此处催受雇者工作",
+      "start_cue": 611,
+      "end_cue": 611,
+      "start_time": "00:46:09,267",
+      "end_time": "00:46:10,936",
+      "quote": "Hello? You're on the clock, right?",
+      "selection_pass": 2,
+      "dedup_note": "同形不同义／独立功能保留：计时与按工时计费",
+      "id": "S06E11-057"
+    },
+    {
+      "chunk": "give with the info",
+      "meaning": "把信息说出来；较旧式口语",
+      "start_cue": 612,
+      "end_cue": 612,
+      "start_time": "00:46:11,069",
+      "end_time": "00:46:13,304",
+      "quote": "So give with the info anytime.",
+      "selection_pass": 2,
+      "id": "S06E11-058"
+    },
+    {
+      "chunk": "do wonders for sth.",
+      "meaning": "对某事大有帮助",
+      "start_cue": 627,
+      "end_cue": 627,
+      "start_time": "00:46:52,443",
+      "end_time": "00:46:55,346",
+      "quote": "It would do wonders for your chi.",
+      "id": "S06E11-059"
+    },
+    {
+      "chunk": "News flash…",
+      "meaning": "告诉你个新消息……；常讽刺对方没看出明显事实",
+      "start_cue": 639,
+      "end_cue": 639,
+      "start_time": "00:47:30,181",
+      "end_time": "00:47:32,717",
+      "quote": "News flash. He really does have a broken neck.",
+      "id": "S06E11-060"
+    },
+    {
+      "chunk": "Keep it coming.",
+      "meaning": "继续说／继续提供",
+      "start_cue": 642,
+      "end_cue": 642,
+      "start_time": "00:47:37,522",
+      "end_time": "00:47:38,689",
+      "quote": "Keep it coming.",
+      "id": "S06E11-061"
+    },
+    {
+      "chunk": "a second-story guy",
+      "meaning": "爬窗入室的盗贼；美式犯罪行话",
+      "start_cue": 643,
+      "end_cue": 643,
+      "start_time": "00:47:38,823",
+      "end_time": "00:47:40,491",
+      "quote": "Second story guy out of Indianapolis.",
+      "id": "S06E11-062"
+    },
+    {
+      "chunk": "do a dime",
+      "meaning": "坐十年牢；犯罪俚语",
+      "start_cue": 644,
+      "end_cue": 644,
+      "start_time": "00:47:40,625",
+      "end_time": "00:47:43,361",
+      "quote": "Lasky. Did a dime at Menard.",
+      "id": "S06E11-063"
+    },
+    {
+      "chunk": "small potatoes",
+      "meaning": "无关紧要的小人物／小事",
+      "start_cue": 676,
+      "end_cue": 676,
+      "start_time": "00:48:58,703",
+      "end_time": "00:49:01,672",
+      "quote": "He doesn't say anything. The guy's small potatoes.",
+      "id": "S06E11-064"
+    },
+    {
+      "chunk": "the buzz on the street",
+      "meaning": "圈子里／外面流传的消息",
+      "start_cue": 681,
+      "end_cue": 681,
+      "start_time": "00:49:09,580",
+      "end_time": "00:49:12,317",
+      "quote": "It's top of the line product, that's the buzz on the street,",
+      "id": "S06E11-065"
+    },
+    {
+      "chunk": "a waste of time and money",
+      "meaning": "浪费时间和金钱",
+      "start_cue": 686,
+      "end_cue": 686,
+      "start_time": "00:49:21,192",
+      "end_time": "00:49:24,195",
+      "quote": "Turned out to be a complete waste of time and money.",
+      "selection_pass": 2,
+      "id": "S06E11-066"
+    },
+    {
+      "chunk": "catch a bad break",
+      "meaning": "遭遇倒霉事",
+      "start_cue": 695,
+      "end_cue": 695,
+      "start_time": "00:49:46,551",
+      "end_time": "00:49:48,653",
+      "quote": "Now, the Lasky kid caught a bad break.",
+      "id": "S06E11-067"
+    },
+    {
+      "chunk": "weed through sth.",
+      "meaning": "从大量对象中筛选；原是除杂草的比喻",
+      "start_cue": 728,
+      "end_cue": 730,
+      "start_time": "00:52:04,422",
+      "end_time": "00:52:10,761",
+      "quote": "I have to weed through all these saps who have wives and families at home, find somebody who's alone with money,",
+      "selection_pass": 2,
+      "id": "S06E11-068"
+    },
+    {
+      "chunk": "wimp out",
+      "meaning": "临阵退缩／因胆怯不干",
+      "start_cue": 731,
+      "end_cue": 731,
+      "start_time": "00:52:10,895",
+      "end_time": "00:52:13,498",
+      "quote": "and, what, so you can just wimp out?",
+      "id": "S06E11-069"
+    },
+    {
+      "chunk": "speak from experience",
+      "meaning": "凭亲身经验说话",
+      "start_cue": 737,
+      "end_cue": 737,
+      "start_time": "00:52:22,873",
+      "end_time": "00:52:25,776",
+      "quote": "Believe me, I speak from experience.",
+      "id": "S06E11-070"
+    },
+    {
+      "chunk": "sob stories",
+      "meaning": "博取同情的悲惨故事；贬义",
+      "start_cue": 739,
+      "end_cue": 739,
+      "start_time": "00:52:28,379",
+      "end_time": "00:52:31,182",
+      "quote": "Do you know how many of the suckers we've ripped off have sob stories?",
+      "id": "S06E11-071"
+    },
+    {
+      "chunk": "be taken",
+      "meaning": "被诈骗／坑骗；非正式",
+      "start_cue": 742,
+      "end_cue": 742,
+      "start_time": "00:52:35,253",
+      "end_time": "00:52:36,930",
+      "quote": "before they even realize they've been taken.",
+      "id": "S06E11-072"
+    },
+    {
+      "chunk": "get over it",
+      "meaning": "克服心理障碍／别再纠结；此处冷酷催促",
+      "start_cue": 749,
+      "end_cue": 749,
+      "start_time": "00:52:52,470",
+      "end_time": "00:52:54,171",
+      "quote": "You get over it, okay?",
+      "selection_pass": 2,
+      "id": "S06E11-073"
+    },
+    {
+      "chunk": "roll in cash",
+      "meaning": "钱多得很／财源滚滚",
+      "start_cue": 754,
+      "end_cue": 754,
+      "start_time": "00:53:04,014",
+      "end_time": "00:53:05,974",
+      "quote": "Hear me out, okay? I mean, we're rolling in cash.",
+      "id": "S06E11-074"
+    },
+    {
+      "chunk": "even if we wanted to",
+      "meaning": "就算想做也……；与实际可行性区分",
+      "start_cue": 759,
+      "end_cue": 759,
+      "start_time": "00:53:14,525",
+      "end_time": "00:53:16,325",
+      "quote": "We couldn't get back in even if we wanted to.",
+      "selection_pass": 2,
+      "id": "S06E11-075"
+    },
+    {
+      "chunk": "see both sides",
+      "meaning": "理解争论双方的理由",
+      "start_cue": 763,
+      "end_cue": 763,
+      "start_time": "00:53:24,969",
+      "end_time": "00:53:27,838",
+      "quote": "I mean, I can see both sides, kinda.",
+      "id": "S06E11-076"
+    },
+    {
+      "chunk": "keep sb.'s mouth shut",
+      "meaning": "闭嘴，不泄露；强硬口语",
+      "start_cue": 771,
+      "end_cue": 771,
+      "start_time": "00:53:41,552",
+      "end_time": "00:53:42,753",
+      "quote": "Keep your mouth shut.",
+      "id": "S06E11-077",
+      "original_chunk": "keep one's mouth shut"
+    },
+    {
+      "chunk": "pick up a fare",
+      "meaning": "载上一个乘客；出租车行业口语",
+      "start_cue": 789,
+      "end_cue": 789,
+      "start_time": "00:55:07,104",
+      "end_time": "00:55:09,173",
+      "quote": "Just roll up slow, like you're picking up a fare.",
+      "selection_pass": 2,
+      "id": "S06E11-078"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "under false pretenses",
+      "meaning": "以虚假理由；隐瞒真实目的",
+      "start_cue": 161,
+      "end_cue": 161,
+      "start_time": "00:10:43,811",
+      "end_time": "00:10:45,813",
+      "quote": "DEA held him under false pretenses or something,",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s03e01-selection.json",
+          "以虚假理由／身份；通过欺骗获取准入"
+        ]
+      ]
+    },
+    {
+      "chunk": "before you know it",
+      "meaning": "不知不觉间／转眼就",
+      "start_cue": 751,
+      "end_cue": 751,
+      "start_time": "00:52:55,906",
+      "end_time": "00:52:58,509",
+      "quote": "Before you know it, you forget all about it.",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s02e10-selection.json",
+          "转眼就好／很快；安抚"
+        ]
+      ]
+    },
+    {
+      "chunk": "Your name came up.",
+      "meaning": "说话时提到了你",
+      "start_cue": 188,
+      "end_cue": 188,
+      "start_time": "00:12:00,020",
+      "end_time": "00:12:01,188",
+      "quote": "Your name came up.",
+      "reason": "同一谈话提名义",
+      "earlier": {
+        "episode": "s02e02",
+        "chunk": "sb.'s name comes up"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "back me up",
+      "meaning": "帮我说话／支持我的立场",
+      "start_cue": 760,
+      "end_cue": 760,
+      "start_time": "00:53:18,596",
+      "end_time": "00:53:20,965",
+      "quote": "Jeff, come on, man, back me up here.",
+      "reason": "同一支持立场义",
+      "earlier": {
+        "episode": "s01e04",
+        "chunk": "back sb. up"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Let it go.",
+      "meaning": "别再纠缠／放下那件事",
+      "start_cue": 688,
+      "end_cue": 688,
+      "start_time": "00:49:25,963",
+      "end_time": "00:49:26,963",
+      "quote": "Let it go.",
+      "selection_pass": 2,
+      "reason": "此处同为别再纠缠",
+      "earlier": {
+        "episode": "s01e03",
+        "chunk": "let sth. go"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "on the house",
+      "meaning": "免费赠送，由店家请",
+      "start_cue": 389,
+      "end_cue": 389,
+      "start_time": "00:25:16,683",
+      "end_time": "00:25:17,683",
+      "quote": "On the house.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s01e06",
+        "chunk": "on the house"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "No kidding?",
+      "meaning": "真的假的？；吃惊确认",
+      "start_cue": 186,
+      "end_cue": 186,
+      "start_time": "00:11:54,681",
+      "end_time": "00:11:56,016",
+      "quote": "No kidding?",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "No kidding?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "You got that right.",
+      "meaning": "你可说对了；强烈赞同",
+      "start_cue": 593,
+      "end_cue": 593,
+      "start_time": "00:44:12,417",
+      "end_time": "00:44:13,417",
+      "quote": "You got that right.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e02",
+        "chunk": "You got that right."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "big time",
+      "meaning": "非常／大大地；非正式程度副词",
+      "start_cue": 511,
+      "end_cue": 511,
+      "start_time": "00:38:47,826",
+      "end_time": "00:38:49,661",
+      "quote": "Yeah. Big time.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e09",
+        "chunk": "Big time."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "cast aspersions",
+      "meaning": "散布恶意怀疑／中伤；正式",
+      "start_cue": 49,
+      "end_cue": 50,
+      "start_time": "00:02:39,493",
+      "end_time": "00:02:46,166",
+      "quote": "so stop trying to cast, y'know... aspersions.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e03",
+        "chunk": "cast aspersions"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Let's leave it at that.",
+      "meaning": "就说到这里／不用再深究",
+      "start_cue": 409,
+      "end_cue": 409,
+      "start_time": "00:32:28,247",
+      "end_time": "00:32:30,225",
+      "quote": "We're paying him to do a job, let's just leave it at that.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e05",
+        "chunk": "Let's leave it at that."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Don't tell me…",
+      "meaning": "别告诉我连……也……；预料坏消息",
+      "start_cue": 121,
+      "end_cue": 121,
+      "start_time": "00:09:16,023",
+      "end_time": "00:09:18,525",
+      "quote": "Ah, don't tell me... Laser tag?",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e03",
+        "chunk": "Don't tell me."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Say again?",
+      "meaning": "再说一遍？；电话或通讯口语",
+      "start_cue": 207,
+      "end_cue": 207,
+      "start_time": "00:13:54,167",
+      "end_time": "00:13:55,535",
+      "quote": "Say again, how much?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e05",
+        "chunk": "Say again?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "last I heard",
+      "meaning": "据我最近一次听到的消息",
+      "start_cue": 162,
+      "end_cue": 162,
+      "start_time": "00:10:45,946",
+      "end_time": "00:10:47,781",
+      "quote": "so last I heard, he walked.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s05e10",
+        "chunk": "Last I heard, …"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "get one's hands on sth.",
+      "meaning": "设法弄到某物",
+      "start_cue": 259,
+      "end_cue": 259,
+      "start_time": "00:18:07,854",
+      "end_time": "00:18:10,557",
+      "quote": "After that, we need to get our hands on some barbiturates.",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "get your hands on sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [
+    {
+      "word": "clogged",
+      "meaning": "堵塞的",
+      "start_cue": 57,
+      "end_cue": 57,
+      "start_time": "00:03:06,520",
+      "end_time": "00:03:09,223",
+      "quote": "But, uh, it's still clogged, dude.",
+      "status": "首遍通读中另轨记录的词汇候选；未作全面词汇提取"
+    },
+    {
+      "word": "shitter",
+      "meaning": "厕所／马桶；粗俗",
+      "start_cue": 618,
+      "end_cue": 618,
+      "start_time": "00:46:26,117",
+      "end_time": "00:46:27,618",
+      "quote": "while he was on the shitter.",
+      "status": "首遍通读中另轨记录的词汇候选；未作全面词汇提取"
+    }
+  ],
+  "validation": {
+    "source_sha256_verified": true,
+    "source_cue_sequence_verified": true,
+    "quotes_and_times_verified": true,
+    "scope": "核实所有保留/重复/待核/词汇候选的原句及起止cue时间码；不证明无遗漏"
+  },
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

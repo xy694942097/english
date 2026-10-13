@@ -1,0 +1,406 @@
+{
+  "source_id": "PPP-1997-book1-doc-pg43",
+  "html_source": "materials/corpus/presidential-speeches/govinfo/PPP-1997-book1-doc-pg43.htm",
+  "source_sha256": "ec873a34f40dd9920911b68495da5e01105c40847b3768fcff30ccf8a284aedc",
+  "paragraphs_read": 24,
+  "read_ranges": [
+    [
+      1,
+      24
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        24
+      ]
+    ],
+    "method": "逐项回看首遍未选句段，补充责任、决心、时间限定、能力对照和必要条件等表达；独立复核纠正George W.被错误断句。",
+    "added": 4
+  },
+  "items": [
+    {
+      "chunk": "set one's sights on sth.",
+      "meaning": "把目标定在某事上",
+      "register": "中性",
+      "note": "原句upon为较郑重变体；不因换介词就另收。 原段for decades to comes疑似原文误写；保留引文但不当标准接法。",
+      "paragraph": 1,
+      "quote": "Guided by the ancient vision of a promised land, let us set our sights upon a land of new promise.",
+      "quote_sha256": "b20451a434c04af64ead1f8bf70beefa8c6806b024f7cd2f65c101e07f597b2c"
+    },
+    {
+      "chunk": "on the edge of sth.",
+      "meaning": "处于某个转折点的边缘／即将进入",
+      "register": "演讲",
+      "note": "这里是接近新机遇，不是情绪即将崩溃。 原段for decades to comes疑似原文误写；保留引文但不当标准接法。",
+      "paragraph": 1,
+      "quote": "It is our great good fortune that time and chance have put us not only at the edge of a new century, in a new millennium, but on the edge of a bright new prospect in human affairs, a moment that will define our course and our character for decades to comes.",
+      "quote_sha256": "8292749002c309c0e5a39afd09a65b702f7982e36c4545cfcb2e8979f2c9bc51"
+    },
+    {
+      "chunk": "on the world stage",
+      "meaning": "在国际舞台上",
+      "register": "正式",
+      "note": "stage为公共影响范围的比喻。",
+      "paragraph": 3,
+      "quote": "Then, in turmoil and triumph, that promise exploded onto the world stage to make this the American Century.",
+      "quote_sha256": "80bf66719a080839e9ae172d29f8be73354f30e6bc2291624b63dda04beac8ac"
+    },
+    {
+      "chunk": "time and again",
+      "meaning": "一次又一次／反复",
+      "register": "中性",
+      "note": "强调多次发生。",
+      "paragraph": 3,
+      "quote": "America became the world's mightiest industrial power, saved the world from tyranny in two World Wars and a long cold war, and time and again reached out across the globe to millions who, like us, longed for the blessings of liberty.",
+      "quote_sha256": "60a2e48086750a740a0d3f7dd5b3f98545059192c021e277e0484ce8d9649a51"
+    },
+    {
+      "chunk": "long for sth.",
+      "meaning": "渴望某事物",
+      "register": "中性",
+      "note": "long作动词，与时间长无关。",
+      "paragraph": 3,
+      "quote": "America became the world's mightiest industrial power, saved the world from tyranny in two World Wars and a long cold war, and time and again reached out across the globe to millions who, like us, longed for the blessings of liberty.",
+      "quote_sha256": "60a2e48086750a740a0d3f7dd5b3f98545059192c021e277e0484ce8d9649a51"
+    },
+    {
+      "chunk": "in old age",
+      "meaning": "在年老时／晚年",
+      "register": "中性",
+      "note": "常用于养老、生活保障。",
+      "paragraph": 4,
+      "quote": "Along the way, Americans produced a great middle class and security in old age, built unrivaled centers of learning and opened public schools to all, split the atom and explored the heavens, invented the computer and the microchip, and deepened the wellspring of justice by making a revolution in civil rights for African-Americans and all minorities and extending the circle of citizenship, opportunity, and dignity to women.",
+      "quote_sha256": "e4567329f47e1a7d112931abd5e7c0985b58fe8387885e9ab0d9809f1105a18d"
+    },
+    {
+      "chunk": "be upon sb.",
+      "meaning": "即将来临／已经逼近",
+      "register": "正式",
+      "note": "常见主语为时刻、节日、变化。",
+      "paragraph": 5,
+      "quote": "Now, for the third time, a new century is upon us and another time to choose.",
+      "quote_sha256": "8dae2e350c6c31d17b9b8390c792995a2c1544ee8c2d48c87edfeee994e08ad0"
+    },
+    {
+      "chunk": "from coast to coast",
+      "meaning": "从一端到另一端／横跨全国",
+      "register": "中性",
+      "note": "在美国通常指东西两海岸间；其他场景须有合适范围。",
+      "paragraph": 5,
+      "quote": "We began the 19th century with a choice: to spread our Nation from coast to coast.",
+      "quote_sha256": "a7f2e808318e89d2e0980fca417c27a3f5425522973b6e1cff4489c013a7378d"
+    },
+    {
+      "chunk": "harness sth. to sth.",
+      "meaning": "使某种力量为某目标服务",
+      "register": "正式",
+      "note": "不是只字面驾驭动物。",
+      "paragraph": 5,
+      "quote": "We began the 20th century with a choice: to harness the industrial revolution to our values of free enterprise, conservation, and human decency.",
+      "quote_sha256": "718753501335994df15addce88c35f98e876569fc95750a49db5f9969e70a13b"
+    },
+    {
+      "chunk": "unleash the potential of sb.",
+      "meaning": "释放某人的潜力",
+      "register": "中性",
+      "note": "常用于发展、教育或组织讨论。",
+      "paragraph": 5,
+      "quote": "At the dawn of the 21st century, a free people must now choose to shape the forces of the information age and the global society, to unleash the limitless potential of all our people, and yes, to form a more perfect Union.",
+      "quote_sha256": "37d54f19b1786ea48cb9dfee9a87eecb9fb59c6c2850d8c280f051a4c887a9e1"
+    },
+    {
+      "chunk": "made all the difference",
+      "meaning": "起了决定性作用／使结果大不相同",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 5,
+      "quote": "Those choices made all the difference.",
+      "quote_sha256": "783ce8d5ef1ee65252bfa44da03977f660e60c9bcf5983b587d3d4db0a7ce4fe"
+    },
+    {
+      "chunk": "set a clear course",
+      "meaning": "确定清晰的方向／路线",
+      "register": "中性",
+      "note": "可用于项目、个人发展，不一定行船。",
+      "paragraph": 6,
+      "quote": "We vowed then to set a clear course to renew our Nation.",
+      "quote_sha256": "c1148e7669533f3f3fde95fe5f6e7db4d264a42886eb50a5893c88d95ba0b3a2"
+    },
+    {
+      "chunk": "seem destined to do sth.",
+      "meaning": "似乎注定要……",
+      "register": "中性",
+      "note": "seem保留说话者的不确定，destined加强趋势感。",
+      "paragraph": 6,
+      "quote": "Problems that once seemed destined to deepen, now bend to our efforts.",
+      "quote_sha256": "986b63400b0a9712d5b78a6f6d55f19543cb744e6b52d9530d65403a9a1f0fcf"
+    },
+    {
+      "chunk": "strong enough to …, flexible enough to …",
+      "meaning": "既足够强大能……，又足够灵活能……",
+      "register": "正式",
+      "note": "平行评价两种能力；保留各自补语，不写成万能固定格言。",
+      "paragraph": 6,
+      "quote": "Our Founders understood that well and gave us a democracy strong enough to endure for centuries, flexible enough to face our common challenges and advance our common dreams in each new day.",
+      "quote_sha256": "05e7f827f29a234230151234d8d3b30b68995a7fd4bc812d6ae94088f6837414"
+    },
+    {
+      "chunk": "live within one's means",
+      "meaning": "量入为出／不超出收入水平花钱",
+      "register": "中性",
+      "note": "可用于家庭、个人或机构预算。",
+      "paragraph": 7,
+      "quote": "We need a new Government for a new century, humble enough not to try to solve all our problems for us but strong enough to give us the tools to solve our problems for ourselves, a Government that is smaller, lives within its means, and does more with less.",
+      "quote_sha256": "de4eaf537ccb60de0ffa330c42ed42839235b071f16fcba22aaf15267be67842"
+    },
+    {
+      "chunk": "do more with less",
+      "meaning": "用更少资源做更多事情",
+      "register": "中性",
+      "note": "强调资源效率，不自动保证质量。",
+      "paragraph": 7,
+      "quote": "We need a new Government for a new century, humble enough not to try to solve all our problems for us but strong enough to give us the tools to solve our problems for ourselves, a Government that is smaller, lives within its means, and does more with less.",
+      "quote_sha256": "de4eaf537ccb60de0ffa330c42ed42839235b071f16fcba22aaf15267be67842"
+    },
+    {
+      "chunk": "stand up for sth.",
+      "meaning": "捍卫某种价值、利益或立场",
+      "register": "中性",
+      "note": "不是站起来。",
+      "paragraph": 7,
+      "quote": "Yet where it can stand up for our values and interests around the world, and where it can give Americans the power to make a real difference in their everyday lives, Government should do more, not less.",
+      "quote_sha256": "6aa15a875f9577c0a1f191b0105fe7bec1ecf467342cedbdf450dfadf1f636e0"
+    },
+    {
+      "chunk": "humble enough not to …, but strong enough to …",
+      "meaning": "足够谦逊而不……，又足够强大能……；对照两种能力",
+      "register": "正式",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 7,
+      "quote": "We need a new Government for a new century, humble enough not to try to solve all our problems for us but strong enough to give us the tools to solve our problems for ourselves, a Government that is smaller, lives within its means, and does more with less.",
+      "quote_sha256": "de4eaf537ccb60de0ffa330c42ed42839235b071f16fcba22aaf15267be67842"
+    },
+    {
+      "chunk": "The future is up to us.",
+      "meaning": "未来取决于我们／由我们共同决定",
+      "register": "演讲",
+      "note": "可作为承担主动责任的表达，但较有号召色彩。",
+      "paragraph": 8,
+      "quote": "Beyond that, my fellow citizens, the future is up to us.",
+      "quote_sha256": "3c39ffd79f95bab4d8edb1cade12504d58badf43a0417fe9103d7205cd62e844"
+    },
+    {
+      "chunk": "responsible citizenship",
+      "meaning": "负责任的公民行为／公民责任",
+      "register": "正式",
+      "note": "公共事务词组。",
+      "paragraph": 8,
+      "quote": "Our Founders taught us that the preservation of our liberty and our Union depends upon responsible citizenship.",
+      "quote_sha256": "5d4a1272dbc6d33d2821959f5e1efb3fb1d6a2977d28af1535ae2b8d226bf0f4"
+    },
+    {
+      "chunk": "take time out to do sth.",
+      "meaning": "从自己的生活安排中腾出时间做某事",
+      "register": "中性",
+      "note": "强调主动留出时间。",
+      "paragraph": 8,
+      "quote": "There is work to do, work that Government alone cannot do: teaching children to read, hiring people off welfare rolls, coming out from behind locked doors and shuttered windows to help reclaim our streets from drugs and gangs and crime, taking time out of our own lives to serve others.",
+      "original_chunk": "take time out of one's life to do sth.",
+      "quote_sha256": "03740fdf22a682ec03701cc0889fbd23fa3373f90df2d5d17bddaa35fcc677e8"
+    },
+    {
+      "chunk": "assume responsibility (for sth.)",
+      "meaning": "承担个人责任",
+      "register": "正式",
+      "note": "不把责任全交给他人。",
+      "paragraph": 9,
+      "quote": "Each and every one of us, in our own way, must assume personal responsibility not only for ourselves and our families but for our neighbors and our Nation.",
+      "original_chunk": "assume personal responsibility",
+      "quote_sha256": "e492f361f5b46a4658ab2872d65500a13b852f994a4c47441459588a83e4b5d1"
+    },
+    {
+      "chunk": "come together / come apart",
+      "meaning": "凝聚在一起／分裂瓦解",
+      "register": "中性",
+      "note": "本句描述共同体，二者并列构成对照。",
+      "paragraph": 9,
+      "quote": "Will we all come together, or come apart?",
+      "quote_sha256": "4beb6de1b5c9764f889da43ffa8537e25b637d3651dc63d2b03a37c68a4a3e3e"
+    },
+    {
+      "chunk": "cloaked in sth.",
+      "meaning": "披着某种幌子／以某事作伪装",
+      "register": "正式",
+      "note": "披着某物的外衣；本句pretense指幌子，不把整个修饰链称为固定短语。",
+      "paragraph": 10,
+      "quote": "Prejudice and contempt cloaked in the pretense of religious or political conviction are no different.",
+      "original_chunk": "cloaked in the pretense of sth.",
+      "quote_sha256": "1362c9a3a4a9a18f5897574d701e63d5d6975f4d08e5280afda2eca6db02164e"
+    },
+    {
+      "chunk": "succumb to sth.",
+      "meaning": "屈服于某种压力、冲动或影响",
+      "register": "正式",
+      "note": "可用于疾病或诱惑，意义随对象区分。",
+      "paragraph": 11,
+      "quote": "We cannot, we will not, succumb to the dark impulses that lurk in the far regions of the soul everywhere.",
+      "quote_sha256": "e3e8a49b4eee135650ccda0edd3c57aaaa6ca5cdb4e6c071944535b7adbb1f18"
+    },
+    {
+      "chunk": "feel at home with sb.",
+      "meaning": "与某人在一起感到自在、融洽",
+      "register": "中性",
+      "note": "不同于对某个主题很熟悉的at home with sth.。",
+      "paragraph": 11,
+      "quote": "And we shall replace them with the generous spirit of a people who feel at home with one another.",
+      "quote_sha256": "c8ddc6cd29a2a737a691837bd20ef6bd8350a27b0cc28530fb754f36214ac29f"
+    },
+    {
+      "chunk": "forge new ties",
+      "meaning": "建立新的联系／关系",
+      "register": "正式",
+      "note": "forge在此是建立，不是伪造。",
+      "paragraph": 11,
+      "quote": "Great rewards will come to those who can live together, learn together, work together, forge new ties that bind together.",
+      "quote_sha256": "1ea2275b079f077f66455ee94a569d76f51c5e46fbba7bde79c34e3913579e3f"
+    },
+    {
+      "chunk": "close at hand",
+      "meaning": "近在眼前／很快可能实现",
+      "register": "中性",
+      "note": "本句seem限制预测强度。",
+      "paragraph": 12,
+      "quote": "Cures for our most feared illnesses seem close at hand.",
+      "quote_sha256": "adfc0210b84af5765304e4e52dac7f4e01070d9fc10a8a0c60a521bb29851a24"
+    },
+    {
+      "chunk": "build bonds with sb.",
+      "meaning": "与某人建立联系／纽带",
+      "register": "中性",
+      "note": "不专指金融债券。",
+      "paragraph": 12,
+      "quote": "Instead, now we are building bonds with nations that once were our adversaries.",
+      "quote_sha256": "b3bcd7d8c0db77af8331199bf25f1c67a71d364d6ad9512098e98fed90570a9c"
+    },
+    {
+      "chunk": "the world over",
+      "meaning": "全世界／遍及世界",
+      "register": "中性",
+      "note": "固定副词性说法。",
+      "paragraph": 12,
+      "quote": "Growing connections of commerce and culture give us a chance to lift the fortunes and spirits of people the world over.",
+      "quote_sha256": "a65df0db1c7ffc0c99d0fdfb9e1a5c14bda149e586f29cf58892f3dea77ed1c5"
+    },
+    {
+      "chunk": "lift sb.'s spirits",
+      "meaning": "让某人心情振奋／使人精神一振",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 12,
+      "quote": "Growing connections of commerce and culture give us a chance to lift the fortunes and spirits of people the world over.",
+      "quote_sha256": "a65df0db1c7ffc0c99d0fdfb9e1a5c14bda149e586f29cf58892f3dea77ed1c5"
+    },
+    {
+      "chunk": "within reach",
+      "meaning": "在可获得／可达到的范围内",
+      "register": "中性",
+      "note": "可指机会、资源、目标或物品距离。",
+      "paragraph": 14,
+      "quote": "The knowledge and power of the information age will be within reach not just of the few but of every classroom, every library, every child.",
+      "quote_sha256": "a23dda5f93d2ac115fb7dcd3cad60731a53c715ca53add8041f8b40245ed7beb"
+    },
+    {
+      "chunk": "meet one's obligations",
+      "meaning": "履行义务／承担应尽责任",
+      "register": "中性",
+      "note": "meet不是遇见义务。",
+      "paragraph": 17,
+      "quote": "Our land of new promise will be a nation that meets its obligations, a nation that balances its budget but never loses the balance of its values, a nation where our grandparents have secure retirement and health care and their grandchildren know we have made the reforms necessary to sustain those benefits for their time, a nation that fortifies the world's most productive economy even as it protects the great natural bounty of our water, air, and majestic land.",
+      "quote_sha256": "14b036dea65b300f38a55cadcb98f93c69a94d0921d46dc1df73a3b3eb28f55b"
+    },
+    {
+      "chunk": "balance one's budget",
+      "meaning": "使预算收支平衡",
+      "register": "中性",
+      "note": "这里不提供财务建议，仅为搭配。",
+      "paragraph": 17,
+      "quote": "Our land of new promise will be a nation that meets its obligations, a nation that balances its budget but never loses the balance of its values, a nation where our grandparents have secure retirement and health care and their grandchildren know we have made the reforms necessary to sustain those benefits for their time, a nation that fortifies the world's most productive economy even as it protects the great natural bounty of our water, air, and majestic land.",
+      "quote_sha256": "14b036dea65b300f38a55cadcb98f93c69a94d0921d46dc1df73a3b3eb28f55b"
+    },
+    {
+      "chunk": "realize one's full potential",
+      "meaning": "充分发挥潜力",
+      "register": "中性",
+      "note": "realize在此是实现，而非意识到。",
+      "paragraph": 18,
+      "quote": "Fellow citizens, let us build that America, a nation ever moving forward toward realizing the full potential of all its citizens.",
+      "quote_sha256": "b066c425dfab064a4c588e36c9104e6baa77221bd550313e9c23e2f091f24cf4"
+    },
+    {
+      "chunk": "be no match for sth.",
+      "meaning": "比不上某物／无法与之抗衡",
+      "register": "中性",
+      "note": "可比较能力、力量或影响。",
+      "paragraph": 18,
+      "quote": "In the end, all the world's wealth and a thousand armies are no match for the strength and decency of the human spirit.",
+      "quote_sha256": "7b021d7edc354d490dd7a394f759d1335236e816ed5779ff07c283cc41b49827"
+    },
+    {
+      "chunk": "have yet to do sth.",
+      "meaning": "还没有做某事／尚待完成",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 18,
+      "quote": "But let us never forget, the greatest progress we have made and the greatest progress we have yet to make is in the human heart.",
+      "quote_sha256": "c38dcb27244d04771f6e5552373fe4da45ce254dd28ce65ab9fed06496737449"
+    },
+    {
+      "chunk": "treat sb. as an equal",
+      "meaning": "把某人当作平等的人来对待",
+      "register": "中性",
+      "note": "as后接角色或身份。",
+      "paragraph": 19,
+      "quote": "Like a prophet of old, he told of his dream that one day America would rise up and treat all its citizens as equals before the law and in the heart.",
+      "quote_sha256": "da3047849f4e437b26e4464e4bf2e7e5524d549a0d5ef0446ee567092dfe4454"
+    },
+    {
+      "chunk": "live out one's creed",
+      "meaning": "践行自己的信念／把信条落实于生活",
+      "register": "正式",
+      "note": "creed偏郑重，可用beliefs在其他语境表达近似意思。",
+      "paragraph": 19,
+      "quote": "His quest is our quest: the ceaseless striving to live out our true creed.",
+      "quote_sha256": "d8e867f5d54a8791763b7a96c6a8d976bbb7a94b852a87e4316ea0d7139b349d"
+    },
+    {
+      "chunk": "return sb. to office",
+      "meaning": "再次选举某人任职",
+      "register": "正式",
+      "note": "不是把人送回办公室。",
+      "paragraph": 20,
+      "quote": "The American people returned to office a President of one party and a Congress of another.",
+      "quote_sha256": "c79a38efd0d0c77a21c91f4879a88ab83ff81cc966f48978573520c66ecd7b31"
+    },
+    {
+      "chunk": "come to an end",
+      "meaning": "结束／走到终点",
+      "register": "中性",
+      "note": "可用于旅程、合作、阶段。",
+      "paragraph": 21,
+      "quote": "For all of us are on that same journey of our lives, and our journey, too, will come to an end.",
+      "quote_sha256": "e725e5d0cca3286cfd5577c8685e310ff1ad748503f17aae92acf0a4e0aae8b4"
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [],
+  "vocabulary_candidates": [
+    "steadfastness",
+    "posterity",
+    "pretense",
+    "narcotrafficking",
+    "acrimony"
+  ]
+}

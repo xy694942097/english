@@ -1,0 +1,841 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S04/Better.Call.Saul.S04E10.en.srt",
+  "sha256": "3dcdd367f0b5de6256955a4601cd9ccdec3cb708772c592336517625bd02fe43",
+  "subtitle_blocks_read": 771,
+  "max_cue": 771,
+  "selection_status": "Candidates; community subtitles, not audio verified",
+  "read_batches": [
+    [
+      1,
+      771
+    ]
+  ],
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "items": [
+    {
+      "chunk": "That is not a thing.",
+      "meaning": "根本没这种事／这种说法不成立；随意纠正",
+      "start_cue": 24,
+      "end_cue": 24,
+      "start_time": "00:01:19,997",
+      "end_time": "00:01:21,666",
+      "quote": "- I double sue you. - That is not a thing.",
+      "id": "S04E10-001"
+    },
+    {
+      "chunk": "never forgive oneself for doing sth.",
+      "meaning": "会一直后悔某事；此处夸张劝留",
+      "start_cue": 48,
+      "end_cue": 48,
+      "start_time": "00:02:21,392",
+      "end_time": "00:02:23,561",
+      "quote": "You'll never forgive yourself for missing it.",
+      "id": "S04E10-002"
+    },
+    {
+      "chunk": "You won't regret it.",
+      "meaning": "你不会后悔的；推荐／承诺",
+      "start_cue": 50,
+      "end_cue": 50,
+      "start_time": "00:02:25,271",
+      "end_time": "00:02:26,897",
+      "quote": "- A little longer. - You won't regret it.",
+      "id": "S04E10-003"
+    },
+    {
+      "chunk": "Let's hear it.",
+      "meaning": "给点掌声／欢呼吧；主持人号召",
+      "start_cue": 61,
+      "end_cue": 61,
+      "start_time": "00:03:03,601",
+      "end_time": "00:03:05,186",
+      "quote": "Let's hear it.",
+      "id": "S04E10-004"
+    },
+    {
+      "chunk": "Watch your step.",
+      "meaning": "小心脚下；本句字面安全提醒，亦可作警告",
+      "start_cue": 84,
+      "end_cue": 84,
+      "start_time": "00:04:16,382",
+      "end_time": "00:04:18,300",
+      "quote": "okay. Watch it. Watch your step, Jimmy.",
+      "id": "S04E10-005"
+    },
+    {
+      "chunk": "How about that?",
+      "meaning": "瞧，多有意思／真没想到；本句感叹",
+      "start_cue": 90,
+      "end_cue": 90,
+      "start_time": "00:04:27,685",
+      "end_time": "00:04:29,520",
+      "quote": "Two lawyers. How about that?",
+      "id": "S04E10-006"
+    },
+    {
+      "chunk": "Can't argue with that.",
+      "meaning": "这没法反驳／说得有道理",
+      "start_cue": 96,
+      "end_cue": 96,
+      "start_time": "00:04:44,285",
+      "end_time": "00:04:47,329",
+      "quote": "- People love symmetricality. - Can't argue with that.",
+      "id": "S04E10-007"
+    },
+    {
+      "chunk": "That will do.",
+      "meaning": "这样就够了／可以了",
+      "start_cue": 99,
+      "end_cue": 99,
+      "start_time": "00:04:54,503",
+      "end_time": "00:04:55,921",
+      "quote": "- Okay. - That will do.",
+      "id": "S04E10-008"
+    },
+    {
+      "chunk": "get by with sth.",
+      "meaning": "有某物就能凑合／应付过去",
+      "start_cue": 105,
+      "end_cue": 105,
+      "start_time": "00:05:12,062",
+      "end_time": "00:05:14,607",
+      "quote": "We could get by with one nipple.",
+      "id": "S04E10-009"
+    },
+    {
+      "chunk": "just in case",
+      "meaning": "以防万一",
+      "start_cue": 116,
+      "end_cue": 116,
+      "start_time": "00:05:41,675",
+      "end_time": "00:05:45,804",
+      "quote": "Jimmy, I put a trash can by the bed, just in case.",
+      "id": "S04E10-010"
+    },
+    {
+      "chunk": "You think of everything.",
+      "meaning": "你考虑得真周到",
+      "start_cue": 117,
+      "end_cue": 117,
+      "start_time": "00:05:45,971",
+      "end_time": "00:05:47,640",
+      "quote": "- Eventuality. - You think of everything.",
+      "id": "S04E10-011"
+    },
+    {
+      "chunk": "have a … hour jump on sb.",
+      "meaning": "比某人早出发若干小时、领先一段时间",
+      "start_cue": 139,
+      "end_cue": 139,
+      "start_time": "00:07:42,129",
+      "end_time": "00:07:44,715",
+      "quote": "Mike: He's got a three-and-a-half hour jump on us...",
+      "id": "S04E10-012"
+    },
+    {
+      "chunk": "a fighting chance",
+      "meaning": "值得一搏的机会、尚有希望",
+      "start_cue": 140,
+      "end_cue": 140,
+      "start_time": "00:07:44,882",
+      "end_time": "00:07:48,510",
+      "quote": "But he started out on foot, which gives us a fighting chance.",
+      "id": "S04E10-013"
+    },
+    {
+      "chunk": "have sb.'s thumb out",
+      "meaning": "伸拇指搭便车；英语文化动作",
+      "start_cue": 145,
+      "end_cue": 145,
+      "start_time": "00:08:01,482",
+      "end_time": "00:08:05,277",
+      "quote": "You two head north and south, see if he's got his thumb out.",
+      "id": "S04E10-014",
+      "original_chunk": "have one's thumb out"
+    },
+    {
+      "chunk": "on lockdown",
+      "meaning": "被严格封闭／限制行动",
+      "start_cue": 147,
+      "end_cue": 147,
+      "start_time": "00:08:08,947",
+      "end_time": "00:08:11,909",
+      "quote": "You, you stay with the crew. You keep them on lockdown.",
+      "id": "S04E10-015"
+    },
+    {
+      "chunk": "wire sb. money",
+      "meaning": "给某人电汇钱款",
+      "start_cue": 152,
+      "end_cue": 152,
+      "start_time": "00:08:38,811",
+      "end_time": "00:08:44,024",
+      "quote": "I arranged for my wife to wire me money from Frankfurt, Germany, to the us.",
+      "id": "S04E10-016"
+    },
+    {
+      "chunk": "lose touch",
+      "meaning": "失去联系",
+      "start_cue": 171,
+      "end_cue": 171,
+      "start_time": "00:10:00,309",
+      "end_time": "00:10:03,187",
+      "quote": "I feel bad we lost touch for so long.",
+      "id": "S04E10-017"
+    },
+    {
+      "chunk": "pace oneself",
+      "meaning": "合理控制体力／节奏",
+      "start_cue": 183,
+      "end_cue": 183,
+      "start_time": "00:10:52,945",
+      "end_time": "00:10:55,405",
+      "quote": "You better pace yourself, though. It's gonna be a long day.",
+      "id": "S04E10-018"
+    },
+    {
+      "chunk": "have valid ID",
+      "meaning": "持有有效身份证件",
+      "start_cue": 193,
+      "end_cue": 193,
+      "start_time": "00:12:35,964",
+      "end_time": "00:12:39,134",
+      "quote": "Just make sure your party has valid ID when they pick up.",
+      "id": "S04E10-019"
+    },
+    {
+      "chunk": "give out customer information",
+      "meaning": "对外透露客户信息",
+      "start_cue": 200,
+      "end_cue": 201,
+      "start_time": "00:12:53,899",
+      "end_time": "00:12:59,488",
+      "quote": "I'm sorry, even if he was here, it's not company policy... - To give out customer information. - Even if he just walked in?",
+      "id": "S04E10-020"
+    },
+    {
+      "chunk": "be beside oneself",
+      "meaning": "极度焦虑／情绪激动",
+      "start_cue": 206,
+      "end_cue": 206,
+      "start_time": "00:13:11,333",
+      "end_time": "00:13:14,628",
+      "quote": "- My wife is beside herself. - Oh, no.",
+      "id": "S04E10-021"
+    },
+    {
+      "chunk": "rant and rave",
+      "meaning": "大声激愤地抱怨／说话",
+      "start_cue": 208,
+      "end_cue": 208,
+      "start_time": "00:13:19,758",
+      "end_time": "00:13:22,761",
+      "quote": "Back in Germany. She said Werner called ranting and raving...",
+      "id": "S04E10-022"
+    },
+    {
+      "chunk": "have a peek at sth.",
+      "meaning": "快速看一眼某物；较随意",
+      "start_cue": 225,
+      "end_cue": 226,
+      "start_time": "00:14:13,729",
+      "end_time": "00:14:19,192",
+      "quote": "Any chance that... I might have a peek at your security videos?",
+      "id": "S04E10-023"
+    },
+    {
+      "chunk": "a money order comes through",
+      "meaning": "汇款到账／办理完成",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:14:41,798",
+      "end_time": "00:14:43,550",
+      "quote": "Before his money order came through.",
+      "id": "S04E10-024"
+    },
+    {
+      "chunk": "be holed up",
+      "meaning": "藏身／躲在某处；口语",
+      "start_cue": 244,
+      "end_cue": 244,
+      "start_time": "00:16:20,272",
+      "end_time": "00:16:24,609",
+      "quote": "And they'll follow her from the airport to wherever he's holed up.",
+      "id": "S04E10-025"
+    },
+    {
+      "chunk": "another way to play this",
+      "meaning": "另一种处理这局面的策略",
+      "start_cue": 246,
+      "end_cue": 246,
+      "start_time": "00:16:32,325",
+      "end_time": "00:16:34,953",
+      "quote": "There's another way to play this.",
+      "id": "S04E10-026"
+    },
+    {
+      "chunk": "this side of …",
+      "meaning": "……这边／范围内；本句夸张限定地理范围",
+      "start_cue": 251,
+      "end_cue": 251,
+      "start_time": "00:16:48,592",
+      "end_time": "00:16:50,844",
+      "quote": "This side of the Mississippi.",
+      "id": "S04E10-027"
+    },
+    {
+      "chunk": "go strong",
+      "meaning": "保持强劲、经营发展良好",
+      "start_cue": 277,
+      "end_cue": 277,
+      "start_time": "00:18:55,719",
+      "end_time": "00:18:58,096",
+      "quote": "Is back and going strong.",
+      "id": "S04E10-028"
+    },
+    {
+      "chunk": "couldn't be more …",
+      "meaning": "再……不过了；加强最高程度",
+      "start_cue": 279,
+      "end_cue": 279,
+      "start_time": "00:19:00,682",
+      "end_time": "00:19:04,311",
+      "quote": "Which is why this couldn't be more appropriate.",
+      "id": "S04E10-029"
+    },
+    {
+      "chunk": "mean the world to sb.",
+      "meaning": "对某人极其重要",
+      "start_cue": 280,
+      "end_cue": 280,
+      "start_time": "00:19:04,811",
+      "end_time": "00:19:07,022",
+      "quote": "I know this would've meant the world to him.",
+      "id": "S04E10-030"
+    },
+    {
+      "chunk": "take credit for sth.",
+      "meaning": "把某成果归功于自己",
+      "start_cue": 289,
+      "end_cue": 289,
+      "start_time": "00:19:27,876",
+      "end_time": "00:19:31,796",
+      "quote": "Well, I didn't. I wish I could take credit for it, but I can't.",
+      "id": "S04E10-031"
+    },
+    {
+      "chunk": "remain anonymous",
+      "meaning": "保持匿名、不公开身份",
+      "start_cue": 302,
+      "end_cue": 302,
+      "start_time": "00:20:08,875",
+      "end_time": "00:20:10,377",
+      "quote": "Prefer to remain anonymous.",
+      "id": "S04E10-032"
+    },
+    {
+      "chunk": "Try this on for size.",
+      "meaning": "看看这个想法怎么样；比喻试提案",
+      "start_cue": 321,
+      "end_cue": 321,
+      "start_time": "00:21:15,900",
+      "end_time": "00:21:18,111",
+      "quote": "Try this on for size.",
+      "id": "S04E10-033"
+    },
+    {
+      "chunk": "warm to the touch",
+      "meaning": "摸起来温热",
+      "start_cue": 327,
+      "end_cue": 327,
+      "start_time": "00:21:31,332",
+      "end_time": "00:21:34,210",
+      "quote": "She crosses to her door, it's warm to the touch.",
+      "id": "S04E10-034"
+    },
+    {
+      "chunk": "get sb.'s money's worth",
+      "meaning": "得到与所花钱相称的享受／价值",
+      "start_cue": 336,
+      "end_cue": 336,
+      "start_time": "00:22:00,320",
+      "end_time": "00:22:03,156",
+      "quote": "Okay. Wanna go back in, get your money's worth?",
+      "id": "S04E10-035",
+      "original_chunk": "get one's money's worth"
+    },
+    {
+      "chunk": "Here's where we are.",
+      "meaning": "目前情况是这样；汇总进度",
+      "start_cue": 376,
+      "end_cue": 376,
+      "start_time": "00:28:06,727",
+      "end_time": "00:28:08,688",
+      "quote": "- Of course. - Here's where we are.",
+      "id": "S04E10-036"
+    },
+    {
+      "chunk": "dangle sth. in front of sb.",
+      "meaning": "把好处摆在某人面前诱惑／吊人胃口",
+      "start_cue": 416,
+      "end_cue": 416,
+      "start_time": "00:30:10,768",
+      "end_time": "00:30:13,688",
+      "quote": "They... they dangle these things in front of you...",
+      "id": "S04E10-037"
+    },
+    {
+      "chunk": "make up sb.'s mind",
+      "meaning": "下定决心、作出决定",
+      "start_cue": 419,
+      "end_cue": 419,
+      "start_time": "00:30:17,858",
+      "end_time": "00:30:19,568",
+      "quote": "They had already made up their mind.",
+      "id": "S04E10-038",
+      "original_chunk": "make up one's mind"
+    },
+    {
+      "chunk": "do whatever it takes",
+      "meaning": "不惜一切代价／尽一切必要努力",
+      "start_cue": 434,
+      "end_cue": 434,
+      "start_time": "00:30:57,606",
+      "end_time": "00:31:00,443",
+      "quote": "You're gonna do whatever it takes, you hear me?",
+      "id": "S04E10-039"
+    },
+    {
+      "chunk": "look down on sb.",
+      "meaning": "看不起某人；本句同时利用楼层字面形成双关",
+      "start_cue": 440,
+      "end_cue": 440,
+      "start_time": "00:31:13,539",
+      "end_time": "00:31:15,708",
+      "quote": "You're gonna be looking down on them.",
+      "id": "S04E10-040"
+    },
+    {
+      "chunk": "the higher …, the more …",
+      "meaning": "越高……越……；程度联动骨架",
+      "start_cue": 441,
+      "end_cue": 441,
+      "start_time": "00:31:15,875",
+      "end_time": "00:31:19,378",
+      "quote": "The higher you rise, the more they're gonna hate you. Good.",
+      "id": "S04E10-041"
+    },
+    {
+      "chunk": "rub sb.'s nose in it",
+      "meaning": "反复拿事实刺激／羞辱某人；强调让对方看到失败",
+      "start_cue": 442,
+      "end_cue": 442,
+      "start_time": "00:31:19,712",
+      "end_time": "00:31:21,922",
+      "quote": "Good. You rub their noses in it.",
+      "id": "S04E10-042"
+    },
+    {
+      "chunk": "Go get them.",
+      "meaning": "去干好／给他们点颜色看看；鼓励出击",
+      "start_cue": 449,
+      "end_cue": 449,
+      "start_time": "00:31:51,035",
+      "end_time": "00:31:54,205",
+      "quote": "All right. All right, go get them.",
+      "id": "S04E10-043"
+    },
+    {
+      "chunk": "I didn't get that last part.",
+      "meaning": "最后那部分我没听清／没懂；请求重说",
+      "start_cue": 503,
+      "end_cue": 503,
+      "start_time": "00:37:34,294",
+      "end_time": "00:37:38,882",
+      "quote": "The concrete... sorry, I didn't get that last part. Could you repeat that?",
+      "id": "S04E10-044"
+    },
+    {
+      "chunk": "wing it",
+      "meaning": "临场发挥、未经准备即兴做",
+      "start_cue": 521,
+      "end_cue": 521,
+      "start_time": "00:39:11,892",
+      "end_time": "00:39:16,188",
+      "quote": "I know it's a lot, but this is one time you do not wanna wing it.",
+      "id": "S04E10-045"
+    },
+    {
+      "chunk": "serve no purpose",
+      "meaning": "没有意义／作用",
+      "start_cue": 553,
+      "end_cue": 553,
+      "start_time": "00:41:49,216",
+      "end_time": "00:41:51,968",
+      "quote": "This discussion serves no purpose.",
+      "id": "S04E10-046"
+    },
+    {
+      "chunk": "sb.'s endgame",
+      "meaning": "最终目标／打算；本句质问逃离的计划",
+      "start_cue": 559,
+      "end_cue": 559,
+      "start_time": "00:42:47,149",
+      "end_time": "00:42:49,234",
+      "quote": "I wanna know what your endgame was.",
+      "id": "S04E10-047",
+      "original_chunk": "one's endgame"
+    },
+    {
+      "chunk": "in time",
+      "meaning": "随着时间推移、迟早；本句非及时义",
+      "start_cue": 563,
+      "end_cue": 563,
+      "start_time": "00:42:57,242",
+      "end_time": "00:43:00,412",
+      "quote": "But in time, he would understand and forgive.",
+      "id": "S04E10-048"
+    },
+    {
+      "chunk": "It's not up to me.",
+      "meaning": "不是由我决定",
+      "start_cue": 564,
+      "end_cue": 564,
+      "start_time": "00:43:01,246",
+      "end_time": "00:43:03,457",
+      "quote": "It was never up to me.",
+      "id": "S04E10-049"
+    },
+    {
+      "chunk": "any minute",
+      "meaning": "随时／马上就可能",
+      "start_cue": 568,
+      "end_cue": 568,
+      "start_time": "00:43:12,132",
+      "end_time": "00:43:14,968",
+      "quote": "But please, margarethe will land any minute.",
+      "id": "S04E10-050"
+    },
+    {
+      "chunk": "never breathe a word of sth.",
+      "meaning": "绝不透露某事半个字",
+      "start_cue": 583,
+      "end_cue": 583,
+      "start_time": "00:44:13,610",
+      "end_time": "00:44:17,197",
+      "quote": "I will never breathe a word of this ever.",
+      "id": "S04E10-051"
+    },
+    {
+      "chunk": "keep it that way",
+      "meaning": "让现状保持下去",
+      "start_cue": 594,
+      "end_cue": 594,
+      "start_time": "00:44:53,275",
+      "end_time": "00:44:55,235",
+      "quote": "And you need to keep it that way.",
+      "id": "S04E10-052"
+    },
+    {
+      "chunk": "Out of the question.",
+      "meaning": "绝不可能／不允许",
+      "start_cue": 620,
+      "end_cue": 620,
+      "start_time": "00:46:28,828",
+      "end_time": "00:46:32,207",
+      "quote": "No! Out of the question. This is my work. I must do it.",
+      "id": "S04E10-053"
+    },
+    {
+      "chunk": "I can work with this.",
+      "meaning": "这样我能办／可在这条件下做；接纳不完美条件",
+      "start_cue": 648,
+      "end_cue": 648,
+      "start_time": "00:50:19,517",
+      "end_time": "00:50:21,561",
+      "quote": "I can work with this.",
+      "id": "S04E10-054"
+    },
+    {
+      "chunk": "at the very least",
+      "meaning": "至少、再怎么说也",
+      "start_cue": 653,
+      "end_cue": 653,
+      "start_time": "00:50:35,783",
+      "end_time": "00:50:39,245",
+      "quote": "I am certain that I could do a rudimentary cook at the very least.",
+      "id": "S04E10-055"
+    },
+    {
+      "chunk": "pull on sb.'s heartstrings",
+      "meaning": "打动某人的情感、引发同情",
+      "start_cue": 689,
+      "end_cue": 689,
+      "start_time": "00:54:27,765",
+      "end_time": "00:54:32,019",
+      "quote": "You know, pull on your heartstrings, but it's not right.",
+      "id": "S04E10-056"
+    },
+    {
+      "chunk": "in sb.'s own way",
+      "meaning": "以自己的方式；承认不同的表现方式",
+      "start_cue": 695,
+      "end_cue": 695,
+      "start_time": "00:54:47,618",
+      "end_time": "00:54:49,662",
+      "quote": "In his own way.",
+      "id": "S04E10-057",
+      "original_chunk": "in one's own way"
+    },
+    {
+      "chunk": "not suffer fools",
+      "meaning": "不能忍受愚笨的人；通常是脾气强硬的描述",
+      "start_cue": 712,
+      "end_cue": 712,
+      "start_time": "00:55:42,298",
+      "end_time": "00:55:46,844",
+      "quote": "He was polite enough, but he did not suffer fools, you know?",
+      "id": "S04E10-058"
+    },
+    {
+      "chunk": "get under sb.'s skin",
+      "meaning": "惹某人生气／使某人烦躁",
+      "start_cue": 715,
+      "end_cue": 715,
+      "start_time": "00:55:51,140",
+      "end_time": "00:55:53,351",
+      "quote": "He knew how to get under your skin.",
+      "id": "S04E10-059"
+    },
+    {
+      "chunk": "live up to sb.'s standards",
+      "meaning": "达到某人的标准／期待",
+      "start_cue": 723,
+      "end_cue": 723,
+      "start_time": "00:56:17,750",
+      "end_time": "00:56:21,796",
+      "quote": "To live up to the standards of Charles McGill...",
+      "id": "S04E10-060"
+    },
+    {
+      "chunk": "do everything in sb.'s power",
+      "meaning": "尽一切能力、竭尽所能",
+      "start_cue": 733,
+      "end_cue": 733,
+      "start_time": "00:56:57,206",
+      "end_time": "00:57:02,003",
+      "quote": "I'll do everything in my power to be worthy of the name McGill.",
+      "id": "S04E10-061",
+      "original_chunk": "do everything in one's power"
+    },
+    {
+      "chunk": "be worthy of sth.",
+      "meaning": "配得上某名誉／称号",
+      "start_cue": 733,
+      "end_cue": 733,
+      "start_time": "00:56:57,206",
+      "end_time": "00:57:02,003",
+      "quote": "I'll do everything in my power to be worthy of the name McGill.",
+      "id": "S04E10-062"
+    },
+    {
+      "chunk": "That'll have to do for me.",
+      "meaning": "我只能接受这样／这对我就只能算够了",
+      "start_cue": 744,
+      "end_cue": 744,
+      "start_time": "00:57:48,215",
+      "end_time": "00:57:50,676",
+      "quote": "That'll have to do it for me.",
+      "id": "S04E10-063"
+    },
+    {
+      "chunk": "Let's do this thing.",
+      "meaning": "那就开干／开始吧；兴奋口语",
+      "start_cue": 765,
+      "end_cue": 765,
+      "start_time": "00:58:52,655",
+      "end_time": "00:58:56,200",
+      "quote": "- There's papennork for you to sign. - Absolutely. Let's do this thing.",
+      "id": "S04E10-064"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "vouch for sb.",
+      "meaning": "为某人担保、证明某人值得信任",
+      "start_cue": 2,
+      "end_cue": 2,
+      "start_time": "00:00:05,882",
+      "end_time": "00:00:09,594",
+      "quote": "I'm here before you today to vouch for Daniel stark.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "vouch for sb."
+    },
+    {
+      "chunk": "go for it",
+      "meaning": "全力投入、放开做；此处是卖力唱歌",
+      "start_cue": 29,
+      "end_cue": 29,
+      "start_time": "00:01:31,300",
+      "end_time": "00:01:33,844",
+      "quote": "- Ernie's really going for it. - Yes, he is.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "go for it"
+    },
+    {
+      "chunk": "on top of that",
+      "meaning": "除此之外还……；加上一项",
+      "start_cue": 204,
+      "end_cue": 204,
+      "start_time": "00:13:06,370",
+      "end_time": "00:13:09,414",
+      "quote": "He has early-stage dementia, and on top of that, he's a diabetic.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "on top of that"
+    },
+    {
+      "chunk": "plain and simple",
+      "meaning": "就这么简单、没别的解释",
+      "start_cue": 240,
+      "end_cue": 240,
+      "start_time": "00:15:59,876",
+      "end_time": "00:16:03,922",
+      "quote": "This is about him wanting to see his wife, plain and simple.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "plain and simple"
+    },
+    {
+      "chunk": "Don't mind if I do.",
+      "meaning": "那我不客气了；欣然接受食物／邀请",
+      "start_cue": 291,
+      "end_cue": 291,
+      "start_time": "00:19:37,427",
+      "end_time": "00:19:39,679",
+      "quote": "- Baked brie? - Don't mind if I do.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "Don't mind if I do."
+    },
+    {
+      "chunk": "face the consequences",
+      "meaning": "承担／面对后果",
+      "start_cue": 406,
+      "end_cue": 406,
+      "start_time": "00:29:30,269",
+      "end_time": "00:29:33,856",
+      "quote": "You know, who's made mistakes and faced the consequences...",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "face the consequences"
+    },
+    {
+      "chunk": "play by the rules",
+      "meaning": "遵守规则、按规矩办事",
+      "start_cue": 435,
+      "end_cue": 435,
+      "start_time": "00:31:00,609",
+      "end_time": "00:31:02,319",
+      "quote": "You are not gonna play by the rules.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "play by the rules"
+    },
+    {
+      "chunk": "cut corners",
+      "meaning": "走捷径、省掉必要步骤；通常贬义",
+      "start_cue": 437,
+      "end_cue": 437,
+      "start_time": "00:31:05,364",
+      "end_time": "00:31:07,867",
+      "quote": "You're gonna be smart, you are gonna cut corners...",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "cut corners"
+    },
+    {
+      "chunk": "for what it's worth",
+      "meaning": "不管有没有用／供你参考；谦抑地表达看法",
+      "start_cue": 238,
+      "end_cue": 238,
+      "start_time": "00:15:53,787",
+      "end_time": "00:15:55,956",
+      "quote": "For what it's worth, I believe him.",
+      "id": "S04E10-026",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "For what it's worth,…",
+      "matched_source": "references/chunks/better-call-saul-s02e07-selection.json"
+    }
+  ],
+  "pending": [
+    {
+      "chunk": "sink the hook in",
+      "meaning": "让对方上钩、抓住其情绪；个人钓鱼比喻候选，非必然固定短语",
+      "start_cue": 756,
+      "end_cue": 756,
+      "start_time": "00:58:29,674",
+      "end_time": "00:58:31,509",
+      "quote": "And then boom, I sunk the hook in.",
+      "id": "S04E10-069",
+      "reason": "需核音频／字幕或表达规范程度；不作为正确模板入正文"
+    }
+  ],
+  "vocabulary_candidates": [
+    {
+      "chunk": "bail",
+      "meaning": "提前离开、溜走；口语单词候选，待转词汇",
+      "start_cue": 31,
+      "end_cue": 31,
+      "start_time": "00:01:38,516",
+      "end_time": "00:01:39,934",
+      "quote": "Chuck's gonna bail.",
+      "id": "S04E10-002",
+      "reason": "单词义项／词性学习，另走词汇轨道"
+    },
+    {
+      "chunk": "a front-runner",
+      "meaning": "领先者／最有希望的候选人；词汇候选，待转轨",
+      "start_cue": 383,
+      "end_cue": 383,
+      "start_time": "00:28:23,703",
+      "end_time": "00:28:26,747",
+      "quote": "And three front-runners, so unless there's any disagreement...",
+      "id": "S04E10-040",
+      "reason": "单词义项／词性学习，另走词汇轨道"
+    }
+  ],
+  "intentionally_omitted": [
+    {
+      "chunk": "word gets around",
+      "meaning": "消息传开；与E07近义候选，最终合并",
+      "start_cue": 320,
+      "end_cue": 320,
+      "start_time": "00:21:12,689",
+      "end_time": "00:21:15,024",
+      "quote": "Yeah, I know. Word gets around, but...",
+      "id": "S04E10-035",
+      "reason": "与word gets out同义同功能，无独立学习点"
+    },
+    {
+      "chunk": "not suffer fools gladly",
+      "meaning": "不愿耐心容忍愚蠢的人；原文省gladly，与同项合并",
+      "start_cue": 712,
+      "end_cue": 712,
+      "start_time": "00:55:42,298",
+      "end_time": "00:55:46,844",
+      "quote": "He was polite enough, but he did not suffer fools, you know?",
+      "id": "S04E10-063",
+      "reason": "同集not suffer fools条目已保留，不能为扩长重收"
+    }
+  ],
+  "second_pass_ranges": [
+    [
+      1,
+      771
+    ]
+  ],
+  "validation": {
+    "source_hash_matches": true,
+    "cue_sequence_contiguous": true,
+    "quotes_exact_after_html_and_whitespace_normalization": true,
+    "timecodes_match": true,
+    "audio_verified": false
+  },
+  "selection_notes": "首遍与回看由LLM按编号读字幕发现候选；工具只负责解析、引用回收、同形提示和校验。基础词形不作为自动已掌握排除依据。歌词片段未作为对话高频证据；仅保留可明确迁移项。跨季语义近重复待root最终复核。",
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

@@ -1,0 +1,341 @@
+{
+  "source_id": "DCPD-202500103",
+  "html_source": "https://www.govinfo.gov/content/pkg/DCPD-202500103/html/DCPD-202500103.htm",
+  "source_sha256": "66186cdf170811f8a7bd95ac69ee6332354f67118b7581f52a5a6819adcd4272",
+  "paragraphs_read": 71,
+  "read_ranges": [
+    [
+      1,
+      71
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        71
+      ]
+    ],
+    "method": "逐段通读整体交际动作及内部词块；回看未选段与已选段，补充解释、对比、条件、叙事、工作与生活结构。观众插话单独识别，分页断句核对连续原段。未用词表筛选代替通读。",
+    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。"
+  },
+  "items": [
+    {
+      "chunk": "take advantage of sb.",
+      "meaning": "占某人的便宜／利用某人",
+      "register": "中性／负面评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 4,
+      "quote": "We will be the envy of every nation, and we will not allow ourselves to be taken advantage of any longer.",
+      "quote_sha256": "bcd4409dae1cad5938d3b2397af50bc241565cc59de245c5884fd4cc0f54b6e5"
+    },
+    {
+      "chunk": "return ... confident and optimistic that ...",
+      "meaning": "带着……的信心与乐观重新……",
+      "register": "中性偏正式／状态说明",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 7,
+      "quote": "I return to the Presidency confident and optimistic that we are at the start of a thrilling new era of national success.",
+      "quote_sha256": "fd9a9172e1a7067c8465a5f5409ebfb2f40b567bad3c1c4e8bb2b930062c33ec"
+    },
+    {
+      "chunk": "be honest about sth.",
+      "meaning": "坦诚面对／说明某事",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 8,
+      "quote": "But first, we must be honest about the challenges we face.",
+      "quote_sha256": "c5bf0aa58745c1ab8049476d65297a57e7aeee84be2703e546f708c5581ac3e2"
+    },
+    {
+      "chunk": "in times of emergency",
+      "meaning": "在紧急情况下",
+      "register": "中性偏正式／服务与危机",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 13,
+      "quote": "Our country can no longer deliver basic services in times of emergency, as recently shown by the wonderful people of North Carolina—who have been treated so badly—and other States who are still suffering from a hurricane that took place many months ago or, more recently, Los Angeles, where we are watching fires still tragically burn from weeks ago without even a token of defense.",
+      "quote_sha256": "0057efa75b85a8763f4bed304c79423447f0b17b9a3af2e15695993ebff4dd5d"
+    },
+    {
+      "chunk": "some of whom ...",
+      "meaning": "其中一些人……",
+      "register": "中性／补充人物信息",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 13,
+      "quote": "They're raging through the houses and communities, even affecting some of the wealthiest and most powerful individuals in our country, some of whom are sitting here right now.",
+      "quote_sha256": "5893c66266b2500f5d6ad17de2acf5a4e8f5c263e06a17bbc807c2aad64c18dd"
+    },
+    {
+      "chunk": "be ashamed of oneself",
+      "meaning": "为自己感到羞愧",
+      "register": "中性／感受",
+      "note": "原句控诉教育；仅记接法，不认定叙述。",
+      "paragraph": 16,
+      "quote": "And we have an education system that teaches our children to be ashamed of themselves, in many cases, to hate our country despite the love that we try so desperately to provide to them.",
+      "quote_sha256": "20c83e6212f36ef198e30b96d6378fcd7f57e4942c28931fddd9f102ad871cba"
+    },
+    {
+      "chunk": "learn a lot along the way",
+      "meaning": "在这一过程中学到很多",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 19,
+      "quote": "Over the past 8 years, I have been tested and challenged more than any President in our 250- year history, and I've learned a lot along the way.",
+      "quote_sha256": "2a67e823c7af075e573c973c3d55eb9de0b70e68bbb75d15091958ab750f293e"
+    },
+    {
+      "chunk": "... has not been an easy one",
+      "meaning": "……并非一段轻松的经历",
+      "register": "中性／回顾困难",
+      "note": "one 代指此前 journey。",
+      "paragraph": 19,
+      "quote": "The journey to reclaim our Republic has not been an easy one, that I can tell you.",
+      "quote_sha256": "32f4a15d9d4abeeaff2ac5bad9182cb5674c0dec170cdebf5f5802d90107be7e"
+    },
+    {
+      "chunk": "It is my hope that ... will be remembered as ...",
+      "meaning": "我希望……会被记作……",
+      "register": "正式／展望评价",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 22,
+      "quote": "It is my hope that our recent Presidential election will be remembered as the greatest and most consequential election in the history of our country.",
+      "quote_sha256": "5fda21f1dc6e2353e714c1c689741824dfb6c2bf6817a67197f2dcf596118986"
+    },
+    {
+      "chunk": "look forward to doing sth.",
+      "meaning": "期待做某事",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 24,
+      "quote": "I've heard your voices in the campaign, and I look forward to working with you in the years to come.",
+      "quote_sha256": "6d45ab0367cb9ea013cb3f804d04d949b720917871c9b70f8b910180e3385195"
+    },
+    {
+      "chunk": "make sth. a reality",
+      "meaning": "让某事成为现实",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 25,
+      "quote": "But in his honor, we will strive together to make his dream a reality.",
+      "quote_sha256": "684d47e74fc4d99badb77b781dd3e700bcba2f3bba4268809e22deda8dd2d83f"
+    },
+    {
+      "chunk": "make one's dream come true",
+      "meaning": "使某人的梦想成真",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 25,
+      "quote": "We will make his dream come true.",
+      "quote_sha256": "5fe804363fa89257ff9dd1e12c285308c8ad384fc17d6d5e0dcad5f246ee77c1"
+    },
+    {
+      "chunk": "It's all about sth.",
+      "meaning": "核心／重点全在某事",
+      "register": "中性／强调核心",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 27,
+      "quote": "It's all about common sense.",
+      "quote_sha256": "c5c4bf9f2de63937ab7623e825939e3702419966ce563459e9ef2f3851d424dc"
+    },
+    {
+      "chunk": "begin the process of doing sth.",
+      "meaning": "开始做某事的流程",
+      "register": "中性偏正式／行动步骤",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 28,
+      "quote": "All illegal entry will immediately be halted, and we will begin the process of returning millions and millions of criminal aliens back to the places from which they came.",
+      "quote_sha256": "5a1efab069d74298b32ecf8a272ee742a003936e60d17bc71e614e07764c5248"
+    },
+    {
+      "chunk": "have no higher responsibility than to do sth.",
+      "meaning": "没有比做某事更重要的职责",
+      "register": "正式／职责强调",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 31,
+      "quote": "As Commander in Chief, I have no higher responsibility than to defend our country from threats and invasions, and that is exactly what I am going to do.",
+      "quote_sha256": "b2937c5464f25fc66973ecc31224c483dfc5362c8f86ab9cc472f5150ac5eb7c"
+    },
+    {
+      "chunk": "at one's disposal",
+      "meaning": "可供某人支配／使用",
+      "register": "中性偏正式／资源",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 32,
+      "quote": "Next, I will direct all members of my Cabinet to marshal the vast powers at their disposal to defeat what was record inflation and rapidly bring down costs and prices.",
+      "quote_sha256": "e4a42da98e2fbcbc16272217876445ec08b502c2fc5bc7cd63ed825ba75efa8f"
+    },
+    {
+      "chunk": "bring down costs and prices",
+      "meaning": "降低成本和价格",
+      "register": "中性／经济或工作",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 32,
+      "quote": "Next, I will direct all members of my Cabinet to marshal the vast powers at their disposal to defeat what was record inflation and rapidly bring down costs and prices.",
+      "quote_sha256": "e4a42da98e2fbcbc16272217876445ec08b502c2fc5bc7cd63ed825ba75efa8f"
+    },
+    {
+      "chunk": "In other words, ...",
+      "meaning": "换句话说，……",
+      "register": "中性／解释",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 35,
+      "quote": "In other words, you'll be able to buy the car of your choice.",
+      "quote_sha256": "56984614107a626c993207d65087c26067dd5cba8bd588ed95a830af082f9a84"
+    },
+    {
+      "chunk": "sth. of one's choice",
+      "meaning": "某人自己选定的某物",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 35,
+      "quote": "In other words, you'll be able to buy the car of your choice.",
+      "quote_sha256": "56984614107a626c993207d65087c26067dd5cba8bd588ed95a830af082f9a84"
+    },
+    {
+      "chunk": "a vote of confidence",
+      "meaning": "信任／支持的表示",
+      "register": "中性偏正式／致谢",
+      "note": "此处兼有实际投票语境，不只抽象赞许。",
+      "paragraph": 36,
+      "quote": "And thank you to the autoworkers of our Nation for your inspiring vote of confidence.",
+      "quote_sha256": "72a01bc86faed78f8664f9a72f67503619d20b7fba628c74373225726c57f70e"
+    },
+    {
+      "chunk": "Instead of doing X, ... do Y",
+      "meaning": "不做X，而改做Y",
+      "register": "中性／替代方案",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 37,
+      "quote": "Instead of taxing our citizens to enrich other countries, we will tariff and tax foreign countries to enrich our citizens.",
+      "quote_sha256": "aa895cf1a3b00bac41bd021982eff939a6ed95956473958ce1ad56bfc72f21e2"
+    },
+    {
+      "chunk": "object to sth.",
+      "meaning": "反对某事",
+      "register": "中性／态度",
+      "note": "to 是介词，后接名词或 doing；此处名词 vaccine mandate。",
+      "paragraph": 43,
+      "quote": "This week, I will reinstate any servicemembers who were unjustly expelled from our military for objecting to the COVID vaccine mandate with full backpay.",
+      "quote_sha256": "00febf5dc1148c527ff4b0b322e22b9b0971443b00019df5a1b26a77afc5ef9d"
+    },
+    {
+      "chunk": "be subjected to sth.",
+      "meaning": "被迫承受／遭受某事",
+      "register": "中性偏正式／负面经历",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 44,
+      "quote": "And I will sign an order to stop our warriors from being subjected to radical political theories and social experiments while on duty.",
+      "quote_sha256": "937d4b61f92d34e96dd486776ae771bda7b50f7f255a8b0e61ce189c3a1a3654"
+    },
+    {
+      "chunk": "measure success not only by ... but also by ...",
+      "meaning": "衡量成败不只看……，还看……",
+      "register": "正式／评估标准",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 45,
+      "quote": "We will measure our success not only by the battles we win, but also by the wars that we end and, perhaps most importantly, the wars we never get into.",
+      "quote_sha256": "7e106cc15b793bed710f2bf63f722a9f6a96a848b3cf5b12843233ec6dde29ad"
+    },
+    {
+      "chunk": "as of yesterday",
+      "meaning": "截至／从昨天这个时点起",
+      "register": "中性偏正式／时间界定",
+      "note": "原句报告截至前一天的状况。",
+      "paragraph": 46,
+      "quote": "I'm pleased to say that as of yesterday, 1 day before I assumed office, the hostages in the Middle East are coming back home to their families.",
+      "quote_sha256": "474fa8c734ed68ca7571b0f2e37636537380b53eacf3a8a9615431b13f0dc18a"
+    },
+    {
+      "chunk": "in any way, shape, or form",
+      "meaning": "以任何方式／形式",
+      "register": "中性／强烈否定",
+      "note": "固定并列强调，原句位于 not treated fairly 后。",
+      "paragraph": 50,
+      "quote": "American ships are being severely overcharged and not treated fairly in any way, shape, or form.",
+      "quote_sha256": "b9298c314bd17b77f412f58aaa87cbe4d5f67ab8a94ac284ebf794c0703a9e49"
+    },
+    {
+      "chunk": "stage a comeback",
+      "meaning": "重返／实现东山再起",
+      "register": "中性偏正式／生涯叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 60,
+      "quote": "Many people thought it was impossible for me to stage such a historic political comeback.",
+      "quote_sha256": "634f101e7751f7459e782b2402c40599329e5da5faf46b4a8566e97905838d0a"
+    },
+    {
+      "chunk": "stand before you as proof that ...",
+      "meaning": "站在你们面前证明……",
+      "register": "演讲／以自身作证",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 60,
+      "quote": "I stand before you now as proof that you should never believe that something is impossible to do.",
+      "quote_sha256": "c4094fb7e4d8e55c0c220c0805168fb2d13afd5df689d8ee18922377d2b869b8"
+    },
+    {
+      "chunk": "be on the verge of sth.",
+      "meaning": "即将进入／接近某种状态",
+      "register": "中性偏正式／展望",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 64,
+      "quote": "After all we have been through together, we stand on the verge of the 4 greatest years in American history.",
+      "quote_sha256": "da3984d3620bb8b753b2d5e051c6710a42988e7f08341592e972d598f14b2a86"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 3,
+      "chunk": "from this day forward",
+      "reason": "2017年就职演说已收同义。"
+    },
+    {
+      "paragraph": 24,
+      "chunk": "in the years to come",
+      "reason": "2017年就职演说 for years to come 同功能，不重复。"
+    },
+    {
+      "paragraph": 69,
+      "chunk": "stand in sb.'s way",
+      "reason": "2020年庆典讲话已收同义。"
+    },
+    {
+      "paragraph": 6,
+      "chunk": "one's top priority is to do sth.",
+      "reason": "本总统集合 PPP-2001-book2-doc-pg1099 已收 Our first priority is to do sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "And our top priority will be to create a nation that is proud, prosperous, and free.",
+      "quote_sha256": "34a0d7893480918aedcf9207dcadd08b1e6d6a91a7a9134a928aba6d693cc7fe"
+    },
+    {
+      "paragraph": 7,
+      "chunk": "seize this opportunity",
+      "reason": "本总统集合 PPP-1993-book1-doc-pg1 已收 seize an opportunity；相同意思及交际功能，不因更长片段重复。",
+      "quote": "A tide of change is sweeping the country, sunlight is pouring over the entire world, and America has the chance to seize this opportunity like never before.",
+      "quote_sha256": "46d835329c82e4d75d55ba9837274aee749960039c204896caf869a1714e72e7"
+    },
+    {
+      "paragraph": 10,
+      "chunk": "at the same time",
+      "reason": "本总统集合 PPP-2005-book1-doc-pg66 已收 at the same time；相同意思及交际功能，不因更长片段重复。",
+      "quote": "We now have a Government that cannot manage even a simple crisis at home while, at the same time, stumbling into a continuing catalogue of catastrophic events abroad.",
+      "quote_sha256": "b05d0745eaf7d7520758ae3613c12803ccbf53ec9c3a6203b4d338f49c85d693"
+    },
+    {
+      "paragraph": 27,
+      "chunk": "a series of sth.",
+      "reason": "本总统集合 PPP-2001-book2-doc-pg1099 已收 a series of sth.；相同意思及交际功能，不因更长片段重复。",
+      "quote": "Today I will sign a series of historic Executive orders.",
+      "quote_sha256": "f9028e0b10cb902c07fc1cdaccd36361832ee97f384736059f7d8d20a0ace286"
+    },
+    {
+      "paragraph": 64,
+      "chunk": "After all we have been through ..., ...",
+      "reason": "本总统集合 DCPD-202100048 已收 have been through so much；相同意思及交际功能，不因更长片段重复。",
+      "quote": "After all we have been through together, we stand on the verge of the 4 greatest years in American history.",
+      "quote_sha256": "da3984d3620bb8b753b2d5e051c6710a42988e7f08341592e972d598f14b2a86"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。"
+}

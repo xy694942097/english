@@ -1,0 +1,1043 @@
+{
+  "source_id": "DCPD-202400170",
+  "html_source": "materials/corpus/presidential-speeches/govinfo/DCPD-202400170.htm",
+  "source_sha256": "abe6c488cc83b2541f05f8d72a1419c9c0b9c3fad9d1eb87f9120852bb2ad3c8",
+  "paragraphs_read": 272,
+  "read_ranges": [
+    [
+      1,
+      272
+    ]
+  ],
+  "first_pass": {
+    "method": "依read_rows段号逐段阅读全文，分别扫描外层表达动作和内部词块；人工列候选，不使用预设regex发现。",
+    "items": 102
+  },
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        272
+      ]
+    ],
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "added": 15
+  },
+  "items": [
+    {
+      "paragraph": 3,
+      "chunk": "If I were ..., I'd ...",
+      "meaning": "如果我……，我就会……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "假设与现实不同；本句自嘲。",
+      "quote": "Good evening. If I were smart, I'd go home now."
+    },
+    {
+      "paragraph": 5,
+      "chunk": "no ordinary sth.",
+      "meaning": "非同寻常的……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "强调意义，不是普通否定。",
+      "quote": "And yes, my purpose tonight is to wake up the Congress and alert the American people that this is no ordinary moment either."
+    },
+    {
+      "paragraph": 6,
+      "chunk": "What makes sth. ... is that 从句",
+      "meaning": "某事之所以……，是因为……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "外层解释骨架。",
+      "quote": "What makes our moment rare is that freedom and democracy are under attack at—both at home and overseas at the very same time."
+    },
+    {
+      "paragraph": 6,
+      "chunk": "I assure you: 从句",
+      "meaning": "我向你保证／可以明确告诉你……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "If anybody in this room thinks Putin will stop at Ukraine, I assure you: He will not."
+    },
+    {
+      "paragraph": 7,
+      "chunk": "be determined to keep it that way",
+      "meaning": "决心维持现状",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "that way指前句状态。",
+      "quote": "But Ukraine—[applause]. Ukraine can stop Putin. Ukraine can stop Putin if we stand with Ukraine and provide the weapons that it needs to defend itself. That is all—that is all—Ukraine is asking. They're not asking for American soldiers. In fact, there are no American soldiers at war in Ukraine, and I'm determined to keep it that way."
+    },
+    {
+      "paragraph": 10,
+      "chunk": "bow down to sb.",
+      "meaning": "屈服于某人",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "负面评价，不是默认礼貌服从。",
+      "quote": "The President. That's a quote. A former President actually said that, bowing down to a Russian leader. I think it's outrageous, it's dangerous, and it's unacceptable."
+    },
+    {
+      "paragraph": 11,
+      "chunk": "keep the peace",
+      "meaning": "维持和平、避免冲突",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "America is a founding member of NATO, the military alliance of democratic nations created after World War II prevent—to prevent war and keep the peace."
+    },
+    {
+      "paragraph": 13,
+      "chunk": "put sth. at risk",
+      "meaning": "使……处于风险中",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I say this to Congress: We have to stand up to Putin. Send me a bipartisan national security bill. History is literally watching. History is watching. If the United States walks away, it will put Ukraine at risk. Europe is at risk. The free world will be at risk, emboldening others to do what they wish to do us harm."
+    },
+    {
+      "paragraph": 16,
+      "chunk": "with one's own eyes",
+      "meaning": "亲眼",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Many of you were here on that darkest of days. We all saw with our own eyes, the insurrectionists were not patriots. They had come to stop the peaceful transfer of power, to overturn the will of the people."
+    },
+    {
+      "paragraph": 19,
+      "chunk": "without regard to sth.",
+      "meaning": "不考虑……差别",
+      "register": "正式／演讲",
+      "note": "正式；本句不论党派。",
+      "quote": "As I've done ever since being elected to office, I ask all of you, without regard to party, to join together and defend democracy."
+    },
+    {
+      "paragraph": 23,
+      "chunk": "sth. should never have happened",
+      "meaning": "某事本来绝不应该发生",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "对过去事件的评判。",
+      "quote": "What her family had gone through should never have happened."
+    },
+    {
+      "paragraph": 23,
+      "chunk": "Unless 从句, it could happen again",
+      "meaning": "除非……，否则可能重演",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "提出防止复发的条件。",
+      "quote": "Unless Congress acts, it could happen again."
+    },
+    {
+      "paragraph": 24,
+      "chunk": "get it right",
+      "meaning": "做对、判断对",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Like most Americans, I believe Roe v. Wade got it right."
+    },
+    {
+      "paragraph": 26,
+      "chunk": "brag about sth.",
+      "meaning": "吹嘘某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "负面语气。",
+      "quote": "My predecessor came to office determined to see Roe v. Wade overturned. He's the reason it was overturned, and he brags about it. Look at the chaos that has resulted."
+    },
+    {
+      "paragraph": 32,
+      "chunk": "with all due respect",
+      "meaning": "恕我直言／容我表示不同意见",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "往往后接反对，未必减弱冒犯。",
+      "quote": "Wade, the Supreme Court majority wrote the following—and with all due respect, Justices—\"Women are not without electoral power\"— excuse me—\"electoral or political power.\" You're about to realize just how much you were right about that."
+    },
+    {
+      "paragraph": 33,
+      "chunk": "have no clue about sth.",
+      "meaning": "完全不了解某事",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语，原句带批评。",
+      "quote": "Wade have no clue about the power of women."
+    },
+    {
+      "paragraph": 42,
+      "chunk": "here and now",
+      "meaning": "此时此地／就现在",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "So let's tell the story here—tell it here and now."
+    },
+    {
+      "paragraph": 44,
+      "chunk": "on the brink",
+      "meaning": "处于危急边缘",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "未说on the brink of什么，需语境补足。",
+      "quote": "Folks, I inherited an economy that was on the brink."
+    },
+    {
+      "paragraph": 44,
+      "chunk": "the envy of the world",
+      "meaning": "令全世界羡慕的对象",
+      "register": "正式／演讲",
+      "note": "演讲夸张评价，不当可核实事实。",
+      "quote": "Now, our economy is literally the envy of the world: 15 million new jobs in just 3 years—a record, a record; unemployment at 50-year lows."
+    },
+    {
+      "paragraph": 46,
+      "chunk": "Where is it written (that) 从句?",
+      "meaning": "谁规定了……？",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "反驳所谓不可突破的限制，修辞问句。",
+      "quote": "Americans. Eight hundred thousand new manufacturing jobs in America and counting. Where is it written we can't be the manufacturing capital of the world? We are, and we will."
+    },
+    {
+      "paragraph": 47,
+      "chunk": "more ... than ever before",
+      "meaning": "比以往任何时候都更……",
+      "register": "正式／演讲",
+      "note": "比较评价骨架，不当演讲事实证明。",
+      "quote": "More people have health insurance today than ever before."
+    },
+    {
+      "paragraph": 50,
+      "chunk": "the law of the land",
+      "meaning": "一国现行法律",
+      "register": "正式／演讲",
+      "note": "正式法律／政策语域。",
+      "quote": "\"Buy America\" has been the law of the land since the 1930s."
+    },
+    {
+      "paragraph": 52,
+      "chunk": "drive up the price of sth.",
+      "meaning": "抬高某物的价格",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And thanks to our CHIPS and Science Act, the United States is investing more in research and development than ever before. During the pandemic, a shortage of semiconductors, chips that drove up the price of everything from cell phones to automobiles—and by the way, we invented those chips right here in America."
+    },
+    {
+      "paragraph": 55,
+      "chunk": "cheer on sb./sth.",
+      "meaning": "为某人／某事加油、表示支持",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And by the way, I noticed some of you who've strongly voted against it are there cheering on that money coming in. [Laughter] And I like it. I'm with you. I'm with you. And if any of you don't want that money in your district, just let me know. [Laughter]"
+    },
+    {
+      "paragraph": 55,
+      "chunk": "I'm with you",
+      "meaning": "我支持你／我赞同你",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句面对对手带调侃；并非地理位置。",
+      "quote": "[Laughter] And I like it. I'm with you."
+    },
+    {
+      "paragraph": 55,
+      "chunk": "just let me know",
+      "meaning": "告诉我一声就行",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "安排沟通的套语。",
+      "quote": "And if any of you don't want that money in your district, just let me know."
+    },
+    {
+      "paragraph": 57,
+      "chunk": "make a living",
+      "meaning": "谋生",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Because of my investment in family farms—[applause]—because I invested in family farms—led by my Secretary of Agriculture, who knows more about this than anybody I know— we're better able to stay in the family for the—those farms so their—and their children and grandchildren won't have to leave home to make a living."
+    },
+    {
+      "paragraph": 58,
+      "chunk": "be on one's way to doing sth.",
+      "meaning": "正在朝某个结果发展",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "这里即将关闭，不是人在路上。",
+      "quote": "The great comeback story is Belvidere, Illinois. Home to an auto plant for nearly 60 years. Before I came to office, the plant was on its way to shutting down. Thousands of workers feared for their livelihoods. Hope was fading."
+    },
+    {
+      "paragraph": 59,
+      "chunk": "make all the difference",
+      "meaning": "产生决定性的影响",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Then, I was elected to office, and we raised the Belvidere repeatedly with auto companies, knowing unions would make all the difference."
+    },
+    {
+      "paragraph": 60,
+      "chunk": "state-of-the-art",
+      "meaning": "采用最先进技术的",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "复合形容词，可修饰设备或系统，不当单个生词丢弃。",
+      "quote": "Instead of auto factories shutting down, auto factories are reopening, and a new state-of-the- art battery factory is being built to power those cars there at the same—[applause]. Folks— [applause]. To the folks of Belvidere, I say: Instead of your town being left behind, your community is moving forward again. Because instead of watching auto jobs of the future go overseas, 4,000 union jobs with higher wages are building a future in Belvidere right here in America."
+    },
+    {
+      "paragraph": 60,
+      "chunk": "be left behind",
+      "meaning": "被落下、被时代发展抛在后面",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Instead of auto factories shutting down, auto factories are reopening, and a new state-of-the- art battery factory is being built to power those cars there at the same—[applause]. Folks— [applause]. To the folks of Belvidere, I say: Instead of your town being left behind, your community is moving forward again. Because instead of watching auto jobs of the future go overseas, 4,000 union jobs with higher wages are building a future in Belvidere right here in America."
+    },
+    {
+      "paragraph": 65,
+      "chunk": "get a tax break",
+      "meaning": "获得税收减免",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "财务搭配。",
+      "quote": "The President. Tonight—tonight, I want to talk about the future of possibilities that we can build together, a future where the days of trickle-down economics are over and the wealthy and the biggest corporations no longer get the—all the tax breaks."
+    },
+    {
+      "paragraph": 67,
+      "chunk": "turn things around",
+      "meaning": "扭转不利局面",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "That's why I determined to turn things around so the middle class does well."
+    },
+    {
+      "paragraph": 68,
+      "chunk": "There's more to do",
+      "meaning": "还有工作要做",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "评价目前进展仍不足。",
+      "quote": "And there's more to do to make sure you're feeling the benefits of all we're doing."
+    },
+    {
+      "paragraph": 69,
+      "chunk": "make a healthy profit",
+      "meaning": "获得可观的利润",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "healthy并非身体健康。",
+      "quote": "Instead of paying $400 a month or thereabouts for insulin with diabetes—and it only costs 10 bucks to make—they only get paid $35 a month now and still make a healthy profit."
+    },
+    {
+      "paragraph": 69,
+      "chunk": "or thereabouts",
+      "meaning": "或大约这个数量",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "补在估计数字后。",
+      "quote": "Instead of paying $400 a month or thereabouts for insulin with diabetes—and it only costs 10 bucks to make—they only get paid $35 a month now and still make a healthy profit."
+    },
+    {
+      "paragraph": 70,
+      "chunk": "cap the cost of sth. at ...",
+      "meaning": "把某项费用封顶在……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "政策和预算讨论。",
+      "quote": "And I want to—and what to do next, I want to cap the cost of insulin at $35 a month for every American who needs it—everyone."
+    },
+    {
+      "paragraph": 73,
+      "chunk": "on the market",
+      "meaning": "市场上在售的",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "This year, Medicare is negotiating lower prices for some of the costliest drugs on the market that treat everything from heart disease to arthritis."
+    },
+    {
+      "paragraph": 77,
+      "chunk": "get in trouble for doing sth.",
+      "meaning": "因做某事惹上麻烦",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Folks, I'm going to get in trouble for saying that, but any of you want to get in Air Force One with me and fly to Toronto, Berlin, Moscow—I mean, excuse me."
+    },
+    {
+      "paragraph": 78,
+      "chunk": "a very big deal",
+      "meaning": "一件非常重要的事",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语；deal此处非交易。",
+      "quote": "Folks, the Affordable Care Act—the old \"Obamacare\"—is still a very big deal."
+    },
+    {
+      "paragraph": 80,
+      "chunk": "I'm not going to let that happen",
+      "meaning": "我不会让那件事发生",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "坚定阻止；that须有前文。",
+      "quote": "The President. I'm not going to let that happen."
+    },
+    {
+      "paragraph": 84,
+      "chunk": "put sth. toward sth.",
+      "meaning": "把钱用于某一支出",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "But I'm not waiting. I want to provide an annual tax credit that will give Americans $400 a month for the next 2 years as mortgage rates come down to put toward their mortgages when they buy their first home or trade up for a little more space. Just for 2 years."
+    },
+    {
+      "paragraph": 84,
+      "chunk": "trade up for sth.",
+      "meaning": "换购更好／更大的东西",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I want to provide an annual tax credit that will give Americans $400 a month for the next 2 years as mortgage rates come down to put toward their mortgages when they buy their first home or trade up for a little more space."
+    },
+    {
+      "paragraph": 85,
+      "chunk": "as a consequence",
+      "meaning": "因此，作为结果",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "When you refinance your home, you can save $1,000 or more as a consequence."
+    },
+    {
+      "paragraph": 86,
+      "chunk": "crack down on sth.",
+      "meaning": "严厉打击／整治某种行为",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "For millions of renters, we're cracking down on big landlords who use antitrust law—using antitrust—who break antitrust laws—by price-fixing and driving up rents. We've cut redtape so builders can get federally financing, which is already helping build a record 1.7 million new house—housing units nationwide."
+    },
+    {
+      "paragraph": 86,
+      "chunk": "cut redtape",
+      "meaning": "减少繁文缛节",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原件redtape合写照录；正常教学核验red tape。",
+      "quote": "We've cut redtape so builders can get federally financing, which is already helping build a record 1.7 million new house—housing units nationwide."
+    },
+    {
+      "paragraph": 88,
+      "chunk": "give sb. a good start",
+      "meaning": "让某人有良好的起点",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And I, like I suspect all of you, want to give a child—every child a good start by providing access to preschool for 3- and 4-years-old."
+    },
+    {
+      "paragraph": 89,
+      "chunk": "point out sth.",
+      "meaning": "指出某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "You know, I think I pointed out last year—[applause]. I think I pointed out last year that children coming from broken homes where there's no books, they're not read to, not spoken to very often start school—kindergarten or first grade hearing—having heard a million fewer words spoken."
+    },
+    {
+      "paragraph": 90,
+      "chunk": "go on to do sth.",
+      "meaning": "随后进一步做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "不同于继续做同一件事。",
+      "quote": "Well, studies show that children who go to preschool are nearly 50-percent more likely to finish high school and go on to earn a 2- and 4-year degree no matter what their background is."
+    },
+    {
+      "paragraph": 92,
+      "chunk": "Don't hold me to the exact number",
+      "meaning": "别要求我对这个确切数字打包票",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "说明数字为记忆中的估计。",
+      "quote": "I pointed out to them: As Vice President, I met with over eight—I think it was 182 of those folks—don't hold me to the exact number—and I asked them what they need most—the CEOs."
+    },
+    {
+      "paragraph": 92,
+      "chunk": "on both sides of the aisle",
+      "meaning": "在双方阵营中",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原指议会两党，职场使用需语境明确。",
+      "quote": "And you've had the same experience on both sides of the aisle."
+    },
+    {
+      "paragraph": 95,
+      "chunk": "hands-on experience",
+      "meaning": "实际动手的经验",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I want to expand high-quality tutoring and summer learning to see that every child learns to read by third grade. I'm also connecting local businesses and high schools so students get hands- on experience and a path to a good-paying job whether or not they go to college."
+    },
+    {
+      "paragraph": 95,
+      "chunk": "whether or not 从句",
+      "meaning": "无论是否……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I'm also connecting local businesses and high schools so students get hands- on experience and a path to a good-paying job whether or not they go to college."
+    },
+    {
+      "paragraph": 97,
+      "chunk": "reduce the burden of sth.",
+      "meaning": "减轻某事造成的负担",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "When I was told I couldn't universally just change the way in which we did—dealt with student loans, I fixed two student loan programs that already existed to reduce the burden of student debt for nearly 4 million Americans, including nurses, firefighters, and others in public service."
+    },
+    {
+      "paragraph": 99,
+      "chunk": "start a family",
+      "meaning": "成家、生育孩子",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "通常指开始育儿，不自动等于结婚。",
+      "quote": "And, folks, look, such relief is good for the economy because folks are now able to buy a home, start a business, start a family."
+    },
+    {
+      "paragraph": 100,
+      "chunk": "while we're at it",
+      "meaning": "既然已经在做这事，就顺便……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "引入相关追加事项。",
+      "quote": "And while we're at it, I want to give public school teachers a raise."
+    },
+    {
+      "paragraph": 100,
+      "chunk": "give sb. a raise",
+      "meaning": "给某人加薪",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And while we're at it, I want to give public school teachers a raise. And by the way, the first couple of years, we cut the deficit."
+    },
+    {
+      "paragraph": 101,
+      "chunk": "speak to the question of sth.",
+      "meaning": "回应／论述某个问题",
+      "register": "正式／演讲",
+      "note": "正式；speak to非对物说话。",
+      "quote": "Now let me speak to the question of fundamental fairness for all Americans."
+    },
+    {
+      "paragraph": 103,
+      "chunk": "pay one's fair share",
+      "meaning": "承担自己公平的一份",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原句为纳税，也可用于共同费用。",
+      "quote": "Just pay your fair share in taxes."
+    },
+    {
+      "paragraph": 105,
+      "chunk": "Here's the deal",
+      "meaning": "情况是这样的／重点是……",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语引入要点，非总指交易。",
+      "quote": "But here's the deal."
+    },
+    {
+      "paragraph": 108,
+      "chunk": "Check the numbers",
+      "meaning": "看看数据／把数核对一下",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "用证据核实判断的指令。",
+      "quote": "They added more to the national debt than any Presidential term in American history. Check the numbers."
+    },
+    {
+      "paragraph": 113,
+      "chunk": "fight like hell to do sth.",
+      "meaning": "拼尽全力去做某事",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语强烈，hell不宜正式温和沟通。",
+      "quote": "The President. I sure don't. I'm going to keep fighting like hell to make it fair. Under my plan, nobody earning less than $400,000 a year will pay an additional penny in Federal taxes— nobody—not one penny. And they haven't yet."
+    },
+    {
+      "paragraph": 114,
+      "chunk": "cut sth. in half",
+      "meaning": "把数量减少一半",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "In fact, the child tax credit I passed during the pandemic cut taxes for millions of working families and cut child poverty in half. Restore that child tax credit. No child should go hungry in this country."
+    },
+    {
+      "paragraph": 126,
+      "chunk": "No one should have to choose between A and B",
+      "meaning": "不该让任何人被迫在A与B之间选择",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "规范立场，比don't have to更强调不应制造困境。",
+      "quote": "Imagine a future with paid leave, because no one should have to choose between working and taking care of their sick family member."
+    },
+    {
+      "paragraph": 127,
+      "chunk": "on the chopping block",
+      "meaning": "面临被削减／取消的危险",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "比喻；原文为社保。",
+      "quote": "Many of my friends on the other side of the aisle want to put Social Security on the chopping block."
+    },
+    {
+      "paragraph": 133,
+      "chunk": "I kind of thought 从句",
+      "meaning": "我本来有点以为……",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语缓和断言，也可含讽刺。",
+      "quote": "The President. I kind of thought that's what your plan was."
+    },
+    {
+      "paragraph": 133,
+      "chunk": "That's good to hear",
+      "meaning": "听到这个真好",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "接收消息的回应；原场景含调侃。",
+      "quote": "[Laughter] Well, that's good to hear."
+    },
+    {
+      "paragraph": 136,
+      "chunk": "pad one's profits",
+      "meaning": "人为增加／虚增利润",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "负面评价，勿用于中性利润增长。",
+      "quote": "The President. ——too many corporations raise prices to pad their profits, charging more and more for less and less. That's why we're cracking down on corporations that engage in price gouging and deceptive pricing, from food to health care to housing."
+    },
+    {
+      "paragraph": 137,
+      "chunk": "a hell of a lot",
+      "meaning": "非常多／很大程度",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语粗俗加强语。",
+      "quote": "In fact, the snack companies think you won't notice if they change the size of the bag and put a hell of a lot fewer—[laughter]—same size bag—put fewer chips in it."
+    },
+    {
+      "paragraph": 139,
+      "chunk": "without one's knowledge",
+      "meaning": "在某人不知情的情况下",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Look, I'm also getting rid of junk fees, those hidden fees at the end of your bill that are there without your knowledge."
+    },
+    {
+      "paragraph": 143,
+      "chunk": "up front",
+      "meaning": "事先，开门见山地",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句事先告知总价，非预付义。",
+      "quote": "I'm not stopping there. My administration has proposed rules to make cable, travel, utilities, and online ticket sellers tell you the total price up front so there are no surprises. It matters. It matters."
+    },
+    {
+      "paragraph": 143,
+      "chunk": "I'm not stopping there",
+      "meaning": "我还不止做这些",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "承接已有举措再追加。",
+      "quote": "I'm not stopping there."
+    },
+    {
+      "paragraph": 148,
+      "chunk": "I'll be darned",
+      "meaning": "真没想到／真奇怪",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语惊讶，darn为缓和damn；此处讽刺。",
+      "quote": "Oh, you don't like that bill—huh?—that conservatives got together and said was a good bill? I'll be darned."
+    },
+    {
+      "paragraph": 155,
+      "chunk": "given the opportunity",
+      "meaning": "如果有机会／在得到机会的条件下",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I believe that given the opportunity—for—a majority in the House and Senate would endorse the bill as well—a majority right now."
+    },
+    {
+      "paragraph": 167,
+      "chunk": "My heart goes out to sb.",
+      "meaning": "我深深同情某人",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "慰问悲痛者，不当普通轻微不便套语。",
+      "quote": "To her parents, I say: My heart goes out to you."
+    },
+    {
+      "paragraph": 168,
+      "chunk": "take the chance of sth.",
+      "meaning": "冒某事发生的风险",
+      "register": "正式／演讲",
+      "note": "原句说愿意冒险花钱；候选搭配，正式教学前核验边界。",
+      "quote": "But look, if we change the dynamic at the border—people pay people—people pay these smugglers 8,000 bucks to get across the border because they know if they get by—if they get by and let into the country, it's 6 to 8 years before they have a hearing. And it's worth the—taking the chance of the $8,000."
+    },
+    {
+      "paragraph": 170,
+      "chunk": "It's highly unlikely that 从句",
+      "meaning": "……极不可能",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "限定可能性判断。",
+      "quote": "But—but—if it's only 6 months—6 weeks, the idea is it's highly unlikely that people will pay that money and come all that way knowing that they'll be—able to be kicked out quickly."
+    },
+    {
+      "paragraph": 171,
+      "chunk": "I would respectfully suggest ...",
+      "meaning": "我谨建议……",
+      "register": "口语；原素材为公开演讲",
+      "note": "礼貌提出意见；原句含口语重启，不能整句当模板。",
+      "quote": "Folks, I would respectfully suggest to my friend in—my Republican friends owe it to the American people."
+    },
+    {
+      "paragraph": 174,
+      "chunk": "pressure sb. to do sth.",
+      "meaning": "向某人施压要求其做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "The President. And if my predecessor is watching: Instead of paying [playing; White House correction] politics and pressuring Members of Congress to block the bill, join me in telling the Congress to pass it. We can do it together. But that's what he apparently—here's what he will not do."
+    },
+    {
+      "paragraph": 176,
+      "chunk": "Take a look at it",
+      "meaning": "看看它／了解一下它",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Unlike my predecessor, on my first day in office, I introduced a comprehensive bill to fix our immigration system. Take a look at it."
+    },
+    {
+      "paragraph": 180,
+      "chunk": "We can ... or we can ...",
+      "meaning": "我们可以……，也可以……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句用争论与行动作选择，属于论述骨架而非习语。",
+      "quote": "Look, folks, we have a simple choice: We can fight about fixing the border, or we can fix it."
+    },
+    {
+      "paragraph": 184,
+      "chunk": "leave sb. for dead",
+      "meaning": "以为某人已死而将其丢下",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "叙事固定说法，含暴力语境。",
+      "quote": "They were beaten. They were bloodied and left for dead. Our late friend and former colleague John Lewis was on that march. We miss him."
+    },
+    {
+      "paragraph": 187,
+      "chunk": "do more than talk",
+      "meaning": "不只说说，要付诸行动",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "But if you truly want to honor him and all the heroes who marched with him, then it's time to do more than talk."
+    },
+    {
+      "paragraph": 190,
+      "chunk": "I have your back",
+      "meaning": "我会支持你、为你撑腰",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语保证支持。",
+      "quote": "And my message to transgender Americans is, I have your back."
+    },
+    {
+      "paragraph": 192,
+      "chunk": "At least, I hope ...",
+      "meaning": "至少我希望……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "对先前判断添加保留。",
+      "quote": "I don't think any of you think there's no longer a climate crisis. At least, I hope you don't."
+    },
+    {
+      "paragraph": 194,
+      "chunk": "in the forefront of sth.",
+      "meaning": "处于某领域的最前沿",
+      "register": "正式／演讲",
+      "note": "正式。",
+      "quote": "And patterned after the Peace Corps and AmericaCorps [AmeriCorps; White House correction], I launched the Climate Corps to put 20,000 young people to work in the forefront of our clean energy future."
+    },
+    {
+      "paragraph": 206,
+      "chunk": "have sth. on one's record",
+      "meaning": "让某事留在个人记录上",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原指犯罪记录，工作语境也须说明记录类型。",
+      "quote": "Directing my Cabinet to review the Federal classification of marijuana and expunging thousands of convictions for the mere possession, because no one should be jailed for simply using or have it on their record."
+    },
+    {
+      "paragraph": 207,
+      "chunk": "ramp up sth.",
+      "meaning": "加强、扩大某项行动",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Take on crimes of domestic violence. I'm ramping up the Federal enforcement of the Violence Against Women Act that I proudly wrote when I was a Senator so we can finally— finally end the scourge against women in America."
+    },
+    {
+      "paragraph": 211,
+      "chunk": "lead the charge",
+      "meaning": "带头推进／冲在前面",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "比喻，不只军事冲锋。",
+      "quote": "Well, I did do something by establishing the first ever Office of Gun Violence Prevention in the White House, that the Vice President is leading the charge. Thank you for doing it."
+    },
+    {
+      "paragraph": 214,
+      "chunk": "get over it",
+      "meaning": "放下、走出某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "引述对手冷漠措辞，悲伤场景可能非常冒犯；非推荐慰问。",
+      "quote": "After another shooting in Iowa recently, he said—when asked what to do about it, he said, just \"get over it.\" That was his quote."
+    },
+    {
+      "paragraph": 220,
+      "chunk": "We will not rest until 从句",
+      "meaning": "在……之前我们决不停止努力",
+      "register": "正式／演讲",
+      "note": "强烈承诺，演讲语域。",
+      "quote": "I pledge to all the families that we will not rest until we bring every one of your loved ones home."
+    },
+    {
+      "paragraph": 221,
+      "chunk": "work around the clock",
+      "meaning": "昼夜不停地工作",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We also—we will also work around the clock to bring home Evan and Paul, Americans being unjustly detained by the Russians—and others around the world."
+    },
+    {
+      "paragraph": 222,
+      "chunk": "lay down arms",
+      "meaning": "放下武器、停止战斗",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "战争语域。",
+      "quote": "Israel has a right to go after Hamas. Hamas ended this conflict by releasing the hostages, laying down arms—could end it by releasing the hostages, laying down arms, and surrendering those responsible for October 7."
+    },
+    {
+      "paragraph": 224,
+      "chunk": "take a toll on sb./sth.",
+      "meaning": "给……造成伤害／沉重损耗",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Israel also has a fundamental responsibility, though, to protect innocent civilians in Gaza. This war has taken a greater toll on innocent civilians than all previous wars in Gaza combined. More than 30,000 Palestinians have been killed——"
+    },
+    {
+      "paragraph": 225,
+      "chunk": "Says who?",
+      "meaning": "谁说的？／依据是谁？",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "强势质疑来源；来自听众，不是总统。",
+      "quote": "Audience member. Says who?"
+    },
+    {
+      "paragraph": 228,
+      "chunk": "build toward sth.",
+      "meaning": "逐步推进到某个目标",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原句自我重启保留，不将口误教学。",
+      "quote": "I've been working nonstop to establish an immediate cease-fire that would last for 6 weeks to get all the prisoners released—all the hostages released and to get the hostages home and ease the intolerable and—humanitarian crisis and build toward an enduring—a more—something more enduring."
+    },
+    {
+      "paragraph": 232,
+      "chunk": "do one's part",
+      "meaning": "做好自己应尽的一份",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And Israel must do its part. Israel must allow more aid into Gaza and ensure humanitarian workers aren't caught in the crossfire. And they're announcing they're going to—they're going to have a crossing in Northern Gaza."
+    },
+    {
+      "paragraph": 232,
+      "chunk": "be caught in the crossfire",
+      "meaning": "被卷入交火／双方冲突",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原文实际交火；也可比喻争端波及。",
+      "quote": "And Israel must do its part. Israel must allow more aid into Gaza and ensure humanitarian workers aren't caught in the crossfire. And they're announcing they're going to—they're going to have a crossing in Northern Gaza."
+    },
+    {
+      "paragraph": 233,
+      "chunk": "a bargaining chip",
+      "meaning": "谈判筹码",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "此处反对把援助作为筹码。",
+      "quote": "To the leadership of Israel, I say this: Humanitarian assistance cannot be a secondary consideration or a bargaining chip."
+    },
+    {
+      "paragraph": 234,
+      "chunk": "as a lifelong supporter of sth.",
+      "meaning": "以某事终身支持者的身份",
+      "register": "正式／演讲",
+      "note": "正式立场身份；泛化程度待教学审校。",
+      "quote": "And I say this as a lifelong supporter of Israel, my entire career."
+    },
+    {
+      "paragraph": 237,
+      "chunk": "not hesitate to do sth.",
+      "meaning": "毫不犹豫地做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "As Commander in Chief, I will not hesitate to direct further measures to protect our people and our military personnel."
+    },
+    {
+      "paragraph": 238,
+      "chunk": "on the rise",
+      "meaning": "正在上升、壮大",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "For years, I've heard many of my Republican and Democratic friends say that China is on the rise and America is falling behind."
+    },
+    {
+      "paragraph": 238,
+      "chunk": "fall behind",
+      "meaning": "落后",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "For years, I've heard many of my Republican and Democratic friends say that China is on the rise and America is falling behind. They've got it backwards. I've been saying it for over 4 years, even when I wasn't President."
+    },
+    {
+      "paragraph": 238,
+      "chunk": "have it backwards",
+      "meaning": "把关系／事实搞反了",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语纠正解释。",
+      "quote": "For years, I've heard many of my Republican and Democratic friends say that China is on the rise and America is falling behind. They've got it backwards. I've been saying it for over 4 years, even when I wasn't President."
+    },
+    {
+      "paragraph": 241,
+      "chunk": "It never occurred to sb. to do sth.",
+      "meaning": "某人从没想到过要做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "quote跨P241–242，否定思路曾出现，不一定指没能力。",
+      "end_paragraph": 242,
+      "quote": "Frankly, for all his tough talk on China, it never occurred to my predecessor to do any of that."
+    },
+    {
+      "paragraph": 244,
+      "chunk": "for that matter",
+      "meaning": "就这方面而言也一样／说起来",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "追加相近判断；原句重启较多。",
+      "quote": "conflict [competition; White House correction] of the 21st century against China than anyone else for that matter—than at any time as well."
+    },
+    {
+      "paragraph": 251,
+      "chunk": "into harm's way",
+      "meaning": "进入危险境地",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "多见于人员被派往危险任务。",
+      "quote": "And keep our truly sacred obligation to train and equip those we send into harm's way and care for them and their families when they come home and when they don't."
+    },
+    {
+      "paragraph": 253,
+      "chunk": "as we know it",
+      "meaning": "以我们目前所认识的形式",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "不是简单的正如我们所知。",
+      "quote": "And we owe it to ourselves to keep supporting our new health research agency called ARPA–H—and remind us—to remind us that we can do big things, like end cancer as we know it."
+    },
+    {
+      "paragraph": 253,
+      "chunk": "owe it to sb. to do sth.",
+      "meaning": "有责任为某人做某事",
+      "register": "中性／口语、工作；原素材为演讲",
+      "note": "第二遍补充：内部动词词块／义务表达骨架。",
+      "quote": "And we owe it to ourselves to keep supporting our new health research agency called ARPA–H—and remind us—to remind us that we can do big things, like end cancer as we know it."
+    },
+    {
+      "paragraph": 255,
+      "chunk": "I've been around a while",
+      "meaning": "我经历不少／资历不浅",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语自我调侃，非一直在附近。",
+      "quote": "I know I may not look like it, but I've been around a while."
+    },
+    {
+      "paragraph": 256,
+      "chunk": "again and again",
+      "meaning": "一次又一次",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I know the American story. Again and again, I've seen the contest between competing forces in the battle for the soul of our Nation, between those who want to pull America back to the past and those who want to move America into the future."
+    },
+    {
+      "paragraph": 258,
+      "chunk": "see it differently",
+      "meaning": "对此有不同的看法",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Now, other people my age see it differently."
+    },
+    {
+      "paragraph": 260,
+      "chunk": "watch in horror as 从句",
+      "meaning": "惊恐地目睹……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "叙事反应骨架。",
+      "quote": "I watched in horror as two of my heroes—like many of you did—Dr. King and Bobby Kennedy, were assassinated. And their legacies inspired me to pursue a career of service."
+    },
+    {
+      "paragraph": 261,
+      "chunk": "by accident",
+      "meaning": "偶然地、并非有意安排",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And I became a county councilman almost by accident."
+    },
+    {
+      "paragraph": 262,
+      "chunk": "have no intention of doing sth.",
+      "meaning": "没有做某事的打算",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I got elected to the United States Senate when I had no intention of running, at age 29. Then Vice President to our first Black President. Now a President to the first woman Vice President. In my career, I've been told I was too young. [Laughter] By the way, they didn't let me on the Senate elevators for votes sometimes. They—not a joke. [Laughter]"
+    },
+    {
+      "paragraph": 267,
+      "chunk": "The issue isn't ..., it's ...",
+      "meaning": "问题不在于……，而在于……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "重新界定讨论焦点。",
+      "quote": "The President. My fellow Americans, the issue facing our Nation isn't how old we are, it's how old are our ideas."
+    },
+    {
+      "paragraph": 269,
+      "chunk": "I see a future where 从句",
+      "meaning": "我展望这样一种未来：……",
+      "register": "正式／演讲",
+      "note": "正式愿景骨架，非只指眼睛看见。",
+      "quote": "Tonight you've heard mine. I see a future where [we're; White House correction] defending democracy, you don't diminish it."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 264,
+      "text": "lived up to that idea",
+      "reason": "保留202300848旧条目"
+    },
+    {
+      "paragraph": 264,
+      "text": "walked away from it",
+      "reason": "保留202300848 P12"
+    },
+    {
+      "paragraph": 270,
+      "text": "Above all",
+      "reason": "保留202400984 P25"
+    },
+    {
+      "paragraph": 82,
+      "text": "To state the obvious",
+      "reason": "保留202400984 P8"
+    },
+    {
+      "paragraph": 195,
+      "text": "To state the obvious",
+      "reason": "同一代表"
+    },
+    {
+      "paragraph": 63,
+      "text": "gets knocked down / get back up",
+      "reason": "保留202400984 P21"
+    },
+    {
+      "paragraph": 51,
+      "text": "On my watch",
+      "reason": "保留202100048 P45"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [
+    {
+      "paragraph": 69,
+      "word": "thereabouts",
+      "meaning": "大约那个数量",
+      "quote": "Americans pay more for prescription drugs than anywhere in the world. It's wrong, and I'm ending it. With a law that I proposed and signed—and not one of your Republican buddies work—voted for it—we finally beat Big Pharma. Instead of paying $400 a month or thereabouts for insulin with diabetes—and it only costs 10 bucks to make—they only get paid $35 a month now and still make a healthy profit."
+    },
+    {
+      "paragraph": 86,
+      "word": "price-fixing",
+      "meaning": "合谋定价",
+      "quote": "For millions of renters, we're cracking down on big landlords who use antitrust law—using antitrust—who break antitrust laws—by price-fixing and driving up rents. We've cut redtape so builders can get federally financing, which is already helping build a record 1.7 million new house—housing units nationwide."
+    },
+    {
+      "paragraph": 136,
+      "word": "price gouging",
+      "meaning": "趁机哄抬价格",
+      "quote": "The President. ——too many corporations raise prices to pad their profits, charging more and more for less and less. That's why we're cracking down on corporations that engage in price gouging and deceptive pricing, from food to health care to housing."
+    },
+    {
+      "paragraph": 137,
+      "word": "shrink-flation",
+      "meaning": "减量不减价",
+      "quote": "In fact, the snack companies think you won't notice if they change the size of the bag and put a hell of a lot fewer—[laughter]—same size bag—put fewer chips in it. No, I'm not joking. It's called \"shrink-flation.\" Pass Bobby Casey's bill, and stop this. I really mean it."
+    },
+    {
+      "paragraph": 218,
+      "word": "gut-wrenching",
+      "meaning": "令人极度痛苦的",
+      "quote": "You know, as we manage challenges at home, we're also managing crises abroad, including in the Middle East. I know the last 5 months have been gut-wrenching for so many people: for the Israeli people, for the Palestinian people, and so many here in America."
+    },
+    {
+      "paragraph": 236,
+      "word": "containing",
+      "meaning": "遏制",
+      "quote": "Creating stability in the Middle East also means containing the threat posed by Iran. That's why I built a coalition of more than a dozen countries to defend international shipping and freedom of navigation in the Red Sea."
+    }
+  ],
+  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。"
+}

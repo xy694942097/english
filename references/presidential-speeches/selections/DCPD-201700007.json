@@ -1,0 +1,201 @@
+{
+  "source_id": "DCPD-201700007",
+  "html_source": "https://www.govinfo.gov/content/pkg/DCPD-201700007/html/DCPD-201700007.htm",
+  "source_sha256": "73725131a396f130504f606c29461817803e737f2feb2413f44e6a5597d8ff18",
+  "paragraphs_read": 8,
+  "read_ranges": [
+    [
+      1,
+      8
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        8
+      ]
+    ],
+    "method": "先逐段检查外层表达动作及内部搭配，再回看所有未收段和已有条目所在段；补充否定推论、条件、转述、时间与普通动作结构，不按单词简单或考试出现推定掌握。",
+    "added": 1,
+    "intentionally_omitted": "称呼致谢、宗教祝福、政治运动口号、专名罗列、一次性长修辞、仅依赖具体历史的比喻；引用段可收可迁移局部但不冒充日常高频。"
+  },
+  "items": [
+    {
+      "chunk": "start a family",
+      "meaning": "成家并开始养育孩子",
+      "register": "中性／生活",
+      "note": "不一定仅指结婚；原句与 met my wife 区分。",
+      "paragraph": 1,
+      "quote": "I chose Chicago not only because it's my hometown, where I met my wife and we started a family, but also because it's really where my career in public service began.",
+      "quote_sha256": "d598d52304c6fe9eaf6c7a82a34fcb6a743e9ef39fbbd4cafe02eb1a88055720"
+    },
+    {
+      "chunk": "a running thread through sth.",
+      "meaning": "贯穿某事的持续线索或主题",
+      "register": "中性偏正式／回顾",
+      "note": "原句贯穿职业历程，不是软件线程。",
+      "paragraph": 2,
+      "quote": "The running thread through my career has been the notion that when ordinary people get involved and get engaged and come together in collective effort, things change for the better.",
+      "quote_sha256": "efc765d3adfaae1b4cac1d29518ea4ab62edadf1ab03daf40114e63929093da3"
+    },
+    {
+      "chunk": "get involved",
+      "meaning": "参与进去",
+      "register": "中性／行动",
+      "note": "后可接 in；此处普通人的公共参与。",
+      "paragraph": 2,
+      "quote": "The running thread through my career has been the notion that when ordinary people get involved and get engaged and come together in collective effort, things change for the better.",
+      "quote_sha256": "efc765d3adfaae1b4cac1d29518ea4ab62edadf1ab03daf40114e63929093da3"
+    },
+    {
+      "chunk": "change for the better",
+      "meaning": "向好的方向改变",
+      "register": "中性／评价",
+      "note": "better 表结果方向，不只单纯变化。",
+      "paragraph": 2,
+      "quote": "The running thread through my career has been the notion that when ordinary people get involved and get engaged and come together in collective effort, things change for the better.",
+      "quote_sha256": "efc765d3adfaae1b4cac1d29518ea4ab62edadf1ab03daf40114e63929093da3"
+    },
+    {
+      "chunk": "at the heart of sth.",
+      "meaning": "在某事的核心；是某事关键",
+      "register": "中性／解释",
+      "note": "不是生理心脏。",
+      "paragraph": 2,
+      "quote": "That's the belief at the heart of this precious American experiment in self-government.",
+      "quote_sha256": "854d45b5048663aff3d05775095879007ca0019499d91852b3080e378545785d"
+    },
+    {
+      "chunk": "lose sight of sth.",
+      "meaning": "忽略或忘了某事的重要性",
+      "register": "中性／反思",
+      "note": "非视力失去。",
+      "paragraph": 3,
+      "quote": "It's easy to lose sight of that truth in the day-to-day back and forth of Washington or our minute-to-minute news cycles.",
+      "quote_sha256": "063d74eb77f3e2960df2b2fb19c84c25098e6f63c190cae53308bafbfd754fcd"
+    },
+    {
+      "chunk": "back and forth",
+      "meaning": "来回反复；拉锯往复",
+      "register": "中性",
+      "note": "原句名词化的政治日常往复，也可字面来回。",
+      "paragraph": 3,
+      "quote": "It's easy to lose sight of that truth in the day-to-day back and forth of Washington or our minute-to-minute news cycles.",
+      "quote_sha256": "063d74eb77f3e2960df2b2fb19c84c25098e6f63c190cae53308bafbfd754fcd"
+    },
+    {
+      "chunk": "over a longer time horizon",
+      "meaning": "放到更长的时间跨度来看",
+      "register": "正式／规划分析",
+      "note": "horizon 比喻观察或计划期限。",
+      "paragraph": 3,
+      "quote": "But remember that America is a story told over a longer time horizon, in fits and starts, punctuated at times by hardship, but ultimately written by generations of citizens who've somehow worked together, without fanfare, to form a more perfect Union.",
+      "quote_sha256": "8589e6914f78c2467eaa7c328cefd7e960b6c1237ff8dc6ff719fef01bdbf481"
+    },
+    {
+      "chunk": "in fits and starts",
+      "meaning": "断断续续；进展不连贯",
+      "register": "中性／过程",
+      "note": "不是一次顺畅的前进。",
+      "paragraph": 3,
+      "quote": "But remember that America is a story told over a longer time horizon, in fits and starts, punctuated at times by hardship, but ultimately written by generations of citizens who've somehow worked together, without fanfare, to form a more perfect Union.",
+      "quote_sha256": "8589e6914f78c2467eaa7c328cefd7e960b6c1237ff8dc6ff719fef01bdbf481"
+    },
+    {
+      "chunk": "be punctuated by sth.",
+      "meaning": "过程中不时穿插某事",
+      "register": "正式／叙事",
+      "note": "原句 by hardship，并非标点教学义。",
+      "paragraph": 3,
+      "quote": "But remember that America is a story told over a longer time horizon, in fits and starts, punctuated at times by hardship, but ultimately written by generations of citizens who've somehow worked together, without fanfare, to form a more perfect Union.",
+      "quote_sha256": "8589e6914f78c2467eaa7c328cefd7e960b6c1237ff8dc6ff719fef01bdbf481"
+    },
+    {
+      "chunk": "without fanfare",
+      "meaning": "不事张扬地；没有大肆宣扬",
+      "register": "中性偏正式",
+      "note": "不只无喇叭声。",
+      "paragraph": 3,
+      "quote": "But remember that America is a story told over a longer time horizon, in fits and starts, punctuated at times by hardship, but ultimately written by generations of citizens who've somehow worked together, without fanfare, to form a more perfect Union.",
+      "quote_sha256": "8589e6914f78c2467eaa7c328cefd7e960b6c1237ff8dc6ff719fef01bdbf481"
+    },
+    {
+      "chunk": "turn sth. into sth.",
+      "meaning": "把某事转变成另一种状态",
+      "register": "中性／成果说明",
+      "note": "原句从萎缩经济转为增长经济，保留转变方向。",
+      "paragraph": 4,
+      "quote": "Together, we've turned an economy that was shrinking and losing jobs into one that's growing and creating jobs, with poverty falling, incomes rising, and wages that have jumped faster over the past few years than at any time in the past four decades.",
+      "quote_sha256": "9feab176c97ef7b7057fa42fd52836193cdc988636d9d40b074912abd913f66a"
+    },
+    {
+      "chunk": "faster than at any time in ...",
+      "meaning": "比过去……任何时候都快",
+      "register": "中性／趋势比较",
+      "note": "应有事实数据支持比较；不把演讲主张视为独立核证。",
+      "paragraph": 4,
+      "quote": "Together, we've turned an economy that was shrinking and losing jobs into one that's growing and creating jobs, with poverty falling, incomes rising, and wages that have jumped faster over the past few years than at any time in the past four decades.",
+      "quote_sha256": "9feab176c97ef7b7057fa42fd52836193cdc988636d9d40b074912abd913f66a"
+    },
+    {
+      "chunk": "a preexisting condition",
+      "meaning": "事先已经存在的疾病／状况",
+      "register": "正式／保险医疗",
+      "note": "此处医疗保险语境，不将单词 preexisting 包装独立chunk。",
+      "paragraph": 5,
+      "quote": "ending the days of discrimination against up to half of Americans who have a preexisting condition, and secured new rights and protections for everybody with health insurance.",
+      "quote_sha256": "12264a86db1ad64a64a043b0627395b7c56e648cceb8d296459e943342224a93"
+    },
+    {
+      "chunk": "for good",
+      "meaning": "永久地；彻底地",
+      "register": "中性",
+      "note": "原句 off the battlefield for good，不是为了好处。",
+      "paragraph": 6,
+      "quote": "Together, we've brought home most of our brave troops from Iraq and Afghanistan, took bin Laden and thousands of other terrorists off the battlefield for good.",
+      "quote_sha256": "36af424872a4672b57cd69127b68e5ba1f1240e4d26ee2fecd058462457d21c9"
+    },
+    {
+      "chunk": "open a new chapter with sb.",
+      "meaning": "与某人开启新阶段",
+      "register": "正式／回顾",
+      "note": "原句外交关系，比日常 start again 更庄重。",
+      "paragraph": 6,
+      "quote": "We've opened a new chapter with the people of Cuba, shut down Iran's nuclear weapons program without firing a single shot, and brought the world together around a climate agreement that could save this planet for future generations.",
+      "quote_sha256": "36ca1d1269c2e3ba902006886f4e10bb25810ae560c5faf4515b632d5055187a"
+    },
+    {
+      "chunk": "by these measures",
+      "meaning": "按这些衡量标准",
+      "register": "正式／总结",
+      "note": "measures 此处标准或指标，不是行动措施。",
+      "paragraph": 7,
+      "quote": "By these measures and many more, we have made America a better, stronger place for the generation that follows ours.",
+      "quote_sha256": "39d7bfee2561a50ea432612becbffc67ee608850edcf46e86eee523bd7e51dde"
+    },
+    {
+      "chunk": "run one's leg (of a journey/relay)",
+      "meaning": "完成自己负责的一段接力／路程",
+      "register": "演讲／接力比喻",
+      "note": "原句 long journey，非所有项目默认套语。",
+      "paragraph": 7,
+      "quote": "We've run our leg in a long journey of progress, knowing that our work is and will always be unfinished.",
+      "quote_sha256": "d23df621b6a80d261af7527b39b6d5f4099b934eeab75d0fe4949121681fc30d"
+    },
+    {
+      "chunk": "tune in",
+      "meaning": "收看／收听节目",
+      "register": "中性／邀请",
+      "note": "原句邀请听告别演讲，不是调整乐器音准。",
+      "paragraph": 7,
+      "quote": "That will be the focus of my Farewell to you this Tuesday, and I hope you'll tune in.",
+      "quote_sha256": "5171ba179cde12ba88e0d351accea3116b0c318df4daecbbd25353470abe7ae5"
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+}

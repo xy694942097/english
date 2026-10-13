@@ -1,0 +1,799 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S04/Better.Call.Saul.S04E01.en.srt",
+  "sha256": "2266fe526903e10c7ca4446b0df6a6e8757e6d9c22caee752deb878dadd7b289",
+  "subtitle_blocks_read": 373,
+  "max_cue": 373,
+  "selection_status": "Candidates; community subtitles, not audio verified",
+  "read_batches": [
+    [
+      1,
+      373
+    ]
+  ],
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "items": [
+    {
+      "chunk": "false alarm",
+      "meaning": "虚惊一场；没有真的发生警报所指的危险",
+      "start_cue": 28,
+      "end_cue": 28,
+      "start_time": "00:02:44,457",
+      "end_time": "00:02:46,125",
+      "quote": "The headline is false alarm.",
+      "id": "S04E01-001"
+    },
+    {
+      "chunk": "It'll just take a moment.",
+      "meaning": "只耽误你一小会儿；请求对方稍候",
+      "start_cue": 32,
+      "end_cue": 32,
+      "start_time": "00:03:02,975",
+      "end_time": "00:03:06,645",
+      "quote": "- I have a taxi coming. - It'll just take a moment.",
+      "id": "S04E01-002"
+    },
+    {
+      "chunk": "have another look at sth.",
+      "meaning": "再看一眼／再检查某物",
+      "start_cue": 33,
+      "end_cue": 33,
+      "start_time": "00:03:10,566",
+      "end_time": "00:03:13,569",
+      "quote": "Could I have another look at your driver's license?",
+      "id": "S04E01-003"
+    },
+    {
+      "chunk": "kick sth. back",
+      "meaning": "系统退回／拒绝处理某项输入，口语",
+      "start_cue": 34,
+      "end_cue": 34,
+      "start_time": "00:03:37,885",
+      "end_time": "00:03:41,680",
+      "quote": "For some reason, this computer keeps kicking this back.",
+      "id": "S04E01-004"
+    },
+    {
+      "chunk": "It's supposed to be …",
+      "meaning": "据说／按通常认知应该是……；本句是转述某地景色",
+      "start_cue": 41,
+      "end_cue": 41,
+      "start_time": "00:04:08,833",
+      "end_time": "00:04:11,335",
+      "quote": "It's supposed to be beautiful up there.",
+      "id": "S04E01-005"
+    },
+    {
+      "chunk": "I'm sorry for keeping you.",
+      "meaning": "抱歉耽误你的时间；放行时的歉意",
+      "start_cue": 63,
+      "end_cue": 63,
+      "start_time": "00:05:22,615",
+      "end_time": "00:05:24,283",
+      "quote": "I'm sorry for keeping you.",
+      "id": "S04E01-006"
+    },
+    {
+      "chunk": "Stay warm.",
+      "meaning": "注意保暖；寒天告别的关照",
+      "start_cue": 66,
+      "end_cue": 66,
+      "start_time": "00:05:41,342",
+      "end_time": "00:05:43,802",
+      "quote": "- Stay warm. - You too.",
+      "id": "S04E01-007"
+    },
+    {
+      "chunk": "Let it go.",
+      "meaning": "先别管它；此处指不接来电，不是原谅",
+      "start_cue": 74,
+      "end_cue": 74,
+      "start_time": "00:12:04,558",
+      "end_time": "00:12:08,103",
+      "quote": "Let it go. If it's important, they'll leave a message.",
+      "id": "S04E01-008"
+    },
+    {
+      "chunk": "You've reached sb.",
+      "meaning": "你拨通了某人的电话；语音信箱开头",
+      "start_cue": 75,
+      "end_cue": 75,
+      "start_time": "00:12:10,355",
+      "end_time": "00:12:13,483",
+      "quote": "Kim: You've reached Kim wexler. Please leave a message.",
+      "id": "S04E01-009"
+    },
+    {
+      "chunk": "try to reach sb.",
+      "meaning": "设法联系上某人",
+      "start_cue": 77,
+      "end_cue": 77,
+      "start_time": "00:12:17,321",
+      "end_time": "00:12:19,281",
+      "quote": "I'm trying to reach Jimmy.",
+      "id": "S04E01-010"
+    },
+    {
+      "chunk": "knock sth. over",
+      "meaning": "碰倒某物",
+      "start_cue": 85,
+      "end_cue": 85,
+      "start_time": "00:14:20,360",
+      "end_time": "00:14:23,071",
+      "quote": "Somehow, one of the lanterns was knocked over.",
+      "id": "S04E01-011"
+    },
+    {
+      "chunk": "be oneself",
+      "meaning": "恢复／表现出平常的自己；此处指精神正常",
+      "start_cue": 99,
+      "end_cue": 99,
+      "start_time": "00:15:25,592",
+      "end_time": "00:15:26,885",
+      "quote": "He was himself.",
+      "id": "S04E01-012"
+    },
+    {
+      "chunk": "Looks that way.",
+      "meaning": "看来是这样；简短认可判断",
+      "start_cue": 108,
+      "end_cue": 108,
+      "start_time": "00:16:59,853",
+      "end_time": "00:17:01,563",
+      "quote": "Looks that way.",
+      "id": "S04E01-013"
+    },
+    {
+      "chunk": "but that's it",
+      "meaning": "但到此为止；明确时间／数量界限",
+      "start_cue": 120,
+      "end_cue": 120,
+      "start_time": "00:18:14,552",
+      "end_time": "00:18:18,348",
+      "quote": "- Five more minutes, please? - Five more minutes, but that's it.",
+      "id": "S04E01-014"
+    },
+    {
+      "chunk": "make sb.'s own hours",
+      "meaning": "自己安排工作时间",
+      "start_cue": 124,
+      "end_cue": 124,
+      "start_time": "00:18:30,151",
+      "end_time": "00:18:34,030",
+      "quote": "- You sure? What about your new job? - I make my own hours.",
+      "id": "S04E01-015",
+      "original_chunk": "make one's own hours"
+    },
+    {
+      "chunk": "Must be nice.",
+      "meaning": "那一定很不错；可带羡慕或调侃",
+      "start_cue": 125,
+      "end_cue": 125,
+      "start_time": "00:18:37,993",
+      "end_time": "00:18:40,245",
+      "quote": "Must be nice.",
+      "id": "S04E01-016"
+    },
+    {
+      "chunk": "since you're offering",
+      "meaning": "既然你主动提了，那我就接受；顺势接受帮助",
+      "start_cue": 126,
+      "end_cue": 126,
+      "start_time": "00:18:41,579",
+      "end_time": "00:18:43,873",
+      "quote": "- Well, since you're offering... - Good.",
+      "id": "S04E01-017"
+    },
+    {
+      "chunk": "in the works",
+      "meaning": "正在筹划／形成中；本句是球场威胁逐渐形成",
+      "start_cue": 140,
+      "end_cue": 140,
+      "start_time": "00:20:24,682",
+      "end_time": "00:20:28,937",
+      "quote": "Already with back-to-back singles and another threat in the works.",
+      "id": "S04E01-018"
+    },
+    {
+      "chunk": "Would you have …?",
+      "meaning": "请问您有没有……？较客气询问",
+      "start_cue": 144,
+      "end_cue": 144,
+      "start_time": "00:20:47,789",
+      "end_time": "00:20:50,041",
+      "quote": "And would you have an address for that?",
+      "id": "S04E01-019"
+    },
+    {
+      "chunk": "I'm sorry to bother you with this.",
+      "meaning": "抱歉为这事打扰你；敏感请求开头",
+      "start_cue": 149,
+      "end_cue": 149,
+      "start_time": "00:21:19,696",
+      "end_time": "00:21:22,740",
+      "quote": "Howard: Jimmy, I'm so sorry to bother you with this.",
+      "id": "S04E01-020"
+    },
+    {
+      "chunk": "The thing is, …",
+      "meaning": "问题／实际情况是……；引出要说明的事",
+      "start_cue": 150,
+      "end_cue": 150,
+      "start_time": "00:21:22,907",
+      "end_time": "00:21:27,287",
+      "quote": "The thing is, we wanted to get Chuck's obituary in the paper before the service.",
+      "id": "S04E01-021"
+    },
+    {
+      "chunk": "be taken from this world",
+      "meaning": "离世；讣告中的委婉说法",
+      "start_cue": 157,
+      "end_cue": 157,
+      "start_time": "00:21:49,267",
+      "end_time": "00:21:52,854",
+      "quote": "Was taken from this world tragically and suddenly last week.",
+      "id": "S04E01-022"
+    },
+    {
+      "chunk": "be born and raised in …",
+      "meaning": "在某地出生长大",
+      "start_cue": 159,
+      "end_cue": 159,
+      "start_time": "00:21:55,523",
+      "end_time": "00:21:58,693",
+      "quote": "Charles was born and raised in Cicero, Illinois, outside Chicago.",
+      "id": "S04E01-023"
+    },
+    {
+      "chunk": "three years running",
+      "meaning": "连续三年；running跟在时间数量后",
+      "start_cue": 164,
+      "end_cue": 164,
+      "start_time": "00:22:16,669",
+      "end_time": "00:22:19,047",
+      "quote": "Three years running and won the Larkin prize.",
+      "id": "S04E01-024"
+    },
+    {
+      "chunk": "excel in sth.",
+      "meaning": "在某领域表现出色",
+      "start_cue": 174,
+      "end_cue": 174,
+      "start_time": "00:22:51,704",
+      "end_time": "00:22:54,499",
+      "quote": "Early in his career, he excelled in criminal law...",
+      "id": "S04E01-025"
+    },
+    {
+      "chunk": "be survived by sb.",
+      "meaning": "逝者留下某些亲属；讣告表达，不是被某人活过",
+      "start_cue": 182,
+      "end_cue": 183,
+      "start_time": "00:23:19,857",
+      "end_time": "00:23:26,781",
+      "quote": "Charles is survived by his former wife, concert violinist Rebecca bois... And his younger brother, James McGill...",
+      "id": "S04E01-026"
+    },
+    {
+      "chunk": "follow in sb.'s footsteps",
+      "meaning": "追随某人的职业／人生道路",
+      "start_cue": 184,
+      "end_cue": 184,
+      "start_time": "00:23:26,948",
+      "end_time": "00:23:30,785",
+      "quote": "\"Who followed in Charles' footsteps and entered the legal profession.\"",
+      "id": "S04E01-027"
+    },
+    {
+      "chunk": "and all that",
+      "meaning": "以及那些相关的事；随意概括",
+      "start_cue": 185,
+      "end_cue": 185,
+      "start_time": "00:23:33,663",
+      "end_time": "00:23:37,750",
+      "quote": "And then there's information about the memorial service. Date, time and all that.",
+      "id": "S04E01-028"
+    },
+    {
+      "chunk": "be okay with sth.",
+      "meaning": "对某安排没意见／可以接受",
+      "start_cue": 188,
+      "end_cue": 188,
+      "start_time": "00:23:46,676",
+      "end_time": "00:23:51,389",
+      "quote": "- Oh. Jimmy's okay with it? - He likes it, Howard. Go ahead with it.",
+      "id": "S04E01-029"
+    },
+    {
+      "chunk": "Thank sb. for me.",
+      "meaning": "替我向某人道谢",
+      "start_cue": 191,
+      "end_cue": 191,
+      "start_time": "00:23:55,018",
+      "end_time": "00:23:56,853",
+      "quote": "Thank him for me.",
+      "id": "S04E01-030"
+    },
+    {
+      "chunk": "Be advised.",
+      "meaning": "请注意／现告知；正式通报",
+      "start_cue": 195,
+      "end_cue": 195,
+      "start_time": "00:26:05,356",
+      "end_time": "00:26:08,109",
+      "quote": "Man: Be advised. We have one adult male...",
+      "id": "S04E01-031"
+    },
+    {
+      "chunk": "have a history of sth.",
+      "meaning": "有某疾病／问题的既往史；医疗询问",
+      "start_cue": 196,
+      "end_cue": 196,
+      "start_time": "00:26:08,276",
+      "end_time": "00:26:11,112",
+      "quote": "Woman: Does he have a history of cardiac issues?",
+      "id": "S04E01-032"
+    },
+    {
+      "chunk": "take medication",
+      "meaning": "服药；医疗日常搭配",
+      "start_cue": 198,
+      "end_cue": 198,
+      "start_time": "00:26:12,947",
+      "end_time": "00:26:15,366",
+      "quote": "Woman: And was he taking any medications?",
+      "id": "S04E01-033"
+    },
+    {
+      "chunk": "Things could go well for sb.",
+      "meaning": "某人可能会有很好的前景；条件式承诺",
+      "start_cue": 224,
+      "end_cue": 224,
+      "start_time": "00:30:14,313",
+      "end_time": "00:30:16,732",
+      "quote": "Things could go very well for you.",
+      "id": "S04E01-034"
+    },
+    {
+      "chunk": "keep sb.'s house in order",
+      "meaning": "把自己的事务／组织管理好；比喻",
+      "start_cue": 226,
+      "end_cue": 226,
+      "start_time": "00:30:36,877",
+      "end_time": "00:30:39,672",
+      "quote": "But he keeps his house in order.",
+      "id": "S04E01-035",
+      "original_chunk": "keep one's house in order"
+    },
+    {
+      "chunk": "move against sb.",
+      "meaning": "对某人发动攻势；较正式",
+      "start_cue": 229,
+      "end_cue": 229,
+      "start_time": "00:30:49,348",
+      "end_time": "00:30:51,851",
+      "quote": "Someone will move against the salamancas.",
+      "id": "S04E01-036"
+    },
+    {
+      "chunk": "give sth. a little play",
+      "meaning": "给零件留些余量／活动空间；机械调整用语",
+      "start_cue": 241,
+      "end_cue": 241,
+      "start_time": "00:33:34,680",
+      "end_time": "00:33:38,976",
+      "quote": "So you take this, give it a little play, right about there.",
+      "id": "S04E01-037"
+    },
+    {
+      "chunk": "a dead battery",
+      "meaning": "没电的电池／蓄电池",
+      "start_cue": 250,
+      "end_cue": 250,
+      "start_time": "00:34:57,554",
+      "end_time": "00:35:01,058",
+      "quote": "No, no. Car troubles. Probably just a dead battery.",
+      "id": "S04E01-038"
+    },
+    {
+      "chunk": "life and death",
+      "meaning": "生死攸关的事",
+      "start_cue": 259,
+      "end_cue": 259,
+      "start_time": "00:36:29,813",
+      "end_time": "00:36:31,732",
+      "quote": "Martial arts is life and death.",
+      "id": "S04E01-039"
+    },
+    {
+      "chunk": "find an opening",
+      "meaning": "找到可乘之隙／突破机会",
+      "start_cue": 264,
+      "end_cue": 264,
+      "start_time": "00:36:42,743",
+      "end_time": "00:36:44,912",
+      "quote": "He's got the moves. He's gonna find an opening.",
+      "id": "S04E01-040"
+    },
+    {
+      "chunk": "not mean squat",
+      "meaning": "一点用／意义也没有；粗俗随意口语",
+      "start_cue": 265,
+      "end_cue": 265,
+      "start_time": "00:36:45,079",
+      "end_time": "00:36:47,581",
+      "quote": "Without power, the opening doesn't mean squat.",
+      "id": "S04E01-041"
+    },
+    {
+      "chunk": "have … pounds on sb.",
+      "meaning": "比某人重若干磅；have … on 可说优势",
+      "start_cue": 267,
+      "end_cue": 267,
+      "start_time": "00:36:51,001",
+      "end_time": "00:36:55,130",
+      "quote": "Man 2: Ali was the heavyweight champ. He's got a hundred pounds on Lee.",
+      "id": "S04E01-042"
+    },
+    {
+      "chunk": "go down hard",
+      "meaning": "重重倒下；此处是搏斗中的摔倒",
+      "start_cue": 269,
+      "end_cue": 269,
+      "start_time": "00:36:57,299",
+      "end_time": "00:37:00,969",
+      "quote": "But he goes low and sweeps him to the deck. Ali goes down hard.",
+      "id": "S04E01-043"
+    },
+    {
+      "chunk": "… or less",
+      "meaning": "若干时间／数量以内",
+      "start_cue": 273,
+      "end_cue": 273,
+      "start_time": "00:37:08,102",
+      "end_time": "00:37:11,188",
+      "quote": "If he doesn't, it's Ali in three minutes or less.",
+      "id": "S04E01-044"
+    },
+    {
+      "chunk": "That's what I'm saying.",
+      "meaning": "我就是这个意思；认同／强调",
+      "start_cue": 274,
+      "end_cue": 274,
+      "start_time": "00:37:11,605",
+      "end_time": "00:37:14,775",
+      "quote": "See? That's what I'm saying. That's what I'm say...",
+      "id": "S04E01-045"
+    },
+    {
+      "chunk": "be out of line",
+      "meaning": "言行越界／不合规矩",
+      "start_cue": 278,
+      "end_cue": 278,
+      "start_time": "00:37:33,752",
+      "end_time": "00:37:36,588",
+      "quote": "Man 1: You're out of line. Man 2: I'm saying...",
+      "id": "S04E01-046"
+    },
+    {
+      "chunk": "What do you think you're up to?",
+      "meaning": "你以为自己在干什么？质问不当行为",
+      "start_cue": 289,
+      "end_cue": 289,
+      "start_time": "00:40:21,587",
+      "end_time": "00:40:24,006",
+      "quote": "Ramirez, what do you think you're up to?",
+      "id": "S04E01-047"
+    },
+    {
+      "chunk": "Rules are rules.",
+      "meaning": "规矩就是规矩；强调不作例外",
+      "start_cue": 295,
+      "end_cue": 295,
+      "start_time": "00:40:39,521",
+      "end_time": "00:40:42,858",
+      "quote": "You use them. Rules are rules, got me?",
+      "id": "S04E01-048"
+    },
+    {
+      "chunk": "On the double.",
+      "meaning": "马上／快点；命令语气",
+      "start_cue": 297,
+      "end_cue": 297,
+      "start_time": "00:40:44,526",
+      "end_time": "00:40:46,361",
+      "quote": "On the double.",
+      "id": "S04E01-049"
+    },
+    {
+      "chunk": "shut sth. down",
+      "meaning": "停止操作／关闭运作",
+      "start_cue": 298,
+      "end_cue": 299,
+      "start_time": "00:40:46,528",
+      "end_time": "00:40:50,699",
+      "quote": "Ramirez: Hey, hold up. Shut it down. Shut it down.",
+      "id": "S04E01-050"
+    },
+    {
+      "chunk": "give sb. a second look",
+      "meaning": "再多看某人一眼；此处指引起注意",
+      "start_cue": 306,
+      "end_cue": 306,
+      "start_time": "00:41:30,155",
+      "end_time": "00:41:32,157",
+      "quote": "Nobody gives me a second look.",
+      "id": "S04E01-051"
+    },
+    {
+      "chunk": "prop sth. open",
+      "meaning": "撑住某物使其保持开启",
+      "start_cue": 308,
+      "end_cue": 308,
+      "start_time": "00:41:37,496",
+      "end_time": "00:41:40,540",
+      "quote": "I find access doors left unlocked or propped open.",
+      "id": "S04E01-052"
+    },
+    {
+      "chunk": "leave sb. open to sth.",
+      "meaning": "让某人易受某种损害／留下漏洞",
+      "start_cue": 311,
+      "end_cue": 311,
+      "start_time": "00:41:47,631",
+      "end_time": "00:41:49,925",
+      "quote": "Which leaves you open to pilfering.",
+      "id": "S04E01-053"
+    },
+    {
+      "chunk": "a blind spot",
+      "meaning": "看不到的区域／监控死角，亦可比喻认知盲区",
+      "start_cue": 313,
+      "end_cue": 313,
+      "start_time": "00:41:52,761",
+      "end_time": "00:41:57,432",
+      "quote": "Surveillance camera blind spots on the north and the east side of the floor.",
+      "id": "S04E01-054"
+    },
+    {
+      "chunk": "You'd best do sth.",
+      "meaning": "你最好……；较直接的劝告／警告",
+      "start_cue": 322,
+      "end_cue": 322,
+      "start_time": "00:42:23,250",
+      "end_time": "00:42:25,669",
+      "quote": "Maybe you'd best call corporate.",
+      "id": "S04E01-055"
+    },
+    {
+      "chunk": "a hell of a …",
+      "meaning": "非常出色的……；随意、轻度粗俗的强调",
+      "start_cue": 327,
+      "end_cue": 327,
+      "start_time": "00:42:56,742",
+      "end_time": "00:42:58,368",
+      "quote": "He was a hell of a lawyer.",
+      "id": "S04E01-056"
+    },
+    {
+      "chunk": "I'm sorry for your loss.",
+      "meaning": "节哀；向丧亲者表达慰问",
+      "start_cue": 332,
+      "end_cue": 332,
+      "start_time": "00:43:12,090",
+      "end_time": "00:43:14,760",
+      "quote": "- Brian: I'm sorry for your loss. - Thanks, Brian.",
+      "id": "S04E01-057"
+    },
+    {
+      "chunk": "owe sb. the truth",
+      "meaning": "有义务把真相告诉某人",
+      "start_cue": 336,
+      "end_cue": 336,
+      "start_time": "00:44:28,583",
+      "end_time": "00:44:31,920",
+      "quote": "I think I owe you the truth about Chuck.",
+      "id": "S04E01-058"
+    },
+    {
+      "chunk": "push sb. out",
+      "meaning": "把某人排挤／逼出组织",
+      "start_cue": 346,
+      "end_cue": 346,
+      "start_time": "00:45:21,386",
+      "end_time": "00:45:23,305",
+      "quote": "And I pushed him out.",
+      "id": "S04E01-059"
+    },
+    {
+      "chunk": "The fact is, …",
+      "meaning": "事实是……；纠正／强调事实",
+      "start_cue": 351,
+      "end_cue": 351,
+      "start_time": "00:45:33,523",
+      "end_time": "00:45:36,526",
+      "quote": "The fact is, he started getting better after that.",
+      "id": "S04E01-060"
+    },
+    {
+      "chunk": "take an interest in sth.",
+      "meaning": "对某事产生／表现出兴趣",
+      "start_cue": 352,
+      "end_cue": 352,
+      "start_time": "00:45:37,527",
+      "end_time": "00:45:41,781",
+      "quote": "He took more of an interest in the firm. He came to work. We left the lights on.",
+      "id": "S04E01-061"
+    },
+    {
+      "chunk": "get sb.'s back up",
+      "meaning": "被激怒而变得强硬、起防御心",
+      "start_cue": 359,
+      "end_cue": 359,
+      "start_time": "00:46:03,219",
+      "end_time": "00:46:05,347",
+      "quote": "I got my back up.",
+      "id": "S04E01-062",
+      "original_chunk": "get one's back up"
+    },
+    {
+      "chunk": "go ballistic",
+      "meaning": "勃然大怒／暴跳如雷；口语",
+      "start_cue": 363,
+      "end_cue": 363,
+      "start_time": "00:46:14,773",
+      "end_time": "00:46:18,234",
+      "quote": "Chuck went ballistic. He wanted to go to war.",
+      "id": "S04E01-063"
+    },
+    {
+      "chunk": "draw a line",
+      "meaning": "划定不可再让步的界限",
+      "start_cue": 364,
+      "end_cue": 364,
+      "start_time": "00:46:18,401",
+      "end_time": "00:46:20,153",
+      "quote": "I drew a line.",
+      "id": "S04E01-064"
+    },
+    {
+      "chunk": "back down",
+      "meaning": "退让／放弃强硬立场",
+      "start_cue": 365,
+      "end_cue": 365,
+      "start_time": "00:46:20,320",
+      "end_time": "00:46:22,322",
+      "quote": "He wouldn't back down.",
+      "id": "S04E01-065"
+    },
+    {
+      "chunk": "It never occurred to me that …",
+      "meaning": "我从未想到……",
+      "start_cue": 367,
+      "end_cue": 367,
+      "start_time": "00:46:29,621",
+      "end_time": "00:46:32,457",
+      "quote": "It never occurred to me that I could hurt him.",
+      "id": "S04E01-066"
+    },
+    {
+      "chunk": "sb.'s cross to bear",
+      "meaning": "某人必须承受的重担／苦楚；此处冷漠地让对方承担内疚",
+      "start_cue": 371,
+      "end_cue": 371,
+      "start_time": "00:46:50,225",
+      "end_time": "00:46:53,269",
+      "quote": "Well, Howard, I guess that's your cross to bear.",
+      "id": "S04E01-067"
+    },
+    {
+      "chunk": "Look at sb. go.",
+      "meaning": "瞧某人干得多起劲／多快；称叹动作",
+      "start_cue": 372,
+      "end_cue": 372,
+      "start_time": "00:47:12,831",
+      "end_time": "00:47:14,708",
+      "quote": "Look at her go.",
+      "id": "S04E01-068"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "under the circumstances",
+      "meaning": "在这种情况下；按眼下情形判断",
+      "start_cue": 27,
+      "end_cue": 27,
+      "start_time": "00:02:42,079",
+      "end_time": "00:02:44,290",
+      "quote": "But that's understandable under the circumstances.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "under the circumstances"
+    },
+    {
+      "chunk": "run sth. by sb.",
+      "meaning": "把想法／稿件给某人过目、听取意见",
+      "start_cue": 151,
+      "end_cue": 151,
+      "start_time": "00:21:27,454",
+      "end_time": "00:21:31,332",
+      "quote": "But I'd really like to run it by you if that's okay.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "run sth. by sb."
+    },
+    {
+      "chunk": "cross a line",
+      "meaning": "越界／违反不可逾越的规矩",
+      "start_cue": 216,
+      "end_cue": 216,
+      "start_time": "00:29:49,580",
+      "end_time": "00:29:50,998",
+      "quote": "Anyone crosses a line...",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "cross a line"
+    },
+    {
+      "chunk": "That's all there is to it.",
+      "meaning": "就这么简单／全部步骤就是这些",
+      "start_cue": 243,
+      "end_cue": 243,
+      "start_time": "00:33:45,649",
+      "end_time": "00:33:47,818",
+      "quote": "- That's all there is to it. - Okay.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "That's all there is to it."
+    },
+    {
+      "chunk": "with all due respect",
+      "meaning": "恕我直言；礼貌开头，后面常接异议",
+      "start_cue": 320,
+      "end_cue": 320,
+      "start_time": "00:42:17,077",
+      "end_time": "00:42:20,497",
+      "quote": "Well, all due respect, I don't know anything about a security consultant.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "with all due respect"
+    },
+    {
+      "chunk": "make one's mark",
+      "meaning": "做出成绩、留下影响",
+      "start_cue": 173,
+      "end_cue": 173,
+      "start_time": "00:22:48,326",
+      "end_time": "00:22:51,538",
+      "quote": "Charles made his Mark in many areas of the law.",
+      "id": "S04E01-025",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "make sb.'s mark",
+      "matched_source": "references/chunks/better-call-saul-s01e07-selection.json"
+    },
+    {
+      "chunk": "not to mention …",
+      "meaning": "更不用说……；补充另一项",
+      "start_cue": 315,
+      "end_cue": 315,
+      "start_time": "00:42:01,812",
+      "end_time": "00:42:06,400",
+      "quote": "Not to mention loading equipment driven at unsafe speeds...",
+      "id": "S04E01-056",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "Not to mention…",
+      "matched_source": "references/chunks/better-call-saul-s01e04-selection.json"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "second_pass_ranges": [
+    [
+      1,
+      373
+    ]
+  ],
+  "validation": {
+    "source_hash_matches": true,
+    "cue_sequence_contiguous": true,
+    "quotes_exact_after_html_and_whitespace_normalization": true,
+    "timecodes_match": true,
+    "audio_verified": false
+  },
+  "selection_notes": "首遍与回看由LLM按编号读字幕发现候选；工具只负责解析、引用回收、同形提示和校验。基础词形不作为自动已掌握排除依据。歌词片段未作为对话高频证据；仅保留可明确迁移项。跨季语义近重复待root最终复核。",
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

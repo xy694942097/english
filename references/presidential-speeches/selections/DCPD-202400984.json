@@ -1,0 +1,327 @@
+{
+  "source_id": "DCPD-202400984",
+  "html_source": "materials/corpus/presidential-speeches/govinfo/DCPD-202400984.htm",
+  "source_sha256": "574e6aeb27a7be42e17ba3163ba56e25e9af4673d884f36c4803325bdea50f6b",
+  "paragraphs_read": 27,
+  "read_ranges": [
+    [
+      1,
+      27
+    ]
+  ],
+  "first_pass": {
+    "method": "依read_rows段号逐段阅读全文，分别扫描外层表达动作和内部词块；人工列候选，不使用预设regex发现。",
+    "items": 28
+  },
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        27
+      ]
+    ],
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "added": 5
+  },
+  "items": [
+    {
+      "paragraph": 1,
+      "chunk": "Good to see sb. together",
+      "meaning": "很高兴看到大家聚在一起",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "见面与团体开场；不是认定用户已掌握的基础问候。",
+      "quote": "Thank you. Good to see this Cabinet and staff together here."
+    },
+    {
+      "paragraph": 4,
+      "chunk": "carry on sth.",
+      "meaning": "继续开展某项活动",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "For over 200 years, America has carried on the greatest experiment in self-government in the history of the world—and that's not hyperbole, that's a fact—where the people—the people—vote and choose their own leaders, and they do it peacefully; and where, in a democracy, the will of the people always prevails."
+    },
+    {
+      "paragraph": 5,
+      "chunk": "assure sb. that 从句",
+      "meaning": "向某人保证……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Yesterday I spoke with President-elect Trump to congratulate him on his victory. And I assured him that I would direct my entire administration to work with his team to ensure a peaceful and orderly transition. That's what the American people deserve."
+    },
+    {
+      "paragraph": 5,
+      "chunk": "work with sb. to do sth.",
+      "meaning": "与某人合作来完成……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And I assured him that I would direct my entire administration to work with his team to ensure a peaceful and orderly transition."
+    },
+    {
+      "paragraph": 7,
+      "chunk": "early on",
+      "meaning": "在早期；一开始",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "She ran an inspiring campaign, and everyone got to see something that I learned early on to respect so much: her character. She has a backbone like a ramrod. She has great character, true character. She gave her whole heart and effort, and she and her entire team should be proud of the campaign they ran."
+    },
+    {
+      "paragraph": 8,
+      "chunk": "to state the obvious",
+      "meaning": "说一句显而易见的话",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "话语套语；点明明摆着的事实，有时带强调或讽刺。",
+      "quote": "I know, for some people, it's a time for victory, to state the obvious."
+    },
+    {
+      "paragraph": 9,
+      "chunk": "You can't do sth. only when 从句",
+      "meaning": "不能仅在某种条件满足时才做……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "外层立场骨架；不可因此前教材已出现而删去。",
+      "quote": "I've said many times you can't love your country only when you win."
+    },
+    {
+      "paragraph": 9,
+      "chunk": "no matter who 从句",
+      "meaning": "不论是谁……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Something I hope we can do no matter who you voted for is see each other not as adversaries, but as fellow Americans, bring down the temperature."
+    },
+    {
+      "paragraph": 9,
+      "chunk": "see sb. not as A, but as B",
+      "meaning": "将某人看成B而非A",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "重新界定看待对象的方式；不是任意名词串。",
+      "quote": "Campaigns are contests of competing visions. The country chooses one or the other. And we accept the choice the country made. I've said many times you can't love your country only when you win. You can't love your neighbor only when you agree. Something I hope we can do no matter who you voted for is see each other not as adversaries, but as fellow Americans, bring down the temperature."
+    },
+    {
+      "chunk": "bring down the temperature",
+      "category": "习语与固定表达",
+      "meaning": "缓和紧张局面；给争论降温",
+      "register": "口语；原素材为公开演讲",
+      "note": "这里的 temperature 是冲突强度，不是实际温度；说话时还需把前面的口语长句整理清楚。",
+      "paragraph": 9,
+      "quote": "bring down the temperature."
+    },
+    {
+      "chunk": "lay sth. to rest",
+      "category": "习语与固定表达",
+      "meaning": "消除疑虑、结束争论，使某个问题不再反复被提起",
+      "register": "中性偏正式",
+      "note": "不等于每一种 solve；常配 doubts、fears、rumors、questions。原句用 lay to rest the question，宾语较长所以后置。",
+      "paragraph": 10,
+      "quote": "I also hope we can lay to rest the question about the integrity of the American electoral system."
+    },
+    {
+      "chunk": "win or lose",
+      "category": "话语套语",
+      "meaning": "不论输赢；输赢都一样适用",
+      "register": "日常／口语与书面",
+      "note": "可放句首或句尾补充条件；不是句式骨架 only when 的同义替换，而是把相反条件都纳入。",
+      "paragraph": 10,
+      "quote": "And it can be trusted, win or lose."
+    },
+    {
+      "paragraph": 11,
+      "chunk": "take risks",
+      "meaning": "冒风险",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I also hope we can restore the respect for all our election workers, who busted their necks and took risks at the outset. We should thank them, thank them for staffing voting sites, counting the votes, protecting the very integrity of the election. Many of them are volunteers who do it simply out of love for their country."
+    },
+    {
+      "paragraph": 11,
+      "chunk": "at the outset",
+      "meaning": "在开始时",
+      "register": "正式／演讲",
+      "note": "较正式的时间套语。",
+      "quote": "I also hope we can restore the respect for all our election workers, who busted their necks and took risks at the outset."
+    },
+    {
+      "paragraph": 11,
+      "chunk": "out of love for sb./sth.",
+      "meaning": "出于对……的爱",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "动机结构，不是空间方向。",
+      "quote": "Many of them are volunteers who do it simply out of love for their country."
+    },
+    {
+      "paragraph": 12,
+      "chunk": "do one's duty",
+      "meaning": "尽自己的职责",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And as they did their duty as citizens, I will do my duty as President. I will fulfill my oath, and I will honor the Constitution. On January 20, we'll have a peaceful transfer of power here in America."
+    },
+    {
+      "paragraph": 13,
+      "chunk": "hang out with sb.",
+      "meaning": "和某人待在一起、相处",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语；此处幽默地称与自己共事。",
+      "quote": "To all our incredible staff, supporters, Cabinet members, all the people who have been hanging out with me for the last 4 years—[laughter]—\"God love you,\" as my mother would say—thank you so much."
+    },
+    {
+      "paragraph": 14,
+      "chunk": "put so much into sth.",
+      "meaning": "为某事投入很多精力",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "You put so much into the past 4 years."
+    },
+    {
+      "paragraph": 14,
+      "chunk": "I hear you",
+      "meaning": "我听到了你的感受／我理解你",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "此处为认可痛苦；不自动表示同意对方观点。",
+      "quote": "You're hurting. I hear you, and I see you."
+    },
+    {
+      "paragraph": 16,
+      "chunk": "kick in",
+      "meaning": "开始发挥作用",
+      "register": "口语；原素材为公开演讲",
+      "note": "此处法律效果开始显现，口语。",
+      "quote": "Much of the work we've done is already being felt by the American people. But the vast majority of it will not be felt—be felt over the next 10 years. We have a—we have legislation we passed that's just—only now just really kicking in."
+    },
+    {
+      "paragraph": 17,
+      "chunk": "It takes time to do sth.",
+      "meaning": "做某事需要时间",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We're going to see over a trillion dollars' worth of infrastructure work done, changing people's lives in rural communities and communities that are in real difficulty, because it takes time to get it done, and so much more that's going to take time."
+    },
+    {
+      "paragraph": 18,
+      "chunk": "assuming 从句",
+      "meaning": "假设……；在……前提下",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "限定判断成立的条件。",
+      "quote": "The road ahead is clear, assuming we sustain it. There's so much—so much—we can get done and will get done based the way the legislation was passed. And it's truly historic."
+    },
+    {
+      "paragraph": 19,
+      "chunk": "change sth. for the better",
+      "meaning": "使某事向好的方向改变",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Together, we've changed America for the better."
+    },
+    {
+      "chunk": "make every day/moment count",
+      "category": "句式骨架",
+      "meaning": "让每一天／每一刻都有价值；充分利用时间",
+      "register": "日常与鼓励性表达",
+      "note": "count 在此是有价值、产生作用，不是计数；不是 every 后可随意装任何名词的万能结构。",
+      "paragraph": 20,
+      "quote": "Let's make every day count."
+    },
+    {
+      "paragraph": 21,
+      "chunk": "get knocked down / get back up",
+      "meaning": "受挫后重新振作",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原文为比喻用法；也可字面指跌倒与起身。",
+      "quote": "Look, folks, you all know it in your lives: Setbacks are unavoidable, but giving up is unforgivable. Setbacks are unavoidable, but giving up is unforgivable. We all get knocked down, but the measure of our character, as my dad would say, is how quickly we get back up."
+    },
+    {
+      "paragraph": 21,
+      "chunk": "the measure of sth. is how 从句",
+      "meaning": "衡量……的标准是如何……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "评判标准骨架，原句含插入语。",
+      "quote": "We all get knocked down, but the measure of our character, as my dad would say, is how quickly we get back up."
+    },
+    {
+      "paragraph": 22,
+      "chunk": "A defeat does not mean ...",
+      "meaning": "一次失败并不意味着……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "区分一次结果与持续状态；结构候选，非整句政治口号。",
+      "quote": "Remember, a defeat does not mean we are defeated."
+    },
+    {
+      "paragraph": 23,
+      "chunk": "and counting",
+      "meaning": "而且数字还在增加",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "放在数字后说明仍在累积。",
+      "quote": "That's the story of America for over 240 years and counting."
+    },
+    {
+      "paragraph": 24,
+      "chunk": "stay engaged",
+      "meaning": "保持投入、持续参与",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "The American experiment endures, and we're going to be okay, but we need to stay engaged."
+    },
+    {
+      "paragraph": 25,
+      "chunk": "above all",
+      "meaning": "最重要的是",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And above all, we need to keep the faith."
+    },
+    {
+      "paragraph": 25,
+      "chunk": "keep going",
+      "meaning": "继续坚持下去",
+      "register": "中性／口语、工作；原素材为演讲",
+      "note": "第二遍补充：内部动词词块／义务表达骨架。",
+      "quote": "We need to keep going."
+    },
+    {
+      "chunk": "keep the faith",
+      "category": "习语与固定表达",
+      "meaning": "保持信心，别因受挫而放弃相信",
+      "register": "鼓励／略带演讲色彩",
+      "note": "faith 在此可指信心，不必指宗教；日常更直白可说 don't lose hope。",
+      "paragraph": 25,
+      "quote": "And above all, we need to keep the faith."
+    },
+    {
+      "paragraph": 26,
+      "chunk": "I really mean it",
+      "meaning": "我是认真的／我是真心这么说的",
+      "register": "口语；原素材为公开演讲",
+      "note": "口语确认真诚。",
+      "quote": "I'm so proud to have worked with all of you. I really mean it."
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [
+    {
+      "paragraph": 11,
+      "text": "busted their necks",
+      "reason": "拼命干；口语词组待核，疑似bust their neck变体，先不作标准模板"
+    }
+  ],
+  "vocabulary_candidates": [
+    {
+      "paragraph": 4,
+      "word": "hyperbole",
+      "meaning": "夸张",
+      "quote": "For over 200 years, America has carried on the greatest experiment in self-government in the history of the world—and that's not hyperbole, that's a fact—where the people—the people—vote and choose their own leaders, and they do it peacefully; and where, in a democracy, the will of the people always prevails."
+    },
+    {
+      "paragraph": 7,
+      "word": "ramrod",
+      "meaning": "挺直坚硬的杆；比喻坚强脊梁",
+      "quote": "She ran an inspiring campaign, and everyone got to see something that I learned early on to respect so much: her character. She has a backbone like a ramrod. She has great character, true character. She gave her whole heart and effort, and she and her entire team should be proud of the campaign they ran."
+    },
+    {
+      "paragraph": 11,
+      "word": "busted their necks",
+      "meaning": "拼命干；口语词组待核，疑似bust their neck变体，先不作标准模板",
+      "quote": "I also hope we can restore the respect for all our election workers, who busted their necks and took risks at the outset. We should thank them, thank them for staffing voting sites, counting the votes, protecting the very integrity of the election. Many of them are volunteers who do it simply out of love for their country."
+    }
+  ],
+  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。"
+}

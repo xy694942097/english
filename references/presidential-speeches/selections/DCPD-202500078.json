@@ -1,0 +1,497 @@
+{
+  "source_id": "DCPD-202500078",
+  "html_source": "materials/corpus/presidential-speeches/govinfo/DCPD-202500078.htm",
+  "source_sha256": "d6aaddd7fbd866f46998e62c06e5f0211b00cb3d00b904c50a730109467e65f1",
+  "paragraphs_read": 66,
+  "read_ranges": [
+    [
+      1,
+      66
+    ]
+  ],
+  "first_pass": {
+    "method": "依read_rows段号逐段阅读全文，分别扫描外层表达动作和内部词块；人工列候选，不使用预设regex发现。",
+    "items": 46
+  },
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        66
+      ]
+    ],
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "added": 5
+  },
+  "items": [
+    {
+      "paragraph": 2,
+      "chunk": "lay out sth. in great detail",
+      "meaning": "非常详细地说明……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "After 8 months of nonstop negotiation, my administration—by my administration, a cease-fire and a hostage deal has been reached by Israel and Hamas, the elements of which I laid out in great detail in May of this year."
+    },
+    {
+      "paragraph": 3,
+      "chunk": "keep sb. fully informed",
+      "meaning": "让某人充分了解进展",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "That's why I told my team to keep the incoming administration fully informed, because that's how it should be: working together as Americans."
+    },
+    {
+      "paragraph": 4,
+      "chunk": "I've been thinking a lot about sth.",
+      "meaning": "我最近一直在认真考虑某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "现在完成进行时组织近期思考的说明。",
+      "quote": "And I've been thinking a lot about who we are and, maybe more importantly, who we should be."
+    },
+    {
+      "paragraph": 5,
+      "chunk": "day after day",
+      "meaning": "日复一日",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Long ago, in New York Harbor, an ironworker installed beam after beam, day after day."
+    },
+    {
+      "paragraph": 7,
+      "chunk": "stand the test of time",
+      "meaning": "经得起时间的考验",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "She was built to sway back and forth to withstand the fury of stormy weather, to stand the test of time, because storms are always coming."
+    },
+    {
+      "paragraph": 7,
+      "chunk": "back and forth",
+      "meaning": "来回地",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "此处实体摇摆，不是观点反复。",
+      "quote": "She was built to sway back and forth to withstand the fury of stormy weather, to stand the test of time, because storms are always coming."
+    },
+    {
+      "paragraph": 8,
+      "chunk": "through good times and tough times",
+      "meaning": "无论顺境还是艰难时期",
+      "register": "正式／演讲",
+      "note": "开放搭配框架；演讲强调持续性。",
+      "quote": "And yet, through good times and tough times, we've withstood it all."
+    },
+    {
+      "paragraph": 10,
+      "chunk": "stand up to sb./sth.",
+      "meaning": "顶住、反抗某人或某种压力",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "与stand up for维护对象不同。",
+      "quote": "Ongoing debates about power and the exercise of power, about whether we lead by the example of our power or the power of our example, whether we show the courage to stand up to the abuse of power or we yield to it."
+    },
+    {
+      "paragraph": 12,
+      "chunk": "It may not be perfect, but 从句",
+      "meaning": "它也许不完美，但……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "承认限制后保留主要评价。",
+      "quote": "Our system of separation of powers, checks and balances, it may not be perfect, but it's maintained our democracy for nearly 250 years, longer than any other nation in history that's ever tried such a bold experiment."
+    },
+    {
+      "paragraph": 13,
+      "chunk": "keep one's commitment to do sth.",
+      "meaning": "履行做某事的承诺",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And every day, I've kept my commitment to be President for all Americans through one of the toughest periods in our Nation's history."
+    },
+    {
+      "paragraph": 15,
+      "chunk": "It's been the honor of my life to do sth.",
+      "meaning": "做……是我一生的荣幸",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "郑重感谢；日常可缩小程度，不能把全部当高频寒暄。",
+      "quote": "It's been the honor of my life to see the resilience of essential workers getting us through a once-in-a-century pandemic, the heroism of servicemembers and first responders keeping us safe, the determination of advocates standing up for our rights and our freedoms."
+    },
+    {
+      "paragraph": 20,
+      "chunk": "bring sth. to a low",
+      "meaning": "使某项指标降至低点",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句a 50-year low；常用数据说明搭配。",
+      "quote": "And finally doing something to protect our children and our families by passing the most significant gun safety law in 30 years and bringing violent crime to a 50-year low."
+    },
+    {
+      "paragraph": 21,
+      "chunk": "be exposed to sth.",
+      "meaning": "接触／暴露于某物",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "此处为有毒物质，不是公开披露。",
+      "quote": "Meeting our sacred obligation to over 1 million veterans so far who were exposed to toxic materials and to their families—providing medical care and education benefits and more for their families."
+    },
+    {
+      "paragraph": 22,
+      "chunk": "It will take time to do sth.",
+      "meaning": "要做到……还需要时间",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "You know, it will take time to feel the full impact of all we've done together."
+    },
+    {
+      "paragraph": 22,
+      "chunk": "for decades to come",
+      "meaning": "在未来几十年里",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "未来持续时间；不是过去几十年。",
+      "quote": "But the seeds are planted, and they'll grow, and they'll bloom for decades to come."
+    },
+    {
+      "paragraph": 24,
+      "chunk": "pull ahead of sb.",
+      "meaning": "领先、超过某人",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "竞争中的位置变化。",
+      "quote": "And overseas, we've strengthened NATO. Ukraine is still free. And we've pulled ahead of our competition with China. And so much more."
+    },
+    {
+      "paragraph": 25,
+      "chunk": "wish sb. success",
+      "meaning": "祝某人成功",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "I'm so proud of how much we've accomplished together for the American people. And I wish the incoming administration success, because I want America to succeed."
+    },
+    {
+      "paragraph": 26,
+      "chunk": "I have no doubt that 从句",
+      "meaning": "我毫不怀疑……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "表达确信，不是弱推测。",
+      "quote": "That's why I've upheld my duty to ensure a peaceful and orderly transition of power to ensure we lead by the power of our example. I have no doubt that America is in a position to continue to succeed."
+    },
+    {
+      "paragraph": 26,
+      "chunk": "be in a position to do sth.",
+      "meaning": "处于有条件做某事的位置",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "That's why I've upheld my duty to ensure a peaceful and orderly transition of power to ensure we lead by the power of our example. I have no doubt that America is in a position to continue to succeed."
+    },
+    {
+      "paragraph": 27,
+      "chunk": "leave sth. unchecked",
+      "meaning": "任由某事发展而不加约束",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "通常用于令人担忧的趋势。",
+      "quote": "And this is the dangerous concern—and that's the dangerous concentration of power in the hands of very few ultrawealthy people, and the dangerous consequences if their abuse of power is left unchecked."
+    },
+    {
+      "paragraph": 28,
+      "chunk": "take shape",
+      "meaning": "逐渐形成",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead."
+    },
+    {
+      "paragraph": 28,
+      "chunk": "have a fair shot at sth.",
+      "meaning": "有公平的机会争取……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原文fair shot后接for everyone；骨架为可迁移候选。",
+      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead."
+    },
+    {
+      "paragraph": 28,
+      "chunk": "get ahead",
+      "meaning": "取得进步／改善处境",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead."
+    },
+    {
+      "paragraph": 30,
+      "chunk": "play by the rules",
+      "meaning": "按规则行事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原文口误pay the by—play保留，不收口误为模板。",
+      "quote": "They just made the wealthy pay the by—play by the rules everybody else had to."
+    },
+    {
+      "paragraph": 30,
+      "chunk": "earn one's fair share",
+      "meaning": "获得自己应得的份额",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Workers won rights to earn their fair share."
+    },
+    {
+      "paragraph": 33,
+      "chunk": "be at stake",
+      "meaning": "处于利害攸关之中；可能失去",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "So much is at stake. Right now the existential threat of climate change has never been clearer. Just look across the country, from California to North Carolina."
+    },
+    {
+      "paragraph": 35,
+      "chunk": "We don't have to choose between A and B",
+      "meaning": "我们不必在A与B之间二选一",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "澄清两者并非不可兼得。",
+      "quote": "You know, we've proven we don't have to choose between protecting the environment and growing the economy."
+    },
+    {
+      "paragraph": 36,
+      "chunk": "be bullied into doing sth.",
+      "meaning": "被胁迫去做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We must not be bullied into sacrificing the future, the future of our children and our grandchildren."
+    },
+    {
+      "paragraph": 36,
+      "chunk": "There is no time to waste",
+      "meaning": "没有时间可浪费",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "催促行动的套语。",
+      "quote": "We must keep pushing forward and push faster. There is no time to waste."
+    },
+    {
+      "paragraph": 38,
+      "chunk": "pose a danger to sb./sth.",
+      "meaning": "对……构成危险",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "You know, his farewell address, President Eisenhower spoke of the dangers of the military- industrial complex. He warned us then about, and I quote, \"the potential for the disastrous rise of misplaced power,\" end of quote. Six days—six decades later, I'm equally concerned about the potential rise of a tech-industrial complex that could pose real dangers for our country as well."
+    },
+    {
+      "paragraph": 39,
+      "chunk": "give up on sth.",
+      "meaning": "不再尝试／放弃某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Americans are being buried under an avalanche of misinformation and disinformation enabling the abuse of power. The free press is crumbling. Editors are disappearing. Social media is giving up on fact-checking. The truth is smothered by lies told for power and for profit."
+    },
+    {
+      "paragraph": 40,
+      "chunk": "hold sb. accountable",
+      "meaning": "要求某人为其行为负责",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We must hold the social platforms accountable to protect our children, our families, and our very democracy from the abuse of power."
+    },
+    {
+      "paragraph": 41,
+      "chunk": "of our time / of all time",
+      "meaning": "我们这个时代的／有史以来的",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "比较时间范围不同。",
+      "quote": "Meanwhile, artificial intelligence is the most consequential technology of our time, perhaps of all time. Nothing offers more profound possibilities and risks for our economy and our security, our society, it's our very—for humanity."
+    },
+    {
+      "paragraph": 42,
+      "chunk": "have the potential to do sth.",
+      "meaning": "有潜力／可能做到……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Artificial intelligence even has the potential to help us answer my call to end cancer as we know it. But unless safeguards are in place, AI could spawn new threats to our rights, our way of life, to our privacy, how we work, and how we protect our Nation."
+    },
+    {
+      "paragraph": 42,
+      "chunk": "be in place",
+      "meaning": "安排、措施已到位",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Artificial intelligence even has the potential to help us answer my call to end cancer as we know it. But unless safeguards are in place, AI could spawn new threats to our rights, our way of life, to our privacy, how we work, and how we protect our Nation."
+    },
+    {
+      "paragraph": 43,
+      "chunk": "more important than ever",
+      "meaning": "比以往任何时候都更重要",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "In the age of AI, it's more important than ever that the people must govern."
+    },
+    {
+      "paragraph": 48,
+      "chunk": "ban sb. from doing sth.",
+      "meaning": "禁止某人做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We need to ban Members of Congress from trading stock while they're in the Congress."
+    },
+    {
+      "paragraph": 49,
+      "chunk": "be immune from sth.",
+      "meaning": "免于……；不受……约束",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句为犯罪法律责任；非医学免疫。",
+      "quote": "We need to amend the Constitution to make clear that no President—no President—is immune from crimes that he or she commits while in office. The President's power is not limited—it's not absolute, and it shouldn't be."
+    },
+    {
+      "paragraph": 50,
+      "chunk": "feel like 从句",
+      "meaning": "感觉／觉得……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "原句people don't feel like they have，非feel like doing想做。",
+      "quote": "Participating in our democracy becomes exhausting and even disillusioning, and people don't feel like they have a fair shot."
+    },
+    {
+      "paragraph": 52,
+      "chunk": "be entitled to sth.",
+      "meaning": "有权获得……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "A fair shot is what makes America, America. Everyone is entitled to a fair shot—not a guarantee, but just a fair shot, an even playing field—going as far as your hard work and talent can take you. We can never lose that essential truth—remain who we are."
+    },
+    {
+      "paragraph": 52,
+      "chunk": "an even playing field",
+      "meaning": "公平的竞争环境",
+      "register": "正式／演讲",
+      "note": "常见level playing field的本句变体；待跨语料核验后正式教学。",
+      "quote": "Everyone is entitled to a fair shot—not a guarantee, but just a fair shot, an even playing field—going as far as your hard work and talent can take you."
+    },
+    {
+      "paragraph": 53,
+      "chunk": "from modest beginnings",
+      "meaning": "从普通／并不优越的起点出发",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "叙事，不等于贫困。",
+      "quote": "Only in America do we believe anything is possible, like a kid with a stutter from modest beginnings in Scranton, Pennsylvania, and Claymont, Delaware, sitting behind the—this desk in the Oval Office as President of the United States."
+    },
+    {
+      "paragraph": 55,
+      "chunk": "remind sb. of sth.",
+      "meaning": "使某人想起……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Upstairs in the Residence of the White House, I've walked by a painting of the Statue of Liberty I don't know how many times. In the painting, there are several workers climbing on the outstretched arm of the statue that holds the torch. It reminds me every day I pass it of the story and soul of our Nation and the power of the American people."
+    },
+    {
+      "paragraph": 56,
+      "chunk": "be known as sth.",
+      "meaning": "被称为……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "不同于known for因某特点出名。",
+      "quote": "There's a story of a veteran—this is—a veteran, a son of an immigrant, whose job it was to climb that torch and polish the amber panes so rays of light could reach out as far as possible. He was known as the \"keeper of the flame.\""
+    },
+    {
+      "paragraph": 59,
+      "chunk": "closer than we think",
+      "meaning": "比我们想象的更近",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "可用于接近目标的评价。",
+      "quote": "But what I believe is the America of our dreams is always closer than we think."
+    },
+    {
+      "paragraph": 59,
+      "chunk": "It's up to sb. to do sth.",
+      "meaning": "由某人负责／取决于某人去做……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And it's up to us to make our dreams come true."
+    },
+    {
+      "paragraph": 60,
+      "chunk": "Let me close by doing sth.",
+      "meaning": "让我以……结束",
+      "register": "正式／演讲",
+      "note": "正式讲话结束语。",
+      "quote": "Let me close by stating my gratitude to so many people."
+    },
+    {
+      "paragraph": 60,
+      "chunk": "step up to do sth.",
+      "meaning": "主动承担并去做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Let me close by stating my gratitude to so many people. To the members of my administration, as well as public service and first responders across the country and around the world, thank you for stepping up to serve."
+    },
+    {
+      "paragraph": 62,
+      "chunk": "become like family",
+      "meaning": "变得像家人一样",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "She and Doug have become like family."
+    },
+    {
+      "paragraph": 63,
+      "chunk": "the love of one's life",
+      "meaning": "一生挚爱",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "只引用正常词块；后续lifes of my love为口误，不作模板。",
+      "quote": "You are the love of my life and lifes of my love."
+    },
+    {
+      "paragraph": 65,
+      "chunk": "stand guard",
+      "meaning": "守卫、保持警戒",
+      "register": "正式／演讲",
+      "note": "演讲中作守护价值的比喻。",
+      "quote": "Now it's your turn to stand guard."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 32,
+      "text": "play by the same rules",
+      "reason": "与P30 play by the rules同义"
+    },
+    {
+      "paragraph": 58,
+      "text": "stand the test of time",
+      "reason": "与P7同形同义"
+    },
+    {
+      "paragraph": 58,
+      "text": "back and forth",
+      "reason": "与P7同形同义"
+    },
+    {
+      "paragraph": 51,
+      "text": "stay engaged",
+      "reason": "与202400984 P24同义"
+    },
+    {
+      "paragraph": 65,
+      "text": "keep the faith",
+      "reason": "保留202400984旧条目"
+    },
+    {
+      "paragraph": 64,
+      "text": "give you my word",
+      "reason": "保留202100048 P44代表"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [
+    {
+      "paragraph": 28,
+      "word": "oligarchy",
+      "meaning": "寡头统治",
+      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead."
+    },
+    {
+      "paragraph": 29,
+      "word": "robber barons",
+      "meaning": "历史上被批为掠夺性资本家的群体",
+      "quote": "We see the consequences all across America. And we've seen it before, more than a century ago. But the American people stood up to the robber barons back then and busted the trusts."
+    },
+    {
+      "paragraph": 39,
+      "word": "smothered",
+      "meaning": "被压制、窒息",
+      "quote": "Americans are being buried under an avalanche of misinformation and disinformation enabling the abuse of power. The free press is crumbling. Editors are disappearing. Social media is giving up on fact-checking. The truth is smothered by lies told for power and for profit."
+    },
+    {
+      "paragraph": 50,
+      "word": "disillusioning",
+      "meaning": "使理想破灭的",
+      "quote": "And in a democracy, there's another danger to the concentration of power and wealth. It erodes a sense of unity and common purpose. It causes distrust and division. Participating in our democracy becomes exhausting and even disillusioning, and people don't feel like they have a fair shot."
+    }
+  ],
+  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。"
+}

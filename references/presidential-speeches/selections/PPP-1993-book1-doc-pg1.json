@@ -1,0 +1,432 @@
+{
+  "source_id": "PPP-1993-book1-doc-pg1",
+  "html_source": "materials/corpus/presidential-speeches/govinfo/PPP-1993-book1-doc-pg1.htm",
+  "source_sha256": "d1cbed2772ffd70412461d6ece1e3e75b5dda5b5eb35e7d45d1a5d9ec5ad27bc",
+  "paragraphs_read": 17,
+  "read_ranges": [
+    [
+      1,
+      17
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        17
+      ]
+    ],
+    "method": "逐项回看首遍未选句段，补充责任、决心、时间限定、能力对照和必要条件等表达；独立复核纠正George W.被错误断句。",
+    "added": 5
+  },
+  "items": [
+    {
+      "chunk": "bring forth sth.",
+      "meaning": "带来／产生某事物；较正式",
+      "register": "正式",
+      "note": "强调某种能力、想法或结果的出现，不是字面拿出。",
+      "paragraph": 1,
+      "quote": "This ceremony is held in the depth of winter, but by the words we speak and the faces we show the world, we force the spring, a spring reborn in the world's oldest democracy that brings forth the vision and courage to reinvent America.",
+      "quote_sha256": "471c8e72327e4448f126c907d5efbde55a1185df82e5a0929b70c4cdd963457a"
+    },
+    {
+      "chunk": "change for change's sake",
+      "meaning": "为了改变而改变",
+      "register": "中性",
+      "note": "for sth.'s sake 表示为了某事本身，句中否定盲目求变。",
+      "paragraph": 1,
+      "quote": "When our Founders boldly declared America's independence to the world and our purposes to the Almighty, they knew that America, to endure, would have to change; not change for change's sake but change to preserve America's ideals: life, liberty, the pursuit of happiness.",
+      "quote_sha256": "7300032ceed460ea1af768ac431fa51a6fcbde9189a07927a4df60cb12d71f5c"
+    },
+    {
+      "chunk": "on behalf of sb.",
+      "meaning": "代表某人／某个集体",
+      "register": "中性",
+      "note": "可用于代团队发言、致谢。",
+      "paragraph": 2,
+      "quote": "On behalf of our Nation, I salute my predecessor, President Bush, for his half-century of service to America.",
+      "quote_sha256": "c157dedce375adc1ee35ea9165a32a80d9c41a5e8c59cb2f71b7a88d9f6f8ccd"
+    },
+    {
+      "chunk": "triumph over sth.",
+      "meaning": "战胜困难或强大对手",
+      "register": "正式",
+      "note": "比克服更有胜利色彩。",
+      "paragraph": 2,
+      "quote": "And I thank the millions of men and women whose steadfastness and sacrifice triumphed over depression, fascism, and communism.",
+      "quote_sha256": "58a55faa8c0fb760229cde3c2397a1907c2eec30c1db65c83193c67f899a47a9"
+    },
+    {
+      "chunk": "assume responsibility (for sth.)",
+      "meaning": "承担新的责任",
+      "register": "正式",
+      "note": "assume在此是承担，不是猜测。",
+      "paragraph": 3,
+      "quote": "Today, a generation raised in the shadows of the cold war assumes new responsibilities in a world warmed by the sunshine of freedom but threatened still by ancient hatreds and new plagues.",
+      "original_chunk": "assume new responsibilities",
+      "quote_sha256": "09ca215b41a60e79a76a7e553600a604ad7ae4b4d1be01e4a684dcfc8555a0ab"
+    },
+    {
+      "chunk": "stagnant wages",
+      "meaning": "停滞不涨的工资",
+      "register": "中性",
+      "note": "经济与职场搭配。",
+      "paragraph": 3,
+      "quote": "Raised in unrivaled prosperity, we inherit an economy that is still the world's strongest but is weakened by business failures, stagnant wages, increasing inequality, and deep divisions among our own people.",
+      "quote_sha256": "96a8a72abd1d34503a034859dcbad37fdc032715fea0ef025f5ccbd20b57a7da"
+    },
+    {
+      "chunk": "deep divisions",
+      "meaning": "严重分歧／深层裂痕",
+      "register": "中性",
+      "note": "可描述团队或社会内部冲突。",
+      "paragraph": 3,
+      "quote": "Raised in unrivaled prosperity, we inherit an economy that is still the world's strongest but is weakened by business failures, stagnant wages, increasing inequality, and deep divisions among our own people.",
+      "quote_sha256": "96a8a72abd1d34503a034859dcbad37fdc032715fea0ef025f5ccbd20b57a7da"
+    },
+    {
+      "chunk": "take the oath",
+      "meaning": "宣誓／宣誓就职",
+      "register": "正式",
+      "note": "宣誓承诺履行职责，不是随意许愿。",
+      "paragraph": 4,
+      "quote": "When George Washington first took the oath I have just sworn to uphold, news traveled slowly across the land by horseback and across the ocean by boat.",
+      "quote_sha256": "48c728072445c935d031503fbeb4ef943c0d6871c5f87902a253c5d80be0ca36"
+    },
+    {
+      "chunk": "earn one's livelihood",
+      "meaning": "谋生／获得生计",
+      "register": "正式",
+      "note": "比earn a living稍郑重。",
+      "paragraph": 5,
+      "quote": "We earn our livelihood in America today in peaceful competition with people all across the Earth.",
+      "quote_sha256": "7c0751460818f2a5296212bf8cdbc143bb2c5aabbbbd341d661df63fc25bd136"
+    },
+    {
+      "chunk": "rob sb. of sth.",
+      "meaning": "剥夺某人的某种东西",
+      "register": "中性",
+      "note": "宾语可为自由、机会、时间，不限于财物。",
+      "paragraph": 5,
+      "quote": "But when most people are working harder for less; when others cannot work at all; when the cost of health care devastates families and threatens to bankrupt our enterprises, great and small; when the fear of crime robs law-abiding citizens of their freedom; and when millions of poor children cannot even imagine the lives we are calling them to lead, we have not made change our friend.",
+      "quote_sha256": "91c7004835ff25ce09c02a9dc3bc850cca39073e272a16cf912785614ec110aa"
+    },
+    {
+      "chunk": "face hard truths",
+      "meaning": "正视令人难受但真实的事实",
+      "register": "中性",
+      "note": "不能把不想听的意见自动称为事实。",
+      "paragraph": 6,
+      "quote": "We know we have to face hard truths and take strong steps, but we have not done so; instead, we have drifted.",
+      "quote_sha256": "cf564844d3701ba87e0b780718e5f515e9d5d085b4b73f66896d15fe7049686a"
+    },
+    {
+      "chunk": "shake sb.'s confidence",
+      "meaning": "动摇某人的信心",
+      "register": "中性",
+      "note": "shake在此为心理影响。",
+      "paragraph": 6,
+      "quote": "And that drifting has eroded our resources, fractured our economy, and shaken our confidence.",
+      "quote_sha256": "3d59f229e9e5ebefed68c5b67c1c599133c056880542c45bdb0a76dd6352bf5b"
+    },
+    {
+      "chunk": "from time to time",
+      "meaning": "不时／偶尔",
+      "register": "中性",
+      "note": "不表示持续不断。",
+      "paragraph": 6,
+      "quote": "Thomas Jefferson believed that to preserve the very foundations of our Nation, we would need dramatic change from time to time.",
+      "quote_sha256": "6d8c29c123cef81933b514a0721ed51f705351e3fb53c1f49f115556f25229a7"
+    },
+    {
+      "chunk": "muster the determination to do sth.",
+      "meaning": "鼓起决心做某事",
+      "register": "正式",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 6,
+      "quote": "From our Revolution to the Civil War, to the Great Depression, to the civil rights movement, our people have always mustered the determination to construct from these crises the pillars of our history.",
+      "quote_sha256": "dcb23e0a1d166b8109bacfea41ecf291a66e48c530bef4822cfa252a71387b49"
+    },
+    {
+      "chunk": "There is nothing wrong with A that cannot be cured by B.",
+      "meaning": "A的问题都可以借B来解决；强烈积极判断框架",
+      "register": "演讲",
+      "note": "是修辞性整体判断，不是一般事实保证；注意双重否定。",
+      "paragraph": 7,
+      "quote": "There is nothing wrong with America that cannot be cured by what is right with America.",
+      "quote_sha256": "46c1ce068b467dd4de54e0d3b96b2edf75e093aa670da75c47281876e967b463"
+    },
+    {
+      "chunk": "pledge an end to sth.",
+      "meaning": "承诺结束某种局面",
+      "register": "正式",
+      "note": "pledge比一般打算更郑重。",
+      "paragraph": 7,
+      "quote": "And so today we pledge an end to the era of deadlock and drift, and a new season of American renewal has begun.",
+      "quote_sha256": "8693204b58763118c83cef9bf3be94bf59b3631fcd01efcfafd0eef0fb13189c"
+    },
+    {
+      "chunk": "for its own sake",
+      "meaning": "为了某件事本身／不为其他目的",
+      "register": "中性",
+      "note": "可用于说明学习、工作或牺牲的理由；与前文change句关联但不是多收同一句。",
+      "paragraph": 8,
+      "quote": "It will require sacrifice, but it can be done and done fairly, not choosing sacrifice for its own sake but for our own sake.",
+      "quote_sha256": "2fdcf6398c468e1ad50bf84f42580330729014b939fa924014cf6c0bbd78acd8"
+    },
+    {
+      "chunk": "provide for sb.",
+      "meaning": "供养／保障某人的需要",
+      "register": "中性",
+      "note": "不是仅仅把东西提供给某人。",
+      "paragraph": 8,
+      "quote": "We must provide for our Nation the way a family provides for its children.",
+      "quote_sha256": "41826dcfebe7011db2a051b1132c608e853020ea81b7c421477d0f2d5d2a57a8"
+    },
+    {
+      "chunk": "We can do no less.",
+      "meaning": "我们至少也应该做到这样／不能做得更少",
+      "register": "正式",
+      "note": "以前面的榜样或责任作为最低标准。",
+      "paragraph": 9,
+      "quote": "We can do no less.",
+      "quote_sha256": "5dc979b39682ad16a2a4d1b1230a8fc918005ae2f23c99a8bca7b66bdcdae4d0"
+    },
+    {
+      "chunk": "break the habit of doing sth.",
+      "meaning": "改掉做某事的习惯",
+      "register": "中性",
+      "note": "后接动名词。",
+      "paragraph": 9,
+      "quote": "It is time to break the bad habit of expecting something for nothing from our Government or from each other.",
+      "quote_sha256": "3b260b1c4039b0d436363979d8a970c09563be4744ab6bbb89c593b0aea17cfe"
+    },
+    {
+      "chunk": "something for nothing",
+      "meaning": "不付出代价就得到好处",
+      "register": "中性",
+      "note": "常用来批评只想白拿、不想承担。",
+      "paragraph": 9,
+      "quote": "It is time to break the bad habit of expecting something for nothing from our Government or from each other.",
+      "quote_sha256": "3b260b1c4039b0d436363979d8a970c09563be4744ab6bbb89c593b0aea17cfe"
+    },
+    {
+      "chunk": "bear responsibility",
+      "meaning": "承担责任",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 9,
+      "quote": "Posterity is the world to come: the world for whom we hold our ideals, from whom we have borrowed our planet, and to whom we bear sacred responsibility.",
+      "quote_sha256": "fee66708586d178c92a81115cc6ae7ca52768c552404303ca1f5473933b588e0"
+    },
+    {
+      "chunk": "pay one's way",
+      "meaning": "承担自己的费用／靠自己支付开销",
+      "register": "中性",
+      "note": "原句说民众的劳动支付政府运转开销，和个人自费相关。",
+      "paragraph": 10,
+      "quote": "Powerful people maneuver for position and worry endlessly about who is in and who is out, who is up and who is down, forgetting those people whose toil and sweat sends us here and pays our way.",
+      "quote_sha256": "d0b02519ecf5339271b81d77fdb738e7e19cf094a77c24891fa76abf21bfd949"
+    },
+    {
+      "chunk": "shout down sb./sth.",
+      "meaning": "用喊声压过某人的声音／阻止其发言",
+      "register": "中性",
+      "note": "可字面指会场，也可比喻权势压制。",
+      "paragraph": 10,
+      "quote": "And so I say to all of you here: Let us resolve to reform our politics so that power and privilege no longer shout down the voice of the people.",
+      "quote_sha256": "9c83f44bca6d00cf12eeee50ca5d0ca4b0096381b74c028011f489171e898455"
+    },
+    {
+      "chunk": "put sth. aside",
+      "meaning": "暂时放下个人利益",
+      "register": "正式",
+      "note": "强调为共同目标不先顾私利。",
+      "paragraph": 10,
+      "quote": "Let us put aside personal advantage so that we can feel the pain and see the promise of America.",
+      "original_chunk": "put aside personal advantage",
+      "quote_sha256": "3fe30a8591b3f0d3e69187e6c6b234fb6a596473075998b6169e4d502ee6c99c"
+    },
+    {
+      "chunk": "since the dawn of sth.",
+      "meaning": "自某事出现／开始以来",
+      "register": "正式",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 10,
+      "quote": "This beautiful Capital, like every capital since the dawn of civilization, is often a place of intrigue and calculation.",
+      "quote_sha256": "2731a16486cb34794f53da00766e47db07f0f84435feb72c8fad0e8872cc3183"
+    },
+    {
+      "chunk": "meet challenges",
+      "meaning": "应对挑战",
+      "register": "中性",
+      "note": "meet不是碰面。",
+      "paragraph": 11,
+      "quote": "To renew America, we must meet challenges abroad as well as at home.",
+      "quote_sha256": "81ce906bd489d0e19038174d7f9d6b113f13fd94f1b353bef559b749d2fdc8b4"
+    },
+    {
+      "chunk": "shrink from sth.",
+      "meaning": "因畏惧而回避某事",
+      "register": "正式",
+      "note": "常用于责任、困难或行动。",
+      "paragraph": 12,
+      "quote": "While America rebuilds at home, we will not shrink from the challenges nor fail to seize the opportunities of this new world.",
+      "quote_sha256": "8b01b62380909ae037833382186ea4cfa61792a3a5c93e175fc1d13d400923d9"
+    },
+    {
+      "chunk": "seize an opportunity",
+      "meaning": "抓住机会",
+      "register": "中性",
+      "note": "表示及时利用，而不是只注意到。",
+      "paragraph": 12,
+      "quote": "While America rebuilds at home, we will not shrink from the challenges nor fail to seize the opportunities of this new world.",
+      "quote_sha256": "8b01b62380909ae037833382186ea4cfa61792a3a5c93e175fc1d13d400923d9"
+    },
+    {
+      "chunk": "be testament to sth.",
+      "meaning": "是某事的明证／体现",
+      "register": "正式",
+      "note": "常见形式也有be a testament to。",
+      "paragraph": 12,
+      "quote": "The brave Americans serving our Nation today in the Persian Gulf, in Somalia, and wherever else they stand are testament to our resolve.",
+      "quote_sha256": "e163f371086f179906eee8eee80f51b0f5e3f05eaa49950ae11c8cd663c78c4a"
+    },
+    {
+      "chunk": "raise one's voice",
+      "meaning": "发声／明确表达立场",
+      "register": "中性",
+      "note": "这里不只是提高音量，而是参与公共表达。",
+      "paragraph": 13,
+      "quote": "You have raised your voices in an unmistakable chorus.",
+      "quote_sha256": "9edfdbaf94eed2b1ff24854fa48f49e3620d73e148158f7c23607ae5bb22b2dc"
+    },
+    {
+      "chunk": "cast one's vote",
+      "meaning": "投票／作出自己的选择",
+      "register": "中性",
+      "note": "cast与vote的惯常搭配。",
+      "paragraph": 13,
+      "quote": "You have cast your votes in historic numbers.",
+      "quote_sha256": "06f9e841e60d7ca2955af32c50cf8f6cc43dcbccd9573f4b6917f0b57419278f"
+    },
+    {
+      "chunk": "change the face of sth.",
+      "meaning": "改变某事物的面貌",
+      "register": "中性",
+      "note": "通常指重大、明显的变化。",
+      "paragraph": 13,
+      "quote": "And you have changed the face of Congress, the Presidency, and the political process itself.",
+      "quote_sha256": "7ed2aff94085a8e12d3ea18501ecea9daf6c5ebcebb8b7040dae41f8b86280f5"
+    },
+    {
+      "chunk": "undertake a mission",
+      "meaning": "承担一项任务",
+      "register": "正式",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 13,
+      "quote": "But no President, no Congress, no Government can undertake this mission alone.",
+      "quote_sha256": "549b3581eca8b7203a97c2ce32ff2a6a57d392cd74e4e349cbd0143c4d9f978e"
+    },
+    {
+      "chunk": "play one's part",
+      "meaning": "尽自己的一份责任／发挥应有作用",
+      "register": "中性",
+      "note": "可用于团队协作，不只指演戏。",
+      "paragraph": 14,
+      "quote": "My fellow Americans, you, too, must play your part in our renewal.",
+      "quote_sha256": "d0946d6f7931e184e7acd183298309dce825062949b202cc4c216976faf773ff"
+    },
+    {
+      "chunk": "act on one's ideals",
+      "meaning": "将理念付诸行动",
+      "register": "中性",
+      "note": "act on指依据某种想法采取行动。",
+      "paragraph": 14,
+      "quote": "I challenge a new generation of young Americans to a season of service: to act on your idealism by helping troubled children, keeping company with those in need, reconnecting our torn communities.",
+      "quote_sha256": "4f2e167266a6ac90bb2bc709d7edf24f840c6c279f6eb0e100d71dedb8a18fbd"
+    },
+    {
+      "chunk": "keep company with sb.",
+      "meaning": "陪伴某人／与某人为伴",
+      "register": "中性",
+      "note": "这里强调陪伴需要帮助的人；其他语境也可带交往意味。",
+      "paragraph": 14,
+      "quote": "I challenge a new generation of young Americans to a season of service: to act on your idealism by helping troubled children, keeping company with those in need, reconnecting our torn communities.",
+      "quote_sha256": "4f2e167266a6ac90bb2bc709d7edf24f840c6c279f6eb0e100d71dedb8a18fbd"
+    },
+    {
+      "chunk": "in need",
+      "meaning": "处于困难中／需要帮助",
+      "register": "中性",
+      "note": "常用作后置修饰或指需要帮助的人群。",
+      "paragraph": 14,
+      "quote": "I challenge a new generation of young Americans to a season of service: to act on your idealism by helping troubled children, keeping company with those in need, reconnecting our torn communities.",
+      "quote_sha256": "4f2e167266a6ac90bb2bc709d7edf24f840c6c279f6eb0e100d71dedb8a18fbd"
+    },
+    {
+      "chunk": "give of oneself",
+      "meaning": "奉献自己的时间、精力或能力",
+      "register": "正式",
+      "note": "不是单纯把自己送出去。",
+      "paragraph": 14,
+      "quote": "There is so much to be done; enough, indeed, for millions of others who are still young in spirit to give of themselves in service, too.",
+      "quote_sha256": "83c907f7d4c8604b508f21edb209bfe05c62858e22df6f1b065f29fae4a39e4b"
+    },
+    {
+      "chunk": "young in spirit",
+      "meaning": "精神上仍然年轻／充满活力",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 14,
+      "quote": "There is so much to be done; enough, indeed, for millions of others who are still young in spirit to give of themselves in service, too.",
+      "quote_sha256": "83c907f7d4c8604b508f21edb209bfe05c62858e22df6f1b065f29fae4a39e4b"
+    },
+    {
+      "chunk": "rededicate oneself to sth.",
+      "meaning": "再次投入／重申对某事的承诺",
+      "register": "正式",
+      "note": "常用于共同事业、长期使命。",
+      "paragraph": 15,
+      "quote": "We rededicate ourselves to the very idea of America, an idea born in revolution and renewed through two centuries of challenge; an idea tempered by the knowledge that, but for fate, we, the fortunate, and the unfortunate might have been each other; an idea ennobled by the faith that our Nation can summon from its myriad diversity the deepest measure of unity; an idea infused with the conviction that America's long, heroic journey must go forever upward.",
+      "quote_sha256": "3365144357f062bf2445ce0bce43b4b50d64eff3f08894d93e9a54e862ab78e3"
+    },
+    {
+      "chunk": "but for sth.",
+      "meaning": "若不是某个因素／要不是……",
+      "register": "正式",
+      "note": "本句暗含如果命运不同，双方处境可能互换。",
+      "paragraph": 15,
+      "quote": "We rededicate ourselves to the very idea of America, an idea born in revolution and renewed through two centuries of challenge; an idea tempered by the knowledge that, but for fate, we, the fortunate, and the unfortunate might have been each other; an idea ennobled by the faith that our Nation can summon from its myriad diversity the deepest measure of unity; an idea infused with the conviction that America's long, heroic journey must go forever upward.",
+      "quote_sha256": "3365144357f062bf2445ce0bce43b4b50d64eff3f08894d93e9a54e862ab78e3"
+    },
+    {
+      "chunk": "begin anew",
+      "meaning": "重新开始",
+      "register": "正式",
+      "note": "可用于新阶段或经历挫折后的重新出发。",
+      "paragraph": 16,
+      "quote": "And so, my fellow Americans, as we stand at the edge of the 21st century, let us begin anew with energy and hope, with faith and discipline.",
+      "quote_sha256": "8706e98c2eab1e843c306cbff45f10deb881efa659d76b051076eee1fb7cba57"
+    },
+    {
+      "chunk": "answer the call",
+      "meaning": "响应号召／承担被呼唤的责任",
+      "register": "正式",
+      "note": "可用于服务或行动，不必政治场景。",
+      "paragraph": 16,
+      "quote": "And now, each in our own way and with God's help, we must answer the call.",
+      "quote_sha256": "cf0024307ab534a16d61b8f0be5588642a8bdd38e1c01ae1eab5be3a6d49b48d"
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [],
+  "vocabulary_candidates": [
+    "steadfastness",
+    "posterity",
+    "pretense",
+    "narcotrafficking",
+    "acrimony"
+  ]
+}

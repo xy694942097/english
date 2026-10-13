@@ -1,0 +1,975 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S05/Better.Call.Saul.S05E10.en.srt",
+  "sha256": "33b2166e6579893bd3ed9aa02672f02433701bb601c9ba9f7ef813f2e33f85fc",
+  "subtitle_blocks_read": 618,
+  "max_cue": 618,
+  "read_batches": [
+    [
+      1,
+      618
+    ]
+  ],
+  "selection_status": "Candidates, pending user screening",
+  "items": [
+    {
+      "chunk": "home free",
+      "meaning": "已经过关、眼看安全了",
+      "start_cue": 10,
+      "end_cue": 10,
+      "start_time": "00:01:34,095",
+      "end_time": "00:01:35,888",
+      "quote": "I thought I was home free.",
+      "id": "S05E10-001"
+    },
+    {
+      "chunk": "all but one",
+      "meaning": "除了一个之外全部",
+      "start_cue": 21,
+      "end_cue": 21,
+      "start_time": "00:02:11,340",
+      "end_time": "00:02:13,217",
+      "quote": "All but one.",
+      "id": "S05E10-002"
+    },
+    {
+      "chunk": "make it worse",
+      "meaning": "使情况更糟",
+      "start_cue": 32,
+      "end_cue": 32,
+      "start_time": "00:03:29,460",
+      "end_time": "00:03:33,214",
+      "quote": "Should I put something on them or would that just make it worse?",
+      "id": "S05E10-003"
+    },
+    {
+      "chunk": "Am I bad for you?",
+      "meaning": "我是不是对你有害／影响不好？；关系反思",
+      "start_cue": 34,
+      "end_cue": 34,
+      "start_time": "00:03:42,807",
+      "end_time": "00:03:44,683",
+      "quote": "Am I bad for you?",
+      "id": "S05E10-004"
+    },
+    {
+      "chunk": "get sb. into sth.",
+      "meaning": "使某人卷入某事",
+      "start_cue": 36,
+      "end_cue": 36,
+      "start_time": "00:03:52,316",
+      "end_time": "00:03:54,318",
+      "quote": "I got you into this.",
+      "id": "S05E10-005"
+    },
+    {
+      "chunk": "None of this would have happened if…",
+      "meaning": "如果当初……这一切就不会发生；反事实反思",
+      "start_cue": 38,
+      "end_cue": 38,
+      "start_time": "00:03:58,364",
+      "end_time": "00:04:02,243",
+      "quote": "None of this would've happened if you weren't with me.",
+      "id": "S05E10-006"
+    },
+    {
+      "chunk": "There's a wrinkle.",
+      "meaning": "出了个小麻烦／新变数",
+      "start_cue": 49,
+      "end_cue": 49,
+      "start_time": "00:06:06,867",
+      "end_time": "00:06:09,411",
+      "quote": "- Good. - There's a wrinkle.",
+      "id": "S05E10-007"
+    },
+    {
+      "chunk": "on the spot",
+      "meaning": "当场、立即",
+      "start_cue": 52,
+      "end_cue": 52,
+      "start_time": "00:06:14,291",
+      "end_time": "00:06:17,795",
+      "quote": "If he thought varga was working for you, he would've killed him on the spot.",
+      "id": "S05E10-008"
+    },
+    {
+      "chunk": "be up for a promotion",
+      "meaning": "有望晋升",
+      "start_cue": 53,
+      "end_cue": 53,
+      "start_time": "00:06:18,796",
+      "end_time": "00:06:22,633",
+      "quote": "If I had to guess I'd say varga is up for a promotion.",
+      "id": "S05E10-009"
+    },
+    {
+      "chunk": "the way things stand",
+      "meaning": "按眼下的情况",
+      "start_cue": 58,
+      "end_cue": 58,
+      "start_time": "00:06:35,145",
+      "end_time": "00:06:39,149",
+      "quote": "The way things stand, he's gonna get caught in the crossfire.",
+      "id": "S05E10-010"
+    },
+    {
+      "chunk": "get caught in the crossfire",
+      "meaning": "夹在交火中／两边冲突中受牵连",
+      "start_cue": 58,
+      "end_cue": 58,
+      "start_time": "00:06:35,145",
+      "end_time": "00:06:39,149",
+      "quote": "The way things stand, he's gonna get caught in the crossfire.",
+      "id": "S05E10-011"
+    },
+    {
+      "chunk": "tip sb.'s hand",
+      "meaning": "泄露自己的计划／底牌",
+      "start_cue": 60,
+      "end_cue": 60,
+      "start_time": "00:06:50,536",
+      "end_time": "00:06:52,246",
+      "quote": "And tip our hand?",
+      "id": "S05E10-012",
+      "original_chunk": "tip one's hand"
+    },
+    {
+      "chunk": "make a pretty good guess",
+      "meaning": "大致猜得八九不离十",
+      "start_cue": 63,
+      "end_cue": 63,
+      "start_time": "00:07:12,683",
+      "end_time": "00:07:15,936",
+      "quote": "No one's told him, but he can make a pretty damn good guess.",
+      "id": "S05E10-013"
+    },
+    {
+      "chunk": "make use of sth.",
+      "meaning": "利用某物／局面",
+      "start_cue": 65,
+      "end_cue": 65,
+      "start_time": "00:07:19,523",
+      "end_time": "00:07:21,567",
+      "quote": "There is a way to make use of this situation.",
+      "id": "S05E10-014"
+    },
+    {
+      "chunk": "catch sb. before sth.",
+      "meaning": "在某事前碰上某人、找到他说话",
+      "start_cue": 95,
+      "end_cue": 95,
+      "start_time": "00:11:04,748",
+      "end_time": "00:11:07,709",
+      "quote": "And I wanna see if I can catch oakley before I go in.",
+      "id": "S05E10-015"
+    },
+    {
+      "chunk": "a swim-up bar",
+      "meaning": "可以游过去直接点饮料的泳池吧台",
+      "start_cue": 100,
+      "end_cue": 100,
+      "start_time": "00:11:30,983",
+      "end_time": "00:11:34,361",
+      "quote": "It's got a heated pool, a swim-up bar, a hot tub.",
+      "id": "S05E10-016"
+    },
+    {
+      "chunk": "sweat out sth.",
+      "meaning": "靠出汗排出某物；此处角色谈排毒，仅记录语言表达，不验证其医学效果",
+      "start_cue": 107,
+      "end_cue": 107,
+      "start_time": "00:11:52,588",
+      "end_time": "00:11:55,048",
+      "quote": "- Sweat out some toxins and, uh... - Mm.",
+      "id": "S05E10-017"
+    },
+    {
+      "chunk": "Don't we deserve this?",
+      "meaning": "我们难道不值得享受这个吗？；反问",
+      "start_cue": 112,
+      "end_cue": 112,
+      "start_time": "00:12:06,268",
+      "end_time": "00:12:08,604",
+      "quote": "Come on, hey, don't we deserve this?",
+      "id": "S05E10-018"
+    },
+    {
+      "chunk": "take advantage",
+      "meaning": "好好利用眼下机会；此处省略of the place",
+      "start_cue": 117,
+      "end_cue": 117,
+      "start_time": "00:12:21,450",
+      "end_time": "00:12:23,452",
+      "quote": "I'm just saying, let's take advantage.",
+      "id": "S05E10-019"
+    },
+    {
+      "chunk": "a loose end",
+      "meaning": "尚未解决的漏洞／后患",
+      "start_cue": 122,
+      "end_cue": 122,
+      "start_time": "00:12:39,968",
+      "end_time": "00:12:44,056",
+      "quote": "If he finds one loose end, all it takes is a phone call.",
+      "id": "S05E10-020"
+    },
+    {
+      "chunk": "What's the harm in doing sth.?",
+      "meaning": "做某事有什么坏处？；为谨慎措施辩护",
+      "start_cue": 124,
+      "end_cue": 124,
+      "start_time": "00:12:47,976",
+      "end_time": "00:12:53,857",
+      "quote": "No. No, I don't. But what's the harm in being a little cautious?",
+      "id": "S05E10-021"
+    },
+    {
+      "chunk": "get on with sb.'s life",
+      "meaning": "继续正常生活",
+      "start_cue": 131,
+      "end_cue": 131,
+      "start_time": "00:13:10,791",
+      "end_time": "00:13:14,336",
+      "quote": "we just need to keep our eyes open and get on with our lives.",
+      "id": "S05E10-022",
+      "original_chunk": "get on with one's life"
+    },
+    {
+      "chunk": "Not good enough.",
+      "meaning": "还不够／不能接受这个答复",
+      "start_cue": 140,
+      "end_cue": 142,
+      "start_time": "00:14:06,304",
+      "end_time": "00:14:17,733",
+      "quote": "Bullshit. Ha! I wanna know what's going on. Not good enough. No. You know what? You... We are gonna talk about this face to face.",
+      "id": "S05E10-023"
+    },
+    {
+      "chunk": "drop the charges",
+      "meaning": "撤销指控",
+      "start_cue": 145,
+      "end_cue": 145,
+      "start_time": "00:14:31,496",
+      "end_time": "00:14:36,376",
+      "quote": "That means we won. The state dropped the charges.",
+      "id": "S05E10-024"
+    },
+    {
+      "chunk": "have the morning off",
+      "meaning": "上午不用上班／有空",
+      "start_cue": 147,
+      "end_cue": 147,
+      "start_time": "00:14:38,712",
+      "end_time": "00:14:41,757",
+      "quote": "Now we both have the morning off.",
+      "id": "S05E10-025"
+    },
+    {
+      "chunk": "How's your day so far?",
+      "meaning": "今天到现在过得怎么样？",
+      "start_cue": 157,
+      "end_cue": 157,
+      "start_time": "00:15:11,036",
+      "end_time": "00:15:13,389",
+      "quote": "Life in the public defender's office. How's your day so far?",
+      "id": "S05E10-026"
+    },
+    {
+      "chunk": "holes in sb.'s schedule",
+      "meaning": "日程中的空档",
+      "start_cue": 158,
+      "end_cue": 158,
+      "start_time": "00:15:13,413",
+      "end_time": "00:15:16,249",
+      "quote": "Uh, I got some holes in my schedule I'm looking to fill.",
+      "id": "S05E10-027",
+      "original_chunk": "holes in one's schedule"
+    },
+    {
+      "chunk": "keep things airtight",
+      "meaning": "把安排做得严密、不给漏洞",
+      "start_cue": 162,
+      "end_cue": 162,
+      "start_time": "00:15:21,421",
+      "end_time": "00:15:23,799",
+      "quote": "If I were you, I'd keep things airtight.",
+      "id": "S05E10-028"
+    },
+    {
+      "chunk": "do the most good",
+      "meaning": "发挥最大的帮助／益处",
+      "start_cue": 168,
+      "end_cue": 168,
+      "start_time": "00:15:45,153",
+      "end_time": "00:15:49,032",
+      "quote": "I just wanna make sure I'm spending my time where it'll do the most good.",
+      "id": "S05E10-029"
+    },
+    {
+      "chunk": "plain old sth.",
+      "meaning": "普通的、就是平常那种；口语强调",
+      "start_cue": 170,
+      "end_cue": 170,
+      "start_time": "00:15:51,701",
+      "end_time": "00:15:54,538",
+      "quote": "So plain old indigents are not good enough for you.",
+      "id": "S05E10-030"
+    },
+    {
+      "chunk": "If I were going to do that, you'd have to…",
+      "meaning": "假如我要那么做，你得……；条件式谈判",
+      "start_cue": 174,
+      "end_cue": 174,
+      "start_time": "00:16:06,049",
+      "end_time": "00:16:09,136",
+      "quote": "If I were going to go along with that, you'd have to take felonies.",
+      "id": "S05E10-031"
+    },
+    {
+      "chunk": "Pretty much.",
+      "meaning": "基本上是这样；近似确认",
+      "start_cue": 191,
+      "end_cue": 191,
+      "start_time": "00:17:03,064",
+      "end_time": "00:17:04,649",
+      "quote": "Pretty much.",
+      "id": "S05E10-032"
+    },
+    {
+      "chunk": "burn rubber",
+      "meaning": "急速开车离开；字面轮胎摩擦，常比喻急着走",
+      "start_cue": 195,
+      "end_cue": 195,
+      "start_time": "00:17:12,449",
+      "end_time": "00:17:14,784",
+      "quote": "Burning rubber on your way out.",
+      "id": "S05E10-033"
+    },
+    {
+      "chunk": "kick sth. over",
+      "meaning": "把某件工作／资料移交过去；非正式",
+      "start_cue": 207,
+      "end_cue": 207,
+      "start_time": "00:17:48,818",
+      "end_time": "00:17:51,196",
+      "quote": "Let me know which ones you want so we can kick them over.",
+      "id": "S05E10-034"
+    },
+    {
+      "chunk": "in the fewest words possible",
+      "meaning": "用尽量少的话回答；原句省略式指令",
+      "start_cue": 212,
+      "end_cue": 212,
+      "start_time": "00:18:30,944",
+      "end_time": "00:18:34,531",
+      "quote": "Fewest words you can.",
+      "id": "S05E10-035"
+    },
+    {
+      "chunk": "give sb. a bump up",
+      "meaning": "让某人升一级／提拔一下；口语",
+      "start_cue": 213,
+      "end_cue": 213,
+      "start_time": "00:18:36,783",
+      "end_time": "00:18:39,327",
+      "quote": "If he likes you, he's gonna give you a bump up.",
+      "id": "S05E10-036"
+    },
+    {
+      "chunk": "head up sth.",
+      "meaning": "负责／领导某项业务",
+      "start_cue": 243,
+      "end_cue": 243,
+      "start_time": "00:20:45,370",
+      "end_time": "00:20:48,039",
+      "quote": "And now heads up banking at schweikart and cokely.",
+      "id": "S05E10-037"
+    },
+    {
+      "chunk": "as of yesterday",
+      "meaning": "从昨天起／截至昨天；此处起始时间",
+      "start_cue": 247,
+      "end_cue": 247,
+      "start_time": "00:21:00,593",
+      "end_time": "00:21:01,845",
+      "quote": "Kim: As of yesterday.",
+      "id": "S05E10-038"
+    },
+    {
+      "chunk": "out of curiosity",
+      "meaning": "只是好奇问问",
+      "start_cue": 250,
+      "end_cue": 250,
+      "start_time": "00:21:12,397",
+      "end_time": "00:21:15,942",
+      "quote": "Out of curiosity, where did you land? Reeves and green?",
+      "id": "S05E10-039"
+    },
+    {
+      "chunk": "Where did you land?",
+      "meaning": "你最后去了哪家／哪个岗位？；职场",
+      "start_cue": 250,
+      "end_cue": 250,
+      "start_time": "00:21:12,397",
+      "end_time": "00:21:15,942",
+      "quote": "Out of curiosity, where did you land? Reeves and green?",
+      "id": "S05E10-040"
+    },
+    {
+      "chunk": "let sb. go",
+      "meaning": "辞退某人；此处解雇义",
+      "start_cue": 252,
+      "end_cue": 252,
+      "start_time": "00:21:18,486",
+      "end_time": "00:21:20,447",
+      "quote": "Rich let you go?",
+      "id": "S05E10-041"
+    },
+    {
+      "chunk": "Spare me a minute.",
+      "meaning": "抽一分钟给我",
+      "start_cue": 257,
+      "end_cue": 257,
+      "start_time": "00:21:32,125",
+      "end_time": "00:21:34,669",
+      "quote": "- That is personal. And I have a... - Spare me a minute.",
+      "id": "S05E10-042"
+    },
+    {
+      "chunk": "hemming and hawing",
+      "meaning": "支支吾吾、犹豫着不直说",
+      "start_cue": 278,
+      "end_cue": 278,
+      "start_time": "00:22:48,368",
+      "end_time": "00:22:50,453",
+      "quote": "And after some hemming and hawing...",
+      "id": "S05E10-043"
+    },
+    {
+      "chunk": "all but confess",
+      "meaning": "几乎等于承认",
+      "start_cue": 279,
+      "end_cue": 279,
+      "start_time": "00:22:51,454",
+      "end_time": "00:22:53,248",
+      "quote": "He all but confessed.",
+      "id": "S05E10-044"
+    },
+    {
+      "chunk": "You had me going there.",
+      "meaning": "你刚才真把我骗到了／让我信了",
+      "start_cue": 284,
+      "end_cue": 284,
+      "start_time": "00:23:11,391",
+      "end_time": "00:23:13,643",
+      "quote": "You really had me going there.",
+      "id": "S05E10-045"
+    },
+    {
+      "chunk": "in sb.'s right mind",
+      "meaning": "神志正常、理智的",
+      "start_cue": 286,
+      "end_cue": 286,
+      "start_time": "00:23:16,479",
+      "end_time": "00:23:19,482",
+      "quote": "but no person in their right mind would behave the way Jimmy has.",
+      "id": "S05E10-046",
+      "original_chunk": "in one's right mind"
+    },
+    {
+      "chunk": "Do you have any idea how insulting that is?",
+      "meaning": "你知不知道这有多冒犯？",
+      "start_cue": 290,
+      "end_cue": 290,
+      "start_time": "00:23:32,579",
+      "end_time": "00:23:36,416",
+      "quote": "Do you have any idea how insulting that is?",
+      "id": "S05E10-047"
+    },
+    {
+      "chunk": "I've got nowhere to be.",
+      "meaning": "我没别处要去；强调有时间耗下去",
+      "start_cue": 303,
+      "end_cue": 303,
+      "start_time": "00:24:51,949",
+      "end_time": "00:24:53,785",
+      "quote": "I got nowhere to be.",
+      "id": "S05E10-048"
+    },
+    {
+      "chunk": "a surprise pop-in",
+      "meaning": "突然来访",
+      "start_cue": 307,
+      "end_cue": 307,
+      "start_time": "00:25:02,126",
+      "end_time": "00:25:05,046",
+      "quote": "Not a fan of the surprise pop-in, huh?",
+      "id": "S05E10-049"
+    },
+    {
+      "chunk": "level with sb.",
+      "meaning": "对某人坦白、说实话",
+      "start_cue": 311,
+      "end_cue": 311,
+      "start_time": "00:25:11,219",
+      "end_time": "00:25:13,096",
+      "quote": "The time has come for you to level with me,",
+      "id": "S05E10-050"
+    },
+    {
+      "chunk": "keep sb. in the loop",
+      "meaning": "持续让某人知道进展",
+      "start_cue": 318,
+      "end_cue": 318,
+      "start_time": "00:25:28,569",
+      "end_time": "00:25:32,365",
+      "quote": "But from here on out, I gotta be kept in the loop, man.",
+      "id": "S05E10-051"
+    },
+    {
+      "chunk": "blow sb. off",
+      "meaning": "敷衍／打发某人",
+      "start_cue": 326,
+      "end_cue": 326,
+      "start_time": "00:25:47,296",
+      "end_time": "00:25:51,008",
+      "quote": "You are not blowing me off with any \"that's not the end of the story\" crap.",
+      "id": "S05E10-052"
+    },
+    {
+      "chunk": "have sth. on sb.'s mind",
+      "meaning": "脑子里在想着某事",
+      "start_cue": 335,
+      "end_cue": 335,
+      "start_time": "00:26:32,842",
+      "end_time": "00:26:37,597",
+      "quote": "This man has other things on his mind, he's not thinking about you.",
+      "id": "S05E10-053",
+      "original_chunk": "have sth. on one's mind"
+    },
+    {
+      "chunk": "sb.'s pound of flesh",
+      "meaning": "坚决索要的报偿／报复代价；文学来源习语",
+      "start_cue": 355,
+      "end_cue": 355,
+      "start_time": "00:28:40,845",
+      "end_time": "00:28:44,015",
+      "quote": "But don't worry. I got my pound of flesh.",
+      "id": "S05E10-054",
+      "original_chunk": "one's pound of flesh"
+    },
+    {
+      "chunk": "get to know sb.",
+      "meaning": "逐渐了解某人",
+      "start_cue": 393,
+      "end_cue": 393,
+      "start_time": "00:30:58,607",
+      "end_time": "00:31:02,987",
+      "quote": "Let's talk, you and I. We'll get to know each other.",
+      "id": "S05E10-055"
+    },
+    {
+      "chunk": "turn sb. against sb.",
+      "meaning": "挑拨某人去反对另一个人",
+      "start_cue": 409,
+      "end_cue": 409,
+      "start_time": "00:32:26,320",
+      "end_time": "00:32:30,950",
+      "quote": "We turn them against each other.",
+      "id": "S05E10-056"
+    },
+    {
+      "chunk": "take sb. out",
+      "meaning": "干掉某人；此处杀人，不是带人外出",
+      "start_cue": 411,
+      "end_cue": 411,
+      "start_time": "00:32:32,243",
+      "end_time": "00:32:38,082",
+      "quote": "Then we take them out one at a time.",
+      "id": "S05E10-057"
+    },
+    {
+      "chunk": "not even think of doing sth.",
+      "meaning": "连想都别想做某事",
+      "start_cue": 418,
+      "end_cue": 418,
+      "start_time": "00:33:16,954",
+      "end_time": "00:33:22,168",
+      "quote": "I don't want anyone to even think of playing me.",
+      "id": "S05E10-058"
+    },
+    {
+      "chunk": "look over sb.'s shoulder",
+      "meaning": "一直担心被人跟踪／背后出事",
+      "start_cue": 419,
+      "end_cue": 419,
+      "start_time": "00:33:22,251",
+      "end_time": "00:33:27,923",
+      "quote": "And I don't want to be looking over my shoulder.",
+      "id": "S05E10-059",
+      "original_chunk": "look over one's shoulder"
+    },
+    {
+      "chunk": "a rough ride",
+      "meaning": "一段难熬／多波折的经历",
+      "start_cue": 441,
+      "end_cue": 441,
+      "start_time": "00:35:47,646",
+      "end_time": "00:35:49,732",
+      "quote": "It's been a rough ride.",
+      "id": "S05E10-060"
+    },
+    {
+      "chunk": "be in love with oneself",
+      "meaning": "自恋、只顾自己",
+      "start_cue": 469,
+      "end_cue": 469,
+      "start_time": "00:38:12,166",
+      "end_time": "00:38:14,501",
+      "quote": "The guy is in love with himself.",
+      "id": "S05E10-061"
+    },
+    {
+      "chunk": "take sb. down a peg",
+      "meaning": "挫一挫某人的傲气",
+      "start_cue": 470,
+      "end_cue": 470,
+      "start_time": "00:38:15,961",
+      "end_time": "00:38:18,380",
+      "quote": "He needed to be taken down a peg.",
+      "id": "S05E10-062"
+    },
+    {
+      "chunk": "slip sb. a Mickey",
+      "meaning": "偷偷给某人下迷药；犯罪俚语",
+      "start_cue": 476,
+      "end_cue": 476,
+      "start_time": "00:38:44,948",
+      "end_time": "00:38:50,245",
+      "quote": "I'm just brainstorming here, but suppose we slip him a Mickey.",
+      "id": "S05E10-063"
+    },
+    {
+      "chunk": "hit sb. where they live",
+      "meaning": "攻击某人最在意／脆弱的地方；比喻",
+      "start_cue": 492,
+      "end_cue": 492,
+      "start_time": "00:39:44,633",
+      "end_time": "00:39:47,761",
+      "quote": "- Jimmy: Ouch. Hit him where he lives. - Ha, ha.",
+      "id": "S05E10-064"
+    },
+    {
+      "chunk": "misappropriate funds",
+      "meaning": "挪用资金；法律／正式",
+      "start_cue": 504,
+      "end_cue": 504,
+      "start_time": "00:40:36,852",
+      "end_time": "00:40:39,605",
+      "quote": "You know, misappropriating funds or, um...",
+      "id": "S05E10-065"
+    },
+    {
+      "chunk": "a class action suit",
+      "meaning": "集体诉讼",
+      "start_cue": 507,
+      "end_cue": 507,
+      "start_time": "00:40:46,778",
+      "end_time": "00:40:50,574",
+      "quote": "A big class action suit? It could tank the whole thing.",
+      "id": "S05E10-066"
+    },
+    {
+      "chunk": "sb.'s hair is on fire",
+      "meaning": "某人焦头烂额、极度着急；比喻",
+      "start_cue": 508,
+      "end_cue": 508,
+      "start_time": "00:40:52,743",
+      "end_time": "00:40:55,329",
+      "quote": "Cliff main's hair would be on fire.",
+      "id": "S05E10-067"
+    },
+    {
+      "chunk": "try like hell",
+      "meaning": "拼命尝试；粗鲁强调",
+      "start_cue": 516,
+      "end_cue": 516,
+      "start_time": "00:41:23,440",
+      "end_time": "00:41:26,443",
+      "quote": "I already tried like hell to get sandpiper settled.",
+      "id": "S05E10-068"
+    },
+    {
+      "chunk": "get stiffed",
+      "meaning": "被赖账、应得的钱没拿到；口语",
+      "start_cue": 519,
+      "end_cue": 519,
+      "start_time": "00:41:38,038",
+      "end_time": "00:41:40,415",
+      "quote": "And it's not like the old folks get stiffed.",
+      "id": "S05E10-069"
+    },
+    {
+      "chunk": "a night owl",
+      "meaning": "夜猫子、习惯晚睡的人",
+      "start_cue": 535,
+      "end_cue": 535,
+      "start_time": "00:44:53,316",
+      "end_time": "00:44:55,193",
+      "quote": "Another night owl, huh? You don't sleep?",
+      "id": "S05E10-070"
+    },
+    {
+      "chunk": "And yet here we are.",
+      "meaning": "然而我们现在还是这样；指出现实与愿望反差",
+      "start_cue": 546,
+      "end_cue": 546,
+      "start_time": "00:45:41,823",
+      "end_time": "00:45:43,867",
+      "quote": "Lalo: And yet here we are.",
+      "id": "S05E10-071"
+    },
+    {
+      "chunk": "leave off sth.",
+      "meaning": "别加某样东西／去掉；此处点餐",
+      "start_cue": 574,
+      "end_cue": 574,
+      "start_time": "00:53:27,205",
+      "end_time": "00:53:30,083",
+      "quote": "Actually, leave off the mint chip.",
+      "id": "S05E10-072"
+    },
+    {
+      "chunk": "a solid + 时间",
+      "meaning": "足足……时间；强调完整时长",
+      "start_cue": 576,
+      "end_cue": 576,
+      "start_time": "00:53:43,554",
+      "end_time": "00:53:46,849",
+      "quote": "That's a solid two and a half hours. Sounds good.",
+      "id": "S05E10-073"
+    },
+    {
+      "chunk": "hire sb. away from sth.",
+      "meaning": "把某人从另一单位挖过来",
+      "start_cue": 579,
+      "end_cue": 579,
+      "start_time": "00:54:14,335",
+      "end_time": "00:54:17,630",
+      "quote": "I'd hire Stef away from schweikart.",
+      "id": "S05E10-074"
+    },
+    {
+      "chunk": "Last I heard, …",
+      "meaning": "据我最近听说的……；信息边界",
+      "start_cue": 588,
+      "end_cue": 588,
+      "start_time": "00:54:47,201",
+      "end_time": "00:54:51,456",
+      "quote": "Last I heard, sandpiper was willing to go to 26 million.",
+      "id": "S05E10-075"
+    },
+    {
+      "chunk": "scorched earth",
+      "meaning": "不留余地、毁灭性的打击；焦土政策比喻",
+      "start_cue": 593,
+      "end_cue": 593,
+      "start_time": "00:55:11,601",
+      "end_time": "00:55:16,481",
+      "quote": "We're not talking about a bar trick here. We're talking about scorched earth.",
+      "id": "S05E10-076"
+    },
+    {
+      "chunk": "a career setback",
+      "meaning": "事业受挫／职业发展的倒退",
+      "start_cue": 601,
+      "end_cue": 601,
+      "start_time": "00:55:55,019",
+      "end_time": "00:55:58,105",
+      "quote": "We're talking about a career setback.",
+      "id": "S05E10-077"
+    },
+    {
+      "chunk": "It's not you.",
+      "meaning": "这不是你的作风／你不会这样；否认行为符合个性",
+      "start_cue": 605,
+      "end_cue": 606,
+      "start_time": "00:56:15,581",
+      "end_time": "00:56:22,129",
+      "quote": "It's not you. Okay? You would not be okay with it.",
+      "id": "S05E10-078"
+    },
+    {
+      "chunk": "in the cold light of day",
+      "meaning": "冷静下来、清醒地审视时",
+      "start_cue": 607,
+      "end_cue": 607,
+      "start_time": "00:56:22,213",
+      "end_time": "00:56:24,549",
+      "quote": "Not in the cold light of day.",
+      "id": "S05E10-079"
+    },
+    {
+      "chunk": "Wouldn't I?",
+      "meaning": "我真的不会吗？；反问挑战前句you would not",
+      "start_cue": 608,
+      "end_cue": 608,
+      "start_time": "00:56:27,969",
+      "end_time": "00:56:29,303",
+      "quote": "Wouldn't I?",
+      "id": "S05E10-080"
+    },
+    {
+      "chunk": "You're shitting me, right?",
+      "meaning": "你是在耍我吧？；粗俗求证",
+      "start_cue": 610,
+      "end_cue": 610,
+      "start_time": "00:56:47,655",
+      "end_time": "00:56:50,783",
+      "quote": "Jimmy: Kim, you're shitting me, right?",
+      "id": "S05E10-081"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "save sb.'s ass",
+      "meaning": "救了某人／帮某人免于大麻烦；粗俗",
+      "start_cue": 2,
+      "end_cue": 2,
+      "start_time": "00:01:02,563",
+      "end_time": "00:01:05,775",
+      "quote": "Mike: I heard enough to know she saved your ass.",
+      "reason": "同形同义候选，保留既有项",
+      "existing_chunk": "save sb.'s ass"
+    },
+    {
+      "chunk": "spring for sth.",
+      "meaning": "花钱买／出钱请某物；随意口语",
+      "start_cue": 116,
+      "end_cue": 116,
+      "start_time": "00:12:19,072",
+      "end_time": "00:12:21,366",
+      "quote": "Hey, Kim. We already sprang for this place.",
+      "reason": "同形同义候选，保留既有项",
+      "existing_chunk": "spring for sth."
+    },
+    {
+      "chunk": "check out",
+      "meaning": "退房；区别于经查证属实义",
+      "start_cue": 443,
+      "end_cue": 443,
+      "start_time": "00:35:56,530",
+      "end_time": "00:35:58,782",
+      "quote": "We should probably just check out and go home.",
+      "reason": "同形同义候选，保留既有项",
+      "existing_chunk": "check out"
+    },
+    {
+      "chunk": "make room",
+      "meaning": "腾出地方",
+      "start_cue": 42,
+      "end_cue": 42,
+      "start_time": "00:04:44,201",
+      "end_time": "00:04:46,537",
+      "quote": "Come on, make room.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e04",
+        "chunk": "Make room."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "pull sth. off",
+      "meaning": "成功做成有难度的事",
+      "start_cue": 599,
+      "end_cue": 599,
+      "start_time": "00:55:34,499",
+      "end_time": "00:55:38,753",
+      "quote": "He doesn't deserve that. And who knows if we could pull it off?",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e07",
+        "chunk": "pull sth. off"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "pending": [
+    {
+      "cue": 118,
+      "text": "John and yoko this sucker",
+      "reason": "人名临时作动词的文化玩笑，不编入通用固定表达"
+    },
+    {
+      "cue": 184,
+      "text": "backed up like an outhouse at Woodstock",
+      "reason": "临场粗俗比喻，保留情境，核心backed up已有条目"
+    }
+  ],
+  "vocabulary_candidates": [
+    {
+      "cue": 170,
+      "word": "indigent",
+      "meaning": "贫困者，无法自行承担法律服务费用；法律"
+    },
+    {
+      "cue": 192,
+      "word": "burnout",
+      "meaning": "精疲力竭而退出的人／状态"
+    },
+    {
+      "cue": 197,
+      "word": "petty larceny",
+      "meaning": "轻微盗窃罪"
+    },
+    {
+      "cue": 201,
+      "word": "involuntary manslaughter",
+      "meaning": "非故意过失杀人"
+    }
+  ],
+  "second_pass": {
+    "range": [
+      1,
+      618
+    ],
+    "method": "在首遍完整字幕输出上，从头重新检查未选cue及相邻上下文；再查外层骨架、短回应、普通搭配。二遍不靠regex发现。",
+    "status": "completed",
+    "added_candidates": [
+      "make it worse",
+      "None of this would have happened if…",
+      "make a pretty good guess",
+      "Don't we deserve this?",
+      "take advantage",
+      "Not good enough.",
+      "keep things airtight",
+      "If I were going to do that, you'd have to…",
+      "Pretty much.",
+      "Do you have any idea how insulting that is?",
+      "I've got nowhere to be.",
+      "not even think of doing sth.",
+      "Last I heard, …",
+      "It's not you.",
+      "Wouldn't I?"
+    ],
+    "added_count": 15,
+    "read_batches": [
+      [
+        1,
+        618
+      ]
+    ],
+    "final_selected_count": 83,
+    "note": "added_candidates列的是二遍发现候选，随后部分因重复／转词汇／待核而不进入items。"
+  },
+  "validation": {
+    "quote_rule": "去HTML并合并空白；不改原词、拼写和标点",
+    "coverage_boundary": "通读与回查记录不证明无遗漏；候选不等于已掌握",
+    "selected_items": 83,
+    "source_hash_verified": true,
+    "quote_and_timecode_verified": true
+  },
+  "read_note": "每集完整输出所有cue，输出上限保证未截断；以集为读取批次，不虚构100条工具读取批次。",
+  "deduplication_note": "对S01–S03首批已有清单做规范化提示并人工核含义；季内顺序去重。同形新义保留。跨其他并行季由主agent最终统查。",
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

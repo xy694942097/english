@@ -1,0 +1,670 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S06/Better.Call.Saul.S06E08.en.srt",
+  "sha256": "d67a5eec020734bd7073544166fcae06669d8875ed0fbee2341d8472da84ff91",
+  "subtitle_blocks_read": 442,
+  "max_cue": 442,
+  "read_batches": [
+    {
+      "start_cue": 1,
+      "end_cue": 442
+    }
+  ],
+  "selection_status": "Candidates, pending user screening",
+  "review": {
+    "first_pass": "按字幕顺序完整通读所列实际读取范围；跨cue合并句义，外层表达动作与内部搭配分别检查；输出未截断",
+    "second_pass": "重看未收录cue及长空白区，补查外层骨架、短回应、普通动作搭配；未选歌词只作为场景背景，不采歌词",
+    "second_pass_range": [
+      1,
+      442
+    ],
+    "lyrics_policy": "第一遍逐cue读含歌词；第二遍聚焦未选对白，歌词不再重复输出",
+    "second_pass_batches": [
+      {
+        "start_cue": 1,
+        "end_cue": 442,
+        "scope": "未选对白cue；已选及有理由去重项不重复输出，歌词不采集"
+      }
+    ],
+    "candidate_added_second_pass": 19
+  },
+  "items": [
+    {
+      "chunk": "cut sb. off",
+      "meaning": "开车抢到别人前面逼对方减速；此处交通义",
+      "start_cue": 20,
+      "end_cue": 20,
+      "start_time": "00:03:42,483",
+      "end_time": "00:03:43,875",
+      "quote": "don't cut anyone off.",
+      "id": "S06E08-001"
+    },
+    {
+      "chunk": "stating the obvious",
+      "meaning": "说一句明摆着的话；提醒常识",
+      "start_cue": 34,
+      "end_cue": 35,
+      "start_time": "00:04:06,768",
+      "end_time": "00:04:10,064",
+      "quote": "Stating the obvious here, maybe, but turn the car off, right?",
+      "id": "S06E08-002"
+    },
+    {
+      "chunk": "the glove compartment",
+      "meaning": "汽车手套箱／仪表盘储物箱",
+      "start_cue": 36,
+      "end_cue": 36,
+      "start_time": "00:04:10,946",
+      "end_time": "00:04:12,991",
+      "quote": "So in the glove compartment,",
+      "selection_pass": 2,
+      "id": "S06E08-003"
+    },
+    {
+      "chunk": "as innocent as can be",
+      "meaning": "看起来再无辜不过",
+      "start_cue": 53,
+      "end_cue": 53,
+      "start_time": "00:04:41,629",
+      "end_time": "00:04:42,789",
+      "quote": "you're as innocent as can be.",
+      "id": "S06E08-004"
+    },
+    {
+      "chunk": "Don't be fooled.",
+      "meaning": "别被表象骗了",
+      "start_cue": 65,
+      "end_cue": 65,
+      "start_time": "00:05:12,007",
+      "end_time": "00:05:13,051",
+      "quote": "But don't be fooled.",
+      "selection_pass": 2,
+      "id": "S06E08-005"
+    },
+    {
+      "chunk": "Let's call it an hour.",
+      "meaning": "就算一小时吧；约定近似数值",
+      "start_cue": 82,
+      "end_cue": 82,
+      "start_time": "00:05:41,645",
+      "end_time": "00:05:43,212",
+      "quote": "Let's call it an hour all together.",
+      "id": "S06E08-006"
+    },
+    {
+      "chunk": "be in distress",
+      "meaning": "看起来处于困境／急需帮助",
+      "start_cue": 99,
+      "end_cue": 99,
+      "start_time": "00:06:17,202",
+      "end_time": "00:06:18,919",
+      "quote": "- Mmm-mmm. No. - She looks like she's in distress.",
+      "id": "S06E08-007"
+    },
+    {
+      "chunk": "stick to the plan",
+      "meaning": "按计划执行",
+      "start_cue": 105,
+      "end_cue": 105,
+      "start_time": "00:06:29,301",
+      "end_time": "00:06:30,627",
+      "quote": "How do I know she's gonna stick to the plan?",
+      "id": "S06E08-008"
+    },
+    {
+      "chunk": "Like I have?",
+      "meaning": "说得像我做过似的；反问否定自己有经验",
+      "start_cue": 112,
+      "end_cue": 112,
+      "start_time": "00:06:41,966",
+      "end_time": "00:06:43,466",
+      "quote": "I've never even - held one. - Like I have?",
+      "id": "S06E08-009"
+    },
+    {
+      "chunk": "land a girl like that",
+      "meaning": "追到那样的女孩；非正式，把人作追求结果",
+      "start_cue": 136,
+      "end_cue": 136,
+      "start_time": "00:08:36,559",
+      "end_time": "00:08:40,520",
+      "quote": "How does a chichifo like you land a girl like that, huh?",
+      "selection_pass": 2,
+      "id": "S06E08-010"
+    },
+    {
+      "chunk": "since sb. was knee high",
+      "meaning": "从某人还是小不点起；亲切或怀旧",
+      "start_cue": 154,
+      "end_cue": 154,
+      "start_time": "00:09:53,418",
+      "end_time": "00:09:55,899",
+      "quote": "A seventeen-year-old kid I knew since he was knee high.",
+      "id": "S06E08-011"
+    },
+    {
+      "chunk": "never hurt a fly",
+      "meaning": "从不伤害人；温和无害",
+      "start_cue": 155,
+      "end_cue": 155,
+      "start_time": "00:09:56,073",
+      "end_time": "00:09:57,814",
+      "quote": "Never hurt a fly.",
+      "id": "S06E08-012"
+    },
+    {
+      "chunk": "Hand to God,…",
+      "meaning": "我对上帝发誓……；非正式强调真实",
+      "start_cue": 174,
+      "end_cue": 174,
+      "start_time": "00:10:47,124",
+      "end_time": "00:10:48,524",
+      "quote": "Hand to God, I had no part in this.",
+      "id": "S06E08-013"
+    },
+    {
+      "chunk": "have no part in sth.",
+      "meaning": "与某事毫无关联／未参与",
+      "start_cue": 174,
+      "end_cue": 174,
+      "start_time": "00:10:47,124",
+      "end_time": "00:10:48,524",
+      "quote": "Hand to God, I had no part in this.",
+      "id": "S06E08-014"
+    },
+    {
+      "chunk": "Oh, brother.",
+      "meaning": "哎呀／真受不了；不指哥哥",
+      "start_cue": 192,
+      "end_cue": 192,
+      "start_time": "00:11:49,447",
+      "end_time": "00:11:51,580",
+      "quote": "I forgot. Oh, brother, you've got patience.",
+      "selection_pass": 2,
+      "id": "S06E08-015"
+    },
+    {
+      "chunk": "We can't all know everything.",
+      "meaning": "谁也不可能样样都懂；为人辩解",
+      "start_cue": 194,
+      "end_cue": 194,
+      "start_time": "00:11:54,714",
+      "end_time": "00:11:56,082",
+      "quote": "Well, we can't all know everything, Harry.",
+      "id": "S06E08-016"
+    },
+    {
+      "chunk": "for instance",
+      "meaning": "例如",
+      "start_cue": 195,
+      "end_cue": 195,
+      "start_time": "00:11:56,106",
+      "end_time": "00:11:58,413",
+      "quote": "Who's Tom Paine, for instance?",
+      "selection_pass": 2,
+      "id": "S06E08-017"
+    },
+    {
+      "chunk": "take out a second mortgage",
+      "meaning": "再抵押房产借一笔钱；此处夸张价格高",
+      "start_cue": 213,
+      "end_cue": 213,
+      "start_time": "00:13:41,385",
+      "end_time": "00:13:43,015",
+      "quote": "If I want to take out a second mortgage, I can.",
+      "id": "S06E08-018"
+    },
+    {
+      "chunk": "sit still",
+      "meaning": "安静坐着别动",
+      "start_cue": 225,
+      "end_cue": 225,
+      "start_time": "00:16:51,793",
+      "end_time": "00:16:54,317",
+      "quote": "Sit still and stay calm.",
+      "selection_pass": 2,
+      "id": "S06E08-019"
+    },
+    {
+      "chunk": "To do what, exactly?",
+      "meaning": "到底是让你做什么？；追问目的",
+      "start_cue": 236,
+      "end_cue": 236,
+      "start_time": "00:17:18,037",
+      "end_time": "00:17:19,081",
+      "quote": "To do what, exactly?",
+      "selection_pass": 2,
+      "id": "S06E08-020"
+    },
+    {
+      "chunk": "hunker down",
+      "meaning": "待在安全处不动／暂避",
+      "start_cue": 251,
+      "end_cue": 251,
+      "start_time": "00:18:24,015",
+      "end_time": "00:18:25,669",
+      "quote": "All right. You hunker down here.",
+      "id": "S06E08-021"
+    },
+    {
+      "chunk": "Eyes sharp.",
+      "meaning": "睁大眼睛，警觉点",
+      "start_cue": 289,
+      "end_cue": 289,
+      "start_time": "00:22:59,769",
+      "end_time": "00:23:01,989",
+      "quote": "Everyone else, on me. Eyes sharp.",
+      "selection_pass": 2,
+      "id": "S06E08-022"
+    },
+    {
+      "chunk": "nice and easy",
+      "meaning": "慢慢来，动作轻稳",
+      "start_cue": 290,
+      "end_cue": 290,
+      "start_time": "00:23:02,163",
+      "end_time": "00:23:03,251",
+      "quote": "Nice and easy.",
+      "id": "S06E08-023"
+    },
+    {
+      "chunk": "Drumroll, please.",
+      "meaning": "请敲鼓造势；揭晓前戏谑",
+      "start_cue": 309,
+      "end_cue": 309,
+      "start_time": "00:30:26,563",
+      "end_time": "00:30:28,130",
+      "quote": "Drumroll, please.",
+      "id": "S06E08-024"
+    },
+    {
+      "chunk": "I'm sorry to say…",
+      "meaning": "很遗憾得说……；引出坏消息",
+      "start_cue": 333,
+      "end_cue": 333,
+      "start_time": "00:37:47,787",
+      "end_time": "00:37:50,180",
+      "quote": "I won't be in today, I'm sorry to say.",
+      "selection_pass": 2,
+      "id": "S06E08-025"
+    },
+    {
+      "chunk": "in sb.'s stead",
+      "meaning": "代替某人；正式",
+      "start_cue": 341,
+      "end_cue": 341,
+      "start_time": "00:38:02,584",
+      "end_time": "00:38:05,021",
+      "quote": "I need you to act as store manager in my stead.",
+      "id": "S06E08-026",
+      "original_chunk": "in one's stead"
+    },
+    {
+      "chunk": "at this late date",
+      "meaning": "事到如今／临时这个节骨眼上",
+      "start_cue": 342,
+      "end_cue": 342,
+      "start_time": "00:38:05,195",
+      "end_time": "00:38:07,067",
+      "quote": "Unfortunately, at this late date,",
+      "id": "S06E08-027"
+    },
+    {
+      "chunk": "by close tomorrow",
+      "meaning": "明天营业结束前",
+      "start_cue": 345,
+      "end_cue": 345,
+      "start_time": "00:38:14,379",
+      "end_time": "00:38:17,207",
+      "quote": "Would you be able to set next week's schedule by close tomorrow?",
+      "selection_pass": 2,
+      "id": "S06E08-028"
+    },
+    {
+      "chunk": "Don't give it a thought.",
+      "meaning": "不必操心／别放在心上",
+      "start_cue": 347,
+      "end_cue": 347,
+      "start_time": "00:38:20,863",
+      "end_time": "00:38:23,170",
+      "quote": "I'll take care of it. Don't give it a thought.",
+      "id": "S06E08-029"
+    },
+    {
+      "chunk": "upon my return",
+      "meaning": "我回来时；正式",
+      "start_cue": 348,
+      "end_cue": 348,
+      "start_time": "00:38:23,344",
+      "end_time": "00:38:27,305",
+      "quote": "I will adjust your pay for the extra hours upon my return.",
+      "selection_pass": 2,
+      "id": "S06E08-030"
+    },
+    {
+      "chunk": "in your capable hands",
+      "meaning": "交给你这位能干的人，我放心",
+      "start_cue": 353,
+      "end_cue": 354,
+      "start_time": "00:38:35,574",
+      "end_time": "00:38:40,187",
+      "quote": "I know I have nothing to worry about. The restaurant is in your capable hands.",
+      "id": "S06E08-031"
+    },
+    {
+      "chunk": "get a wild hair to do sth.",
+      "meaning": "心血来潮想干某事；美式口语",
+      "start_cue": 365,
+      "end_cue": 365,
+      "start_time": "00:39:30,280",
+      "end_time": "00:39:33,066",
+      "quote": "Well, the next time you get a wild hair to play detective,",
+      "id": "S06E08-032"
+    },
+    {
+      "chunk": "sth. will do",
+      "meaning": "某物就可以／能满足需要",
+      "start_cue": 373,
+      "end_cue": 373,
+      "start_time": "00:41:26,396",
+      "end_time": "00:41:27,876",
+      "quote": "I'm assuming stainless will do.",
+      "id": "S06E08-033"
+    },
+    {
+      "chunk": "vanity plates",
+      "meaning": "个性化车牌；美式",
+      "start_cue": 377,
+      "end_cue": 377,
+      "start_time": "00:41:59,908",
+      "end_time": "00:42:01,606",
+      "quote": "Green Jaguar, vanity plates.",
+      "selection_pass": 2,
+      "id": "S06E08-034"
+    },
+    {
+      "chunk": "wash up",
+      "meaning": "尸体等被冲到岸上；此处不是洗手",
+      "start_cue": 393,
+      "end_cue": 393,
+      "start_time": "00:42:55,268",
+      "end_time": "00:42:57,357",
+      "quote": "hoping the body will come washing up.",
+      "selection_pass": 2,
+      "id": "S06E08-035"
+    },
+    {
+      "chunk": "The moment that happens,…",
+      "meaning": "那事一发生，就……",
+      "start_cue": 397,
+      "end_cue": 397,
+      "start_time": "00:43:05,670",
+      "end_time": "00:43:08,629",
+      "quote": "The moment that happens, you call the cops.",
+      "selection_pass": 2,
+      "id": "S06E08-036"
+    },
+    {
+      "chunk": "Good chance…",
+      "meaning": "很可能……；口语省略there's a",
+      "start_cue": 399,
+      "end_cue": 399,
+      "start_time": "00:43:11,632",
+      "end_time": "00:43:14,156",
+      "quote": "Good chance somebody noticed it.",
+      "selection_pass": 2,
+      "id": "S06E08-037"
+    },
+    {
+      "chunk": "not make a lick of sense",
+      "meaning": "完全说不通；非正式强调",
+      "start_cue": 405,
+      "end_cue": 405,
+      "start_time": "00:43:26,386",
+      "end_time": "00:43:28,214",
+      "quote": "Didn't make a lick of sense.",
+      "id": "S06E08-038"
+    },
+    {
+      "chunk": "go about sb.'s day",
+      "meaning": "照常过一天／照常办日常事务",
+      "start_cue": 417,
+      "end_cue": 417,
+      "start_time": "00:44:00,638",
+      "end_time": "00:44:03,031",
+      "quote": "So, you two are gonna go about your day.",
+      "id": "S06E08-039",
+      "original_chunk": "go about one's day"
+    },
+    {
+      "chunk": "stare into space",
+      "meaning": "发呆／望着空处出神",
+      "start_cue": 420,
+      "end_cue": 420,
+      "start_time": "00:44:09,429",
+      "end_time": "00:44:11,431",
+      "quote": "No staring into space.",
+      "selection_pass": 2,
+      "id": "S06E08-040"
+    },
+    {
+      "chunk": "out of the ordinary",
+      "meaning": "异乎寻常的",
+      "start_cue": 421,
+      "end_cue": 421,
+      "start_time": "00:44:11,605",
+      "end_time": "00:44:13,912",
+      "quote": "Nothing out of the ordinary. You cover.",
+      "id": "S06E08-041"
+    },
+    {
+      "chunk": "just another day that ends in Y",
+      "meaning": "只是普通的一天；所有英文星期均以y结尾的笑话",
+      "start_cue": 423,
+      "end_cue": 423,
+      "start_time": "00:44:16,218",
+      "end_time": "00:44:18,258",
+      "quote": "it's just another day that ends in \"Y,\" that's all.",
+      "id": "S06E08-042"
+    },
+    {
+      "chunk": "impress upon sb. that…",
+      "meaning": "郑重让某人明白……；正式强调",
+      "start_cue": 426,
+      "end_cue": 427,
+      "start_time": "00:44:24,749",
+      "end_time": "00:44:31,277",
+      "quote": "Now, I need to impress upon you... None of this ever happened.",
+      "id": "S06E08-043"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "turn on sb.",
+      "meaning": "背叛／突然与某人为敌",
+      "start_cue": 7,
+      "end_cue": 7,
+      "start_time": "00:03:07,317",
+      "end_time": "00:03:09,928",
+      "quote": "I never turned on you. I didn't. Never!",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s01e06-selection.json",
+          "转而反对／背叛某人（此处举报）"
+        ]
+      ]
+    },
+    {
+      "chunk": "Either way,…",
+      "meaning": "无论哪种情况……",
+      "start_cue": 97,
+      "end_cue": 97,
+      "start_time": "00:06:13,416",
+      "end_time": "00:06:15,113",
+      "quote": "Either way, that door stays shut.",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s01e07-selection.json",
+          "不管怎样／无论哪种情况，……"
+        ]
+      ]
+    },
+    {
+      "chunk": "Save it.",
+      "meaning": "省省吧／别解释了；打断话语",
+      "start_cue": 179,
+      "end_cue": 179,
+      "start_time": "00:10:59,267",
+      "end_time": "00:11:00,267",
+      "quote": "Save it.",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s02e07-selection.json",
+          "省省吧／别解释了；不耐烦"
+        ]
+      ]
+    },
+    {
+      "chunk": "stay with me",
+      "meaning": "保持清醒、注意听我；安抚慌乱者",
+      "start_cue": 237,
+      "end_cue": 237,
+      "start_time": "00:17:21,257",
+      "end_time": "00:17:23,085",
+      "quote": "Ms. Wexler, you stay with me.",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s02e03-selection.json",
+          "听我继续讲／跟上我的思路"
+        ]
+      ]
+    },
+    {
+      "chunk": "Copy that.",
+      "meaning": "收到；通讯口语",
+      "start_cue": 279,
+      "end_cue": 279,
+      "start_time": "00:22:39,314",
+      "end_time": "00:22:40,446",
+      "quote": "Copy that.",
+      "reason": "同形候选；既有释义无明显独立新义，最终合并复核",
+      "existing": [
+        [
+          "better-call-saul-s03e01-selection.json",
+          "收到／明白；无线电通话用语"
+        ]
+      ]
+    },
+    {
+      "chunk": "talk sb. out of it",
+      "meaning": "说服某人打消念头",
+      "start_cue": 266,
+      "end_cue": 268,
+      "start_time": "00:21:36,469",
+      "end_time": "00:21:46,130",
+      "quote": "But my husband talked him out of it because he wanted to get me out of there. He talked Lalo out of it.",
+      "selection_pass": 2,
+      "reason": "对象代词",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "talk sb. out of sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "say it out loud",
+      "meaning": "大声说出来；此处要求明确表态",
+      "start_cue": 430,
+      "end_cue": 430,
+      "start_time": "00:44:38,240",
+      "end_time": "00:44:39,894",
+      "quote": "Say it out loud. I need to hear it.",
+      "selection_pass": 2,
+      "reason": "对象代词",
+      "earlier": {
+        "episode": "s02e07",
+        "chunk": "say sth. out loud"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Nothing like that.",
+      "meaning": "不是那回事／不用那样的帮助",
+      "start_cue": 340,
+      "end_cue": 340,
+      "start_time": "00:38:00,669",
+      "end_time": "00:38:02,410",
+      "quote": "Nothing like that.",
+      "selection_pass": 2,
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s03e03",
+        "chunk": "Nothing like that."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Safe travels.",
+      "meaning": "一路平安",
+      "start_cue": 355,
+      "end_cue": 355,
+      "start_time": "00:38:40,361",
+      "end_time": "00:38:41,797",
+      "quote": "Well, safe travels, Mr. Fring.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e02",
+        "chunk": "Safe travels."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "The clock's ticking.",
+      "meaning": "时间不多了／倒计时在继续",
+      "start_cue": 135,
+      "end_cue": 135,
+      "start_time": "00:08:17,279",
+      "end_time": "00:08:19,194",
+      "quote": "Clock's ticking, Mrs. Goodman.",
+      "reason": "跨季同形同义／同功能；标点、时态语气提示或对象变化不足以独立重收",
+      "earlier": {
+        "episode": "s04e06",
+        "chunk": "The clock's ticking."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [
+    {
+      "word": "clicker",
+      "meaning": "遥控开锁器；口语",
+      "start_cue": 17,
+      "end_cue": 17,
+      "start_time": "00:03:35,302",
+      "end_time": "00:03:36,822",
+      "quote": "Press the clicker, and you'll find it.",
+      "status": "首遍通读中另轨记录的词汇候选；未作全面词汇提取"
+    },
+    {
+      "word": "prone",
+      "meaning": "俯卧的",
+      "start_cue": 359,
+      "end_cue": 359,
+      "start_time": "00:38:53,461",
+      "end_time": "00:38:54,680",
+      "quote": "Sir, you should remain prone.",
+      "status": "首遍通读中另轨记录的词汇候选；未作全面词汇提取"
+    }
+  ],
+  "validation": {
+    "source_sha256_verified": true,
+    "source_cue_sequence_verified": true,
+    "quotes_and_times_verified": true,
+    "scope": "核实所有保留/重复/待核/词汇候选的原句及起止cue时间码；不证明无遗漏"
+  },
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

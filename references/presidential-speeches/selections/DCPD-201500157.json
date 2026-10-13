@@ -1,0 +1,790 @@
+{
+  "source_id": "DCPD-201500157",
+  "html_source": "https://www.govinfo.gov/content/pkg/DCPD-201500157/html/DCPD-201500157.htm",
+  "source_sha256": "d81b1c06e3a5737b1290472effaae1f36fec898939df7bf4e58b33ccf8eea5fa",
+  "paragraphs_read": 57,
+  "read_ranges": [
+    [
+      1,
+      57
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        57
+      ]
+    ],
+    "method": "先逐段检查外层表达动作及内部搭配，再回看所有未收段和已有条目所在段；补充否定推论、条件、转述、时间与普通动作结构，不按单词简单或考试出现推定掌握。",
+    "added": 8,
+    "intentionally_omitted": "称呼致谢、宗教祝福、政治运动口号、专名罗列、一次性长修辞、仅依赖具体历史的比喻；引用段可收可迁移局部但不冒充日常高频。"
+  },
+  "items": [
+    {
+      "chunk": "It is a rare honor to do sth.",
+      "meaning": "能做某事是难得的荣幸",
+      "register": "正式／感谢",
+      "note": "可用于介绍嘉宾或承接机会；rare 强调难得。",
+      "paragraph": 3,
+      "quote": "It is a rare honor in this life to follow one of your heroes.",
+      "quote_sha256": "d416832671171870e7d7093c0ec0515be75c56b4d67a611204d2a7e0d06f578b"
+    },
+    {
+      "chunk": "I have to imagine that 从句",
+      "meaning": "我想……应该是如此",
+      "register": "中性／推测",
+      "note": "原句从历史人物处境作推测，非已核实心理事实。",
+      "paragraph": 4,
+      "quote": "Now, I have to imagine that when a younger John Lewis woke up that morning 50 years ago and made his way to Brown Chapel, heroics were not on his mind.",
+      "quote_sha256": "0a3a1acfaf612cef5633392c6f75699d6204183b81c0a9a4c58d7a1de4e0e358"
+    },
+    {
+      "chunk": "make one's way to sth.",
+      "meaning": "前往某地",
+      "register": "中性／叙事",
+      "note": "常含过程或行进意味；不等同 make way for。",
+      "paragraph": 4,
+      "quote": "Now, I have to imagine that when a younger John Lewis woke up that morning 50 years ago and made his way to Brown Chapel, heroics were not on his mind.",
+      "quote_sha256": "0a3a1acfaf612cef5633392c6f75699d6204183b81c0a9a4c58d7a1de4e0e358"
+    },
+    {
+      "chunk": "on one's mind",
+      "meaning": "在某人心里惦记着",
+      "register": "中性／生活",
+      "note": "原句否定表示当时未考虑英雄行为。",
+      "paragraph": 4,
+      "quote": "Now, I have to imagine that when a younger John Lewis woke up that morning 50 years ago and made his way to Brown Chapel, heroics were not on his mind.",
+      "quote_sha256": "0a3a1acfaf612cef5633392c6f75699d6204183b81c0a9a4c58d7a1de4e0e358"
+    },
+    {
+      "chunk": "mill about",
+      "meaning": "聚在一处四下走动",
+      "register": "中性／叙事",
+      "note": "通常群体无明确方向地移动。",
+      "paragraph": 4,
+      "quote": "Young folks with bedrolls and backpacks were milling about.",
+      "quote_sha256": "dabcb633689cb57757f8ddfcf89997de469e115c1b77d3239a9121baf4c7ebd0"
+    },
+    {
+      "chunk": "scribble down sth.",
+      "meaning": "匆忙记下某事",
+      "register": "中性／生活工作",
+      "note": "此处 instructions；scribble 表潦草或快速。",
+      "paragraph": 4,
+      "quote": "A doctor described what tear gas does to the body, while marchers scribbled down instructions for contacting their loved ones.",
+      "quote_sha256": "bc5b4aad957c42b5648d6abb766ff70ac9000c6ff1858dde525ba6cf4346773b"
+    },
+    {
+      "chunk": "one's loved ones",
+      "meaning": "亲近的家人或所爱之人",
+      "register": "中性／生活",
+      "note": "不限定恋人。",
+      "paragraph": 4,
+      "quote": "A doctor described what tear gas does to the body, while marchers scribbled down instructions for contacting their loved ones.",
+      "quote_sha256": "bc5b4aad957c42b5648d6abb766ff70ac9000c6ff1858dde525ba6cf4346773b"
+    },
+    {
+      "chunk": "be thick with sth.",
+      "meaning": "充满某种情绪或事物",
+      "register": "文学／叙事",
+      "note": "原句空气充满怀疑、期待与害怕；不声称普通口语高频。",
+      "paragraph": 4,
+      "quote": "The air was thick with doubt, anticipation, and fear.",
+      "quote_sha256": "ded9d5d0f807dd8974bb8b88298a07d32242a332e63c470e6083eab5c3027f38"
+    },
+    {
+      "chunk": "behind bars",
+      "meaning": "在监狱里；被监禁",
+      "register": "中性／新闻叙事",
+      "note": "bars 为牢房铁栏，不是酒吧。",
+      "paragraph": 5,
+      "quote": "And then, his knapsack stocked with an apple, a toothbrush, and a book on government—all you need for a night behind bars—John Lewis led them out of the church on a mission to change America.",
+      "quote_sha256": "616c10ae2feb65186d09be9d59f28520f2b2564012ba01daf882d6c91b8eb5a7"
+    },
+    {
+      "chunk": "on a mission to do sth.",
+      "meaning": "怀着明确使命去做某事",
+      "register": "中性／行动",
+      "note": "可用于认真目标，随意场景也可能幽默夸张。",
+      "paragraph": 5,
+      "quote": "And then, his knapsack stocked with an apple, a toothbrush, and a book on government—all you need for a night behind bars—John Lewis led them out of the church on a mission to change America.",
+      "quote_sha256": "616c10ae2feb65186d09be9d59f28520f2b2564012ba01daf882d6c91b8eb5a7"
+    },
+    {
+      "chunk": "in isolation",
+      "meaning": "孤立地；脱离相关背景地",
+      "register": "中性偏正式／分析",
+      "note": "原句反对孤立分析历史事件。",
+      "paragraph": 9,
+      "quote": "Now, as is true across the landscape of American history, we cannot examine this moment in isolation.",
+      "quote_sha256": "3d178a79c0349cc3f4517da1263e8180289dadda73548df246dea2eaff5839fc"
+    },
+    {
+      "chunk": "part of a broader sth.",
+      "meaning": "某个更广泛事物的一部分",
+      "register": "中性／界定范围",
+      "note": "可说明事件属于更大过程，非固定习语。",
+      "paragraph": 9,
+      "quote": "The march on Selma was part of a broader campaign that spanned generations, the leaders that day part of a long line of heroes.",
+      "quote_sha256": "781e4e50c0008d0186647415f48982d60d78bb7ed2efe2ed35f5aa58cc08b618"
+    },
+    {
+      "chunk": "stay true to sth.",
+      "meaning": "始终忠于某个原则或目标",
+      "register": "中性／立场",
+      "note": "与 remain faithful to 接近，合并时可作为变体。",
+      "paragraph": 10,
+      "quote": "men and women who despite the gush of blood and splintered bone would stay true to their north star and keep marching towards justice.",
+      "quote_sha256": "3a870070671e9ac5eff6c5cebe85b2376205655eb1cc49e146c7789ce04347a4"
+    },
+    {
+      "chunk": "in the days to come",
+      "meaning": "在接下来的日子里",
+      "register": "中性偏正式／叙事",
+      "note": "不等于过去那些天。",
+      "paragraph": 10,
+      "quote": "They did as Scripture instructed: \"Rejoice in hope, be patient in tribulation, be constant in prayer.\" And in the days to come, they went back again and again.",
+      "quote_sha256": "da737fdf5650674476462ea1c18148060e9822bb251500b770b7acebbc9bb4a1"
+    },
+    {
+      "chunk": "In time",
+      "meaning": "过一段时间；最终",
+      "register": "中性／叙事",
+      "note": "此处不是及时赶到的 in time 义。",
+      "paragraph": 11,
+      "quote": "In time, their chorus would well up and reach President Johnson.",
+      "quote_sha256": "904fdc3ff5f2d6c5125bcd3ad40fb0973298bf78d24a3925b69cfe703e7b25ab"
+    },
+    {
+      "chunk": "seek special treatment",
+      "meaning": "寻求特殊待遇",
+      "register": "中性／评价",
+      "note": "原句否定，强调争取平等待遇。",
+      "paragraph": 12,
+      "quote": "But they didn't seek special treatment, just the equal treatment promised to them almost a century before.",
+      "quote_sha256": "fec2255f8c9f456759e4108d64a6d160a03926238ce3b6be3effd13fb014a2ae"
+    },
+    {
+      "chunk": "be well served to do sth.",
+      "meaning": "做某事会有益／值得做",
+      "register": "正式／建议",
+      "note": "原文形式保留，正式教学前核对常见 be well served by doing 的接法。",
+      "paragraph": 14,
+      "quote": "As we commemorate their achievement, we are well served to remember that, at the time of the marches, many in power condemned rather than praised them.",
+      "quote_sha256": "fcc4766ffcd13e50221c8277e954d53d4b6bbf7b8b4bd29e91d5767c9a10611d"
+    },
+    {
+      "chunk": "Back then",
+      "meaning": "那时候；当年",
+      "register": "中性／叙事",
+      "note": "承接已提到的过去时期。",
+      "paragraph": 14,
+      "quote": "Back then, they were called Communists or half-breeds or outside agitators, sexual and moral degenerates, and worse.",
+      "quote_sha256": "ddac9885fbaa47e9750598a27dd63dff0c50e49f34033da8fe3ef4c5af8cbe04"
+    },
+    {
+      "chunk": "everything but sth.",
+      "meaning": "除了某物以外什么都……",
+      "register": "中性／强调",
+      "note": "原句表达各式辱称却不叫本名；but 为 except。",
+      "paragraph": 14,
+      "quote": "They were called everything but the name their parents gave them.",
+      "quote_sha256": "57b33c42613ed0138a7239c6105cd970f2af601701abe18f976c258ff0727a1d"
+    },
+    {
+      "chunk": "What could be more + 形容词 + than sth.?",
+      "meaning": "还有什么比……更……？",
+      "register": "论述／反问",
+      "note": "用于强调极高评价，不是求事实答案。",
+      "paragraph": 15,
+      "quote": "And yet what could be more American than what happened in this place?",
+      "quote_sha256": "835a7b818b8e9b89c715b9e0e2b20390edfe90a4ee5ccb666426468092f96e22"
+    },
+    {
+      "chunk": "It is in sb.'s power to do sth.",
+      "meaning": "某人有能力或权力做某事",
+      "register": "正式／能力界限",
+      "note": "此处强调公民能够改变国家，非必然成功。",
+      "paragraph": 16,
+      "quote": "it is in our power to remake this Nation to more closely align with our highest ideals?",
+      "quote_sha256": "b14a658dc8100ad586154e5466e2efbe4b55eada2c18a23ff5abd526238e4856"
+    },
+    {
+      "chunk": "align with sth.",
+      "meaning": "与某种目标或标准一致",
+      "register": "中性／工作",
+      "note": "此处 ideals；非只物理对齐。",
+      "paragraph": 16,
+      "quote": "it is in our power to remake this Nation to more closely align with our highest ideals?",
+      "quote_sha256": "b14a658dc8100ad586154e5466e2efbe4b55eada2c18a23ff5abd526238e4856"
+    },
+    {
+      "chunk": "That's why 从句",
+      "meaning": "这就是为什么……",
+      "register": "中性／解释",
+      "note": "连接前面的理由和结果，不据易懂而排除。",
+      "paragraph": 17,
+      "quote": "That's why their Selma is not some outlier in the American experience.",
+      "quote_sha256": "cbbe432187112367504c7c5cbed1526996bb9a4883a5518955d5b4ae37482ea3"
+    },
+    {
+      "chunk": "a call to action",
+      "meaning": "行动号召",
+      "register": "中性偏正式",
+      "note": "不是 call 的单独电话义。",
+      "paragraph": 18,
+      "quote": "They're a living thing, a call to action, a roadmap for citizenship, and an insistence in the capacity of free men and women to shape our own destiny.",
+      "quote_sha256": "13357832356a2885da03ad268ee28265c25c8ca4cb8dc0db16c8a666ac71c1a3"
+    },
+    {
+      "chunk": "engage sb. in sth.",
+      "meaning": "让某人参与某事",
+      "register": "中性／工作",
+      "note": "此处积极参与自治工作。",
+      "paragraph": 18,
+      "quote": "the success of our experiment in self-government rested on engaging all of our citizens in this work.",
+      "quote_sha256": "2295e4fb67981893f775d06b8bd908d0d6f859fd1b11955cf3641536b6fe0a69"
+    },
+    {
+      "chunk": "That's what sth. is all about",
+      "meaning": "这正是某事的核心意义",
+      "register": "中性／解释",
+      "note": "all about 不指所有细节。",
+      "paragraph": 18,
+      "quote": "That's what this movement was all about, one leg in our long journey toward freedom.",
+      "quote_sha256": "3df377f52a91da22c612ca71419fc4904143751db9f85de88b19b7351518dacf"
+    },
+    {
+      "chunk": "pick up the torch",
+      "meaning": "接过前人的事业继续做",
+      "register": "正式／演讲比喻",
+      "note": "不是每个普通工作交接都适用。",
+      "paragraph": 19,
+      "quote": "The American instinct that led these young men and women to pick up the torch and cross this bridge, that's the same instinct that moved patriots to choose revolution over tyranny.",
+      "quote_sha256": "56843dfd9ea09fb35771ec1a4d3d1a565daa9ce7994023a985dd640e5558e32b"
+    },
+    {
+      "chunk": "a work in progress",
+      "meaning": "尚在完善中的事物",
+      "register": "中性／工作评价",
+      "note": "可用于产品、项目或自身成长。",
+      "paragraph": 20,
+      "quote": "It's the idea held by generations of citizens who believed that America is a constant work in progress, who believed that loving this country requires more than singing its praises or avoiding uncomfortable truths.",
+      "quote_sha256": "e81fa05580836da64c053dc72a96777c0bb26d1e8d580bbf65584c38cde6ab01"
+    },
+    {
+      "chunk": "sing sb.'s/sth.'s praises",
+      "meaning": "大力赞扬某人／事",
+      "register": "中性／评价",
+      "note": "不是字面唱歌；有时可带过度吹捧意味。",
+      "paragraph": 20,
+      "quote": "It's the idea held by generations of citizens who believed that America is a constant work in progress, who believed that loving this country requires more than singing its praises or avoiding uncomfortable truths.",
+      "quote_sha256": "e81fa05580836da64c053dc72a96777c0bb26d1e8d580bbf65584c38cde6ab01"
+    },
+    {
+      "chunk": "speak out for sth.",
+      "meaning": "公开发声支持某事",
+      "register": "中性／立场",
+      "note": "speak out 常强调不保持沉默。",
+      "paragraph": 20,
+      "quote": "It requires the occasional disruption, the willingness to speak out for what is right, to shake up the status quo.",
+      "quote_sha256": "dcd992e4f525fcbf73f843d9ae4ab47391eb9f7e0e18e12c59099ead7512b36c"
+    },
+    {
+      "chunk": "shake up the status quo",
+      "meaning": "冲击或改变现有局面",
+      "register": "中性偏正式／改革",
+      "note": "shake up 并非简单摇晃。",
+      "paragraph": 20,
+      "quote": "It requires the occasional disruption, the willingness to speak out for what is right, to shake up the status quo.",
+      "quote_sha256": "dcd992e4f525fcbf73f843d9ae4ab47391eb9f7e0e18e12c59099ead7512b36c"
+    },
+    {
+      "chunk": "draw strength from sth.",
+      "meaning": "从某事中获得力量／支持",
+      "register": "中性／鼓励",
+      "note": "此处历史事件给予继续行动的勇气。",
+      "paragraph": 21,
+      "quote": "From the streets of Tunis to the Maidan in Ukraine, this generation of young people can draw strength from this place, where the powerless could change the world's greatest power and push their leaders to expand the boundaries of freedom.",
+      "quote_sha256": "d0b1338bfdc615d1857af586fb9f3798db431830ee2d932d674ca50639b711a2"
+    },
+    {
+      "chunk": "cement one's reputation as sth.",
+      "meaning": "巩固作为某种角色的声誉",
+      "register": "正式／评价",
+      "note": "cement 为比喻巩固；非水泥义。",
+      "paragraph": 21,
+      "quote": "That's what cements our reputation as a beacon of opportunity.",
+      "quote_sha256": "e60b8485e4795784cc03f5263da073b891edf973a5f7de396a6ee6666ecbcedd"
+    },
+    {
+      "chunk": "submit to sth.",
+      "meaning": "屈从于某种统治或要求",
+      "register": "正式／立场",
+      "note": "此处军事统治，非提交文件。",
+      "paragraph": 21,
+      "quote": "Young people in Burma went to prison rather than submit to military rule.",
+      "quote_sha256": "35477e1ae2cf1e2de0d984836bb2ee25b9f78f152a0f55b256f9d8679afd98d2"
+    },
+    {
+      "chunk": "Which leads us to ask ...",
+      "meaning": "这就引出我们要问的问题……",
+      "register": "论述／衔接",
+      "note": "which 回指前述整件事，不应当作独立完整句模板。",
+      "paragraph": 23,
+      "quote": "Which leads us to ask, just how might we repay that debt?",
+      "quote_sha256": "3e729127c619348be840d8b87b326270e82f2b774d53422a8fb86094035e4b8a"
+    },
+    {
+      "chunk": "First and foremost",
+      "meaning": "首先且最重要的是",
+      "register": "中性／排序",
+      "note": "兼有首要重要性，不仅是时间先后。",
+      "paragraph": 24,
+      "quote": "First and foremost, we have to recognize that one day's commemoration, no matter how special, is not enough.",
+      "quote_sha256": "812d849b32c9565cbb9cf1d80e887dea821c909aa641c89fa27a873c59409562"
+    },
+    {
+      "chunk": "If sth. taught us anything, it's that 从句",
+      "meaning": "如果某事教给我们什么，那就是……",
+      "register": "中性／经验总结",
+      "note": "强调最重要教训，非怀疑有没有学到东西。",
+      "paragraph": 24,
+      "quote": "If Selma taught us anything, it's that our work is never done.",
+      "quote_sha256": "1d76604ecfb6394b1387a0827a52e9c386f515e49814430e6959446a3e6a5d61"
+    },
+    {
+      "chunk": "when it comes to sth.",
+      "meaning": "说到某个领域；涉及某事时",
+      "register": "中性／界定议题",
+      "note": "to 为介词，后可接 doing。",
+      "paragraph": 25,
+      "quote": "For when it comes to the pursuit of justice, we can afford neither complacency nor despair.",
+      "quote_sha256": "528538abce5386a3a1a2b3999282bf4f95af1f6b30e6e9f4818116a67e42ef31"
+    },
+    {
+      "chunk": "with respect to sth.",
+      "meaning": "关于某事；就某方面而言",
+      "register": "正式／分析",
+      "note": "此处不是尊敬某事。",
+      "paragraph": 25,
+      "quote": "Just this week, I was asked whether I thought the Department of Justice's Ferguson report shows that, with respect to race, little has changed in this country.",
+      "quote_sha256": "1aef9dd199ec62bec30352487a52854721caae46f2b920e159708c2dc479d112"
+    },
+    {
+      "chunk": "reject the notion that 从句",
+      "meaning": "不接受……这一观点",
+      "register": "正式／异议",
+      "note": "notion 引出被反对的主张。",
+      "paragraph": 25,
+      "quote": "But I rejected the notion that nothing's changed.",
+      "quote_sha256": "f93b8428bd9dd081cbdaa8ea2c787b247e54408fe018470234b8b4e92e8538ce"
+    },
+    {
+      "chunk": "I was asked whether 从句",
+      "meaning": "有人问我是否……",
+      "register": "中性／转述",
+      "note": "被动引入别人提出的问题，不需添加提问者。",
+      "paragraph": 25,
+      "quote": "Just this week, I was asked whether I thought the Department of Justice's Ferguson report shows that, with respect to race, little has changed in this country.",
+      "quote_sha256": "1aef9dd199ec62bec30352487a52854721caae46f2b920e159708c2dc479d112"
+    },
+    {
+      "chunk": "do a disservice to sb./sth.",
+      "meaning": "对某人／事业帮倒忙或造成不公",
+      "register": "中性偏正式／批评",
+      "note": "原句指把歧视说成永恒不变反而损害正义。",
+      "paragraph": 26,
+      "quote": "We do a disservice to the cause of justice by intimating that bias and discrimination are immutable, that racial division is inherent in America.",
+      "quote_sha256": "50b030316664964667e97b85dde85b16174fd28319b2854768e6d66a8ddf94cd"
+    },
+    {
+      "chunk": "live through sth.",
+      "meaning": "亲身经历某段时期或困难",
+      "register": "中性／叙事",
+      "note": "不同于住在某处。",
+      "paragraph": 26,
+      "quote": "If you think nothing's changed in the past 50 years, ask somebody who lived through the Selma or Chicago or Los Angeles of the 1950s.",
+      "quote_sha256": "a3b5ee04949ee19978ac600fda51ce23bf6bac3a388bd3e6ae96efbe466e4586"
+    },
+    {
+      "chunk": "rob sb. of sth.",
+      "meaning": "剥夺某人的某物／机会",
+      "register": "中性／影响",
+      "note": "可抽象搭配 agency、chance，不只财物抢劫。",
+      "paragraph": 26,
+      "quote": "To deny this progress, this hard-won progress—our progress—would be to rob us of our own agency, our own capacity, our responsibility to do what we can to make America better.",
+      "quote_sha256": "3aeae8957e045e567ff27b9b788d40329c83b4cda52ed5022566c094bd3a97cf"
+    },
+    {
+      "chunk": "an isolated incident",
+      "meaning": "孤立个案",
+      "register": "中性／分析",
+      "note": "原句反对把事件说成个案；非 isolated 人际孤独义。",
+      "paragraph": 27,
+      "quote": "Of course, a more common mistake is to suggest that Ferguson is an isolated incident, that racism is banished, that the work that drew men and women to Selma is now complete, and that whatever racial tensions remain are a consequence of those seeking to play the \"race card\" for their own purposes.",
+      "quote_sha256": "cb081c41f7cf948c86d43ea9773cdefefe2aeefb7aa4ea9967feb6241fd961e9"
+    },
+    {
+      "chunk": "for one's own purposes",
+      "meaning": "为自己的目的",
+      "register": "中性／动机批评",
+      "note": "原句带借题发挥的负面评价。",
+      "paragraph": 27,
+      "quote": "those seeking to play the \"race card\" for their own purposes.",
+      "quote_sha256": "5c9588d7cc599515a4726d84741b695aeec72244445a66807f1c335528f15aef"
+    },
+    {
+      "chunk": "cast a shadow upon/over sth.",
+      "meaning": "给某事蒙上阴影",
+      "register": "中性偏文学／影响",
+      "note": "原句 long 加强持续历史影响；可迁移但保留比喻语气。",
+      "paragraph": 27,
+      "quote": "We just need to open our eyes and our ears and our hearts to know that this Nation's racial history still casts its long shadow upon us.",
+      "quote_sha256": "dfba75e7832fc4d50e51843600d33391edd9a130af81d4b883b889173e1478e1"
+    },
+    {
+      "chunk": "We don't need sth. to know that 从句",
+      "meaning": "不用某种证据／条件我们也知道……",
+      "register": "中性／论证",
+      "note": "可能是强势立场，不能自动替代实际查证。",
+      "paragraph": 27,
+      "quote": "We don't need a Ferguson report to know that's not true.",
+      "quote_sha256": "235546ed55b4c7711948e18d227dcd0f483bb591787b0505eb08acc8ee4f96f6"
+    },
+    {
+      "chunk": "face up to sth.",
+      "meaning": "正视并承认某事",
+      "register": "中性／面对问题",
+      "note": "原句 truth；不等同 face down 的对抗。",
+      "paragraph": 28,
+      "quote": "We know that reaching that blessed destination where we are judged, all of us, by the content of our character requires admitting as much, facing up to the truth.",
+      "quote_sha256": "3dd9e2431c6da127744fa492957e98dd4e5d4e1325d01894212c5dae2b852092"
+    },
+    {
+      "chunk": "be capable of doing sth.",
+      "meaning": "有能力做某事",
+      "register": "中性／能力",
+      "note": "原句 Baldwin 引文，须保留引文语境。",
+      "paragraph": 28,
+      "quote": "\"We are capable of bearing a great burden,\" James Baldwin once wrote, \"once we discover that the burden is reality and arrive where reality is.\"",
+      "quote_sha256": "7c4ae2c170b4142239254401afdb16fb39d3ca167ff7b25c57518d8b38a54a93"
+    },
+    {
+      "chunk": "look squarely at sth.",
+      "meaning": "直面某个问题",
+      "register": "中性偏正式／决心",
+      "note": "不是物理看成正方形。",
+      "paragraph": 29,
+      "quote": "There's nothing America can't handle if we actually look squarely at the problem.",
+      "quote_sha256": "349c1527bafca9ba562b56a3df27e3276f52805791cb8f8a4f5fb59b96e4ab4c"
+    },
+    {
+      "chunk": "no matter how hard it may seem",
+      "meaning": "无论看起来有多困难",
+      "register": "中性／鼓励",
+      "note": "may 保留可能性，非断定一定难。",
+      "paragraph": 29,
+      "quote": "And if we make such an effort, no matter how hard it may sometimes seem, laws can be passed and consciences can be stirred and consensus can be built.",
+      "quote_sha256": "0c7d728e4aa873edd30ae014fedc7d8b29dfd10fe9f903617b4dae7f88b9ee3d"
+    },
+    {
+      "chunk": "build consensus",
+      "meaning": "建立共识",
+      "register": "中性／工作",
+      "note": "原句被动 consensus can be built，非统一全部意见。",
+      "paragraph": 29,
+      "quote": "And if we make such an effort, no matter how hard it may sometimes seem, laws can be passed and consciences can be stirred and consensus can be built.",
+      "quote_sha256": "0c7d728e4aa873edd30ae014fedc7d8b29dfd10fe9f903617b4dae7f88b9ee3d"
+    },
+    {
+      "chunk": "There's nothing sb. can't handle if 从句",
+      "meaning": "只要……，某人没有应付不了的事",
+      "register": "中性／鼓励",
+      "note": "双重否定强化信心，原句条件是直面问题；不是事实保证。",
+      "paragraph": 29,
+      "quote": "There's nothing America can't handle if we actually look squarely at the problem.",
+      "quote_sha256": "349c1527bafca9ba562b56a3df27e3276f52805791cb8f8a4f5fb59b96e4ab4c"
+    },
+    {
+      "chunk": "risk one's life to do sth.",
+      "meaning": "冒生命危险做某事",
+      "register": "中性／叙事",
+      "note": "用于真实重大危险，不泛化为普通工作风险。",
+      "paragraph": 30,
+      "quote": "Together, we can raise the level of mutual trust that policing is built on: the idea that police officers are members of the community they risk their lives to protect.",
+      "quote_sha256": "942efe193de8db7c7b92b2682d6d6bc05ed1f3d584b6437ed63bbf1246a0cf98"
+    },
+    {
+      "chunk": "a free ride",
+      "meaning": "不承担成本或责任而享受好处",
+      "register": "中性／批评",
+      "note": "此处并非免费乘车。",
+      "paragraph": 31,
+      "quote": "Americans don't accept a free ride for anybody, nor do we believe in equality of outcomes.",
+      "quote_sha256": "46c7e6ccd458d5bd6fe06a19c029679abab334701896dab9c5ebaa2150586f72"
+    },
+    {
+      "chunk": "give lip service to sth.",
+      "meaning": "口头支持某事却不付诸行动",
+      "register": "中性／批评",
+      "note": "不可把 lip service 当积极认可。",
+      "paragraph": 31,
+      "quote": "And if we really mean it, if we're not just giving lip service to it, but if we really mean it and are willing to sacrifice for it,",
+      "quote_sha256": "90b96c3500a6ef212504c06cf52e7849e95f383ee7633647af98e40bfae0b85a"
+    },
+    {
+      "chunk": "if sb. really means it",
+      "meaning": "如果某人当真／是认真说的",
+      "register": "中性／求诚意",
+      "note": "原句与实际牺牲连接，非 mean 单词释义。",
+      "paragraph": 31,
+      "quote": "And if we really mean it, if we're not just giving lip service to it, but if we really mean it and are willing to sacrifice for it,",
+      "quote_sha256": "90b96c3500a6ef212504c06cf52e7849e95f383ee7633647af98e40bfae0b85a"
+    },
+    {
+      "chunk": "As we speak",
+      "meaning": "就在此刻；我们说话的同时",
+      "register": "中性／强调当下",
+      "note": "不是就说话方式而言。",
+      "paragraph": 32,
+      "quote": "As we speak, more such laws are being proposed.",
+      "quote_sha256": "e29b06b885b8520667439e858b086e66f6b5ddb1a3e0b65f9f3c928c09ec0ac7"
+    },
+    {
+      "chunk": "blood, sweat and tears",
+      "meaning": "艰辛付出与牺牲",
+      "register": "中性偏演讲",
+      "note": "原句 so much 插入各名词；不认为字面每项都出现。",
+      "paragraph": 32,
+      "quote": "Meanwhile, the Voting Rights Act, the culmination of so much blood, so much sweat and tears, the product of so much sacrifice in the face of wanton violence, the Voting Rights Act stands weakened, its future subject to political rancor.",
+      "quote_sha256": "1f2ee9521be19dcdd84ba62049358563bc39fa7b516976ddbd7596c5c8af0b0b"
+    },
+    {
+      "chunk": "How can that be?",
+      "meaning": "怎么会这样？",
+      "register": "中性／惊讶质疑",
+      "note": "此处反对现状，非仅请求说明。",
+      "paragraph": 33,
+      "quote": "How can that be?",
+      "quote_sha256": "d913be138386658cd777441d09b52e2a85cb574d5a3f90582f890334d65da8ff"
+    },
+    {
+      "chunk": "make it one's mission to do sth.",
+      "meaning": "把做某事当作自己的使命",
+      "register": "中性偏正式／决心",
+      "note": "语气比 take on a task 更强。",
+      "paragraph": 33,
+      "quote": "If we want to honor this day, let that hundred go back to Washington and gather 400 more, and together, pledge to make it their mission to restore that law this year.",
+      "quote_sha256": "093817e55ca0009445f7f1bb363a2bf800ad1bd0bffa8a594eec121bdec29ae8"
+    },
+    {
+      "chunk": "strike down a law",
+      "meaning": "裁定某法律无效",
+      "register": "正式／法律",
+      "note": "原句被动 struck down；不是普通否决建议。",
+      "paragraph": 34,
+      "quote": "If every new voter suppression law was struck down today, we would still have, here in America, one of the lowest voting rates among free peoples.",
+      "quote_sha256": "80719917cbf6586a97810e3391860f84fe9a7ba978de35a503d1a8dbb8dd89bb"
+    },
+    {
+      "chunk": "What's sb.'s excuse for doing/not doing sth.?",
+      "meaning": "某人做／不做某事有什么理由？",
+      "register": "中性／质问",
+      "note": "常带反诘责备，非礼貌中性询问。",
+      "paragraph": 35,
+      "quote": "What's our excuse today for not voting?",
+      "quote_sha256": "4e70236ece7e7d52eab0173160df2bbdce4069e92ae5926237bc61b80d97e58c"
+    },
+    {
+      "chunk": "take the time to do sth.",
+      "meaning": "抽出时间认真做某事",
+      "register": "中性／工作生活",
+      "note": "不只是耗时。",
+      "paragraph": 35,
+      "quote": "Why are we pointing to somebody else when we could take the time just to go to the polling places?",
+      "quote_sha256": "3da2e60dfd49aeae5623e1620a573cc872f53285c5c9eddabb9bbed2f3b589c1"
+    },
+    {
+      "chunk": "take sth. for granted",
+      "meaning": "把某事当作理所当然",
+      "register": "中性／反思",
+      "note": "这里珍惜便利，非假设一条命题为真。",
+      "paragraph": 36,
+      "quote": "We take for granted conveniences that our parents could have scarcely imagined.",
+      "quote_sha256": "c2e076c53fde67e54fdfabeb61fb37e686774e60fc5b6cb92e54fc2b3c7f7962"
+    },
+    {
+      "chunk": "That's what it means to do sth.",
+      "meaning": "这才是做某事的含义",
+      "register": "中性／阐释",
+      "note": "可迁移到职责、信任等概念，原政治对象不固定。",
+      "paragraph": 36,
+      "quote": "That's what it means to love America.",
+      "quote_sha256": "93502e4b6be120ca21e41d29f7cb6bbf57b311c9fb674cda445cb90e6af6e72a"
+    },
+    {
+      "chunk": "sth. is what sb. makes of it",
+      "meaning": "某事会怎样取决于某人如何塑造它",
+      "register": "中性／鼓励",
+      "note": "原句 America is what we make of it，非声称完全可控。",
+      "paragraph": 37,
+      "quote": "We know America is what we make of it.",
+      "quote_sha256": "17034d4b3946e312612d8302b49001c76bbf8a40c2dca5b9e9302f5009c2fe8e"
+    },
+    {
+      "chunk": "and then some",
+      "meaning": "而且还不止如此；甚至更多",
+      "register": "口语／强调",
+      "note": "跟在比较数量或能力后，非然后的一些东西。",
+      "paragraph": 39,
+      "quote": "We are Sojourner Truth and Fannie Lou Hamer, women who could do as much as any man and then some.",
+      "quote_sha256": "fae0bcc834670e4246e9cd11d5e08003b566466718e4a4f23a0b99552ee0c164"
+    },
+    {
+      "chunk": "stow away",
+      "meaning": "偷乘交通工具",
+      "register": "中性／叙事",
+      "note": "原句 on ships；不是一般收纳义。",
+      "paragraph": 40,
+      "quote": "We're the immigrants who stowed away on ships to reach these shores, the huddled masses yearning to breathe free: Holocaust survivors, Soviet defectors, the Lost Boys of Sudan.",
+      "quote_sha256": "388b2b1a82d202f61d31ff39b8013cc8492700e95c8dd8456dba47734bc2ed90"
+    },
+    {
+      "chunk": "even as 从句",
+      "meaning": "正当……之际却……",
+      "register": "中性偏正式／让步",
+      "note": "原句一边为国家作战，一边自身自由被剥夺，时间与反差兼有。",
+      "paragraph": 42,
+      "quote": "And we're the Tuskeegee Airmen and the Navajo code talkers and the Japanese Americans who fought for this country even as their own liberty had been denied.",
+      "quote_sha256": "7d4119b21dd06e887d527fcb833c1def000bf22577ca379d71423c2b67434a0e"
+    },
+    {
+      "chunk": "sign up to do sth.",
+      "meaning": "报名／加入以做某事",
+      "register": "中性／工作生活",
+      "note": "此处参军；不把战争内容写成默认对象。",
+      "paragraph": 43,
+      "quote": "We're the firefighters who rushed into those buildings on 9/11, the volunteers who signed up to fight in Afghanistan and Iraq.",
+      "quote_sha256": "d5790c181c2c4d23836e013cf182448015f41104f6691879b6417991a7fb74be"
+    },
+    {
+      "chunk": "give voice to sb./sth.",
+      "meaning": "替某人发声；表达某种感受或观点",
+      "register": "中性偏正式",
+      "note": "原句 voiceless 指难以让声音被听到的人。",
+      "paragraph": 43,
+      "quote": "We are storytellers, writers, poets, artists who abhor unfairness and despise hypocrisy and give voice to the voiceless and tell truths that need to be told.",
+      "quote_sha256": "f49b2cd12d23fd72f7f178c39457554d2b83ba51eadb31466b03f7676ef1172c"
+    },
+    {
+      "chunk": "stand fast",
+      "meaning": "坚定立场，毫不动摇",
+      "register": "正式／文学",
+      "note": "原 Emerson 引文，非站得快。",
+      "paragraph": 46,
+      "quote": "We are the people Langston Hughes wrote of who \"build our temples for tomorrow, strong as we know how.\" We are the people Emerson wrote of, \"who for truth and honor's sake stand fast and suffer long,\" who are \"never tired, so long as we can see far enough.\"",
+      "quote_sha256": "75d510634ccbeeb09c30a1de1c81c8d3f0c75a1907b9a47d299502a54d356370"
+    },
+    {
+      "chunk": "pine for sth.",
+      "meaning": "苦苦怀念或渴望某物",
+      "register": "中性偏文学／情绪",
+      "note": "原句否定沉湎过去。",
+      "paragraph": 47,
+      "quote": "We respect the past, but we don't pine for the past.",
+      "quote_sha256": "2ef14fed069bfd2ead0664422068336973811c80b92aee552ab7841ea36452bf"
+    },
+    {
+      "chunk": "at the ripe old age of ...",
+      "meaning": "在……的高龄",
+      "register": "口语／幽默",
+      "note": "原句25岁形成反讽，不按真实高龄理解。",
+      "paragraph": 47,
+      "quote": "That's why someone like John Lewis at the ripe old age of 25 could lead a mighty march.",
+      "quote_sha256": "d95c7b21af5e33e18fcbb57de241ff53f95bd53d848d35ba44abe2f2554e5fa1"
+    },
+    {
+      "chunk": "take away sth. from sth.",
+      "meaning": "从某次经历中领悟／获得某种认识",
+      "register": "中性／总结",
+      "note": "原句 what ... must take away，区别带走物品义。",
+      "paragraph": 48,
+      "quote": "And that's what the young people here today and listening all across the country must take away from this day.",
+      "quote_sha256": "b9778bc9be64a2552cdde3032bda7c25a0892c8bd804e3c9dc6cb359688a3c83"
+    },
+    {
+      "chunk": "new ground to cover",
+      "meaning": "尚待探索的新领域或工作",
+      "register": "中性／工作比喻",
+      "note": "原句与桥梁构成演讲意象，不收整段为固定表达。",
+      "paragraph": 49,
+      "quote": "For everywhere in this country, there are first steps to be taken, there's new ground to cover, there are more bridges to be crossed.",
+      "quote_sha256": "195255868b5860a965c10099974e9f28ea385a4a9af8412d4c48d280c55cbd3e"
+    },
+    {
+      "chunk": "hold firmly to sth.",
+      "meaning": "牢牢坚持某种信念或准则",
+      "register": "中性偏正式",
+      "note": "原句 words 为坚持其中信念，不是物理握住。",
+      "paragraph": 51,
+      "quote": "When it feels the road is too hard, when the torch we've been passed feels too heavy, we will remember these early travelers and draw strength from their example and hold firmly to the words of the prophet Isaiah:",
+      "quote_sha256": "cbecfa7a8d45a8fed33f5499b51408599909eab3006cbf3ac463b3baa83df51e"
+    },
+    {
+      "chunk": "no longer with us",
+      "meaning": "已不在人世",
+      "register": "中性／委婉",
+      "note": "此处指逝去的民权人士；其他语境也可只指不在身边。",
+      "paragraph": 57,
+      "quote": "May He bless those warriors of justice no longer with us and bless the United States of America.",
+      "quote_sha256": "c85ebed5ed80470ee8bf2dc70b8deee604031ddc051bc6ebc7fb3e57fbf53314"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "not because 从句, not because 从句, but because 从句",
+      "meaning": "排除两种理由后强调真正原因",
+      "register": "演讲／论证",
+      "note": "与2013 not because...but because 同一功能，重复变式登记。",
+      "paragraph": 13,
+      "quote": "Not because the change they won was preordained, not because their victory was complete, but because they proved that nonviolent change is possible, that love and hope can conquer hate.",
+      "quote_sha256": "096742e16e4f6b65fd6e58e2504fa06891e0cb076024ca8059109a5f679c5c3a"
+    },
+    {
+      "chunk": "draw strength from sth.",
+      "meaning": "从某事中获得力量",
+      "register": "中性／鼓励",
+      "note": "与21段同形同义，登记重复不新增。",
+      "paragraph": 51,
+      "quote": "When it feels the road is too hard, when the torch we've been passed feels too heavy, we will remember these early travelers and draw strength from their example and hold firmly to the words of the prophet Isaiah:",
+      "quote_sha256": "cbecfa7a8d45a8fed33f5499b51408599909eab3006cbf3ac463b3baa83df51e"
+    }
+  ],
+  "pending": [
+    {
+      "chunk": "We Shall Overcome / Yes, We Can",
+      "meaning": "我们终将克服／是的我们能",
+      "register": "政治运动／口号",
+      "note": "特定运动口号不列普通固定chunk。",
+      "paragraph": 50,
+      "quote": "Because the single most powerful word in our democracy is the word \"we.\" \"We the People.\" \"We Shall Overcome.\" \"Yes, We Can.\" That word is owned by no one.",
+      "quote_sha256": "e920e1caf41f7ade3f58dcdf2e3372937cf09744c9bbdf78ebb755a578ac9c33",
+      "status": "有意略去：政治运动口号，不作为迁移chunk"
+    },
+    {
+      "chunk": "be well served to do sth.",
+      "meaning": "做某事会有益／值得做",
+      "register": "正式／建议",
+      "note": "原文形式保留，正式教学前核对常见 be well served by doing 的接法。",
+      "paragraph": 14,
+      "quote": "As we commemorate their achievement, we are well served to remember that, at the time of the marches, many in power condemned rather than praised them.",
+      "quote_sha256": "fcc4766ffcd13e50221c8277e954d53d4b6bbf7b8b4bd29e91d5767c9a10611d",
+      "status": "候选接法待核：常见表述为be well served by doing；尚未查词典，不作正确模板教学。"
+    }
+  ],
+  "vocabulary_candidates": [],
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+}

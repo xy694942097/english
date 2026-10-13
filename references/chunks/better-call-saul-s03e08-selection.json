@@ -1,0 +1,1193 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S03/Better.Call.Saul.S03E08.en.srt",
+  "sha256": "faf54535f9decf9d1ed08bed495577bab53def3e61b3c77f3df7cb2ad04d1b95",
+  "subtitle_blocks_read": 710,
+  "max_cue": 710,
+  "selection_status": "Candidates; community subtitles, not audio verified",
+  "read_batches": [
+    [
+      1,
+      710
+    ]
+  ],
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "items": [
+    {
+      "chunk": "Let there be light.",
+      "meaning": "要有光；《圣经》典故，此处开灯玩笑",
+      "start_cue": 16,
+      "end_cue": 17,
+      "start_time": "00:01:05,096",
+      "end_time": "00:01:09,533",
+      "quote": "Let there be light. And then there was light.",
+      "id": "S03E08-001"
+    },
+    {
+      "chunk": "Will you look at this!",
+      "meaning": "你瞧瞧这个！惊叹引人注意",
+      "start_cue": 18,
+      "end_cue": 18,
+      "start_time": "00:01:12,870",
+      "end_time": "00:01:15,535",
+      "quote": "Geez. Will you look at this...",
+      "id": "S03E08-002"
+    },
+    {
+      "chunk": "do the books",
+      "meaning": "记账／处理财务账目",
+      "start_cue": 20,
+      "end_cue": 20,
+      "start_time": "00:01:22,641",
+      "end_time": "00:01:24,680",
+      "quote": "Right back there, doin' the books.",
+      "id": "S03E08-003"
+    },
+    {
+      "chunk": "put sb. out of business",
+      "meaning": "使某人／公司倒闭、无法营业",
+      "start_cue": 31,
+      "end_cue": 31,
+      "start_time": "00:01:48,787",
+      "end_time": "00:01:52,342",
+      "quote": "Ahh. Think all those Little Debbie's put them out of business.",
+      "id": "S03E08-004"
+    },
+    {
+      "chunk": "polish sth. up",
+      "meaning": "擦亮／改进某物",
+      "start_cue": 41,
+      "end_cue": 41,
+      "start_time": "00:02:26,733",
+      "end_time": "00:02:29,050",
+      "quote": "We polish it up, run the coin game...",
+      "id": "S03E08-005"
+    },
+    {
+      "chunk": "plain vanilla",
+      "meaning": "普通的、无特别花样的；比喻",
+      "start_cue": 43,
+      "end_cue": 43,
+      "start_time": "00:02:31,170",
+      "end_time": "00:02:34,115",
+      "quote": "$150? We got a $110 for a plain vanilla half dollar.",
+      "id": "S03E08-006"
+    },
+    {
+      "chunk": "It's a long story.",
+      "meaning": "说来话长；简短推迟解释",
+      "start_cue": 50,
+      "end_cue": 50,
+      "start_time": "00:02:48,830",
+      "end_time": "00:02:50,924",
+      "quote": "It's a long story.",
+      "id": "S03E08-007"
+    },
+    {
+      "chunk": "Let's hit it.",
+      "meaning": "走吧／开始行动；随意口语",
+      "start_cue": 52,
+      "end_cue": 52,
+      "start_time": "00:03:06,158",
+      "end_time": "00:03:09,607",
+      "quote": "- All right. Now. Let's hit it. - No, there might be another one.",
+      "id": "S03E08-008"
+    },
+    {
+      "chunk": "work the register",
+      "meaning": "操作收银台、负责收银",
+      "start_cue": 58,
+      "end_cue": 58,
+      "start_time": "00:03:24,494",
+      "end_time": "00:03:25,957",
+      "quote": "I was working the register.",
+      "id": "S03E08-010"
+    },
+    {
+      "chunk": "a sixer of beer",
+      "meaning": "一组六罐／瓶啤酒；美式口语",
+      "start_cue": 60,
+      "end_cue": 60,
+      "start_time": "00:03:29,195",
+      "end_time": "00:03:33,064",
+      "quote": "and a sixer of Old Style.",
+      "id": "S03E08-011"
+    },
+    {
+      "chunk": "the second …",
+      "meaning": "一……就……；强调立即",
+      "start_cue": 63,
+      "end_cue": 63,
+      "start_time": "00:03:39,973",
+      "end_time": "00:03:42,406",
+      "quote": "The second I see it, I know what it is...",
+      "id": "S03E08-012"
+    },
+    {
+      "chunk": "get the words out",
+      "meaning": "把话说出口",
+      "start_cue": 67,
+      "end_cue": 67,
+      "start_time": "00:03:51,225",
+      "end_time": "00:03:52,750",
+      "quote": "Barely get the words outta my mouth...",
+      "id": "S03E08-013"
+    },
+    {
+      "chunk": "So much for sth.",
+      "meaning": "某事也就这样了／所谓某事不管用了；讽刺期待落空",
+      "start_cue": 80,
+      "end_cue": 80,
+      "start_time": "00:04:20,046",
+      "end_time": "00:04:22,213",
+      "quote": "So much for good luck.",
+      "id": "S03E08-014"
+    },
+    {
+      "chunk": "a crying shame",
+      "meaning": "非常可惜／令人遗憾的事",
+      "start_cue": 81,
+      "end_cue": 81,
+      "start_time": "00:04:23,742",
+      "end_time": "00:04:26,780",
+      "quote": "It was a cryin' shame they lost this place.",
+      "id": "S03E08-015"
+    },
+    {
+      "chunk": "not have it in oneself",
+      "meaning": "没有所需的心性／本事、做不出来",
+      "start_cue": 83,
+      "end_cue": 83,
+      "start_time": "00:04:29,633",
+      "end_time": "00:04:32,133",
+      "quote": "My dad didn't have it in him.",
+      "id": "S03E08-016"
+    },
+    {
+      "chunk": "a soft touch",
+      "meaning": "容易心软、容易被人说服的人",
+      "start_cue": 90,
+      "end_cue": 90,
+      "start_time": "00:04:44,219",
+      "end_time": "00:04:47,585",
+      "quote": "Everybody liked him 'cause he was a soft touch.",
+      "id": "S03E08-017"
+    },
+    {
+      "chunk": "a sob story",
+      "meaning": "诉苦求同情的故事；可带不信任",
+      "start_cue": 92,
+      "end_cue": 92,
+      "start_time": "00:04:50,592",
+      "end_time": "00:04:52,225",
+      "quote": "You come in here with a sob story,",
+      "id": "S03E08-018"
+    },
+    {
+      "chunk": "a pat on the back",
+      "meaning": "拍背表示安慰／赞许；可比喻认可",
+      "start_cue": 93,
+      "end_cue": 93,
+      "start_time": "00:04:52,227",
+      "end_time": "00:04:55,028",
+      "quote": "you leave with a pat on the back and a gallon of milk.",
+      "id": "S03E08-019"
+    },
+    {
+      "chunk": "for … hours straight",
+      "meaning": "连续若干小时不停",
+      "start_cue": 103,
+      "end_cue": 103,
+      "start_time": "00:05:31,455",
+      "end_time": "00:05:33,589",
+      "quote": "for 10 hours straight...",
+      "id": "S03E08-020"
+    },
+    {
+      "chunk": "It won't be long before …",
+      "meaning": "没多久就会……；预期近未来",
+      "start_cue": 136,
+      "end_cue": 136,
+      "start_time": "00:11:13,695",
+      "end_time": "00:11:16,930",
+      "quote": "it won't be long before I'm back to work full time,",
+      "id": "S03E08-021"
+    },
+    {
+      "chunk": "the lion's share of sth.",
+      "meaning": "某物中最大的一部分",
+      "start_cue": 154,
+      "end_cue": 154,
+      "start_time": "00:11:57,208",
+      "end_time": "00:12:00,356",
+      "quote": "And I have to give you the lion's share of the credit.",
+      "id": "S03E08-022"
+    },
+    {
+      "chunk": "Rome wasn't built in a day.",
+      "meaning": "罗马不是一天建成的；劝不急于求成",
+      "start_cue": 156,
+      "end_cue": 156,
+      "start_time": "00:12:02,637",
+      "end_time": "00:12:05,081",
+      "quote": "But Rome wasn't built in a day.",
+      "id": "S03E08-023"
+    },
+    {
+      "chunk": "push oneself too hard",
+      "meaning": "把自己逼得太紧、过度勉强",
+      "start_cue": 167,
+      "end_cue": 167,
+      "start_time": "00:12:26,861",
+      "end_time": "00:12:29,007",
+      "quote": "I'm just cautioning you not to push yourself too hard.",
+      "id": "S03E08-024"
+    },
+    {
+      "chunk": "modulate sb.'s expectations",
+      "meaning": "调整自己的期望；正式说法",
+      "start_cue": 170,
+      "end_cue": 170,
+      "start_time": "00:12:32,846",
+      "end_time": "00:12:35,213",
+      "quote": "but modulate your expectations.",
+      "id": "S03E08-025",
+      "original_chunk": "modulate one's expectations"
+    },
+    {
+      "chunk": "beyond the shadow of a doubt",
+      "meaning": "毫无疑问、证据确凿",
+      "start_cue": 184,
+      "end_cue": 184,
+      "start_time": "00:13:17,228",
+      "end_time": "00:13:20,258",
+      "quote": "in public, and beyond the shadow of a doubt,",
+      "id": "S03E08-026"
+    },
+    {
+      "chunk": "all in sb.'s head",
+      "meaning": "只是心理／想象中的；本句怀疑真实症状的成因",
+      "start_cue": 196,
+      "end_cue": 196,
+      "start_time": "00:13:57,890",
+      "end_time": "00:14:00,445",
+      "quote": "What if it's all in my head?",
+      "id": "S03E08-028",
+      "original_chunk": "all in one's head"
+    },
+    {
+      "chunk": "get set for sth.",
+      "meaning": "为某项行动准备好",
+      "start_cue": 201,
+      "end_cue": 201,
+      "start_time": "00:14:21,621",
+      "end_time": "00:14:23,121",
+      "quote": "Get set for the master shot.",
+      "id": "S03E08-029"
+    },
+    {
+      "chunk": "I gotta hand it to you.",
+      "meaning": "我得承认你很厉害；认可对方成绩",
+      "start_cue": 204,
+      "end_cue": 204,
+      "start_time": "00:14:27,852",
+      "end_time": "00:14:29,961",
+      "quote": "- Just about. - I gotta hand it to you.",
+      "id": "S03E08-030"
+    },
+    {
+      "chunk": "That's my treat.",
+      "meaning": "那由我请客／免费提供；此处免费制作广告",
+      "start_cue": 225,
+      "end_cue": 225,
+      "start_time": "00:15:07,296",
+      "end_time": "00:15:09,714",
+      "quote": "The first one was gratis. That's my treat.",
+      "id": "S03E08-031"
+    },
+    {
+      "chunk": "a heavily discounted price",
+      "meaning": "大幅打折后的价格",
+      "start_cue": 227,
+      "end_cue": 227,
+      "start_time": "00:15:11,738",
+      "end_time": "00:15:15,003",
+      "quote": "seven commercials for the heavily discounted price",
+      "id": "S03E08-032"
+    },
+    {
+      "chunk": "air time",
+      "meaning": "广播／电视播出时段",
+      "start_cue": 230,
+      "end_cue": 230,
+      "start_time": "00:15:19,868",
+      "end_time": "00:15:22,737",
+      "quote": "- $450? - That's for air time only.",
+      "id": "S03E08-033"
+    },
+    {
+      "chunk": "What's to stop sb. from doing sth.?",
+      "meaning": "有什么能阻止某人……？质疑限制",
+      "start_cue": 236,
+      "end_cue": 237,
+      "start_time": "00:15:32,592",
+      "end_time": "00:15:37,417",
+      "quote": "Yeah. What... what's to stop us from paying the station to just keep running the one we have?",
+      "id": "S03E08-034"
+    },
+    {
+      "chunk": "take it from there",
+      "meaning": "从那一步继续看／进一步决定",
+      "start_cue": 244,
+      "end_cue": 244,
+      "start_time": "00:15:53,620",
+      "end_time": "00:15:55,636",
+      "quote": "and then we take it from there?",
+      "id": "S03E08-035"
+    },
+    {
+      "chunk": "intellectual property",
+      "meaning": "知识产权；法律商业",
+      "start_cue": 247,
+      "end_cue": 248,
+      "start_time": "00:16:00,643",
+      "end_time": "00:16:04,923",
+      "quote": "Look, it's the real and intellectual property of Saul Goodman Productions.",
+      "id": "S03E08-036"
+    },
+    {
+      "chunk": "Want to play it like that?",
+      "meaning": "你想这么来是吧？回应强硬态度",
+      "start_cue": 253,
+      "end_cue": 253,
+      "start_time": "00:16:12,885",
+      "end_time": "00:16:15,087",
+      "quote": "- Oh. Okay. - Okay. Want to play it like that?",
+      "id": "S03E08-037"
+    },
+    {
+      "chunk": "off the table",
+      "meaning": "不再考虑／不再提供的选项",
+      "start_cue": 255,
+      "end_cue": 255,
+      "start_time": "00:16:16,143",
+      "end_time": "00:16:17,780",
+      "quote": "$450 is now off the table.",
+      "id": "S03E08-038"
+    },
+    {
+      "chunk": "if it wasn't for sb.",
+      "meaning": "要不是某人；说明某人促成的条件",
+      "start_cue": 263,
+      "end_cue": 264,
+      "start_time": "00:16:29,543",
+      "end_time": "00:16:32,602",
+      "quote": "Now, you wouldn't even be thinking about a commercial if it wasn't for me!",
+      "id": "S03E08-039"
+    },
+    {
+      "chunk": "Don't give me any lip.",
+      "meaning": "别顶嘴；强硬、随意",
+      "start_cue": 272,
+      "end_cue": 272,
+      "start_time": "00:17:04,678",
+      "end_time": "00:17:06,962",
+      "quote": "- It's not gonna do a damn thing. - Don't give me any lip, okay?",
+      "id": "S03E08-040"
+    },
+    {
+      "chunk": "wiggle room",
+      "meaning": "可协商／调整的余地",
+      "start_cue": 276,
+      "end_cue": 276,
+      "start_time": "00:17:19,057",
+      "end_time": "00:17:21,323",
+      "quote": "Just want to make sure... there's no wiggle room here?",
+      "id": "S03E08-041"
+    },
+    {
+      "chunk": "best of luck in your future endeavors",
+      "meaning": "祝你未来诸事顺利；较正式，此处带挖苦",
+      "start_cue": 279,
+      "end_cue": 279,
+      "start_time": "00:17:25,572",
+      "end_time": "00:17:28,352",
+      "quote": "Okay, well, best of luck in all your future endeavors.",
+      "id": "S03E08-042"
+    },
+    {
+      "chunk": "liability insurance",
+      "meaning": "责任保险",
+      "start_cue": 291,
+      "end_cue": 291,
+      "start_time": "00:17:55,004",
+      "end_time": "00:17:58,063",
+      "quote": "You guys have liability insurance, right?",
+      "id": "S03E08-043"
+    },
+    {
+      "chunk": "I'm not saying this to rush you, but …",
+      "meaning": "不是想催你，不过……；缓和催促",
+      "start_cue": 295,
+      "end_cue": 297,
+      "start_time": "00:18:07,056",
+      "end_time": "00:18:12,721",
+      "quote": "I'm not saying this to rush you, but I have a 2:45 tee time at Four Hills... - so don't let me get, uh, long-winded. - Okay.",
+      "id": "S03E08-044"
+    },
+    {
+      "chunk": "be tangled up in sth.",
+      "meaning": "卷入复杂纠纷／被某事缠住",
+      "start_cue": 308,
+      "end_cue": 310,
+      "start_time": "00:18:34,157",
+      "end_time": "00:18:39,215",
+      "quote": "Anyway, the poor bastard's tangled up in some kind of an interstate wrangle between Texas and New Mexico.",
+      "id": "S03E08-045"
+    },
+    {
+      "chunk": "not make heads or tails of sth.",
+      "meaning": "完全摸不着头脑、搞不懂",
+      "start_cue": 311,
+      "end_cue": 311,
+      "start_time": "00:18:39,240",
+      "end_time": "00:18:40,806",
+      "quote": "Now, I can't make heads or tails of it,",
+      "id": "S03E08-046"
+    },
+    {
+      "chunk": "be over sb.'s head",
+      "meaning": "超出某人的能力／理解",
+      "start_cue": 314,
+      "end_cue": 314,
+      "start_time": "00:18:43,892",
+      "end_time": "00:18:45,714",
+      "quote": "completely over his head.",
+      "id": "S03E08-047",
+      "original_chunk": "be over one's head"
+    },
+    {
+      "chunk": "Pardon my French.",
+      "meaning": "原谅我说粗话；玩笑式歉意",
+      "start_cue": 317,
+      "end_cue": 317,
+      "start_time": "00:18:50,064",
+      "end_time": "00:18:51,172",
+      "quote": "pardon my French.",
+      "id": "S03E08-048"
+    },
+    {
+      "chunk": "have sb.'s hands full with sth.",
+      "meaning": "忙于某事、腾不开手",
+      "start_cue": 326,
+      "end_cue": 327,
+      "start_time": "00:19:04,277",
+      "end_time": "00:19:08,197",
+      "quote": "Remember, Kim's got her hands full with Utah and Colorado.",
+      "id": "S03E08-049",
+      "original_chunk": "have one's hands full with sth."
+    },
+    {
+      "chunk": "and then some",
+      "meaning": "还不止如此、甚至更多",
+      "start_cue": 329,
+      "end_cue": 329,
+      "start_time": "00:19:10,871",
+      "end_time": "00:19:13,205",
+      "quote": "she can field whatever we throw at her and then some.",
+      "id": "S03E08-050"
+    },
+    {
+      "chunk": "a familiar face",
+      "meaning": "认识的人、熟悉面孔",
+      "start_cue": 336,
+      "end_cue": 336,
+      "start_time": "00:19:26,002",
+      "end_time": "00:19:27,791",
+      "quote": "I thought I saw some familiar faces.",
+      "id": "S03E08-051"
+    },
+    {
+      "chunk": "All's well with sth.?",
+      "meaning": "某事一切都好吧？确认进展",
+      "start_cue": 343,
+      "end_cue": 343,
+      "start_time": "00:19:38,121",
+      "end_time": "00:19:39,887",
+      "quote": "All's well with the expansion?",
+      "id": "S03E08-052"
+    },
+    {
+      "chunk": "Seems like just yesterday …",
+      "meaning": "仿佛还是昨天……；感慨时间快",
+      "start_cue": 349,
+      "end_cue": 349,
+      "start_time": "00:19:49,405",
+      "end_time": "00:19:52,338",
+      "quote": "Seems like just yesterday she was logging hours in doc review.",
+      "id": "S03E08-053"
+    },
+    {
+      "chunk": "spread sb.'s wings and leave the nest",
+      "meaning": "独立闯荡、离开原来保护环境；比喻",
+      "start_cue": 350,
+      "end_cue": 351,
+      "start_time": "00:19:53,589",
+      "end_time": "00:19:57,947",
+      "quote": "Always a pleasure to see one of our protégées spread her wings and leave the nest.",
+      "id": "S03E08-054",
+      "original_chunk": "spread one's wings and leave the nest"
+    },
+    {
+      "chunk": "have sb. all to ourselves",
+      "meaning": "能独享某人的关注／服务",
+      "start_cue": 355,
+      "end_cue": 355,
+      "start_time": "00:20:06,625",
+      "end_time": "00:20:08,570",
+      "quote": "I appreciate that we've got you all to ourselves,",
+      "id": "S03E08-055"
+    },
+    {
+      "chunk": "hold things up",
+      "meaning": "耽搁进度、让大家等",
+      "start_cue": 376,
+      "end_cue": 376,
+      "start_time": "00:21:14,806",
+      "end_time": "00:21:16,424",
+      "quote": "Sorry to hold things up.",
+      "id": "S03E08-056"
+    },
+    {
+      "chunk": "leave sth. in sb.'s capable hands",
+      "meaning": "把事情托付给能胜任的某人；礼貌信任",
+      "start_cue": 384,
+      "end_cue": 384,
+      "start_time": "00:21:27,638",
+      "end_time": "00:21:29,437",
+      "quote": "I leave it in your capable hands.",
+      "id": "S03E08-057"
+    },
+    {
+      "chunk": "not sit right with sb.",
+      "meaning": "让某人觉得不妥／心里不舒服",
+      "start_cue": 395,
+      "end_cue": 395,
+      "start_time": "00:22:00,671",
+      "end_time": "00:22:02,037",
+      "quote": "but it never sat right with me",
+      "id": "S03E08-058"
+    },
+    {
+      "chunk": "do damage control",
+      "meaning": "采取补救措施、挽回负面影响",
+      "start_cue": 403,
+      "end_cue": 403,
+      "start_time": "00:22:14,528",
+      "end_time": "00:22:16,217",
+      "quote": "I'm doing damage control.",
+      "id": "S03E08-059"
+    },
+    {
+      "chunk": "drag sth. through the mud",
+      "meaning": "损害／玷污某人的名誉",
+      "start_cue": 407,
+      "end_cue": 407,
+      "start_time": "00:22:22,902",
+      "end_time": "00:22:25,293",
+      "quote": "after you and Jimmy dragged it through the mud.",
+      "id": "S03E08-060"
+    },
+    {
+      "chunk": "That's on you.",
+      "meaning": "那是你的责任／由你承担",
+      "start_cue": 418,
+      "end_cue": 418,
+      "start_time": "00:22:48,151",
+      "end_time": "00:22:50,814",
+      "quote": "But anything else? That's on you.",
+      "id": "S03E08-061"
+    },
+    {
+      "chunk": "Where would I find sth.?",
+      "meaning": "请问某物在哪儿？商店客气询问",
+      "start_cue": 444,
+      "end_cue": 444,
+      "start_time": "00:27:08,863",
+      "end_time": "00:27:11,869",
+      "quote": "Um, where would I find the s-soy milk?",
+      "id": "S03E08-062"
+    },
+    {
+      "chunk": "That must be a relief.",
+      "meaning": "那一定让你松了口气；关怀回应",
+      "start_cue": 462,
+      "end_cue": 462,
+      "start_time": "00:28:49,029",
+      "end_time": "00:28:51,244",
+      "quote": "- That must be a relief. - Uh-huh.",
+      "id": "S03E08-063"
+    },
+    {
+      "chunk": "the one and only …",
+      "meaning": "独一无二的……；介绍知名者强调身份",
+      "start_cue": 465,
+      "end_cue": 465,
+      "start_time": "00:28:55,219",
+      "end_time": "00:28:58,064",
+      "quote": "Signed by the one and only Ritchie Blackmore.",
+      "id": "S03E08-064"
+    },
+    {
+      "chunk": "be up one …",
+      "meaning": "多赚／多得一个某物；说明收益",
+      "start_cue": 472,
+      "end_cue": 472,
+      "start_time": "00:29:10,993",
+      "end_time": "00:29:14,361",
+      "quote": "But the big picture... I'm up one guitar.",
+      "id": "S03E08-065"
+    },
+    {
+      "chunk": "not as bad as it looks",
+      "meaning": "没有看起来那么严重",
+      "start_cue": 479,
+      "end_cue": 479,
+      "start_time": "00:29:28,392",
+      "end_time": "00:29:31,690",
+      "quote": "Oh, it's... it's not as bad as it looks.",
+      "id": "S03E08-066"
+    },
+    {
+      "chunk": "be square",
+      "meaning": "互不相欠、两清",
+      "start_cue": 489,
+      "end_cue": 489,
+      "start_time": "00:29:54,271",
+      "end_time": "00:29:56,692",
+      "quote": "Just take it so we're square, all right?",
+      "id": "S03E08-067"
+    },
+    {
+      "chunk": "cover our expenses",
+      "meaning": "承担日常开销",
+      "start_cue": 503,
+      "end_cue": 503,
+      "start_time": "00:30:37,094",
+      "end_time": "00:30:39,312",
+      "quote": "I could cover our expenses for a while.",
+      "id": "S03E08-068"
+    },
+    {
+      "chunk": "carry sb.",
+      "meaning": "承担某人的生活费用／支持某人",
+      "start_cue": 506,
+      "end_cue": 506,
+      "start_time": "00:30:42,716",
+      "end_time": "00:30:44,751",
+      "quote": "I looked at the numbers, and I can carry us.",
+      "id": "S03E08-069"
+    },
+    {
+      "chunk": "back to 100%",
+      "meaning": "完全恢复正常健康／能力",
+      "start_cue": 507,
+      "end_cue": 507,
+      "start_time": "00:30:44,753",
+      "end_time": "00:30:48,121",
+      "quote": "Not forever, but at least until you're back to 100%.",
+      "id": "S03E08-070"
+    },
+    {
+      "chunk": "I appreciate the thought, but …",
+      "meaning": "谢谢你的好意，不过……；婉拒建议",
+      "start_cue": 508,
+      "end_cue": 508,
+      "start_time": "00:30:48,123",
+      "end_time": "00:30:50,709",
+      "quote": "I appreciate the thought, but no.",
+      "id": "S03E08-071"
+    },
+    {
+      "chunk": "Feel better.",
+      "meaning": "祝早日好起来；病中告别",
+      "start_cue": 515,
+      "end_cue": 515,
+      "start_time": "00:31:17,036",
+      "end_time": "00:31:19,025",
+      "quote": "Feel better, Jimmy.",
+      "id": "S03E08-072"
+    },
+    {
+      "chunk": "get ahold of sb.",
+      "meaning": "联系上某人；美式口语",
+      "start_cue": 516,
+      "end_cue": 516,
+      "start_time": "00:31:37,836",
+      "end_time": "00:31:40,307",
+      "quote": "Francesca, is it too late to get ahold of the courier?",
+      "id": "S03E08-073"
+    },
+    {
+      "chunk": "have sb. on the line",
+      "meaning": "某人已在线上等电话",
+      "start_cue": 521,
+      "end_cue": 521,
+      "start_time": "00:31:53,953",
+      "end_time": "00:31:56,323",
+      "quote": "I've got Billy Gatwood on the line.",
+      "id": "S03E08-074"
+    },
+    {
+      "chunk": "put sb. through",
+      "meaning": "将电话转接给某人",
+      "start_cue": 522,
+      "end_cue": 522,
+      "start_time": "00:31:57,293",
+      "end_time": "00:31:59,414",
+      "quote": "Great. Put him through.",
+      "id": "S03E08-075"
+    },
+    {
+      "chunk": "To what do I owe the pleasure?",
+      "meaning": "是什么事让您光临？正式／戏谑问来意",
+      "start_cue": 537,
+      "end_cue": 537,
+      "start_time": "00:32:39,270",
+      "end_time": "00:32:41,011",
+      "quote": "To what do I owe the pleasure?",
+      "id": "S03E08-076"
+    },
+    {
+      "chunk": "a social call",
+      "meaning": "单纯拜访、非公务来访",
+      "start_cue": 538,
+      "end_cue": 538,
+      "start_time": "00:32:41,036",
+      "end_time": "00:32:43,180",
+      "quote": "Well, I wish it was just a social call,",
+      "id": "S03E08-077"
+    },
+    {
+      "chunk": "Keep it moving.",
+      "meaning": "继续干／别停下；催促",
+      "start_cue": 565,
+      "end_cue": 565,
+      "start_time": "00:40:21,594",
+      "end_time": "00:40:23,829",
+      "quote": "Keep it moving.",
+      "id": "S03E08-078"
+    },
+    {
+      "chunk": "How much is it worth to you?",
+      "meaning": "你愿为这事付多少？讨价还价",
+      "start_cue": 580,
+      "end_cue": 580,
+      "start_time": "00:41:14,570",
+      "end_time": "00:41:17,405",
+      "quote": "- How much is it worth to you? - What?",
+      "id": "S03E08-079"
+    },
+    {
+      "chunk": "No judgments.",
+      "meaning": "我不评判你／别互相道德评判；随意缓和",
+      "start_cue": 587,
+      "end_cue": 587,
+      "start_time": "00:41:32,459",
+      "end_time": "00:41:35,394",
+      "quote": "Hey. No judgments, all right?",
+      "id": "S03E08-080"
+    },
+    {
+      "chunk": "make a living",
+      "meaning": "谋生",
+      "start_cue": 588,
+      "end_cue": 588,
+      "start_time": "00:41:35,419",
+      "end_time": "00:41:38,755",
+      "quote": "Man's gotta make a living. I'm just saying the way you make yours...",
+      "id": "S03E08-081"
+    },
+    {
+      "chunk": "Let me worry about the how.",
+      "meaning": "办法由我想，你不用管怎么做",
+      "start_cue": 594,
+      "end_cue": 594,
+      "start_time": "00:41:47,978",
+      "end_time": "00:41:50,193",
+      "quote": "Lemme worry about the how, okay?",
+      "id": "S03E08-082"
+    },
+    {
+      "chunk": "My back's killing me.",
+      "meaning": "背痛得要命；夸张表达身体难受",
+      "start_cue": 607,
+      "end_cue": 607,
+      "start_time": "00:42:42,632",
+      "end_time": "00:42:45,633",
+      "quote": "Nope. My back's killing me.",
+      "id": "S03E08-083"
+    },
+    {
+      "chunk": "How do you figure that?",
+      "meaning": "你凭什么这么想／怎么算出的？质疑",
+      "start_cue": 612,
+      "end_cue": 612,
+      "start_time": "00:42:53,446",
+      "end_time": "00:42:55,213",
+      "quote": "And how do you figure that?",
+      "id": "S03E08-084"
+    },
+    {
+      "chunk": "sign a waiver",
+      "meaning": "签署放弃索赔／权利的声明",
+      "start_cue": 615,
+      "end_cue": 615,
+      "start_time": "00:43:01,217",
+      "end_time": "00:43:02,937",
+      "quote": "but you signed a waiver.",
+      "id": "S03E08-086"
+    },
+    {
+      "chunk": "sure as shooting",
+      "meaning": "确确实实／肯定；老派口语",
+      "start_cue": 622,
+      "end_cue": 622,
+      "start_time": "00:43:21,838",
+      "end_time": "00:43:23,438",
+      "quote": "I sure as shootin' can.",
+      "id": "S03E08-087"
+    },
+    {
+      "chunk": "If that isn't …, what is?",
+      "meaning": "这都不算……，那什么才算？强调性质",
+      "start_cue": 628,
+      "end_cue": 628,
+      "start_time": "00:43:35,314",
+      "end_time": "00:43:39,820",
+      "quote": "If that isn't intentional infliction of emotional distress, what is?",
+      "id": "S03E08-088"
+    },
+    {
+      "chunk": "under sb.'s watch",
+      "meaning": "在某人负责／监督期间",
+      "start_cue": 637,
+      "end_cue": 637,
+      "start_time": "00:43:59,075",
+      "end_time": "00:44:01,015",
+      "quote": "due to injuries sustained under your watch.",
+      "id": "S03E08-089",
+      "original_chunk": "under one's watch"
+    },
+    {
+      "chunk": "be full of shit",
+      "meaning": "胡说八道；粗俗强烈指责",
+      "start_cue": 639,
+      "end_cue": 639,
+      "start_time": "00:44:02,712",
+      "end_time": "00:44:04,242",
+      "quote": "You're full of shit.",
+      "id": "S03E08-090"
+    },
+    {
+      "chunk": "a fart in the wind",
+      "meaning": "无足轻重、转眼消散；粗俗比喻",
+      "start_cue": 642,
+      "end_cue": 642,
+      "start_time": "00:44:08,885",
+      "end_time": "00:44:12,484",
+      "quote": "And in a personal lawsuit, it's a fart in the wind.",
+      "id": "S03E08-091"
+    },
+    {
+      "chunk": "kiss sth. goodbye",
+      "meaning": "与某物告别、将会失去；口语警告",
+      "start_cue": 651,
+      "end_cue": 651,
+      "start_time": "00:44:32,842",
+      "end_time": "00:44:35,373",
+      "quote": "A pension? Kiss it all goodbye.",
+      "id": "S03E08-092"
+    },
+    {
+      "chunk": "a one-time arrangement",
+      "meaning": "仅此一次的安排",
+      "start_cue": 687,
+      "end_cue": 687,
+      "start_time": "00:47:38,695",
+      "end_time": "00:47:41,336",
+      "quote": "As a one-time arrangement.",
+      "id": "S03E08-093"
+    },
+    {
+      "chunk": "be publicly associated",
+      "meaning": "在公众面前被视为有关联",
+      "start_cue": 688,
+      "end_cue": 688,
+      "start_time": "00:47:43,319",
+      "end_time": "00:47:46,634",
+      "quote": "It would be unwise for us to be publicly associated,",
+      "id": "S03E08-094"
+    },
+    {
+      "chunk": "Even so.",
+      "meaning": "即便如此／仍然；让步回应",
+      "start_cue": 694,
+      "end_cue": 694,
+      "start_time": "00:48:04,040",
+      "end_time": "00:48:05,593",
+      "quote": "Even so.",
+      "id": "S03E08-095"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "I'm all ears.",
+      "meaning": "我洗耳恭听；表示愿意听",
+      "start_cue": 133,
+      "end_cue": 133,
+      "start_time": "00:11:05,389",
+      "end_time": "00:11:06,853",
+      "quote": "I'm all ears.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "I'm all ears."
+    },
+    {
+      "chunk": "get off the phone with sb.",
+      "meaning": "刚结束与某人的电话",
+      "start_cue": 215,
+      "end_cue": 215,
+      "start_time": "00:14:48,081",
+      "end_time": "00:14:50,315",
+      "quote": "I just got off the phone with the station.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "get off the phone with sb."
+    },
+    {
+      "chunk": "Cheers to that.",
+      "meaning": "为此干杯／赞同这点",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:18:03,151",
+      "end_time": "00:18:04,760",
+      "quote": "- Cheers to that. - Cheers.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "cheers to that"
+    },
+    {
+      "chunk": "put sb. through school",
+      "meaning": "供某人上学、支付教育费用",
+      "start_cue": 414,
+      "end_cue": 414,
+      "start_time": "00:22:37,355",
+      "end_time": "00:22:38,845",
+      "quote": "put you through law school, mentor you,",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "put sb. through school"
+    },
+    {
+      "chunk": "stab sb. in the back",
+      "meaning": "背后捅刀、背叛某人",
+      "start_cue": 415,
+      "end_cue": 415,
+      "start_time": "00:22:38,870",
+      "end_time": "00:22:40,809",
+      "quote": "and then when you leave and stab me in the back, that's my fault?",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "stab sb. in the back"
+    },
+    {
+      "chunk": "End of story.",
+      "meaning": "事情就这么定了／不用再谈",
+      "start_cue": 511,
+      "end_cue": 511,
+      "start_time": "00:30:55,264",
+      "end_time": "00:30:56,915",
+      "quote": "End of story.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "End of story."
+    },
+    {
+      "chunk": "Bring it on.",
+      "meaning": "尽管来吧；迎接挑战",
+      "start_cue": 649,
+      "end_cue": 649,
+      "start_time": "00:44:29,773",
+      "end_time": "00:44:31,305",
+      "quote": "Great! Bring it on.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "Bring it on!"
+    },
+    {
+      "chunk": "Wouldn't you agree?",
+      "meaning": "你说对不对？引导认同",
+      "start_cue": 689,
+      "end_cue": 689,
+      "start_time": "00:47:46,636",
+      "end_time": "00:47:48,249",
+      "quote": "wouldn't you agree?",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "Wouldn't you agree?"
+    },
+    {
+      "chunk": "Speaking of which, …",
+      "meaning": "说到这个……；承接前一话题",
+      "start_cue": 304,
+      "end_cue": 304,
+      "start_time": "00:18:26,108",
+      "end_time": "00:18:27,267",
+      "quote": "Speaking of which...",
+      "id": "S03E08-048",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "Speaking of which,…",
+      "matched_source": "references/chunks/better-call-saul-s02e02-selection.json"
+    },
+    {
+      "chunk": "bust one's ass",
+      "meaning": "拼命干活、竭力做；粗俗",
+      "start_cue": 406,
+      "end_cue": 406,
+      "start_time": "00:22:20,120",
+      "end_time": "00:22:22,877",
+      "quote": "I'm busting my ass, trying to repair the reputation of the firm",
+      "id": "S03E08-065",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "bust your ass",
+      "matched_source": "references/chunks/better-call-saul-s02e05-selection.json"
+    },
+    {
+      "chunk": "To what do I owe the pleasure?",
+      "meaning": "您光临有何贵干？与本集同项重复待合并",
+      "start_cue": 537,
+      "end_cue": 537,
+      "start_time": "00:32:39,270",
+      "end_time": "00:32:41,011",
+      "quote": "To what do I owe the pleasure?",
+      "id": "S03E08-083",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "To what do I owe the pleasure?",
+      "matched_source": "references/chunks/better-call-saul-s03e08-selection.json"
+    },
+    {
+      "chunk": "What's the deal with sth.?",
+      "meaning": "某事是怎么回事？询问原因／背景",
+      "start_cue": 55,
+      "end_cue": 55,
+      "start_time": "00:03:12,211",
+      "end_time": "00:03:14,439",
+      "quote": "What's the deal with the coins?",
+      "id": "S03E08-009",
+      "reason": "仅补占位符",
+      "earlier": {
+        "episode": "s02e09",
+        "chunk": "What's the deal with…?"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "the better part of …",
+      "meaning": "某段时间的大部分、接近整个时长",
+      "start_cue": 187,
+      "end_cue": 187,
+      "start_time": "00:13:25,298",
+      "end_time": "00:13:29,406",
+      "quote": "almost next to my skin for the better part of two hours.",
+      "id": "S03E08-027",
+      "reason": "同一时间大部分义",
+      "earlier": {
+        "episode": "s01e05",
+        "chunk": "the better part of sth."
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "Hate to break it to you, …",
+      "meaning": "不愿告诉你这个坏消息，但……",
+      "start_cue": 614,
+      "end_cue": 614,
+      "start_time": "00:42:58,876",
+      "end_time": "00:43:01,192",
+      "quote": "Hate to break it to you, smart guy,",
+      "id": "S03E08-085",
+      "reason": "仅省略主语和连接词",
+      "earlier": {
+        "episode": "s01e10",
+        "chunk": "I hate to break it to you, but…"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "pending": [
+    {
+      "chunk": "just for tickles",
+      "meaning": "就当玩玩／额外来一下；少见口语需核规范",
+      "start_cue": 635,
+      "end_cue": 635,
+      "start_time": "00:43:52,869",
+      "end_time": "00:43:55,369",
+      "quote": "And just for tickles, maybe I throw in",
+      "id": "S03E08-096",
+      "reason": "需核音频／字幕或表达规范程度；不作为正确模板入正文"
+    }
+  ],
+  "vocabulary_candidates": [
+    {
+      "chunk": "hightail it",
+      "meaning": "急忙离开、飞快行动；口语",
+      "start_cue": 68,
+      "end_cue": 68,
+      "start_time": "00:03:52,775",
+      "end_time": "00:03:55,897",
+      "quote": "he hightails it outta here to give it back.",
+      "id": "S03E08-014",
+      "reason": "单词义项／词性学习，另走词汇轨道"
+    },
+    {
+      "chunk": "run-of-the-mill",
+      "meaning": "普通的、平常的",
+      "start_cue": 165,
+      "end_cue": 165,
+      "start_time": "00:12:24,404",
+      "end_time": "00:12:25,670",
+      "quote": "than your run-of-the-mill patient.",
+      "id": "S03E08-025",
+      "reason": "单词义项／词性学习，另走词汇轨道"
+    },
+    {
+      "chunk": "top-flight",
+      "meaning": "一流的、顶尖的；较正式评价",
+      "start_cue": 233,
+      "end_cue": 233,
+      "start_time": "00:15:26,119",
+      "end_time": "00:15:29,128",
+      "quote": "for production of seven top-flight TV commercials.",
+      "id": "S03E08-036",
+      "reason": "单词义项／词性学习，另走词汇轨道"
+    },
+    {
+      "chunk": "self-explanatory",
+      "meaning": "不言自明、无需额外解释；词汇候选待转轨",
+      "start_cue": 393,
+      "end_cue": 393,
+      "start_time": "00:21:54,029",
+      "end_time": "00:21:56,854",
+      "quote": "I think it's pretty self-explanatory.",
+      "id": "S03E08-062",
+      "reason": "单词义项／词性学习，另走词汇轨道"
+    }
+  ],
+  "second_pass_ranges": [
+    [
+      1,
+      710
+    ]
+  ],
+  "validation": {
+    "source_hash_matches": true,
+    "cue_sequence_contiguous": true,
+    "quotes_exact_after_html_and_whitespace_normalization": true,
+    "timecodes_match": true,
+    "audio_verified": false
+  },
+  "selection_notes": "首遍与回看由LLM按编号读字幕发现候选；工具只负责解析、引用回收、同形提示和校验。基础词形不作为自动已掌握排除依据。歌词片段未作为对话高频证据；仅保留可明确迁移项。跨季语义近重复待root最终复核。",
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}

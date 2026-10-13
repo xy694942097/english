@@ -1,0 +1,937 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S04/Better.Call.Saul.S04E04.en.srt",
+  "sha256": "0a7d35326f2133ca5c2309b5a91c7d49e7c0b60c5949955971a65f2f20563ec9",
+  "subtitle_blocks_read": 429,
+  "max_cue": 429,
+  "selection_status": "Candidates; community subtitles, not audio verified",
+  "read_batches": [
+    [
+      1,
+      429
+    ]
+  ],
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "items": [
+    {
+      "chunk": "make an impression on sb.",
+      "meaning": "给某人留下印象",
+      "start_cue": 11,
+      "end_cue": 11,
+      "start_time": "00:04:45,494",
+      "end_time": "00:04:47,538",
+      "quote": "You made quite an impression on Mr. Boyd.",
+      "id": "S04E04-001"
+    },
+    {
+      "chunk": "start sb. off as …",
+      "meaning": "让某人起初担任某职位",
+      "start_cue": 12,
+      "end_cue": 12,
+      "start_time": "00:04:47,705",
+      "end_time": "00:04:50,791",
+      "quote": "He's talking about starting you off as shift supervisor.",
+      "id": "S04E04-002"
+    },
+    {
+      "chunk": "if that works for you",
+      "meaning": "如果你方便／觉得可行；协调安排",
+      "start_cue": 13,
+      "end_cue": 13,
+      "start_time": "00:04:50,958",
+      "end_time": "00:04:53,919",
+      "quote": "We can get your training done today, if that works for you.",
+      "id": "S04E04-003"
+    },
+    {
+      "chunk": "It's a real shame.",
+      "meaning": "真可惜；表达遗憾",
+      "start_cue": 18,
+      "end_cue": 18,
+      "start_time": "00:05:10,186",
+      "end_time": "00:05:11,353",
+      "quote": "It's a real shame.",
+      "id": "S04E04-004"
+    },
+    {
+      "chunk": "take off",
+      "meaning": "动身离开；此处不是起飞",
+      "start_cue": 21,
+      "end_cue": 21,
+      "start_time": "00:05:47,431",
+      "end_time": "00:05:49,808",
+      "quote": "- You taking off? - Yeah.",
+      "id": "S04E04-005"
+    },
+    {
+      "chunk": "have a hankering for sth.",
+      "meaning": "很想要／很馋某物；随意口语",
+      "start_cue": 22,
+      "end_cue": 22,
+      "start_time": "00:05:50,392",
+      "end_time": "00:05:53,771",
+      "quote": "Hey, you want Thai for dinner? I've got a hankering for that iced tea.",
+      "id": "S04E04-006"
+    },
+    {
+      "chunk": "hear good things (about sb./sth.)",
+      "meaning": "听到对某人／某物不错的评价",
+      "start_cue": 30,
+      "end_cue": 30,
+      "start_time": "00:06:21,382",
+      "end_time": "00:06:24,301",
+      "quote": "He's not far from here. I've heard good things.",
+      "id": "S04E04-007"
+    },
+    {
+      "chunk": "I almost forgot to tell you.",
+      "meaning": "差点忘了告诉你；想起补充信息",
+      "start_cue": 38,
+      "end_cue": 38,
+      "start_time": "00:06:51,704",
+      "end_time": "00:06:56,375",
+      "quote": "Oh, jeez. Heh. I almost forgot to tell you.",
+      "id": "S04E04-008"
+    },
+    {
+      "chunk": "You're looking at …",
+      "meaning": "你眼前的就是……；带自豪感介绍自己",
+      "start_cue": 41,
+      "end_cue": 41,
+      "start_time": "00:07:00,879",
+      "end_time": "00:07:04,508",
+      "quote": "You're looking at Albuquerque's newest mobile communications specialist.",
+      "id": "S04E04-009"
+    },
+    {
+      "chunk": "gainful employment",
+      "meaning": "有报酬的正当工作；正式搭配",
+      "start_cue": 47,
+      "end_cue": 47,
+      "start_time": "00:07:17,730",
+      "end_time": "00:07:19,481",
+      "quote": "It's strictly gainful employment.",
+      "id": "S04E04-010"
+    },
+    {
+      "chunk": "Coffee's on.",
+      "meaning": "咖啡正煮着／已准备供应；场景用语",
+      "start_cue": 52,
+      "end_cue": 52,
+      "start_time": "00:07:32,202",
+      "end_time": "00:07:34,580",
+      "quote": "Okay. Coffee's on.",
+      "id": "S04E04-011"
+    },
+    {
+      "chunk": "You can count on it.",
+      "meaning": "你可以放心／一定如此；承诺回应",
+      "start_cue": 54,
+      "end_cue": 54,
+      "start_time": "00:07:38,542",
+      "end_time": "00:07:40,044",
+      "quote": "You can count on it.",
+      "id": "S04E04-012"
+    },
+    {
+      "chunk": "pass up an opportunity",
+      "meaning": "放过机会、错失机会",
+      "start_cue": 56,
+      "end_cue": 56,
+      "start_time": "00:07:54,475",
+      "end_time": "00:07:57,936",
+      "quote": "I've been thinking it over, and I just can't pass up this opportunity.",
+      "id": "S04E04-013"
+    },
+    {
+      "chunk": "What's on for today?",
+      "meaning": "今天安排了什么？询问日程",
+      "start_cue": 59,
+      "end_cue": 59,
+      "start_time": "00:08:13,911",
+      "end_time": "00:08:16,580",
+      "quote": "- What's on for today? - Well, let's see.",
+      "id": "S04E04-014"
+    },
+    {
+      "chunk": "You got it.",
+      "meaning": "没问题／明白；回应请求或感谢，不同于被识破",
+      "start_cue": 64,
+      "end_cue": 64,
+      "start_time": "00:08:29,718",
+      "end_time": "00:08:32,346",
+      "quote": "- Okay. Thanks. - You got it.",
+      "id": "S04E04-015"
+    },
+    {
+      "chunk": "show up",
+      "meaning": "按约定到场、出现",
+      "start_cue": 81,
+      "end_cue": 81,
+      "start_time": "00:09:30,070",
+      "end_time": "00:09:32,239",
+      "quote": "You didn't show up, hence the bench warrant.",
+      "id": "S04E04-016"
+    },
+    {
+      "chunk": "a suspended sentence",
+      "meaning": "缓刑判决；法律术语",
+      "start_cue": 83,
+      "end_cue": 83,
+      "start_time": "00:09:35,659",
+      "end_time": "00:09:39,163",
+      "quote": "Crystal: Your honour, Mr. Blakey was given a six-month suspended sentence...",
+      "id": "S04E04-017"
+    },
+    {
+      "chunk": "There's no question (that) …",
+      "meaning": "毫无疑问……；强调判断",
+      "start_cue": 85,
+      "end_cue": 85,
+      "start_time": "00:09:41,415",
+      "end_time": "00:09:43,584",
+      "quote": "There's no question this bench warrant...",
+      "id": "S04E04-018"
+    },
+    {
+      "chunk": "take sb.'s mind off sth.",
+      "meaning": "让某人暂时不去想某事",
+      "start_cue": 94,
+      "end_cue": 94,
+      "start_time": "00:10:09,568",
+      "end_time": "00:10:13,530",
+      "quote": "Sit. Help me take my mind off this eggplant and okra.",
+      "id": "S04E04-019",
+      "original_chunk": "take one's mind off sth."
+    },
+    {
+      "chunk": "yadda, yadda",
+      "meaning": "等等那些话／诸如此类；漫不经心或嫌啰嗦",
+      "start_cue": 95,
+      "end_cue": 95,
+      "start_time": "00:10:15,199",
+      "end_time": "00:10:19,661",
+      "quote": "My wife insists, you know, cholesterol, yadda, yadda.",
+      "id": "S04E04-020"
+    },
+    {
+      "chunk": "while away … hours",
+      "meaning": "消磨时间；此处批评浪费可计费工时",
+      "start_cue": 100,
+      "end_cue": 101,
+      "start_time": "00:10:40,682",
+      "end_time": "00:10:47,064",
+      "quote": "So Howard Hamlin's fine with one of his associates... Sitting around my court all day, whiling away the billable hours?",
+      "id": "S04E04-021"
+    },
+    {
+      "chunk": "a solo practitioner",
+      "meaning": "独立执业者；此处律师",
+      "start_cue": 103,
+      "end_cue": 103,
+      "start_time": "00:10:49,274",
+      "end_time": "00:10:51,735",
+      "quote": "- I'm a solo practitioner now. - No kidding.",
+      "id": "S04E04-022"
+    },
+    {
+      "chunk": "How's business?",
+      "meaning": "生意／业务怎么样？",
+      "start_cue": 106,
+      "end_cue": 106,
+      "start_time": "00:10:56,740",
+      "end_time": "00:10:59,076",
+      "quote": "- How's business? - Pretty good.",
+      "id": "S04E04-023"
+    },
+    {
+      "chunk": "the broad strokes",
+      "meaning": "大致轮廓／基本情况",
+      "start_cue": 112,
+      "end_cue": 112,
+      "start_time": "00:11:19,137",
+      "end_time": "00:11:24,226",
+      "quote": "I can't share all the details just yet, but I can give you broad strokes.",
+      "id": "S04E04-024"
+    },
+    {
+      "chunk": "healthy as a horse",
+      "meaning": "非常健康、身体壮实",
+      "start_cue": 116,
+      "end_cue": 116,
+      "start_time": "00:11:32,442",
+      "end_time": "00:11:34,194",
+      "quote": "Healthy as a horse.",
+      "id": "S04E04-025"
+    },
+    {
+      "chunk": "to make matters worse",
+      "meaning": "更糟的是……；补充不利情况",
+      "start_cue": 126,
+      "end_cue": 126,
+      "start_time": "00:12:02,848",
+      "end_time": "00:12:06,935",
+      "quote": "To make matters worse, the hospital refuses to take responsibility.",
+      "id": "S04E04-026"
+    },
+    {
+      "chunk": "once-in-a-lifetime",
+      "meaning": "一生难遇的、极其难得的",
+      "start_cue": 131,
+      "end_cue": 131,
+      "start_time": "00:12:18,655",
+      "end_time": "00:12:20,991",
+      "quote": "Where those once-in-a-lifetime cases exist.",
+      "id": "S04E04-028"
+    },
+    {
+      "chunk": "stick to sth.",
+      "meaning": "坚持／只做某件事；此处劝专注本业",
+      "start_cue": 139,
+      "end_cue": 139,
+      "start_time": "00:12:44,264",
+      "end_time": "00:12:46,975",
+      "quote": "The best thing you can do is stick to mesa verde.",
+      "id": "S04E04-029"
+    },
+    {
+      "chunk": "Having said that, …",
+      "meaning": "话虽如此……；对前述立场加以转折",
+      "start_cue": 141,
+      "end_cue": 141,
+      "start_time": "00:12:51,605",
+      "end_time": "00:12:55,943",
+      "quote": "Having said that, we've got perpetual pd overload.",
+      "id": "S04E04-030"
+    },
+    {
+      "chunk": "put sb. to work",
+      "meaning": "让某人开始工作、给某人安排任务",
+      "start_cue": 143,
+      "end_cue": 143,
+      "start_time": "00:12:57,569",
+      "end_time": "00:13:01,990",
+      "quote": "Next time I see you lurking in my court, I'm gonna put you to work.",
+      "id": "S04E04-031"
+    },
+    {
+      "chunk": "It's an act.",
+      "meaning": "那是在演戏／是装出来的",
+      "start_cue": 179,
+      "end_cue": 179,
+      "start_time": "00:15:54,162",
+      "end_time": "00:15:55,914",
+      "quote": "It's an act.",
+      "id": "S04E04-033"
+    },
+    {
+      "chunk": "Why would you even say that?",
+      "meaning": "你怎么会说这种话？不理解／质疑话语",
+      "start_cue": 180,
+      "end_cue": 180,
+      "start_time": "00:15:56,832",
+      "end_time": "00:15:59,126",
+      "quote": "Why would you even say that?",
+      "id": "S04E04-034"
+    },
+    {
+      "chunk": "not add up",
+      "meaning": "细节对不上／说不通",
+      "start_cue": 189,
+      "end_cue": 189,
+      "start_time": "00:16:17,561",
+      "end_time": "00:16:20,147",
+      "quote": "None of his details add up.",
+      "id": "S04E04-035"
+    },
+    {
+      "chunk": "make up a story",
+      "meaning": "编造故事",
+      "start_cue": 191,
+      "end_cue": 191,
+      "start_time": "00:16:26,695",
+      "end_time": "00:16:29,447",
+      "quote": "Why would anyone make up a story like that?",
+      "id": "S04E04-036"
+    },
+    {
+      "chunk": "have a tell",
+      "meaning": "有暴露真实意图的下意识动作；来自扑克语境",
+      "start_cue": 198,
+      "end_cue": 198,
+      "start_time": "00:16:51,011",
+      "end_time": "00:16:52,888",
+      "quote": "He's got a tell.",
+      "id": "S04E04-037"
+    },
+    {
+      "chunk": "put sb.'s money where sb.'s mouth is",
+      "meaning": "用行动／下注证明说的话，别光说",
+      "start_cue": 202,
+      "end_cue": 202,
+      "start_time": "00:17:02,689",
+      "end_time": "00:17:04,608",
+      "quote": "Wanna put your money where your mouth is?",
+      "id": "S04E04-038",
+      "original_chunk": "put one's money where one's mouth is"
+    },
+    {
+      "chunk": "make it interesting",
+      "meaning": "加点赌注／提高趣味；此处指打赌",
+      "start_cue": 204,
+      "end_cue": 204,
+      "start_time": "00:17:07,611",
+      "end_time": "00:17:09,529",
+      "quote": "Make it interesting.",
+      "id": "S04E04-039"
+    },
+    {
+      "chunk": "… bucks says (that) …",
+      "meaning": "赌若干钱，……一定会发生；随意赌约",
+      "start_cue": 206,
+      "end_cue": 206,
+      "start_time": "00:17:13,158",
+      "end_time": "00:17:16,620",
+      "quote": "Ten bucks says that when he talks about Judy...",
+      "id": "S04E04-040"
+    },
+    {
+      "chunk": "You're on.",
+      "meaning": "成交／我应战；接受挑战或赌约",
+      "start_cue": 208,
+      "end_cue": 208,
+      "start_time": "00:17:19,372",
+      "end_time": "00:17:21,917",
+      "quote": "- All right. You're on. - All right.",
+      "id": "S04E04-041"
+    },
+    {
+      "chunk": "a line out the door",
+      "meaning": "排队一直排出门外",
+      "start_cue": 215,
+      "end_cue": 215,
+      "start_time": "00:18:54,676",
+      "end_time": "00:18:57,804",
+      "quote": "But wait till inventory week. There's a line out the door.",
+      "id": "S04E04-042"
+    },
+    {
+      "chunk": "Is there any chance you could …?",
+      "meaning": "有没有可能请你……？委婉请求",
+      "start_cue": 218,
+      "end_cue": 219,
+      "start_time": "00:19:02,600",
+      "end_time": "00:19:09,190",
+      "quote": "Is there, uh, any chance... You could move me to a store with a little more traffic?",
+      "id": "S04E04-043"
+    },
+    {
+      "chunk": "swing by",
+      "meaning": "顺路过来一下",
+      "start_cue": 223,
+      "end_cue": 223,
+      "start_time": "00:19:18,450",
+      "end_time": "00:19:21,369",
+      "quote": "- Okay, no problem. - If I can, I'll swing by later.",
+      "id": "S04E04-044"
+    },
+    {
+      "chunk": "Keep up the good work.",
+      "meaning": "继续保持、做得不错；鼓励",
+      "start_cue": 224,
+      "end_cue": 224,
+      "start_time": "00:19:21,536",
+      "end_time": "00:19:24,998",
+      "quote": "- Keep up the good work. - See you then. Bye.",
+      "id": "S04E04-045"
+    },
+    {
+      "chunk": "run sb. off the road",
+      "meaning": "把某人的车逼出道路",
+      "start_cue": 226,
+      "end_cue": 226,
+      "start_time": "00:20:36,820",
+      "end_time": "00:20:38,822",
+      "quote": "That's the one that ran us off the road.",
+      "id": "S04E04-046"
+    },
+    {
+      "chunk": "give oneself up",
+      "meaning": "自首、投降",
+      "start_cue": 233,
+      "end_cue": 233,
+      "start_time": "00:24:24,464",
+      "end_time": "00:24:26,841",
+      "quote": "Dewey: Give yourselves up, idiots!",
+      "id": "S04E04-047"
+    },
+    {
+      "chunk": "clear sb. out",
+      "meaning": "清除某一群人；此处是暴力消灭",
+      "start_cue": 236,
+      "end_cue": 236,
+      "start_time": "00:27:13,090",
+      "end_time": "00:27:15,802",
+      "quote": "Nacho: We cleared out the espinosas.",
+      "id": "S04E04-048"
+    },
+    {
+      "chunk": "pull through",
+      "meaning": "挺过重病／伤势，活下来",
+      "start_cue": 240,
+      "end_cue": 240,
+      "start_time": "00:27:23,810",
+      "end_time": "00:27:25,102",
+      "quote": "But he'll pull through.",
+      "id": "S04E04-049"
+    },
+    {
+      "chunk": "the heat dies down",
+      "meaning": "追查／紧张风声渐息；犯罪口语",
+      "start_cue": 241,
+      "end_cue": 241,
+      "start_time": "00:27:26,020",
+      "end_time": "00:27:29,148",
+      "quote": "They went back south until the heat dies down.",
+      "id": "S04E04-050"
+    },
+    {
+      "chunk": "wipe sb. out",
+      "meaning": "彻底消灭某人／团伙；本句犯罪语境",
+      "start_cue": 243,
+      "end_cue": 243,
+      "start_time": "00:27:36,239",
+      "end_time": "00:27:39,575",
+      "quote": "The salamancas wipe out the espinosas...",
+      "id": "S04E04-051"
+    },
+    {
+      "chunk": "up for grabs",
+      "meaning": "可供争夺、尚未归属谁",
+      "start_cue": 244,
+      "end_cue": 244,
+      "start_time": "00:27:39,742",
+      "end_time": "00:27:42,995",
+      "quote": "Espinosa territory is up for grabs.",
+      "id": "S04E04-052"
+    },
+    {
+      "chunk": "what with … and all",
+      "meaning": "考虑到……等情况；随意口语的原因补充",
+      "start_cue": 251,
+      "end_cue": 251,
+      "start_time": "00:28:25,621",
+      "end_time": "00:28:28,666",
+      "quote": "I mean, what with his degree in sociology and all.",
+      "id": "S04E04-053"
+    },
+    {
+      "chunk": "come a long way",
+      "meaning": "取得很大进步／走出很远",
+      "start_cue": 252,
+      "end_cue": 252,
+      "start_time": "00:28:28,958",
+      "end_time": "00:28:32,837",
+      "quote": "I think he's really come a long way. It...",
+      "id": "S04E04-054"
+    },
+    {
+      "chunk": "That sounds promising.",
+      "meaning": "那听起来很有希望；认可发展",
+      "start_cue": 261,
+      "end_cue": 261,
+      "start_time": "00:28:53,566",
+      "end_time": "00:28:56,527",
+      "quote": "That all sounds really promising.",
+      "id": "S04E04-055"
+    },
+    {
+      "chunk": "Not once.",
+      "meaning": "一次都没有；强调否定",
+      "start_cue": 274,
+      "end_cue": 274,
+      "start_time": "00:29:37,693",
+      "end_time": "00:29:39,654",
+      "quote": "Not once.",
+      "id": "S04E04-056"
+    },
+    {
+      "chunk": "if you ask me",
+      "meaning": "依我看；表达主观看法",
+      "start_cue": 288,
+      "end_cue": 288,
+      "start_time": "00:30:28,911",
+      "end_time": "00:30:34,625",
+      "quote": "I mean, it might be painful, but if you ask me, I'd say it's progress.",
+      "id": "S04E04-057"
+    },
+    {
+      "chunk": "live in the here and now",
+      "meaning": "活在当下、专注此刻",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:30:51,934",
+      "end_time": "00:30:56,188",
+      "quote": "You know, to live in the here and now.",
+      "id": "S04E04-058"
+    },
+    {
+      "chunk": "money is tight",
+      "meaning": "手头紧、钱不宽裕",
+      "start_cue": 299,
+      "end_cue": 299,
+      "start_time": "00:31:18,002",
+      "end_time": "00:31:19,587",
+      "quote": "But money was tight.",
+      "id": "S04E04-059"
+    },
+    {
+      "chunk": "get sb. misty-eyed",
+      "meaning": "使某人感动／伤感得眼眶湿润",
+      "start_cue": 310,
+      "end_cue": 310,
+      "start_time": "00:31:56,874",
+      "end_time": "00:32:00,294",
+      "quote": "Getting you all misty-eyed and loving every minute of it.",
+      "id": "S04E04-060"
+    },
+    {
+      "chunk": "You have no shame.",
+      "meaning": "你真不要脸；强烈责备",
+      "start_cue": 324,
+      "end_cue": 324,
+      "start_time": "00:32:41,377",
+      "end_time": "00:32:43,754",
+      "quote": "You have no shame.",
+      "id": "S04E04-061"
+    },
+    {
+      "chunk": "be wrapped up in sth.",
+      "meaning": "沉浸于／过度关注某事",
+      "start_cue": 329,
+      "end_cue": 329,
+      "start_time": "00:33:09,446",
+      "end_time": "00:33:12,116",
+      "quote": "All wrapped up in your sad, little stories...",
+      "id": "S04E04-062"
+    },
+    {
+      "chunk": "feed off sth.",
+      "meaning": "从某物获取满足／动力；此处是彼此悲惨中取心理慰藉",
+      "start_cue": 330,
+      "end_cue": 330,
+      "start_time": "00:33:12,283",
+      "end_time": "00:33:15,077",
+      "quote": "Feeding off each other's misery.",
+      "id": "S04E04-063"
+    },
+    {
+      "chunk": "play games",
+      "meaning": "耍花招／不认真说明实情",
+      "start_cue": 337,
+      "end_cue": 337,
+      "start_time": "00:34:34,990",
+      "end_time": "00:34:37,368",
+      "quote": "I don't want to play games.",
+      "id": "S04E04-064"
+    },
+    {
+      "chunk": "And you know this how?",
+      "meaning": "你又是怎么知道的？带质疑的口语问法",
+      "start_cue": 369,
+      "end_cue": 369,
+      "start_time": "00:38:11,915",
+      "end_time": "00:38:15,627",
+      "quote": "- But the rest of them are fine. - And you know this how?",
+      "id": "S04E04-065"
+    },
+    {
+      "chunk": "make quite a splash",
+      "meaning": "引起很大反响、轰动",
+      "start_cue": 384,
+      "end_cue": 384,
+      "start_time": "00:40:36,560",
+      "end_time": "00:40:41,940",
+      "quote": "Bavarian boy made quite a splash at the collectibles expo.",
+      "id": "S04E04-066"
+    },
+    {
+      "chunk": "a bidding war",
+      "meaning": "竞相抬价、竞标大战",
+      "start_cue": 385,
+      "end_cue": 385,
+      "start_time": "00:40:42,107",
+      "end_time": "00:40:44,985",
+      "quote": "- Bidding war. - Wow, great.",
+      "id": "S04E04-067"
+    },
+    {
+      "chunk": "know the difference",
+      "meaning": "分辨出不同、察觉差异",
+      "start_cue": 387,
+      "end_cue": 387,
+      "start_time": "00:40:47,404",
+      "end_time": "00:40:49,197",
+      "quote": "I would've never known the difference.",
+      "id": "S04E04-068"
+    },
+    {
+      "chunk": "leave sb. high and dry",
+      "meaning": "把某人撇下不管、让人陷入困境",
+      "start_cue": 388,
+      "end_cue": 388,
+      "start_time": "00:40:49,364",
+      "end_time": "00:40:52,034",
+      "quote": "Yeah, well, you could've left me high and dry.",
+      "id": "S04E04-069"
+    },
+    {
+      "chunk": "more where that came from",
+      "meaning": "还有更多类似的东西／机会；口语",
+      "start_cue": 391,
+      "end_cue": 391,
+      "start_time": "00:40:58,582",
+      "end_time": "00:41:01,084",
+      "quote": "Got any more where that came from?",
+      "id": "S04E04-070"
+    },
+    {
+      "chunk": "Oh, bummer.",
+      "meaning": "唉，真扫兴／遗憾；随意口语",
+      "start_cue": 393,
+      "end_cue": 393,
+      "start_time": "00:41:04,921",
+      "end_time": "00:41:07,049",
+      "quote": "Oh, bummer.",
+      "id": "S04E04-071"
+    },
+    {
+      "chunk": "You never know who's listening.",
+      "meaning": "你无法确定有谁在听；谨慎警告",
+      "start_cue": 398,
+      "end_cue": 398,
+      "start_time": "00:41:23,815",
+      "end_time": "00:41:25,901",
+      "quote": "You never know who's listening.",
+      "id": "S04E04-072"
+    },
+    {
+      "chunk": "be well-advised to do sth.",
+      "meaning": "最好／应该做某事；正式劝告，可带警告",
+      "start_cue": 416,
+      "end_cue": 416,
+      "start_time": "00:44:17,072",
+      "end_time": "00:44:20,075",
+      "quote": "You would be well-advised to do so.",
+      "id": "S04E04-073"
+    },
+    {
+      "chunk": "get around to sth.",
+      "meaning": "终于抽出时间处理／谈到某事",
+      "start_cue": 418,
+      "end_cue": 418,
+      "start_time": "00:44:24,037",
+      "end_time": "00:44:26,665",
+      "quote": "I wondered when you were gonna get around to this.",
+      "id": "S04E04-074"
+    },
+    {
+      "chunk": "all the while",
+      "meaning": "在整个过程中一直；强调被隐瞒的同时发生",
+      "start_cue": 422,
+      "end_cue": 422,
+      "start_time": "00:44:37,759",
+      "end_time": "00:44:41,888",
+      "quote": "And all the while, you knew varga was moving against my interests.",
+      "id": "S04E04-075"
+    },
+    {
+      "chunk": "move against sb.'s interests",
+      "meaning": "采取损害某人利益的行动；较正式",
+      "start_cue": 422,
+      "end_cue": 422,
+      "start_time": "00:44:37,759",
+      "end_time": "00:44:41,888",
+      "quote": "And all the while, you knew varga was moving against my interests.",
+      "id": "S04E04-076"
+    },
+    {
+      "chunk": "make a move",
+      "meaning": "采取行动；此处指强硬动手，不是恋爱示好",
+      "start_cue": 426,
+      "end_cue": 426,
+      "start_time": "00:44:58,822",
+      "end_time": "00:45:01,908",
+      "quote": "If you're gonna make a move, you better make it.",
+      "id": "S04E04-077"
+    },
+    {
+      "chunk": "have an ask",
+      "meaning": "有所求／提出请求；名词ask较现代工作口语",
+      "start_cue": 428,
+      "end_cue": 428,
+      "start_time": "00:45:14,212",
+      "end_time": "00:45:17,549",
+      "quote": "You brought me here because you have an ask.",
+      "id": "S04E04-078"
+    },
+    {
+      "chunk": "run a game on sb.",
+      "meaning": "耍手段糊弄／操纵某人；口语",
+      "start_cue": 429,
+      "end_cue": 429,
+      "start_time": "00:45:19,175",
+      "end_time": "00:45:24,222",
+      "quote": "So why don't you stop running a game on me and just tell me about the job?",
+      "id": "S04E04-079"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "chunk": "Am I calling at a bad time?",
+      "meaning": "现在打来方便吗？电话开头的礼貌询问",
+      "start_cue": 6,
+      "end_cue": 6,
+      "start_time": "00:04:31,814",
+      "end_time": "00:04:34,442",
+      "quote": "- Hi. - Am I calling at a bad time?",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "Am I calling at a bad time?"
+    },
+    {
+      "chunk": "The usual?",
+      "meaning": "还是老样子吗？熟客点单用语",
+      "start_cue": 161,
+      "end_cue": 161,
+      "start_time": "00:14:51,683",
+      "end_time": "00:14:53,143",
+      "quote": "- The usual for you? - Yup.",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "the usual"
+    },
+    {
+      "chunk": "round sb. up",
+      "meaning": "把人召集／集中起来；也可指拘捕",
+      "start_cue": 229,
+      "end_cue": 229,
+      "start_time": "00:20:51,459",
+      "end_time": "00:20:53,211",
+      "quote": "We'll round them up...",
+      "reason": "同形表达已在前季／本季已读集收录",
+      "matched": "round sb. up"
+    },
+    {
+      "chunk": "speaking of sth.",
+      "meaning": "说到某事……；承接话题",
+      "start_cue": 171,
+      "end_cue": 171,
+      "start_time": "00:15:29,679",
+      "end_time": "00:15:31,932",
+      "quote": "You know, speaking of group...",
+      "id": "S04E04-034",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "Speaking of sth.,…",
+      "matched_source": "references/chunks/better-call-saul-s01e10-selection.json"
+    },
+    {
+      "chunk": "reach out to sb.",
+      "meaning": "主动联系、提供支持",
+      "start_cue": 172,
+      "end_cue": 172,
+      "start_time": "00:15:32,099",
+      "end_time": "00:15:34,851",
+      "quote": "I've been thinking about reaching out to Henry.",
+      "id": "S04E04-035",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "reach out to sb.",
+      "matched_source": "references/chunks/better-call-saul-s03e06-selection.json"
+    },
+    {
+      "chunk": "sell sb. a bill of goods",
+      "meaning": "用虚假说法欺骗某人",
+      "start_cue": 309,
+      "end_cue": 309,
+      "start_time": "00:31:53,579",
+      "end_time": "00:31:56,707",
+      "quote": "He's been coming in here for months, selling you a bill of goods...",
+      "id": "S04E04-063",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "sell sb. a bill of goods",
+      "matched_source": "references/chunks/better-call-saul-s03e05-selection.json"
+    },
+    {
+      "chunk": "look sb. in the eye",
+      "meaning": "直视某人眼睛；常强调坦诚／承诺",
+      "start_cue": 421,
+      "end_cue": 421,
+      "start_time": "00:44:33,922",
+      "end_time": "00:44:37,592",
+      "quote": "You looked me in the eye, you shook my hand.",
+      "id": "S04E04-079",
+      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "matched": "look sb. in the eye",
+      "matched_source": "references/chunks/better-call-saul-s01e02-selection.json"
+    },
+    {
+      "chunk": "take responsibility",
+      "meaning": "承担责任",
+      "start_cue": 126,
+      "end_cue": 126,
+      "start_time": "00:12:02,848",
+      "end_time": "00:12:06,935",
+      "quote": "To make matters worse, the hospital refuses to take responsibility.",
+      "id": "S04E04-027",
+      "reason": "去掉程度强调，不产生新接法",
+      "earlier": {
+        "episode": "s01e02",
+        "chunk": "take full responsibility"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    },
+    {
+      "chunk": "a conflict of interest",
+      "meaning": "利益冲突；法律／商业用语",
+      "start_cue": 151,
+      "end_cue": 151,
+      "start_time": "00:13:30,435",
+      "end_time": "00:13:32,604",
+      "quote": "You wanted to discuss the conflict of interest.",
+      "id": "S04E04-032",
+      "reason": "同义近重复：只改冠词、人称、占位符或句式表面形式",
+      "earlier": {
+        "episode": "s02e07",
+        "chunk": "conflict of interest"
+      },
+      "review_stage": "root cross-season semantic review 2026-10-13"
+    }
+  ],
+  "pending": [],
+  "vocabulary_candidates": [],
+  "intentionally_omitted": [
+    {
+      "chunk": "stop by",
+      "meaning": "顺路来一下；与swing by近义候选待统一",
+      "start_cue": 169,
+      "end_cue": 169,
+      "start_time": "00:15:21,129",
+      "end_time": "00:15:23,340",
+      "quote": "Maybe I could stop by after.",
+      "id": "S04E04-033",
+      "reason": "与已收swing by同义同功能，无独立学习点"
+    }
+  ],
+  "second_pass_ranges": [
+    [
+      1,
+      429
+    ]
+  ],
+  "validation": {
+    "source_hash_matches": true,
+    "cue_sequence_contiguous": true,
+    "quotes_exact_after_html_and_whitespace_normalization": true,
+    "timecodes_match": true,
+    "audio_verified": false
+  },
+  "selection_notes": "首遍与回看由LLM按编号读字幕发现候选；工具只负责解析、引用回收、同形提示和校验。基础词形不作为自动已掌握排除依据。歌词片段未作为对话高频证据；仅保留可明确迁移项。跨季语义近重复待root最终复核。",
+  "cross_season_review": "Completed: normalized-title groups read by meaning; high-confidence pronoun/slot variants reviewed; distinct meanings retained. Does not guarantee no semantic duplicate remains."
+}
