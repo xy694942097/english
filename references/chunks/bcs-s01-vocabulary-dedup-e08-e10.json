@@ -1,0 +1,1354 @@
+{
+  "scope": "Independent semantic dedup review of E08–E10 against E01–E07 and episode chronology; source selections unchanged.",
+  "method": "Python surfaced word-label overlap only; LLM compared Chinese contextual senses, representative quotations, parts of speech, genuine argument/collocation differences and compound-title components. No mechanical lexical deletion. Sources and references were read from the current selection JSONs.",
+  "source_snapshots": {
+    "S01E01": {
+      "items": 104,
+      "selection_sha256": "907ec90d5696ea538796993652077ccc0670be116822094b7f0bd32c82b3a6db"
+    },
+    "S01E02": {
+      "items": 138,
+      "selection_sha256": "fbab008b22dd7dda08ac9828a5ef0a9c52dc7411fc001b7c32d40533be563b2b"
+    },
+    "S01E03": {
+      "items": 197,
+      "selection_sha256": "6acd716f0716378888ed4152d5aecddf37e1831e73de3ac135c2eeea4c541cc4"
+    },
+    "S01E04": {
+      "items": 268,
+      "selection_sha256": "5fd275f50c810252d8c90cc5eafed5c5ca42e9b7dec35557bc6c026a8375a063"
+    },
+    "S01E05": {
+      "items": 235,
+      "selection_sha256": "9c730c8c575478796760d7298d830f03a25d188d744e194c67d9f79ad1a83489"
+    },
+    "S01E06": {
+      "items": 176,
+      "selection_sha256": "b22840216ac3b039d6735d99a7862f385ae70b979158d8d666a1ee86fbdaec25"
+    },
+    "S01E07": {
+      "items": 207,
+      "selection_sha256": "6f01d094fd8960cdb1088ef65604f732b5e84d9754d53746b80a6bb14e2a39fa"
+    },
+    "S01E08": {
+      "items": 207,
+      "selection_sha256": "4bd65c0cd175c9d170a781c0f210eae428e994ee5540e2498817a35375edd4a9"
+    },
+    "S01E09": {
+      "items": 168,
+      "selection_sha256": "cfcdc0341c0b9e621a6e1b1d241b3f3650c889654510ca8214c66b8d0ffd4d96"
+    },
+    "S01E10": {
+      "items": 175,
+      "selection_sha256": "4d262daea3e7a2cc23895935545df04115a60ae1d0c6f673a70c89adbcbb8cce"
+    }
+  },
+  "delete_suggestions": [
+    {
+      "episode": "S01E08",
+      "word": "pass the bar",
+      "start_cue": 24,
+      "end_cue": 24,
+      "keep_episode": "S01E02",
+      "keep_word": "the bar",
+      "keep_start_cue": 228,
+      "keep_end_cue": 229,
+      "reason": "E02条目释义及原句已包含pass the bar，词形虽为短搭配仍为同一律师资格考试用法。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "interrupt",
+      "start_cue": 85,
+      "end_cue": 86,
+      "keep_episode": "S01E04",
+      "keep_word": "interrupt",
+      "keep_start_cue": 410,
+      "keep_end_cue": 411,
+      "reason": "同为打断／打扰动词，没有新的接法。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "settle back in",
+      "start_cue": 96,
+      "end_cue": 100,
+      "keep_episode": "S01E06",
+      "keep_word": "settle in",
+      "keep_start_cue": 28,
+      "keep_end_cue": 28,
+      "reason": "同为安顿并适应生活状态，back仅标再次返回，不产生独立词义或新论元接法。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "outcome",
+      "start_cue": 109,
+      "end_cue": 111,
+      "keep_episode": "S01E07",
+      "keep_word": "outcome",
+      "keep_start_cue": 300,
+      "keep_end_cue": 300,
+      "reason": "同为结果名词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "just",
+      "start_cue": 109,
+      "end_cue": 111,
+      "keep_episode": "S01E02",
+      "keep_word": "just",
+      "keep_start_cue": 388,
+      "keep_end_cue": 391,
+      "reason": "同为公正的形容词，与副词just区分的学习点已收。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "be committed to",
+      "start_cue": 112,
+      "end_cue": 112,
+      "keep_episode": "S01E07",
+      "keep_word": "committed to",
+      "keep_start_cue": 172,
+      "keep_end_cue": 172,
+      "reason": "同为致力于某事，且to后接名词或动名词；be不是新义。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "relative",
+      "start_cue": 116,
+      "end_cue": 117,
+      "keep_episode": "S01E05",
+      "keep_word": "relative",
+      "keep_start_cue": 592,
+      "keep_end_cue": 592,
+      "reason": "同为亲属名词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "will",
+      "start_cue": 145,
+      "end_cue": 145,
+      "keep_episode": "S01E05",
+      "keep_word": "will",
+      "keep_start_cue": 282,
+      "keep_end_cue": 282,
+      "reason": "同为遗嘱名词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "even",
+      "start_cue": 165,
+      "end_cue": 166,
+      "keep_episode": "S01E05",
+      "keep_word": "even",
+      "keep_start_cue": 116,
+      "keep_end_cue": 116,
+      "reason": "同为金额凑整／不多不少，位置差异不改变词义。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "above-board",
+      "start_cue": 189,
+      "end_cue": 190,
+      "keep_episode": "S01E06",
+      "keep_word": "square and above board",
+      "keep_start_cue": 236,
+      "keep_end_cue": 236,
+      "reason": "E06复合标题及释义已涵盖above board诚实正当的形容词；连字符不构成新项。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "intentionally",
+      "start_cue": 210,
+      "end_cue": 211,
+      "keep_episode": "S01E04",
+      "keep_word": "intentionally",
+      "keep_start_cue": 518,
+      "keep_end_cue": 520,
+      "reason": "同为故意地副词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "aspirin",
+      "start_cue": 252,
+      "end_cue": 252,
+      "keep_episode": "S01E06",
+      "keep_word": "aspirin",
+      "keep_start_cue": 155,
+      "keep_end_cue": 155,
+      "reason": "同一药品名，无新用法。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "policy",
+      "start_cue": 280,
+      "end_cue": 281,
+      "keep_episode": "S01E06",
+      "keep_word": "policy",
+      "keep_start_cue": 243,
+      "keep_end_cue": 243,
+      "reason": "同为政策／制度规定名词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "esquire",
+      "start_cue": 319,
+      "end_cue": 319,
+      "keep_episode": "S01E04",
+      "keep_word": "esquire",
+      "keep_start_cue": 361,
+      "keep_end_cue": 362,
+      "reason": "同为美国律师姓名后的敬称。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "whisper",
+      "start_cue": 374,
+      "end_cue": 375,
+      "keep_episode": "S01E06",
+      "keep_word": "whisper",
+      "keep_start_cue": 77,
+      "keep_end_cue": 78,
+      "reason": "同为低声说话／耳语动词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "medical condition",
+      "start_cue": 615,
+      "end_cue": 617,
+      "keep_episode": "S01E05",
+      "keep_word": "condition",
+      "keep_start_cue": 10,
+      "keep_end_cue": 10,
+      "reason": "同为健康状况／疾病名词；medical只明确已有医疗语境，不引入新义。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "facility",
+      "start_cue": 675,
+      "end_cue": 676,
+      "keep_episode": "S01E05",
+      "keep_word": "facility",
+      "keep_start_cue": 360,
+      "keep_end_cue": 360,
+      "reason": "同为机构设施名词；养老机构与治疗机构的指代对象差异未形成新义或接法。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "make sb. whole",
+      "start_cue": 688,
+      "end_cue": 689,
+      "keep_episode": "S01E07",
+      "keep_word": "make sb. whole",
+      "keep_start_cue": 334,
+      "keep_end_cue": 334,
+      "reason": "同为补偿损失使恢复原状的法律财务用法。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "federal",
+      "start_cue": 738,
+      "end_cue": 740,
+      "keep_episode": "S01E03",
+      "keep_word": "federal",
+      "keep_start_cue": 338,
+      "keep_end_cue": 340,
+      "reason": "同为联邦级别／联邦管辖形容词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "potentially",
+      "start_cue": 738,
+      "end_cue": 740,
+      "keep_episode": "S01E04",
+      "keep_word": "potentially",
+      "keep_start_cue": 138,
+      "keep_end_cue": 138,
+      "reason": "同为可能地副词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "geezer",
+      "start_cue": 769,
+      "end_cue": 770,
+      "keep_episode": "S01E03",
+      "keep_word": "geezer",
+      "keep_start_cue": 243,
+      "keep_end_cue": 243,
+      "reason": "同为不敬口语老头称呼。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "decade",
+      "start_cue": 770,
+      "end_cue": 770,
+      "keep_episode": "S01E05",
+      "keep_word": "decade",
+      "keep_start_cue": 425,
+      "keep_end_cue": 425,
+      "reason": "同为十年名词，夸张困倦不改变义项。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "privacy",
+      "start_cue": 438,
+      "end_cue": 439,
+      "keep_episode": "S01E08",
+      "keep_word": "expectation of privacy",
+      "keep_start_cue": 438,
+      "keep_end_cue": 439,
+      "reason": "同一cue438中较完整条目已覆盖隐私权益语境；独立privacy行没有新义或例证。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "toe",
+      "start_cue": 7,
+      "end_cue": 8,
+      "keep_episode": "S01E05",
+      "keep_word": "toe / big toe",
+      "keep_start_cue": 256,
+      "keep_end_cue": 259,
+      "reason": "E05复合标题已明确包含toe脚趾；不因复合标题另收。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "lead",
+      "start_cue": 47,
+      "end_cue": 47,
+      "keep_episode": "S01E06",
+      "keep_word": "lead",
+      "keep_start_cue": 279,
+      "keep_end_cue": 279,
+      "reason": "同为信息线索名词；工作机会与刑事调查只是线索对象不同，无独立新义。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "victim",
+      "start_cue": 48,
+      "end_cue": 52,
+      "keep_episode": "S01E03",
+      "keep_word": "victim",
+      "keep_start_cue": 466,
+      "keep_end_cue": 466,
+      "reason": "同为受害者名词。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "licensed",
+      "start_cue": 56,
+      "end_cue": 56,
+      "keep_episode": "S01E04",
+      "keep_word": "licensed",
+      "keep_start_cue": 619,
+      "keep_end_cue": 620,
+      "reason": "同为持执照／获许可形容词。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "consultation",
+      "start_cue": 64,
+      "end_cue": 65,
+      "keep_episode": "S01E02",
+      "keep_word": "consultation",
+      "keep_start_cue": 605,
+      "keep_end_cue": 607,
+      "reason": "同为律师与客户咨询会谈，无新接法。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "definition",
+      "start_cue": 68,
+      "end_cue": 69,
+      "keep_episode": "S01E06",
+      "keep_word": "definition",
+      "keep_start_cue": 218,
+      "keep_end_cue": 218,
+      "reason": "同为定义名词；相邻stretch a definition保留其新动词接法。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "assume",
+      "start_cue": 139,
+      "end_cue": 140,
+      "keep_episode": "S01E02",
+      "keep_word": "assume",
+      "keep_start_cue": 116,
+      "keep_end_cue": 117,
+      "reason": "同为假定／想当然认为动词。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "cooler",
+      "start_cue": 171,
+      "end_cue": 174,
+      "keep_episode": "S01E05",
+      "keep_word": "cooler",
+      "keep_start_cue": 450,
+      "keep_end_cue": 450,
+      "reason": "同为便携保冷箱。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "miserable",
+      "start_cue": 318,
+      "end_cue": 319,
+      "keep_episode": "S01E03",
+      "keep_word": "miserable",
+      "keep_start_cue": 353,
+      "keep_end_cue": 353,
+      "reason": "同为骂人时可鄙讨厌的形容词，不是悲伤的新义。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "perk",
+      "start_cue": 417,
+      "end_cue": 419,
+      "keep_episode": "S01E04",
+      "keep_word": "perk",
+      "keep_start_cue": 424,
+      "keep_end_cue": 425,
+      "reason": "同为额外好处／附带福利，讽刺语气不构成新义。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "knit tie",
+      "start_cue": 430,
+      "end_cue": 432,
+      "keep_episode": "S01E04",
+      "keep_word": "knit",
+      "keep_start_cue": 326,
+      "keep_end_cue": 326,
+      "reason": "E04原句light-blue knit指的已是针织领带，另有tie条目；本条无独立新搭配价值。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "lining",
+      "start_cue": 464,
+      "end_cue": 465,
+      "keep_episode": "S01E06",
+      "keep_word": "lining",
+      "keep_start_cue": 386,
+      "keep_end_cue": 389,
+      "reason": "同为织物或物品的衬里；西装与行李箱只是载体不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "battery",
+      "start_cue": 513,
+      "end_cue": 515,
+      "keep_episode": "S01E05",
+      "keep_word": "battery",
+      "keep_start_cue": 339,
+      "keep_end_cue": 339,
+      "reason": "同为电池名词。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "in a rush",
+      "start_cue": 29,
+      "end_cue": 30,
+      "keep_episode": "S01E03",
+      "keep_word": "rush / in a rush",
+      "keep_start_cue": 226,
+      "keep_end_cue": 226,
+      "reason": "E03复合标题及原句已经完整包含in a rush。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "scam",
+      "start_cue": 65,
+      "end_cue": 66,
+      "keep_episode": "S01E02",
+      "keep_word": "scam",
+      "keep_start_cue": 168,
+      "keep_end_cue": 169,
+      "reason": "同为骗局名词；tar-money只换了骗局类型，未新增用法。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "opportunity",
+      "start_cue": 73,
+      "end_cue": 74,
+      "keep_episode": "S01E04",
+      "keep_word": "opportunity",
+      "keep_start_cue": 597,
+      "keep_end_cue": 598,
+      "reason": "同为机会名词。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "straightforward",
+      "start_cue": 126,
+      "end_cue": 127,
+      "keep_episode": "S01E07",
+      "keep_word": "straightforward",
+      "keep_start_cue": 357,
+      "keep_end_cue": 357,
+      "reason": "同为简单明确／直接的形容词。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "scumbag",
+      "start_cue": 154,
+      "end_cue": 155,
+      "keep_episode": "S01E02",
+      "keep_word": "scumbag",
+      "keep_start_cue": 111,
+      "keep_end_cue": 111,
+      "reason": "同为粗俗的人渣称呼。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "pineapple",
+      "start_cue": 220,
+      "end_cue": 221,
+      "keep_episode": "S01E03",
+      "keep_word": "pineapple",
+      "keep_start_cue": 612,
+      "keep_end_cue": 612,
+      "reason": "同为菠萝名词；用于比大小并非新义。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "connected",
+      "start_cue": 272,
+      "end_cue": 273,
+      "keep_episode": "S01E09",
+      "keep_word": "connected crew",
+      "keep_start_cue": 396,
+      "keep_end_cue": 398,
+      "reason": "两段均为有势力人脉／黑道关系的connected形容词；Cicero connected与毒贩团伙只换背景，不足以确立独立新义。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "sex offender",
+      "start_cue": 277,
+      "end_cue": 278,
+      "keep_episode": "S01E03",
+      "keep_word": "sex offender",
+      "keep_start_cue": 20,
+      "keep_end_cue": 20,
+      "reason": "同为性犯罪者法律称谓。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "dawn",
+      "start_cue": 399,
+      "end_cue": 401,
+      "keep_episode": "S01E02",
+      "keep_word": "dawn / dusk",
+      "keep_start_cue": 318,
+      "keep_end_cue": 320,
+      "reason": "E02复合条目已含黎明义。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "trumped-up",
+      "start_cue": 523,
+      "end_cue": 524,
+      "keep_episode": "S01E03",
+      "keep_word": "trumped-up",
+      "keep_start_cue": 24,
+      "keep_end_cue": 26,
+      "reason": "同为罗织／捏造指控的形容词。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "elder law",
+      "start_cue": 637,
+      "end_cue": 640,
+      "keep_episode": "S01E05",
+      "keep_word": "elder law",
+      "keep_start_cue": 285,
+      "keep_end_cue": 285,
+      "reason": "同为老年人权益相关法律业务领域。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "make a living",
+      "start_cue": 644,
+      "end_cue": 646,
+      "keep_episode": "S01E05",
+      "keep_word": "make a living",
+      "keep_start_cue": 278,
+      "keep_end_cue": 278,
+      "reason": "同为谋生，未新增结构。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "assure",
+      "start_cue": 653,
+      "end_cue": 654,
+      "keep_episode": "S01E04",
+      "keep_word": "assure",
+      "keep_start_cue": 151,
+      "keep_end_cue": 152,
+      "reason": "同为向人保证／使人放心动词。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "prehistoric",
+      "start_cue": 704,
+      "end_cue": 705,
+      "keep_episode": "S01E04",
+      "keep_word": "prehistoric",
+      "keep_start_cue": 14,
+      "keep_end_cue": 16,
+      "reason": "E04也是史前／远古本能语境，与本集原始本能吼声同义。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "split",
+      "start_cue": 715,
+      "end_cue": 716,
+      "keep_episode": "S01E04",
+      "keep_word": "split up",
+      "keep_start_cue": 90,
+      "keep_end_cue": 92,
+      "reason": "两句均为分配钱财，split up与split在此无独立新义或论元接法。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "angle",
+      "start_cue": 788,
+      "end_cue": 789,
+      "keep_episode": "S01E02",
+      "keep_word": "angle",
+      "keep_start_cue": 602,
+      "keep_end_cue": 604,
+      "reason": "同为隐藏企图／盘算；询问What is the angle与What's your angle没有独立词汇增量。"
+    }
+  ],
+  "keep_new_sense_or_usage": [
+    {
+      "episode": "S01E08",
+      "word": "credit",
+      "start_cue": 27,
+      "end_cue": 28,
+      "keep_episode": "S01E03",
+      "keep_word": "credit",
+      "keep_start_cue": 194,
+      "keep_end_cue": 195,
+      "reason": "本科课程学分，与E03刑期抵扣额度及能力肯定不同。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "swear in",
+      "start_cue": 57,
+      "end_cue": 59,
+      "keep_episode": "S01E02",
+      "keep_word": "swear",
+      "keep_start_cue": 263,
+      "keep_end_cue": 264,
+      "reason": "宣誓就职的动词短语，与发誓保证不同。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "hire",
+      "start_cue": 59,
+      "end_cue": 59,
+      "keep_episode": "S01E05",
+      "keep_word": "hire",
+      "keep_start_cue": 80,
+      "keep_end_cue": 80,
+      "reason": "本集为雇用动词，E05为新雇用的人／雇用名词；不同词性保留。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "community college",
+      "start_cue": 27,
+      "end_cue": 28,
+      "keep_episode": "S01E04",
+      "keep_word": "community",
+      "keep_start_cue": 541,
+      "keep_end_cue": 542,
+      "reason": "具体美国教育机构名称，不等于community社区这个普通名词。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "savings account",
+      "start_cue": 189,
+      "end_cue": 190,
+      "keep_episode": "S01E05",
+      "keep_word": "savings",
+      "keep_start_cue": 293,
+      "keep_end_cue": 293,
+      "reason": "储蓄账户是独立金融名词搭配，savings积蓄不涵盖账户名。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "roll of toilet paper",
+      "start_cue": 251,
+      "end_cue": 252,
+      "keep_episode": "S01E05",
+      "keep_word": "toilet paper",
+      "keep_start_cue": 478,
+      "keep_end_cue": 478,
+      "reason": "保留roll of的包装／计量接法，可改以roll为词汇头避免把toilet paper重复当新义。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "overcharge",
+      "start_cue": 253,
+      "end_cue": 254,
+      "keep_episode": "S01E02",
+      "keep_word": "overcharge",
+      "keep_start_cue": 517,
+      "keep_end_cue": 518,
+      "reason": "本集多收费，与E02提出过重刑事指控不同。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "solid",
+      "start_cue": 257,
+      "end_cue": 260,
+      "keep_episode": "S01E06",
+      "keep_word": "solid",
+      "keep_start_cue": 38,
+      "keep_end_cue": 38,
+      "reason": "本集形容明显有力的隐瞒意图／企图，与身体状态稳定或同伙可靠不同，可保留语境新义。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "refuse entry",
+      "start_cue": 285,
+      "end_cue": 288,
+      "keep_episode": "S01E03",
+      "keep_word": "refuse",
+      "keep_start_cue": 617,
+      "keep_end_cue": 618,
+      "reason": "refuse接名词entry拒绝入场，E03 refuse to believe接不定式，实际新接法。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "bill sth. to sb.",
+      "start_cue": 519,
+      "end_cue": 522,
+      "keep_episode": "S01E06",
+      "keep_word": "bill sb.",
+      "keep_start_cue": 198,
+      "keep_end_cue": 198,
+      "reason": "把费用记到某人的账上，较E06直接向人收取费用新增bill费用to付款方结构。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "expectation of privacy",
+      "start_cue": 438,
+      "end_cue": 439,
+      "keep_episode": "S01E05",
+      "keep_word": "privacy",
+      "keep_start_cue": 374,
+      "keep_end_cue": 374,
+      "reason": "本集新增合理隐私预期的法律搭配，E05仅表达不受打扰的私人空间；保留较完整术语，但同cue独立privacy行可合并。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "admission",
+      "start_cue": 616,
+      "end_cue": 617,
+      "keep_episode": "S01E07",
+      "keep_word": "admission into evidence",
+      "keep_start_cue": 615,
+      "keep_end_cue": 615,
+      "reason": "入场／进入场所，与证据获准采用的法律专门搭配不同。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "summary judgment",
+      "start_cue": 650,
+      "end_cue": 650,
+      "keep_episode": "S01E02",
+      "keep_word": "judgment",
+      "keep_start_cue": 134,
+      "keep_end_cue": 134,
+      "reason": "法律简易判决，与判断力不同，复合术语须保留。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "settle",
+      "start_cue": 543,
+      "end_cue": 544,
+      "keep_episode": "S01E06",
+      "keep_word": "settle in",
+      "keep_start_cue": 28,
+      "keep_end_cue": 28,
+      "reason": "法律和解义与安顿适应不同。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "release claims",
+      "start_cue": 695,
+      "end_cue": 695,
+      "keep_episode": "S01E03",
+      "keep_word": "release",
+      "keep_start_cue": 420,
+      "keep_end_cue": 420,
+      "reason": "放弃索赔主张与释放被拘留者不同。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "kick in",
+      "start_cue": 717,
+      "end_cue": 718,
+      "keep_episode": "S01E04",
+      "keep_word": "kick in",
+      "keep_start_cue": 170,
+      "keep_end_cue": 171,
+      "reason": "开始生效与踢开房门不同。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "prohibition",
+      "start_cue": 747,
+      "end_cue": 748,
+      "keep_episode": "S01E06",
+      "keep_word": "prohibition",
+      "keep_start_cue": 478,
+      "keep_end_cue": 478,
+      "reason": "一般禁止规定，与美国历史禁酒令专指不同；本集用于禁止律师入场。"
+    },
+    {
+      "episode": "S01E08",
+      "word": "rattle sb.'s cage",
+      "start_cue": 413,
+      "end_cue": 414,
+      "keep_episode": "S01E01",
+      "keep_word": "rattled",
+      "keep_start_cue": 690,
+      "keep_end_cue": 692,
+      "reason": "主动挑衅使对方恼怒的惯用接法，与被吓到的形容状态不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "shot",
+      "start_cue": 21,
+      "end_cue": 23,
+      "keep_episode": "S01E04",
+      "keep_word": "shot",
+      "keep_start_cue": 573,
+      "keep_end_cue": 574,
+      "reason": "疫苗针与镜头不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "gum",
+      "start_cue": 22,
+      "end_cue": 23,
+      "keep_episode": "S01E03",
+      "keep_word": "gum",
+      "keep_start_cue": 567,
+      "keep_end_cue": 567,
+      "reason": "牙龈名词与用牙龈咬的动词不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "sucker",
+      "start_cue": 23,
+      "end_cue": 23,
+      "keep_episode": "S01E04",
+      "keep_word": "sucker",
+      "keep_start_cue": 106,
+      "keep_end_cue": 106,
+      "reason": "称狗为小家伙／那东西，与易被骗者不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "routine",
+      "start_cue": 59,
+      "end_cue": 60,
+      "keep_episode": "S01E04",
+      "keep_word": "routine",
+      "keep_start_cue": 498,
+      "keep_end_cue": 499,
+      "reason": "日常固定作息与表演段子不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "stretch a definition",
+      "start_cue": 68,
+      "end_cue": 69,
+      "keep_episode": "S01E06",
+      "keep_word": "definition",
+      "keep_start_cue": 218,
+      "keep_end_cue": 218,
+      "reason": "词汇点stretch牵强扩大定义，是新增动词接法；独立definition行建议删除。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "rule on",
+      "start_cue": 71,
+      "end_cue": 71,
+      "keep_episode": "S01E05",
+      "keep_word": "rule",
+      "keep_start_cue": 30,
+      "keep_end_cue": 30,
+      "reason": "rule on议题与E05 ruled that从句属实际不同补语接法；保留on搭配，不另称新词义。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "serve interrogatories",
+      "start_cue": 77,
+      "end_cue": 77,
+      "keep_episode": "S01E07",
+      "keep_word": "serve",
+      "keep_start_cue": 331,
+      "keep_end_cue": 331,
+      "reason": "送达法律文书与服刑不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "certify",
+      "start_cue": 77,
+      "end_cue": 81,
+      "keep_episode": "S01E08",
+      "keep_word": "class certification",
+      "keep_start_cue": 742,
+      "keep_end_cue": 745,
+      "reason": "认证动词与资格认证名词不同词性。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "refer a case",
+      "start_cue": 98,
+      "end_cue": 99,
+      "keep_episode": "S01E04",
+      "keep_word": "refer clients",
+      "keep_start_cue": 679,
+      "keep_end_cue": 680,
+      "reason": "本集原句Refer it out to HHM给出转交目标的refer sth. to机构接法，E04只给referring clients；保留具体to接法。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "submit to",
+      "start_cue": 125,
+      "end_cue": 126,
+      "keep_episode": "S01E05",
+      "keep_word": "submit",
+      "keep_start_cue": 359,
+      "keep_end_cue": 359,
+      "reason": "服从／屈服与提交申请或提请认定不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "protection",
+      "start_cue": 137,
+      "end_cue": 138,
+      "keep_episode": "S01E06",
+      "keep_word": "protection",
+      "keep_start_cue": 535,
+      "keep_end_cue": 535,
+      "reason": "保镖保护工作，与贿赂警方购买非法保护的用法不同。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "guarantee",
+      "start_cue": 266,
+      "end_cue": 268,
+      "keep_episode": "S01E03",
+      "keep_word": "guarantee",
+      "keep_start_cue": 412,
+      "keep_end_cue": 413,
+      "reason": "本集guarantee you 20 percent为guarantee sb. sth.双宾语；E03 guarantee you, one billion percent, it's not...为保证命题，保留实际接法。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "short / short sb.",
+      "start_cue": 381,
+      "end_cue": 386,
+      "keep_episode": "S01E02",
+      "keep_word": "short sb.",
+      "keep_start_cue": 520,
+      "keep_end_cue": 520,
+      "reason": "至少保留We're short 20的金额不足形容词；shorted you动词部分与E02重复，宜局部裁剪。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "profit",
+      "start_cue": 409,
+      "end_cue": 410,
+      "keep_episode": "S01E04",
+      "keep_word": "profit",
+      "keep_start_cue": 486,
+      "keep_end_cue": 486,
+      "reason": "利润名词与获利动词不同词性。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "fairly",
+      "start_cue": 342,
+      "end_cue": 344,
+      "keep_episode": "S01E02",
+      "keep_word": "fair",
+      "keep_start_cue": 333,
+      "keep_end_cue": 334,
+      "reason": "公平地副词与公平的形容词不同词性。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "financial reward / risk",
+      "start_cue": 444,
+      "end_cue": 445,
+      "keep_episode": "S01E04",
+      "keep_word": "risk",
+      "keep_start_cue": 158,
+      "keep_end_cue": 159,
+      "reason": "风险名词与冒风险动词不同词性，reward也非该早期条目。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "shortcut",
+      "start_cue": 540,
+      "end_cue": 543,
+      "keep_episode": "S01E03",
+      "keep_word": "shortcut",
+      "keep_start_cue": 119,
+      "keep_end_cue": 119,
+      "reason": "E03为Donner Party走的实际近路，本集为职业学习省正常步骤的比喻捷径；可保留新义。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "commit one's life to",
+      "start_cue": 542,
+      "end_cue": 543,
+      "keep_episode": "S01E07",
+      "keep_word": "committed to",
+      "keep_start_cue": 172,
+      "keep_end_cue": 172,
+      "reason": "主动投入一生的commit one's life to搭配，与形容词committed to不同词性及宾语结构。"
+    },
+    {
+      "episode": "S01E09",
+      "word": "abuse",
+      "start_cue": 554,
+      "end_cue": 555,
+      "keep_episode": "S01E08",
+      "keep_word": "elder abuse",
+      "keep_start_cue": 399,
+      "keep_end_cue": 400,
+      "reason": "滥用权力的动词与对老年人的侵害名词不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "set sb. up",
+      "start_cue": 23,
+      "end_cue": 25,
+      "keep_episode": "S01E03",
+      "keep_word": "set sb. up / setup",
+      "keep_start_cue": 354,
+      "keep_end_cue": 356,
+      "reason": "招待一杯酒与栽赃陷害不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "settle down",
+      "start_cue": 29,
+      "end_cue": 30,
+      "keep_episode": "S01E08",
+      "keep_word": "settle",
+      "keep_start_cue": 543,
+      "keep_end_cue": 544,
+      "reason": "冷静安静，与法律和解以及settle in安顿不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "catch a plane",
+      "start_cue": 34,
+      "end_cue": 35,
+      "keep_episode": "S01E04",
+      "keep_word": "catch",
+      "keep_start_cue": 30,
+      "keep_end_cue": 31,
+      "reason": "赶乘飞机与听清名字不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "skip bail",
+      "start_cue": 37,
+      "end_cue": 38,
+      "keep_episode": "S01E01",
+      "keep_word": "bail",
+      "keep_start_cue": 754,
+      "keep_end_cue": 755,
+      "reason": "弃保潜逃中的保释名词义与溜走动词不同；skip town也不能代替本法律搭配。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "navy",
+      "start_cue": 163,
+      "end_cue": 165,
+      "keep_episode": "S01E04",
+      "keep_word": "navy",
+      "keep_start_cue": 317,
+      "keep_end_cue": 319,
+      "reason": "海军与藏青色不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "grant sb. that",
+      "start_cue": 258,
+      "end_cue": 258,
+      "keep_episode": "S01E09",
+      "keep_word": "grant",
+      "keep_start_cue": 116,
+      "keep_end_cue": 117,
+      "reason": "承认某一点与准许法院命令不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "spirit",
+      "start_cue": 401,
+      "end_cue": 402,
+      "keep_episode": "S01E05",
+      "keep_word": "spirit",
+      "keep_start_cue": 77,
+      "keep_end_cue": 77,
+      "reason": "死者灵魂与创业精神／劲头不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "strike",
+      "start_cue": 413,
+      "end_cue": 414,
+      "keep_episode": "S01E07",
+      "keep_word": "strike",
+      "keep_start_cue": 409,
+      "keep_end_cue": 409,
+      "reason": "铸造硬币与好运降临动词或棒球好球名词不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "slick",
+      "start_cue": 437,
+      "end_cue": 438,
+      "keep_episode": "S01E04",
+      "keep_word": "slick",
+      "keep_start_cue": 208,
+      "keep_end_cue": 210,
+      "reason": "E04侧重律所光鲜熟练，E10形容骗子油滑善应付，贬义人品侧重可保留；E07名词称呼也不自动删除形容词。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "the can",
+      "start_cue": 447,
+      "end_cue": 448,
+      "keep_episode": "S01E10",
+      "keep_word": "can sb.",
+      "keep_start_cue": 415,
+      "keep_end_cue": 416,
+      "reason": "监狱名词与解雇动词不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "freeze assets",
+      "start_cue": 526,
+      "end_cue": 529,
+      "keep_episode": "S01E02",
+      "keep_word": "freeze",
+      "keep_start_cue": 542,
+      "keep_end_cue": 544,
+      "reason": "资产冻结与冷得发抖不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "security",
+      "start_cue": 531,
+      "end_cue": 532,
+      "keep_episode": "S01E05",
+      "keep_word": "security",
+      "keep_start_cue": 314,
+      "keep_end_cue": 314,
+      "reason": "担保抵押物与保安人员及social security不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "reward",
+      "start_cue": 525,
+      "end_cue": 527,
+      "keep_episode": "S01E09",
+      "keep_word": "financial reward / risk",
+      "keep_start_cue": 444,
+      "keep_end_cue": 445,
+      "reason": "酬谢动词与回报名词不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "front",
+      "start_cue": 539,
+      "end_cue": 540,
+      "keep_episode": "S01E04",
+      "keep_word": "front page",
+      "keep_start_cue": 229,
+      "keep_end_cue": 231,
+      "reason": "伪装门面与报刊头版不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "front / on the grocery front",
+      "start_cue": 811,
+      "end_cue": 814,
+      "keep_episode": "S01E10",
+      "keep_word": "front",
+      "keep_start_cue": 539,
+      "keep_end_cue": 540,
+      "reason": "某领域方面与伪装门面不同；两个front都应保留。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "coat",
+      "start_cue": 553,
+      "end_cue": 555,
+      "keep_episode": "S01E09",
+      "keep_word": "a coat of paint",
+      "keep_start_cue": 19,
+      "keep_end_cue": 19,
+      "reason": "涂覆动词与一层油漆的名词不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "dump",
+      "start_cue": 591,
+      "end_cue": 595,
+      "keep_episode": "S01E06",
+      "keep_word": "dump",
+      "keep_start_cue": 407,
+      "keep_end_cue": 408,
+      "reason": "脏乱住处名词与扔掉动词不同；与document dump海量文书倾倒的名词用法也不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "stick",
+      "start_cue": 604,
+      "end_cue": 605,
+      "keep_episode": "S01E08",
+      "keep_word": "make sth. stick",
+      "keep_start_cue": 662,
+      "keep_end_cue": 663,
+      "reason": "门卡住与指控成立的比喻义不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "estate",
+      "start_cue": 637,
+      "end_cue": 640,
+      "keep_episode": "S01E08",
+      "keep_word": "real-estate investment trust",
+      "keep_start_cue": 266,
+      "keep_end_cue": 267,
+      "reason": "遗产与房地产不同，不能按字面estate重合删。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "file",
+      "start_cue": 807,
+      "end_cue": 810,
+      "keep_episode": "S01E07",
+      "keep_word": "file",
+      "keep_start_cue": 191,
+      "keep_end_cue": 191,
+      "reason": "归档与正式提交法律文件／提出指控不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "attention to detail",
+      "start_cue": 827,
+      "end_cue": 830,
+      "keep_episode": "S01E03",
+      "keep_word": "detail",
+      "keep_start_cue": 131,
+      "keep_end_cue": 131,
+      "reason": "保留attention to detail搭配，新增中心词attention及to接法；不能仅因detail已收删除。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "ambulance",
+      "start_cue": 722,
+      "end_cue": 723,
+      "keep_episode": "S01E07",
+      "keep_word": "ambulance-chasing",
+      "keep_start_cue": 13,
+      "keep_end_cue": 13,
+      "reason": "具体救护车名词与贬称律师业务的复合词不同。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "tick sb. off",
+      "start_cue": 202,
+      "end_cue": 203,
+      "keep_episode": "S01E07",
+      "keep_word": "piss sb. off",
+      "keep_start_cue": 496,
+      "keep_end_cue": 496,
+      "reason": "不同动词，虽近义但语域及词形不同，不能合并。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "assassinate",
+      "start_cue": 390,
+      "end_cue": 391,
+      "keep_episode": "S01E07",
+      "keep_word": "homicide",
+      "keep_start_cue": 92,
+      "keep_end_cue": 92,
+      "reason": "不同词且暗杀有特定对象与方式，不能因都涉及死亡合并。"
+    },
+    {
+      "episode": "S01E10",
+      "word": "grocery",
+      "start_cue": 811,
+      "end_cue": 812,
+      "keep_episode": "S01E10",
+      "keep_word": "front / on the grocery front",
+      "keep_start_cue": 811,
+      "keep_end_cue": 814,
+      "reason": "词汇中心grocery不同于该复合标题的front方面义，不能因同一句引文删除。"
+    }
+  ],
+  "partial_pruning_suggestions": [
+    {
+      "episode": "S01E08",
+      "word": "fee / expense",
+      "start_cue": 179,
+      "end_cue": 181,
+      "suggestion": "fee与E05 fee重复；expense泛指开支与E04 travel expenses、E07 false expenses的expense同义。可拆分精简，若认为fees and expenses并列有独立价值可保留此接法，勿全当新词。",
+      "keep_references": [
+        "S01E05 fee",
+        "S01E04 travel expenses",
+        "S01E07 false expenses"
+      ]
+    },
+    {
+      "episode": "S01E09",
+      "word": "priest / thief",
+      "start_cue": 404,
+      "end_cue": 406,
+      "suggestion": "保留priest；thief与E02 thief同词同义，可从标题和释义删除thief，原引文仍逐字保留。",
+      "keep_references": [
+        "S01E02 thief"
+      ]
+    },
+    {
+      "episode": "S01E10",
+      "word": "pass away / funeral",
+      "start_cue": 338,
+      "end_cue": 341,
+      "suggestion": "保留pass away；funeral与E06 funeral同词同义，可仅删除标题和释义中的funeral，原引文保持。",
+      "keep_references": [
+        "S01E06 funeral"
+      ]
+    },
+    {
+      "episode": "S01E09",
+      "word": "short / short sb.",
+      "start_cue": 381,
+      "end_cue": 386,
+      "suggestion": "保留short形容词金额不足；少付某人钱的short sb.动词已在E02，宜局部裁剪，不删整项。",
+      "keep_references": [
+        "S01E02 short sb."
+      ]
+    }
+  ],
+  "decision_status": "Recommendations only; parent reviews and applies. Different words are not merged merely for similar meaning. New meanings, parts of speech and actual new constructions are retained.",
+  "notes": [
+    "E10 connected原稿标为新义，经跨集对照重新判断为同一有势力人脉义，仅背景改变，故提出删除建议。",
+    "本报告只处理词汇重复，未取消任何原pending状态，未听校。",
+    "E08 privacy的法律语境与E05可区分，但本集expectation of privacy与单独privacy是同cue冗余，建议保留较完整条目。"
+  ]
+}

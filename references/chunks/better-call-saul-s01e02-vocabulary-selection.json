@@ -1,0 +1,1362 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S01/Better.Call.Saul.S01E02.en.srt",
+  "sha256": "26396955cbe6a467328edd88e7b561299f73b378b6fa2c062ddba8d6fb1735f5",
+  "subtitle_blocks_read": 589,
+  "max_cue": 612,
+  "selection_status": "Candidates pending learner screening; not audio-verified",
+  "method": {
+    "first_pass": "LLM sequential reading of all 589 nonempty source subtitle blocks, printed together without truncation",
+    "second_pass": "Read all 389 initially unselected cues, recovered 15 additional ordinary words/objects and contextual verb meanings; no frequency-list mining",
+    "source_numbering": "Original cue IDs are sparse, 3–612; gaps were not fabricated or renumbered"
+  },
+  "items": [
+    {
+      "word": "grandson",
+      "meaning": "n. 孙子／外孙；grand-表示隔一代的亲属关系",
+      "start_cue": 6,
+      "end_cue": 7,
+      "start_time": "00:00:34,169",
+      "end_time": "00:00:38,221",
+      "quote": "Hey, are you the son? Ow! Grandson."
+    },
+    {
+      "word": "run over",
+      "meaning": "v. 开车撞倒／碾过；本句指撞到行人",
+      "start_cue": 12,
+      "end_cue": 12,
+      "start_time": "00:00:51,980",
+      "end_time": "00:00:53,946",
+      "quote": "Just a crazy old biznatch who ran over my brother."
+    },
+    {
+      "word": "hit-and-run",
+      "meaning": "n./adj. 肇事逃逸（事故）；撞人后离开现场",
+      "start_cue": 18,
+      "end_cue": 18,
+      "start_time": "00:01:03,865",
+      "end_time": "00:01:05,531",
+      "quote": "And then she stood on the gas. It's a hit-and-run."
+    },
+    {
+      "word": "pressure",
+      "meaning": "n. 压力／施力；此处put pressure on伤腿指承重，不是心理压力",
+      "start_cue": 26,
+      "end_cue": 26,
+      "start_time": "00:01:16,515",
+      "end_time": "00:01:17,731",
+      "quote": "He can't... he can't put any pressure on it."
+    },
+    {
+      "word": "lean",
+      "meaning": "v. 倚靠／把身体重量靠在某人或某物上；lean on sb.",
+      "start_cue": 27,
+      "end_cue": 30,
+      "start_time": "00:01:17,766",
+      "end_time": "00:01:23,854",
+      "quote": "I need to lean on you, so... I think it's... it's definitely broken. Es muy mal for my leg-o. Here. Lean up... lean up on the mantel."
+    },
+    {
+      "word": "mantel",
+      "meaning": "n. 壁炉上方的台面／壁炉架；不是mantle斗篷",
+      "start_cue": 30,
+      "end_cue": 30,
+      "start_time": "00:01:22,271",
+      "end_time": "00:01:23,854",
+      "quote": "Here. Lean up... lean up on the mantel."
+    },
+    {
+      "word": "damn straight",
+      "meaning": "口语强调语. 完全正确／那当然；带粗俗色彩",
+      "start_cue": 49,
+      "end_cue": 50,
+      "start_time": "00:02:07,867",
+      "end_time": "00:02:11,735",
+      "quote": "You want money. Yes! Yeah, damn straight."
+    },
+    {
+      "word": "tape",
+      "meaning": "n. 录像／录音及其载体；此处是拍到事故的录像，不是胶带",
+      "start_cue": 55,
+      "end_cue": 57,
+      "start_time": "00:02:19,995",
+      "end_time": "00:02:25,632",
+      "quote": "- Y... yeah, yeah, maybe. - That's up to you, man. They... the cops... They can be looking at this tape anytime now."
+    },
+    {
+      "word": "granny",
+      "meaning": "n. 奶奶／外婆；亲昵或随意的称呼",
+      "start_cue": 64,
+      "end_cue": 66,
+      "start_time": "00:02:38,847",
+      "end_time": "00:02:43,817",
+      "quote": "Show us the green, or la policia is gonna come, and they're gonna be taking granny away! She's gonna go to jail. Do you want that?"
+    },
+    {
+      "word": "van",
+      "meaning": "n. 厢式货车／面包车；此处用来接走人",
+      "start_cue": 97,
+      "end_cue": 97,
+      "start_time": "00:05:39,097",
+      "end_time": "00:05:42,883",
+      "quote": "Bring No-doze and tell Nacho to bring his van."
+    },
+    {
+      "word": "non-threatening",
+      "meaning": "adj. 不构成威胁的；此处强调自己没有攻击意图",
+      "start_cue": 101,
+      "end_cue": 102,
+      "start_time": "00:06:27,950",
+      "end_time": "00:06:35,039",
+      "quote": "Whoa, whoa, whoa, whoa. I'm showing hands. I'm... I'm relaxed... okay?... Um, non-threatening."
+    },
+    {
+      "word": "relaxed",
+      "meaning": "adj. 放松的／不紧张的；此处强调自己没有攻击姿态",
+      "start_cue": 101,
+      "end_cue": 102,
+      "start_time": "00:06:27,950",
+      "end_time": "00:06:35,039",
+      "quote": "Whoa, whoa, whoa, whoa. I'm showing hands. I'm... I'm relaxed... okay?... Um, non-threatening."
+    },
+    {
+      "word": "redheaded",
+      "meaning": "adj. 红头发的；指发色而非愤怒",
+      "start_cue": 111,
+      "end_cue": 111,
+      "start_time": "00:07:04,320",
+      "end_time": "00:07:06,203",
+      "quote": "Are you with those redheaded scumbags?"
+    },
+    {
+      "word": "scumbag",
+      "meaning": "n. 人渣／卑劣的人；粗俗侮辱",
+      "start_cue": 111,
+      "end_cue": 111,
+      "start_time": "00:07:04,320",
+      "end_time": "00:07:06,203",
+      "quote": "Are you with those redheaded scumbags?"
+    },
+    {
+      "word": "details",
+      "meaning": "n. 细节／具体情况；get details了解详情",
+      "start_cue": 113,
+      "end_cue": 115,
+      "start_time": "00:07:09,075",
+      "end_time": "00:07:16,330",
+      "quote": "Uh, I got a call from some clients, uh, said something about an accident. I did not get any details."
+    },
+    {
+      "word": "assume",
+      "meaning": "v. 未经确认就推测／认为；不是承担职责义",
+      "start_cue": 116,
+      "end_cue": 117,
+      "start_time": "00:07:16,332",
+      "end_time": "00:07:20,968",
+      "quote": "When I saw some skateboards in your front yard, I assumed they might..."
+    },
+    {
+      "word": "educated guess",
+      "meaning": "n. 根据已有知识作出的合理猜测；不是受教育的猜测",
+      "start_cue": 128,
+      "end_cue": 128,
+      "start_time": "00:08:13,889",
+      "end_time": "00:08:18,309",
+      "quote": "I'm gonna make an educated guess what happened here."
+    },
+    {
+      "word": "mophead",
+      "meaning": "n. 头发蓬乱的人；口语带调侃／贬义",
+      "start_cue": 129,
+      "end_cue": 129,
+      "start_time": "00:08:18,361",
+      "end_time": "00:08:20,944",
+      "quote": "My two clients, frick and frack, the mopheads,"
+    },
+    {
+      "word": "fender bender",
+      "meaning": "n. 轻微汽车碰撞／小刮蹭；美式口语",
+      "start_cue": 129,
+      "end_cue": 130,
+      "start_time": "00:08:18,361",
+      "end_time": "00:08:24,565",
+      "quote": "My two clients, frick and frack, the mopheads, were in a simple traffic accident, a minor fender bender,"
+    },
+    {
+      "word": "minor",
+      "meaning": "adj. 轻微的／不严重的；minor accident，不是未成年义",
+      "start_cue": 129,
+      "end_cue": 130,
+      "start_time": "00:08:18,361",
+      "end_time": "00:08:24,565",
+      "quote": "My two clients, frick and frack, the mopheads, were in a simple traffic accident, a minor fender bender,"
+    },
+    {
+      "word": "exhibit",
+      "meaning": "v. 表现出／显露；exhibit poor judgment作出欠妥判断，不是展览名词",
+      "start_cue": 134,
+      "end_cue": 134,
+      "start_time": "00:08:31,374",
+      "end_time": "00:08:34,325",
+      "quote": "My clients, exhibiting extremely poor judgment,"
+    },
+    {
+      "word": "judgment",
+      "meaning": "n. 判断力／判断；此处poor judgment，不是法院判决",
+      "start_cue": 134,
+      "end_cue": 134,
+      "start_time": "00:08:31,374",
+      "end_time": "00:08:34,325",
+      "quote": "My clients, exhibiting extremely poor judgment,"
+    },
+    {
+      "word": "delightful",
+      "meaning": "adj. 令人愉快的／可爱的；此处为讨好对方的赞美",
+      "start_cue": 135,
+      "end_cue": 136,
+      "start_time": "00:08:34,377",
+      "end_time": "00:08:38,379",
+      "quote": "uh, followed your grandmother to this delightful, well-tended home."
+    },
+    {
+      "word": "well-tended",
+      "meaning": "adj. 精心照料／打理得很好的；tend有照料义",
+      "start_cue": 135,
+      "end_cue": 136,
+      "start_time": "00:08:34,377",
+      "end_time": "00:08:38,379",
+      "quote": "uh, followed your grandmother to this delightful, well-tended home."
+    },
+    {
+      "word": "juncture",
+      "meaning": "n. 时刻／阶段；at this juncture在这一阶段，较正式",
+      "start_cue": 137,
+      "end_cue": 138,
+      "start_time": "00:08:39,582",
+      "end_time": "00:08:44,468",
+      "quote": "Now, at this juncture, I'm deducing that they said or did something that... Crossed a line,"
+    },
+    {
+      "word": "deduce",
+      "meaning": "v. 根据线索推断；不是凭空猜测",
+      "start_cue": 137,
+      "end_cue": 138,
+      "start_time": "00:08:39,582",
+      "end_time": "00:08:44,468",
+      "quote": "Now, at this juncture, I'm deducing that they said or did something that... Crossed a line,"
+    },
+    {
+      "word": "justification",
+      "meaning": "n. 正当理由／可辩护的依据；with some justification有一定道理",
+      "start_cue": 138,
+      "end_cue": 140,
+      "start_time": "00:08:41,751",
+      "end_time": "00:08:49,256",
+      "quote": "that they said or did something that... Crossed a line, and you, with some justification... You put them in their place."
+    },
+    {
+      "word": "stain",
+      "meaning": "n. 污渍／污点；此处指地上的酱汁痕迹",
+      "start_cue": 141,
+      "end_cue": 141,
+      "start_time": "00:08:51,010",
+      "end_time": "00:08:55,479",
+      "quote": "Based on the salsa stain there, could have gone a couple ways."
+    },
+    {
+      "word": "salsa",
+      "meaning": "n. 莎莎酱，一种常见的调味酱；此处地上污渍被当作血迹线索",
+      "start_cue": 141,
+      "end_cue": 141,
+      "start_time": "00:08:51,010",
+      "end_time": "00:08:55,479",
+      "quote": "Based on the salsa stain there, could have gone a couple ways."
+    },
+    {
+      "word": "morbid",
+      "meaning": "adj. 与死亡等令人不安之事有关的／病态关注此类事情的",
+      "start_cue": 142,
+      "end_cue": 145,
+      "start_time": "00:08:55,514",
+      "end_time": "00:09:09,443",
+      "quote": "The bottom line... not to be morbid, but if they're dead, um, I'm guessing that I'm... I'm gonna... I'm gonna... Yeah, I'm gonna go with glass half full here and say they're not."
+    },
+    {
+      "word": "stupidity",
+      "meaning": "n. 愚蠢／蠢行；由stupid派生",
+      "start_cue": 146,
+      "end_cue": 147,
+      "start_time": "00:09:09,445",
+      "end_time": "00:09:14,832",
+      "quote": "Uh, my point is, if they're still alive, why kill us? Why? Because of a misunderstanding? Our own stupidity?"
+    },
+    {
+      "word": "nuclear option",
+      "meaning": "n. 极端且破坏性很大的手段；此处比喻杀人，不是核武器方案",
+      "start_cue": 148,
+      "end_cue": 149,
+      "start_time": "00:09:14,867",
+      "end_time": "00:09:20,170",
+      "quote": "Why mess up your lovely abuelita's place? Why jump to the nuclear option?"
+    },
+    {
+      "word": "collect",
+      "meaning": "v. 接走／领走；此处collect my clients，不是收集物品",
+      "start_cue": 151,
+      "end_cue": 152,
+      "start_time": "00:09:22,208",
+      "end_time": "00:09:27,211",
+      "quote": "I will collect my moronic clients, and... Poof! We are gone."
+    },
+    {
+      "word": "moronic",
+      "meaning": "adj. 愚蠢得很的；贬义侮辱",
+      "start_cue": 151,
+      "end_cue": 152,
+      "start_time": "00:09:22,208",
+      "end_time": "00:09:27,211",
+      "quote": "I will collect my moronic clients, and... Poof! We are gone."
+    },
+    {
+      "word": "guaranteed",
+      "meaning": "adj./口语保证语. 有保证的／我保证；此处对不会再见面作保证",
+      "start_cue": 153,
+      "end_cue": 154,
+      "start_time": "00:09:27,263",
+      "end_time": "00:09:31,932",
+      "quote": "Neither you nor your lovely abuelita will ever lay eyes on us ever again, guaranteed..."
+    },
+    {
+      "word": "breathing",
+      "meaning": "v. 仍在呼吸；此处用来委婉表示人还活着",
+      "start_cue": 156,
+      "end_cue": 156,
+      "start_time": "00:09:37,890",
+      "end_time": "00:09:41,308",
+      "quote": "Assuming, you know, that they're still breathing."
+    },
+    {
+      "word": "scam",
+      "meaning": "n./v. 骗局／诈骗；run a scam策划骗局",
+      "start_cue": 168,
+      "end_cue": 169,
+      "start_time": "00:10:50,796",
+      "end_time": "00:10:55,766",
+      "quote": "He... he wanted to scam you. He said we could clear 2 grand, easy."
+    },
+    {
+      "word": "punk",
+      "meaning": "v. 欺骗／戏弄；美式俚语，此处质疑对方是在耍自己",
+      "start_cue": 170,
+      "end_cue": 171,
+      "start_time": "00:10:57,853",
+      "end_time": "00:11:12,816",
+      "quote": "You punking me? Are you punking my abuelita?"
+    },
+    {
+      "word": "header",
+      "meaning": "n. 一头栽倒；take a header摔个头朝下，非文档页眉",
+      "start_cue": 176,
+      "end_cue": 177,
+      "start_time": "00:11:31,387",
+      "end_time": "00:11:35,870",
+      "quote": "It was for going after your grandma, just for taking a header over her car and then b-bracing her."
+    },
+    {
+      "word": "publicity",
+      "meaning": "n. 公众关注／曝光；案件可为律师带来知名度",
+      "start_cue": 191,
+      "end_cue": 193,
+      "start_time": "00:12:34,408",
+      "end_time": "00:12:42,448",
+      "quote": "He's gonna be indicted for embezzlement any day now. This is a good case for me... A lot of publicity. I'll get my name out, and..."
+    },
+    {
+      "word": "hustle",
+      "meaning": "n. 诈骗伎俩／骗钱手段；此处不是勤奋奋斗的正面义",
+      "start_cue": 194,
+      "end_cue": 195,
+      "start_time": "00:12:42,450",
+      "end_time": "00:12:47,703",
+      "quote": "Anyway, I thought if I had these two run their little skateboard hustle on Mrs. Kettleman,"
+    },
+    {
+      "word": "rescue",
+      "meaning": "v. 营救／帮助人脱离困境；此处计划假装替人化解事故",
+      "start_cue": 194,
+      "end_cue": 197,
+      "start_time": "00:12:42,450",
+      "end_time": "00:12:52,291",
+      "quote": "Anyway, I thought if I had these two run their little skateboard hustle on Mrs. Kettleman, I could, you know, rescue her. Come in, throw some oil on troubled waters,"
+    },
+    {
+      "word": "stunt",
+      "meaning": "n. 花招／刻意设计的动作；此处指假摔骗局，不是正常特技表演",
+      "start_cue": 200,
+      "end_cue": 203,
+      "start_time": "00:12:54,962",
+      "end_time": "00:13:06,055",
+      "quote": "But it turns out your lovely abuelita... She drives a car... That's a whole lot like the Kettle-mobile. So, these two geniuses ran their little stunt on the wrong one."
+    },
+    {
+      "word": "genius",
+      "meaning": "n. 天才；此处geniuses讽刺办错事的两人",
+      "start_cue": 200,
+      "end_cue": 203,
+      "start_time": "00:12:54,962",
+      "end_time": "00:13:06,055",
+      "quote": "But it turns out your lovely abuelita... She drives a car... That's a whole lot like the Kettle-mobile. So, these two geniuses ran their little stunt on the wrong one."
+    },
+    {
+      "word": "the heat",
+      "meaning": "n. 警方／执法人员；俚语，不是温度",
+      "start_cue": 222,
+      "end_cue": 224,
+      "start_time": "00:14:03,197",
+      "end_time": "00:14:09,335",
+      "quote": "Okay, we know you're with the heat. The question is, who? - Local? FBI? - No, no, no. D.E.A.?! No, I'm a lawyer."
+    },
+    {
+      "word": "the bar",
+      "meaning": "n. 律师资格考试／律师职业；pass the bar通过律师资格考试",
+      "start_cue": 228,
+      "end_cue": 229,
+      "start_time": "00:14:26,020",
+      "end_time": "00:14:32,875",
+      "quote": "I'm a lawyer! Guys, I passed the bar! Ask me anything! Not contract law, okay? I'm down at the courts every day!"
+    },
+    {
+      "word": "contract law",
+      "meaning": "n. 合同法；contract在此为名词，不是感染／缩小的动词",
+      "start_cue": 228,
+      "end_cue": 229,
+      "start_time": "00:14:26,020",
+      "end_time": "00:14:32,875",
+      "quote": "I'm a lawyer! Guys, I passed the bar! Ask me anything! Not contract law, okay? I'm down at the courts every day!"
+    },
+    {
+      "word": "known quantity",
+      "meaning": "n. 情况已知、能力或身份有把握的人；口语比喻",
+      "start_cue": 230,
+      "end_cue": 231,
+      "start_time": "00:14:32,955",
+      "end_time": "00:14:35,722",
+      "quote": "People know me! I'm a known quantity... I am!"
+    },
+    {
+      "word": "special agent",
+      "meaning": "n. 特工／专职调查员；此处假冒FBI身份",
+      "start_cue": 233,
+      "end_cue": 235,
+      "start_time": "00:14:37,592",
+      "end_time": "00:14:45,481",
+      "quote": "I'm... I'm special agent Jeffrey Steele, FBI. - FBI? - FBI? I'm undercover, okay? You got me."
+    },
+    {
+      "word": "undercover",
+      "meaning": "adj./adv. 隐藏真实身份进行调查的／卧底的",
+      "start_cue": 233,
+      "end_cue": 235,
+      "start_time": "00:14:37,592",
+      "end_time": "00:14:45,481",
+      "quote": "I'm... I'm special agent Jeffrey Steele, FBI. - FBI? - FBI? I'm undercover, okay? You got me."
+    },
+    {
+      "word": "investigate",
+      "meaning": "v. 调查；此处指执法调查犯罪活动",
+      "start_cue": 246,
+      "end_cue": 247,
+      "start_time": "00:15:14,434",
+      "end_time": "00:15:19,604",
+      "quote": "You're investigating us, right? For what? What did we do?"
+    },
+    {
+      "word": "drugs",
+      "meaning": "n. 毒品；本句并非一般治疗药物",
+      "start_cue": 247,
+      "end_cue": 248,
+      "start_time": "00:15:16,436",
+      "end_time": "00:15:21,606",
+      "quote": "For what? What did we do? - What do we sell? - Drugs."
+    },
+    {
+      "word": "schedule",
+      "meaning": "n. 管制药物的分类表／等级；这里不是日程表",
+      "start_cue": 249,
+      "end_cue": 251,
+      "start_time": "00:15:21,608",
+      "end_time": "00:15:31,616",
+      "quote": "- What kind of drugs? - Uh...It's title 21, schedule II through schedule V, including part \"B.\" That's what we call them down at the bureau."
+    },
+    {
+      "word": "bureau",
+      "meaning": "n. 政府机构的局；此处指FBI这个执法机构",
+      "start_cue": 249,
+      "end_cue": 251,
+      "start_time": "00:15:21,608",
+      "end_time": "00:15:31,616",
+      "quote": "- What kind of drugs? - Uh...It's title 21, schedule II through schedule V, including part \"B.\" That's what we call them down at the bureau."
+    },
+    {
+      "word": "task force",
+      "meaning": "n. 为特定任务组成的工作组／专案组",
+      "start_cue": 252,
+      "end_cue": 253,
+      "start_time": "00:15:31,618",
+      "end_time": "00:15:35,453",
+      "quote": "It's... the task force is designated \"Operation King Breaker.\""
+    },
+    {
+      "word": "designate",
+      "meaning": "v. 指定／命名；be designated被赋予名称或职责",
+      "start_cue": 252,
+      "end_cue": 253,
+      "start_time": "00:15:31,618",
+      "end_time": "00:15:35,453",
+      "quote": "It's... the task force is designated \"Operation King Breaker.\""
+    },
+    {
+      "word": "operation",
+      "meaning": "n. 有组织的行动／专项行动；此处不是手术或机器操作",
+      "start_cue": 252,
+      "end_cue": 253,
+      "start_time": "00:15:31,618",
+      "end_time": "00:15:35,453",
+      "quote": "It's... the task force is designated \"Operation King Breaker.\""
+    },
+    {
+      "word": "troll for business",
+      "meaning": "v. 四处物色／招揽生意；troll for搜寻，不是网络挑衅义",
+      "start_cue": 263,
+      "end_cue": 263,
+      "start_time": "00:16:08,660",
+      "end_time": "00:16:10,627",
+      "quote": "I was trolling for business, okay? That's the truth."
+    },
+    {
+      "word": "swear",
+      "meaning": "v. 发誓／郑重保证；此处swear on a Bible不是骂脏话",
+      "start_cue": 263,
+      "end_cue": 264,
+      "start_time": "00:16:08,660",
+      "end_time": "00:16:12,245",
+      "quote": "I was trolling for business, okay? That's the truth. Now, you find a Bible, I'll swear on it."
+    },
+    {
+      "word": "responsibility",
+      "meaning": "n. 责任；take full responsibility承担全部责任",
+      "start_cue": 268,
+      "end_cue": 270,
+      "start_time": "00:16:20,339",
+      "end_time": "00:16:30,730",
+      "quote": "Uh, this was a mistake, oka... It's my mistake, okay? I take full and complete responsibility, but I don't know any of your names,"
+    },
+    {
+      "word": "face-blindness",
+      "meaning": "n. 脸盲／难辨认面孔；此处角色借此声称不会认出绑架者，不是医学诊断",
+      "start_cue": 270,
+      "end_cue": 271,
+      "start_time": "00:16:27,179",
+      "end_time": "00:16:33,149",
+      "quote": "but I don't know any of your names, and I got a bad case of face-blindness."
+    },
+    {
+      "word": "nod",
+      "meaning": "v. 点头；nod one's head表示认可或回应",
+      "start_cue": 272,
+      "end_cue": 274,
+      "start_time": "00:16:33,185",
+      "end_time": "00:16:38,321",
+      "quote": "You let us go, we're gonna forget this happened. Guys, we're gonna forget, right? Nod your heads."
+    },
+    {
+      "word": "admit",
+      "meaning": "v. 承认；此处指承认自己是FBI，不是准许进入",
+      "start_cue": 278,
+      "end_cue": 279,
+      "start_time": "00:17:00,929",
+      "end_time": "00:17:07,717",
+      "quote": "I say cut 'em loose. He said he was FBI. He admitted it."
+    },
+    {
+      "word": "wire cutters",
+      "meaning": "n. 剪断金属丝的钳子／剪线钳",
+      "start_cue": 279,
+      "end_cue": 280,
+      "start_time": "00:17:03,932",
+      "end_time": "00:17:09,936",
+      "quote": "He said he was FBI. He admitted it. You had your wire cutters on him."
+    },
+    {
+      "word": "croak",
+      "meaning": "v. 杀死某人；俚语及物义，不是蛙叫或不及物死亡义",
+      "start_cue": 284,
+      "end_cue": 285,
+      "start_time": "00:17:21,817",
+      "end_time": "00:17:28,655",
+      "quote": "Croaking a lawyer for no reason is bad business. He goes away, someone's gonna come look for him."
+    },
+    {
+      "word": "disrespect",
+      "meaning": "v. 不尊重／冒犯；此处指对祖母无礼",
+      "start_cue": 286,
+      "end_cue": 288,
+      "start_time": "00:17:28,657",
+      "end_time": "00:17:36,663",
+      "quote": "They walked into my house. They disrespected my abuelita. They call her \"biznatch\"!"
+    },
+    {
+      "word": "deserve",
+      "meaning": "v. 应得／理应得到某待遇；deserve to die该死，否定后表示不该受此惩罚",
+      "start_cue": 309,
+      "end_cue": 312,
+      "start_time": "00:19:07,055",
+      "end_time": "00:19:17,230",
+      "quote": "- Where you going? - Can you let them go? - Just let them go. - Are you stupid? They don't deserve to die. I put them up to it. I don't deserve to die, but they don't, either."
+    },
+    {
+      "word": "skin",
+      "meaning": "v. 剥去……的皮；用作残酷威胁，不是皮肤名词",
+      "start_cue": 313,
+      "end_cue": 314,
+      "start_time": "00:19:17,265",
+      "end_time": "00:19:22,485",
+      "quote": "I'm gonna skin them, like javelinas! Forget about them! They're insects!"
+    },
+    {
+      "word": "javelina",
+      "meaning": "n. 西猯／美洲一种类似野猪的动物；不是标枪javelin",
+      "start_cue": 313,
+      "end_cue": 314,
+      "start_time": "00:19:17,265",
+      "end_time": "00:19:22,485",
+      "quote": "I'm gonna skin them, like javelinas! Forget about them! They're insects!"
+    },
+    {
+      "word": "widow",
+      "meaning": "n. 寡妇／丈夫已去世的女人；widower为鳏夫",
+      "start_cue": 317,
+      "end_cue": 318,
+      "start_time": "00:19:30,412",
+      "end_time": "00:19:36,533",
+      "quote": "She is a sweet little lady. She... she's a widow. She works hard all day, every day,"
+    },
+    {
+      "word": "dawn / dusk",
+      "meaning": "n. 黎明／黄昏；from dawn till dusk从早到晚",
+      "start_cue": 318,
+      "end_cue": 320,
+      "start_time": "00:19:32,748",
+      "end_time": "00:19:42,372",
+      "quote": "She works hard all day, every day, just like her mother before her, from dawn till dusk, scrubbing the floors of rich people."
+    },
+    {
+      "word": "scrub",
+      "meaning": "v. 用力擦洗／刷洗；此处scrub floors擦洗地板",
+      "start_cue": 319,
+      "end_cue": 320,
+      "start_time": "00:19:36,585",
+      "end_time": "00:19:42,372",
+      "quote": "just like her mother before her, from dawn till dusk, scrubbing the floors of rich people."
+    },
+    {
+      "word": "cane",
+      "meaning": "n. 手杖／拐杖；此处助行器具，不是甘蔗",
+      "start_cue": 321,
+      "end_cue": 322,
+      "start_time": "00:19:42,424",
+      "end_time": "00:19:48,428",
+      "quote": "She needs a cane to walk, you know? She's got arthritis. And still, she works every day."
+    },
+    {
+      "word": "arthritis",
+      "meaning": "n. 关节炎；本句说明行动不便，不作医疗建议",
+      "start_cue": 321,
+      "end_cue": 322,
+      "start_time": "00:19:42,424",
+      "end_time": "00:19:48,428",
+      "quote": "She needs a cane to walk, you know? She's got arthritis. And still, she works every day."
+    },
+    {
+      "word": "fair",
+      "meaning": "adj. 公平、公正的；此处不是肤色白皙或展览会",
+      "start_cue": 333,
+      "end_cue": 334,
+      "start_time": "00:20:13,572",
+      "end_time": "00:20:18,625",
+      "quote": "Way I see it, that's because you're tough, but you're fair. You're all about justice."
+    },
+    {
+      "word": "justice",
+      "meaning": "n. 公正／正义；此处劝对方量刑合理",
+      "start_cue": 333,
+      "end_cue": 335,
+      "start_time": "00:20:13,572",
+      "end_time": "00:20:22,829",
+      "quote": "Way I see it, that's because you're tough, but you're fair. You're all about justice. That's what I'm saying... justice."
+    },
+    {
+      "word": "shit-for-brains",
+      "meaning": "n. 蠢货／没脑子的家伙；粗俗侮辱",
+      "start_cue": 336,
+      "end_cue": 337,
+      "start_time": "00:20:22,831",
+      "end_time": "00:20:26,166",
+      "quote": "These... these two shit-for-brains? These big-mouths?"
+    },
+    {
+      "word": "big-mouth",
+      "meaning": "n. 说话放肆／嘴不把门的人；不只描述嘴巴大小",
+      "start_cue": 336,
+      "end_cue": 337,
+      "start_time": "00:20:22,831",
+      "end_time": "00:20:26,166",
+      "quote": "These... these two shit-for-brains? These big-mouths?"
+    },
+    {
+      "word": "proportionality",
+      "meaning": "n. 相称性／比例合理；此处惩罚与过错程度相称",
+      "start_cue": 343,
+      "end_cue": 344,
+      "start_time": "00:20:37,929",
+      "end_time": "00:20:46,686",
+      "quote": "Then let's talk proportionality. They're guilty... oh, agreed. Now you have to decide, what's the right sentence?"
+    },
+    {
+      "word": "guilty",
+      "meaning": "adj. 有罪／有过错的；此处指两人确实无礼，不是内疚感",
+      "start_cue": 343,
+      "end_cue": 344,
+      "start_time": "00:20:37,929",
+      "end_time": "00:20:46,686",
+      "quote": "Then let's talk proportionality. They're guilty... oh, agreed. Now you have to decide, what's the right sentence?"
+    },
+    {
+      "word": "sentence",
+      "meaning": "n. 刑罚／判刑；此处right sentence合适的惩罚，不是句子",
+      "start_cue": 343,
+      "end_cue": 345,
+      "start_time": "00:20:37,929",
+      "end_time": "00:20:49,823",
+      "quote": "Then let's talk proportionality. They're guilty... oh, agreed. Now you have to decide, what's the right sentence? Like a judge."
+    },
+    {
+      "word": "judge",
+      "meaning": "n. 法官；此处让对方像法官一样按比例决定惩罚",
+      "start_cue": 343,
+      "end_cue": 345,
+      "start_time": "00:20:37,929",
+      "end_time": "00:20:49,823",
+      "quote": "Then let's talk proportionality. They're guilty... oh, agreed. Now you have to decide, what's the right sentence? Like a judge."
+    },
+    {
+      "word": "punishment",
+      "meaning": "n. 惩罚；让惩罚与犯罪相匹配",
+      "start_cue": 347,
+      "end_cue": 349,
+      "start_time": "00:20:52,694",
+      "end_time": "00:21:00,083",
+      "quote": "Ever hear of the code of Hammurabi... Let the punishment fit the crime, eye for an eye? Eye for an eye."
+    },
+    {
+      "word": "blind",
+      "meaning": "v. 使失明；此处作动词，不是形容词看不见的",
+      "start_cue": 349,
+      "end_cue": 350,
+      "start_time": "00:20:57,782",
+      "end_time": "00:21:01,167",
+      "quote": "Eye for an eye. You want me to blind them."
+    },
+    {
+      "word": "trash-talk",
+      "meaning": "v. 辱骂／挑衅地说难听话；口语",
+      "start_cue": 352,
+      "end_cue": 353,
+      "start_time": "00:21:02,370",
+      "end_time": "00:21:06,789",
+      "quote": "All they did was trash-talk. So I cut their tongues out!"
+    },
+    {
+      "word": "advise",
+      "meaning": "v. 建议／劝告；advise与advice建议名词区分",
+      "start_cue": 352,
+      "end_cue": 355,
+      "start_time": "00:21:02,370",
+      "end_time": "00:21:12,846",
+      "quote": "All they did was trash-talk. So I cut their tongues out! Wait. See, I'm advising... That you make the punishment fit the crime."
+    },
+    {
+      "word": "slit",
+      "meaning": "n. 狭长切口／裂缝；此处暴力威胁的画面",
+      "start_cue": 357,
+      "end_cue": 358,
+      "start_time": "00:21:16,852",
+      "end_time": "00:21:24,057",
+      "quote": "Columbian neckties... I cut their throats, and then I pull their lying tongues through the slits!"
+    },
+    {
+      "word": "black eye",
+      "meaning": "n. 被打出的眼周瘀青／乌青眼；不是黑色虹膜",
+      "start_cue": 360,
+      "end_cue": 363,
+      "start_time": "00:21:25,477",
+      "end_time": "00:21:36,069",
+      "quote": "Or you... you could give them black eyes. Black eyes? That ain't nothing. That one there, homes... He already got a black eye, fool."
+    },
+    {
+      "word": "sprain",
+      "meaning": "v./n. 扭伤关节或韧带；此处扭伤脚踝，不等于骨折",
+      "start_cue": 365,
+      "end_cue": 366,
+      "start_time": "00:21:46,047",
+      "end_time": "00:21:50,833",
+      "quote": "Or you could sprain their ankles. - Sprain? - They're... they're skateboarders, right?"
+    },
+    {
+      "word": "ankle",
+      "meaning": "n. 脚踝；ankles复数",
+      "start_cue": 365,
+      "end_cue": 366,
+      "start_time": "00:21:46,047",
+      "end_time": "00:21:50,833",
+      "quote": "Or you could sprain their ankles. - Sprain? - They're... they're skateboarders, right?"
+    },
+    {
+      "word": "just",
+      "meaning": "adj. 公正的；这里与fair并列，不是副词只是／刚刚",
+      "start_cue": 388,
+      "end_cue": 391,
+      "start_time": "00:22:39,935",
+      "end_time": "00:23:07,710",
+      "quote": "You show everybody that you are the man, but that you're fair, that you're just. One leg each. That's tough, but it's fair."
+    },
+    {
+      "word": "backwards",
+      "meaning": "adv./adj. 向后／反向的；此处形容受伤腿的异常朝向",
+      "start_cue": 400,
+      "end_cue": 401,
+      "start_time": "00:23:39,444",
+      "end_time": "00:23:44,614",
+      "quote": "Other one. Look... it's backwards."
+    },
+    {
+      "word": "clean",
+      "meaning": "adv./adj. 利落、干脆地；此处做暴力动作的口语说法，不指清洁卫生",
+      "start_cue": 402,
+      "end_cue": 403,
+      "start_time": "00:23:47,502",
+      "end_time": "00:23:51,087",
+      "quote": "Check it out. I'm gonna do this one real clean."
+    },
+    {
+      "word": "death sentence",
+      "meaning": "n. 死刑判决／处死的惩罚；此处律师夸张描述谈判成果",
+      "start_cue": 412,
+      "end_cue": 413,
+      "start_time": "00:24:34,996",
+      "end_time": "00:24:39,165",
+      "quote": "Hey, I just talked you down from a death sentence... - Oh, my God! Oh, my! - ...to six months' probation."
+    },
+    {
+      "word": "probation",
+      "meaning": "n. 缓刑监督期／考察期；此处是对惩罚的比喻，并非真实法律处置",
+      "start_cue": 412,
+      "end_cue": 413,
+      "start_time": "00:24:34,996",
+      "end_time": "00:24:39,165",
+      "quote": "Hey, I just talked you down from a death sentence... - Oh, my God! Oh, my! - ...to six months' probation."
+    },
+    {
+      "word": "black",
+      "meaning": "adj. 黑咖啡的／不加奶的；take coffee black表示饮用时不加奶",
+      "start_cue": 431,
+      "end_cue": 434,
+      "start_time": "00:29:52,254",
+      "end_time": "00:30:02,179",
+      "quote": "Coffee? Yeah, thanks. You're gonna have to take it black. We're out of milk?"
+    },
+    {
+      "word": "space blanket",
+      "meaning": "n. 反射热量的轻薄保温毯／应急保温毯；并非普通太空被子",
+      "start_cue": 436,
+      "end_cue": 437,
+      "start_time": "00:30:21,951",
+      "end_time": "00:30:27,754",
+      "quote": "Why are you in that space blanket? You brought your cellphone in here last night."
+    },
+    {
+      "word": "bartender",
+      "meaning": "n. 酒吧调酒师／酒保",
+      "start_cue": 445,
+      "end_cue": 447,
+      "start_time": "00:30:54,733",
+      "end_time": "00:31:07,377",
+      "quote": "Your car's not outside, so I'm assuming taxi. Right. Uh, the bartender... wouldn't let me drive."
+    },
+    {
+      "word": "emergency room",
+      "meaning": "n. 急诊室；美式用语，emergency-room作前置修饰",
+      "start_cue": 453,
+      "end_cue": 455,
+      "start_time": "00:31:43,615",
+      "end_time": "00:31:53,540",
+      "quote": "Uh, this, um, this bill... did you read it? Emergency-room bill... Yeah, I may have glanced at it. It fell out of your pocket."
+    },
+    {
+      "word": "glance",
+      "meaning": "v. 匆匆瞥一眼；glance at sth.，不是仔细阅读",
+      "start_cue": 453,
+      "end_cue": 455,
+      "start_time": "00:31:43,615",
+      "end_time": "00:31:53,540",
+      "quote": "Uh, this, um, this bill... did you read it? Emergency-room bill... Yeah, I may have glanced at it. It fell out of your pocket."
+    },
+    {
+      "word": "dime",
+      "meaning": "n. 十美分硬币；last dime比喻最后一点钱",
+      "start_cue": 456,
+      "end_cue": 458,
+      "start_time": "00:31:55,761",
+      "end_time": "00:32:04,184",
+      "quote": "Hey, Chuck, listen, I... I know how this looks. I'm down to my last dime, and, suddenly, I'm paying for broken legs, but..."
+    },
+    {
+      "word": "represent",
+      "meaning": "v. 意味着／象征；此处represent a good thing，不是代理客户",
+      "start_cue": 459,
+      "end_cue": 461,
+      "start_time": "00:32:04,219",
+      "end_time": "00:32:14,644",
+      "quote": "It's... it's not that. I swear. This represents a good thing, ultimately."
+    },
+    {
+      "word": "ultimately",
+      "meaning": "adv. 归根结底／最终；对整件事作评价",
+      "start_cue": 459,
+      "end_cue": 461,
+      "start_time": "00:32:04,219",
+      "end_time": "00:32:14,644",
+      "quote": "It's... it's not that. I swear. This represents a good thing, ultimately."
+    },
+    {
+      "word": "backslide",
+      "meaning": "v. 退回以前不良的行为／故态复萌",
+      "start_cue": 461,
+      "end_cue": 463,
+      "start_time": "00:32:10,275",
+      "end_time": "00:32:20,117",
+      "quote": "This represents a good thing, ultimately. Okay. I... I'm not backsliding. This isn't slippin' Jimmy."
+    },
+    {
+      "word": "land",
+      "meaning": "v. 落下／落在某处；此处问被扔出的手机掉在哪里",
+      "start_cue": 474,
+      "end_cue": 476,
+      "start_time": "00:33:17,126",
+      "end_time": "00:33:25,132",
+      "quote": "Front yard? Mm. Uh, do you have any idea where it landed?"
+    },
+    {
+      "word": "starve",
+      "meaning": "v. 挨饿／饿死；starve to death饿死",
+      "start_cue": 484,
+      "end_cue": 485,
+      "start_time": "00:34:14,600",
+      "end_time": "00:34:20,353",
+      "quote": "What do you want? Not to starve to death."
+    },
+    {
+      "word": "showtime",
+      "meaning": "n. 开演的时刻；此处律师开庭前给自己鼓劲",
+      "start_cue": 488,
+      "end_cue": 489,
+      "start_time": "00:34:47,386",
+      "end_time": "00:35:07,070",
+      "quote": "It's showtime, folks. Globis, lawyer."
+    },
+    {
+      "word": "sharp",
+      "meaning": "adj. 打扮整齐、精神的；look sharp此处指衣着，不是尖锐",
+      "start_cue": 497,
+      "end_cue": 499,
+      "start_time": "00:35:21,086",
+      "end_time": "00:35:28,425",
+      "quote": "- What's this? - I told you a suit, remember? Told you you want to look sharp. That's a loaner, okay? I need it back. Let's go."
+    },
+    {
+      "word": "loaner",
+      "meaning": "n. 临时借给别人用的物品；美式，原句指借来的西装",
+      "start_cue": 497,
+      "end_cue": 499,
+      "start_time": "00:35:21,086",
+      "end_time": "00:35:28,425",
+      "quote": "- What's this? - I told you a suit, remember? Told you you want to look sharp. That's a loaner, okay? I need it back. Let's go."
+    },
+    {
+      "word": "petty",
+      "meaning": "adj. 轻微的／小额的；此处petty theft类轻罪，不是小心眼义",
+      "start_cue": 500,
+      "end_cue": 501,
+      "start_time": "00:35:28,427",
+      "end_time": "00:35:32,312",
+      "quote": "- Petty with a prior. - The kid took a slice of pizza. - Petty with a prior. - Look, the parents are a train wreck."
+    },
+    {
+      "word": "train wreck",
+      "meaning": "n. 灾难般的人／混乱失控的局面；比喻这孩子的父母，非实际列车事故",
+      "start_cue": 500,
+      "end_cue": 502,
+      "start_time": "00:35:28,427",
+      "end_time": "00:35:33,897",
+      "quote": "- Petty with a prior. - The kid took a slice of pizza. - Petty with a prior. - Look, the parents are a train wreck. There's no food in the house! He was hungry!"
+    },
+    {
+      "word": "sticker",
+      "meaning": "n. 贴纸；此处是停车减免费用凭证，不是泛指标签",
+      "start_cue": 504,
+      "end_cue": 507,
+      "start_time": "00:35:45,611",
+      "end_time": "00:35:53,016",
+      "quote": "- You're light on stickers. - Come on. - $5. - You serious? You got four. You need five. There's four 90-minute stickers there."
+    },
+    {
+      "word": "prior",
+      "meaning": "n. 前科；法律口语，复数priors，不是形容词以前的",
+      "start_cue": 515,
+      "end_cue": 516,
+      "start_time": "00:36:45,137",
+      "end_time": "00:36:48,505",
+      "quote": "Petty with a prior. Prior will stay on his sheet for life."
+    },
+    {
+      "word": "sheet",
+      "meaning": "n. 犯罪记录表；此处指留下前科的记录，不是床单",
+      "start_cue": 515,
+      "end_cue": 516,
+      "start_time": "00:36:45,137",
+      "end_time": "00:36:48,505",
+      "quote": "Petty with a prior. Prior will stay on his sheet for life."
+    },
+    {
+      "word": "overcharge",
+      "meaning": "v. 提出过重指控；此处不是收费过高",
+      "start_cue": 517,
+      "end_cue": 518,
+      "start_time": "00:36:48,507",
+      "end_time": "00:36:52,809",
+      "quote": "Petty with a prior. You're overcharging him."
+    },
+    {
+      "word": "short sb.",
+      "meaning": "v. 少付某人钱／给得不足；不是形容词短的",
+      "start_cue": 520,
+      "end_cue": 520,
+      "start_time": "00:36:56,648",
+      "end_time": "00:36:59,599",
+      "quote": "That lady up there... She shorts me every time, okay?"
+    },
+    {
+      "word": "misdemeanor",
+      "meaning": "n. 轻罪；美国法律分类，与felony重罪区分",
+      "start_cue": 524,
+      "end_cue": 525,
+      "start_time": "00:37:20,706",
+      "end_time": "00:37:33,299",
+      "quote": "Hey! - Petty with a prior. - Misdemeanor shoplifting."
+    },
+    {
+      "word": "shoplifting",
+      "meaning": "n. 商店行窃／偷拿商品",
+      "start_cue": 524,
+      "end_cue": 525,
+      "start_time": "00:37:20,706",
+      "end_time": "00:37:33,299",
+      "quote": "Hey! - Petty with a prior. - Misdemeanor shoplifting."
+    },
+    {
+      "word": "clean",
+      "meaning": "adj. 无再犯／未再惹违法麻烦的；此处六个月保持良好行为",
+      "start_cue": 529,
+      "end_cue": 532,
+      "start_time": "00:37:40,142",
+      "end_time": "00:37:46,529",
+      "quote": "I plead the kid to the sheet, but you give me a continued sentence. And in six months, if he's still clean, you file for a dismissal."
+    },
+    {
+      "word": "dismissal",
+      "meaning": "n. 撤销／终止诉讼；本集不是解雇义",
+      "start_cue": 531,
+      "end_cue": 532,
+      "start_time": "00:37:43,195",
+      "end_time": "00:37:46,529",
+      "quote": "And in six months, if he's still clean, you file for a dismissal."
+    },
+    {
+      "word": "inventor",
+      "meaning": "n. 发明家；inventor与investor投资者不同",
+      "start_cue": 536,
+      "end_cue": 537,
+      "start_time": "00:38:05,917",
+      "end_time": "00:38:11,554",
+      "quote": "Oh, Mr. Berger, we've met before, haven't we? Mr. Edison, like the inventor? I'm James McGill."
+    },
+    {
+      "word": "freeze",
+      "meaning": "v. 感到冻得厉害／冷得发抖；原句freezing用于形容冷的状态",
+      "start_cue": 542,
+      "end_cue": 544,
+      "start_time": "00:38:20,766",
+      "end_time": "00:38:27,737",
+      "quote": "Okay, so, a fire was started. We all know that. Freezing, shivering, as she is now."
+    },
+    {
+      "word": "shiver",
+      "meaning": "v. 发抖／打寒战；此处因冷而发抖",
+      "start_cue": 544,
+      "end_cue": 544,
+      "start_time": "00:38:25,403",
+      "end_time": "00:38:27,737",
+      "quote": "Freezing, shivering, as she is now."
+    },
+    {
+      "word": "bonehead",
+      "meaning": "n./adj. 笨蛋／愚蠢的；a bonehead move一个蠢举动",
+      "start_cue": 547,
+      "end_cue": 548,
+      "start_time": "00:38:33,612",
+      "end_time": "00:38:40,450",
+      "quote": "But because you... ...Given her this name... You can see that this man... Chose... A bonehead move."
+    },
+    {
+      "word": "troll",
+      "meaning": "n. 桥下拦路的怪物；此处讽刺停车收费员，非网络挑衅者义",
+      "start_cue": 549,
+      "end_cue": 551,
+      "start_time": "00:38:59,104",
+      "end_time": "00:39:06,976",
+      "quote": "Like a troll under a bridge! \"You must have the stickers, or you won't pass!\" Troll alert here... don't feed it!"
+    },
+    {
+      "word": "temporary quarters",
+      "meaning": "n. 临时住处／办公处所；quarters复数表示房舍，不是四分之一",
+      "start_cue": 560,
+      "end_cue": 561,
+      "start_time": "00:41:45,303",
+      "end_time": "00:41:51,941",
+      "quote": "Welcome, welcome. My office is being painted. Excuse the temporary, uh...Quarters."
+    },
+    {
+      "word": "cozy",
+      "meaning": "adj. 温馨舒适／小巧宜人的；此处对狭小办公室的客套评价",
+      "start_cue": 561,
+      "end_cue": 562,
+      "start_time": "00:41:47,555",
+      "end_time": "00:41:55,812",
+      "quote": "Excuse the temporary, uh...Quarters. Wow. Cozy."
+    },
+    {
+      "word": "cash",
+      "meaning": "n. 现金；不是支票或电子余额",
+      "start_cue": 572,
+      "end_cue": 573,
+      "start_time": "00:42:42,861",
+      "end_time": "00:42:50,199",
+      "quote": "So, they have a million and a half bucks somewhere. In what, cash?"
+    },
+    {
+      "word": "rip sb. off",
+      "meaning": "v. 偷走／诈取某人的财物；此处计划偷钱，不是商家价格欺诈",
+      "start_cue": 575,
+      "end_cue": 578,
+      "start_time": "00:42:52,537",
+      "end_time": "00:43:04,213",
+      "quote": "Why are you asking me? - I'm gonna rip them off. - Oh. I like ripping off thieves 'cause they can't go to the cops... they have no recourse."
+    },
+    {
+      "word": "recourse",
+      "meaning": "n. 求助途径／追索办法；此处指无法向警方求助，不是资源resource",
+      "start_cue": 576,
+      "end_cue": 578,
+      "start_time": "00:42:55,206",
+      "end_time": "00:43:04,213",
+      "quote": "- I'm gonna rip them off. - Oh. I like ripping off thieves 'cause they can't go to the cops... they have no recourse."
+    },
+    {
+      "word": "thief",
+      "meaning": "n. 小偷／盗贼；原句thieves为不规则复数",
+      "start_cue": 576,
+      "end_cue": 578,
+      "start_time": "00:42:55,206",
+      "end_time": "00:43:04,213",
+      "quote": "- I'm gonna rip them off. - Oh. I like ripping off thieves 'cause they can't go to the cops... they have no recourse."
+    },
+    {
+      "word": "finder's fee",
+      "meaning": "n. 为介绍生意或提供目标信息支付的报酬／介绍费",
+      "start_cue": 580,
+      "end_cue": 582,
+      "start_time": "00:43:05,884",
+      "end_time": "00:43:15,641",
+      "quote": "You point me at where they have their cash... I'll pay you... a what do you call it?... A finder's fee... call it 10%, 100 large."
+    },
+    {
+      "word": "large",
+      "meaning": "n. 一千美元；美式俚语，100 large为十万美元",
+      "start_cue": 581,
+      "end_cue": 582,
+      "start_time": "00:43:08,720",
+      "end_time": "00:43:15,641",
+      "quote": "I'll pay you... a what do you call it?... A finder's fee... call it 10%, 100 large."
+    },
+    {
+      "word": "criminal",
+      "meaning": "n. 罪犯；此处名词，与lawyer形成身份对照",
+      "start_cue": 592,
+      "end_cue": 593,
+      "start_time": "00:43:42,253",
+      "end_time": "00:43:48,391",
+      "quote": "We rip them off... easy money. Hey, look, I'm a lawyer, not a criminal."
+    },
+    {
+      "word": "angle",
+      "meaning": "n. 隐藏的目的／算盘；What's your angle?问真正企图",
+      "start_cue": 602,
+      "end_cue": 604,
+      "start_time": "00:44:18,957",
+      "end_time": "00:44:28,931",
+      "quote": "What's your angle? No... no angle. And I'm not saying anything about this to anybody."
+    },
+    {
+      "word": "consultation",
+      "meaning": "n. 咨询／征求专业意见的会谈；这里是律师咨询",
+      "start_cue": 605,
+      "end_cue": 607,
+      "start_time": "00:44:28,967",
+      "end_time": "00:44:36,973",
+      "quote": "As far as I'm concerned, you're a client. This is a consultation, and everything you just told me is privileged."
+    },
+    {
+      "word": "privileged",
+      "meaning": "adj. 受保密保护、通常不得要求披露的；此处律师声称咨询内容受保护，不是优越身份义",
+      "start_cue": 605,
+      "end_cue": 607,
+      "start_time": "00:44:28,967",
+      "end_time": "00:44:36,973",
+      "quote": "As far as I'm concerned, you're a client. This is a consultation, and everything you just told me is privileged."
+    },
+    {
+      "word": "rat",
+      "meaning": "v. 告密／出卖别人；粗俗威胁语境，不是老鼠名词",
+      "start_cue": 608,
+      "end_cue": 608,
+      "start_time": "00:44:36,975",
+      "end_time": "00:44:39,609",
+      "quote": "You rat, you die."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "word": "dusk",
+      "start_cue": 318,
+      "end_cue": 320,
+      "reason": "合并于同集dawn / dusk"
+    },
+    {
+      "word": "felony",
+      "reason": "S01E01已收同一语境义项，无新接法"
+    },
+    {
+      "word": "cop",
+      "reason": "S01E01已收同一语境义项，无新接法"
+    },
+    {
+      "word": "buck / grand",
+      "reason": "S01E01已收同一语境义项，无新接法"
+    },
+    {
+      "word": "attorney-at-law / attorney",
+      "reason": "S01E01已收同一语境义项，无新接法"
+    },
+    {
+      "word": "clear",
+      "reason": "S01E01已收同一语境义项，无新接法"
+    },
+    {
+      "word": "treasury / treasurer",
+      "reason": "S01E01已收同一语境义项，无新接法"
+    },
+    {
+      "word": "embezzlement",
+      "reason": "S01E01已收同一语境义项，无新接法"
+    },
+    {
+      "word": "ground yourself",
+      "reason": "S01E01已收同一语境义项，无新接法"
+    }
+  ],
+  "pending": [
+    {
+      "word": "brace / bracing her",
+      "cue": 177,
+      "note": "本句似指拦住／威逼索钱；查阅Collins及American Heritage未确认对应旧俚语义，暂不作为规范词义收录"
+    },
+    {
+      "word": "felonied",
+      "cue": 19,
+      "note": "角色把felony临时用作动词，不作为常规动词教学"
+    },
+    {
+      "word": "biznatch",
+      "cue": 12,
+      "note": "角色使用变形辱骂词；保留原形待核，不作为标准拼写"
+    },
+    {
+      "word": "pork",
+      "cue": 220,
+      "note": "现场借猪比喻警察，不将其直接当常规词典义"
+    },
+    {
+      "word": "continued sentence / plead the kid to the sheet",
+      "cue": 529,
+      "note": "字幕法律口语接法需另核；只收已能判断的prior/sheet/clean/dismissal义项"
+    },
+    {
+      "word": "Columbian neckties",
+      "cue": 357,
+      "note": "暴力比喻及拼写待核，不收入普通可模仿词汇"
+    },
+    {
+      "word": "jockeys",
+      "cue": 341,
+      "note": "疑指品牌男内裤／其代称，品牌词暂不优先收录"
+    }
+  ],
+  "lexical_checks": [
+    {
+      "word": "croak",
+      "url": "https://www.merriam-webster.com/dictionary/croak",
+      "checked": "及物俚语kill义；未引用词典例句"
+    },
+    {
+      "word": "the heat",
+      "url": "https://www.merriam-webster.com/dictionary/heat",
+      "checked": "名词俚语police义"
+    },
+    {
+      "word": "javelina",
+      "url": "https://www.ahdictionary.com/word/search.html?q=javelina",
+      "checked": "collared peccary，区别javelin"
+    },
+    {
+      "word": "brace",
+      "url": "https://www.collinsdictionary.com/dictionary/english/brace",
+      "checked": "常规义项不足以确认本句，保留pending"
+    }
+  ],
+  "vocabulary_coverage": {
+    "ordinary_words": "grandson/pressure/lean/collect/rescue/tape/admit/deserve/land等，不仅挑稀有词",
+    "everyday_objects": "mantel/cane/van/space blanket/sticker/emergency room",
+    "spoken": "punk/croak/header/loaner/short/large/rat",
+    "sense_contrasts": "judgment/collect/schedule/just/black/represent/sharp/overcharge/clean/privileged",
+    "law": "prior/probation/misdemeanor/dismissal/contract law/recourse，释义用于读剧而非法律指导"
+  }
+}

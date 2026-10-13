@@ -1,0 +1,572 @@
+{
+  "scope": "Only completed E01-E04 vocabulary-selection JSON; recommendations only, originals unchanged.",
+  "method": "Read meanings and quotes in E01-E04; manually evaluate repeated lexemes, inflectional/derivational families and slash titles. Exact-word grouping was only an index for review, not semantic deletion logic. Preserve new senses, POS changes and independent lexical collocations. Different synonymous words are not merged.",
+  "source_snapshots": [
+    {
+      "episode": 1,
+      "path": "references/chunks/better-call-saul-s01e01-vocabulary-selection.json",
+      "sha256": "907ec90d5696ea538796993652077ccc0670be116822094b7f0bd32c82b3a6db",
+      "items": 104
+    },
+    {
+      "episode": 2,
+      "path": "references/chunks/better-call-saul-s01e02-vocabulary-selection.json",
+      "sha256": "fbab008b22dd7dda08ac9828a5ef0a9c52dc7411fc001b7c32d40533be563b2b",
+      "items": 138
+    },
+    {
+      "episode": 3,
+      "path": "references/chunks/better-call-saul-s01e03-vocabulary-selection.json",
+      "sha256": "6acd716f0716378888ed4152d5aecddf37e1831e73de3ac135c2eeea4c541cc4",
+      "items": 197
+    },
+    {
+      "episode": 4,
+      "path": "references/chunks/better-call-saul-s01e04-vocabulary-selection.json",
+      "sha256": "5fd275f50c810252d8c90cc5eafed5c5ca42e9b7dec35557bc6c026a8375a063",
+      "items": 268
+    }
+  ],
+  "suggested_deletions": [
+    {
+      "episode": 3,
+      "word": "van",
+      "start_cue": 330,
+      "end_cue": 332,
+      "keep_episode": 2,
+      "keep_word": "van",
+      "keep_start_cue": 97,
+      "keep_end_cue": 97,
+      "reason": "均为厢式车／面包车；后文 suspicious van 仅普通形容词修饰，无新词义或值得单列的接法。"
+    },
+    {
+      "episode": 3,
+      "word": "scumbag",
+      "start_cue": 578,
+      "end_cue": 578,
+      "keep_episode": 2,
+      "keep_word": "scumbag",
+      "keep_start_cue": 111,
+      "keep_end_cue": 111,
+      "reason": "同为粗俗侮辱“人渣”；复数／单数与不同被骂对象不构成新义。"
+    },
+    {
+      "episode": 3,
+      "word": "detail",
+      "start_cue": 131,
+      "end_cue": 131,
+      "keep_episode": 2,
+      "keep_word": "details",
+      "keep_start_cue": 113,
+      "keep_end_cue": 115,
+      "reason": "同词的单复数，均为案情／事故具体信息；talk details 与 get details 不形成需单列学习的特殊义。"
+    },
+    {
+      "episode": 3,
+      "word": "judge",
+      "start_cue": 25,
+      "end_cue": 27,
+      "keep_episode": 2,
+      "keep_word": "judge",
+      "keep_start_cue": 343,
+      "keep_end_cue": 345,
+      "reason": "同为法官名词；like a judge 与 tell the judge 的语境差异不构成词义或搭配差异。"
+    },
+    {
+      "episode": 3,
+      "word": "sticker",
+      "start_cue": 236,
+      "end_cue": 237,
+      "keep_episode": 2,
+      "keep_word": "sticker",
+      "keep_start_cue": 504,
+      "keep_end_cue": 507,
+      "reason": "均指停车费减免凭证贴纸；取得／交回的动作变化无新接法。"
+    },
+    {
+      "episode": 3,
+      "word": "rip sb. off",
+      "start_cue": 492,
+      "end_cue": 493,
+      "keep_episode": 2,
+      "keep_word": "rip sb. off",
+      "keep_start_cue": 575,
+      "keep_end_cue": 578,
+      "reason": "均为偷走别人的财物；原句均用 rip them off，无新词义或短搭配。"
+    },
+    {
+      "episode": 4,
+      "word": "assume",
+      "start_cue": 238,
+      "end_cue": 240,
+      "keep_episode": 2,
+      "keep_word": "assume",
+      "keep_start_cue": 116,
+      "keep_end_cue": 117,
+      "reason": "均为未经确认而认为／推测；都是 assume 加宾语从句，没有新义或独立接法。"
+    },
+    {
+      "episode": 4,
+      "word": "cash",
+      "start_cue": 91,
+      "end_cue": 92,
+      "keep_episode": 2,
+      "keep_word": "cash",
+      "keep_start_cue": 572,
+      "keep_end_cue": 573,
+      "reason": "同为现金名词；keep the cash 是普通动宾组合，无新义。"
+    },
+    {
+      "episode": 4,
+      "word": "angle",
+      "start_cue": 443,
+      "end_cue": 444,
+      "keep_episode": 2,
+      "keep_word": "angle",
+      "keep_start_cue": 602,
+      "keep_end_cue": 604,
+      "reason": "同为隐藏目的／意图；get your angle 只是理解某人意图的普通搭配，不新增词义。"
+    }
+  ],
+  "must_keep_new_senses_or_independent_values": [
+    {
+      "episode": 4,
+      "word": "clear",
+      "start_cue": 453,
+      "end_cue": 454,
+      "keep_episode": 1,
+      "keep_word": "clear",
+      "keep_start_cue": 635,
+      "keep_end_cue": 636,
+      "reason": "E01净赚；E04取得批准，clear sth. past sb. 为新义和接法。"
+    },
+    {
+      "episode": 3,
+      "word": "credit",
+      "start_cue": 194,
+      "end_cue": 195,
+      "keep_episode": 3,
+      "keep_word": "credit / give sb. credit",
+      "keep_start_cue": 94,
+      "keep_end_cue": 95,
+      "reason": "E03 cue194是拘押天数抵扣；cue94是对人的肯定，两个名词义不同。"
+    },
+    {
+      "episode": 4,
+      "word": "credit sth. to",
+      "start_cue": 667,
+      "end_cue": 668,
+      "keep_episode": 3,
+      "keep_word": "credit / give sb. credit",
+      "keep_start_cue": 94,
+      "keep_end_cue": 95,
+      "reason": "动词 credit sth. to 把某事归功于，与名词肯定／抵扣不同。"
+    },
+    {
+      "episode": 4,
+      "word": "ride",
+      "start_cue": 263,
+      "end_cue": 263,
+      "keep_episode": 3,
+      "keep_word": "ride",
+      "keep_start_cue": 370,
+      "keep_end_cue": 373,
+      "reason": "E03是车／座驾；E04是搭车机会、一程，need a ride 有独立义项价值。"
+    },
+    {
+      "episode": 3,
+      "word": "rat",
+      "start_cue": 290,
+      "end_cue": 290,
+      "keep_episode": 2,
+      "keep_word": "rat",
+      "keep_start_cue": 608,
+      "keep_end_cue": 608,
+      "reason": "E02 rat 是动词告密；E03是名词告密者，词性变化应保留。"
+    },
+    {
+      "episode": 3,
+      "word": "rat on sb.",
+      "start_cue": 517,
+      "end_cue": 518,
+      "keep_episode": 2,
+      "keep_word": "rat",
+      "keep_start_cue": 608,
+      "keep_end_cue": 608,
+      "reason": "同一告密动词的新接法 rat on sb.，E02是不及物独用，保留明确宾语与介词。"
+    },
+    {
+      "episode": 4,
+      "word": "rip off",
+      "start_cue": 460,
+      "end_cue": 461,
+      "keep_episode": 2,
+      "keep_word": "rip sb. off",
+      "keep_start_cue": 575,
+      "keep_end_cue": 578,
+      "reason": "E04是抄袭品牌／形象；E02是偷钱，明确新义。"
+    },
+    {
+      "episode": 4,
+      "word": "represent",
+      "start_cue": 589,
+      "end_cue": 590,
+      "keep_episode": 2,
+      "keep_word": "represent",
+      "keep_start_cue": 459,
+      "keep_end_cue": 461,
+      "reason": "E02表示“意味着／代表某种结果”；E04法律上代理客户，明确新义。"
+    },
+    {
+      "episode": 2,
+      "word": "clean",
+      "start_cue": 402,
+      "end_cue": 403,
+      "keep_episode": 2,
+      "keep_word": "clean",
+      "keep_start_cue": 529,
+      "keep_end_cue": 532,
+      "reason": "同集 cue402是做动作利落、干净的方式用法；cue529是无再犯的状态形容词，义项与句法不同。"
+    },
+    {
+      "episode": 2,
+      "word": "troll",
+      "start_cue": 549,
+      "end_cue": 551,
+      "keep_episode": 2,
+      "keep_word": "troll for business",
+      "keep_start_cue": 263,
+      "keep_end_cue": 263,
+      "reason": "名词桥下怪物，与动词搜寻／物色生意的义项和词性不同。"
+    },
+    {
+      "episode": 4,
+      "word": "stomp all over",
+      "start_cue": 525,
+      "end_cue": 525,
+      "keep_episode": 1,
+      "keep_word": "stomp",
+      "keep_start_cue": 705,
+      "keep_end_cue": 705,
+      "reason": "E01跺脚实际动作；E04比喻压制、践踏小人物，另有 stomp all over sb. 接法。"
+    },
+    {
+      "episode": 3,
+      "word": "sentence",
+      "start_cue": 345,
+      "end_cue": 346,
+      "keep_episode": 2,
+      "keep_word": "sentence",
+      "keep_start_cue": 343,
+      "keep_end_cue": 345,
+      "reason": "基本仍为刑罚，但 E03 knock a sentence down to the minimum 是有价值的减刑接法；不是仅新增场景。"
+    },
+    {
+      "episode": 2,
+      "word": "death sentence",
+      "start_cue": 412,
+      "end_cue": 413,
+      "keep_episode": 2,
+      "keep_word": "sentence",
+      "keep_start_cue": 343,
+      "keep_end_cue": 345,
+      "reason": "同集 death sentence 死刑是专门法律短搭配，应保留，不把泛指刑罚当作覆盖一切复合搭配。"
+    },
+    {
+      "episode": 3,
+      "word": "deduce",
+      "start_cue": 493,
+      "end_cue": 495,
+      "keep_episode": 2,
+      "keep_word": "deduce",
+      "keep_start_cue": 137,
+      "keep_end_cue": 138,
+      "reason": "E02 deduce that 从句；E03 deduce sth. from 信息来源，新介词／来源接法有独立学习价值。"
+    },
+    {
+      "episode": 4,
+      "word": "investigate",
+      "start_cue": 134,
+      "end_cue": 135,
+      "keep_episode": 2,
+      "keep_word": "investigate",
+      "keep_start_cue": 246,
+      "keep_end_cue": 247,
+      "reason": "E02 investigate sb. 调查对象；E04 investigate sth. as a kidnapping 以某种案件性质调查，as 补语为新接法。"
+    },
+    {
+      "episode": 4,
+      "word": "deserve",
+      "start_cue": 186,
+      "end_cue": 187,
+      "keep_episode": 2,
+      "keep_word": "deserve",
+      "keep_start_cue": 309,
+      "keep_end_cue": 312,
+      "reason": "E02 deserve to die 为不定式补语；E04 deserve overtime 为名词补语，保留两个实际接法。"
+    },
+    {
+      "episode": 3,
+      "word": "innocent / guilty",
+      "start_cue": 124,
+      "end_cue": 124,
+      "keep_episode": 2,
+      "keep_word": "guilty",
+      "keep_start_cue": 343,
+      "keep_end_cue": 344,
+      "reason": "混合标题中 innocent 是新增词；同时E02 guilty是有错的比喻，E03是法律无罪推定语境。不能删除整条而丢 innocent。"
+    },
+    {
+      "episode": 4,
+      "word": "ID sb.",
+      "start_cue": 284,
+      "end_cue": 285,
+      "keep_episode": 4,
+      "keep_word": "ID",
+      "keep_start_cue": 43,
+      "keep_end_cue": 44,
+      "reason": "同集名词身份证件与动词辨认身份的词性变化，应保留。"
+    },
+    {
+      "episode": 3,
+      "word": "embezzle",
+      "start_cue": 575,
+      "end_cue": 575,
+      "keep_episode": 1,
+      "keep_word": "embezzlement",
+      "keep_start_cue": 728,
+      "keep_end_cue": 729,
+      "reason": "动词挪用受托钱款，区别已有名词 embezzlement；不能把派生名词当作掌握动词的证据。"
+    },
+    {
+      "episode": 2,
+      "word": "dismissal",
+      "start_cue": 531,
+      "end_cue": 532,
+      "keep_episode": 1,
+      "keep_word": "dismiss a case",
+      "keep_start_cue": 72,
+      "keep_end_cue": 72,
+      "reason": "名词撤销诉讼，与动词 dismiss 区分；file for a dismissal 另有名词搭配价值。"
+    },
+    {
+      "episode": 4,
+      "word": "prosecutor",
+      "start_cue": 679,
+      "end_cue": 680,
+      "keep_episode": 1,
+      "keep_word": "prosecution",
+      "keep_start_cue": 117,
+      "keep_end_cue": 118,
+      "reason": "prosecutor 指公诉人；prosecution 指控方／公诉，指代与词形不同。"
+    },
+    {
+      "episode": 2,
+      "word": "privileged",
+      "start_cue": 605,
+      "end_cue": 607,
+      "keep_episode": 3,
+      "keep_word": "attorney-client privilege",
+      "keep_start_cue": 402,
+      "keep_end_cue": 403,
+      "reason": "形容词信息受保密特权保护，与名词法律特权不同；两条互相补充，不删除更早的形容词。"
+    },
+    {
+      "episode": 3,
+      "word": "guarantee",
+      "start_cue": 412,
+      "end_cue": 413,
+      "keep_episode": 2,
+      "keep_word": "guaranteed",
+      "keep_start_cue": 153,
+      "keep_end_cue": 154,
+      "reason": "保证动词和 guaranteed 省略式保证语／分词形容词不完全等价；guarantee sb. that 从句是明确接法。"
+    },
+    {
+      "episode": 4,
+      "word": "relax",
+      "start_cue": 419,
+      "end_cue": 420,
+      "keep_episode": 2,
+      "keep_word": "relaxed",
+      "keep_start_cue": 101,
+      "keep_end_cue": 102,
+      "reason": "动作动词放松与状态形容词放松的，词性与主动表达不同。"
+    },
+    {
+      "episode": 4,
+      "word": "consult",
+      "start_cue": 663,
+      "end_cue": 664,
+      "keep_episode": 2,
+      "keep_word": "consultation",
+      "keep_start_cue": 605,
+      "keep_end_cue": 607,
+      "reason": "consult 名词是会面／咨询的口语短形式，有独立形态和语域价值；不因正式形式 consultation 已收而删。"
+    },
+    {
+      "episode": 4,
+      "word": "consulting fees",
+      "start_cue": 303,
+      "end_cue": 304,
+      "keep_episode": 2,
+      "keep_word": "consultation",
+      "keep_start_cue": 605,
+      "keep_end_cue": 607,
+      "reason": "咨询服务费用是独立短搭配；词形变化及中心词 fees 使其不等同咨询会面。"
+    },
+    {
+      "episode": 4,
+      "word": "filing fees",
+      "start_cue": 304,
+      "end_cue": 304,
+      "keep_episode": 1,
+      "keep_word": "filings",
+      "keep_start_cue": 418,
+      "keep_end_cue": 419,
+      "reason": "filings 是提交的文书；filing fees 是提交文书的费用，中心语与所指不同。"
+    },
+    {
+      "episode": 3,
+      "word": "press charges",
+      "start_cue": 587,
+      "end_cue": 588,
+      "keep_episode": 1,
+      "keep_word": "charge",
+      "keep_start_cue": 70,
+      "keep_end_cue": 70,
+      "reason": "press charges 是提出刑事控告的特定动词短搭配，不等同名词刑事指控。"
+    },
+    {
+      "episode": 2,
+      "word": "overcharge",
+      "start_cue": 517,
+      "end_cue": 518,
+      "keep_episode": 1,
+      "keep_word": "charge",
+      "keep_start_cue": 70,
+      "keep_end_cue": 70,
+      "reason": "提出过重指控的动词，与名词 charge 刑事指控不同。"
+    },
+    {
+      "episode": 4,
+      "word": "free of charge",
+      "start_cue": 412,
+      "end_cue": 413,
+      "keep_episode": 1,
+      "keep_word": "charge",
+      "keep_start_cue": 70,
+      "keep_end_cue": 70,
+      "reason": "charge 在费用短搭配中，与E01刑事指控不同；free of charge整体明确免费。"
+    },
+    {
+      "episode": 4,
+      "word": "publicity stunt",
+      "start_cue": 642,
+      "end_cue": 643,
+      "keep_episode": 2,
+      "keep_word": "publicity",
+      "keep_start_cue": 191,
+      "keep_end_cue": 193,
+      "reason": "为曝光而设计的噱头是独立短搭配；不能只因 publicity 一词已有而删除。"
+    },
+    {
+      "episode": 4,
+      "word": "publicity stunt",
+      "start_cue": 642,
+      "end_cue": 643,
+      "keep_episode": 2,
+      "keep_word": "stunt",
+      "keep_start_cue": 200,
+      "keep_end_cue": 203,
+      "reason": "E02是假摔骗局中的花招，E04 publicity stunt 明确以宣传曝光为目的，代表性短搭配有价值。"
+    },
+    {
+      "episode": 4,
+      "word": "solo practitioner",
+      "start_cue": 479,
+      "end_cue": 480,
+      "keep_episode": 1,
+      "keep_word": "legal practice",
+      "keep_start_cue": 449,
+      "keep_end_cue": 449,
+      "reason": "个人独立执业律师与律师业务／事务所经营，词形、中心语和所指不同。"
+    },
+    {
+      "episode": 4,
+      "word": "fairness",
+      "start_cue": 189,
+      "end_cue": 190,
+      "keep_episode": 2,
+      "keep_word": "fair",
+      "keep_start_cue": 333,
+      "keep_end_cue": 334,
+      "reason": "派生名词公平与形容词公正，词性不同。"
+    },
+    {
+      "episode": 4,
+      "word": "fair use",
+      "start_cue": 484,
+      "end_cue": 486,
+      "keep_episode": 2,
+      "keep_word": "fair",
+      "keep_start_cue": 333,
+      "keep_end_cue": 334,
+      "reason": "法律短搭配合理使用，不能按形容词公平的普通义去重。"
+    }
+  ],
+  "e02_semantic_review": {
+    "major_errors_found": false,
+    "assessment": "未发现足以确定为明显语义错误的项；仅列两项本句词性／接法精确化建议。没有重做字幕听校或改写原文件。",
+    "suggestions": [
+      {
+        "episode": 2,
+        "word": "scam",
+        "start_cue": 168,
+        "end_cue": 169,
+        "keep_episode": 2,
+        "keep_word": "scam",
+        "current_meaning": "n./v. 骗局／诈骗；run a scam策划骗局",
+        "quote": "He... he wanted to scam you. He said we could clear 2 grand, easy.",
+        "suggested_meaning": "v. 诈骗／骗某人；本句 wanted to scam you。",
+        "severity": "minor precision",
+        "reason": "原条标 n./v. 并举 run a scam，但所引原句是及物动词 scam you。不是意义错误，建议把本句词性／接法写准。"
+      },
+      {
+        "episode": 2,
+        "word": "freeze",
+        "start_cue": 542,
+        "end_cue": 544,
+        "keep_episode": 2,
+        "keep_word": "freeze",
+        "current_meaning": "v. 感到冻得厉害／冷得发抖；原句freezing用于形容冷的状态",
+        "quote": "Okay, so, a fire was started. We all know that. Freezing, shivering, as she is now.",
+        "suggested_meaning": "freezing（原形 freeze）；此处“冷得厉害的／冻得直发抖的”，分词／形容词状态用法。",
+        "severity": "minor precision",
+        "reason": "原条仅标 freeze v.；原句为 Freezing, shivering, as she is now，当前片段是状态性分词表达。可保留原形索引，补当前词形与词性；不视为明显错误。"
+      }
+    ]
+  },
+  "mixed_title_review": [
+    {
+      "word": "treasury / treasurer",
+      "episode": 1,
+      "result": "拆开检查 treasury 财政机构／公库、treasurer 财务官。E02-E04已选items无重复treasurer；E03 duplicates_skipped已有treasurer，不对不存在的行提出删除。"
+    },
+    {
+      "word": "buck / grand",
+      "episode": 1,
+      "result": "美元与一千元拆开考虑；E02 large为独立俚语词形，虽同指一千美元仍保留，不能因同义不同词合并。"
+    },
+    {
+      "word": "innocent / guilty",
+      "episode": 3,
+      "result": "guilty 与E02重叠但 innocent 新增，保留整体条目。"
+    }
+  ],
+  "summary": {
+    "suggested_deletions": 9,
+    "must_keep_entries": 35,
+    "e02_minor_precision_suggestions": 2
+  }
+}

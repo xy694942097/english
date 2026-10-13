@@ -1,0 +1,2018 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S01/Better.Call.Saul.S01E10.en.srt",
+  "sha256": "7586b3493c1a5673d4dd93171615978feccfa76a8b7648ffb0a44a2cb51595d2",
+  "subtitle_blocks_read": 872,
+  "max_cue": 872,
+  "selection_status": "Vocabulary candidates; learner-specific familiarity not assumed; not mastery evidence.",
+  "method": "LLM read every displayed cue in chronological batches, combining consecutive cues for dialogue context. Candidate discovery and Chinese contextual meanings were written by the LLM, not regex, a predefined vocabulary list or frequency ranking. Python only parsed SRT, recovered selected contiguous quotes and verified source evidence. A second LLM review of the same complete displayed batches reconsidered ordinary content words; explicit targeted context rereads are recorded below. No audio listening verification.",
+  "read_batches": [
+    {
+      "start_cue": 1,
+      "end_cue": 300,
+      "blocks": 300,
+      "status": "Actually displayed without truncation and read by LLM"
+    },
+    {
+      "start_cue": 301,
+      "end_cue": 600,
+      "blocks": 300,
+      "status": "Actually displayed without truncation and read by LLM"
+    },
+    {
+      "start_cue": 601,
+      "end_cue": 872,
+      "blocks": 272,
+      "status": "Actually displayed without truncation and read by LLM"
+    }
+  ],
+  "items": [
+    {
+      "word": "beat the rap",
+      "meaning": "v. 逃脱刑事处罚／摆脱指控（美式俚语）",
+      "start_cue": 22,
+      "end_cue": 23,
+      "start_time": "00:01:10,696",
+      "end_time": "00:01:14,834",
+      "quote": "Jimmy, my man, I said you would beat the rap. Hey, Merna, set him up, would you?",
+      "selection_pass": 1
+    },
+    {
+      "word": "set sb. up",
+      "meaning": "v. 给某人端上酒／招待一杯；此处酒吧点单",
+      "start_cue": 23,
+      "end_cue": 25,
+      "start_time": "00:01:13,700",
+      "end_time": "00:01:17,002",
+      "quote": "Hey, Merna, set him up, would you? Merna, no, thanks. I'm good. No, go on. He don't mean it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "in a rush",
+      "meaning": "adj. 赶时间／匆忙",
+      "start_cue": 29,
+      "end_cue": 30,
+      "start_time": "00:01:20,867",
+      "end_time": "00:01:24,769",
+      "quote": "Marco, settle down, okay? I'm in a rush. My brother's outside in a taxi. The meter's running.",
+      "selection_pass": 1
+    },
+    {
+      "word": "settle down",
+      "meaning": "v. 冷静／安静下来；与上一集安顿适应的 settle in 不同",
+      "start_cue": 29,
+      "end_cue": 30,
+      "start_time": "00:01:20,867",
+      "end_time": "00:01:24,769",
+      "quote": "Marco, settle down, okay? I'm in a rush. My brother's outside in a taxi. The meter's running.",
+      "selection_pass": 2
+    },
+    {
+      "word": "meter",
+      "meaning": "n. 出租车计价器",
+      "start_cue": 30,
+      "end_cue": 31,
+      "start_time": "00:01:22,635",
+      "end_time": "00:01:26,002",
+      "quote": "My brother's outside in a taxi. The meter's running. What... Chuck's outside?",
+      "selection_pass": 1
+    },
+    {
+      "word": "broomstick",
+      "meaning": "n. 扫帚柄；此处粗俗比喻人太拘谨",
+      "start_cue": 32,
+      "end_cue": 33,
+      "start_time": "00:01:26,036",
+      "end_time": "00:01:29,304",
+      "quote": "Tell him to pull that broomstick out of his ass and get in here. I'm buying.",
+      "selection_pass": 1
+    },
+    {
+      "word": "catch a plane",
+      "meaning": "v. 赶乘飞机",
+      "start_cue": 34,
+      "end_cue": 35,
+      "start_time": "00:01:29,338",
+      "end_time": "00:01:34,307",
+      "quote": "No. No, no, we got no time. We're catching a plane. I came here to say goodbye.",
+      "selection_pass": 2
+    },
+    {
+      "word": "skip bail",
+      "meaning": "v. 弃保潜逃／保释后逃跑（法律）",
+      "start_cue": 37,
+      "end_cue": 38,
+      "start_time": "00:01:36,845",
+      "end_time": "00:01:39,947",
+      "quote": "Mexico? You skipped bail? New Mexico...",
+      "selection_pass": 1
+    },
+    {
+      "word": "stool",
+      "meaning": "n. 高脚凳／吧凳",
+      "start_cue": 55,
+      "end_cue": 56,
+      "start_time": "00:02:15,925",
+      "end_time": "00:02:22,398",
+      "quote": "You want to spend the rest of your life on that stool? I mean, come on, Marco. Look at yourself.",
+      "selection_pass": 1
+    },
+    {
+      "word": "blowout",
+      "meaning": "n. 尽情放纵的一场狂欢（口语）；不是轮胎爆裂",
+      "start_cue": 62,
+      "end_cue": 66,
+      "start_time": "00:02:34,318",
+      "end_time": "00:02:43,962",
+      "quote": "Y... you got to have one last blowout. We'll do the watch thing again, but... but maybe we'll pull that, uh... That tar-money scam you were talking about, - get some girls... - I made a promise.",
+      "selection_pass": 1
+    },
+    {
+      "word": "scam",
+      "meaning": "n. 骗局（口语）",
+      "start_cue": 65,
+      "end_cue": 66,
+      "start_time": "00:02:39,991",
+      "end_time": "00:02:43,962",
+      "quote": "That tar-money scam you were talking about, - get some girls... - I made a promise.",
+      "selection_pass": 1
+    },
+    {
+      "word": "under duress",
+      "meaning": "adv. 在胁迫／压力之下（正式／法律）",
+      "start_cue": 68,
+      "end_cue": 70,
+      "start_time": "00:02:45,331",
+      "end_time": "00:02:52,965",
+      "quote": "W... Whaddyamacallit? Under duress. Look, he got you out of jail, okay? But he's your brother. I mean, what else is he gonna do?",
+      "selection_pass": 1
+    },
+    {
+      "word": "opportunity",
+      "meaning": "n. 机会",
+      "start_cue": 73,
+      "end_cue": 74,
+      "start_time": "00:02:56,668",
+      "end_time": "00:03:04,205",
+      "quote": "He's giving me an opportunity, and I'm grabbing it. Geez, it's like watching Miles Davis give up the trumpet.",
+      "selection_pass": 2
+    },
+    {
+      "word": "trumpet",
+      "meaning": "n. 小号（乐器）",
+      "start_cue": 74,
+      "end_cue": 75,
+      "start_time": "00:03:02,105",
+      "end_time": "00:03:07,941",
+      "quote": "Geez, it's like watching Miles Davis give up the trumpet. What? What does that even mean?",
+      "selection_pass": 1
+    },
+    {
+      "word": "waste",
+      "meaning": "n. 浪费；此处人才／本事被浪费",
+      "start_cue": 76,
+      "end_cue": 78,
+      "start_time": "00:03:07,975",
+      "end_time": "00:03:16,287",
+      "quote": "It's just a waste, is all I'm saying. All right, look. I'm gonna fly out there. I'm gonna get settled, and I'll call you. Yeah?",
+      "selection_pass": 2
+    },
+    {
+      "word": "flight",
+      "meaning": "n. 航班／飞行旅程",
+      "start_cue": 80,
+      "end_cue": 80,
+      "start_time": "00:03:18,157",
+      "end_time": "00:03:20,592",
+      "quote": "Hey, have a safe flight, all right?!",
+      "selection_pass": 2
+    },
+    {
+      "word": "outreach",
+      "meaning": "n. 主动联络／联系服务对象的工作",
+      "start_cue": 101,
+      "end_cue": 104,
+      "start_time": "00:05:16,337",
+      "end_time": "00:05:25,149",
+      "quote": "I figure your guys could do the outreach. If any of those geezers don't want to sign with you, just give me their names. I'll talk them into it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "proceeds",
+      "meaning": "n. 所得款项／收益（常用复数）",
+      "start_cue": 113,
+      "end_cue": 116,
+      "start_time": "00:05:51,515",
+      "end_time": "00:06:00,323",
+      "quote": "That and whatever the common-fund proceeds of sandpiper ultimately adds up to, you'll receive 20% of that... Should be a very nice payday for you when it comes.",
+      "selection_pass": 1
+    },
+    {
+      "word": "payday",
+      "meaning": "n. 收钱的日子／拿到一笔收益的机会",
+      "start_cue": 116,
+      "end_cue": 117,
+      "start_time": "00:05:57,688",
+      "end_time": "00:06:01,592",
+      "quote": "Should be a very nice payday for you when it comes. Yep.",
+      "selection_pass": 1
+    },
+    {
+      "word": "delivery",
+      "meaning": "n. 送货／送来的物品",
+      "start_cue": 120,
+      "end_cue": 122,
+      "start_time": "00:06:07,803",
+      "end_time": "00:06:13,777",
+      "quote": "I mean, he's doing better, but he still needs deliveries every day. I think he'd be more comfortable with someone else doing it.",
+      "selection_pass": 2
+    },
+    {
+      "word": "straightforward",
+      "meaning": "adj. 简单明确／容易处理的",
+      "start_cue": 126,
+      "end_cue": 127,
+      "start_time": "00:06:19,088",
+      "end_time": "00:06:23,794",
+      "quote": "It's pretty straightforward. The ice is a pain in the ass, but he needs it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "sneak",
+      "meaning": "v. 偷偷进入／悄悄做某事",
+      "start_cue": 128,
+      "end_cue": 129,
+      "start_time": "00:06:23,855",
+      "end_time": "00:06:30,388",
+      "quote": "I usually sneak into a motel and fill a garbage bag, but you can have whoever you hire just buy it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "motel / garbage bag",
+      "meaning": "n. 汽车旅馆／垃圾袋",
+      "start_cue": 128,
+      "end_cue": 129,
+      "start_time": "00:06:23,855",
+      "end_time": "00:06:30,388",
+      "quote": "I usually sneak into a motel and fill a garbage bag, but you can have whoever you hire just buy it.",
+      "selection_pass": 2
+    },
+    {
+      "word": "a must",
+      "meaning": "n. 必备之物／一定要有的东西",
+      "start_cue": 132,
+      "end_cue": 132,
+      "start_time": "00:06:35,161",
+      "end_time": "00:06:36,128",
+      "quote": "They're a must.",
+      "selection_pass": 1
+    },
+    {
+      "word": "newsstand",
+      "meaning": "n. 报刊摊／报亭",
+      "start_cue": 133,
+      "end_cue": 135,
+      "start_time": "00:06:36,162",
+      "end_time": "00:06:41,432",
+      "quote": "There's a newsstand on Eubank that has both of them at 6:00 A.M., which is good 'cause he's an early riser.",
+      "selection_pass": 1
+    },
+    {
+      "word": "early riser",
+      "meaning": "n. 早起的人",
+      "start_cue": 135,
+      "end_cue": 136,
+      "start_time": "00:06:39,297",
+      "end_time": "00:06:42,668",
+      "quote": "which is good 'cause he's an early riser. The Albuquerque Journal he gets delivered,",
+      "selection_pass": 1
+    },
+    {
+      "word": "scumbag",
+      "meaning": "n. 卑鄙的人／人渣（粗俗贬义）",
+      "start_cue": 154,
+      "end_cue": 155,
+      "start_time": "00:07:49,644",
+      "end_time": "00:07:53,580",
+      "quote": "He thinks I'm a scumbag. There's nothing I can do to change that.",
+      "selection_pass": 1
+    },
+    {
+      "word": "mature",
+      "meaning": "adj. 成熟的／处理事情沉稳的",
+      "start_cue": 157,
+      "end_cue": 158,
+      "start_time": "00:07:56,950",
+      "end_time": "00:08:02,218",
+      "quote": "Wow. That's mature. Dalai Lama's got nothing on me.",
+      "selection_pass": 1
+    },
+    {
+      "word": "navy",
+      "meaning": "n. 海军；此处电影名称中的词",
+      "start_cue": 163,
+      "end_cue": 165,
+      "start_time": "00:08:34,296",
+      "end_time": "00:08:46,736",
+      "quote": "Anybody else seen \"Hellcats of the Navy\"? All right. No winners yet? Okay, here's... B-2, just like the B-2 bomber,",
+      "selection_pass": 2
+    },
+    {
+      "word": "bomber / stealthy",
+      "meaning": "n./adj. 轰炸机／隐形难察觉的；此处隐形轰炸机",
+      "start_cue": 165,
+      "end_cue": 168,
+      "start_time": "00:08:40,767",
+      "end_time": "00:08:55,611",
+      "quote": "Okay, here's... B-2, just like the B-2 bomber, the stealth... There's probably one taking off over at Kirtland right now. We would never know because it's stealthy.",
+      "selection_pass": 1
+    },
+    {
+      "word": "betrayal / betray",
+      "meaning": "n./v. 背叛／出卖",
+      "start_cue": 180,
+      "end_cue": 183,
+      "start_time": "00:09:36,788",
+      "end_time": "00:09:49,465",
+      "quote": "\"Betrayal\"... Benedict Arnold betrayed The United States. Still no winners. No?",
+      "selection_pass": 1
+    },
+    {
+      "word": "tick sb. off",
+      "meaning": "v. 使某人生气（口语）",
+      "start_cue": 202,
+      "end_cue": 203,
+      "start_time": "00:10:51,847",
+      "end_time": "00:10:58,853",
+      "quote": "\"boy, this 'B' thing is really starting to tick me off.\" \"B\" as in \"battleship.\" \"B\" as in \"bourbon.\"",
+      "selection_pass": 1
+    },
+    {
+      "word": "battleship",
+      "meaning": "n. 战列舰",
+      "start_cue": 203,
+      "end_cue": 204,
+      "start_time": "00:10:56,217",
+      "end_time": "00:11:03,689",
+      "quote": "\"B\" as in \"battleship.\" \"B\" as in \"bourbon.\" \"B\" as in \"Belize\"... Beautiful place, so I've heard.",
+      "selection_pass": 1
+    },
+    {
+      "word": "godforsaken",
+      "meaning": "adj. 荒凉偏僻、糟糕透顶的（贬义）",
+      "start_cue": 207,
+      "end_cue": 208,
+      "start_time": "00:11:09,293",
+      "end_time": "00:11:19,231",
+      "quote": "None of us is ever leaving this godforsaken wasteland. Sorry.",
+      "selection_pass": 1
+    },
+    {
+      "word": "wasteland",
+      "meaning": "n. 荒地／荒凉地带",
+      "start_cue": 207,
+      "end_cue": 208,
+      "start_time": "00:11:09,293",
+      "end_time": "00:11:19,231",
+      "quote": "None of us is ever leaving this godforsaken wasteland. Sorry.",
+      "selection_pass": 1
+    },
+    {
+      "word": "scratch that",
+      "meaning": "v. 划掉刚才说的／收回刚才的话（口语）",
+      "start_cue": 209,
+      "end_cue": 210,
+      "start_time": "00:11:19,265",
+      "end_time": "00:11:27,343",
+      "quote": "Scratch that. Moving on. I mean, what is it with this place?",
+      "selection_pass": 1
+    },
+    {
+      "word": "soulless",
+      "meaning": "adj. 缺乏生气／冷漠无灵魂的",
+      "start_cue": 213,
+      "end_cue": 215,
+      "start_time": "00:11:31,813",
+      "end_time": "00:11:39,789",
+      "quote": "It's... it's like a soulless, radioactive Georgia O’Keeffe hellscape out there, crawling with coral snakes and scorpions and...",
+      "selection_pass": 1
+    },
+    {
+      "word": "radioactive",
+      "meaning": "adj. 有放射性的；此处夸张描绘荒漠",
+      "start_cue": 213,
+      "end_cue": 215,
+      "start_time": "00:11:31,813",
+      "end_time": "00:11:39,789",
+      "quote": "It's... it's like a soulless, radioactive Georgia O’Keeffe hellscape out there, crawling with coral snakes and scorpions and...",
+      "selection_pass": 1
+    },
+    {
+      "word": "hellscape",
+      "meaning": "n. 如地狱般的景象（贬义，形象用语）",
+      "start_cue": 214,
+      "end_cue": 215,
+      "start_time": "00:11:34,484",
+      "end_time": "00:11:39,789",
+      "quote": "radioactive Georgia O’Keeffe hellscape out there, crawling with coral snakes and scorpions and...",
+      "selection_pass": 1
+    },
+    {
+      "word": "coral snake / scorpion",
+      "meaning": "n. 珊瑚蛇／蝎子",
+      "start_cue": 215,
+      "end_cue": 216,
+      "start_time": "00:11:37,322",
+      "end_time": "00:11:42,292",
+      "quote": "crawling with coral snakes and scorpions and... You ever see the movie \"The Hills Have Eyes\"?",
+      "selection_pass": 1
+    },
+    {
+      "word": "documentary",
+      "meaning": "n. 纪录片；此处把恐怖片说成纪录片的夸张玩笑",
+      "start_cue": 217,
+      "end_cue": 218,
+      "start_time": "00:11:42,327",
+      "end_time": "00:11:46,131",
+      "quote": "It's a documentary! God forbid your car breaks down...",
+      "selection_pass": 1
+    },
+    {
+      "word": "melanoma",
+      "meaning": "n. 黑色素瘤（医学）；此处夸张说日晒危险",
+      "start_cue": 218,
+      "end_cue": 221,
+      "start_time": "00:11:43,829",
+      "end_time": "00:11:52,740",
+      "quote": "God forbid your car breaks down... You have to walk 10 steps. You got a melanoma the size of a pineapple where your head used to be.",
+      "selection_pass": 1
+    },
+    {
+      "word": "pineapple",
+      "meaning": "n. 菠萝；此处用大小作夸张比喻",
+      "start_cue": 220,
+      "end_cue": 221,
+      "start_time": "00:11:47,734",
+      "end_time": "00:11:52,740",
+      "quote": "You got a melanoma the size of a pineapple where your head used to be.",
+      "selection_pass": 1
+    },
+    {
+      "word": "wrong",
+      "meaning": "v. 不公正地对待／伤害；I was wronged 我受了欺负",
+      "start_cue": 242,
+      "end_cue": 242,
+      "start_time": "00:12:51,578",
+      "end_time": "00:12:55,380",
+      "quote": "Suffice it to say, I was wronged.",
+      "selection_pass": 1
+    },
+    {
+      "word": "double-park",
+      "meaning": "v. 把车并排停在已停车辆旁，挡住道路",
+      "start_cue": 247,
+      "end_cue": 248,
+      "start_time": "00:13:06,690",
+      "end_time": "00:13:11,994",
+      "quote": "He drove up, and he double-parked outside a dairy queen and went in to get some soft-serve.",
+      "selection_pass": 1
+    },
+    {
+      "word": "soft-serve",
+      "meaning": "n. 软冰淇淋／机器现挤冰淇淋",
+      "start_cue": 248,
+      "end_cue": 248,
+      "start_time": "00:13:09,026",
+      "end_time": "00:13:11,994",
+      "quote": "outside a dairy queen and went in to get some soft-serve.",
+      "selection_pass": 1
+    },
+    {
+      "word": "pearlescent",
+      "meaning": "adj. 有珍珠光泽的；此处汽车漆面",
+      "start_cue": 251,
+      "end_cue": 252,
+      "start_time": "00:13:17,534",
+      "end_time": "00:13:23,202",
+      "quote": "Drove a white pearlescent BMW 7 series with white leather interior.",
+      "selection_pass": 1
+    },
+    {
+      "word": "leather interior",
+      "meaning": "n. 皮革内饰；此处车厢座椅装饰",
+      "start_cue": 252,
+      "end_cue": 253,
+      "start_time": "00:13:21,037",
+      "end_time": "00:13:25,872",
+      "quote": "with white leather interior. So, I saw that thing,",
+      "selection_pass": 1
+    },
+    {
+      "word": "defecate",
+      "meaning": "v. 排便（正式／医学）",
+      "start_cue": 257,
+      "end_cue": 258,
+      "start_time": "00:13:37,588",
+      "end_time": "00:13:54,608",
+      "quote": "Defecated, uh, through the sunroof. Not my finest hour... I'll grant you that.",
+      "selection_pass": 1
+    },
+    {
+      "word": "sunroof",
+      "meaning": "n. 汽车天窗",
+      "start_cue": 257,
+      "end_cue": 259,
+      "start_time": "00:13:37,588",
+      "end_time": "00:13:57,111",
+      "quote": "Defecated, uh, through the sunroof. Not my finest hour... I'll grant you that. But that's what a Chicago sunroof is.",
+      "selection_pass": 1
+    },
+    {
+      "word": "grant sb. that",
+      "meaning": "v. 承认对方这一点；I'll grant you that 我承认这一点",
+      "start_cue": 258,
+      "end_cue": 258,
+      "start_time": "00:13:50,471",
+      "end_time": "00:13:54,608",
+      "quote": "Not my finest hour... I'll grant you that.",
+      "selection_pass": 1
+    },
+    {
+      "word": "tint",
+      "meaning": "n. 玻璃的深色着色；此处车窗遮光膜的色度",
+      "start_cue": 264,
+      "end_cue": 267,
+      "start_time": "00:14:12,471",
+      "end_time": "00:14:25,420",
+      "quote": "I did not know that his children were in the backseat. There was a level of tint on the windows that I'll maintain to this day was not legal in an Illinois-licensed vehicle.",
+      "selection_pass": 1
+    },
+    {
+      "word": "backseat",
+      "meaning": "n. 汽车后座",
+      "start_cue": 264,
+      "end_cue": 267,
+      "start_time": "00:14:12,471",
+      "end_time": "00:14:25,420",
+      "quote": "I did not know that his children were in the backseat. There was a level of tint on the windows that I'll maintain to this day was not legal in an Illinois-licensed vehicle.",
+      "selection_pass": 2
+    },
+    {
+      "word": "maintain",
+      "meaning": "v. 坚持某个说法；不是维修",
+      "start_cue": 266,
+      "end_cue": 268,
+      "start_time": "00:14:19,649",
+      "end_time": "00:14:28,590",
+      "quote": "that I'll maintain to this day was not legal in an Illinois-licensed vehicle. But somehow, that's on me, I guess.",
+      "selection_pass": 2
+    },
+    {
+      "word": "vehicle",
+      "meaning": "n. 车辆（较正式）",
+      "start_cue": 267,
+      "end_cue": 270,
+      "start_time": "00:14:21,485",
+      "end_time": "00:14:36,295",
+      "quote": "was not legal in an Illinois-licensed vehicle. But somehow, that's on me, I guess. Who leaves two cub scouts in a double-parked car with the engine running?!",
+      "selection_pass": 1
+    },
+    {
+      "word": "cub scout",
+      "meaning": "n. 幼童军成员（组织称谓）；此处车内的小孩",
+      "start_cue": 269,
+      "end_cue": 270,
+      "start_time": "00:14:30,157",
+      "end_time": "00:14:36,295",
+      "quote": "Who leaves two cub scouts in a double-parked car with the engine running?!",
+      "selection_pass": 1
+    },
+    {
+      "word": "connected",
+      "meaning": "adj. 有权势人脉／地方势力关系的（口语）；不同于上一集的毒贩团伙关系",
+      "start_cue": 272,
+      "end_cue": 273,
+      "start_time": "00:14:38,833",
+      "end_time": "00:14:44,104",
+      "quote": "Now, Chet was connected, see? Like, uh, Cicero connected.",
+      "selection_pass": 1
+    },
+    {
+      "word": "malicious mischief",
+      "meaning": "n. 恶意损坏财物等扰乱行为（美国法律名称）",
+      "start_cue": 274,
+      "end_cue": 275,
+      "start_time": "00:14:44,138",
+      "end_time": "00:14:49,611",
+      "quote": "So, usually, I'd be looking at malicious mischief, public intoxication, disorderly conduct, maybe,",
+      "selection_pass": 1
+    },
+    {
+      "word": "public intoxication",
+      "meaning": "n. 公共场所醉酒（法律）；intoxication 醉酒状态",
+      "start_cue": 275,
+      "end_cue": 276,
+      "start_time": "00:14:46,976",
+      "end_time": "00:14:54,783",
+      "quote": "public intoxication, disorderly conduct, maybe, but he's got the D.A. saying indecent exposure,",
+      "selection_pass": 1
+    },
+    {
+      "word": "disorderly conduct",
+      "meaning": "n. 扰乱公共秩序的行为（法律）",
+      "start_cue": 275,
+      "end_cue": 276,
+      "start_time": "00:14:46,976",
+      "end_time": "00:14:54,783",
+      "quote": "public intoxication, disorderly conduct, maybe, but he's got the D.A. saying indecent exposure,",
+      "selection_pass": 1
+    },
+    {
+      "word": "indecent exposure",
+      "meaning": "n. 公然猥亵暴露身体（法律）",
+      "start_cue": 276,
+      "end_cue": 277,
+      "start_time": "00:14:49,645",
+      "end_time": "00:14:57,251",
+      "quote": "but he's got the D.A. saying indecent exposure, calling me a sex offender. What?",
+      "selection_pass": 1
+    },
+    {
+      "word": "sex offender",
+      "meaning": "n. 性犯罪者／因性犯罪获定罪的人（法律）",
+      "start_cue": 277,
+      "end_cue": 278,
+      "start_time": "00:14:54,818",
+      "end_time": "00:15:02,593",
+      "quote": "calling me a sex offender. What? One little Chicago sunroof, and suddenly I'm Charles Manson?!",
+      "selection_pass": 1
+    },
+    {
+      "word": "off the rails",
+      "meaning": "adj./adv. 失控／偏离正常轨道（比喻）",
+      "start_cue": 279,
+      "end_cue": 280,
+      "start_time": "00:15:02,627",
+      "end_time": "00:15:08,266",
+      "quote": "And that's where it all went off the rails. I've been paying for it ever since.",
+      "selection_pass": 1
+    },
+    {
+      "word": "stepmom",
+      "meaning": "n. 继母（口语）；字幕 step-mom",
+      "start_cue": 291,
+      "end_cue": 292,
+      "start_time": "00:16:53,287",
+      "end_time": "00:16:56,756",
+      "quote": "She's my step-mom. She don't come in much anymore.",
+      "selection_pass": 1
+    },
+    {
+      "word": "hunk",
+      "meaning": "n. 健壮有吸引力的男子（口语）",
+      "start_cue": 297,
+      "end_cue": 298,
+      "start_time": "00:17:33,593",
+      "end_time": "00:17:41,165",
+      "quote": "You gorgeous hunk of a man... How long will you keep me waiting?",
+      "selection_pass": 1
+    },
+    {
+      "word": "pale",
+      "meaning": "adj. 苍白／肤色浅的",
+      "start_cue": 312,
+      "end_cue": 314,
+      "start_time": "00:18:18,238",
+      "end_time": "00:18:24,040",
+      "quote": "Speaking of pale sons of bitches, how's your brother doing? Chuck's fine.",
+      "selection_pass": 1
+    },
+    {
+      "word": "brother-in-law",
+      "meaning": "n. 姐妹的丈夫或配偶的兄弟；此处姐夫／妹夫",
+      "start_cue": 320,
+      "end_cue": 324,
+      "start_time": "00:18:40,059",
+      "end_time": "00:18:46,398",
+      "quote": "- What's that? - My brother-in-law owns the company. Wait. Hold it. You got married? No, no, no. My... my... My sister Angie's husband. Ah.",
+      "selection_pass": 1
+    },
+    {
+      "word": "standpipe",
+      "meaning": "n. 消防竖管／供消防接水的立管（工程）",
+      "start_cue": 325,
+      "end_cue": 334,
+      "start_time": "00:18:46,432",
+      "end_time": "00:19:06,521",
+      "quote": "So, what the hell's a standpipe? Standpipe... You know what a standpipe is. - I don't think so. - Fire department comes. They stick one end of the hose on the hydrant. The other end goes on the standpipe. The water goes out the standpipe, through the sprinklers, and then douses the flames. It's important stuff. So, that's what a standpipe is, huh? Well, it's a dry standpipe. There's also the wet standpipe.",
+      "selection_pass": 1
+    },
+    {
+      "word": "hose",
+      "meaning": "n. 软水管／消防水带",
+      "start_cue": 327,
+      "end_cue": 331,
+      "start_time": "00:18:49,768",
+      "end_time": "00:18:59,814",
+      "quote": "- I don't think so. - Fire department comes. They stick one end of the hose on the hydrant. The other end goes on the standpipe. The water goes out the standpipe, through the sprinklers, and then douses the flames.",
+      "selection_pass": 1
+    },
+    {
+      "word": "fire department",
+      "meaning": "n. 消防部门（美式）",
+      "start_cue": 327,
+      "end_cue": 329,
+      "start_time": "00:18:49,768",
+      "end_time": "00:18:55,677",
+      "quote": "- I don't think so. - Fire department comes. They stick one end of the hose on the hydrant. The other end goes on the standpipe.",
+      "selection_pass": 2
+    },
+    {
+      "word": "hydrant",
+      "meaning": "n. 消防栓",
+      "start_cue": 328,
+      "end_cue": 331,
+      "start_time": "00:18:52,442",
+      "end_time": "00:18:59,814",
+      "quote": "They stick one end of the hose on the hydrant. The other end goes on the standpipe. The water goes out the standpipe, through the sprinklers, and then douses the flames.",
+      "selection_pass": 1
+    },
+    {
+      "word": "sprinkler",
+      "meaning": "n. 自动喷淋装置；此处消防喷水系统",
+      "start_cue": 331,
+      "end_cue": 332,
+      "start_time": "00:18:57,211",
+      "end_time": "00:19:00,984",
+      "quote": "through the sprinklers, and then douses the flames. It's important stuff.",
+      "selection_pass": 1
+    },
+    {
+      "word": "douse",
+      "meaning": "v. 用水浇灭／扑灭火焰",
+      "start_cue": 331,
+      "end_cue": 332,
+      "start_time": "00:18:57,211",
+      "end_time": "00:19:00,984",
+      "quote": "through the sprinklers, and then douses the flames. It's important stuff.",
+      "selection_pass": 1
+    },
+    {
+      "word": "layman",
+      "meaning": "n. 外行／非专业人士",
+      "start_cue": 336,
+      "end_cue": 337,
+      "start_time": "00:19:08,392",
+      "end_time": "00:19:18,928",
+      "quote": "I don't know I-if I could explain it to a layman. Excuse me. How's your mom?",
+      "selection_pass": 1
+    },
+    {
+      "word": "pass away / funeral",
+      "meaning": "v./n. 去世（委婉语）／葬礼",
+      "start_cue": 338,
+      "end_cue": 341,
+      "start_time": "00:19:18,963",
+      "end_time": "00:19:31,574",
+      "quote": "Oh, she passed away about three years ago. Ah. That's too bad. She was a great lady. Yeah. From Wisconsin, right? - Yeah. - The funeral out there?",
+      "selection_pass": 1
+    },
+    {
+      "word": "bodywork",
+      "meaning": "n. 汽车车身修理",
+      "start_cue": 356,
+      "end_cue": 357,
+      "start_time": "00:20:25,364",
+      "end_time": "00:20:34,741",
+      "quote": "Little bodywork, paint job... Really be something. So, what you gonna do while you're here?",
+      "selection_pass": 1
+    },
+    {
+      "word": "bleachers",
+      "meaning": "n. 球场露天阶梯看台（美式）",
+      "start_cue": 359,
+      "end_cue": 361,
+      "start_time": "00:20:36,445",
+      "end_time": "00:20:43,083",
+      "quote": "See the sights, you know, catch a Cubbies game from the bleachers, get a hot dog at Henry's.",
+      "selection_pass": 1
+    },
+    {
+      "word": "regular",
+      "meaning": "n. 常客；此处酒吧顾客",
+      "start_cue": 368,
+      "end_cue": 369,
+      "start_time": "00:21:02,899",
+      "end_time": "00:21:06,237",
+      "quote": "Is he a regular? No.",
+      "selection_pass": 1
+    },
+    {
+      "word": "assassinate",
+      "meaning": "v. 暗杀／行刺；此处编造钱币故事中的总统遇刺",
+      "start_cue": 390,
+      "end_cue": 391,
+      "start_time": "00:22:15,237",
+      "end_time": "00:22:22,877",
+      "quote": "November 22, 1963... Kennedy is assassinated, right? The whole nation goes into mourning.",
+      "selection_pass": 1
+    },
+    {
+      "word": "mourning",
+      "meaning": "n. 哀悼／服丧",
+      "start_cue": 391,
+      "end_cue": 392,
+      "start_time": "00:22:20,579",
+      "end_time": "00:22:25,410",
+      "quote": "The whole nation goes into mourning. They start naming everything in sight after him.",
+      "selection_pass": 1
+    },
+    {
+      "word": "nation",
+      "meaning": "n. 国家／全体国民；此处全国哀悼",
+      "start_cue": 391,
+      "end_cue": 393,
+      "start_time": "00:22:20,579",
+      "end_time": "00:22:27,413",
+      "quote": "The whole nation goes into mourning. They start naming everything in sight after him. And the mint wants in on the act.",
+      "selection_pass": 2
+    },
+    {
+      "word": "mint",
+      "meaning": "n. 铸币厂；不是薄荷",
+      "start_cue": 393,
+      "end_cue": 395,
+      "start_time": "00:22:25,445",
+      "end_time": "00:22:32,351",
+      "quote": "And the mint wants in on the act. So, in '64, they decide to change the Lincoln half-dollar into the Kennedy half-dollar.",
+      "selection_pass": 1
+    },
+    {
+      "word": "design",
+      "meaning": "v. 设计；此处设计硬币",
+      "start_cue": 396,
+      "end_cue": 398,
+      "start_time": "00:22:32,385",
+      "end_time": "00:22:39,361",
+      "quote": "When they design it, they put Kennedy facing right, facing east, just the way they had Lincoln. - You know why? - Mnh-mnh.",
+      "selection_pass": 2
+    },
+    {
+      "word": "symbolize",
+      "meaning": "v. 象征",
+      "start_cue": 399,
+      "end_cue": 401,
+      "start_time": "00:22:39,395",
+      "end_time": "00:22:46,770",
+      "quote": "He symbolizes the dawn. It's why pretty much every grave everywhere faces east, you know? So the spirit of the dead person faces the rising sun.",
+      "selection_pass": 1
+    },
+    {
+      "word": "dawn",
+      "meaning": "n. 黎明；故事中硬币朝向的象征",
+      "start_cue": 399,
+      "end_cue": 401,
+      "start_time": "00:22:39,395",
+      "end_time": "00:22:46,770",
+      "quote": "He symbolizes the dawn. It's why pretty much every grave everywhere faces east, you know? So the spirit of the dead person faces the rising sun.",
+      "selection_pass": 1
+    },
+    {
+      "word": "grave / burial",
+      "meaning": "n. 墓穴／埋葬",
+      "start_cue": 400,
+      "end_cue": 402,
+      "start_time": "00:22:41,064",
+      "end_time": "00:22:49,103",
+      "quote": "It's why pretty much every grave everywhere faces east, you know? So the spirit of the dead person faces the rising sun. You know, it's a death thing. It's a burial thing.",
+      "selection_pass": 1
+    },
+    {
+      "word": "spirit",
+      "meaning": "n. 灵魂；此处关于死者的说法",
+      "start_cue": 401,
+      "end_cue": 402,
+      "start_time": "00:22:44,502",
+      "end_time": "00:22:49,103",
+      "quote": "So the spirit of the dead person faces the rising sun. You know, it's a death thing. It's a burial thing.",
+      "selection_pass": 2
+    },
+    {
+      "word": "technician",
+      "meaning": "n. 技术人员",
+      "start_cue": 403,
+      "end_cue": 406,
+      "start_time": "00:22:49,137",
+      "end_time": "00:22:58,977",
+      "quote": "But there's one technician in the Denver mint, right? And this guy... he believed in, uh, the new frontier... Camelot, the whole deal. So, the assassination just destroyed him.",
+      "selection_pass": 1
+    },
+    {
+      "word": "frontier",
+      "meaning": "n. 开拓地带／前沿；骗局故事借用“新边疆”理念",
+      "start_cue": 404,
+      "end_cue": 406,
+      "start_time": "00:22:51,471",
+      "end_time": "00:22:58,977",
+      "quote": "And this guy... he believed in, uh, the new frontier... Camelot, the whole deal. So, the assassination just destroyed him.",
+      "selection_pass": 1
+    },
+    {
+      "word": "go rogue",
+      "meaning": "v. 擅自行动／脱离组织约束（口语）",
+      "start_cue": 409,
+      "end_cue": 412,
+      "start_time": "00:23:04,687",
+      "end_time": "00:23:13,456",
+      "quote": "And so he went rogue. Without telling anybody, he flipped things around so that Kennedy was facing west, towards the new frontier, the future.",
+      "selection_pass": 1
+    },
+    {
+      "word": "flip around",
+      "meaning": "v. 翻转／改换方向",
+      "start_cue": 411,
+      "end_cue": 412,
+      "start_time": "00:23:08,021",
+      "end_time": "00:23:13,456",
+      "quote": "he flipped things around so that Kennedy was facing west, towards the new frontier, the future.",
+      "selection_pass": 2
+    },
+    {
+      "word": "strike",
+      "meaning": "v. 铸造硬币；原文 struck，不是罢工或打击",
+      "start_cue": 413,
+      "end_cue": 414,
+      "start_time": "00:23:13,490",
+      "end_time": "00:23:17,126",
+      "quote": "Now, the mint struck about 3,000 of these before they figured it out.",
+      "selection_pass": 1
+    },
+    {
+      "word": "can sb.",
+      "meaning": "v. 解雇某人（美式口语）；不是罐头",
+      "start_cue": 415,
+      "end_cue": 416,
+      "start_time": "00:23:17,160",
+      "end_time": "00:23:21,464",
+      "quote": "They canned the guy. About 1,000 of them made it out into general circulation.",
+      "selection_pass": 1
+    },
+    {
+      "word": "circulation",
+      "meaning": "n. 流通；此处硬币进入市面",
+      "start_cue": 416,
+      "end_cue": 420,
+      "start_time": "00:23:18,662",
+      "end_time": "00:23:29,641",
+      "quote": "About 1,000 of them made it out into general circulation. They managed to get most of them back, melt them down, but... There are still... 200-plus floating around out there.",
+      "selection_pass": 1
+    },
+    {
+      "word": "melt down",
+      "meaning": "v. 熔化；此处回收硬币后熔毁",
+      "start_cue": 418,
+      "end_cue": 420,
+      "start_time": "00:23:23,333",
+      "end_time": "00:23:29,641",
+      "quote": "melt them down, but... There are still... 200-plus floating around out there.",
+      "selection_pass": 1
+    },
+    {
+      "word": "open market",
+      "meaning": "n. 公开交易市场",
+      "start_cue": 425,
+      "end_cue": 427,
+      "start_time": "00:23:41,957",
+      "end_time": "00:23:50,268",
+      "quote": "This one's not in perfect condition, but on the open market, I'd say it's worth... 600 or 800 bucks.",
+      "selection_pass": 1
+    },
+    {
+      "word": "hard up",
+      "meaning": "adj. 缺钱／经济拮据（口语）",
+      "start_cue": 429,
+      "end_cue": 430,
+      "start_time": "00:23:51,636",
+      "end_time": "00:23:57,541",
+      "quote": "Yeah, but I'm hard up, so I'll take, uh, $100 for it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "drain the snake",
+      "meaning": "v. 小便（粗俗男性俚语，待核）",
+      "start_cue": 434,
+      "end_cue": 435,
+      "start_time": "00:24:10,053",
+      "end_time": "00:24:22,869",
+      "quote": "I'm gonna go drain the snake. Think about it. This guy's playing me, right?",
+      "selection_pass": 1,
+      "lexical_status": "pending",
+      "note": "排尿粗俗比喻的义项／使用地域待词典或一手语料核对。"
+    },
+    {
+      "word": "play sb.",
+      "meaning": "v. 欺骗／耍弄某人（口语）",
+      "start_cue": 435,
+      "end_cue": 437,
+      "start_time": "00:24:20,100",
+      "end_time": "00:24:26,174",
+      "quote": "This guy's playing me, right? Definitely. Slick son of a bitch.",
+      "selection_pass": 1
+    },
+    {
+      "word": "slick",
+      "meaning": "adj. 油滑、善于骗人或应付的（口语，贬义）",
+      "start_cue": 437,
+      "end_cue": 438,
+      "start_time": "00:24:23,905",
+      "end_time": "00:24:27,878",
+      "quote": "Slick son of a bitch. You know, I should...",
+      "selection_pass": 1
+    },
+    {
+      "word": "the can",
+      "meaning": "n. 监狱（美式俚语）",
+      "start_cue": 447,
+      "end_cue": 448,
+      "start_time": "00:24:52,968",
+      "end_time": "00:24:56,304",
+      "quote": "and get this scumbag thrown in the can. You're my witness, okay?",
+      "selection_pass": 1
+    },
+    {
+      "word": "cock-and-bull story",
+      "meaning": "n. 荒诞捏造的故事／胡说八道",
+      "start_cue": 457,
+      "end_cue": 460,
+      "start_time": "00:25:19,797",
+      "end_time": "00:25:29,105",
+      "quote": "spinning this cock-and-bull story about this, uh, 50-cent piece he's trying to sell me. He says, uh... Says Kennedy's supposed to be facing west or something.",
+      "selection_pass": 1
+    },
+    {
+      "word": "tone",
+      "meaning": "n. 电话报时的提示音",
+      "start_cue": 464,
+      "end_cue": 467,
+      "start_time": "00:25:42,481",
+      "end_time": "00:25:53,760",
+      "quote": "At the tone, the time will be 5:11 P.M. Yeah. That's what he said... Denver. Jesus. No kidding? - At the tone... - Well, listen, I got to go.",
+      "selection_pass": 1
+    },
+    {
+      "word": "take a bath",
+      "meaning": "v. 蒙受经济损失（口语）；不是洗澡",
+      "start_cue": 474,
+      "end_cue": 475,
+      "start_time": "00:26:12,148",
+      "end_time": "00:26:16,018",
+      "quote": "$50? I'm taking a bath at $100. All right. Okay.",
+      "selection_pass": 1
+    },
+    {
+      "word": "double-dealing",
+      "meaning": "adj. 两面欺骗／耍两面手段的",
+      "start_cue": 510,
+      "end_cue": 511,
+      "start_time": "00:27:17,277",
+      "end_time": "00:27:22,450",
+      "quote": "Do you hear me?! You double-dealing bastard! I got friends!",
+      "selection_pass": 1
+    },
+    {
+      "word": "round",
+      "meaning": "n. 一轮酒；next round 指下一轮给大家的酒",
+      "start_cue": 514,
+      "end_cue": 514,
+      "start_time": "00:27:31,292",
+      "end_time": "00:27:34,495",
+      "quote": "Hey, everybody, next round's on us!",
+      "selection_pass": 1
+    },
+    {
+      "word": "dictatorship",
+      "meaning": "n. 独裁政体",
+      "start_cue": 521,
+      "end_cue": 524,
+      "start_time": "00:27:56,687",
+      "end_time": "00:28:07,998",
+      "quote": "He's worth, conservatively, $400 million. The dictatorship of equatorial Uqbar Orbis is detaining him on trumped-up charges. Now, the Abbassi family... They're going crazy.",
+      "selection_pass": 1
+    },
+    {
+      "word": "detain",
+      "meaning": "v. 拘留／扣押某人",
+      "start_cue": 523,
+      "end_cue": 524,
+      "start_time": "00:28:03,694",
+      "end_time": "00:28:07,998",
+      "quote": "is detaining him on trumped-up charges. Now, the Abbassi family... They're going crazy.",
+      "selection_pass": 1
+    },
+    {
+      "word": "trumped-up",
+      "meaning": "adj. 捏造的；trumped-up charges 捏造的指控",
+      "start_cue": 523,
+      "end_cue": 524,
+      "start_time": "00:28:03,694",
+      "end_time": "00:28:07,998",
+      "quote": "is detaining him on trumped-up charges. Now, the Abbassi family... They're going crazy.",
+      "selection_pass": 1
+    },
+    {
+      "word": "reward",
+      "meaning": "v. 酬谢／奖赏；此处声称家族将给予报酬",
+      "start_cue": 525,
+      "end_cue": 527,
+      "start_time": "00:28:08,033",
+      "end_time": "00:28:14,970",
+      "quote": "They will reward whoever helps them get their boy back. The hitch is, the banks have frozen their... Assets... I'm talking Irish sweeps tickets,",
+      "selection_pass": 2
+    },
+    {
+      "word": "hitch",
+      "meaning": "n. 障碍／麻烦所在（口语）",
+      "start_cue": 526,
+      "end_cue": 529,
+      "start_time": "00:28:11,034",
+      "end_time": "00:28:20,307",
+      "quote": "The hitch is, the banks have frozen their... Assets... I'm talking Irish sweeps tickets, a whole trunk full of 'em. They're just sitting at O'Hare, impounded in customs.",
+      "selection_pass": 1
+    },
+    {
+      "word": "freeze assets",
+      "meaning": "v. 冻结资产（金融／法律）",
+      "start_cue": 526,
+      "end_cue": 529,
+      "start_time": "00:28:11,034",
+      "end_time": "00:28:20,307",
+      "quote": "The hitch is, the banks have frozen their... Assets... I'm talking Irish sweeps tickets, a whole trunk full of 'em. They're just sitting at O'Hare, impounded in customs.",
+      "selection_pass": 1
+    },
+    {
+      "word": "asset",
+      "meaning": "n. 资产；字幕资产冻结的骗局说辞",
+      "start_cue": 526,
+      "end_cue": 528,
+      "start_time": "00:28:11,034",
+      "end_time": "00:28:17,306",
+      "quote": "The hitch is, the banks have frozen their... Assets... I'm talking Irish sweeps tickets, a whole trunk full of 'em.",
+      "selection_pass": 2
+    },
+    {
+      "word": "sweeps ticket",
+      "meaning": "n. 抽奖彩票；sweeps 此处为 sweepstakes 的缩略说法，待核",
+      "start_cue": 527,
+      "end_cue": 529,
+      "start_time": "00:28:13,169",
+      "end_time": "00:28:20,307",
+      "quote": "Assets... I'm talking Irish sweeps tickets, a whole trunk full of 'em. They're just sitting at O'Hare, impounded in customs.",
+      "selection_pass": 1,
+      "lexical_status": "pending",
+      "note": "Irish sweeps tickets指哪种彩票以及缩略形式待核。"
+    },
+    {
+      "word": "impound",
+      "meaning": "v. 扣押／依法暂留；此处海关扣货",
+      "start_cue": 529,
+      "end_cue": 530,
+      "start_time": "00:28:17,340",
+      "end_time": "00:28:22,310",
+      "quote": "They're just sitting at O'Hare, impounded in customs. Now, I know what you're saying... \"So what?\"",
+      "selection_pass": 1
+    },
+    {
+      "word": "customs",
+      "meaning": "n. 海关；不是风俗",
+      "start_cue": 529,
+      "end_cue": 530,
+      "start_time": "00:28:17,340",
+      "end_time": "00:28:22,310",
+      "quote": "They're just sitting at O'Hare, impounded in customs. Now, I know what you're saying... \"So what?\"",
+      "selection_pass": 1
+    },
+    {
+      "word": "security",
+      "meaning": "n. 抵押物／担保；不是安全",
+      "start_cue": 531,
+      "end_cue": 532,
+      "start_time": "00:28:22,344",
+      "end_time": "00:28:27,816",
+      "quote": "I can leave this as security, but you got to understand... This violin is my livelihood. It's a valuable antique.",
+      "selection_pass": 1
+    },
+    {
+      "word": "livelihood",
+      "meaning": "n. 生计／谋生手段",
+      "start_cue": 532,
+      "end_cue": 536,
+      "start_time": "00:28:25,181",
+      "end_time": "00:28:35,657",
+      "quote": "This violin is my livelihood. It's a valuable antique. What do you mean it doesn't belong to you? I'll pay you 900 bucks for this... cash on the barrel. I don't know. I hate to part with it. It's been in my family for years.",
+      "selection_pass": 1
+    },
+    {
+      "word": "antique",
+      "meaning": "n. 古董",
+      "start_cue": 532,
+      "end_cue": 536,
+      "start_time": "00:28:25,181",
+      "end_time": "00:28:35,657",
+      "quote": "This violin is my livelihood. It's a valuable antique. What do you mean it doesn't belong to you? I'll pay you 900 bucks for this... cash on the barrel. I don't know. I hate to part with it. It's been in my family for years.",
+      "selection_pass": 1
+    },
+    {
+      "word": "cash on the barrel",
+      "meaning": "n. 现钱付款（原字幕表达，可能省略 barrelhead，待核）",
+      "start_cue": 534,
+      "end_cue": 536,
+      "start_time": "00:28:29,853",
+      "end_time": "00:28:35,657",
+      "quote": "I'll pay you 900 bucks for this... cash on the barrel. I don't know. I hate to part with it. It's been in my family for years.",
+      "selection_pass": 1,
+      "lexical_status": "pending",
+      "note": "字幕可能漏barrelhead；未听校，保留现有字符串。"
+    },
+    {
+      "word": "part with",
+      "meaning": "v. 舍弃／交出自己珍惜的东西",
+      "start_cue": 535,
+      "end_cue": 536,
+      "start_time": "00:28:32,521",
+      "end_time": "00:28:35,657",
+      "quote": "I don't know. I hate to part with it. It's been in my family for years.",
+      "selection_pass": 1
+    },
+    {
+      "word": "front",
+      "meaning": "n. 门面／伪装身份；此处骗术的可信表面",
+      "start_cue": 539,
+      "end_cue": 540,
+      "start_time": "00:28:37,829",
+      "end_time": "00:28:41,632",
+      "quote": "But the point is, you need a good front, so you're gonna have the most return on your dollars.",
+      "selection_pass": 1
+    },
+    {
+      "word": "return",
+      "meaning": "n. 投资回报；不是返回",
+      "start_cue": 540,
+      "end_cue": 544,
+      "start_time": "00:28:39,663",
+      "end_time": "00:28:48,442",
+      "quote": "so you're gonna have the most return on your dollars. But I know this customs officer... That money, then make it an investment. If the price is right. And I'm all about investments, all about what's coming next.",
+      "selection_pass": 1
+    },
+    {
+      "word": "strictly",
+      "meaning": "adv. 严格说来／完全地；此处承认并非合法",
+      "start_cue": 549,
+      "end_cue": 550,
+      "start_time": "00:28:55,724",
+      "end_time": "00:28:59,861",
+      "quote": "Now, none of this was strictly legal, and the import taxes would have been a killer... have at it.",
+      "selection_pass": 2
+    },
+    {
+      "word": "import tax",
+      "meaning": "n. 进口税",
+      "start_cue": 550,
+      "end_cue": 552,
+      "start_time": "00:28:57,892",
+      "end_time": "00:29:04,134",
+      "quote": "and the import taxes would have been a killer... have at it. So he had to find a way to get the money into the country without anyone knowing about it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "a killer",
+      "meaning": "n. 难以承受的负担（口语）；此处高额进口税",
+      "start_cue": 550,
+      "end_cue": 550,
+      "start_time": "00:28:57,892",
+      "end_time": "00:28:59,861",
+      "quote": "and the import taxes would have been a killer... have at it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "coat",
+      "meaning": "v. 涂覆／在表面覆盖；此处给钞票涂黑",
+      "start_cue": 553,
+      "end_cue": 555,
+      "start_time": "00:29:04,168",
+      "end_time": "00:29:10,807",
+      "quote": "He coated the cash with this black stuff... Vectrol paste. And the only way to get it off is with a special chemical.",
+      "selection_pass": 1
+    },
+    {
+      "word": "paste",
+      "meaning": "n. 糊状物／膏剂",
+      "start_cue": 554,
+      "end_cue": 555,
+      "start_time": "00:29:06,171",
+      "end_time": "00:29:10,807",
+      "quote": "Vectrol paste. And the only way to get it off is with a special chemical.",
+      "selection_pass": 1
+    },
+    {
+      "word": "chemical",
+      "meaning": "n. 化学品",
+      "start_cue": 555,
+      "end_cue": 557,
+      "start_time": "00:29:07,539",
+      "end_time": "00:29:14,809",
+      "quote": "And the only way to get it off is with a special chemical. It's not cheap, but the upside? The upside is huge.",
+      "selection_pass": 1
+    },
+    {
+      "word": "upside",
+      "meaning": "n. 有利一面／潜在收益（商业口语）",
+      "start_cue": 556,
+      "end_cue": 557,
+      "start_time": "00:29:10,841",
+      "end_time": "00:29:14,809",
+      "quote": "It's not cheap, but the upside? The upside is huge.",
+      "selection_pass": 1
+    },
+    {
+      "word": "throw money around",
+      "meaning": "v. 大手大脚花钱／随意花钱",
+      "start_cue": 561,
+      "end_cue": 562,
+      "start_time": "00:29:22,280",
+      "end_time": "00:29:25,918",
+      "quote": "who's got some money to throw around... Now, I know what you're saying... \"Who cares?\"",
+      "selection_pass": 1
+    },
+    {
+      "word": "gambling",
+      "meaning": "n. 赌博",
+      "start_cue": 563,
+      "end_cue": 565,
+      "start_time": "00:29:25,952",
+      "end_time": "00:29:31,589",
+      "quote": "No matter which one wins, we're gonna get a piece. He's got a gambling problem. Nobody can ever come after you, but you get the profit.",
+      "selection_pass": 2
+    },
+    {
+      "word": "win-win / lose-lose",
+      "meaning": "adj./n. 双方获益的局面／双方受损的局面",
+      "start_cue": 566,
+      "end_cue": 567,
+      "start_time": "00:29:31,623",
+      "end_time": "00:29:35,759",
+      "quote": "- The price is right. - It's a win-win for you. It's a lose-lose for everybody else.",
+      "selection_pass": 1
+    },
+    {
+      "word": "mountain range",
+      "meaning": "n. 山脉",
+      "start_cue": 572,
+      "end_cue": 573,
+      "start_time": "00:29:43,636",
+      "end_time": "00:29:48,840",
+      "quote": "But you're gonna own a full mountain range, guaranteed. Can you keep...",
+      "selection_pass": 1
+    },
+    {
+      "word": "dump",
+      "meaning": "n. 破地方／脏乱寒酸的住处（口语，贬义）",
+      "start_cue": 591,
+      "end_cue": 595,
+      "start_time": "00:30:43,872",
+      "end_time": "00:30:56,020",
+      "quote": "Come on. Get the hell out of this dump. So, are you sure he's not a manager? Yes, Luci, I am sure. But he said he was gonna give me his card. Does this look like a manager's place?",
+      "selection_pass": 1
+    },
+    {
+      "word": "mimosa",
+      "meaning": "n. 香槟与橙汁调成的鸡尾酒",
+      "start_cue": 596,
+      "end_cue": 598,
+      "start_time": "00:30:56,054",
+      "end_time": "00:31:01,559",
+      "quote": "- Maybe. - Can I interest you ladies in some mimosas? At least stick around long enough to get dressed.",
+      "selection_pass": 1
+    },
+    {
+      "word": "stick",
+      "meaning": "v. 卡住／难以移动；此处门打不开",
+      "start_cue": 604,
+      "end_cue": 605,
+      "start_time": "00:31:11,406",
+      "end_time": "00:31:14,745",
+      "quote": "That door sticks. Yeah, okay. I got it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "hospitality",
+      "meaning": "n. 热情款待／好客",
+      "start_cue": 623,
+      "end_cue": 625,
+      "start_time": "00:32:51,613",
+      "end_time": "00:33:00,418",
+      "quote": "Uh, it's be great, and I appreciate your hospitality, but a week's gonna have to do it. I got to go home.",
+      "selection_pass": 1
+    },
+    {
+      "word": "call in sick",
+      "meaning": "v. 打电话请病假",
+      "start_cue": 626,
+      "end_cue": 628,
+      "start_time": "00:33:00,452",
+      "end_time": "00:33:08,595",
+      "quote": "I already called in sick. Come on, man. This is home. Y-you hate it out there.",
+      "selection_pass": 1
+    },
+    {
+      "word": "elder law",
+      "meaning": "n. 涉及老年人权益的法律业务领域",
+      "start_cue": 637,
+      "end_cue": 640,
+      "start_time": "00:33:29,648",
+      "end_time": "00:33:38,754",
+      "quote": "I do elder law, which is like wills and estates. So you're ripping off old people? No, I'm not ripping off old people. I'm not ripping off anybody.",
+      "selection_pass": 1
+    },
+    {
+      "word": "estate",
+      "meaning": "n. 遗产／死者留下的财产；此处遗嘱与继承事务",
+      "start_cue": 637,
+      "end_cue": 640,
+      "start_time": "00:33:29,648",
+      "end_time": "00:33:38,754",
+      "quote": "I do elder law, which is like wills and estates. So you're ripping off old people? No, I'm not ripping off old people. I'm not ripping off anybody.",
+      "selection_pass": 1
+    },
+    {
+      "word": "make bank",
+      "meaning": "v. 赚大钱（美式俚语）",
+      "start_cue": 644,
+      "end_cue": 650,
+      "start_time": "00:33:47,757",
+      "end_time": "00:34:00,303",
+      "quote": "driving around town in a white caddy, making bank. I'm not making bank. I'm making a living, more or less. A living? All due respect, you're a lawyer and you're not making bank, you're doing it wrong.",
+      "selection_pass": 1
+    },
+    {
+      "word": "make a living",
+      "meaning": "v. 维持生计／靠工作生活",
+      "start_cue": 644,
+      "end_cue": 646,
+      "start_time": "00:33:47,757",
+      "end_time": "00:33:54,259",
+      "quote": "driving around town in a white caddy, making bank. I'm not making bank. I'm making a living, more or less.",
+      "selection_pass": 2
+    },
+    {
+      "word": "assure",
+      "meaning": "v. 使人确信／向人保证",
+      "start_cue": 653,
+      "end_cue": 654,
+      "start_time": "00:34:04,340",
+      "end_time": "00:34:09,811",
+      "quote": "I mean, lawyers in Chicago make plenty... I assure you. Yeah, I don't know what to tell you, Marco. I...",
+      "selection_pass": 2
+    },
+    {
+      "word": "stuck-up",
+      "meaning": "adj. 自高自大／瞧不起人的（口语，贬义）",
+      "start_cue": 656,
+      "end_cue": 657,
+      "start_time": "00:34:11,513",
+      "end_time": "00:34:18,951",
+      "quote": "Again, all due respect... Chuck's a stuck-up douchebag. I hate to break it to you, but he doesn't even like you.",
+      "selection_pass": 1
+    },
+    {
+      "word": "deport",
+      "meaning": "v. 将外籍人士驱逐出境",
+      "start_cue": 665,
+      "end_cue": 666,
+      "start_time": "00:34:46,483",
+      "end_time": "00:34:53,484",
+      "quote": "Jin Kang? He got deported. This is the last one. I say we go for it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "hot streak",
+      "meaning": "n. 连续成功／好运连连的一段时期（口语）",
+      "start_cue": 669,
+      "end_cue": 670,
+      "start_time": "00:34:56,655",
+      "end_time": "00:35:01,590",
+      "quote": "The hot streak we're on, I bet we break a grand, easy. I could lend you some cash.",
+      "selection_pass": 1
+    },
+    {
+      "word": "cut it",
+      "meaning": "v. 达到需要／让人满意（口语）；此处工作满足不了他",
+      "start_cue": 677,
+      "end_cue": 679,
+      "start_time": "00:35:11,030",
+      "end_time": "00:35:20,068",
+      "quote": "Standpipes ain't cutting it for me, man. I got nothing, Jimmy. Give me this.",
+      "selection_pass": 1
+    },
+    {
+      "word": "hypnotize",
+      "meaning": "v. 催眠",
+      "start_cue": 687,
+      "end_cue": 688,
+      "start_time": "00:35:31,679",
+      "end_time": "00:35:34,815",
+      "quote": "Come on. I'm not being hypnotized. No? Okay. Come on, one more time.",
+      "selection_pass": 1
+    },
+    {
+      "word": "gut",
+      "meaning": "n. 内心／本能深处；此处发声要出自肺腑",
+      "start_cue": 694,
+      "end_cue": 695,
+      "start_time": "00:36:50,004",
+      "end_time": "00:36:52,473",
+      "quote": "It's got to come from the gut, man. Yeah. Yeah.",
+      "selection_pass": 1
+    },
+    {
+      "word": "escalate",
+      "meaning": "v. 升高／使加剧；此处放大快乐程度",
+      "start_cue": 701,
+      "end_cue": 704,
+      "start_time": "00:37:06,288",
+      "end_time": "00:37:14,797",
+      "quote": "Yeah... And it will escalate it 10... 10 times. - There's something... - Hey. - It's prehistoric. - Hey, hey. Look.",
+      "selection_pass": 1
+    },
+    {
+      "word": "prehistoric",
+      "meaning": "adj. 史前的／原始的；此处形容本能吼声",
+      "start_cue": 704,
+      "end_cue": 705,
+      "start_time": "00:37:12,631",
+      "end_time": "00:37:27,751",
+      "quote": "- It's prehistoric. - Hey, hey. Look. $50, $200, $400.",
+      "selection_pass": 1
+    },
+    {
+      "word": "split",
+      "meaning": "v. 分给各人／分掉；此处分找到的钱",
+      "start_cue": 715,
+      "end_cue": 716,
+      "start_time": "00:38:33,591",
+      "end_time": "00:38:40,230",
+      "quote": "I say we move on. You want to split this? Marco, you okay?",
+      "selection_pass": 1
+    },
+    {
+      "word": "ambulance",
+      "meaning": "n. 救护车",
+      "start_cue": 722,
+      "end_cue": 723,
+      "start_time": "00:38:58,754",
+      "end_time": "00:39:01,723",
+      "quote": "I need an ambulance. My friend's having a heart attack.",
+      "selection_pass": 2
+    },
+    {
+      "word": "heart attack",
+      "meaning": "n. 心脏病发作",
+      "start_cue": 723,
+      "end_cue": 727,
+      "start_time": "00:39:00,088",
+      "end_time": "00:39:08,798",
+      "quote": "My friend's having a heart attack. We're in an alley, uh, southeast of Lasalle and Shermer. No, I-i don't know. He was like this when I found him.",
+      "selection_pass": 1
+    },
+    {
+      "word": "alley",
+      "meaning": "n. 小巷／后巷",
+      "start_cue": 724,
+      "end_cue": 725,
+      "start_time": "00:39:01,757",
+      "end_time": "00:39:05,629",
+      "quote": "We're in an alley, uh, southeast of Lasalle and Shermer.",
+      "selection_pass": 1
+    },
+    {
+      "word": "southeast",
+      "meaning": "n./adv. 东南方／在东南方",
+      "start_cue": 725,
+      "end_cue": 727,
+      "start_time": "00:39:03,762",
+      "end_time": "00:39:08,798",
+      "quote": "uh, southeast of Lasalle and Shermer. No, I-i don't know. He was like this when I found him.",
+      "selection_pass": 2
+    },
+    {
+      "word": "bum",
+      "meaning": "v. 向别人讨一根烟等小物（口语）",
+      "start_cue": 748,
+      "end_cue": 750,
+      "start_time": "00:40:12,100",
+      "end_time": "00:40:30,225",
+      "quote": "Can I bum one? Is that his? Yeah. His mom gave it to me.",
+      "selection_pass": 1
+    },
+    {
+      "word": "contingent on",
+      "meaning": "adj. 以某事为条件／取决于",
+      "start_cue": 773,
+      "end_cue": 776,
+      "start_time": "00:42:01,455",
+      "end_time": "00:42:08,924",
+      "quote": "They want to make you an offer contingent on an interview. They've got a partner-track position in mind. Wait. What? Partner track? What are you talking about?",
+      "selection_pass": 1
+    },
+    {
+      "word": "interview / position",
+      "meaning": "n. 求职面试／职位",
+      "start_cue": 773,
+      "end_cue": 774,
+      "start_time": "00:42:01,455",
+      "end_time": "00:42:05,253",
+      "quote": "They want to make you an offer contingent on an interview. They've got a partner-track position in mind.",
+      "selection_pass": 2
+    },
+    {
+      "word": "partner-track",
+      "meaning": "adj. 有望晋升合伙人的；此处律所职位路线",
+      "start_cue": 774,
+      "end_cue": 776,
+      "start_time": "00:42:03,621",
+      "end_time": "00:42:08,924",
+      "quote": "They've got a partner-track position in mind. Wait. What? Partner track? What are you talking about?",
+      "selection_pass": 1
+    },
+    {
+      "word": "tax write-off",
+      "meaning": "n. 可用于抵扣应税收入的费用项目（税务）",
+      "start_cue": 787,
+      "end_cue": 788,
+      "start_time": "00:42:32,712",
+      "end_time": "00:42:36,280",
+      "quote": "Is this like a tax write-off or a charity thing? What's the angle, huh?",
+      "selection_pass": 1
+    },
+    {
+      "word": "charity",
+      "meaning": "n. 慈善帮助；此处怀疑职位是施舍",
+      "start_cue": 787,
+      "end_cue": 788,
+      "start_time": "00:42:32,712",
+      "end_time": "00:42:36,280",
+      "quote": "Is this like a tax write-off or a charity thing? What's the angle, huh?",
+      "selection_pass": 1
+    },
+    {
+      "word": "angle",
+      "meaning": "n. 隐藏意图／盘算（口语）；不是几何角度",
+      "start_cue": 788,
+      "end_cue": 789,
+      "start_time": "00:42:34,881",
+      "end_time": "00:42:38,950",
+      "quote": "What's the angle, huh? Jimmy, we've been talking to your clients,",
+      "selection_pass": 1
+    },
+    {
+      "word": "file",
+      "meaning": "v. 把文件归档；此处 copy and file",
+      "start_cue": 807,
+      "end_cue": 810,
+      "start_time": "00:43:32,946",
+      "end_time": "00:43:42,594",
+      "quote": "All the originals need to be copied and filed. See, I've written right here on the box... \"Copy and file.\" That's to make it as clear as possible. Got it, Mr. Mcgill. Anything else?",
+      "selection_pass": 1
+    },
+    {
+      "word": "front / on the grocery front",
+      "meaning": "n. 某方面／某领域；on the grocery front 在买日用品这方面，新义项",
+      "start_cue": 811,
+      "end_cue": 814,
+      "start_time": "00:43:42,629",
+      "end_time": "00:43:50,071",
+      "quote": "Well, on the grocery front, almost everything was right this time. - Great. - Almost. Um, it's a small thing, but to my taste,",
+      "selection_pass": 1,
+      "note": "与cue539 front门面／伪装为不同义项，保留。"
+    },
+    {
+      "word": "grocery",
+      "meaning": "n. 食品杂货／日用采购；此处购物事项",
+      "start_cue": 811,
+      "end_cue": 812,
+      "start_time": "00:43:42,629",
+      "end_time": "00:43:45,764",
+      "quote": "Well, on the grocery front, almost everything was right this time.",
+      "selection_pass": 2
+    },
+    {
+      "word": "tart",
+      "meaning": "adj. 酸的／酸味明显的；此处苹果味道",
+      "start_cue": 815,
+      "end_cue": 818,
+      "start_time": "00:43:50,106",
+      "end_time": "00:43:58,948",
+      "quote": "the, uh, Granny Smith apples are a bit too tart. - Those are the green ones, right? - Right. I prefer the red ones, but not red delicious. Those are generally tasteless.",
+      "selection_pass": 1
+    },
+    {
+      "word": "tasteless",
+      "meaning": "adj. 没味道的；此处水果",
+      "start_cue": 818,
+      "end_cue": 819,
+      "start_time": "00:43:57,114",
+      "end_time": "00:44:00,582",
+      "quote": "Those are generally tasteless. Fujis should be in season.",
+      "selection_pass": 1
+    },
+    {
+      "word": "in season",
+      "meaning": "adj. 当季的／正值产季",
+      "start_cue": 819,
+      "end_cue": 821,
+      "start_time": "00:43:58,982",
+      "end_time": "00:44:04,723",
+      "quote": "Fujis should be in season. It's not a major issue, but... - Yeah. - Fuji apples.",
+      "selection_pass": 1
+    },
+    {
+      "word": "soy milk",
+      "meaning": "n. 豆奶",
+      "start_cue": 823,
+      "end_cue": 825,
+      "start_time": "00:44:05,758",
+      "end_time": "00:44:11,127",
+      "quote": "Oh, and I'd like to try soy milk, so maybe a half gallon of that. You got it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "gallon",
+      "meaning": "n. 加仑（容量单位，美式）；此处买半加仑豆奶",
+      "start_cue": 824,
+      "end_cue": 825,
+      "start_time": "00:44:07,756",
+      "end_time": "00:44:11,127",
+      "quote": "so maybe a half gallon of that. You got it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "attention to detail",
+      "meaning": "n. 对细节的留意／认真处理",
+      "start_cue": 827,
+      "end_cue": 830,
+      "start_time": "00:44:12,663",
+      "end_time": "00:44:23,668",
+      "quote": "I appreciate your attention to detail. Do you need to write any of this down? 'Cause it's okay if you do. You know, just to be sure.",
+      "selection_pass": 1
+    },
+    {
+      "word": "retina",
+      "meaning": "n. 视网膜；此处夸张说现金画面印在眼底",
+      "start_cue": 857,
+      "end_cue": 858,
+      "start_time": "00:47:17,598",
+      "end_time": "00:47:23,467",
+      "quote": "It's burned into my retinas like I was staring into the sun. No one on God's green earth knew we had it.",
+      "selection_pass": 1
+    },
+    {
+      "word": "tax-free",
+      "meaning": "adj./adv. 免税的／不用缴税的；此处角色想象分赃所得",
+      "start_cue": 859,
+      "end_cue": 861,
+      "start_time": "00:47:23,502",
+      "end_time": "00:47:33,644",
+      "quote": "We could have split it 50/50. We could have gone home with $800,000 each, tax-free. Your point being?",
+      "selection_pass": 1
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "word": "geezer",
+      "cue": 102,
+      "reason": "同词同义，无独立的新接法；已收于 E08 cue 769",
+      "quote": "If any of those geezers don't want to sign with you,",
+      "start_time": "00:05:19,173",
+      "end_time": "00:05:21,176"
+    },
+    {
+      "word": "of-counsel fee",
+      "cue": 112,
+      "reason": "同词同义，无独立的新接法；已收于 E09 cue 272",
+      "quote": "The of-counsel fee... I think we discussed $20,000.",
+      "start_time": "00:05:46,173",
+      "end_time": "00:05:51,481"
+    },
+    {
+      "word": "common fund",
+      "cue": 113,
+      "reason": "同词同义，无独立的新接法；已收于 E09 cue 267",
+      "quote": "That and whatever the common-fund proceeds",
+      "start_time": "00:05:51,515",
+      "end_time": "00:05:53,983"
+    },
+    {
+      "word": "bourbon",
+      "cue": 203,
+      "reason": "同词同义，无独立的新接法；已收于 E09 cue 419",
+      "quote": "\"B\" as in \"battleship.\" \"B\" as in \"bourbon.\"",
+      "start_time": "00:10:56,217",
+      "end_time": "00:10:58,853"
+    },
+    {
+      "word": "gigolo",
+      "cue": 632,
+      "reason": "同词同义，无独立的新接法；已收于 E08 cue 282",
+      "quote": "What... what are you... Like a gigolo or something?",
+      "start_time": "00:33:14,937",
+      "end_time": "00:33:20,074"
+    },
+    {
+      "word": "grand",
+      "cue": 669,
+      "reason": "同词同义，无独立的新接法；已收于 E01 buck / grand",
+      "quote": "The hot streak we're on, I bet we break a grand, easy.",
+      "start_time": "00:34:56,655",
+      "end_time": "00:34:59,356"
+    },
+    {
+      "word": "will",
+      "cue": 637,
+      "reason": "同词同义，无独立的新接法；已收于 E08 cue 145",
+      "quote": "I do elder law, which is like wills and estates.",
+      "start_time": "00:33:29,648",
+      "end_time": "00:33:32,948"
+    },
+    {
+      "word": "scumbag",
+      "cue": 447,
+      "reason": "同词同义，无独立的新接法；已收于 E10 cue 154",
+      "quote": "and get this scumbag thrown in the can.",
+      "start_time": "00:24:52,968",
+      "end_time": "00:24:55,070"
+    },
+    {
+      "word": "scam",
+      "cue": 445,
+      "reason": "同词同义，无独立的新接法；已收于 E10 cue 65",
+      "quote": "I'm gonna call this guy, and when he tells me this is a scam,",
+      "start_time": "00:24:46,795",
+      "end_time": "00:24:50,095"
+    },
+    {
+      "word": "profit",
+      "cue": 565,
+      "reason": "同词同义，无独立的新接法；已收于 E09 cue 409",
+      "quote": "Nobody can ever come after you, but you get the profit.",
+      "start_time": "00:29:29,455",
+      "end_time": "00:29:31,589"
+    },
+    {
+      "word": "split",
+      "cue": 859,
+      "reason": "同词同义，无独立的新接法；已收于 E10 cue 715",
+      "quote": "We could have split it 50/50.",
+      "start_time": "00:47:23,502",
+      "end_time": "00:47:25,137"
+    },
+    {
+      "word": "assisted living",
+      "cue": 616,
+      "reason": "同词同义，无独立的新接法；已收于 E08 cue 238",
+      "quote": "She's in assisted living, and...",
+      "start_time": "00:32:31,228",
+      "end_time": "00:32:32,531"
+    }
+  ],
+  "pending": [
+    {
+      "word": "drain the snake",
+      "reason": "排尿粗俗比喻的义项／使用地域待词典或一手语料核对。"
+    },
+    {
+      "word": "sweeps ticket",
+      "reason": "Irish sweeps tickets指哪种彩票以及缩略形式待核。"
+    },
+    {
+      "word": "cash on the barrel",
+      "reason": "字幕可能漏barrelhead；未听校，保留现有字符串。"
+    },
+    {
+      "word": "Kennedy coin story",
+      "reason": "人物行骗故事中的朝向、铸币数量及历史说法未查证，不把对白叙述当成历史知识。"
+    }
+  ],
+  "lexical_checks": [],
+  "vocabulary_coverage": {
+    "first_pass_count": 150,
+    "second_pass_added_count": 25,
+    "second_pass": "Reconsidered ordinary content words in all previously displayed batches; additionally fetched and read the following exact context ranges.",
+    "second_pass_context_reread": [
+      [
+        29,
+        34
+      ],
+      [
+        65,
+        80
+      ],
+      [
+        120,
+        142
+      ],
+      [
+        163,
+        168
+      ],
+      [
+        242,
+        248
+      ],
+      [
+        264,
+        277
+      ],
+      [
+        327,
+        341
+      ],
+      [
+        391,
+        414
+      ],
+      [
+        520,
+        529
+      ],
+      [
+        549,
+        565
+      ],
+      [
+        623,
+        626
+      ],
+      [
+        637,
+        657
+      ],
+      [
+        713,
+        726
+      ],
+      [
+        773,
+        797
+      ],
+      [
+        811,
+        827
+      ]
+    ],
+    "second_pass_added": [
+      "settle down",
+      "catch a plane",
+      "opportunity",
+      "waste",
+      "flight",
+      "delivery",
+      "motel / garbage bag",
+      "navy",
+      "backseat",
+      "maintain",
+      "fire department",
+      "nation",
+      "design",
+      "spirit",
+      "flip around",
+      "reward",
+      "asset",
+      "strictly",
+      "gambling",
+      "make a living",
+      "assure",
+      "ambulance",
+      "southeast",
+      "interview / position",
+      "grocery"
+    ],
+    "coverage": [
+      "日常生活实词",
+      "口语与俚语，含粗俗语域",
+      "熟词在当前对白中的新义",
+      "法律、商业及其他剧情领域词",
+      "代表性短搭配与接法"
+    ],
+    "dedup_scope": "E01 plus E08/E09/E10 internally; other episodes deferred to parent consolidation",
+    "audio_checked": false,
+    "limits": "字幕未经听校。条目为待学习候选；普通词不因课本曾出现或其他chunks文章已讲过而排除。没有固定数量配额。专业程序和人物骗局陈述仅作语言语境，不作为事实或法律结论。"
+  },
+  "verification": {
+    "source_hash": "passed",
+    "cue_sequence": "passed",
+    "all_read_batch_ranges_cover_source_once": "passed",
+    "every_quote_recovered_from_contiguous_original_cues": "passed",
+    "all_start_end_times_match_source": "passed",
+    "unique_item_word_labels": "passed",
+    "checked_items": 175,
+    "audio_verified": false
+  }
+}

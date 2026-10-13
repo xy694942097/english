@@ -1,0 +1,1008 @@
+{
+  "scope": "仅建议处理 E05–E07；比较 E01–E07 词汇源JSON，未读取／修改课程或 Chunks 来做排除",
+  "method": "人工逐项阅读词形、中文义项与相关原句；脚本仅加载、定位和核验建议。首次大输出有截断，随后分集重新读取 E03–E05 及 E02尾部，补齐前集内容。",
+  "source_snapshots": [
+    {
+      "episode": "S01E01",
+      "path": "references/chunks/better-call-saul-s01e01-vocabulary-selection.json",
+      "file_sha256": "907ec90d5696ea538796993652077ccc0670be116822094b7f0bd32c82b3a6db",
+      "item_count": 104
+    },
+    {
+      "episode": "S01E02",
+      "path": "references/chunks/better-call-saul-s01e02-vocabulary-selection.json",
+      "file_sha256": "fbab008b22dd7dda08ac9828a5ef0a9c52dc7411fc001b7c32d40533be563b2b",
+      "item_count": 138
+    },
+    {
+      "episode": "S01E03",
+      "path": "references/chunks/better-call-saul-s01e03-vocabulary-selection.json",
+      "file_sha256": "6acd716f0716378888ed4152d5aecddf37e1831e73de3ac135c2eeea4c541cc4",
+      "item_count": 197
+    },
+    {
+      "episode": "S01E04",
+      "path": "references/chunks/better-call-saul-s01e04-vocabulary-selection.json",
+      "file_sha256": "5fd275f50c810252d8c90cc5eafed5c5ca42e9b7dec35557bc6c026a8375a063",
+      "item_count": 268
+    },
+    {
+      "episode": "S01E05",
+      "path": "references/chunks/better-call-saul-s01e05-vocabulary-selection.json",
+      "file_sha256": "9c730c8c575478796760d7298d830f03a25d188d744e194c67d9f79ad1a83489",
+      "item_count": 235
+    },
+    {
+      "episode": "S01E06",
+      "path": "references/chunks/better-call-saul-s01e06-vocabulary-selection.json",
+      "file_sha256": "b22840216ac3b039d6735d99a7862f385ae70b979158d8d666a1ee86fbdaec25",
+      "item_count": 176
+    },
+    {
+      "episode": "S01E07",
+      "path": "references/chunks/better-call-saul-s01e07-vocabulary-selection.json",
+      "file_sha256": "6f01d094fd8960cdb1088ef65604f732b5e84d9754d53746b80a6bb14e2a39fa",
+      "item_count": 207
+    }
+  ],
+  "delete_recommendations": [
+    {
+      "episode": "S01E05",
+      "word": "probable cause",
+      "start_cue": 21,
+      "end_cue": 21,
+      "keep_episode": "S01E04",
+      "keep_word": "probable cause",
+      "keep_start_cue": 290,
+      "reason": "同为美国法律中的合理执法根据，未增加新接法"
+    },
+    {
+      "episode": "S01E05",
+      "word": "warning",
+      "start_cue": 41,
+      "end_cue": 41,
+      "keep_episode": "S01E03",
+      "keep_word": "warning",
+      "keep_start_cue": 170,
+      "reason": "同为警告／提醒危险，无新义项"
+    },
+    {
+      "episode": "S01E05",
+      "word": "billboard",
+      "start_cue": 58,
+      "end_cue": 58,
+      "keep_episode": "S01E04",
+      "keep_word": "billboard",
+      "keep_start_cue": 441,
+      "reason": "同为大型户外广告牌，无新接法"
+    },
+    {
+      "episode": "S01E05",
+      "word": "victim",
+      "start_cue": 74,
+      "end_cue": 74,
+      "keep_episode": "S01E03",
+      "keep_word": "victim",
+      "keep_start_cue": 466,
+      "reason": "同为受害者，没有独立新接法"
+    },
+    {
+      "episode": "S01E05",
+      "word": "hourly",
+      "start_cue": 114,
+      "end_cue": 114,
+      "keep_episode": "S01E04",
+      "keep_word": "hourly",
+      "keep_start_cue": 296,
+      "reason": "同为按小时计费，词性和收费语境一致"
+    },
+    {
+      "episode": "S01E05",
+      "word": "pineapple",
+      "start_cue": 234,
+      "end_cue": 234,
+      "keep_episode": "S01E03",
+      "keep_word": "pineapple",
+      "keep_start_cue": 612,
+      "reason": "同为菠萝，无新义项"
+    },
+    {
+      "episode": "S01E05",
+      "word": "fee",
+      "start_cue": 245,
+      "end_cue": 245,
+      "keep_episode": "S01E04",
+      "keep_word": "consulting fees",
+      "keep_start_cue": 303,
+      "reason": "E04咨询费已收费用／服务费的 fee 核心义；此处律师收费只是同类费用，未有独立新义或新接法"
+    },
+    {
+      "episode": "S01E05",
+      "word": "lousy",
+      "start_cue": 275,
+      "end_cue": 276,
+      "keep_episode": "S01E03",
+      "keep_word": "lousy",
+      "keep_start_cue": 55,
+      "reason": "同为口语糟糕的；修饰 days 与 brother 仅对象变化，不是独立新义"
+    },
+    {
+      "episode": "S01E05",
+      "word": "scumbag",
+      "start_cue": 293,
+      "end_cue": 293,
+      "keep_episode": "S01E02",
+      "keep_word": "scumbag",
+      "keep_start_cue": 111,
+      "reason": "同为粗俗侮辱人渣，无新义"
+    },
+    {
+      "episode": "S01E05",
+      "word": "suck",
+      "start_cue": 294,
+      "end_cue": 294,
+      "keep_episode": "S01E04",
+      "keep_word": "suck",
+      "keep_start_cue": 20,
+      "reason": "同为事情很差／糟透了的口语评价"
+    },
+    {
+      "episode": "S01E05",
+      "word": "exhibit",
+      "start_cue": 426,
+      "end_cue": 427,
+      "keep_episode": "S01E02",
+      "keep_word": "exhibit",
+      "keep_start_cue": 134,
+      "reason": "同为表现出；exhibit poor judgment 与 exhibit signs 均为表现特征，无独立新词义"
+    },
+    {
+      "episode": "S01E05",
+      "word": "showmanship",
+      "start_cue": 605,
+      "end_cue": 605,
+      "keep_episode": "S01E04",
+      "keep_word": "showmanship",
+      "keep_start_cue": 658,
+      "reason": "同为造势／表演本领，剧情也同指广告噱头"
+    },
+    {
+      "episode": "S01E05",
+      "word": "single-breasted",
+      "start_cue": 630,
+      "end_cue": 633,
+      "keep_episode": "S01E04",
+      "keep_word": "double-breasted / single-breasted",
+      "keep_start_cue": 309,
+      "reason": "E04 混合标题已明确收单排扣，同词同义"
+    },
+    {
+      "episode": "S01E05",
+      "word": "sticker",
+      "start_cue": 670,
+      "end_cue": 670,
+      "keep_episode": "S01E02",
+      "keep_word": "sticker",
+      "keep_start_cue": 504,
+      "reason": "同为停车认证凭证贴纸；E02已收，不应再收"
+    },
+    {
+      "episode": "S01E06",
+      "word": "barely",
+      "start_cue": 52,
+      "end_cue": 52,
+      "keep_episode": "S01E03",
+      "keep_word": "barely",
+      "keep_start_cue": 41,
+      "reason": "同为几乎不；barely ate 与 barely hear 只是动词对象变化"
+    },
+    {
+      "episode": "S01E06",
+      "word": "block",
+      "start_cue": 141,
+      "end_cue": 141,
+      "keep_episode": "S01E04",
+      "keep_word": "block",
+      "keep_start_cue": 24,
+      "reason": "同为城市街区／路口间距离，无新接法"
+    },
+    {
+      "episode": "S01E06",
+      "word": "under arrest",
+      "start_cue": 176,
+      "end_cue": 176,
+      "keep_episode": "S01E03",
+      "keep_word": "under arrest",
+      "keep_start_cue": 379,
+      "reason": "同为被逮捕的，完全相同接法"
+    },
+    {
+      "episode": "S01E06",
+      "word": "cooperation",
+      "start_cue": 180,
+      "end_cue": 180,
+      "keep_episode": "S01E03",
+      "keep_word": "cooperation",
+      "keep_start_cue": 344,
+      "reason": "同为配合警方调查，没有新义项"
+    },
+    {
+      "episode": "S01E06",
+      "word": "rip off",
+      "start_cue": 222,
+      "end_cue": 222,
+      "keep_episode": "S01E02",
+      "keep_word": "rip sb. off",
+      "keep_start_cue": 575,
+      "reason": "同为偷走财物；笔记本代替钱只是对象变化，省略 sb. 不构成新接法"
+    },
+    {
+      "episode": "S01E06",
+      "word": "licensed",
+      "start_cue": 231,
+      "end_cue": 231,
+      "keep_episode": "S01E04",
+      "keep_word": "licensed",
+      "keep_start_cue": 619,
+      "reason": "同为获得从事活动的执照；活动不同而义项相同"
+    },
+    {
+      "episode": "S01E06",
+      "word": "assume",
+      "start_cue": 253,
+      "end_cue": 253,
+      "keep_episode": "S01E02",
+      "keep_word": "assume",
+      "keep_start_cue": 116,
+      "reason": "同为假设／未经确认认为；新句为 assume I know nothing，未增加独立词义"
+    },
+    {
+      "episode": "S01E06",
+      "word": "routine",
+      "start_cue": 350,
+      "end_cue": 350,
+      "keep_episode": "S01E04",
+      "keep_word": "routine",
+      "keep_start_cue": 498,
+      "reason": "同为喜剧表演桥段；Marx Brothers 镜子节目背景相同"
+    },
+    {
+      "episode": "S01E06",
+      "word": "admit",
+      "start_cue": 420,
+      "end_cue": 420,
+      "keep_episode": "S01E02",
+      "keep_word": "admit",
+      "keep_start_cue": 278,
+      "reason": "同为承认事实／身份，无新接法"
+    },
+    {
+      "episode": "S01E06",
+      "word": "stage",
+      "start_cue": 492,
+      "end_cue": 493,
+      "keep_episode": "S01E03",
+      "keep_word": "stage",
+      "keep_start_cue": 467,
+      "reason": "同为自导自演／伪造犯罪场景；绑架改为枪击不改变词义"
+    },
+    {
+      "episode": "S01E06",
+      "word": "evidence",
+      "start_cue": 516,
+      "end_cue": 516,
+      "keep_episode": "S01E03",
+      "keep_word": "evidence",
+      "keep_start_cue": 422,
+      "reason": "同为证明案件的证据／证物；钱成为证物只是实物实例，不另建义项"
+    },
+    {
+      "episode": "S01E06",
+      "word": "responsibility",
+      "start_cue": 557,
+      "end_cue": 557,
+      "keep_episode": "S01E02",
+      "keep_word": "responsibility",
+      "keep_start_cue": 268,
+      "reason": "同为需要承担的责任；复数不构成新词义"
+    },
+    {
+      "episode": "S01E07",
+      "word": "investigate",
+      "start_cue": 92,
+      "end_cue": 94,
+      "keep_episode": "S01E02",
+      "keep_word": "investigate",
+      "keep_start_cue": 246,
+      "reason": "同为调查犯罪，未增加新义项"
+    },
+    {
+      "episode": "S01E07",
+      "word": "counselor",
+      "start_cue": 104,
+      "end_cue": 104,
+      "keep_episode": "S01E03",
+      "keep_word": "counselor",
+      "keep_start_cue": 376,
+      "reason": "同为美国法律语境律师称呼"
+    },
+    {
+      "episode": "S01E07",
+      "word": "cozy",
+      "start_cue": 233,
+      "end_cue": 233,
+      "keep_episode": "S01E02",
+      "keep_word": "cozy",
+      "keep_start_cue": 561,
+      "reason": "同为办公室温馨舒适，语境和义项相同"
+    },
+    {
+      "episode": "S01E07",
+      "word": "deserve",
+      "start_cue": 251,
+      "end_cue": 251,
+      "keep_episode": "S01E02",
+      "keep_word": "deserve",
+      "keep_start_cue": 309,
+      "reason": "同为应得某待遇；褒贬对象变化不构成新义项"
+    },
+    {
+      "episode": "S01E07",
+      "word": "backyard",
+      "start_cue": 306,
+      "end_cue": 306,
+      "keep_episode": "S01E04",
+      "keep_word": "backyard",
+      "keep_start_cue": 233,
+      "reason": "同为自家后院／住宅附近，且均指同一次露营解释"
+    },
+    {
+      "episode": "S01E07",
+      "word": "the press",
+      "start_cue": 326,
+      "end_cue": 326,
+      "keep_episode": "S01E04",
+      "keep_word": "press",
+      "keep_start_cue": 379,
+      "reason": "冠词不改变新闻界／媒体义，均谈保持或获取报道"
+    },
+    {
+      "episode": "S01E07",
+      "word": "sentence",
+      "start_cue": 335,
+      "end_cue": 335,
+      "keep_episode": "S01E02",
+      "keep_word": "sentence",
+      "keep_start_cue": 343,
+      "reason": "同为刑罚／刑期，minimal 修饰语未增加 sentence 义项"
+    },
+    {
+      "episode": "S01E07",
+      "word": "innocent",
+      "start_cue": 339,
+      "end_cue": 339,
+      "keep_episode": "S01E03",
+      "keep_word": "innocent / guilty",
+      "keep_start_cue": 124,
+      "reason": "E03混合标题已收无罪义，本句仅重复该义"
+    },
+    {
+      "episode": "S01E07",
+      "word": "fire",
+      "start_cue": 378,
+      "end_cue": 378,
+      "keep_episode": "S01E04",
+      "keep_word": "fire",
+      "keep_start_cue": 72,
+      "reason": "同为解雇／终止聘用；律师或雇员身份不同不构成新词义"
+    },
+    {
+      "episode": "S01E07",
+      "word": "esquire",
+      "start_cue": 427,
+      "end_cue": 427,
+      "keep_episode": "S01E04",
+      "keep_word": "esquire",
+      "keep_start_cue": 361,
+      "reason": "同为律师名后的敬称"
+    },
+    {
+      "episode": "S01E07",
+      "word": "chock-full",
+      "start_cue": 528,
+      "end_cue": 528,
+      "keep_episode": "S01E04",
+      "keep_word": "chock-full",
+      "keep_start_cue": 209,
+      "reason": "同为塞满／满满都是的；日程排满是普通宾语变化，无独立接法"
+    },
+    {
+      "episode": "S01E07",
+      "word": "possession",
+      "start_cue": 555,
+      "end_cue": 555,
+      "keep_episode": "S01E04",
+      "keep_word": "possession",
+      "keep_start_cue": 41,
+      "reason": "同为持有／占有，资金代替财物只改变对象"
+    },
+    {
+      "episode": "S01E07",
+      "word": "schmuck",
+      "start_cue": 595,
+      "end_cue": 595,
+      "keep_episode": "S01E04",
+      "keep_word": "schmuck",
+      "keep_start_cue": 469,
+      "reason": "同为蠢货／讨厌鬼的侮辱性称呼"
+    },
+    {
+      "episode": "S01E07",
+      "word": "loophole",
+      "start_cue": 621,
+      "end_cue": 621,
+      "keep_episode": "S01E03",
+      "keep_word": "loophole / legal loophole",
+      "keep_start_cue": 36,
+      "reason": "E03混合标题已含法律漏洞，此处完全同义"
+    },
+    {
+      "episode": "S01E07",
+      "word": "chip",
+      "start_cue": 624,
+      "end_cue": 625,
+      "keep_episode": "S01E04",
+      "keep_word": "bargaining chip",
+      "keep_start_cue": 177,
+      "reason": "同为比喻谈判筹码；省略 bargaining 不构成独立新义或新的配价"
+    },
+    {
+      "episode": "S01E07",
+      "word": "square",
+      "start_cue": 650,
+      "end_cue": 651,
+      "keep_episode": "S01E04",
+      "keep_word": "square",
+      "keep_start_cue": 261,
+      "reason": "同为两清／互不相欠，E04已收；虽不同于E06的正当义，仍应按更早E04删除"
+    },
+    {
+      "episode": "S01E07",
+      "word": "recourse",
+      "start_cue": 692,
+      "end_cue": 692,
+      "keep_episode": "S01E02",
+      "keep_word": "recourse",
+      "keep_start_cue": 576,
+      "reason": "同为求助／法律追索途径，且同指盗贼无法求助警方"
+    },
+    {
+      "episode": "S01E07",
+      "word": "bribe",
+      "start_cue": 706,
+      "end_cue": 706,
+      "keep_episode": "S01E04",
+      "keep_word": "bribe",
+      "keep_start_cue": 195,
+      "reason": "同为贿赂／贿金，同一笔钱的剧情重复"
+    }
+  ],
+  "retain_distinct_senses_or_forms": [
+    {
+      "episode": "S01E05",
+      "word": "expose sb. to sth.",
+      "start_cue": 11,
+      "end_cue": 12,
+      "compared_episode": "S01E04",
+      "compared_word": "expose",
+      "compared_start_cue": 539,
+      "reason": "E04揭露隐情；E05使接触／暴露于环境，新义且 expose sb. to 接法独立"
+    },
+    {
+      "episode": "S01E05",
+      "word": "clear your calendar",
+      "start_cue": 86,
+      "end_cue": 86,
+      "compared_episode": "S01E01",
+      "compared_word": "clear",
+      "compared_start_cue": 635,
+      "reason": "E01净赚；E04获准；E05腾出日程，新义且宾语搭配独立"
+    },
+    {
+      "episode": "S01E05",
+      "word": "on retainer",
+      "start_cue": 115,
+      "end_cue": 115,
+      "compared_episode": "S01E04",
+      "compared_word": "retainer",
+      "compared_start_cue": 204,
+      "reason": "E04名词预付聘用费；E05 on retainer 聘用安排，代表性介词短搭配有独立价值"
+    },
+    {
+      "episode": "S01E05",
+      "word": "invention",
+      "start_cue": 146,
+      "end_cue": 146,
+      "compared_episode": "S01E02",
+      "compared_word": "inventor",
+      "compared_start_cue": 536,
+      "reason": "同词族但发明物与发明家名词不同，不因同词根合并"
+    },
+    {
+      "episode": "S01E05",
+      "word": "treat",
+      "start_cue": 196,
+      "end_cue": 196,
+      "compared_episode": "S01E04",
+      "compared_word": "treat / my treat",
+      "compared_start_cue": 370,
+      "reason": "E04名词请客；E05动词治疗，新义和新词性"
+    },
+    {
+      "episode": "S01E05",
+      "word": "sharp",
+      "start_cue": 226,
+      "end_cue": 226,
+      "compared_episode": "S01E02",
+      "compared_word": "sharp",
+      "compared_start_cue": 497,
+      "reason": "E02衣着整齐精神；E05头脑敏锐，新义"
+    },
+    {
+      "episode": "S01E05",
+      "word": "track sb. down",
+      "start_cue": 303,
+      "end_cue": 303,
+      "compared_episode": "S01E03",
+      "compared_word": "track",
+      "compared_start_cue": 335,
+      "reason": "E03追踪；E05 track down 找到下落，带结果的代表性短语动词"
+    },
+    {
+      "episode": "S01E05",
+      "word": "commit",
+      "start_cue": 356,
+      "end_cue": 357,
+      "compared_episode": "S01E04",
+      "compared_word": "commitment",
+      "compared_start_cue": 214,
+      "reason": "E04投入／承诺名词；E05强制送入精神病院动词，新义及词性"
+    },
+    {
+      "episode": "S01E05",
+      "word": "sharp pain",
+      "start_cue": 397,
+      "end_cue": 399,
+      "compared_episode": "S01E05",
+      "compared_word": "sharp",
+      "compared_start_cue": 226,
+      "reason": "同集 sharp 精明；此处 sharp 刺痛强烈，新义及代表性名词搭配"
+    },
+    {
+      "episode": "S01E05",
+      "word": "consistent with",
+      "start_cue": 435,
+      "end_cue": 435,
+      "compared_episode": "S01E04",
+      "compared_word": "consistent",
+      "compared_start_cue": 381,
+      "reason": "E04口径前后一致；E05与另一事物相符，with 配价有独立价值"
+    },
+    {
+      "episode": "S01E05",
+      "word": "release forms",
+      "start_cue": 501,
+      "end_cue": 501,
+      "compared_episode": "S01E03",
+      "compared_word": "release",
+      "compared_start_cue": 420,
+      "reason": "E03动词释放被拘留者；E05出院／放行表单复合名词，文书词汇独立"
+    },
+    {
+      "episode": "S01E05",
+      "word": "justice",
+      "start_cue": 580,
+      "end_cue": 580,
+      "compared_episode": "S01E02",
+      "compared_word": "justice",
+      "compared_start_cue": 333,
+      "reason": "E02公正；E05最高法院大法官，新义"
+    },
+    {
+      "episode": "S01E05",
+      "word": "trust",
+      "start_cue": 588,
+      "end_cue": 588,
+      "compared_episode": "S01E05",
+      "compared_word": "living trust",
+      "compared_start_cue": 283,
+      "reason": "living trust 为特定生前信托类别；trust 为上位信托名词，可保留一般义"
+    },
+    {
+      "episode": "S01E05",
+      "word": "representation",
+      "start_cue": 613,
+      "end_cue": 614,
+      "compared_episode": "S01E04",
+      "compared_word": "represent",
+      "compared_start_cue": 589,
+      "reason": "E04动词代理客户；E05名词法律代理，不因派生关系合并"
+    },
+    {
+      "episode": "S01E05",
+      "word": "submit",
+      "start_cue": 627,
+      "end_cue": 629,
+      "compared_episode": "S01E05",
+      "compared_word": "submit",
+      "compared_start_cue": 359,
+      "reason": "前项提交正式申请；后项在法庭主张／提请认定，新义保留"
+    },
+    {
+      "episode": "S01E05",
+      "word": "bet",
+      "start_cue": 655,
+      "end_cue": 655,
+      "compared_episode": "S01E03",
+      "compared_word": "bet",
+      "compared_start_cue": 644,
+      "reason": "E03名词赌注；E05动词赌钱，词性变化"
+    },
+    {
+      "episode": "S01E06",
+      "word": "nuts",
+      "start_cue": 224,
+      "end_cue": 224,
+      "compared_episode": "S01E03",
+      "compared_word": "insane",
+      "compared_start_cue": 23,
+      "reason": "同义不同词；保留不同口语词形"
+    },
+    {
+      "episode": "S01E06",
+      "word": "assist",
+      "start_cue": 227,
+      "end_cue": 227,
+      "compared_episode": "S01E04",
+      "compared_word": "assistance",
+      "compared_start_cue": 244,
+      "reason": "名词词形和语用不同，assist 常作一次帮助，assistance 一般帮助；不只按词根删"
+    },
+    {
+      "episode": "S01E06",
+      "word": "square and above board",
+      "start_cue": 236,
+      "end_cue": 236,
+      "compared_episode": "S01E04",
+      "compared_word": "square",
+      "compared_start_cue": 261,
+      "reason": "E04两清；E06正当诚实，新义。注意E07 square又回到两清，应删E07而保留E06"
+    },
+    {
+      "episode": "S01E06",
+      "word": "gather",
+      "start_cue": 261,
+      "end_cue": 261,
+      "compared_episode": "S01E02",
+      "compared_word": "deduce",
+      "compared_start_cue": 137,
+      "reason": "同义不同词；gather 推断／了解不能被 deduce 删除"
+    },
+    {
+      "episode": "S01E06",
+      "word": "back sb. up",
+      "start_cue": 273,
+      "end_cue": 273,
+      "compared_episode": "S01E04",
+      "compared_word": "back sb. up",
+      "compared_start_cue": 341,
+      "reason": "E04支持说法／作证；E06警务后援支援，新义"
+    },
+    {
+      "episode": "S01E06",
+      "word": "hard evidence",
+      "start_cue": 295,
+      "end_cue": 295,
+      "compared_episode": "S01E03",
+      "compared_word": "evidence",
+      "compared_start_cue": 422,
+      "reason": "确凿证据的代表性 hard 搭配有独立价值，可与基础 evidence 名词分层保留"
+    },
+    {
+      "episode": "S01E06",
+      "word": "dirty",
+      "start_cue": 381,
+      "end_cue": 381,
+      "compared_episode": "S01E03",
+      "compared_word": "talk dirty",
+      "compared_start_cue": 90,
+      "reason": "E03色情话；E06警察腐败，新义"
+    },
+    {
+      "episode": "S01E06",
+      "word": "clean",
+      "start_cue": 404,
+      "end_cue": 404,
+      "compared_episode": "S01E02",
+      "compared_word": "clean",
+      "compared_start_cue": 529,
+      "reason": "E02保持不再惹事／无再犯；E06警员没有贪腐，语境义有区别"
+    },
+    {
+      "episode": "S01E06",
+      "word": "give sb. a lift",
+      "start_cue": 435,
+      "end_cue": 435,
+      "compared_episode": "S01E04",
+      "compared_word": "ride",
+      "compared_start_cue": 263,
+      "reason": "同义而不同词，lift 短搭配不能被 ride 删除"
+    },
+    {
+      "episode": "S01E06",
+      "word": "ass",
+      "start_cue": 461,
+      "end_cue": 461,
+      "compared_episode": "S01E01",
+      "compared_word": "dumbass",
+      "compared_start_cue": 142,
+      "reason": "不同词形词条；不能把所有侮辱词按同义合并"
+    },
+    {
+      "episode": "S01E06",
+      "word": "put it away",
+      "start_cue": 477,
+      "end_cue": 478,
+      "compared_episode": "S01E06",
+      "compared_word": "put away",
+      "compared_start_cue": 550,
+      "reason": "同集前项大量喝酒、后项关人入狱，义项完全不同"
+    },
+    {
+      "episode": "S01E06",
+      "word": "gang",
+      "start_cue": 534,
+      "end_cue": 535,
+      "compared_episode": "S01E03",
+      "compared_word": "gangbanger",
+      "compared_start_cue": 576,
+      "reason": "E03成员名词；E06团伙名词，词形和所指不同"
+    },
+    {
+      "episode": "S01E06",
+      "word": "solid",
+      "start_cue": 579,
+      "end_cue": 579,
+      "compared_episode": "S01E06",
+      "compared_word": "solid",
+      "compared_start_cue": 38,
+      "reason": "前项指自身状态稳定；后项指同伙可靠、不告密，有可教学的语境义区别"
+    },
+    {
+      "episode": "S01E07",
+      "word": "threatening",
+      "start_cue": 18,
+      "end_cue": 18,
+      "compared_episode": "S01E06",
+      "compared_word": "threaten",
+      "compared_start_cue": 551,
+      "reason": "动词威胁转为形容词带威胁性的，词性变化"
+    },
+    {
+      "episode": "S01E07",
+      "word": "petty theft",
+      "start_cue": 19,
+      "end_cue": 19,
+      "compared_episode": "S01E02",
+      "compared_word": "petty",
+      "compared_start_cue": 500,
+      "reason": "E02正文只写 petty 未写 theft；E07明确 theft 盗窃复合名词，可收代表性搭配"
+    },
+    {
+      "episode": "S01E07",
+      "word": "slick",
+      "start_cue": 29,
+      "end_cue": 29,
+      "compared_episode": "S01E04",
+      "compared_word": "slick",
+      "compared_start_cue": 208,
+      "reason": "E04形容词光鲜圆滑；E07名词称呼油滑的人，词性／所指变化"
+    },
+    {
+      "episode": "S01E07",
+      "word": "prime suspect",
+      "start_cue": 94,
+      "end_cue": 94,
+      "compared_episode": "S01E03",
+      "compared_word": "lead suspect",
+      "compared_start_cue": 391,
+      "reason": "相同嫌疑人角色，但 prime 是独立的首要义形容词搭配，不按近义形容词合并"
+    },
+    {
+      "episode": "S01E07",
+      "word": "con job",
+      "start_cue": 96,
+      "end_cue": 96,
+      "compared_episode": "S01E02",
+      "compared_word": "scam",
+      "compared_start_cue": 168,
+      "reason": "同义不同词，不应合并"
+    },
+    {
+      "episode": "S01E07",
+      "word": "committed to",
+      "start_cue": 172,
+      "end_cue": 172,
+      "compared_episode": "S01E05",
+      "compared_word": "commit",
+      "compared_start_cue": 356,
+      "reason": "E05强制精神科收治；E07坚定投入，新义且词性变化"
+    },
+    {
+      "episode": "S01E07",
+      "word": "file",
+      "start_cue": 191,
+      "end_cue": 191,
+      "compared_episode": "S01E01",
+      "compared_word": "filings",
+      "compared_start_cue": 418,
+      "reason": "E01提交文书名词；E07动词提交／备案，词性变化"
+    },
+    {
+      "episode": "S01E07",
+      "word": "nail salon",
+      "start_cue": 217,
+      "end_cue": 217,
+      "compared_episode": "S01E04",
+      "compared_word": "salon",
+      "compared_start_cue": 424,
+      "reason": "salon 可包含美容／美发；nail salon 明确美甲，代表性限定搭配有独立价值"
+    },
+    {
+      "episode": "S01E07",
+      "word": "put sb. through school",
+      "start_cue": 278,
+      "end_cue": 278,
+      "compared_episode": "S01E04",
+      "compared_word": "put oneself through school",
+      "compared_start_cue": 587,
+      "reason": "E04自己挣钱完成学业；E07单位资助他人，施事对象变化但此教学短搭配有独立价值"
+    },
+    {
+      "episode": "S01E07",
+      "word": "owe",
+      "start_cue": 279,
+      "end_cue": 281,
+      "compared_episode": "S01E03",
+      "compared_word": "owe",
+      "compared_start_cue": 551,
+      "reason": "E03欠钱；E07既欠人情又欠实际学费，新增人情义，保留并宜突出新增义"
+    },
+    {
+      "episode": "S01E07",
+      "word": "ruling",
+      "start_cue": 292,
+      "end_cue": 293,
+      "compared_episode": "S01E05",
+      "compared_word": "rule",
+      "compared_start_cue": 30,
+      "reason": "动词裁定转为名词裁决，词性变化"
+    },
+    {
+      "episode": "S01E07",
+      "word": "trial",
+      "start_cue": 295,
+      "end_cue": 295,
+      "compared_episode": "S01E01",
+      "compared_word": "try sb.",
+      "compared_start_cue": 173,
+      "reason": "E01动词审判某人；E07名词庭审，词形和词性变化"
+    },
+    {
+      "episode": "S01E07",
+      "word": "file / stack charges",
+      "start_cue": 314,
+      "end_cue": 316,
+      "compared_episode": "S01E07",
+      "compared_word": "file",
+      "compared_start_cue": 191,
+      "reason": "同集 file 文书提交；file charges 提出指控且 stack charges 叠加指控有独立搭配价值"
+    },
+    {
+      "episode": "S01E07",
+      "word": "county facility",
+      "start_cue": 328,
+      "end_cue": 328,
+      "compared_episode": "S01E05",
+      "compared_word": "facility",
+      "compared_start_cue": 360,
+      "reason": "E05治疗机构；E07县监禁机构委婉称呼，代表性法律短搭配独立"
+    },
+    {
+      "episode": "S01E07",
+      "word": "condition",
+      "start_cue": 435,
+      "end_cue": 436,
+      "compared_episode": "S01E05",
+      "compared_word": "condition",
+      "compared_start_cue": 10,
+      "reason": "E05疾病；E07聘用条件，新义"
+    },
+    {
+      "episode": "S01E07",
+      "word": "specialization",
+      "start_cue": 463,
+      "end_cue": 463,
+      "compared_episode": "S01E05",
+      "compared_word": "specialize",
+      "compared_start_cue": 143,
+      "reason": "专门从事动词转为专业方向名词，词性变化"
+    },
+    {
+      "episode": "S01E07",
+      "word": "convince",
+      "start_cue": 505,
+      "end_cue": 505,
+      "compared_episode": "S01E03",
+      "compared_word": "convince",
+      "compared_start_cue": 519,
+      "reason": "E03 convince sb. that 使相信；E07 convince sb. to do 说服行动，宾语补语接法独立"
+    },
+    {
+      "episode": "S01E07",
+      "word": "full accounting",
+      "start_cue": 565,
+      "end_cue": 565,
+      "compared_episode": "S01E01",
+      "compared_word": "accounting discrepancy",
+      "compared_start_cue": 230,
+      "reason": "E01账目不一致复合名词；E07 accounting 完整交代账目，完整说明用途不同"
+    },
+    {
+      "episode": "S01E07",
+      "word": "admission into evidence",
+      "start_cue": 615,
+      "end_cue": 615,
+      "compared_episode": "S01E03",
+      "compared_word": "evidence",
+      "compared_start_cue": 422,
+      "reason": "证据准入的程序名词短搭配有独立价值，非单纯复写 evidence"
+    },
+    {
+      "episode": "S01E07",
+      "word": "curve ball / strike",
+      "start_cue": 628,
+      "end_cue": 628,
+      "compared_episode": "S01E07",
+      "compared_word": "strike",
+      "compared_start_cue": 409,
+      "reason": "同集 strike 前项动词发生／降临；后项棒球好球名词，词性和义项均不同"
+    },
+    {
+      "episode": "S01E07",
+      "word": "pitch",
+      "start_cue": 628,
+      "end_cue": 628,
+      "compared_episode": "S01E03",
+      "compared_word": "pitch",
+      "compared_start_cue": 328,
+      "reason": "E03动词提出说法；E07棒球投球名词，词性和义项均不同"
+    }
+  ],
+  "notes": [
+    "删除建议按同词同义，无独立新接法判定；不按中文近义词合并不同英文词。",
+    "E01混合标题已检查，如 single-breasted 对应E04混合服装标题；当前E05–E07无 buck / grand 金额词条需要删除。",
+    "chip 已建议删除，因为E04已收谈判筹码义；on retainer、petty theft 等独立代表性短搭配保留。",
+    "E05 submit 与 E06 solid／put away 两处不同语境须保持；不能仅按重复字形删第二行。",
+    "推荐保留项仅解释去重，不推翻原JSON pending 状态，也不代表学习者已掌握。"
+  ],
+  "summary": {
+    "delete_count": 44,
+    "retain_review_count": 50,
+    "delete_by_episode": {
+      "S01E05": 14,
+      "S01E06": 12,
+      "S01E07": 18
+    }
+  }
+}

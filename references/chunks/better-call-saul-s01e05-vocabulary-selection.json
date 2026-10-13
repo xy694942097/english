@@ -1,0 +1,2350 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S01/Better.Call.Saul.S01E05.en.srt",
+  "sha256": "d3448a31f3b2f2b5cceda335a2b4da1e2fc243d317167b1b1443034f86392bb7",
+  "subtitle_blocks_read": 695,
+  "max_cue": 695,
+  "selection_status": "候选义项；尚非学习者逐项不熟悉反馈，也不是掌握证据",
+  "method": "LLM 按 cue 顺序实际通读完整集字幕，各批跨行联系上下文发现候选；程序仅解析字幕、按人工选定 cue 回收原句及核对证据。另行实际第二遍通读检查普通实词遗漏。未听音轨校对。",
+  "reading_batches": [
+    [
+      1,
+      250
+    ],
+    [
+      251,
+      500
+    ],
+    [
+      501,
+      695
+    ]
+  ],
+  "items": [
+    {
+      "word": "cast a shadow",
+      "meaning": "v. 投下影子；cast 此处不是演员阵容",
+      "start_cue": 5,
+      "end_cue": 5,
+      "start_time": "00:01:38,275",
+      "end_time": "00:01:40,909",
+      "quote": "You're casting a shadow through your peephole."
+    },
+    {
+      "word": "peephole",
+      "meaning": "n. 门上的窥视孔／猫眼",
+      "start_cue": 5,
+      "end_cue": 5,
+      "start_time": "00:01:38,275",
+      "end_time": "00:01:40,909",
+      "quote": "You're casting a shadow through your peephole."
+    },
+    {
+      "word": "condition",
+      "meaning": "n. 疾病／身体状况；此处自称有病",
+      "start_cue": 10,
+      "end_cue": 10,
+      "start_time": "00:01:51,121",
+      "end_time": "00:01:53,622",
+      "quote": "I have a condition."
+    },
+    {
+      "word": "expose sb. to sth.",
+      "meaning": "v. 使某人暴露于某物／接触某物",
+      "start_cue": 11,
+      "end_cue": 12,
+      "start_time": "00:01:53,624",
+      "end_time": "00:01:57,426",
+      "quote": "Uh, I can't go outside or be exposed to what's out there."
+    },
+    {
+      "word": "cover price",
+      "meaning": "n. 报刊封面标价／零售价",
+      "start_cue": 16,
+      "end_cue": 16,
+      "start_time": "00:02:02,299",
+      "end_time": "00:02:05,016",
+      "quote": "The... the cover price is 50 cents."
+    },
+    {
+      "word": "consent",
+      "meaning": "v. 同意；consent to do sth. 同意做某事",
+      "start_cue": 17,
+      "end_cue": 17,
+      "start_time": "00:02:05,052",
+      "end_time": "00:02:08,470",
+      "quote": "Did your neighbor consent to sell you her paper?"
+    },
+    {
+      "word": "probable cause",
+      "meaning": "n. 有合理根据怀疑犯罪的理由（美国法律）",
+      "start_cue": 21,
+      "end_cue": 21,
+      "start_time": "00:02:17,781",
+      "end_time": "00:02:20,899",
+      "quote": "Let's talk about something called \"probable cause.\""
+    },
+    {
+      "word": "determine",
+      "meaning": "v. 判定／确定",
+      "start_cue": 24,
+      "end_cue": 25,
+      "start_time": "00:02:24,621",
+      "end_time": "00:02:28,957",
+      "quote": "to determine whether police officers have an objectively reasonable basis...",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "objectively",
+      "meaning": "adv. 客观地；objectively reasonable 客观上合理的",
+      "start_cue": 25,
+      "end_cue": 25,
+      "start_time": "00:02:26,290",
+      "end_time": "00:02:28,957",
+      "quote": "have an objectively reasonable basis..."
+    },
+    {
+      "word": "basis",
+      "meaning": "n. 依据／基础；此处采取警方行动的依据",
+      "start_cue": 25,
+      "end_cue": 25,
+      "start_time": "00:02:26,290",
+      "end_time": "00:02:28,957",
+      "quote": "have an objectively reasonable basis..."
+    },
+    {
+      "word": "court of appeals",
+      "meaning": "n. 上诉法院（法律）",
+      "start_cue": 29,
+      "end_cue": 29,
+      "start_time": "00:02:58,655",
+      "end_time": "00:03:01,740",
+      "quote": "And that's why the 10th circuit court of appeals"
+    },
+    {
+      "word": "coercive",
+      "meaning": "adj. 强制的／胁迫性的（法律）",
+      "start_cue": 30,
+      "end_cue": 30,
+      "start_time": "00:03:01,775",
+      "end_time": "00:03:04,659",
+      "quote": "ruled that a coercive order..."
+    },
+    {
+      "word": "rule",
+      "meaning": "v. 裁定（法律）；ruled that 裁定某事",
+      "start_cue": 30,
+      "end_cue": 30,
+      "start_time": "00:03:01,775",
+      "end_time": "00:03:04,659",
+      "quote": "ruled that a coercive order...",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "order",
+      "meaning": "n. 命令；coercive order 强制命令",
+      "start_cue": 30,
+      "end_cue": 30,
+      "start_time": "00:03:01,775",
+      "end_time": "00:03:04,659",
+      "quote": "ruled that a coercive order...",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "seizure",
+      "meaning": "n. 扣押／对人身自由的控制（法律）；此处被要求离家",
+      "start_cue": 32,
+      "end_cue": 32,
+      "start_time": "00:03:12,870",
+      "end_time": "00:03:16,371",
+      "quote": "Requiring an individual leave his house is seizure..."
+    },
+    {
+      "word": "individual",
+      "meaning": "n. 个人／某一个人（正式）",
+      "start_cue": 32,
+      "end_cue": 32,
+      "start_time": "00:03:12,870",
+      "end_time": "00:03:16,371",
+      "quote": "Requiring an individual leave his house is seizure...",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "amendment",
+      "meaning": "n. 修正案；此处宪法第四修正案",
+      "start_cue": 34,
+      "end_cue": 34,
+      "start_time": "00:03:19,543",
+      "end_time": "00:03:23,044",
+      "quote": "protected under the fourth amendment, right?"
+    },
+    {
+      "word": "camp stove / fuel",
+      "meaning": "n. 野营炉／燃料",
+      "start_cue": 35,
+      "end_cue": 35,
+      "start_time": "00:03:24,464",
+      "end_time": "00:03:26,882",
+      "quote": "Whole lot of camp-stove fuel."
+    },
+    {
+      "word": "breaker box",
+      "meaning": "n. 电路断路器配电箱",
+      "start_cue": 37,
+      "end_cue": 37,
+      "start_time": "00:03:28,552",
+      "end_time": "00:03:30,135",
+      "quote": "You see what he did to the breaker box?"
+    },
+    {
+      "word": "warning",
+      "meaning": "n. 警告",
+      "start_cue": 41,
+      "end_cue": 41,
+      "start_time": "00:03:46,820",
+      "end_time": "00:03:48,620",
+      "quote": "- Ah. - Final warning!",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "electronic device",
+      "meaning": "n. 电子设备",
+      "start_cue": 43,
+      "end_cue": 43,
+      "start_time": "00:03:50,490",
+      "end_time": "00:03:52,574",
+      "quote": "but you have to leave your electronic devices outside.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "walkie-talkie",
+      "meaning": "n. 对讲机",
+      "start_cue": 44,
+      "end_cue": 44,
+      "start_time": "00:03:52,576",
+      "end_time": "00:03:54,042",
+      "quote": "No phones, no walkie-talkies,"
+    },
+    {
+      "word": "flashlight",
+      "meaning": "n. 手电筒（美式）",
+      "start_cue": 45,
+      "end_cue": 45,
+      "start_time": "00:03:54,077",
+      "end_time": "00:03:55,327",
+      "quote": "no flashlights..."
+    },
+    {
+      "word": "taser",
+      "meaning": "n. 电击枪；后文 tasered 表示遭电击枪击中",
+      "start_cue": 46,
+      "end_cue": 46,
+      "start_time": "00:03:55,379",
+      "end_time": "00:03:58,630",
+      "quote": "Definitely, definitely no tasers."
+    },
+    {
+      "word": "emphasize",
+      "meaning": "v. 强调",
+      "start_cue": 47,
+      "end_cue": 47,
+      "start_time": "00:03:58,665",
+      "end_time": "00:04:01,416",
+      "quote": "I can't emphasize that enough. Deal?"
+    },
+    {
+      "word": "assistant",
+      "meaning": "n. 助理",
+      "start_cue": 54,
+      "end_cue": 54,
+      "start_time": "00:05:18,493",
+      "end_time": "00:05:21,577",
+      "quote": "Uh. Uh, this is my assistant's car.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "in the shop",
+      "meaning": "维修中；shop 此处是汽车修理店",
+      "start_cue": 55,
+      "end_cue": 55,
+      "start_time": "00:05:23,031",
+      "end_time": "00:05:24,780",
+      "quote": "Well, my Mercedes is in the shop."
+    },
+    {
+      "word": "raise",
+      "meaning": "n. 加薪；give sb. a raise 给某人加薪",
+      "start_cue": 56,
+      "end_cue": 56,
+      "start_time": "00:05:26,334",
+      "end_time": "00:05:28,618",
+      "quote": "I ought to give him a raise. You're right."
+    },
+    {
+      "word": "billboard",
+      "meaning": "n. 大型户外广告牌",
+      "start_cue": 58,
+      "end_cue": 58,
+      "start_time": "00:05:34,542",
+      "end_time": "00:05:35,558",
+      "quote": "That billboard thing."
+    },
+    {
+      "word": "insight",
+      "meaning": "n. 洞见／对某事的认识",
+      "start_cue": 59,
+      "end_cue": 60,
+      "start_time": "00:05:35,641",
+      "end_time": "00:05:39,643",
+      "quote": "And I had me a pair of insights. Insight the first..."
+    },
+    {
+      "word": "self-sufficiency",
+      "meaning": "n. 自给自足／不依赖外界",
+      "start_cue": 64,
+      "end_cue": 64,
+      "start_time": "00:05:46,319",
+      "end_time": "00:05:49,153",
+      "quote": "Freedom, self-sufficiency."
+    },
+    {
+      "word": "shitbox",
+      "meaning": "n. 破烂车（粗俗贬义）",
+      "start_cue": 68,
+      "end_cue": 68,
+      "start_time": "00:05:55,862",
+      "end_time": "00:05:57,077",
+      "quote": "driving that foreign shitbox of a car..."
+    },
+    {
+      "word": "get ahead",
+      "meaning": "v. 获得成功／出人头地",
+      "start_cue": 70,
+      "end_cue": 70,
+      "start_time": "00:05:58,531",
+      "end_time": "00:06:02,700",
+      "quote": "It's a sign a good man can't get ahead today."
+    },
+    {
+      "word": "travesty",
+      "meaning": "n. 荒唐的歪曲／令人愤慨的糟糕状况",
+      "start_cue": 71,
+      "end_cue": 71,
+      "start_time": "00:06:02,702",
+      "end_time": "00:06:04,835",
+      "quote": "It's a damned travesty. That's what it is."
+    },
+    {
+      "word": "victim",
+      "meaning": "n. 受害者",
+      "start_cue": 74,
+      "end_cue": 74,
+      "start_time": "00:06:09,709",
+      "end_time": "00:06:13,544",
+      "quote": "I refuse to consider myself a victim."
+    },
+    {
+      "word": "fly-swatting",
+      "meaning": "adj. 拍苍蝇似的；swat 拍打，原文临时复合修饰语",
+      "start_cue": 76,
+      "end_cue": 76,
+      "start_time": "00:06:19,051",
+      "end_time": "00:06:21,852",
+      "quote": "where the fly-swatting hand of government"
+    },
+    {
+      "word": "crush",
+      "meaning": "v. 压垮／摧毁；此处压制创业精神",
+      "start_cue": 77,
+      "end_cue": 77,
+      "start_time": "00:06:21,888",
+      "end_time": "00:06:24,688",
+      "quote": "is crushing the spirit of entrepreneurship..."
+    },
+    {
+      "word": "entrepreneurship",
+      "meaning": "n. 创业活动／创业精神",
+      "start_cue": 77,
+      "end_cue": 77,
+      "start_time": "00:06:21,888",
+      "end_time": "00:06:24,688",
+      "quote": "is crushing the spirit of entrepreneurship..."
+    },
+    {
+      "word": "spirit",
+      "meaning": "n. 精神／劲头；此处创业精神",
+      "start_cue": 77,
+      "end_cue": 77,
+      "start_time": "00:06:21,888",
+      "end_time": "00:06:24,688",
+      "quote": "is crushing the spirit of entrepreneurship...",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "requirement",
+      "meaning": "n. 要求／规定；此处安全监管要求",
+      "start_cue": 78,
+      "end_cue": 78,
+      "start_time": "00:06:24,724",
+      "end_time": "00:06:28,475",
+      "quote": "Taxes, osha requirements,"
+    },
+    {
+      "word": "hire",
+      "meaning": "n. 新雇用的人／一次雇用；此处政府干涉招聘",
+      "start_cue": 80,
+      "end_cue": 80,
+      "start_time": "00:06:30,980",
+      "end_time": "00:06:34,198",
+      "quote": "into every mother-loving hire."
+    },
+    {
+      "word": "oppressive",
+      "meaning": "adj. 压迫性的／苛刻的",
+      "start_cue": 81,
+      "end_cue": 81,
+      "start_time": "00:06:34,233",
+      "end_time": "00:06:36,283",
+      "quote": "It's damned oppressive."
+    },
+    {
+      "word": "tragic",
+      "meaning": "adj. 悲惨的／可悲的；此处感叹政府限制创业",
+      "start_cue": 82,
+      "end_cue": 82,
+      "start_time": "00:06:36,319",
+      "end_time": "00:06:38,118",
+      "quote": "It's tragic.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "clear your calendar",
+      "meaning": "v. 腾出日程；不同于 E01 clear 赚到",
+      "start_cue": 86,
+      "end_cue": 86,
+      "start_time": "00:06:51,751",
+      "end_time": "00:06:54,501",
+      "quote": "Are you ready to clear your calendar?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "secede",
+      "meaning": "v. 脱离国家或政治组织；secede from 脱离",
+      "start_cue": 88,
+      "end_cue": 88,
+      "start_time": "00:07:00,760",
+      "end_time": "00:07:04,845",
+      "quote": "I want to secede from the United States."
+    },
+    {
+      "word": "acre",
+      "meaning": "n. 英亩（土地面积单位）",
+      "start_cue": 89,
+      "end_cue": 89,
+      "start_time": "00:07:04,897",
+      "end_time": "00:07:08,232",
+      "quote": "Now, I got 1,100 acres of property here,"
+    },
+    {
+      "word": "self-sustaining",
+      "meaning": "adj. 能自我维持的／自给自足的",
+      "start_cue": 90,
+      "end_cue": 90,
+      "start_time": "00:07:08,267",
+      "end_time": "00:07:11,101",
+      "quote": "self-sustaining with solar power and wells,"
+    },
+    {
+      "word": "well",
+      "meaning": "n. 水井；此处不是副词“好”",
+      "start_cue": 90,
+      "end_cue": 90,
+      "start_time": "00:07:08,267",
+      "end_time": "00:07:11,101",
+      "quote": "self-sustaining with solar power and wells,"
+    },
+    {
+      "word": "solar power",
+      "meaning": "n. 太阳能电力",
+      "start_cue": 90,
+      "end_cue": 90,
+      "start_time": "00:07:08,267",
+      "end_time": "00:07:11,101",
+      "quote": "self-sustaining with solar power and wells,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "sovereign",
+      "meaning": "adj. 有独立主权的；sovereign state 主权国家",
+      "start_cue": 91,
+      "end_cue": 91,
+      "start_time": "00:07:11,103",
+      "end_time": "00:07:15,572",
+      "quote": "a sovereign state immune to the business-killing regulations"
+    },
+    {
+      "word": "immune to",
+      "meaning": "adj. 不受某物影响／约束的；此处不受监管",
+      "start_cue": 91,
+      "end_cue": 91,
+      "start_time": "00:07:11,103",
+      "end_time": "00:07:15,572",
+      "quote": "a sovereign state immune to the business-killing regulations"
+    },
+    {
+      "word": "regulation",
+      "meaning": "n. 法规／管理规定",
+      "start_cue": 91,
+      "end_cue": 91,
+      "start_time": "00:07:11,103",
+      "end_time": "00:07:15,572",
+      "quote": "a sovereign state immune to the business-killing regulations"
+    },
+    {
+      "word": "geographically",
+      "meaning": "adv. 在地理位置上",
+      "start_cue": 92,
+      "end_cue": 92,
+      "start_time": "00:07:15,608",
+      "end_time": "00:07:19,693",
+      "quote": "of the country in which it geographically lies.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "tooth and nail",
+      "meaning": "adv. 拼命地／竭尽全力地；fight tooth and nail 拼命斗争",
+      "start_cue": 104,
+      "end_cue": 104,
+      "start_time": "00:07:46,555",
+      "end_time": "00:07:49,390",
+      "quote": "I mean, the government is gonna fight us tooth and nail."
+    },
+    {
+      "word": "supreme court",
+      "meaning": "n. 最高法院",
+      "start_cue": 105,
+      "end_cue": 105,
+      "start_time": "00:07:49,442",
+      "end_time": "00:07:50,975",
+      "quote": "We could end up in the supreme court..."
+    },
+    {
+      "word": "man-hour",
+      "meaning": "n. 工时；一个人工作一小时的工作量",
+      "start_cue": 106,
+      "end_cue": 106,
+      "start_time": "00:07:50,977",
+      "end_time": "00:07:53,227",
+      "quote": "I'm talking thousands of man-hours..."
+    },
+    {
+      "word": "talk turkey",
+      "meaning": "v. 谈实质问题／认真谈生意（口语）",
+      "start_cue": 111,
+      "end_cue": 111,
+      "start_time": "00:08:04,073",
+      "end_time": "00:08:06,323",
+      "quote": "Let's talk Turkey."
+    },
+    {
+      "word": "rate",
+      "meaning": "n. 收费标准；此处律师每小时费率",
+      "start_cue": 112,
+      "end_cue": 112,
+      "start_time": "00:08:06,325",
+      "end_time": "00:08:07,541",
+      "quote": "What's your rate?"
+    },
+    {
+      "word": "hourly",
+      "meaning": "adj./adv. 按小时计费的／每小时",
+      "start_cue": 114,
+      "end_cue": 114,
+      "start_time": "00:08:16,335",
+      "end_time": "00:08:18,135",
+      "quote": "The hell with hourly.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "on retainer",
+      "meaning": "聘用并预付费用的；retainer 律师预付聘用费（法律）",
+      "start_cue": 115,
+      "end_cue": 115,
+      "start_time": "00:08:18,170",
+      "end_time": "00:08:20,004",
+      "quote": "I want you on retainer."
+    },
+    {
+      "word": "even",
+      "meaning": "adj./adv. 整的／不多不少；$1 million even 整整一百万",
+      "start_cue": 116,
+      "end_cue": 116,
+      "start_time": "00:08:20,006",
+      "end_time": "00:08:24,141",
+      "quote": "How about $1 million even..."
+    },
+    {
+      "word": "up front",
+      "meaning": "adv. 预先付款；此处先付一半",
+      "start_cue": 117,
+      "end_cue": 117,
+      "start_time": "00:08:24,176",
+      "end_time": "00:08:29,096",
+      "quote": "$500,000 up front and $500,000 when we're done?"
+    },
+    {
+      "word": "backed by",
+      "meaning": "v. 由某物担保／支持；此处货币的信用担保",
+      "start_cue": 123,
+      "end_cue": 124,
+      "start_time": "00:09:24,737",
+      "end_time": "00:09:29,907",
+      "quote": "Tax-free and backed by the full faith and credit of the sovereign Sandia Republic."
+    },
+    {
+      "word": "get in on the ground floor",
+      "meaning": "v. 在初创阶段参与（商业口语）",
+      "start_cue": 126,
+      "end_cue": 126,
+      "start_time": "00:09:36,665",
+      "end_time": "00:09:40,417",
+      "quote": "Son... You are getting in on the ground floor."
+    },
+    {
+      "word": "patent law",
+      "meaning": "n. 专利法；patent 专利",
+      "start_cue": 141,
+      "end_cue": 141,
+      "start_time": "00:10:28,467",
+      "end_time": "00:10:30,767",
+      "quote": "And patent law is something you..."
+    },
+    {
+      "word": "specialize",
+      "meaning": "v. 专门从事；此处专办专利案件",
+      "start_cue": 143,
+      "end_cue": 143,
+      "start_time": "00:10:33,639",
+      "end_time": "00:10:36,106",
+      "quote": "I should probably just go ahead and specialize already."
+    },
+    {
+      "word": "invention",
+      "meaning": "n. 发明",
+      "start_cue": 146,
+      "end_cue": 146,
+      "start_time": "00:10:40,396",
+      "end_time": "00:10:42,112",
+      "quote": "But before I show you my invention,"
+    },
+    {
+      "word": "non-disclosure agreement",
+      "meaning": "n. 保密协议；不向外界披露信息的约定",
+      "start_cue": 147,
+      "end_cue": 147,
+      "start_time": "00:10:42,148",
+      "end_time": "00:10:44,448",
+      "quote": "would you mind signing a non-disclosure agreement?"
+    },
+    {
+      "word": "unit",
+      "meaning": "n. 装置／组件；此处马桶上加装的部件",
+      "start_cue": 155,
+      "end_cue": 155,
+      "start_time": "00:11:16,982",
+      "end_time": "00:11:18,599",
+      "quote": "This one has this little unit I've added.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "toilet-train",
+      "meaning": "v. 训练孩子自己上厕所",
+      "start_cue": 160,
+      "end_cue": 160,
+      "start_time": "00:11:24,523",
+      "end_time": "00:11:26,690",
+      "quote": "And let me tell you... Toilet-training them?"
+    },
+    {
+      "word": "nightmare",
+      "meaning": "n. 噩梦；此处比喻难熬、棘手的经历",
+      "start_cue": 161,
+      "end_cue": 161,
+      "start_time": "00:11:26,692",
+      "end_time": "00:11:28,492",
+      "quote": "Nightmare, both times.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "commode",
+      "meaning": "n. 马桶／便器",
+      "start_cue": 162,
+      "end_cue": 162,
+      "start_time": "00:11:28,590",
+      "end_time": "00:11:30,723",
+      "quote": "They just didn't want to use the commode."
+    },
+    {
+      "word": "wire",
+      "meaning": "v. 给设备接线；wire A to B 把 A 接到 B",
+      "start_cue": 163,
+      "end_cue": 163,
+      "start_time": "00:11:30,759",
+      "end_time": "00:11:32,975",
+      "quote": "So I wired a motion sensor to a voice chip,"
+    },
+    {
+      "word": "motion sensor",
+      "meaning": "n. 运动感应器",
+      "start_cue": 163,
+      "end_cue": 163,
+      "start_time": "00:11:30,759",
+      "end_time": "00:11:32,975",
+      "quote": "So I wired a motion sensor to a voice chip,"
+    },
+    {
+      "word": "voice chip",
+      "meaning": "n. 语音芯片",
+      "start_cue": 163,
+      "end_cue": 163,
+      "start_time": "00:11:30,759",
+      "end_time": "00:11:32,975",
+      "quote": "So I wired a motion sensor to a voice chip,"
+    },
+    {
+      "word": "positive reinforcement",
+      "meaning": "n. 正强化；通过奖励鼓励某种行为（心理学）",
+      "start_cue": 165,
+      "end_cue": 165,
+      "start_time": "00:11:35,230",
+      "end_time": "00:11:38,181",
+      "quote": "but it's all about positive reinforcement."
+    },
+    {
+      "word": "do your business",
+      "meaning": "v. 上厕所／大小便（委婉口语）",
+      "start_cue": 167,
+      "end_cue": 167,
+      "start_time": "00:11:40,401",
+      "end_time": "00:11:43,102",
+      "quote": "And when you sit down to do your business,"
+    },
+    {
+      "word": "suggestive",
+      "meaning": "adj. 带性暗示的；此处不是一般“启发性的”",
+      "start_cue": 188,
+      "end_cue": 188,
+      "start_time": "00:12:46,634",
+      "end_time": "00:12:47,834",
+      "quote": "Suggestive, maybe..."
+    },
+    {
+      "word": "wealthy",
+      "meaning": "adj. 富裕的；wealthier 更富裕的",
+      "start_cue": 192,
+      "end_cue": 192,
+      "start_time": "00:12:53,842",
+      "end_time": "00:12:56,843",
+      "quote": "I mean, some of your wealthier pacific rim nations...",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "hypertension",
+      "meaning": "n. 高血压（医学）",
+      "start_cue": 196,
+      "end_cue": 196,
+      "start_time": "00:13:06,020",
+      "end_time": "00:13:09,772",
+      "quote": "Viagra was originally invented to treat hypertension."
+    },
+    {
+      "word": "treat",
+      "meaning": "v. 治疗；treat hypertension 治疗高血压",
+      "start_cue": 196,
+      "end_cue": 196,
+      "start_time": "00:13:06,020",
+      "end_time": "00:13:09,772",
+      "quote": "Viagra was originally invented to treat hypertension.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "disgusting",
+      "meaning": "adj. 令人恶心／厌恶的",
+      "start_cue": 198,
+      "end_cue": 198,
+      "start_time": "00:13:14,028",
+      "end_time": "00:13:16,495",
+      "quote": "You're completely disgusting, you know that?!"
+    },
+    {
+      "word": "make a fortune",
+      "meaning": "v. 赚大钱；fortune 此处是大量财富",
+      "start_cue": 202,
+      "end_cue": 202,
+      "start_time": "00:13:21,035",
+      "end_time": "00:13:22,835",
+      "quote": "I hope you do make a fortune,"
+    },
+    {
+      "word": "therapy",
+      "meaning": "n. 治疗；此处讽刺孩子将需要心理治疗",
+      "start_cue": 203,
+      "end_cue": 203,
+      "start_time": "00:13:22,871",
+      "end_time": "00:13:26,172",
+      "quote": "'cause Chandler's gonna need it to help pay for his therapy!"
+    },
+    {
+      "word": "shepherd",
+      "meaning": "n. 牧羊人；此处小雕像中的牧羊男孩",
+      "start_cue": 204,
+      "end_cue": 204,
+      "start_time": "00:14:00,541",
+      "end_time": "00:14:03,659",
+      "quote": "I found the alpine Shepherd boy!",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "nephew",
+      "meaning": "n. 侄子／外甥",
+      "start_cue": 212,
+      "end_cue": 212,
+      "start_time": "00:15:26,127",
+      "end_time": "00:15:28,577",
+      "quote": "That's gonna go to your nephew Clarence?"
+    },
+    {
+      "word": "drop out",
+      "meaning": "v. 退学；此处从大学退学",
+      "start_cue": 214,
+      "end_cue": 214,
+      "start_time": "00:15:30,832",
+      "end_time": "00:15:33,249",
+      "quote": "If he drops out, it goes to my niece Raylene."
+    },
+    {
+      "word": "niece",
+      "meaning": "n. 侄女／外甥女",
+      "start_cue": 214,
+      "end_cue": 214,
+      "start_time": "00:15:30,832",
+      "end_time": "00:15:33,249",
+      "quote": "If he drops out, it goes to my niece Raylene."
+    },
+    {
+      "word": "goose",
+      "meaning": "n. 鹅；复数 geese",
+      "start_cue": 216,
+      "end_cue": 216,
+      "start_time": "00:15:35,503",
+      "end_time": "00:15:37,086",
+      "quote": "The girl with the geese. Mm."
+    },
+    {
+      "word": "remarry",
+      "meaning": "v. 再婚；remarry sb. 与某人复婚",
+      "start_cue": 219,
+      "end_cue": 219,
+      "start_time": "00:15:40,341",
+      "end_time": "00:15:43,392",
+      "quote": "So long as she never remarries Frederick?"
+    },
+    {
+      "word": "towheaded",
+      "meaning": "adj. 头发淡金色的；此处雕像里的双胞胎",
+      "start_cue": 221,
+      "end_cue": 222,
+      "start_time": "00:15:44,979",
+      "end_time": "00:15:51,017",
+      "quote": "And no matter what, I want the towheaded twins to go to Reverend Lawrence's grandson."
+    },
+    {
+      "word": "reverend",
+      "meaning": "n. 对牧师的尊称（宗教）",
+      "start_cue": 222,
+      "end_cue": 222,
+      "start_time": "00:15:48,683",
+      "end_time": "00:15:51,017",
+      "quote": "to go to Reverend Lawrence's grandson."
+    },
+    {
+      "word": "lute",
+      "meaning": "n. 鲁特琴（拨弦乐器）",
+      "start_cue": 225,
+      "end_cue": 225,
+      "start_time": "00:15:56,190",
+      "end_time": "00:16:00,409",
+      "quote": "the, uh, lute-playing angel, 'cause he was in the choir."
+    },
+    {
+      "word": "choir",
+      "meaning": "n. 合唱团；此处教堂唱诗班",
+      "start_cue": 225,
+      "end_cue": 225,
+      "start_time": "00:15:56,190",
+      "end_time": "00:16:00,409",
+      "quote": "the, uh, lute-playing angel, 'cause he was in the choir."
+    },
+    {
+      "word": "sharp",
+      "meaning": "adj. 敏锐／精明的；此处夸律师记得清楚",
+      "start_cue": 226,
+      "end_cue": 226,
+      "start_time": "00:16:00,445",
+      "end_time": "00:16:03,863",
+      "quote": "Very sharp, Mr. McGill."
+    },
+    {
+      "word": "crook",
+      "meaning": "n. 骗子／犯罪分子（口语贬义）",
+      "start_cue": 229,
+      "end_cue": 229,
+      "start_time": "00:16:08,619",
+      "end_time": "00:16:09,869",
+      "quote": "The other half are crooks."
+    },
+    {
+      "word": "draw up",
+      "meaning": "v. 起草文件；draw up a DNR 起草不施行心肺复苏指示",
+      "start_cue": 233,
+      "end_cue": 233,
+      "start_time": "00:16:19,213",
+      "end_time": "00:16:21,180",
+      "quote": "Well, if you want me to draw up a DNR,"
+    },
+    {
+      "word": "DNR",
+      "meaning": "n. 不施行心肺复苏的指示（医疗；do not resuscitate）",
+      "start_cue": 233,
+      "end_cue": 234,
+      "start_time": "00:16:19,213",
+      "end_time": "00:16:24,016",
+      "quote": "Well, if you want me to draw up a DNR, I'll bring a blender and some pineapple."
+    },
+    {
+      "word": "blender",
+      "meaning": "n. 搅拌机",
+      "start_cue": 234,
+      "end_cue": 234,
+      "start_time": "00:16:21,215",
+      "end_time": "00:16:24,016",
+      "quote": "I'll bring a blender and some pineapple."
+    },
+    {
+      "word": "pineapple",
+      "meaning": "n. 菠萝",
+      "start_cue": 234,
+      "end_cue": 234,
+      "start_time": "00:16:21,215",
+      "end_time": "00:16:24,016",
+      "quote": "I'll bring a blender and some pineapple."
+    },
+    {
+      "word": "moxie",
+      "meaning": "n. 胆量／勇气与活力（美式口语）",
+      "start_cue": 238,
+      "end_cue": 238,
+      "start_time": "00:16:31,059",
+      "end_time": "00:16:33,893",
+      "quote": "Moxie is in such short supply these days."
+    },
+    {
+      "word": "in short supply",
+      "meaning": "供应不足／稀缺的；此处指有胆量的人少",
+      "start_cue": 238,
+      "end_cue": 238,
+      "start_time": "00:16:31,059",
+      "end_time": "00:16:33,893",
+      "quote": "Moxie is in such short supply these days."
+    },
+    {
+      "word": "pride yourself on",
+      "meaning": "v. 以某事为傲",
+      "start_cue": 240,
+      "end_cue": 240,
+      "start_time": "00:16:35,029",
+      "end_time": "00:16:37,279",
+      "quote": "Well, I pride myself on my moxie."
+    },
+    {
+      "word": "fee",
+      "meaning": "n. 服务费／律师费",
+      "start_cue": 245,
+      "end_cue": 245,
+      "start_time": "00:16:48,409",
+      "end_time": "00:16:52,211",
+      "quote": "Now, uh, my fee is $140."
+    },
+    {
+      "word": "nail",
+      "meaning": "n. 指甲；此处不是钉子",
+      "start_cue": 256,
+      "end_cue": 256,
+      "start_time": "00:17:48,136",
+      "end_time": "00:17:51,387",
+      "quote": "Put it on the nail, not the skin.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "toe / big toe",
+      "meaning": "n. 脚趾／大脚趾",
+      "start_cue": 256,
+      "end_cue": 259,
+      "start_time": "00:17:48,136",
+      "end_time": "00:17:57,643",
+      "quote": "Put it on the nail, not the skin. I can't help it if your toes are too small. They should all be the same size... The size of the big toe."
+    },
+    {
+      "word": "corn",
+      "meaning": "n. 玉米（美式）",
+      "start_cue": 270,
+      "end_cue": 271,
+      "start_time": "00:18:24,972",
+      "end_time": "00:18:28,557",
+      "quote": "- Is that a piece of corn? - No, don't. Did you eat corn, Chandler?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "lousy",
+      "meaning": "adj. 糟糕的（口语）",
+      "start_cue": 275,
+      "end_cue": 276,
+      "start_time": "00:18:34,682",
+      "end_time": "00:18:38,767",
+      "quote": "Oh. Even your lousy days are more interesting than my good ones."
+    },
+    {
+      "word": "make a living",
+      "meaning": "v. 谋生",
+      "start_cue": 278,
+      "end_cue": 278,
+      "start_time": "00:18:44,025",
+      "end_time": "00:18:46,992",
+      "quote": "Seriously, don't ever try to make a living at this."
+    },
+    {
+      "word": "department",
+      "meaning": "n. 某一方面／领域（口语）；此处律师事业这一方面",
+      "start_cue": 281,
+      "end_cue": 281,
+      "start_time": "00:18:51,282",
+      "end_time": "00:18:53,916",
+      "quote": "Lighting the world on fire in that department.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "will",
+      "meaning": "n. 遗嘱；此处不是情态动词 will",
+      "start_cue": 282,
+      "end_cue": 282,
+      "start_time": "00:18:53,951",
+      "end_time": "00:18:56,285",
+      "quote": "Did two wills today."
+    },
+    {
+      "word": "living trust",
+      "meaning": "n. 生前信托（法律）",
+      "start_cue": 283,
+      "end_cue": 283,
+      "start_time": "00:18:56,337",
+      "end_time": "00:18:58,954",
+      "quote": "Two wills, and I started a living trust."
+    },
+    {
+      "word": "elder law",
+      "meaning": "n. 老年人权益相关法律业务（美国法律）",
+      "start_cue": 285,
+      "end_cue": 285,
+      "start_time": "00:19:01,209",
+      "end_time": "00:19:03,092",
+      "quote": "Maybe you got a future in elder law."
+    },
+    {
+      "word": "glamour",
+      "meaning": "n. 魅力／光鲜感；此处反讽老年法律业务",
+      "start_cue": 286,
+      "end_cue": 286,
+      "start_time": "00:19:03,127",
+      "end_time": "00:19:05,294",
+      "quote": "You think I could handle all that glamour?"
+    },
+    {
+      "word": "insurance company",
+      "meaning": "n. 保险公司",
+      "start_cue": 292,
+      "end_cue": 292,
+      "start_time": "00:19:17,024",
+      "end_time": "00:19:19,108",
+      "quote": "Insurance companies,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "scumbag",
+      "meaning": "n. 人渣／卑鄙的人（粗俗贬义）",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:19:19,143",
+      "end_time": "00:19:22,861",
+      "quote": "my scumbag cousins stealing her savings and her pain meds."
+    },
+    {
+      "word": "savings",
+      "meaning": "n. 积蓄／存款",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:19:19,143",
+      "end_time": "00:19:22,861",
+      "quote": "my scumbag cousins stealing her savings and her pain meds."
+    },
+    {
+      "word": "pain meds",
+      "meaning": "n. 止痛药；meds 是 medications 的口语缩略",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:19:19,143",
+      "end_time": "00:19:22,861",
+      "quote": "my scumbag cousins stealing her savings and her pain meds."
+    },
+    {
+      "word": "suck",
+      "meaning": "v. 很糟糕／令人讨厌（随意粗鲁口语）",
+      "start_cue": 294,
+      "end_cue": 294,
+      "start_time": "00:19:22,897",
+      "end_time": "00:19:25,648",
+      "quote": "Getting old sucks.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "senior",
+      "meaning": "n. 老年人；此处不是年级或资历高的人",
+      "start_cue": 295,
+      "end_cue": 295,
+      "start_time": "00:19:25,700",
+      "end_time": "00:19:27,399",
+      "quote": "Seniors need someone on their side."
+    },
+    {
+      "word": "track sb. down",
+      "meaning": "v. 找到某人／追查到某人下落",
+      "start_cue": 303,
+      "end_cue": 303,
+      "start_time": "00:19:53,844",
+      "end_time": "00:19:57,429",
+      "quote": "I'll see if I can, um, track Jimmy down."
+    },
+    {
+      "word": "security",
+      "meaning": "n. 保安人员",
+      "start_cue": 314,
+      "end_cue": 314,
+      "start_time": "00:20:35,345",
+      "end_time": "00:20:37,098",
+      "quote": "- I'm getting security. - No, uh, wait, wait.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "torture chamber",
+      "meaning": "n. 刑讯室；此处夸张指有电器的病房",
+      "start_cue": 321,
+      "end_cue": 321,
+      "start_time": "00:20:51,031",
+      "end_time": "00:20:52,947",
+      "quote": "What the hell kind of torture chamber you running here?"
+    },
+    {
+      "word": "allergic to",
+      "meaning": "adj. 对某物过敏的",
+      "start_cue": 322,
+      "end_cue": 322,
+      "start_time": "00:20:52,999",
+      "end_time": "00:20:54,782",
+      "quote": "He... he's allergic to electricity, all right?"
+    },
+    {
+      "word": "microwave",
+      "meaning": "n. 微波炉",
+      "start_cue": 324,
+      "end_cue": 324,
+      "start_time": "00:20:57,203",
+      "end_time": "00:20:58,536",
+      "quote": "You might as well throw him into a microwave."
+    },
+    {
+      "word": "hallway",
+      "meaning": "n. 走廊",
+      "start_cue": 334,
+      "end_cue": 334,
+      "start_time": "00:21:21,435",
+      "end_time": "00:21:23,468",
+      "quote": "Edwin, why don't you go wait in the hallway?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "battery",
+      "meaning": "n. 电池",
+      "start_cue": 339,
+      "end_cue": 339,
+      "start_time": "00:21:35,149",
+      "end_time": "00:21:38,567",
+      "quote": "My phone and stuff... Anything with a battery in it...",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "agitated",
+      "meaning": "adj. 焦躁不安／激动的",
+      "start_cue": 349,
+      "end_cue": 349,
+      "start_time": "00:22:02,509",
+      "end_time": "00:22:04,560",
+      "quote": "but the police found him in a very agitated state."
+    },
+    {
+      "word": "confrontational",
+      "meaning": "adj. 咄咄逼人／倾向对抗的",
+      "start_cue": 350,
+      "end_cue": 350,
+      "start_time": "00:22:04,595",
+      "end_time": "00:22:07,479",
+      "quote": "He was confrontational and incoherent."
+    },
+    {
+      "word": "incoherent",
+      "meaning": "adj. 语无伦次的",
+      "start_cue": 350,
+      "end_cue": 350,
+      "start_time": "00:22:04,595",
+      "end_time": "00:22:07,479",
+      "quote": "He was confrontational and incoherent."
+    },
+    {
+      "word": "prick",
+      "meaning": "n. 讨厌鬼／混蛋（粗俗侮辱）",
+      "start_cue": 353,
+      "end_cue": 353,
+      "start_time": "00:22:10,601",
+      "end_time": "00:22:13,602",
+      "quote": "through my brother's prick of a law partner?"
+    },
+    {
+      "word": "business card",
+      "meaning": "n. 名片",
+      "start_cue": 354,
+      "end_cue": 355,
+      "start_time": "00:22:13,654",
+      "end_time": "00:22:17,155",
+      "quote": "The only contact information we could find was a business card.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "commit",
+      "meaning": "v. 依法将某人送入精神病院；不是“承诺”",
+      "start_cue": 356,
+      "end_cue": 357,
+      "start_time": "00:22:17,191",
+      "end_time": "00:22:24,696",
+      "quote": "Jimmy, in my opinion, Charles should be committed for 30 days of psychiatric observation."
+    },
+    {
+      "word": "psychiatric observation",
+      "meaning": "n. 精神科观察（医学）",
+      "start_cue": 357,
+      "end_cue": 357,
+      "start_time": "00:22:21,195",
+      "end_time": "00:22:24,696",
+      "quote": "for 30 days of psychiatric observation."
+    },
+    {
+      "word": "petition",
+      "meaning": "n. 正式申请；此处申请评估家属的精神状态",
+      "start_cue": 359,
+      "end_cue": 359,
+      "start_time": "00:22:26,200",
+      "end_time": "00:22:29,034",
+      "quote": "you can submit a petition for him to be evaluated."
+    },
+    {
+      "word": "evaluate",
+      "meaning": "v. 评估；此处医疗评估",
+      "start_cue": 359,
+      "end_cue": 359,
+      "start_time": "00:22:26,200",
+      "end_time": "00:22:29,034",
+      "quote": "you can submit a petition for him to be evaluated."
+    },
+    {
+      "word": "submit",
+      "meaning": "v. 提交；submit a petition 提交正式申请",
+      "start_cue": 359,
+      "end_cue": 359,
+      "start_time": "00:22:26,200",
+      "end_time": "00:22:29,034",
+      "quote": "you can submit a petition for him to be evaluated.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "facility",
+      "meaning": "n. 机构／设施；此处治疗机构",
+      "start_cue": 360,
+      "end_cue": 360,
+      "start_time": "00:22:29,036",
+      "end_time": "00:22:31,536",
+      "quote": "There's an excellent facility in Las Cruces."
+    },
+    {
+      "word": "warrant",
+      "meaning": "n. 搜查令／执法授权令（法律）",
+      "start_cue": 368,
+      "end_cue": 368,
+      "start_time": "00:22:47,354",
+      "end_time": "00:22:52,808",
+      "quote": "The police kicked in my door... No warrant, no cause."
+    },
+    {
+      "word": "privacy",
+      "meaning": "n. 私人空间／不受打扰的状态",
+      "start_cue": 374,
+      "end_cue": 374,
+      "start_time": "00:23:02,069",
+      "end_time": "00:23:04,236",
+      "quote": "I'm sorry. I can give you privacy.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "pager",
+      "meaning": "n. 寻呼机",
+      "start_cue": 379,
+      "end_cue": 379,
+      "start_time": "00:23:12,546",
+      "end_time": "00:23:15,414",
+      "quote": "Uh, do... do you have a phone or a... a pager,"
+    },
+    {
+      "word": "oversight",
+      "meaning": "n. 疏忽／遗漏；此处忘了自己带寻呼机",
+      "start_cue": 384,
+      "end_cue": 384,
+      "start_time": "00:23:26,176",
+      "end_time": "00:23:28,260",
+      "quote": "Oversight. Sorry about that."
+    },
+    {
+      "word": "electromagnetic hypersensitivity",
+      "meaning": "n. 电磁过敏；人物自述的病症称呼，非本文件确证的医学诊断",
+      "start_cue": 388,
+      "end_cue": 388,
+      "start_time": "00:23:38,605",
+      "end_time": "00:23:40,856",
+      "quote": "Electromagnetic hypersensitivity."
+    },
+    {
+      "word": "nervous system",
+      "meaning": "n. 神经系统",
+      "start_cue": 389,
+      "end_cue": 389,
+      "start_time": "00:23:40,908",
+      "end_time": "00:23:44,526",
+      "quote": "For reasons unknown, my nervous system has become sensitized"
+    },
+    {
+      "word": "sensitize",
+      "meaning": "v. 使变得敏感；sensitized to 对某物敏感",
+      "start_cue": 389,
+      "end_cue": 390,
+      "start_time": "00:23:40,908",
+      "end_time": "00:23:47,746",
+      "quote": "For reasons unknown, my nervous system has become sensitized to certain frequencies of electromagnetic radiation."
+    },
+    {
+      "word": "frequency",
+      "meaning": "n. 频率（物理）",
+      "start_cue": 390,
+      "end_cue": 390,
+      "start_time": "00:23:44,578",
+      "end_time": "00:23:47,746",
+      "quote": "to certain frequencies of electromagnetic radiation."
+    },
+    {
+      "word": "radiation",
+      "meaning": "n. 辐射；此处电磁辐射",
+      "start_cue": 390,
+      "end_cue": 390,
+      "start_time": "00:23:44,578",
+      "end_time": "00:23:47,746",
+      "quote": "to certain frequencies of electromagnetic radiation."
+    },
+    {
+      "word": "oversimplification",
+      "meaning": "n. 过度简化",
+      "start_cue": 392,
+      "end_cue": 392,
+      "start_time": "00:23:50,451",
+      "end_time": "00:23:52,334",
+      "quote": "Well, it's an oversimplification,"
+    },
+    {
+      "word": "electromagnetic field",
+      "meaning": "n. 电磁场",
+      "start_cue": 394,
+      "end_cue": 394,
+      "start_time": "00:23:54,955",
+      "end_time": "00:24:00,693",
+      "quote": "Electronic devices create their own electromagnetic fields."
+    },
+    {
+      "word": "symptom",
+      "meaning": "n. 症状",
+      "start_cue": 395,
+      "end_cue": 395,
+      "start_time": "00:24:01,128",
+      "end_time": "00:24:05,097",
+      "quote": "The closer I am to such devices, the worse my symptoms."
+    },
+    {
+      "word": "sensation",
+      "meaning": "n. 感觉；burning sensation 灼烧感",
+      "start_cue": 397,
+      "end_cue": 397,
+      "start_time": "00:24:06,600",
+      "end_time": "00:24:09,051",
+      "quote": "Burning sensation on my skin,"
+    },
+    {
+      "word": "sharp pain",
+      "meaning": "n. 剧烈刺痛；sharp 此处不是精明",
+      "start_cue": 397,
+      "end_cue": 399,
+      "start_time": "00:24:06,600",
+      "end_time": "00:24:15,190",
+      "quote": "Burning sensation on my skin, a sharp, cold pain in my bones, muscle fatigue, heart palpitations,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "fatigue",
+      "meaning": "n. 疲劳；muscle fatigue 肌肉疲劳",
+      "start_cue": 399,
+      "end_cue": 399,
+      "start_time": "00:24:12,139",
+      "end_time": "00:24:15,190",
+      "quote": "muscle fatigue, heart palpitations,"
+    },
+    {
+      "word": "palpitations",
+      "meaning": "n. 心悸／心跳明显加快或异常（医学）",
+      "start_cue": 399,
+      "end_cue": 399,
+      "start_time": "00:24:12,139",
+      "end_time": "00:24:15,190",
+      "quote": "muscle fatigue, heart palpitations,"
+    },
+    {
+      "word": "muscle",
+      "meaning": "n. 肌肉",
+      "start_cue": 399,
+      "end_cue": 399,
+      "start_time": "00:24:12,139",
+      "end_time": "00:24:15,190",
+      "quote": "muscle fatigue, heart palpitations,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "blurred vision",
+      "meaning": "n. 视物模糊",
+      "start_cue": 400,
+      "end_cue": 400,
+      "start_time": "00:24:15,225",
+      "end_time": "00:24:17,526",
+      "quote": "blurred vision, tinnitus,"
+    },
+    {
+      "word": "tinnitus",
+      "meaning": "n. 耳鸣（医学）",
+      "start_cue": 400,
+      "end_cue": 400,
+      "start_time": "00:24:15,225",
+      "end_time": "00:24:17,526",
+      "quote": "blurred vision, tinnitus,"
+    },
+    {
+      "word": "vertigo",
+      "meaning": "n. 眩晕（医学）",
+      "start_cue": 401,
+      "end_cue": 401,
+      "start_time": "00:24:17,561",
+      "end_time": "00:24:20,862",
+      "quote": "vertigo, nausea, shortness of breath,"
+    },
+    {
+      "word": "nausea",
+      "meaning": "n. 恶心／反胃（医学）",
+      "start_cue": 401,
+      "end_cue": 401,
+      "start_time": "00:24:17,561",
+      "end_time": "00:24:20,862",
+      "quote": "vertigo, nausea, shortness of breath,"
+    },
+    {
+      "word": "shortness of breath",
+      "meaning": "n. 呼吸急促／气短",
+      "start_cue": 401,
+      "end_cue": 401,
+      "start_time": "00:24:17,561",
+      "end_time": "00:24:20,862",
+      "quote": "vertigo, nausea, shortness of breath,"
+    },
+    {
+      "word": "discomfort",
+      "meaning": "n. 不适",
+      "start_cue": 409,
+      "end_cue": 409,
+      "start_time": "00:24:38,916",
+      "end_time": "00:24:41,583",
+      "quote": "That's a... that's a long time to live with discomfort."
+    },
+    {
+      "word": "distressing",
+      "meaning": "adj. 令人痛苦／忧虑的",
+      "start_cue": 416,
+      "end_cue": 416,
+      "start_time": "00:24:55,349",
+      "end_time": "00:24:57,099",
+      "quote": "You find that idea distressing."
+    },
+    {
+      "word": "inappropriate",
+      "meaning": "adj. 不合适的",
+      "start_cue": 418,
+      "end_cue": 418,
+      "start_time": "00:24:58,652",
+      "end_time": "00:25:01,153",
+      "quote": "I... I find it inappropriate"
+    },
+    {
+      "word": "delusion",
+      "meaning": "n. 妄想／错误的坚定信念；此处医疗语境",
+      "start_cue": 421,
+      "end_cue": 421,
+      "start_time": "00:25:09,530",
+      "end_time": "00:25:12,447",
+      "quote": "knows that this isn't some kind of delusion."
+    },
+    {
+      "word": "decade",
+      "meaning": "n. 十年",
+      "start_cue": 425,
+      "end_cue": 425,
+      "start_time": "00:25:17,204",
+      "end_time": "00:25:19,671",
+      "quote": "You've known me for the better part of a decade.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "exhibit",
+      "meaning": "v. 表现出／显现；exhibit signs 表现出迹象",
+      "start_cue": 426,
+      "end_cue": 427,
+      "start_time": "00:25:19,706",
+      "end_time": "00:25:24,259",
+      "quote": "Have you ever seen me exhibit any sign... Any sign whatsoever of mental illness?"
+    },
+    {
+      "word": "cure",
+      "meaning": "v. 治好疾病／治愈某人",
+      "start_cue": 429,
+      "end_cue": 429,
+      "start_time": "00:25:25,796",
+      "end_time": "00:25:27,712",
+      "quote": "If I thought for one second you could cure me,"
+    },
+    {
+      "word": "psychiatry",
+      "meaning": "n. 精神病学／精神科治疗",
+      "start_cue": 432,
+      "end_cue": 432,
+      "start_time": "00:25:31,718",
+      "end_time": "00:25:33,218",
+      "quote": "psychiatry doesn't have the answers."
+    },
+    {
+      "word": "consistent with",
+      "meaning": "adj. 与某物一致／相符的",
+      "start_cue": 435,
+      "end_cue": 435,
+      "start_time": "00:25:38,559",
+      "end_time": "00:25:40,559",
+      "quote": "\"The proposed commitment is consistent with"
+    },
+    {
+      "word": "principle",
+      "meaning": "n. 原则；此处法律中的最少强制手段原则",
+      "start_cue": 435,
+      "end_cue": 437,
+      "start_time": "00:25:38,559",
+      "end_time": "00:25:46,148",
+      "quote": "\"The proposed commitment is consistent with \"the treatment needs of the client and with the least drastic means principle.\"",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "drastic",
+      "meaning": "adj. 激烈的／极端的；least drastic means 最少强制性的手段",
+      "start_cue": 437,
+      "end_cue": 437,
+      "start_time": "00:25:42,696",
+      "end_time": "00:25:46,148",
+      "quote": "and with the least drastic means principle.\""
+    },
+    {
+      "word": "subject sb. to sth.",
+      "meaning": "v. 使某人遭受某事",
+      "start_cue": 438,
+      "end_cue": 438,
+      "start_time": "00:25:46,200",
+      "end_time": "00:25:50,068",
+      "quote": "Do you think subjecting me to this kind of pain for a month"
+    },
+    {
+      "word": "wood chipper",
+      "meaning": "n. 木材粉碎机",
+      "start_cue": 440,
+      "end_cue": 440,
+      "start_time": "00:25:51,538",
+      "end_time": "00:25:53,572",
+      "quote": "He might as well spend a month in a wood chipper."
+    },
+    {
+      "word": "frustration",
+      "meaning": "n. 挫败感／苦恼",
+      "start_cue": 441,
+      "end_cue": 441,
+      "start_time": "00:25:55,492",
+      "end_time": "00:25:59,461",
+      "quote": "I understand your frustration. I do.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "lantern",
+      "meaning": "n. 提灯；此处燃料灯",
+      "start_cue": 448,
+      "end_cue": 448,
+      "start_time": "00:26:16,930",
+      "end_time": "00:26:19,681",
+      "quote": "I use white-gas lanterns."
+    },
+    {
+      "word": "cooler",
+      "meaning": "n. 保冷箱（美式）；此处装冰保存食物",
+      "start_cue": 450,
+      "end_cue": 450,
+      "start_time": "00:26:21,268",
+      "end_time": "00:26:24,069",
+      "quote": "I have a large cooler I keep filled with ice."
+    },
+    {
+      "word": "make do",
+      "meaning": "v. 凑合应付／将就着用",
+      "start_cue": 451,
+      "end_cue": 451,
+      "start_time": "00:26:24,104",
+      "end_time": "00:26:28,073",
+      "quote": "It's not ideal, but I make do."
+    },
+    {
+      "word": "wallet",
+      "meaning": "n. 钱包",
+      "start_cue": 456,
+      "end_cue": 456,
+      "start_time": "00:26:35,949",
+      "end_time": "00:26:38,783",
+      "quote": "Oh, uh, make sure you still have your wallet when you're done.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "demonstration",
+      "meaning": "n. 演示／证明；此处演示电器未造成反应",
+      "start_cue": 461,
+      "end_cue": 461,
+      "start_time": "00:26:58,272",
+      "end_time": "00:27:00,605",
+      "quote": "That wasn't a trick... It was a demonstration.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "manifestation",
+      "meaning": "n. 表现／显现；此处更深层问题的外在表现",
+      "start_cue": 463,
+      "end_cue": 463,
+      "start_time": "00:27:03,110",
+      "end_time": "00:27:05,227",
+      "quote": "It's a manifestation of something deeper."
+    },
+    {
+      "word": "rubber room",
+      "meaning": "n. 软墙隔离室；此处讥讽精神病院的口语说法",
+      "start_cue": 467,
+      "end_cue": 467,
+      "start_time": "00:27:11,118",
+      "end_time": "00:27:13,869",
+      "quote": "and I'm not sending him to a rubber room."
+    },
+    {
+      "word": "specialist",
+      "meaning": "n. 专科医生／专家",
+      "start_cue": 469,
+      "end_cue": 470,
+      "start_time": "00:27:15,956",
+      "end_time": "00:27:18,290",
+      "quote": "There are specialists who will... He's seen specialists, okay?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "heavy lifting",
+      "meaning": "n. 最费力的工作；do the heavy lifting 承担主要困难工作",
+      "start_cue": 475,
+      "end_cue": 475,
+      "start_time": "00:27:24,748",
+      "end_time": "00:27:27,716",
+      "quote": "I'm... I'm the one doing the heavy lifting here."
+    },
+    {
+      "word": "toilet paper",
+      "meaning": "n. 卫生纸",
+      "start_cue": 478,
+      "end_cue": 478,
+      "start_time": "00:27:30,754",
+      "end_time": "00:27:32,387",
+      "quote": "And milk and bread and toilet paper",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "enable",
+      "meaning": "v. 纵容／助长不健康行为；此处区别实际帮助",
+      "start_cue": 480,
+      "end_cue": 480,
+      "start_time": "00:27:34,474",
+      "end_time": "00:27:38,226",
+      "quote": "Is that helping or enabling?"
+    },
+    {
+      "word": "testify",
+      "meaning": "v. 作证（法律）",
+      "start_cue": 481,
+      "end_cue": 481,
+      "start_time": "00:27:38,262",
+      "end_time": "00:27:40,562",
+      "quote": "If you testify in a custodial hearing,"
+    },
+    {
+      "word": "involuntarily",
+      "meaning": "adv. 非自愿地／被强制地",
+      "start_cue": 483,
+      "end_cue": 483,
+      "start_time": "00:27:42,933",
+      "end_time": "00:27:44,816",
+      "quote": "To be committed involuntarily,"
+    },
+    {
+      "word": "household accident",
+      "meaning": "n. 家庭内意外事故",
+      "start_cue": 491,
+      "end_cue": 491,
+      "start_time": "00:27:59,333",
+      "end_time": "00:28:01,366",
+      "quote": "What if he just hurts himself in a household accident?"
+    },
+    {
+      "word": "untie",
+      "meaning": "v. 解开绑带／绳子",
+      "start_cue": 499,
+      "end_cue": 499,
+      "start_time": "00:28:37,037",
+      "end_time": "00:28:38,069",
+      "quote": "Untie him."
+    },
+    {
+      "word": "release forms",
+      "meaning": "n. 放行／出院手续文件",
+      "start_cue": 501,
+      "end_cue": 501,
+      "start_time": "00:28:43,076",
+      "end_time": "00:28:44,826",
+      "quote": "A nurse will bring you the release forms."
+    },
+    {
+      "word": "D.A.",
+      "meaning": "n. 地区检察官／地区检察官办公室；district attorney（美国）",
+      "start_cue": 509,
+      "end_cue": 510,
+      "start_time": "00:29:14,608",
+      "end_time": "00:29:20,245",
+      "quote": "I want you to know that I've talked to the D.A., and he absolutely will not sign off on any commitment papers.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "sign off on",
+      "meaning": "v. 正式批准某事",
+      "start_cue": 510,
+      "end_cue": 510,
+      "start_time": "00:29:16,610",
+      "end_time": "00:29:20,245",
+      "quote": "and he absolutely will not sign off on any commitment papers."
+    },
+    {
+      "word": "of sound mind",
+      "meaning": "adj. 精神健全、具备判断能力的（法律）",
+      "start_cue": 512,
+      "end_cue": 512,
+      "start_time": "00:29:22,532",
+      "end_time": "00:29:23,915",
+      "quote": "Chuck is of sound mind."
+    },
+    {
+      "word": "peach",
+      "meaning": "n. 好人／大好人（口语）；本句为讽刺",
+      "start_cue": 514,
+      "end_cue": 514,
+      "start_time": "00:29:27,120",
+      "end_time": "00:29:29,170",
+      "quote": "You're a real peach, Howard."
+    },
+    {
+      "word": "legal guardian",
+      "meaning": "n. 法定监护人",
+      "start_cue": 518,
+      "end_cue": 518,
+      "start_time": "00:29:35,929",
+      "end_time": "00:29:37,345",
+      "quote": "then I'd become his legal guardian,"
+    },
+    {
+      "word": "cash sb. out",
+      "meaning": "v. 将某人的股份／权益变现付给他",
+      "start_cue": 519,
+      "end_cue": 519,
+      "start_time": "00:29:37,381",
+      "end_time": "00:29:38,513",
+      "quote": "and I cash him out of HHM."
+    },
+    {
+      "word": "hash out",
+      "meaning": "v. 充分讨论以解决问题（口语）",
+      "start_cue": 521,
+      "end_cue": 521,
+      "start_time": "00:29:40,050",
+      "end_time": "00:29:41,683",
+      "quote": "You want to hash that out while he's lying in here?"
+    },
+    {
+      "word": "tanning bed",
+      "meaning": "n. 日光浴床／美黑设备",
+      "start_cue": 522,
+      "end_cue": 522,
+      "start_time": "00:29:41,718",
+      "end_time": "00:29:43,268",
+      "quote": "You know, the tanning bed must have melted your brain"
+    },
+    {
+      "word": "well-being",
+      "meaning": "n. 身心健康／安好状态",
+      "start_cue": 526,
+      "end_cue": 526,
+      "start_time": "00:29:49,276",
+      "end_time": "00:29:51,393",
+      "quote": "We're talking about the well-being of a man"
+    },
+    {
+      "word": "factor",
+      "meaning": "n. 因素",
+      "start_cue": 528,
+      "end_cue": 528,
+      "start_time": "00:29:52,946",
+      "end_time": "00:29:54,479",
+      "quote": "There's many factors at play.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "spite",
+      "meaning": "n. 恶意／怨恨；此处报复心理",
+      "start_cue": 529,
+      "end_cue": 529,
+      "start_time": "00:29:54,481",
+      "end_time": "00:29:55,980",
+      "quote": "Spite doesn't have to be one of them."
+    },
+    {
+      "word": "on the fence",
+      "meaning": "adj. 犹豫不决的（口语）",
+      "start_cue": 531,
+      "end_cue": 531,
+      "start_time": "00:29:57,401",
+      "end_time": "00:29:58,616",
+      "quote": "I was on the fence till you showed up,"
+    },
+    {
+      "word": "cash cow",
+      "meaning": "n. 持续带来收入的人或业务（商业比喻）",
+      "start_cue": 533,
+      "end_cue": 533,
+      "start_time": "00:29:59,986",
+      "end_time": "00:30:01,986",
+      "quote": "Wave bye-bye to your cash cow,"
+    },
+    {
+      "word": "pasture",
+      "meaning": "n. 牧场；此处配合 cash cow 作比喻",
+      "start_cue": 534,
+      "end_cue": 534,
+      "start_time": "00:30:01,988",
+      "end_time": "00:30:04,122",
+      "quote": "'cause it's leaving the pasture."
+    },
+    {
+      "word": "sweat",
+      "meaning": "v. 紧张／担心（口语）；此处让 Howard 害怕",
+      "start_cue": 543,
+      "end_cue": 543,
+      "start_time": "00:30:23,009",
+      "end_time": "00:30:25,844",
+      "quote": "I just want to see that son of a bitch sweat."
+    },
+    {
+      "word": "questionable",
+      "meaning": "adj. 值得怀疑／可能不妥的",
+      "start_cue": 567,
+      "end_cue": 567,
+      "start_time": "00:32:20,314",
+      "end_time": "00:32:23,065",
+      "quote": "something questionable, you get worse."
+    },
+    {
+      "word": "retrieve",
+      "meaning": "v. 取回／拿回",
+      "start_cue": 571,
+      "end_cue": 571,
+      "start_time": "00:32:27,288",
+      "end_time": "00:32:29,788",
+      "quote": "because I went out of my house to retrieve the paper."
+    },
+    {
+      "word": "unethical",
+      "meaning": "adj. 不道德的／违背职业伦理的",
+      "start_cue": 577,
+      "end_cue": 577,
+      "start_time": "00:32:41,085",
+      "end_time": "00:32:44,920",
+      "quote": "Uh, you think the billboard thing was unethical,"
+    },
+    {
+      "word": "promotion",
+      "meaning": "n. 宣传推广；此处不是升职",
+      "start_cue": 578,
+      "end_cue": 578,
+      "start_time": "00:32:44,972",
+      "end_time": "00:32:47,006",
+      "quote": "but it was... Promotion."
+    },
+    {
+      "word": "justice",
+      "meaning": "n. 法官；此处最高法院大法官",
+      "start_cue": 580,
+      "end_cue": 580,
+      "start_time": "00:32:48,843",
+      "end_time": "00:32:51,477",
+      "quote": "Which wasn't even allowed until five supreme court justices"
+    },
+    {
+      "word": "bonkers",
+      "meaning": "adj. 疯狂的（随意口语）",
+      "start_cue": 581,
+      "end_cue": 581,
+      "start_time": "00:32:51,512",
+      "end_time": "00:32:54,263",
+      "quote": "went completely bonkers in Bates vs. State bar of Arizona."
+    },
+    {
+      "word": "operative word",
+      "meaning": "n. 关键字／需要特别注意的词",
+      "start_cue": 586,
+      "end_cue": 586,
+      "start_time": "00:33:01,522",
+      "end_time": "00:33:04,156",
+      "quote": "\"Business\" being the operative word there, Chuck,"
+    },
+    {
+      "word": "legit",
+      "meaning": "adj. 合法／正当的（口语）；legitimate 的缩略",
+      "start_cue": 588,
+      "end_cue": 588,
+      "start_time": "00:33:06,527",
+      "end_time": "00:33:10,112",
+      "quote": "Legit business... wills, uh, trusts."
+    },
+    {
+      "word": "trust",
+      "meaning": "n. 信托（法律／财务）；此处不是信任",
+      "start_cue": 588,
+      "end_cue": 588,
+      "start_time": "00:33:06,527",
+      "end_time": "00:33:10,112",
+      "quote": "Legit business... wills, uh, trusts.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "relative",
+      "meaning": "n. 亲属",
+      "start_cue": 592,
+      "end_cue": 592,
+      "start_time": "00:33:17,955",
+      "end_time": "00:33:20,956",
+      "quote": "I mean, you know, relatives coming after their savings,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "telemarketer",
+      "meaning": "n. 电话推销员",
+      "start_cue": 593,
+      "end_cue": 593,
+      "start_time": "00:33:21,008",
+      "end_time": "00:33:23,592",
+      "quote": "telemarketers, reverse-mortgage scams..."
+    },
+    {
+      "word": "reverse-mortgage scam",
+      "meaning": "n. 反向抵押贷款骗局；老人以房产获取贷款的业务被利用行骗",
+      "start_cue": 593,
+      "end_cue": 593,
+      "start_time": "00:33:21,008",
+      "end_time": "00:33:23,592",
+      "quote": "telemarketers, reverse-mortgage scams..."
+    },
+    {
+      "word": "promising",
+      "meaning": "adj. 有希望／前景不错的",
+      "start_cue": 598,
+      "end_cue": 598,
+      "start_time": "00:33:33,688",
+      "end_time": "00:33:35,387",
+      "quote": "Promising."
+    },
+    {
+      "word": "showmanship",
+      "meaning": "n. 吸引观众的表演技巧／造势本领",
+      "start_cue": 605,
+      "end_cue": 605,
+      "start_time": "00:33:50,333",
+      "end_time": "00:33:52,333",
+      "quote": "to get the ball rolling, some showmanship..."
+    },
+    {
+      "word": "representation",
+      "meaning": "n. 律师代理／法律辩护",
+      "start_cue": 613,
+      "end_cue": 614,
+      "start_time": "00:34:03,408",
+      "end_time": "00:34:06,692",
+      "quote": "and I'm gonna give them the best representation I know how to provide."
+    },
+    {
+      "word": "on the up-and-up",
+      "meaning": "adj. 诚实正当的／合法的（口语）",
+      "start_cue": 615,
+      "end_cue": 615,
+      "start_time": "00:34:06,744",
+      "end_time": "00:34:08,861",
+      "quote": "I... I'm on the up-and-up, okay?"
+    },
+    {
+      "word": "submit",
+      "meaning": "v. 提请法庭认定／主张（正式法律用语）；不同于提交申请",
+      "start_cue": 627,
+      "end_cue": 629,
+      "start_time": "00:34:48,620",
+      "end_time": "00:34:58,744",
+      "quote": "but I submit he is not on trial here for his past. He is on trial for the murders of Donald Kovack and Eddie Alonzo.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "single-breasted",
+      "meaning": "adj. 单排扣的（服装）",
+      "start_cue": 630,
+      "end_cue": 633,
+      "start_time": "00:35:00,999",
+      "end_time": "00:35:14,310",
+      "quote": "Single-breasted... Light blue or cream. Blue. Linen."
+    },
+    {
+      "word": "cream",
+      "meaning": "n./adj. 奶油色／浅黄白色",
+      "start_cue": 630,
+      "end_cue": 633,
+      "start_time": "00:35:00,999",
+      "end_time": "00:35:14,310",
+      "quote": "Single-breasted... Light blue or cream. Blue. Linen."
+    },
+    {
+      "word": "linen",
+      "meaning": "n. 亚麻布",
+      "start_cue": 630,
+      "end_cue": 633,
+      "start_time": "00:35:00,999",
+      "end_time": "00:35:14,310",
+      "quote": "Single-breasted... Light blue or cream. Blue. Linen."
+    },
+    {
+      "word": "jello",
+      "meaning": "n. 果冻（美式口语，由商品名通用化）",
+      "start_cue": 643,
+      "end_cue": 643,
+      "start_time": "00:36:56,447",
+      "end_time": "00:36:58,080",
+      "quote": "Enjoy the jello."
+    },
+    {
+      "word": "grip",
+      "meaning": "n. 握力；此处握手很有力",
+      "start_cue": 648,
+      "end_cue": 648,
+      "start_time": "00:37:05,456",
+      "end_time": "00:37:07,757",
+      "quote": "I'm good. Whoa! What a grip, young man!"
+    },
+    {
+      "word": "bet",
+      "meaning": "v. 赌钱／打赌",
+      "start_cue": 655,
+      "end_cue": 655,
+      "start_time": "00:37:20,638",
+      "end_time": "00:37:22,021",
+      "quote": "Ah, no betting.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "tablet",
+      "meaning": "n. 药片；此处让老人别把药片藏起来",
+      "start_cue": 659,
+      "end_cue": 659,
+      "start_time": "00:37:30,148",
+      "end_time": "00:37:32,448",
+      "quote": "All right, no cheating. No hiding the tablet."
+    },
+    {
+      "word": "booth",
+      "meaning": "n. 小岗亭；此处停车场收费亭",
+      "start_cue": 661,
+      "end_cue": 661,
+      "start_time": "00:37:44,250",
+      "end_time": "00:37:46,300",
+      "quote": "Hey, there he is... the man in the booth,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "annotated",
+      "meaning": "adj. 带注释的",
+      "start_cue": 663,
+      "end_cue": 665,
+      "start_time": "00:37:48,921",
+      "end_time": "00:37:54,341",
+      "quote": "What you reading there? \"The complete annotated book of rules for parking validation\"?"
+    },
+    {
+      "word": "requisite",
+      "meaning": "adj. 必需的",
+      "start_cue": 669,
+      "end_cue": 670,
+      "start_time": "00:38:01,267",
+      "end_time": "00:38:06,770",
+      "quote": "Well, you'll be pleased to know I have the requisite stickers."
+    },
+    {
+      "word": "sticker",
+      "meaning": "n. 贴纸；此处停车凭证贴纸",
+      "start_cue": 670,
+      "end_cue": 670,
+      "start_time": "00:38:03,936",
+      "end_time": "00:38:06,770",
+      "quote": "I have the requisite stickers.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "bashful",
+      "meaning": "adj. 害羞的／腼腆的（片尾电视对白）",
+      "start_cue": 687,
+      "end_cue": 689,
+      "start_time": "00:42:28,342",
+      "end_time": "00:42:34,730",
+      "quote": "- Really, we're going to be awfully late. - Well, don't be bashful, Lucy. Well, I'm not bashful, but I've never kissed you before, and I don't think this is exactly the place."
+    },
+    {
+      "word": "hesitate",
+      "meaning": "v. 犹豫（片尾电视对白）",
+      "start_cue": 691,
+      "end_cue": 691,
+      "start_time": "00:42:36,734",
+      "end_time": "00:42:39,834",
+      "quote": "you wouldn't hesitate... I can't sleep nights."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "word": "razzmatazz",
+      "cue": 604,
+      "quote": "I just needed some razzmatazz, you know,",
+      "start_time": "00:33:48,331",
+      "end_time": "00:33:50,298",
+      "retained_in": "S01E01",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "attorney-at-law",
+      "cue": 636,
+      "quote": "James McGill, attorney at law.",
+      "start_time": "00:36:41,516",
+      "end_time": "00:36:43,432",
+      "retained_in": "S01E01",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "validate parking",
+      "cue": 665,
+      "quote": "for parking validation\"?",
+      "start_time": "00:37:52,892",
+      "end_time": "00:37:54,341",
+      "retained_in": "S01E01",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "moxie",
+      "cue": 240,
+      "quote": "Well, I pride myself on my moxie.",
+      "start_time": "00:16:35,029",
+      "end_time": "00:16:37,279",
+      "retained_in": "S01E05 cue 238",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "elder law",
+      "cue": 589,
+      "quote": "Uh, I'm... I'm kind of starting to specialize in elder law.",
+      "start_time": "00:33:10,164",
+      "end_time": "00:33:14,617",
+      "retained_in": "S01E05 cue 285",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "will",
+      "cue": 675,
+      "quote": "Need a will? Call McGill.",
+      "start_time": "00:38:16,282",
+      "end_time": "00:38:18,115",
+      "retained_in": "S01E05 cue 282",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    }
+  ],
+  "pending": [
+    {
+      "word": "法律引用疑似字幕误听",
+      "meaning": "待核",
+      "start_cue": 26,
+      "end_cue": 27,
+      "start_time": "00:02:39,636",
+      "end_time": "00:02:47,259",
+      "quote": "The situation a-as missing, versus Arizona, as I pointed out, uh, creates an event...",
+      "reason": "字幕写作 missing, versus Arizona / creates an event，疑似错误案例名和法律表述。未听校，不纠正为其他内容，不作标准英语教学。",
+      "status": "pending; excluded from standard vocabulary teaching"
+    },
+    {
+      "word": "tweaker",
+      "meaning": "待核",
+      "start_cue": 36,
+      "end_cue": 36,
+      "start_time": "00:03:26,884",
+      "end_time": "00:03:28,517",
+      "quote": "Guy sure as shit sounds like a tweaker.",
+      "reason": "语境疑指吸食兴奋剂者，但本次检索未取得权威词典对应义项；保留待核。",
+      "status": "pending; excluded from standard vocabulary teaching"
+    },
+    {
+      "word": "spicy",
+      "meaning": "待核",
+      "start_cue": 230,
+      "end_cue": 230,
+      "start_time": "00:16:12,206",
+      "end_time": "00:16:15,007",
+      "quote": "- Aren't you a spicy one? - Well...",
+      "reason": "此处调情语境可能是俏皮大胆；尚未核实确切语用，不作为标准词义。",
+      "status": "pending; excluded from standard vocabulary teaching"
+    },
+    {
+      "word": "niblet",
+      "meaning": "待核",
+      "start_cue": 272,
+      "end_cue": 272,
+      "start_time": "00:18:28,593",
+      "end_time": "00:18:30,176",
+      "quote": "- Is that a niblet I see, Chandler? - That's disgusting.",
+      "reason": "语境指一小粒玉米，尚未核实字幕词形及辞书收录。",
+      "status": "pending; excluded from standard vocabulary teaching"
+    },
+    {
+      "word": "custodial hearing",
+      "meaning": "待核",
+      "start_cue": 481,
+      "end_cue": 481,
+      "start_time": "00:27:38,262",
+      "end_time": "00:27:40,562",
+      "quote": "If you testify in a custodial hearing,",
+      "reason": "此处涉及精神科收治／监护听证；词组具体法律程序待核，不能推成一般儿童监护权听证。",
+      "status": "pending; excluded from standard vocabulary teaching"
+    }
+  ],
+  "vocabulary_coverage": {
+    "scope": "整集字幕所有 cue，包括电视背景对白；无需固定数量；不因考试词或 chunks 中已有而排除",
+    "first_pass_candidates": 191,
+    "second_pass_added": 46,
+    "second_pass_examples": [
+      "determine",
+      "unit",
+      "nightmare",
+      "treat",
+      "privacy",
+      "muscle",
+      "wallet",
+      "trust",
+      "relative",
+      "sticker"
+    ],
+    "categories": [
+      "普通实词",
+      "日常生活词",
+      "口语及粗俗语域",
+      "熟词新义",
+      "法律／医疗／体育词",
+      "有代表性的短搭配"
+    ],
+    "learner_calibration": "E01 首批90项均被用户认为不熟悉且有记录价值，并补 portion/reckoning/plasma/convey；不以旧考试成绩排除其他词",
+    "deduplication": "仅与 E01 和 E05–E07 所选相同义项比较；其他集由主代理统一。新义项及新接法保留。"
+  },
+  "lexical_checks": [
+    {
+      "word": "towheaded",
+      "url": "https://www.merriam-webster.com/dictionary/towheaded",
+      "sense": "very light blond hair; adjective towheaded recorded"
+    }
+  ],
+  "audio_checked": false,
+  "second_pass_reading_batches": [
+    [
+      1,
+      350
+    ],
+    [
+      351,
+      695
+    ]
+  ],
+  "validation": {
+    "source_sha256": "passed against current raw SRT bytes",
+    "cue_sequence": "passed; contiguous 1 through max_cue",
+    "all_items_and_pending_quotes": "passed; exact contiguous cue text after HTML removal and whitespace normalization",
+    "all_items_and_pending_timecodes": "passed against source cue start/end",
+    "audio_review": "not performed; subtitle fidelity is not audio transcription verification"
+  }
+}

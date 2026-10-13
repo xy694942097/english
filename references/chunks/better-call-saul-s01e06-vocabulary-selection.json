@@ -1,0 +1,1814 @@
+{
+  "source": "materials/corpus/tv-subtitles/better-call-saul/S01/Better.Call.Saul.S01E06.en.srt",
+  "sha256": "49abcc9dcde1f9b40833710c559ee14ec7685c16e8b1418a708aae3d550c9d72",
+  "subtitle_blocks_read": 597,
+  "max_cue": 597,
+  "selection_status": "候选义项；尚非学习者逐项不熟悉反馈，也不是掌握证据",
+  "method": "LLM 按 cue 顺序实际通读完整集字幕，各批跨行联系上下文发现候选；程序仅解析字幕、按人工选定 cue 回收原句及核对证据。另行实际第二遍通读检查普通实词遗漏。未听音轨校对。",
+  "reading_batches": [
+    [
+      1,
+      200
+    ],
+    [
+      201,
+      400
+    ],
+    [
+      401,
+      597
+    ]
+  ],
+  "items": [
+    {
+      "word": "out front",
+      "meaning": "adv. 在前面／门口外",
+      "start_cue": 7,
+      "end_cue": 7,
+      "start_time": "00:01:45,511",
+      "end_time": "00:01:48,145",
+      "quote": "Yeah, sure. I'll meet you out front.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "pop-pop",
+      "meaning": "n. 爷爷／外公（儿童称呼，美式）",
+      "start_cue": 14,
+      "end_cue": 14,
+      "start_time": "00:04:09,955",
+      "end_time": "00:04:11,821",
+      "quote": "- Pop-pop's getting tired. - Aw."
+    },
+    {
+      "word": "wide-open spaces",
+      "meaning": "n. 开阔的空间／辽阔地区",
+      "start_cue": 20,
+      "end_cue": 20,
+      "start_time": "00:04:34,513",
+      "end_time": "00:04:37,147",
+      "quote": "I like it. Wide-open spaces."
+    },
+    {
+      "word": "adjust",
+      "meaning": "v. 适应新生活或环境",
+      "start_cue": 26,
+      "end_cue": 26,
+      "start_time": "00:04:50,195",
+      "end_time": "00:04:53,413",
+      "quote": "Adjusting."
+    },
+    {
+      "word": "settle in",
+      "meaning": "v. 安顿下来／适应新环境",
+      "start_cue": 28,
+      "end_cue": 28,
+      "start_time": "00:04:55,033",
+      "end_time": "00:04:59,452",
+      "quote": "Yeah, she's settling in."
+    },
+    {
+      "word": "duration",
+      "meaning": "n. 持续时间；for the duration 在这段时间一直留下",
+      "start_cue": 33,
+      "end_cue": 35,
+      "start_time": "00:05:12,184",
+      "end_time": "00:05:18,605",
+      "quote": "How long you in town for, Mike? I'm here... For the duration, indefinitely."
+    },
+    {
+      "word": "indefinitely",
+      "meaning": "adv. 无限期地／没有确定结束时间",
+      "start_cue": 33,
+      "end_cue": 35,
+      "start_time": "00:05:12,184",
+      "end_time": "00:05:18,605",
+      "quote": "How long you in town for, Mike? I'm here... For the duration, indefinitely."
+    },
+    {
+      "word": "solid",
+      "meaning": "adj. 状态稳定、可靠的（口语）；此处已从崩溃中恢复",
+      "start_cue": 38,
+      "end_cue": 38,
+      "start_time": "00:05:25,197",
+      "end_time": "00:05:29,449",
+      "quote": "But I'm not like I was. I'm back. I'm solid."
+    },
+    {
+      "word": "move on",
+      "meaning": "v. 放下过去、继续生活",
+      "start_cue": 44,
+      "end_cue": 44,
+      "start_time": "00:05:47,335",
+      "end_time": "00:05:52,505",
+      "quote": "I mean... I know I just need to move on from this,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "moody",
+      "meaning": "adj. 情绪低落／喜怒无常的",
+      "start_cue": 51,
+      "end_cue": 51,
+      "start_time": "00:06:09,858",
+      "end_time": "00:06:11,508",
+      "quote": "Moody, you know?"
+    },
+    {
+      "word": "barely",
+      "meaning": "adv. 几乎不／勉强；barely ate 几乎不吃东西",
+      "start_cue": 52,
+      "end_cue": 52,
+      "start_time": "00:06:11,543",
+      "end_time": "00:06:15,328",
+      "quote": "He barely ate. H... He wasn't sleeping.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "snap at sb.",
+      "meaning": "v. 对某人厉声说话",
+      "start_cue": 53,
+      "end_cue": 53,
+      "start_time": "00:06:15,363",
+      "end_time": "00:06:18,331",
+      "quote": "He snapped at me about the stupidest things."
+    },
+    {
+      "word": "clam up",
+      "meaning": "v. 突然闭口不谈（口语）",
+      "start_cue": 56,
+      "end_cue": 56,
+      "start_time": "00:06:22,787",
+      "end_time": "00:06:25,788",
+      "quote": "but he wouldn't talk to me. He clammed right up."
+    },
+    {
+      "word": "touchy-feely",
+      "meaning": "adj. 重视情感表达与交流的（口语，常略贬）",
+      "start_cue": 57,
+      "end_cue": 57,
+      "start_time": "00:06:25,790",
+      "end_time": "00:06:29,876",
+      "quote": "Cops aren't real touchy-feely. You know that."
+    },
+    {
+      "word": "tough guy",
+      "meaning": "n. 硬汉／不示弱的人",
+      "start_cue": 60,
+      "end_cue": 60,
+      "start_time": "00:06:34,299",
+      "end_time": "00:06:38,718",
+      "quote": "But this wasn't the normal \"tough guys don't cry\" crap.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "stairs",
+      "meaning": "n. 楼梯",
+      "start_cue": 74,
+      "end_cue": 75,
+      "start_time": "00:07:10,919",
+      "end_time": "00:07:16,723",
+      "quote": "So... I go to listen on the stairs, where he couldn't see.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "intense",
+      "meaning": "adj. 情绪强烈的／激动的",
+      "start_cue": 76,
+      "end_cue": 76,
+      "start_time": "00:07:16,758",
+      "end_time": "00:07:19,259",
+      "quote": "He gets intense."
+    },
+    {
+      "word": "whisper",
+      "meaning": "v. 低声说／耳语",
+      "start_cue": 77,
+      "end_cue": 78,
+      "start_time": "00:07:19,311",
+      "end_time": "00:07:23,596",
+      "quote": "Like, he'd be screaming if he wasn't whispering, you know?"
+    },
+    {
+      "word": "scream",
+      "meaning": "v. 尖叫／大喊",
+      "start_cue": 77,
+      "end_cue": 78,
+      "start_time": "00:07:19,311",
+      "end_time": "00:07:23,596",
+      "quote": "Like, he'd be screaming if he wasn't whispering, you know?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "worked up",
+      "meaning": "adj. 激动／烦躁的；get worked up 激动起来",
+      "start_cue": 79,
+      "end_cue": 79,
+      "start_time": "00:07:23,648",
+      "end_time": "00:07:26,432",
+      "quote": "Matty didn't get worked up. He'd let things go."
+    },
+    {
+      "word": "make out",
+      "meaning": "v. 听清／辨认出；此处没听清电话内容",
+      "start_cue": 83,
+      "end_cue": 83,
+      "start_time": "00:07:35,193",
+      "end_time": "00:07:39,362",
+      "quote": "I couldn't make it out. It was something about..."
+    },
+    {
+      "word": "call sb. out",
+      "meaning": "v. 质问某人／指出某人的问题（口语）",
+      "start_cue": 85,
+      "end_cue": 86,
+      "start_time": "00:07:43,201",
+      "end_time": "00:07:47,670",
+      "quote": "But the next morning, I called him out... \"What the hell was that about? What's going on?\""
+    },
+    {
+      "word": "cat around",
+      "meaning": "v. 在外寻欢／乱搞男女关系（美式俚语）；此处怀疑丈夫有外遇",
+      "start_cue": 93,
+      "end_cue": 95,
+      "start_time": "00:08:02,887",
+      "end_time": "00:08:08,808",
+      "quote": "For one hot second, I thought maybe he was catting around... No, he wouldn't do that."
+    },
+    {
+      "word": "thick as thieves",
+      "meaning": "adj. 关系极亲密的（口语）",
+      "start_cue": 98,
+      "end_cue": 98,
+      "start_time": "00:08:14,064",
+      "end_time": "00:08:16,031",
+      "quote": "You were thick as thieves, the two of you."
+    },
+    {
+      "word": "heart-to-heart",
+      "meaning": "n. 坦诚谈心（口语）",
+      "start_cue": 103,
+      "end_cue": 103,
+      "start_time": "00:08:26,710",
+      "end_time": "00:08:29,878",
+      "quote": "I can't recall any late-night heart-to-hearts with him,"
+    },
+    {
+      "word": "recall",
+      "meaning": "v. 回想起／记得",
+      "start_cue": 103,
+      "end_cue": 103,
+      "start_time": "00:08:26,710",
+      "end_time": "00:08:29,878",
+      "quote": "I can't recall any late-night heart-to-hearts with him,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "C.I.",
+      "meaning": "n. 秘密线人；confidential informant（警方用语）",
+      "start_cue": 105,
+      "end_cue": 105,
+      "start_time": "00:08:31,582",
+      "end_time": "00:08:35,500",
+      "quote": "Maybe it was a C.I. or a case."
+    },
+    {
+      "word": "replay",
+      "meaning": "v. 反复回想；此处在脑中回放事件",
+      "start_cue": 107,
+      "end_cue": 107,
+      "start_time": "00:08:37,754",
+      "end_time": "00:08:40,922",
+      "quote": "I know what you're doing... replaying it over and over,"
+    },
+    {
+      "word": "beat yourself up",
+      "meaning": "v. 责备自己／自责（口语）",
+      "start_cue": 112,
+      "end_cue": 112,
+      "start_time": "00:08:53,270",
+      "end_time": "00:08:56,538",
+      "quote": "You got to quit beating yourself up like this."
+    },
+    {
+      "word": "quit",
+      "meaning": "v. 停止；quit doing sth. 停止做某事",
+      "start_cue": 112,
+      "end_cue": 112,
+      "start_time": "00:08:53,270",
+      "end_time": "00:08:56,538",
+      "quote": "You got to quit beating yourself up like this.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "drop by",
+      "meaning": "v. 顺便来访",
+      "start_cue": 121,
+      "end_cue": 122,
+      "start_time": "00:09:35,779",
+      "end_time": "00:09:40,565",
+      "quote": "Well, if you want me to drop by and keep an eye on her, I...",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "sew up",
+      "meaning": "v. 缝合；此处缝合枪伤",
+      "start_cue": 131,
+      "end_cue": 131,
+      "start_time": "00:10:41,044",
+      "end_time": "00:10:44,262",
+      "quote": "You sew this up yourself?"
+    },
+    {
+      "word": "sting",
+      "meaning": "n. 短暂刺痛；此处处理伤口时的疼痛",
+      "start_cue": 135,
+      "end_cue": 135,
+      "start_time": "00:10:51,471",
+      "end_time": "00:10:54,639",
+      "quote": "All right. Little sting here."
+    },
+    {
+      "word": "take it easy",
+      "meaning": "v. 放松／别太累；此处养伤需要休息",
+      "start_cue": 138,
+      "end_cue": 138,
+      "start_time": "00:11:00,864",
+      "end_time": "00:11:02,814",
+      "quote": "You're gonna want to take it easy.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "heal",
+      "meaning": "v. 愈合",
+      "start_cue": 140,
+      "end_cue": 140,
+      "start_time": "00:11:04,868",
+      "end_time": "00:11:07,452",
+      "quote": "Keep it dry. Let it heal."
+    },
+    {
+      "word": "block",
+      "meaning": "n. 街区；a couple blocks over 相隔几个街区",
+      "start_cue": 141,
+      "end_cue": 141,
+      "start_time": "00:11:07,487",
+      "end_time": "00:11:10,572",
+      "quote": "There's a Walgreens a couple blocks over on Louisiana.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "sling",
+      "meaning": "n. 手臂吊带（医疗）",
+      "start_cue": 142,
+      "end_cue": 142,
+      "start_time": "00:11:10,574",
+      "end_time": "00:11:12,407",
+      "quote": "Maybe go get yourself a sling."
+    },
+    {
+      "word": "cone",
+      "meaning": "n. 锥形项圈；此处防止动物舔伤口的护颈圈",
+      "start_cue": 145,
+      "end_cue": 145,
+      "start_time": "00:11:15,912",
+      "end_time": "00:11:17,462",
+      "quote": "Got a cone you can put around your neck."
+    },
+    {
+      "word": "throw in",
+      "meaning": "v. 额外附送／把某物加进去",
+      "start_cue": 150,
+      "end_cue": 150,
+      "start_time": "00:11:25,756",
+      "end_time": "00:11:29,758",
+      "quote": "I can, uh, throw some pills in for the pain."
+    },
+    {
+      "word": "human-centric",
+      "meaning": "adj. 以人类为对象的；此处兽医暗示还有动物用药",
+      "start_cue": 150,
+      "end_cue": 155,
+      "start_time": "00:11:25,756",
+      "end_time": "00:11:43,188",
+      "quote": "I can, uh, throw some pills in for the pain. This stuff's essentially Vicodin. I can give it to you for $25 a pill... maybe drop the price to $15 for something a little less human-centric. I'm an aspirin man."
+    },
+    {
+      "word": "essentially",
+      "meaning": "adv. 本质上／基本上",
+      "start_cue": 151,
+      "end_cue": 151,
+      "start_time": "00:11:31,428",
+      "end_time": "00:11:33,061",
+      "quote": "This stuff's essentially Vicodin."
+    },
+    {
+      "word": "pill",
+      "meaning": "n. 药片",
+      "start_cue": 152,
+      "end_cue": 152,
+      "start_time": "00:11:33,096",
+      "end_time": "00:11:35,063",
+      "quote": "I can give it to you for $25 a pill..."
+    },
+    {
+      "word": "drop the price",
+      "meaning": "v. 降低价格",
+      "start_cue": 153,
+      "end_cue": 153,
+      "start_time": "00:11:35,098",
+      "end_time": "00:11:37,482",
+      "quote": "maybe drop the price to $15",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "aspirin",
+      "meaning": "n. 阿司匹林（药）",
+      "start_cue": 155,
+      "end_cue": 155,
+      "start_time": "00:11:40,020",
+      "end_time": "00:11:43,188",
+      "quote": "I'm an aspirin man."
+    },
+    {
+      "word": "on the house",
+      "meaning": "adv. 免费的／店家请客的",
+      "start_cue": 156,
+      "end_cue": 156,
+      "start_time": "00:11:43,240",
+      "end_time": "00:11:47,025",
+      "quote": "Tell you what... take a couple on the house."
+    },
+    {
+      "word": "pass through / stick around",
+      "meaning": "v. 路过／留在附近一段时间（口语）",
+      "start_cue": 160,
+      "end_cue": 160,
+      "start_time": "00:11:55,619",
+      "end_time": "00:11:57,686",
+      "quote": "Passing through or sticking around?"
+    },
+    {
+      "word": "relocate",
+      "meaning": "v. 搬迁／迁居",
+      "start_cue": 163,
+      "end_cue": 163,
+      "start_time": "00:12:01,625",
+      "end_time": "00:12:06,628",
+      "quote": "It's just, if you're relocating to the land of enchantment,"
+    },
+    {
+      "word": "enchantment",
+      "meaning": "n. 魔力／迷人之处；此处 New Mexico 别称中的词",
+      "start_cue": 163,
+      "end_cue": 163,
+      "start_time": "00:12:01,625",
+      "end_time": "00:12:06,628",
+      "quote": "It's just, if you're relocating to the land of enchantment,"
+    },
+    {
+      "word": "formal",
+      "meaning": "adj. 正式的；formal treatment 正式按程序处理",
+      "start_cue": 170,
+      "end_cue": 170,
+      "start_time": "00:12:28,568",
+      "end_time": "00:12:30,952",
+      "quote": "You really want the formal treatment?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "under arrest",
+      "meaning": "被逮捕的（法律）",
+      "start_cue": 176,
+      "end_cue": 176,
+      "start_time": "00:12:40,664",
+      "end_time": "00:12:42,747",
+      "quote": "You're not under arrest."
+    },
+    {
+      "word": "walk",
+      "meaning": "v. 自由离开；此处没被拘留就可走",
+      "start_cue": 178,
+      "end_cue": 178,
+      "start_time": "00:12:44,418",
+      "end_time": "00:12:46,084",
+      "quote": "You want to walk, walk."
+    },
+    {
+      "word": "cooperation",
+      "meaning": "n. 合作／配合",
+      "start_cue": 180,
+      "end_cue": 180,
+      "start_time": "00:12:47,971",
+      "end_time": "00:12:51,172",
+      "quote": "more cooperation from you on this, cop to cop."
+    },
+    {
+      "word": "mayor",
+      "meaning": "n. 市长",
+      "start_cue": 194,
+      "end_cue": 194,
+      "start_time": "00:13:47,666",
+      "end_time": "00:13:50,500",
+      "quote": "the mayor didn't give you enough stickers?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "bill sb.",
+      "meaning": "v. 向某人收取费用",
+      "start_cue": 198,
+      "end_cue": 198,
+      "start_time": "00:13:59,845",
+      "end_time": "00:14:02,012",
+      "quote": "'cause I'm billing you the full hour for it."
+    },
+    {
+      "word": "thoughtful",
+      "meaning": "adj. 体贴／考虑周到的",
+      "start_cue": 200,
+      "end_cue": 200,
+      "start_time": "00:14:03,432",
+      "end_time": "00:14:06,066",
+      "quote": "Oh. That's very thoughtful.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "jacket",
+      "meaning": "n. 夹克／外套",
+      "start_cue": 208,
+      "end_cue": 209,
+      "start_time": "00:14:20,817",
+      "end_time": "00:14:25,669",
+      "quote": "the young one, who's been writing in his little notebook, he's gonna take it and put it in his jacket.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "spill",
+      "meaning": "v. 洒出／泼出液体",
+      "start_cue": 211,
+      "end_cue": 212,
+      "start_time": "00:14:27,289",
+      "end_time": "00:14:33,377",
+      "quote": "I want you to take that coffee and spill it on him... Little accident, that's all."
+    },
+    {
+      "word": "assault",
+      "meaning": "v./n. 袭击；此处称袭警（法律）",
+      "start_cue": 215,
+      "end_cue": 215,
+      "start_time": "00:14:38,681",
+      "end_time": "00:14:40,898",
+      "quote": "So I'm here because you want me to assault a police officer."
+    },
+    {
+      "word": "ounce",
+      "meaning": "n. 盎司（此处液体计量）",
+      "start_cue": 216,
+      "end_cue": 216,
+      "start_time": "00:14:40,933",
+      "end_time": "00:14:44,902",
+      "quote": "I am asking you to take a few ounces of lukewarm coffee"
+    },
+    {
+      "word": "lukewarm",
+      "meaning": "adj. 微温的／不冷不热的",
+      "start_cue": 216,
+      "end_cue": 216,
+      "start_time": "00:14:40,933",
+      "end_time": "00:14:44,902",
+      "quote": "I am asking you to take a few ounces of lukewarm coffee"
+    },
+    {
+      "word": "satisfy",
+      "meaning": "v. 满足条件；satisfy the definition 符合定义",
+      "start_cue": 218,
+      "end_cue": 218,
+      "start_time": "00:14:46,355",
+      "end_time": "00:14:49,773",
+      "quote": "I doubt that satisfies the definition of \"assault,\""
+    },
+    {
+      "word": "definition",
+      "meaning": "n. 定义",
+      "start_cue": 218,
+      "end_cue": 218,
+      "start_time": "00:14:46,355",
+      "end_time": "00:14:49,773",
+      "quote": "I doubt that satisfies the definition of \"assault,\"",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "aid and abet",
+      "meaning": "v. 协助并教唆犯罪（法律）",
+      "start_cue": 221,
+      "end_cue": 221,
+      "start_time": "00:14:55,197",
+      "end_time": "00:14:57,031",
+      "quote": "All you want is for me to aid and abet"
+    },
+    {
+      "word": "notepad",
+      "meaning": "n. 便笺本／记事本",
+      "start_cue": 221,
+      "end_cue": 223,
+      "start_time": "00:14:55,197",
+      "end_time": "00:15:00,834",
+      "quote": "All you want is for me to aid and abet you ripping off that guy's notepad, 'cause that's what you're doing here, right?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "rip off",
+      "meaning": "v. 偷走／盗取（口语）；此处偷笔记本",
+      "start_cue": 222,
+      "end_cue": 222,
+      "start_time": "00:14:57,033",
+      "end_time": "00:14:58,749",
+      "quote": "you ripping off that guy's notepad,"
+    },
+    {
+      "word": "nuts",
+      "meaning": "adj. 疯了的（口语）",
+      "start_cue": 224,
+      "end_cue": 224,
+      "start_time": "00:15:00,870",
+      "end_time": "00:15:02,836",
+      "quote": "Huh? What... Are you nuts?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "assist",
+      "meaning": "n. 帮助／援助",
+      "start_cue": 227,
+      "end_cue": 227,
+      "start_time": "00:15:08,025",
+      "end_time": "00:15:10,608",
+      "quote": "The assist I gave you with the missing-persons problem..."
+    },
+    {
+      "word": "behave",
+      "meaning": "v. 举止／行事；此处像守法律师一样行事",
+      "start_cue": 230,
+      "end_cue": 230,
+      "start_time": "00:15:14,915",
+      "end_time": "00:15:16,581",
+      "quote": "I'm gonna behave",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "law-abiding",
+      "meaning": "adj. 遵纪守法的",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:15:16,616",
+      "end_time": "00:15:20,001",
+      "quote": "like an honest-to-God, law-abiding, licensed attorney,"
+    },
+    {
+      "word": "licensed",
+      "meaning": "adj. 有执照／经许可的；此处有律师执业资格",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:15:16,616",
+      "end_time": "00:15:20,001",
+      "quote": "like an honest-to-God, law-abiding, licensed attorney,"
+    },
+    {
+      "word": "honest-to-God",
+      "meaning": "adj. 真正的／货真价实的（口语强调）",
+      "start_cue": 231,
+      "end_cue": 231,
+      "start_time": "00:15:16,616",
+      "end_time": "00:15:20,001",
+      "quote": "like an honest-to-God, law-abiding, licensed attorney,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "joker",
+      "meaning": "n. 可笑的家伙／蠢货（口语贬义）",
+      "start_cue": 234,
+      "end_cue": 234,
+      "start_time": "00:15:23,457",
+      "end_time": "00:15:25,173",
+      "quote": "Now, those two jokers out in the hallway..."
+    },
+    {
+      "word": "dot the i's and cross the t's",
+      "meaning": "v. 把细节一一做严谨；此处确保警方手续齐全",
+      "start_cue": 235,
+      "end_cue": 235,
+      "start_time": "00:15:25,208",
+      "end_time": "00:15:27,542",
+      "quote": "I'm gonna make sure they dot their I's and cross their t's..."
+    },
+    {
+      "word": "square and above board",
+      "meaning": "adj. 正当坦诚的；此处警方须依法办事",
+      "start_cue": 236,
+      "end_cue": 236,
+      "start_time": "00:15:27,594",
+      "end_time": "00:15:29,961",
+      "quote": "everything square and above board."
+    },
+    {
+      "word": "indulge",
+      "meaning": "v. 满足对方请求／迁就；此处同意听警方提问",
+      "start_cue": 241,
+      "end_cue": 241,
+      "start_time": "00:15:41,558",
+      "end_time": "00:15:44,526",
+      "quote": "Hey, gentlemen, we're prepared to indulge you."
+    },
+    {
+      "word": "sit in",
+      "meaning": "v. 列席／在场旁听",
+      "start_cue": 242,
+      "end_cue": 242,
+      "start_time": "00:15:46,146",
+      "end_time": "00:15:49,698",
+      "quote": "Detective Escalara will be sitting in with us,"
+    },
+    {
+      "word": "as per",
+      "meaning": "prep. 按照（正式）",
+      "start_cue": 243,
+      "end_cue": 243,
+      "start_time": "00:15:49,733",
+      "end_time": "00:15:52,534",
+      "quote": "as per APD policy. Okay with you, right?"
+    },
+    {
+      "word": "policy",
+      "meaning": "n. 政策／制度规定",
+      "start_cue": 243,
+      "end_cue": 243,
+      "start_time": "00:15:49,733",
+      "end_time": "00:15:52,534",
+      "quote": "as per APD policy. Okay with you, right?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "fill sb. in",
+      "meaning": "v. 告诉某人情况／补充背景（口语）",
+      "start_cue": 252,
+      "end_cue": 252,
+      "start_time": "00:16:10,504",
+      "end_time": "00:16:12,670",
+      "quote": "Fill me in."
+    },
+    {
+      "word": "assume",
+      "meaning": "v. 假设／认为",
+      "start_cue": 253,
+      "end_cue": 253,
+      "start_time": "00:16:12,672",
+      "end_time": "00:16:14,889",
+      "quote": "Assume I know absolutely nothing"
+    },
+    {
+      "word": "bubbly",
+      "meaning": "adj. 活泼开朗的；此处讽刺沉默的 Mike",
+      "start_cue": 256,
+      "end_cue": 258,
+      "start_time": "00:16:18,595",
+      "end_time": "00:16:28,269",
+      "quote": "Look, don't let Mr. Ehrmantraut's dancing eyes and bubbly, bon vivant personality fool you. He's actually... believe it or not... somewhat taciturn."
+    },
+    {
+      "word": "bon vivant",
+      "meaning": "n. 爱享受生活的人（法语来源）；此处反讽",
+      "start_cue": 256,
+      "end_cue": 258,
+      "start_time": "00:16:18,595",
+      "end_time": "00:16:28,269",
+      "quote": "Look, don't let Mr. Ehrmantraut's dancing eyes and bubbly, bon vivant personality fool you. He's actually... believe it or not... somewhat taciturn."
+    },
+    {
+      "word": "taciturn",
+      "meaning": "adj. 沉默寡言的",
+      "start_cue": 256,
+      "end_cue": 258,
+      "start_time": "00:16:18,595",
+      "end_time": "00:16:28,269",
+      "quote": "Look, don't let Mr. Ehrmantraut's dancing eyes and bubbly, bon vivant personality fool you. He's actually... believe it or not... somewhat taciturn."
+    },
+    {
+      "word": "personality",
+      "meaning": "n. 性格",
+      "start_cue": 257,
+      "end_cue": 257,
+      "start_time": "00:16:21,431",
+      "end_time": "00:16:24,399",
+      "quote": "and bubbly, bon vivant personality fool you.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "fan",
+      "meaning": "v. 给某人扇风",
+      "start_cue": 259,
+      "end_cue": 259,
+      "start_time": "00:16:28,321",
+      "end_time": "00:16:31,940",
+      "quote": "Shall I fan you gently, so you don't go into shock?"
+    },
+    {
+      "word": "gather",
+      "meaning": "v. 推断／了解到；as you probably gathered 如你大概已经知道",
+      "start_cue": 261,
+      "end_cue": 261,
+      "start_time": "00:16:36,496",
+      "end_time": "00:16:38,446",
+      "quote": "Okay, Mr. McGill, as you probably gathered,"
+    },
+    {
+      "word": "rookie",
+      "meaning": "n./adj. 新人／初入行者；rookie officer 新警员",
+      "start_cue": 268,
+      "end_cue": 268,
+      "start_time": "00:16:51,511",
+      "end_time": "00:16:54,095",
+      "quote": "He was a rookie officer with about two years on the job."
+    },
+    {
+      "word": "shots-fired call",
+      "meaning": "n. 报告有人开枪的报警（警方用语）",
+      "start_cue": 270,
+      "end_cue": 271,
+      "start_time": "00:16:57,017",
+      "end_time": "00:17:02,604",
+      "quote": "About nine months ago, he responded to a shots-fired call in some West Side rattrap."
+    },
+    {
+      "word": "respond to",
+      "meaning": "v. 响应／处理；此处接警出动",
+      "start_cue": 270,
+      "end_cue": 271,
+      "start_time": "00:16:57,017",
+      "end_time": "00:17:02,604",
+      "quote": "About nine months ago, he responded to a shots-fired call in some West Side rattrap.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "rattrap",
+      "meaning": "n. 破旧狭小的住所（口语贬义）",
+      "start_cue": 271,
+      "end_cue": 271,
+      "start_time": "00:16:59,219",
+      "end_time": "00:17:02,604",
+      "quote": "to a shots-fired call in some West Side rattrap."
+    },
+    {
+      "word": "sergeant",
+      "meaning": "n. 警佐／警官级别（警方）",
+      "start_cue": 273,
+      "end_cue": 273,
+      "start_time": "00:17:05,225",
+      "end_time": "00:17:08,443",
+      "quote": "They had sergeant Jack Fensky backing them up."
+    },
+    {
+      "word": "back sb. up",
+      "meaning": "v. 支援某人；此处警员后援",
+      "start_cue": 273,
+      "end_cue": 273,
+      "start_time": "00:17:05,225",
+      "end_time": "00:17:08,443",
+      "quote": "They had sergeant Jack Fensky backing them up."
+    },
+    {
+      "word": "ambush",
+      "meaning": "v./n. 伏击",
+      "start_cue": 275,
+      "end_cue": 275,
+      "start_time": "00:17:10,313",
+      "end_time": "00:17:11,896",
+      "quote": "The three of them were ambushed,"
+    },
+    {
+      "word": "return fire",
+      "meaning": "v. 还击／开枪反击",
+      "start_cue": 277,
+      "end_cue": 277,
+      "start_time": "00:17:14,367",
+      "end_time": "00:17:16,151",
+      "quote": "Hoffman and Fensky returned fire,"
+    },
+    {
+      "word": "shooter",
+      "meaning": "n. 开枪的人／枪手",
+      "start_cue": 278,
+      "end_cue": 278,
+      "start_time": "00:17:16,203",
+      "end_time": "00:17:17,652",
+      "quote": "but the shooter got away."
+    },
+    {
+      "word": "lead",
+      "meaning": "n. 调查线索；此处不是带领",
+      "start_cue": 279,
+      "end_cue": 279,
+      "start_time": "00:17:17,704",
+      "end_time": "00:17:20,488",
+      "quote": "We chased a few leads, shook up the usual suspects..."
+    },
+    {
+      "word": "suspect",
+      "meaning": "n. 嫌疑人（法律）",
+      "start_cue": 279,
+      "end_cue": 279,
+      "start_time": "00:17:17,704",
+      "end_time": "00:17:20,488",
+      "quote": "We chased a few leads, shook up the usual suspects..."
+    },
+    {
+      "word": "come up short",
+      "meaning": "v. 未能达到目标；此处调查没有结果",
+      "start_cue": 280,
+      "end_cue": 280,
+      "start_time": "00:17:20,540",
+      "end_time": "00:17:22,323",
+      "quote": "came up short."
+    },
+    {
+      "word": "beat the bushes",
+      "meaning": "v. 四处搜寻／尽力查找（口语）",
+      "start_cue": 282,
+      "end_cue": 282,
+      "start_time": "00:17:26,713",
+      "end_time": "00:17:28,496",
+      "quote": "Anyways, we kept beating the bushes,"
+    },
+    {
+      "word": "come up dry",
+      "meaning": "v. 一无所获；此处找不到线索",
+      "start_cue": 283,
+      "end_cue": 283,
+      "start_time": "00:17:28,548",
+      "end_time": "00:17:31,499",
+      "quote": "kept coming up dry until three months ago."
+    },
+    {
+      "word": "vacant lot",
+      "meaning": "n. 空地／闲置地块（美式）",
+      "start_cue": 285,
+      "end_cue": 285,
+      "start_time": "00:17:33,753",
+      "end_time": "00:17:35,587",
+      "quote": "in a vacant lot out in nicetown..."
+    },
+    {
+      "word": "in the wind",
+      "meaning": "adj. 不知去向的；此处嫌犯仍然逍遥在外（警方口语）",
+      "start_cue": 287,
+      "end_cue": 287,
+      "start_time": "00:17:38,425",
+      "end_time": "00:17:40,258",
+      "quote": "And with whoever killed Matt out there in the wind,"
+    },
+    {
+      "word": "operating theory",
+      "meaning": "n. 当前用于调查的假设／工作假说",
+      "start_cue": 288,
+      "end_cue": 288,
+      "start_time": "00:17:40,260",
+      "end_time": "00:17:42,677",
+      "quote": "we're thinking... Well, it's our operating theory"
+    },
+    {
+      "word": "mixed up in",
+      "meaning": "adj. 卷入某事的；常指不良活动",
+      "start_cue": 289,
+      "end_cue": 289,
+      "start_time": "00:17:42,729",
+      "end_time": "00:17:45,096",
+      "quote": "that Hoffman and Fensky were mixed up in something,"
+    },
+    {
+      "word": "Hail Mary",
+      "meaning": "n. 孤注一掷的尝试；由美式橄榄球长传比喻而来",
+      "start_cue": 293,
+      "end_cue": 293,
+      "start_time": "00:17:54,407",
+      "end_time": "00:17:56,774",
+      "quote": "Uh, Mike, this is a hail Mary."
+    },
+    {
+      "word": "hard evidence",
+      "meaning": "n. 确凿证据",
+      "start_cue": 295,
+      "end_cue": 295,
+      "start_time": "00:17:59,112",
+      "end_time": "00:18:01,079",
+      "quote": "I mean, if we had any hard evidence or leads,"
+    },
+    {
+      "word": "crawl",
+      "meaning": "v. 爬出；此处比喻摆脱酗酒",
+      "start_cue": 313,
+      "end_cue": 314,
+      "start_time": "00:18:40,737",
+      "end_time": "00:18:45,540",
+      "quote": "Feeling like I crawled out from the bottom of a bottle and working hard to stay there.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "dredge up",
+      "meaning": "v. 翻出不愉快的往事",
+      "start_cue": 316,
+      "end_cue": 316,
+      "start_time": "00:18:47,794",
+      "end_time": "00:18:51,079",
+      "quote": "doesn't help much, dredging up the past like this."
+    },
+    {
+      "word": "funeral",
+      "meaning": "n. 葬礼",
+      "start_cue": 326,
+      "end_cue": 326,
+      "start_time": "00:19:12,936",
+      "end_time": "00:19:14,736",
+      "quote": "you didn't come back for the funerals, correct,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "take a flier",
+      "meaning": "v. 冒险一试（美式口语）；此处警方远赴外州碰碰运气",
+      "start_cue": 331,
+      "end_cue": 332,
+      "start_time": "00:19:27,367",
+      "end_time": "00:19:30,952",
+      "quote": "I'm sorry you guys took a flier on me. I wish it'd have paid off.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "pay off",
+      "meaning": "v. 取得好结果／奏效",
+      "start_cue": 332,
+      "end_cue": 332,
+      "start_time": "00:19:29,536",
+      "end_time": "00:19:30,952",
+      "quote": "I wish it'd have paid off.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "kick around",
+      "meaning": "v. 在附近待着／逗留（口语）",
+      "start_cue": 338,
+      "end_cue": 338,
+      "start_time": "00:19:40,680",
+      "end_time": "00:19:42,046",
+      "quote": "gonna kick around for another couple of days,"
+    },
+    {
+      "word": "paper towel",
+      "meaning": "n. 厨房纸巾／擦手纸",
+      "start_cue": 344,
+      "end_cue": 344,
+      "start_time": "00:19:52,692",
+      "end_time": "00:19:53,891",
+      "quote": "Here. I can get most of it. You got any paper towels?"
+    },
+    {
+      "word": "third-rate",
+      "meaning": "adj. 三流的／很差的",
+      "start_cue": 350,
+      "end_cue": 350,
+      "start_time": "00:20:24,391",
+      "end_time": "00:20:27,342",
+      "quote": "that third-rate Marx brothers routine?"
+    },
+    {
+      "word": "routine",
+      "meaning": "n. 表演桥段；此处指闹剧式配合",
+      "start_cue": 350,
+      "end_cue": 350,
+      "start_time": "00:20:24,391",
+      "end_time": "00:20:27,342",
+      "quote": "that third-rate Marx brothers routine?"
+    },
+    {
+      "word": "obstruction rap",
+      "meaning": "n. 妨碍司法的指控；rap 指刑事指控（俚语）",
+      "start_cue": 352,
+      "end_cue": 352,
+      "start_time": "00:20:29,596",
+      "end_time": "00:20:31,929",
+      "quote": "And risk getting a piece of an obstruction rap?"
+    },
+    {
+      "word": "dirty",
+      "meaning": "adj. 贪赃枉法的；dirty cop 腐败警察（口语）",
+      "start_cue": 381,
+      "end_cue": 381,
+      "start_time": "00:22:49,811",
+      "end_time": "00:22:51,678",
+      "quote": "- I told them... - You tell them Matt was dirty..."
+    },
+    {
+      "word": "unpack",
+      "meaning": "v. 拆开行李／把东西拿出箱子",
+      "start_cue": 386,
+      "end_cue": 386,
+      "start_time": "00:23:00,267",
+      "end_time": "00:23:02,550",
+      "quote": "After Kaylee and I moved here, when I was unpacking,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "lining",
+      "meaning": "n. 衬里／内里；此处行李箱夹层",
+      "start_cue": 386,
+      "end_cue": 389,
+      "start_time": "00:23:00,267",
+      "end_time": "00:23:12,027",
+      "quote": "After Kaylee and I moved here, when I was unpacking, it was in the lining of an old suitcase. Matt must have tucked it away in there, 'cause this was cash... $5,000, $6,000 from God knows where."
+    },
+    {
+      "word": "suitcase",
+      "meaning": "n. 行李箱",
+      "start_cue": 387,
+      "end_cue": 387,
+      "start_time": "00:23:02,602",
+      "end_time": "00:23:04,969",
+      "quote": "it was in the lining of an old suitcase.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "tuck away",
+      "meaning": "v. 藏起来／收起来",
+      "start_cue": 388,
+      "end_cue": 388,
+      "start_time": "00:23:04,971",
+      "end_time": "00:23:08,390",
+      "quote": "Matt must have tucked it away in there, 'cause this was cash..."
+    },
+    {
+      "word": "paycheck to paycheck",
+      "meaning": "adv. 靠每次工资过日子、没有余钱（美式口语）",
+      "start_cue": 390,
+      "end_cue": 390,
+      "start_time": "00:23:12,062",
+      "end_time": "00:23:13,862",
+      "quote": "I mean, we were basically paycheck to paycheck."
+    },
+    {
+      "word": "unconscious",
+      "meaning": "adj. 不省人事的；此处喝到失去意识",
+      "start_cue": 401,
+      "end_cue": 401,
+      "start_time": "00:23:31,832",
+      "end_time": "00:23:34,416",
+      "quote": "Every night, you were drinking yourself unconscious,"
+    },
+    {
+      "word": "clean",
+      "meaning": "adj. 清白／不腐败的；与 dirty 对举",
+      "start_cue": 404,
+      "end_cue": 404,
+      "start_time": "00:23:38,503",
+      "end_time": "00:23:40,138",
+      "quote": "He was dirty, he was clean... I don't care."
+    },
+    {
+      "word": "rot",
+      "meaning": "v. 腐烂；rot in a cell 比喻一辈子烂在牢里",
+      "start_cue": 406,
+      "end_cue": 406,
+      "start_time": "00:23:42,142",
+      "end_time": "00:23:44,342",
+      "quote": "to rot in a cell for the rest of their life,"
+    },
+    {
+      "word": "cell",
+      "meaning": "n. 牢房；此处不是细胞",
+      "start_cue": 406,
+      "end_cue": 406,
+      "start_time": "00:23:42,142",
+      "end_time": "00:23:44,342",
+      "quote": "to rot in a cell for the rest of their life,"
+    },
+    {
+      "word": "dump",
+      "meaning": "v. 随意丢弃／扔掉",
+      "start_cue": 407,
+      "end_cue": 408,
+      "start_time": "00:23:44,344",
+      "end_time": "00:23:48,063",
+      "quote": "and then I want whatever's left of them just dumped in the trash... that's what I want.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "uncover",
+      "meaning": "v. 揭露／发现隐情",
+      "start_cue": 409,
+      "end_cue": 409,
+      "start_time": "00:23:48,098",
+      "end_time": "00:23:50,396",
+      "quote": "I don't care where it leads, what it uncovers."
+    },
+    {
+      "word": "straight with sb.",
+      "meaning": "adj. 对某人坦诚的（口语）",
+      "start_cue": 415,
+      "end_cue": 415,
+      "start_time": "00:24:01,755",
+      "end_time": "00:24:03,921",
+      "quote": "Well, so be straight with me!"
+    },
+    {
+      "word": "bullshit sb.",
+      "meaning": "v. 对某人胡扯／欺骗某人（粗俗）",
+      "start_cue": 418,
+      "end_cue": 418,
+      "start_time": "00:24:08,344",
+      "end_time": "00:24:09,811",
+      "quote": "Don't bullshit me.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "admit",
+      "meaning": "v. 承认",
+      "start_cue": 420,
+      "end_cue": 420,
+      "start_time": "00:24:12,932",
+      "end_time": "00:24:15,066",
+      "quote": "So you're admitting it was you.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "give sb. a lift",
+      "meaning": "v. 开车送某人一程",
+      "start_cue": 435,
+      "end_cue": 435,
+      "start_time": "00:28:06,094",
+      "end_time": "00:28:07,694",
+      "quote": "Hey, how about I give you a lift home?"
+    },
+    {
+      "word": "cab",
+      "meaning": "n. 出租车（口语）",
+      "start_cue": 438,
+      "end_cue": 438,
+      "start_time": "00:28:12,167",
+      "end_time": "00:28:14,334",
+      "quote": "No, I can't let you drive. Get you a cab?",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "tarantula",
+      "meaning": "n. 大型多毛蜘蛛／捕鸟蛛",
+      "start_cue": 446,
+      "end_cue": 446,
+      "start_time": "00:28:37,893",
+      "end_time": "00:28:39,342",
+      "quote": "Tarantulas, they got."
+    },
+    {
+      "word": "minus",
+      "meaning": "n. 缺点／不利因素",
+      "start_cue": 447,
+      "end_cue": 447,
+      "start_time": "00:28:39,394",
+      "end_time": "00:28:41,344",
+      "quote": "That's a big minus in my book."
+    },
+    {
+      "word": "on the lookout",
+      "meaning": "留心察看／保持警惕的",
+      "start_cue": 448,
+      "end_cue": 448,
+      "start_time": "00:28:41,396",
+      "end_time": "00:28:47,267",
+      "quote": "Well, I will be on the lookout."
+    },
+    {
+      "word": "pull over",
+      "meaning": "v. 把车驶到路边停下",
+      "start_cue": 455,
+      "end_cue": 455,
+      "start_time": "00:29:37,118",
+      "end_time": "00:29:39,953",
+      "quote": "Pull over here."
+    },
+    {
+      "word": "tit",
+      "meaning": "n. 乳房（粗俗）；此处侮辱性的夸张比较",
+      "start_cue": 458,
+      "end_cue": 458,
+      "start_time": "00:29:50,331",
+      "end_time": "00:29:51,580",
+      "quote": "It's colder than my ex-wife's tit out here."
+    },
+    {
+      "word": "ass",
+      "meaning": "n. 蠢货／讨厌鬼（粗俗）",
+      "start_cue": 461,
+      "end_cue": 461,
+      "start_time": "00:29:55,003",
+      "end_time": "00:29:56,836",
+      "quote": "Come on. Don't... don't be an ass.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "tie one on",
+      "meaning": "v. 喝得酩酊大醉（口语）",
+      "start_cue": 476,
+      "end_cue": 476,
+      "start_time": "00:30:47,568",
+      "end_time": "00:30:49,935",
+      "quote": "You really tied one on good back there, buddy."
+    },
+    {
+      "word": "put it away",
+      "meaning": "v. 大量喝酒（口语）；it 指酒",
+      "start_cue": 477,
+      "end_cue": 478,
+      "start_time": "00:30:49,937",
+      "end_time": "00:30:54,356",
+      "quote": "Shit, yeah, he did... put it away like they were fixing to bring back prohibition."
+    },
+    {
+      "word": "fixing to",
+      "meaning": "即将／打算做某事（美国地域口语）",
+      "start_cue": 478,
+      "end_cue": 478,
+      "start_time": "00:30:52,189",
+      "end_time": "00:30:54,356",
+      "quote": "fixing to bring back prohibition."
+    },
+    {
+      "word": "prohibition",
+      "meaning": "n. 禁酒令；此处美国历史上的禁酒制度",
+      "start_cue": 478,
+      "end_cue": 478,
+      "start_time": "00:30:52,189",
+      "end_time": "00:30:54,356",
+      "quote": "fixing to bring back prohibition."
+    },
+    {
+      "word": "talk out of your ass",
+      "meaning": "v. 胡说八道（粗俗）",
+      "start_cue": 480,
+      "end_cue": 480,
+      "start_time": "00:30:57,612",
+      "end_time": "00:31:00,029",
+      "quote": "you were talking out your ass, hmm?"
+    },
+    {
+      "word": "get sth. off your chest",
+      "meaning": "v. 说出压在心里的事",
+      "start_cue": 484,
+      "end_cue": 485,
+      "start_time": "00:31:06,787",
+      "end_time": "00:31:11,123",
+      "quote": "You got something you want to get off your chest, something you want to say to us?"
+    },
+    {
+      "word": "crack house",
+      "meaning": "n. 吸食或售卖快克可卡因的场所",
+      "start_cue": 491,
+      "end_cue": 491,
+      "start_time": "00:31:29,143",
+      "end_time": "00:31:33,529",
+      "quote": "You got him in that crack house..."
+    },
+    {
+      "word": "stage",
+      "meaning": "v. 安排／伪造某场面；此处伪造杀人经过",
+      "start_cue": 492,
+      "end_cue": 493,
+      "start_time": "00:31:33,564",
+      "end_time": "00:31:40,486",
+      "quote": "And you staged it... made it look like a junkie with a gun."
+    },
+    {
+      "word": "junkie",
+      "meaning": "n. 瘾君子（口语贬义）",
+      "start_cue": 493,
+      "end_cue": 493,
+      "start_time": "00:31:37,568",
+      "end_time": "00:31:40,486",
+      "quote": "made it look like a junkie with a gun."
+    },
+    {
+      "word": "grief",
+      "meaning": "n. 丧失亲人后的悲痛",
+      "start_cue": 505,
+      "end_cue": 505,
+      "start_time": "00:33:15,193",
+      "end_time": "00:33:17,610",
+      "quote": "Hey. Grief... it's a bitch."
+    },
+    {
+      "word": "let sth. slide",
+      "meaning": "v. 放过某事／不予追究（口语）",
+      "start_cue": 513,
+      "end_cue": 513,
+      "start_time": "00:35:16,605",
+      "end_time": "00:35:20,990",
+      "quote": "You let some things slide and you look the other way."
+    },
+    {
+      "word": "look the other way",
+      "meaning": "v. 假装没看见／故意不干预",
+      "start_cue": 513,
+      "end_cue": 513,
+      "start_time": "00:35:16,605",
+      "end_time": "00:35:20,990",
+      "quote": "You let some things slide and you look the other way."
+    },
+    {
+      "word": "bust",
+      "meaning": "v. 逮捕（警方口语）",
+      "start_cue": 514,
+      "end_cue": 514,
+      "start_time": "00:35:21,026",
+      "end_time": "00:35:22,742",
+      "quote": "You bust a drug dealer"
+    },
+    {
+      "word": "evidence",
+      "meaning": "n. 证物／证据；此处没交回被扣押的钱",
+      "start_cue": 516,
+      "end_cue": 516,
+      "start_time": "00:35:27,415",
+      "end_time": "00:35:32,585",
+      "quote": "Some of it doesn't make it back into evidence... So what?"
+    },
+    {
+      "word": "precinct",
+      "meaning": "n. 警察辖区／分局（美式）",
+      "start_cue": 522,
+      "end_cue": 522,
+      "start_time": "00:35:54,976",
+      "end_time": "00:35:58,394",
+      "quote": "Everyone was in that precinct."
+    },
+    {
+      "word": "turn sb. in",
+      "meaning": "v. 向警方或上级举报某人",
+      "start_cue": 524,
+      "end_cue": 524,
+      "start_time": "00:35:59,981",
+      "end_time": "00:36:05,685",
+      "quote": "You turn in your buddy, you're screwing yourself."
+    },
+    {
+      "word": "screw yourself",
+      "meaning": "v. 害了自己（粗俗口语）",
+      "start_cue": 524,
+      "end_cue": 524,
+      "start_time": "00:35:59,981",
+      "end_time": "00:36:05,685",
+      "quote": "You turn in your buddy, you're screwing yourself."
+    },
+    {
+      "word": "kickback",
+      "meaning": "n. 非法回扣／贿赂",
+      "start_cue": 534,
+      "end_cue": 534,
+      "start_time": "00:36:41,189",
+      "end_time": "00:36:43,990",
+      "quote": "kickbacks from some gang or another..."
+    },
+    {
+      "word": "gang",
+      "meaning": "n. 黑帮／犯罪团伙",
+      "start_cue": 534,
+      "end_cue": 535,
+      "start_time": "00:36:41,189",
+      "end_time": "00:36:46,409",
+      "quote": "kickbacks from some gang or another... protection, basically.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "protection",
+      "meaning": "n. 非法保护／保护费；此处黑帮贿赂警方",
+      "start_cue": 535,
+      "end_cue": 535,
+      "start_time": "00:36:44,025",
+      "end_time": "00:36:46,409",
+      "quote": "protection, basically."
+    },
+    {
+      "word": "cut sb. in",
+      "meaning": "v. 让某人分一份利润／参与收益（口语）",
+      "start_cue": 536,
+      "end_cue": 536,
+      "start_time": "00:36:46,444",
+      "end_time": "00:36:49,245",
+      "quote": "And Hoffman went to Matty and offered to cut him in."
+    },
+    {
+      "word": "agonize",
+      "meaning": "v. 痛苦地反复考虑；此处为是否受贿挣扎",
+      "start_cue": 539,
+      "end_cue": 539,
+      "start_time": "00:36:57,789",
+      "end_time": "00:37:01,174",
+      "quote": "He agonized."
+    },
+    {
+      "word": "I.A.",
+      "meaning": "n. 警方内部监察／内务调查部门；internal affairs",
+      "start_cue": 540,
+      "end_cue": 540,
+      "start_time": "00:37:01,209",
+      "end_time": "00:37:05,595",
+      "quote": "And then he came to me, wanted to go to the I.A.,"
+    },
+    {
+      "word": "turn on sb.",
+      "meaning": "v. 转而攻击／背叛某人；此处举报同伙",
+      "start_cue": 544,
+      "end_cue": 544,
+      "start_time": "00:37:10,218",
+      "end_time": "00:37:11,634",
+      "quote": "'cause he was gonna turn on those guys?"
+    },
+    {
+      "word": "put away",
+      "meaning": "v. 将某人关进监狱（口语）；不同于此集喝酒的义项",
+      "start_cue": 550,
+      "end_cue": 550,
+      "start_time": "00:37:30,488",
+      "end_time": "00:37:32,989",
+      "quote": "getting locked up with everybody you put away."
+    },
+    {
+      "word": "threaten",
+      "meaning": "v. 威胁",
+      "start_cue": 551,
+      "end_cue": 551,
+      "start_time": "00:37:33,041",
+      "end_time": "00:37:38,411",
+      "quote": "You threaten a cop with that, you make him dangerous,",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "talk sense",
+      "meaning": "v. 说有道理的话／劝人理智些",
+      "start_cue": 553,
+      "end_cue": 553,
+      "start_time": "00:37:40,381",
+      "end_time": "00:37:44,167",
+      "quote": "I talked sense."
+    },
+    {
+      "word": "responsibility",
+      "meaning": "n. 责任／必须承担的义务",
+      "start_cue": 557,
+      "end_cue": 557,
+      "start_time": "00:37:52,677",
+      "end_time": "00:37:58,566",
+      "quote": "He had a wife, a kid, responsibilities.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "stubborn",
+      "meaning": "adj. 固执的",
+      "start_cue": 562,
+      "end_cue": 562,
+      "start_time": "00:38:20,955",
+      "end_time": "00:38:23,623",
+      "quote": "My boy was stubborn."
+    },
+    {
+      "word": "get by",
+      "meaning": "v. 勉强维持生活／过下去",
+      "start_cue": 567,
+      "end_cue": 567,
+      "start_time": "00:38:39,891",
+      "end_time": "00:38:42,692",
+      "quote": "that I was like Hoffman, getting by,"
+    },
+    {
+      "word": "talk sb. down",
+      "meaning": "v. 劝某人冷静或打消激烈行动",
+      "start_cue": 569,
+      "end_cue": 569,
+      "start_time": "00:38:45,446",
+      "end_time": "00:38:47,113",
+      "quote": "me talking him down,"
+    },
+    {
+      "word": "pedestal",
+      "meaning": "n. 基座；put sb. on a pedestal 把某人理想化／奉若圣人",
+      "start_cue": 571,
+      "end_cue": 571,
+      "start_time": "00:38:50,652",
+      "end_time": "00:38:53,319",
+      "quote": "He put me up on a pedestal..."
+    },
+    {
+      "word": "gutter",
+      "meaning": "n. 排水沟；此处比喻道德低下的处境",
+      "start_cue": 573,
+      "end_cue": 573,
+      "start_time": "00:39:01,496",
+      "end_time": "00:39:05,131",
+      "quote": "that I was down in the gutter with the rest of them."
+    },
+    {
+      "word": "break sb.",
+      "meaning": "v. 摧垮某人精神；此处毁掉儿子的信念",
+      "start_cue": 574,
+      "end_cue": 575,
+      "start_time": "00:39:08,670",
+      "end_time": "00:39:17,593",
+      "quote": "Broke my boy. I broke my boy.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    },
+    {
+      "word": "solid",
+      "meaning": "adj. 可靠、可以信任不会告密的；此处贪腐警察判断同伙",
+      "start_cue": 579,
+      "end_cue": 579,
+      "start_time": "00:39:26,487",
+      "end_time": "00:39:30,857",
+      "quote": "meant that he wasn't solid, that he couldn't be trusted."
+    },
+    {
+      "word": "debase yourself",
+      "meaning": "v. 贬损自己／降低自己的道德标准",
+      "start_cue": 586,
+      "end_cue": 586,
+      "start_time": "00:40:06,027",
+      "end_time": "00:40:10,196",
+      "quote": "to debase himself like that."
+    },
+    {
+      "word": "lesser",
+      "meaning": "adj. 较低等／不如以前的；此处让儿子在道德上变得更差",
+      "start_cue": 588,
+      "end_cue": 588,
+      "start_time": "00:40:16,905",
+      "end_time": "00:40:20,873",
+      "quote": "I made him lesser.",
+      "selection_pass": "second-pass ordinary-content-word review"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "word": "janitor",
+      "cue": 9,
+      "quote": "Janitor. Anybody here?",
+      "start_time": "00:02:07,187",
+      "end_time": "00:02:11,023",
+      "retained_in": "S01E01 janitorial staff",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "cop",
+      "cue": 57,
+      "quote": "Cops aren't real touchy-feely. You know that.",
+      "start_time": "00:06:25,790",
+      "end_time": "00:06:29,876",
+      "retained_in": "S01E01",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "hallway",
+      "cue": 234,
+      "quote": "Now, those two jokers out in the hallway...",
+      "start_time": "00:15:23,457",
+      "end_time": "00:15:25,173",
+      "retained_in": "S01E05 cue 334",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "stick around",
+      "cue": 323,
+      "quote": "to, uh, stick around once you heard the news?",
+      "start_time": "00:19:05,929",
+      "end_time": "00:19:08,313",
+      "retained_in": "S01E06 cue 160",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "sergeant",
+      "cue": 376,
+      "quote": "First Matt, then not six months later, his partner and his sergeant?",
+      "start_time": "00:22:35,546",
+      "end_time": "00:22:39,932",
+      "retained_in": "S01E06 cue 273",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "dirty",
+      "cue": 414,
+      "quote": "Matt wasn't dirty.",
+      "start_time": "00:23:59,669",
+      "end_time": "00:24:01,719",
+      "retained_in": "S01E06 cue 381",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "hesitate",
+      "cue": 577,
+      "quote": "but he hesitated.",
+      "start_time": "00:39:21,266",
+      "end_time": "00:39:23,149",
+      "retained_in": "S01E05 cue 691",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    },
+    {
+      "word": "tragic",
+      "cue": 508,
+      "quote": "It's tragic, but anyone could see this coming, hmm?",
+      "start_time": "00:33:26,454",
+      "end_time": "00:33:29,772",
+      "retained_in": "S01E05 cue 82",
+      "reason": "同词同义，无独立新接法；保留先前证据，未覆盖"
+    }
+  ],
+  "pending": [
+    {
+      "word": "bump-and-dump",
+      "meaning": "待核",
+      "start_cue": 239,
+      "end_cue": 239,
+      "start_time": "00:15:34,051",
+      "end_time": "00:15:38,269",
+      "quote": "But this little Juan Valdez bump-and-dump... no.",
+      "reason": "Jimmy 对偷笔记本把戏的临时称呼；尚无权威词典确认，不作为固定搭配。",
+      "status": "pending; excluded from standard vocabulary teaching"
+    },
+    {
+      "word": "eat your gun",
+      "meaning": "待核",
+      "start_cue": 507,
+      "end_cue": 507,
+      "start_time": "00:33:22,917",
+      "end_time": "00:33:26,452",
+      "quote": "It's too much for the old man. So Mikey here decided to eat his gun.",
+      "reason": "上下文可推知是伪装持枪自杀；本次未取得权威词典确认，保留待核。",
+      "status": "pending; excluded from standard vocabulary teaching"
+    },
+    {
+      "word": "take a taste",
+      "meaning": "待核",
+      "start_cue": 517,
+      "end_cue": 517,
+      "start_time": "00:35:32,621",
+      "end_time": "00:35:35,755",
+      "quote": "You took a taste. So did everyone else.",
+      "reason": "上下文指警察侵吞一小份钱；是否固定搭配及语域待核，不当一般吃东西义教。",
+      "status": "pending; excluded from standard vocabulary teaching"
+    }
+  ],
+  "vocabulary_coverage": {
+    "scope": "整集字幕所有 cue，包括电视背景对白；无需固定数量；不因考试词或 chunks 中已有而排除",
+    "first_pass_candidates": 137,
+    "second_pass_added": 40,
+    "second_pass_examples": [
+      "barely",
+      "recall",
+      "block",
+      "jacket",
+      "notepad",
+      "definition",
+      "funeral",
+      "unpack",
+      "suitcase",
+      "responsibility"
+    ],
+    "categories": [
+      "普通实词",
+      "日常生活词",
+      "口语及粗俗语域",
+      "熟词新义",
+      "法律／医疗／体育词",
+      "有代表性的短搭配"
+    ],
+    "learner_calibration": "E01 首批90项均被用户认为不熟悉且有记录价值，并补 portion/reckoning/plasma/convey；不以旧考试成绩排除其他词",
+    "deduplication": "仅与 E01 和 E05–E07 所选相同义项比较；其他集由主代理统一。新义项及新接法保留。"
+  },
+  "lexical_checks": [
+    {
+      "word": "cat around",
+      "url": "https://www.collinsdictionary.com/us/dictionary/english/cat-around",
+      "sense": "US slang seek sexual partners; contextual meaning sexual unfaithfulness"
+    },
+    {
+      "word": "take a flier",
+      "url": "https://www.merriam-webster.com/dictionary/flier",
+      "sense": "reckless or speculative venture; usually take a flier"
+    }
+  ],
+  "audio_checked": false,
+  "second_pass_reading_batches": [
+    [
+      1,
+      300
+    ],
+    [
+      301,
+      597
+    ]
+  ],
+  "validation": {
+    "source_sha256": "passed against current raw SRT bytes",
+    "cue_sequence": "passed; contiguous 1 through max_cue",
+    "all_items_and_pending_quotes": "passed; exact contiguous cue text after HTML removal and whitespace normalization",
+    "all_items_and_pending_timecodes": "passed against source cue start/end",
+    "audio_review": "not performed; subtitle fidelity is not audio transcription verification"
+  }
+}
