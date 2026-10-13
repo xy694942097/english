@@ -1,0 +1,1029 @@
+{
+  "duplicate_records": [
+    {
+      "chunk": "[X] is never a given",
+      "category": "句式骨架",
+      "meaning": "X 从来不是理所当然或自动有保证的",
+      "register": "中性／论述",
+      "note": "a given 作名词指可当成既定事实的东西；不能理解为过去分词被给予。",
+      "paragraph": 7,
+      "quote": "greatness is never a given.",
+      "quote_sha256": "cb7591945a63a3d47ab023477a86f9d2c0ac0c6245f4ec80bb65e610ba345b4c",
+      "source_id": "DCPD-200900001",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "[X] is never a given"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "settle for less",
+      "category": "短语动词与动词结构",
+      "meaning": "接受更低的标准或次一等的结果；将就",
+      "register": "日常／鼓励或评价",
+      "note": "settle for 指接受不那么理想的选项；less 的比较标准由语境给出。",
+      "paragraph": 7,
+      "quote": "Our journey has never been one of shortcuts or settling for less.",
+      "quote_sha256": "90a2ca2f5e81b957d4fc90eae1376235c91b2574952f7bcf3cd1a3bc8cd57186",
+      "source_id": "DCPD-200900001",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "settle for less"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "no less + 形容词 + than ...",
+      "meaning": "与……相比丝毫不逊色",
+      "register": "中性／比较",
+      "note": "原句 productive than when；比第4段程度强调多明确比较对象。",
+      "paragraph": 10,
+      "quote": "Our workers are no less productive than when this crisis began.",
+      "quote_sha256": "5b062a65d3d21fff6b6b0aa53ae8e21c7ffc13296f382724b4e06a254afe8c7b",
+      "source_id": "DCPD-200900001",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "no less + 形容词"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "The question is not whether [A], but whether [B]",
+      "category": "句式骨架",
+      "meaning": "真正要问的不是 A，而是 B；重新界定讨论焦点",
+      "register": "工作讨论／论述",
+      "note": "whether A/B 可各接一个完整判断；不只是替换 but，而是在转移判定标准。",
+      "paragraph": 13,
+      "quote": "The question we ask today is not whether our Government is too big or too small, but whether it works;",
+      "quote_sha256": "ad45b7b39fbd06aba24eff1565ff838586865fcae8346c937c16a76bfcd68f86",
+      "source_id": "DCPD-200900001",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "The question is not whether [A], but whether [B]"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "not out of [X], but because [Y]",
+      "category": "句式骨架",
+      "meaning": "不是出于 X，而是因为 Y；澄清动机",
+      "register": "口语书面均可／解释",
+      "note": "out of 在此引出动机，X 常为情绪或态度名词，Y 为从句；不要照抄原政治主张。",
+      "paragraph": 14,
+      "quote": "not out of charity, but because it is the surest route to our common good.",
+      "quote_sha256": "89106dd80b906fea1be6293109b978ef329f055bef79ba5182f988cdd8d7e2cd",
+      "source_id": "DCPD-200900001",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "not out of [X], but because [Y]"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "see [someone] through [a difficult period]",
+      "category": "短语动词与动词结构",
+      "meaning": "帮助某人撑过困难时期",
+      "register": "中性",
+      "note": "不是看穿某人；与 see through an excuse（识破借口）区分。原句包含 which 回指，不能把截取片段当完整句。",
+      "paragraph": 22,
+      "quote": "which sees us through our darkest hours.",
+      "quote_sha256": "8dfadef5a1a77e8264ada66e27590c19864c79335b12b36ad658da0162499194",
+      "source_id": "DCPD-200900001",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "see sb. through [a difficult period]"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "no matter how hard it may seem",
+      "meaning": "无论看起来有多困难",
+      "register": "中性／鼓励",
+      "note": "may 保留可能性，非断定一定难。",
+      "paragraph": 29,
+      "quote": "And if we make such an effort, no matter how hard it may sometimes seem, laws can be passed and consciences can be stirred and consensus can be built.",
+      "quote_sha256": "0c7d728e4aa873edd30ae014fedc7d8b29dfd10fe9f903617b4dae7f88b9ee3d",
+      "source_id": "DCPD-201500157",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "no matter how + 形容词/副词 + 从句"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "change for change's sake",
+      "meaning": "为了改变而改变",
+      "register": "中性",
+      "note": "for sth.'s sake 表示为了某事本身，句中否定盲目求变。",
+      "paragraph": 1,
+      "quote": "When our Founders boldly declared America's independence to the world and our purposes to the Almighty, they knew that America, to endure, would have to change; not change for change's sake but change to preserve America's ideals: life, liberty, the pursuit of happiness.",
+      "quote_sha256": "7300032ceed460ea1af768ac431fa51a6fcbde9189a07927a4df60cb12d71f5c",
+      "source_id": "PPP-1993-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "for sth.'s sake"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "on behalf of sb.",
+      "meaning": "代表某人／某个集体",
+      "register": "中性",
+      "note": "可用于代团队发言、致谢。",
+      "paragraph": 2,
+      "quote": "On behalf of our Nation, I salute my predecessor, President Bush, for his half-century of service to America.",
+      "quote_sha256": "c157dedce375adc1ee35ea9165a32a80d9c41a5e8c59cb2f71b7a88d9f6f8ccd",
+      "source_id": "PPP-1993-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "on behalf of sb."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "rob sb. of sth.",
+      "meaning": "剥夺某人的某种东西",
+      "register": "中性",
+      "note": "宾语可为自由、机会、时间，不限于财物。",
+      "paragraph": 5,
+      "quote": "But when most people are working harder for less; when others cannot work at all; when the cost of health care devastates families and threatens to bankrupt our enterprises, great and small; when the fear of crime robs law-abiding citizens of their freedom; and when millions of poor children cannot even imagine the lives we are calling them to lead, we have not made change our friend.",
+      "quote_sha256": "91c7004835ff25ce09c02a9dc3bc850cca39073e272a16cf912785614ec110aa",
+      "source_id": "PPP-1993-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201500157",
+        "chunk": "rob sb. of sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "for its own sake",
+      "meaning": "为了某件事本身／不为其他目的",
+      "register": "中性",
+      "note": "可用于说明学习、工作或牺牲的理由；与前文change句关联但不是多收同一句。",
+      "paragraph": 8,
+      "quote": "It will require sacrifice, but it can be done and done fairly, not choosing sacrifice for its own sake but for our own sake.",
+      "quote_sha256": "2fdcf6398c468e1ad50bf84f42580330729014b939fa924014cf6c0bbd78acd8",
+      "source_id": "PPP-1993-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "for sth.'s sake"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "answer the call",
+      "meaning": "响应号召／承担被呼唤的责任",
+      "register": "正式",
+      "note": "可用于服务或行动，不必政治场景。",
+      "paragraph": 16,
+      "quote": "And now, each in our own way and with God's help, we must answer the call.",
+      "quote_sha256": "cf0024307ab534a16d61b8f0be5588642a8bdd38e1c01ae1eab5be3a6d49b48d",
+      "source_id": "PPP-1993-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "answer the call of sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "time and again",
+      "meaning": "一次又一次／反复",
+      "register": "中性",
+      "note": "强调多次发生。",
+      "paragraph": 3,
+      "quote": "America became the world's mightiest industrial power, saved the world from tyranny in two World Wars and a long cold war, and time and again reached out across the globe to millions who, like us, longed for the blessings of liberty.",
+      "quote_sha256": "60a2e48086750a740a0d3f7dd5b3f98545059192c021e277e0484ce8d9649a51",
+      "source_id": "PPP-1997-book1-doc-pg43",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "time and again"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "The future is up to us.",
+      "meaning": "未来取决于我们／由我们共同决定",
+      "register": "演讲",
+      "note": "可作为承担主动责任的表达，但较有号召色彩。",
+      "paragraph": 8,
+      "quote": "Beyond that, my fellow citizens, the future is up to us.",
+      "quote_sha256": "3c39ffd79f95bab4d8edb1cade12504d58badf43a0417fe9103d7205cd62e844",
+      "source_id": "PPP-1997-book1-doc-pg43",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "It will be up to sb. to do sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "assume responsibility (for sth.)",
+      "meaning": "承担个人责任",
+      "register": "正式",
+      "note": "不把责任全交给他人。",
+      "paragraph": 9,
+      "quote": "Each and every one of us, in our own way, must assume personal responsibility not only for ourselves and our families but for our neighbors and our Nation.",
+      "original_chunk": "assume personal responsibility",
+      "quote_sha256": "e492f361f5b46a4658ab2872d65500a13b852f994a4c47441459588a83e4b5d1",
+      "source_id": "PPP-1997-book1-doc-pg43",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-1993-book1-doc-pg1",
+        "chunk": "assume responsibility (for sth.)"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "succumb to sth.",
+      "meaning": "屈服于某种压力、冲动或影响",
+      "register": "正式",
+      "note": "可用于疾病或诱惑，意义随对象区分。",
+      "paragraph": 11,
+      "quote": "We cannot, we will not, succumb to the dark impulses that lurk in the far regions of the soul everywhere.",
+      "quote_sha256": "e3e8a49b4eee135650ccda0edd3c57aaaa6ca5cdb4e6c071944535b7adbb1f18",
+      "source_id": "PPP-1997-book1-doc-pg43",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "succumb to sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "If … have taught us anything, it is that …",
+      "meaning": "如果……让我们学到了什么，那就是……",
+      "register": "正式",
+      "note": "从经历引出核心教训，不必用战争作主语。",
+      "paragraph": 13,
+      "quote": "If the wars of the 20th century, especially the recent ones in Kosovo and Bosnia, have taught us anything, it is that we achieve our aims by defending our values and leading the forces of freedom and peace.",
+      "quote_sha256": "1e850a2fd7afb9897eacaeb157e29444d49ac893d45f3081787d11f8640eb62e",
+      "source_id": "PPP-2000-book3-doc-pg2952",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201500157",
+        "chunk": "If sth. taught us anything, it's that 从句"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "As for me, …",
+      "meaning": "至于我……；转向自己的情况",
+      "register": "中性",
+      "note": "原演讲语境；可按原意迁移，不因出现一次宣称高频。",
+      "paragraph": 16,
+      "quote": "As for me, I'll leave the Presidency more idealistic, more full of hope than the day I arrived, and more confident than ever that America's best days lie ahead.",
+      "quote_sha256": "4cacb0c56a9d7f79394d3823caf274fe5175b1be02badfda7091246c577d9c30",
+      "source_id": "PPP-2000-book3-doc-pg2952",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "As for sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "all talk and no action",
+      "meaning": "光说不做；只会嘴上说",
+      "register": "日常／直接批评",
+      "note": "带明确负面评价；评价同事时可能显得尖锐。",
+      "paragraph": 25,
+      "quote": "We will no longer accept politicians who are all talk and no action, constantly complaining, but never doing anything about it.",
+      "quote_sha256": "3f1f4f20906bc9a7b17a8e2b3023e6d6d436f37e428283eb040b4c8f44c9d1fa",
+      "source_id": "DCPD-201700058",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201700058",
+        "chunk": "all talk and no action"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "get the job done",
+      "meaning": "把任务完成；重点在结果",
+      "register": "日常／工作",
+      "note": "job 可以是具体任务，不一定是职业岗位；不自动表示完成得好。",
+      "paragraph": 2,
+      "quote": "We will face challenges, we will confront hardships, but we will get the job done.",
+      "quote_sha256": "00602d66951fd25792c578601a8b70ae34591d328b4655b0aabaeb27f2653881",
+      "source_id": "DCPD-201700058",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201700058",
+        "chunk": "get the job done"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "let [someone] down",
+      "meaning": "让某人失望；辜负其期待",
+      "register": "日常",
+      "note": "此处不是物理上放下人；ever 强化原句的承诺。",
+      "paragraph": 17,
+      "quote": "I will fight for you with every breath in my body, and I will never, ever let you down.",
+      "quote_sha256": "fb708d6f3892f2e090ed0a26de918529d45e81d2ac5232e0cdb687f0c59e66d7",
+      "source_id": "DCPD-201700058",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201700058",
+        "chunk": "let sb. down"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "no room for [X]",
+      "meaning": "没有容纳 X 的余地；某种态度或行为不应存在",
+      "register": "中性／立场表达",
+      "note": "可字面指空间，也可抽象表达不容许；no room for error 表示不允许出错。",
+      "paragraph": 23,
+      "quote": "When you open your heart to patriotism, there is no room for prejudice.",
+      "quote_sha256": "90118661c0e2b5410e372d40ad3260e8a1ab34f388974db6675b4ce3e93c9610",
+      "source_id": "DCPD-201700058",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201700058",
+        "chunk": "no room for [X]"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "live out sth.",
+      "meaning": "将理想／信念落实到生活中",
+      "register": "中性偏正式／行动",
+      "note": "原句 promise；不是 live out one's days 的度余生义。",
+      "paragraph": 10,
+      "quote": "Today we affirm a new commitment to live out our Nation's promise through civility, courage, compassion, and character.",
+      "quote_sha256": "36c9fac9196c01a006a2a7c5a047059dab0c79ea3005da3e4387b6efc96364f8",
+      "source_id": "PPP-2001-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-1997-book1-doc-pg43",
+        "chunk": "live out sb.'s creed"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "live up to sth.",
+      "meaning": "达到某个标准／不辜负某种要求",
+      "register": "中性",
+      "note": "原句 calling；与总统候选其他篇同义者合并为例证。",
+      "paragraph": 12,
+      "quote": "We must live up to the calling we share.",
+      "quote_sha256": "c063f8a9e8a6617c14bf60ee1b223fd3d5366540ca272b162611d06bc77bd9b1",
+      "source_id": "PPP-2001-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202300848",
+        "chunk": "live up to [an ideal/expectations]"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "pass sth. on to sb.",
+      "meaning": "把某事传给某人承担",
+      "register": "中性／责任",
+      "note": "此处把问题甩给后代，与传承理念有负面区别。",
+      "paragraph": 13,
+      "quote": "We must show courage in a time of blessing by confronting problems instead of passing them on to future generations.",
+      "quote_sha256": "f09e59eb1266756a3ee8235888fd86a574fffcada256d5c9767c26edc8d23c88",
+      "source_id": "PPP-2001-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "pass sth. on (to sb.)"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "in need",
+      "meaning": "处于需要帮助的困境",
+      "register": "中性",
+      "note": "原句贫困者，非随意需要一个物品。",
+      "paragraph": 18,
+      "quote": "Americans in need are not strangers; they are citizens-- not problems but priorities.",
+      "quote_sha256": "c9ef27be949bb266fa06e078fda26bf6ffd65233cc2bc1cc2c09f5ef025d83b2",
+      "source_id": "PPP-2001-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-1993-book1-doc-pg1",
+        "chunk": "in need"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "not because 从句 but because 从句",
+      "meaning": "不是因为……而是因为……",
+      "register": "中性／澄清理由",
+      "note": "与Obama2013同功能骨架，待全总统范围合并。",
+      "paragraph": 26,
+      "quote": "Americans are generous and strong and decent, not because we believe in ourselves but because we hold beliefs beyond ourselves.",
+      "quote_sha256": "18effb339a4229090400dd62ec7cdd97d1403c81094cc66f3c217e273efd884c",
+      "source_id": "PPP-2001-book1-doc-pg1",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "not because 从句, but because 从句"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "on the edge of sth.",
+      "meaning": "处在某种境况的边缘",
+      "register": "中性偏正式",
+      "note": "原句 subsistence，表示勉强糊口的边缘。",
+      "paragraph": 21,
+      "quote": "In America's ideal of freedom, citizens find the dignity and security of economic independence instead of laboring on the edge of subsistence.",
+      "quote_sha256": "77a096acce5d3b39417c2504bf0dfe0133d80043539076a053cef9bd21a91d46",
+      "source_id": "PPP-2005-book1-doc-pg66",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-1997-book1-doc-pg43",
+        "chunk": "on the edge of sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "set sb. free",
+      "meaning": "使某人获得自由",
+      "register": "中性",
+      "note": "原句俘虏获释，与2001比喻解除束缚语义范围不同。",
+      "paragraph": 25,
+      "quote": "And we can feel that same unity and pride whenever America acts for good and the victims of disaster are given hope and the unjust encounter justice and the captives are set free.",
+      "quote_sha256": "b9b7646c397ed061b1dda1ddf0ad3566cdc0f886de650f73fb56c315015e7374",
+      "source_id": "PPP-2005-book1-doc-pg66",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-2001-book1-doc-pg1",
+        "chunk": "set sb. free"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 2,
+      "chunk": "rise to the challenge",
+      "meaning": "迎接挑战，表现出应对能力",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Through a crucible for the ages America has been tested anew, and America has risen to the challenge.",
+      "quote_sha256": "72e044c58969319906e5664780133d6fdec222b5884aa2e1d95e86292e729a75",
+      "source_id": "DCPD-202100048",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-2000-book3-doc-pg2952",
+        "chunk": "rise to a challenge"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 4,
+      "chunk": "set one's sights on sth.",
+      "meaning": "把目标定在……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "As we look ahead in our uniquely American way—restless, bold, optimistic—and set our sights on the Nation we know we can be and we must be, I thank my predecessors of both parties for their presence here today.",
+      "quote_sha256": "6c9c3075fac0c750195bd55d3603c660509dc62a0f72e45db771fe90c341261c",
+      "source_id": "DCPD-202100048",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-1997-book1-doc-pg43",
+        "chunk": "set sb.'s sights on sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 33,
+      "chunk": "set aside sth.",
+      "meaning": "暂放一边，不让其干扰当前任务",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We must set aside politics and finally face this pandemic as one Nation.",
+      "quote_sha256": "e99189c5befd129202f0d745ea021e50f9fa4bc8430dc670b952546b4039b03a",
+      "source_id": "DCPD-202100048",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "set aside sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "live up to an ideal/expectations",
+      "category": "短语动词与动词结构",
+      "meaning": "达到理想、承诺或期待的标准",
+      "register": "中性",
+      "note": "不是住在某地；常说 live up to expectations 或 live up to a promise。",
+      "paragraph": 12,
+      "quote": "We've never fully lived up to that idea, but we've never walked away from it.",
+      "quote_sha256": "648490aee9c441d2ff6775a76e646f796bc52f0ae048ee8aa42f8eece32f8ce3",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202300848",
+        "chunk": "live up to [an ideal/expectations]"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 19,
+      "chunk": "usher in sth.",
+      "meaning": "开创／迎来某个时代或变化",
+      "register": "正式／演讲",
+      "note": "正式。",
+      "quote": "Two weeks ago, I thought about John as I was standing in another part of the world—in Vietnam. I don't want to be—I—excuse me if I—it was an emotional trip. I was there to usher in a 50-year arc of progress for the two countries, pushed by John and, I might add, another John— this is the former Secretary of State, John from Massachusetts, won the Silver Star as well.",
+      "quote_sha256": "fcbcb13045a2cd949cbb6921e821cb853f1aedf52c0c00a5e1d138b52918208e",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "usher in a new era of sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 24,
+      "chunk": "What do we stand for?",
+      "meaning": "我们维护／代表哪些原则？",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "询问价值立场；不是站立地点。",
+      "quote": "And they pose the most profound questions: Who are we? What do we stand for? What do we believe?",
+      "quote_sha256": "87604d134ef91209da7e57f2cb44d4cca2e54673bf1da233fd642ca427ed0edf",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-2005-book1-doc-pg66",
+        "chunk": "stand for sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 25,
+      "chunk": "put sth. aside",
+      "meaning": "暂放一边",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "本句放下党派分歧。",
+      "quote": "And now, history has brought us to a new time of testing. Very few of us will ever be asked to endure what John McCain endured. But all of us are being asked right now: What will we do to maintain our democracy? Will we, as John wrote, never quit? Will we not hide from history, but make history? Will we put partisanship aside and put country first?",
+      "quote_sha256": "4d1edab1b4a3fa85e606abfbf45b22cf916e7915bbf31579c0950f77e545790e",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-1993-book1-doc-pg1",
+        "chunk": "put sth. aside"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 30,
+      "chunk": "have yet to do sth.",
+      "meaning": "还没有做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "这里为质疑为何迟迟未做；来自听众。",
+      "quote": "[Inaudible]—ask why you have yet to declare a climate emergency?",
+      "quote_sha256": "6774a2cfaef6d4b9bdd2a1349568b319bf2562241c64f4e7174bea44ef50f1b3",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-1997-book1-doc-pg43",
+        "chunk": "have yet to do sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 39,
+      "chunk": "give one's all",
+      "meaning": "全力以赴",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "But democracy never is easy, as we just demonstrated. [Laughter] The cause—the cause—is worth giving our all, for democracy makes all things possible.",
+      "quote_sha256": "fd7d81d0095fb36ddc9de9b90cf9d38f34f4f0cc3db8471e04ae88e431364e04",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "give sb.'s all to sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 55,
+      "chunk": "in the eyes of sb.",
+      "meaning": "在某人看来",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "But as we know, we know how damaged our institutions of democracy—the judiciary, the legislature, the executive—have become in the eyes of the American people, even the world, from attacks from within the past few years.",
+      "quote_sha256": "9b06b29d16047cbada6cb984b2c858615a3cddc1b05f6fb06c3254b72b4e9de7",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "in the eyes of sb."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "at one's own peril",
+      "category": "习语与固定表达",
+      "meaning": "这么做会自担危险／后果；带警告",
+      "register": "正式／郑重警告",
+      "note": "比 at one's own risk 更带危险感，不宜用于每件小事。",
+      "paragraph": 60,
+      "quote": "We lose these institutions of our government at our own peril.",
+      "quote_sha256": "5eec092bf9442df9204eddd1a4850b84c14e3ae048f581a5fd0e62be5802add6",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202300848",
+        "chunk": "at sb.'s own peril"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 61,
+      "chunk": "regardless of sth.",
+      "meaning": "不论……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Our commitment should be no less, because democracy should unite all Americans, regardless of political affiliation.",
+      "quote_sha256": "1cddc37265ee34919f68fa22f79a5d43804bcdf9a4da4d0b80ac74b26e81c001",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-2000-book3-doc-pg2952",
+        "chunk": "regardless of sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 75,
+      "chunk": "risk one's life to do sth.",
+      "meaning": "冒生命危险去做……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Did you ever think you'd hear leaders of political parties in the United States of America speak like that? Seizing power, concentrating power, attempting to abuse power, purging and packing key institutions, spewing conspiracy theories, spreading lies for profit and power to divide America in every way, inciting violence against those who risk their lives to keep America safe, weaponizing against the very soul of who we are as Americans.",
+      "quote_sha256": "44a29d24d45be71818c690db462f9f2ff0ee266f4959bd285bb1dcd8e683900f",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201500157",
+        "chunk": "risk sb.'s life to do sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 100,
+      "chunk": "take sth. for granted",
+      "meaning": "把某事当作理所当然",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "We can't take democracy for granted.",
+      "quote_sha256": "3dd099d7adcbc31a64d1de1d0fafdf06ccb70af8faea64563f8cd9d45ca7ad84",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201500157",
+        "chunk": "take sth. for granted"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "for all its faults",
+      "category": "句式骨架",
+      "meaning": "尽管它有种种缺点，仍然……",
+      "register": "评价／口语书面均可",
+      "note": "for all 在此表达让步，不是为了全部；换对象时可用 for all his/her/their faults。原文 pass 后附官方 path 更正，照录。",
+      "paragraph": 104,
+      "quote": "For all its faults though, American democracy remains the best pass [path; White House correction] forward to prosperity, possibilities, progress, fair play, equality.",
+      "quote_sha256": "efea5cf16afe7359723c834831b22316bc7dfc3c334313df08b878ab483f116f",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202300848",
+        "chunk": "for all its faults"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "all kidding aside",
+      "category": "话语套语",
+      "meaning": "玩笑归玩笑，认真地说……",
+      "register": "口语；原素材为公开演讲",
+      "note": "用来从玩笑切回认真话题；没有玩笑铺垫时不必硬用。原句后续 more ... as ... 是口语中的不整齐比较结构，不作为模板；这里只收话题切换词块。",
+      "paragraph": 109,
+      "quote": "But, all kidding aside, I've never been more optimistic about America's chances in domestic and foreign policy as I am today.",
+      "quote_sha256": "db18e43bd1fde2bfa70d34d23dab66414bfa9d5e5df7371db8426be5e1707d1b",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202300848",
+        "chunk": "all kidding aside"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 7,
+      "chunk": "be determined to keep it that way",
+      "meaning": "决心维持现状",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "that way指前句状态。",
+      "quote": "But Ukraine—[applause]. Ukraine can stop Putin. Ukraine can stop Putin if we stand with Ukraine and provide the weapons that it needs to defend itself. That is all—that is all—Ukraine is asking. They're not asking for American soldiers. In fact, there are no American soldiers at war in Ukraine, and I'm determined to keep it that way.",
+      "quote_sha256": "5827cdcbd293ccfedcfb0f09d4e3f251e8334f78b007182c52a5ce49e735b540",
+      "source_id": "DCPD-202400170",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-2005-book1-doc-pg66",
+        "chunk": "be determined to do sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 19,
+      "chunk": "without regard to sth.",
+      "meaning": "不考虑……差别",
+      "register": "正式／演讲",
+      "note": "正式；本句不论党派。",
+      "quote": "As I've done ever since being elected to office, I ask all of you, without regard to party, to join together and defend democracy.",
+      "quote_sha256": "8210c6d48e977394fa0512e165038b9179b8fddb159171a814b1fa1ddda0a210",
+      "source_id": "DCPD-202400170",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-200900001",
+        "chunk": "without regard to sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 44,
+      "chunk": "on the brink",
+      "meaning": "处于危急边缘",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "未说on the brink of什么，需语境补足。",
+      "quote": "Folks, I inherited an economy that was on the brink.",
+      "quote_sha256": "79c657503659ce8e914ec1552a126deb429d3e602f75fca58f89d6316dae397d",
+      "source_id": "DCPD-202400170",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "on/from the brink of sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 47,
+      "chunk": "more ... than ever before",
+      "meaning": "比以往任何时候都更……",
+      "register": "正式／演讲",
+      "note": "比较评价骨架，不当演讲事实证明。",
+      "quote": "More people have health insurance today than ever before.",
+      "quote_sha256": "bf0e3550468a2385f3685cc31fd10a82d932f83276d5bbfbbe036d4e123891cc",
+      "source_id": "DCPD-202400170",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-2000-book3-doc-pg2952",
+        "chunk": "more … than ever"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 59,
+      "chunk": "make all the difference",
+      "meaning": "产生决定性的影响",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Then, I was elected to office, and we raised the Belvidere repeatedly with auto companies, knowing unions would make all the difference.",
+      "quote_sha256": "58a2eb65b1f185f43a1423650235fd0fe9b31a55a609750887df6172fae6c6e1",
+      "source_id": "DCPD-202400170",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-1997-book1-doc-pg43",
+        "chunk": "made all the difference"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 99,
+      "chunk": "start a family",
+      "meaning": "成家、生育孩子",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "通常指开始育儿，不自动等于结婚。",
+      "quote": "And, folks, look, such relief is good for the economy because folks are now able to buy a home, start a business, start a family.",
+      "quote_sha256": "6cc445bde7af49638eda902ad158a52e08488d477704049e72be829ea2227286",
+      "source_id": "DCPD-202400170",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201700007",
+        "chunk": "start a family"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 5,
+      "chunk": "assure sb. that 从句",
+      "meaning": "向某人保证……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Yesterday I spoke with President-elect Trump to congratulate him on his victory. And I assured him that I would direct my entire administration to work with his team to ensure a peaceful and orderly transition. That's what the American people deserve.",
+      "quote_sha256": "4eb24954fcd9a6cd55ae0d4efd6bdcafd74d7b498dc5742a416eaf4c24edc804",
+      "source_id": "DCPD-202400984",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202400170",
+        "chunk": "I assure you: 从句"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "bring down the temperature",
+      "category": "习语与固定表达",
+      "meaning": "缓和紧张局面；给争论降温",
+      "register": "口语；原素材为公开演讲",
+      "note": "这里的 temperature 是冲突强度，不是实际温度；说话时还需把前面的口语长句整理清楚。",
+      "paragraph": 9,
+      "quote": "bring down the temperature.",
+      "quote_sha256": "273adb6783a25e0c9aeaa4f759c4c9b1351f3e26744df1d933eb21813dbbb08d",
+      "source_id": "DCPD-202400984",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202400984",
+        "chunk": "bring down the temperature"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "lay sth. to rest",
+      "category": "习语与固定表达",
+      "meaning": "消除疑虑、结束争论，使某个问题不再反复被提起",
+      "register": "中性偏正式",
+      "note": "不等于每一种 solve；常配 doubts、fears、rumors、questions。原句用 lay to rest the question，宾语较长所以后置。",
+      "paragraph": 10,
+      "quote": "I also hope we can lay to rest the question about the integrity of the American electoral system.",
+      "quote_sha256": "0c4c23a024d8696ef6c30c48db1038f842dcbda70efb7f5725b75e2e6a6cd72a",
+      "source_id": "DCPD-202400984",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202400984",
+        "chunk": "lay sth. to rest"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "win or lose",
+      "category": "话语套语",
+      "meaning": "不论输赢；输赢都一样适用",
+      "register": "日常／口语与书面",
+      "note": "可放句首或句尾补充条件；不是句式骨架 only when 的同义替换，而是把相反条件都纳入。",
+      "paragraph": 10,
+      "quote": "And it can be trusted, win or lose.",
+      "quote_sha256": "003053ac606cf986cde88f6a589c9df74c6af17731be13659ceb6f693ecd5eb7",
+      "source_id": "DCPD-202400984",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202400984",
+        "chunk": "win or lose"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "make every day/moment count",
+      "category": "句式骨架",
+      "meaning": "让每一天／每一刻都有价值；充分利用时间",
+      "register": "日常与鼓励性表达",
+      "note": "count 在此是有价值、产生作用，不是计数；不是 every 后可随意装任何名词的万能结构。",
+      "paragraph": 20,
+      "quote": "Let's make every day count.",
+      "quote_sha256": "fc6227a8429528bfbb81cf00232e2c5ef3e93234eeeb3673b9894eff45ea0b39",
+      "source_id": "DCPD-202400984",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202400984",
+        "chunk": "make every [day/moment] count"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "keep the faith",
+      "category": "习语与固定表达",
+      "meaning": "保持信心，别因受挫而放弃相信",
+      "register": "鼓励／略带演讲色彩",
+      "note": "faith 在此可指信心，不必指宗教；日常更直白可说 don't lose hope。",
+      "paragraph": 25,
+      "quote": "And above all, we need to keep the faith.",
+      "quote_sha256": "28598b43ba55f22d876fb0e66d0ed4212dd0daf6c8fb6ca85b162e7ad6f465ef",
+      "source_id": "DCPD-202400984",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202400984",
+        "chunk": "keep the faith"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 13,
+      "chunk": "keep one's commitment to do sth.",
+      "meaning": "履行做某事的承诺",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And every day, I've kept my commitment to be President for all Americans through one of the toughest periods in our Nation's history.",
+      "quote_sha256": "cb6628360a634a03dd895d4e3cd775dd7233383b5f651511da1104e2f4a860f7",
+      "source_id": "DCPD-202500078",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-2001-book1-doc-pg1",
+        "chunk": "keep a commitment"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 22,
+      "chunk": "It will take time to do sth.",
+      "meaning": "要做到……还需要时间",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "You know, it will take time to feel the full impact of all we've done together.",
+      "quote_sha256": "b7842e46b0733987587ea2c33c30dec0e72dc0ebdc3255e1ae3567b5c177a7ad",
+      "source_id": "DCPD-202500078",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202400984",
+        "chunk": "It takes time to do sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 43,
+      "chunk": "more important than ever",
+      "meaning": "比以往任何时候都更重要",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "In the age of AI, it's more important than ever that the people must govern.",
+      "quote_sha256": "a97c2bb79ae0aa42274272811a6904810525ded8c582397c217b93e6b015a7b9",
+      "source_id": "DCPD-202500078",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "PPP-2000-book3-doc-pg2952",
+        "chunk": "more … than ever"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 59,
+      "chunk": "It's up to sb. to do sth.",
+      "meaning": "由某人负责／取决于某人去做……",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "And it's up to us to make our dreams come true.",
+      "quote_sha256": "c9e11387f4e57bcb5b904bff80f3febd22b64eecc733991c532cf8fc9e2fa978",
+      "source_id": "DCPD-202500078",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-201300032",
+        "chunk": "It will be up to sb. to do sth."
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "paragraph": 60,
+      "chunk": "step up to do sth.",
+      "meaning": "主动承担并去做某事",
+      "register": "中性／观点表达、工作讨论；原素材为正式演讲",
+      "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
+      "quote": "Let me close by stating my gratitude to so many people. To the members of my administration, as well as public service and first responders across the country and around the world, thank you for stepping up to serve.",
+      "quote_sha256": "95e91f4e9278ad311dae2c30ba5494570bc2f30a17d3d4acb2f559a9b5fc3b6c",
+      "source_id": "DCPD-202500078",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202100048",
+        "chunk": "step up"
+      },
+      "reason": "总统集合内同形同义或高置信近重复；原引文另存，既有例句不覆盖"
+    },
+    {
+      "chunk": "The real credit doesn't go to sb./sth.",
+      "category": "句式骨架",
+      "meaning": "真正的功劳不属于 X（而应归给别人）",
+      "register": "感谢／评价与公开讲话",
+      "note": "credit 是功劳、认可，不是贷款额度；原段下一句把认可给了听众。 原例对应自己与团队，宾语不限于物。",
+      "paragraph": 98,
+      "quote": "But the real credit doesn't go to me and my administration for the progress—for this progress.",
+      "quote_sha256": "dd075380c887b76961c2271eb0701ff7b974e03d926a91bb29db1bdf861a873d",
+      "source_id": "DCPD-202300848",
+      "origin": "extended",
+      "earlier": {
+        "source_id": "DCPD-202300848",
+        "chunk": "The real credit doesn't go to sb./sth."
+      },
+      "reason": "宾语范围修正后与原精选同形同义，不重复收录"
+    }
+  ],
+  "policy": "Only presidential collection compared; does not skip because BCS/inbox has explanation. Existing first20 prioritized, source quotes unchanged."
+}

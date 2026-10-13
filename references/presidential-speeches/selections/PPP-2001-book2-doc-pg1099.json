@@ -280,5 +280,6 @@
     }
   ],
   "vocabulary_candidates": [],
-  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/PPP-2001-book2-doc-pg1099.htm"
 }

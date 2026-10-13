@@ -31,7 +31,8 @@
       "meaning": "非常详细地说明……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "After 8 months of nonstop negotiation, my administration—by my administration, a cease-fire and a hostage deal has been reached by Israel and Hamas, the elements of which I laid out in great detail in May of this year."
+      "quote": "After 8 months of nonstop negotiation, my administration—by my administration, a cease-fire and a hostage deal has been reached by Israel and Hamas, the elements of which I laid out in great detail in May of this year.",
+      "quote_sha256": "87b59d189d9daf072f12d87b76acaf69eee8aff0e6927e739fff756953606790"
     },
     {
       "paragraph": 3,
@@ -39,7 +40,8 @@
       "meaning": "让某人充分了解进展",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "That's why I told my team to keep the incoming administration fully informed, because that's how it should be: working together as Americans."
+      "quote": "That's why I told my team to keep the incoming administration fully informed, because that's how it should be: working together as Americans.",
+      "quote_sha256": "1e7119a6e8828527cd893fab3475e0b0ffe8bcad2a8b3ee07f9c4f46fb09c8d9"
     },
     {
       "paragraph": 4,
@@ -47,7 +49,8 @@
       "meaning": "我最近一直在认真考虑某事",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "现在完成进行时组织近期思考的说明。",
-      "quote": "And I've been thinking a lot about who we are and, maybe more importantly, who we should be."
+      "quote": "And I've been thinking a lot about who we are and, maybe more importantly, who we should be.",
+      "quote_sha256": "f3fa6cf44d48c9f51e6ee9ac21fccbb2c509c1c99b174b0bb285318c5b01b6f0"
     },
     {
       "paragraph": 5,
@@ -55,7 +58,8 @@
       "meaning": "日复一日",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Long ago, in New York Harbor, an ironworker installed beam after beam, day after day."
+      "quote": "Long ago, in New York Harbor, an ironworker installed beam after beam, day after day.",
+      "quote_sha256": "c047500c3c949480f166624b1a7458c389e21208402d76dcef1cfb46fad1252b"
     },
     {
       "paragraph": 7,
@@ -63,7 +67,8 @@
       "meaning": "经得起时间的考验",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "She was built to sway back and forth to withstand the fury of stormy weather, to stand the test of time, because storms are always coming."
+      "quote": "She was built to sway back and forth to withstand the fury of stormy weather, to stand the test of time, because storms are always coming.",
+      "quote_sha256": "7dad0582914bb21022ebc4e3f7be56b76f97f4a092a746b7b6cc2da2184a7314"
     },
     {
       "paragraph": 7,
@@ -71,7 +76,8 @@
       "meaning": "来回地",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "此处实体摇摆，不是观点反复。",
-      "quote": "She was built to sway back and forth to withstand the fury of stormy weather, to stand the test of time, because storms are always coming."
+      "quote": "She was built to sway back and forth to withstand the fury of stormy weather, to stand the test of time, because storms are always coming.",
+      "quote_sha256": "7dad0582914bb21022ebc4e3f7be56b76f97f4a092a746b7b6cc2da2184a7314"
     },
     {
       "paragraph": 8,
@@ -79,7 +85,8 @@
       "meaning": "无论顺境还是艰难时期",
       "register": "正式／演讲",
       "note": "开放搭配框架；演讲强调持续性。",
-      "quote": "And yet, through good times and tough times, we've withstood it all."
+      "quote": "And yet, through good times and tough times, we've withstood it all.",
+      "quote_sha256": "96d19d19ea6f886cf643138ab3a16912ab025cf1128935532e4532187f27d036"
     },
     {
       "paragraph": 10,
@@ -87,7 +94,8 @@
       "meaning": "顶住、反抗某人或某种压力",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "与stand up for维护对象不同。",
-      "quote": "Ongoing debates about power and the exercise of power, about whether we lead by the example of our power or the power of our example, whether we show the courage to stand up to the abuse of power or we yield to it."
+      "quote": "Ongoing debates about power and the exercise of power, about whether we lead by the example of our power or the power of our example, whether we show the courage to stand up to the abuse of power or we yield to it.",
+      "quote_sha256": "2e012fffc78af84378641bb175b820dd42d4c8a023726f81afeccc06ca5442ad"
     },
     {
       "paragraph": 12,
@@ -95,7 +103,8 @@
       "meaning": "它也许不完美，但……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "承认限制后保留主要评价。",
-      "quote": "Our system of separation of powers, checks and balances, it may not be perfect, but it's maintained our democracy for nearly 250 years, longer than any other nation in history that's ever tried such a bold experiment."
+      "quote": "Our system of separation of powers, checks and balances, it may not be perfect, but it's maintained our democracy for nearly 250 years, longer than any other nation in history that's ever tried such a bold experiment.",
+      "quote_sha256": "4df9c3412c831cd9ef3e4aa6df2895425886999c2d94ffb8b38858262690fdcf"
     },
     {
       "paragraph": 13,
@@ -103,7 +112,8 @@
       "meaning": "履行做某事的承诺",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "And every day, I've kept my commitment to be President for all Americans through one of the toughest periods in our Nation's history."
+      "quote": "And every day, I've kept my commitment to be President for all Americans through one of the toughest periods in our Nation's history.",
+      "quote_sha256": "cb6628360a634a03dd895d4e3cd775dd7233383b5f651511da1104e2f4a860f7"
     },
     {
       "paragraph": 15,
@@ -111,15 +121,17 @@
       "meaning": "做……是我一生的荣幸",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "郑重感谢；日常可缩小程度，不能把全部当高频寒暄。",
-      "quote": "It's been the honor of my life to see the resilience of essential workers getting us through a once-in-a-century pandemic, the heroism of servicemembers and first responders keeping us safe, the determination of advocates standing up for our rights and our freedoms."
+      "quote": "It's been the honor of my life to see the resilience of essential workers getting us through a once-in-a-century pandemic, the heroism of servicemembers and first responders keeping us safe, the determination of advocates standing up for our rights and our freedoms.",
+      "quote_sha256": "ac433992d9ffd96dc0d9042ec9929c27fdf652414c84f140723c86b6d24e938a"
     },
     {
       "paragraph": 20,
-      "chunk": "bring sth. to a low",
+      "chunk": "bring sth. to a …-year low",
       "meaning": "使某项指标降至低点",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "本句a 50-year low；常用数据说明搭配。",
-      "quote": "And finally doing something to protect our children and our families by passing the most significant gun safety law in 30 years and bringing violent crime to a 50-year low."
+      "note": "本句a 50-year low；常用数据说明搭配。原文50-year low，指具体时间范围的最低水平。",
+      "quote": "And finally doing something to protect our children and our families by passing the most significant gun safety law in 30 years and bringing violent crime to a 50-year low.",
+      "quote_sha256": "fda1a3a2671103332948750664421de85f7de49ad6d78cdbea95a9adc173b65f"
     },
     {
       "paragraph": 21,
@@ -127,7 +139,8 @@
       "meaning": "接触／暴露于某物",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "此处为有毒物质，不是公开披露。",
-      "quote": "Meeting our sacred obligation to over 1 million veterans so far who were exposed to toxic materials and to their families—providing medical care and education benefits and more for their families."
+      "quote": "Meeting our sacred obligation to over 1 million veterans so far who were exposed to toxic materials and to their families—providing medical care and education benefits and more for their families.",
+      "quote_sha256": "972f734ee908f7af17e2f8f3229c49f2bdb0ddc536847e2227d42fd0e5bedb59"
     },
     {
       "paragraph": 22,
@@ -135,7 +148,8 @@
       "meaning": "要做到……还需要时间",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "You know, it will take time to feel the full impact of all we've done together."
+      "quote": "You know, it will take time to feel the full impact of all we've done together.",
+      "quote_sha256": "b7842e46b0733987587ea2c33c30dec0e72dc0ebdc3255e1ae3567b5c177a7ad"
     },
     {
       "paragraph": 22,
@@ -143,7 +157,8 @@
       "meaning": "在未来几十年里",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "未来持续时间；不是过去几十年。",
-      "quote": "But the seeds are planted, and they'll grow, and they'll bloom for decades to come."
+      "quote": "But the seeds are planted, and they'll grow, and they'll bloom for decades to come.",
+      "quote_sha256": "a15cd295bfcf68f637b13c54c7a59c05dcd0e3ad03185f321270a87ea8bd5eb4"
     },
     {
       "paragraph": 24,
@@ -151,7 +166,8 @@
       "meaning": "领先、超过某人",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "竞争中的位置变化。",
-      "quote": "And overseas, we've strengthened NATO. Ukraine is still free. And we've pulled ahead of our competition with China. And so much more."
+      "quote": "And overseas, we've strengthened NATO. Ukraine is still free. And we've pulled ahead of our competition with China. And so much more.",
+      "quote_sha256": "2e45c23891aa565379d48324c532fc732de12b3cd5fbd18ec8468edd71c583df"
     },
     {
       "paragraph": 25,
@@ -159,7 +175,8 @@
       "meaning": "祝某人成功",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "I'm so proud of how much we've accomplished together for the American people. And I wish the incoming administration success, because I want America to succeed."
+      "quote": "I'm so proud of how much we've accomplished together for the American people. And I wish the incoming administration success, because I want America to succeed.",
+      "quote_sha256": "bfd3a502b96c3b61b26de41cd6c589b58922d0e0f4d9b1d08f28cae235e83689"
     },
     {
       "paragraph": 26,
@@ -167,7 +184,8 @@
       "meaning": "我毫不怀疑……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "表达确信，不是弱推测。",
-      "quote": "That's why I've upheld my duty to ensure a peaceful and orderly transition of power to ensure we lead by the power of our example. I have no doubt that America is in a position to continue to succeed."
+      "quote": "That's why I've upheld my duty to ensure a peaceful and orderly transition of power to ensure we lead by the power of our example. I have no doubt that America is in a position to continue to succeed.",
+      "quote_sha256": "30463c713caa3ad0d8630c87141689f43ddefe95f9f9c559e9ce9f08beea3d5b"
     },
     {
       "paragraph": 26,
@@ -175,7 +193,8 @@
       "meaning": "处于有条件做某事的位置",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "That's why I've upheld my duty to ensure a peaceful and orderly transition of power to ensure we lead by the power of our example. I have no doubt that America is in a position to continue to succeed."
+      "quote": "That's why I've upheld my duty to ensure a peaceful and orderly transition of power to ensure we lead by the power of our example. I have no doubt that America is in a position to continue to succeed.",
+      "quote_sha256": "30463c713caa3ad0d8630c87141689f43ddefe95f9f9c559e9ce9f08beea3d5b"
     },
     {
       "paragraph": 27,
@@ -183,7 +202,8 @@
       "meaning": "任由某事发展而不加约束",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "通常用于令人担忧的趋势。",
-      "quote": "And this is the dangerous concern—and that's the dangerous concentration of power in the hands of very few ultrawealthy people, and the dangerous consequences if their abuse of power is left unchecked."
+      "quote": "And this is the dangerous concern—and that's the dangerous concentration of power in the hands of very few ultrawealthy people, and the dangerous consequences if their abuse of power is left unchecked.",
+      "quote_sha256": "524a81f1106050a5fa2ea7bc292333bfcb402eb6ad47fea2dd030ef6d2e80020"
     },
     {
       "paragraph": 28,
@@ -191,7 +211,8 @@
       "meaning": "逐渐形成",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead."
+      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead.",
+      "quote_sha256": "5056afa7c11b06a0f23fb756dcae1618e051671cc9531f34165e4fe4c4dce170"
     },
     {
       "paragraph": 28,
@@ -199,7 +220,8 @@
       "meaning": "有公平的机会争取……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "原文fair shot后接for everyone；骨架为可迁移候选。",
-      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead."
+      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead.",
+      "quote_sha256": "5056afa7c11b06a0f23fb756dcae1618e051671cc9531f34165e4fe4c4dce170"
     },
     {
       "paragraph": 28,
@@ -207,7 +229,8 @@
       "meaning": "取得进步／改善处境",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead."
+      "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead.",
+      "quote_sha256": "5056afa7c11b06a0f23fb756dcae1618e051671cc9531f34165e4fe4c4dce170"
     },
     {
       "paragraph": 30,
@@ -215,7 +238,8 @@
       "meaning": "按规则行事",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "原文口误pay the by—play保留，不收口误为模板。",
-      "quote": "They just made the wealthy pay the by—play by the rules everybody else had to."
+      "quote": "They just made the wealthy pay the by—play by the rules everybody else had to.",
+      "quote_sha256": "8331c59526044f77b3b8e3590352915b533827d214dbe26b6cef3eb70e8ba3ae"
     },
     {
       "paragraph": 30,
@@ -223,7 +247,8 @@
       "meaning": "获得自己应得的份额",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Workers won rights to earn their fair share."
+      "quote": "Workers won rights to earn their fair share.",
+      "quote_sha256": "91d2fbe7eba10838c5d763016742c871dbd7c71335743c7e3adcadfefa24839c"
     },
     {
       "paragraph": 33,
@@ -231,7 +256,8 @@
       "meaning": "处于利害攸关之中；可能失去",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "So much is at stake. Right now the existential threat of climate change has never been clearer. Just look across the country, from California to North Carolina."
+      "quote": "So much is at stake. Right now the existential threat of climate change has never been clearer. Just look across the country, from California to North Carolina.",
+      "quote_sha256": "aac87b76b653074623ea0245e76ea9fe38e56c3b807182d4f4f33419ad69e651"
     },
     {
       "paragraph": 35,
@@ -239,7 +265,8 @@
       "meaning": "我们不必在A与B之间二选一",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "澄清两者并非不可兼得。",
-      "quote": "You know, we've proven we don't have to choose between protecting the environment and growing the economy."
+      "quote": "You know, we've proven we don't have to choose between protecting the environment and growing the economy.",
+      "quote_sha256": "56999ca543d09f2050a6eaf6827ee19c2774602da7eb5d999df6380abbdf2231"
     },
     {
       "paragraph": 36,
@@ -247,7 +274,8 @@
       "meaning": "被胁迫去做某事",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "We must not be bullied into sacrificing the future, the future of our children and our grandchildren."
+      "quote": "We must not be bullied into sacrificing the future, the future of our children and our grandchildren.",
+      "quote_sha256": "2c52f1842ac0ee22546a8d766760c60ae383fdc0309f8bdd6a6950656730e8d5"
     },
     {
       "paragraph": 36,
@@ -255,7 +283,8 @@
       "meaning": "没有时间可浪费",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "催促行动的套语。",
-      "quote": "We must keep pushing forward and push faster. There is no time to waste."
+      "quote": "We must keep pushing forward and push faster. There is no time to waste.",
+      "quote_sha256": "f9a6e4c98811d4fec17fccba9f2d17004beb633f2fbf57ccf24712f37414551a"
     },
     {
       "paragraph": 38,
@@ -263,7 +292,8 @@
       "meaning": "对……构成危险",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "You know, his farewell address, President Eisenhower spoke of the dangers of the military- industrial complex. He warned us then about, and I quote, \"the potential for the disastrous rise of misplaced power,\" end of quote. Six days—six decades later, I'm equally concerned about the potential rise of a tech-industrial complex that could pose real dangers for our country as well."
+      "quote": "You know, his farewell address, President Eisenhower spoke of the dangers of the military- industrial complex. He warned us then about, and I quote, \"the potential for the disastrous rise of misplaced power,\" end of quote. Six days—six decades later, I'm equally concerned about the potential rise of a tech-industrial complex that could pose real dangers for our country as well.",
+      "quote_sha256": "f65939be7f1a15b51e8659e92ba4a490f593a2db36e1449462f3496bbb33763c"
     },
     {
       "paragraph": 39,
@@ -271,7 +301,8 @@
       "meaning": "不再尝试／放弃某事",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Americans are being buried under an avalanche of misinformation and disinformation enabling the abuse of power. The free press is crumbling. Editors are disappearing. Social media is giving up on fact-checking. The truth is smothered by lies told for power and for profit."
+      "quote": "Americans are being buried under an avalanche of misinformation and disinformation enabling the abuse of power. The free press is crumbling. Editors are disappearing. Social media is giving up on fact-checking. The truth is smothered by lies told for power and for profit.",
+      "quote_sha256": "b3db895a5a4b06dc298ab1ba0ef9ac578692d81596c7d78de9c5b622f36128d1"
     },
     {
       "paragraph": 40,
@@ -279,7 +310,8 @@
       "meaning": "要求某人为其行为负责",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "We must hold the social platforms accountable to protect our children, our families, and our very democracy from the abuse of power."
+      "quote": "We must hold the social platforms accountable to protect our children, our families, and our very democracy from the abuse of power.",
+      "quote_sha256": "30a369f72ec2fad65c63af87c0c135ee92a617fb6fcb1207b96c27e34e7f98a9"
     },
     {
       "paragraph": 41,
@@ -287,7 +319,8 @@
       "meaning": "我们这个时代的／有史以来的",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "比较时间范围不同。",
-      "quote": "Meanwhile, artificial intelligence is the most consequential technology of our time, perhaps of all time. Nothing offers more profound possibilities and risks for our economy and our security, our society, it's our very—for humanity."
+      "quote": "Meanwhile, artificial intelligence is the most consequential technology of our time, perhaps of all time. Nothing offers more profound possibilities and risks for our economy and our security, our society, it's our very—for humanity.",
+      "quote_sha256": "21f67ac051f5a550a6583e24234e0de5f06697353bfae1ba42f2aa84b51e8167"
     },
     {
       "paragraph": 42,
@@ -295,7 +328,8 @@
       "meaning": "有潜力／可能做到……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Artificial intelligence even has the potential to help us answer my call to end cancer as we know it. But unless safeguards are in place, AI could spawn new threats to our rights, our way of life, to our privacy, how we work, and how we protect our Nation."
+      "quote": "Artificial intelligence even has the potential to help us answer my call to end cancer as we know it. But unless safeguards are in place, AI could spawn new threats to our rights, our way of life, to our privacy, how we work, and how we protect our Nation.",
+      "quote_sha256": "b24d8f20010e00a1b398abec6502d6ef4db684758fd8326426e30443deef4643"
     },
     {
       "paragraph": 42,
@@ -303,7 +337,8 @@
       "meaning": "安排、措施已到位",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Artificial intelligence even has the potential to help us answer my call to end cancer as we know it. But unless safeguards are in place, AI could spawn new threats to our rights, our way of life, to our privacy, how we work, and how we protect our Nation."
+      "quote": "Artificial intelligence even has the potential to help us answer my call to end cancer as we know it. But unless safeguards are in place, AI could spawn new threats to our rights, our way of life, to our privacy, how we work, and how we protect our Nation.",
+      "quote_sha256": "b24d8f20010e00a1b398abec6502d6ef4db684758fd8326426e30443deef4643"
     },
     {
       "paragraph": 43,
@@ -311,7 +346,8 @@
       "meaning": "比以往任何时候都更重要",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "In the age of AI, it's more important than ever that the people must govern."
+      "quote": "In the age of AI, it's more important than ever that the people must govern.",
+      "quote_sha256": "a97c2bb79ae0aa42274272811a6904810525ded8c582397c217b93e6b015a7b9"
     },
     {
       "paragraph": 48,
@@ -319,7 +355,8 @@
       "meaning": "禁止某人做某事",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "We need to ban Members of Congress from trading stock while they're in the Congress."
+      "quote": "We need to ban Members of Congress from trading stock while they're in the Congress.",
+      "quote_sha256": "8b65bdcfba18240ceb00d132e72b0ef3abfbf8ccf7d090ee19da4d6499cb49f9"
     },
     {
       "paragraph": 49,
@@ -327,7 +364,8 @@
       "meaning": "免于……；不受……约束",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "本句为犯罪法律责任；非医学免疫。",
-      "quote": "We need to amend the Constitution to make clear that no President—no President—is immune from crimes that he or she commits while in office. The President's power is not limited—it's not absolute, and it shouldn't be."
+      "quote": "We need to amend the Constitution to make clear that no President—no President—is immune from crimes that he or she commits while in office. The President's power is not limited—it's not absolute, and it shouldn't be.",
+      "quote_sha256": "945035ba030520ca9188b4dd6dbae9934b78df14fee4b564d2e876779036755b"
     },
     {
       "paragraph": 50,
@@ -335,7 +373,8 @@
       "meaning": "感觉／觉得……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "原句people don't feel like they have，非feel like doing想做。",
-      "quote": "Participating in our democracy becomes exhausting and even disillusioning, and people don't feel like they have a fair shot."
+      "quote": "Participating in our democracy becomes exhausting and even disillusioning, and people don't feel like they have a fair shot.",
+      "quote_sha256": "29782d675c22ad143a7281f68fd7e04b29af4503fd9ddee58705b7e72b6b7896"
     },
     {
       "paragraph": 52,
@@ -343,7 +382,8 @@
       "meaning": "有权获得……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "A fair shot is what makes America, America. Everyone is entitled to a fair shot—not a guarantee, but just a fair shot, an even playing field—going as far as your hard work and talent can take you. We can never lose that essential truth—remain who we are."
+      "quote": "A fair shot is what makes America, America. Everyone is entitled to a fair shot—not a guarantee, but just a fair shot, an even playing field—going as far as your hard work and talent can take you. We can never lose that essential truth—remain who we are.",
+      "quote_sha256": "0936ca3f5b7633736b88b1d9c9718d3a93e04c442498c33c6e8817225621abfa"
     },
     {
       "paragraph": 52,
@@ -351,7 +391,8 @@
       "meaning": "公平的竞争环境",
       "register": "正式／演讲",
       "note": "常见level playing field的本句变体；待跨语料核验后正式教学。",
-      "quote": "Everyone is entitled to a fair shot—not a guarantee, but just a fair shot, an even playing field—going as far as your hard work and talent can take you."
+      "quote": "Everyone is entitled to a fair shot—not a guarantee, but just a fair shot, an even playing field—going as far as your hard work and talent can take you.",
+      "quote_sha256": "5b8f00fdbadbe5116708aebbcbb4e9e83b004e286a2257172e1215a48b634c7b"
     },
     {
       "paragraph": 53,
@@ -359,7 +400,8 @@
       "meaning": "从普通／并不优越的起点出发",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "叙事，不等于贫困。",
-      "quote": "Only in America do we believe anything is possible, like a kid with a stutter from modest beginnings in Scranton, Pennsylvania, and Claymont, Delaware, sitting behind the—this desk in the Oval Office as President of the United States."
+      "quote": "Only in America do we believe anything is possible, like a kid with a stutter from modest beginnings in Scranton, Pennsylvania, and Claymont, Delaware, sitting behind the—this desk in the Oval Office as President of the United States.",
+      "quote_sha256": "aeac69ec0d6b24f959c6750cd6fa7a2b6b7832d489e6c30cd5f6666a1f0b5653"
     },
     {
       "paragraph": 55,
@@ -367,7 +409,8 @@
       "meaning": "使某人想起……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Upstairs in the Residence of the White House, I've walked by a painting of the Statue of Liberty I don't know how many times. In the painting, there are several workers climbing on the outstretched arm of the statue that holds the torch. It reminds me every day I pass it of the story and soul of our Nation and the power of the American people."
+      "quote": "Upstairs in the Residence of the White House, I've walked by a painting of the Statue of Liberty I don't know how many times. In the painting, there are several workers climbing on the outstretched arm of the statue that holds the torch. It reminds me every day I pass it of the story and soul of our Nation and the power of the American people.",
+      "quote_sha256": "e3b0214309fe68a767a7122f3df598a1d16654cd3d74b978d7e98a0900d1f549"
     },
     {
       "paragraph": 56,
@@ -375,7 +418,8 @@
       "meaning": "被称为……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "不同于known for因某特点出名。",
-      "quote": "There's a story of a veteran—this is—a veteran, a son of an immigrant, whose job it was to climb that torch and polish the amber panes so rays of light could reach out as far as possible. He was known as the \"keeper of the flame.\""
+      "quote": "There's a story of a veteran—this is—a veteran, a son of an immigrant, whose job it was to climb that torch and polish the amber panes so rays of light could reach out as far as possible. He was known as the \"keeper of the flame.\"",
+      "quote_sha256": "9a3da42e48f19741345ff0bb614c9aaf6296b07a933e59faa74e8df7e34a25ab"
     },
     {
       "paragraph": 59,
@@ -383,7 +427,8 @@
       "meaning": "比我们想象的更近",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "可用于接近目标的评价。",
-      "quote": "But what I believe is the America of our dreams is always closer than we think."
+      "quote": "But what I believe is the America of our dreams is always closer than we think.",
+      "quote_sha256": "112a92f50d248fba53a28bf6971d43ed09583b4856422de46e298de9ae5afc56"
     },
     {
       "paragraph": 59,
@@ -391,7 +436,8 @@
       "meaning": "由某人负责／取决于某人去做……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "And it's up to us to make our dreams come true."
+      "quote": "And it's up to us to make our dreams come true.",
+      "quote_sha256": "c9e11387f4e57bcb5b904bff80f3febd22b64eecc733991c532cf8fc9e2fa978"
     },
     {
       "paragraph": 60,
@@ -399,7 +445,8 @@
       "meaning": "让我以……结束",
       "register": "正式／演讲",
       "note": "正式讲话结束语。",
-      "quote": "Let me close by stating my gratitude to so many people."
+      "quote": "Let me close by stating my gratitude to so many people.",
+      "quote_sha256": "18e0dfe777847362464c51b77c12c7b5a8d063a16c3f179af7ce359ecabe9843"
     },
     {
       "paragraph": 60,
@@ -407,7 +454,8 @@
       "meaning": "主动承担并去做某事",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Let me close by stating my gratitude to so many people. To the members of my administration, as well as public service and first responders across the country and around the world, thank you for stepping up to serve."
+      "quote": "Let me close by stating my gratitude to so many people. To the members of my administration, as well as public service and first responders across the country and around the world, thank you for stepping up to serve.",
+      "quote_sha256": "95e91f4e9278ad311dae2c30ba5494570bc2f30a17d3d4acb2f559a9b5fc3b6c"
     },
     {
       "paragraph": 62,
@@ -415,7 +463,8 @@
       "meaning": "变得像家人一样",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "She and Doug have become like family."
+      "quote": "She and Doug have become like family.",
+      "quote_sha256": "9b16d0871e3b83664b8a3fb942d5498a5a9a9700afb407e4969eab3e996feaff"
     },
     {
       "paragraph": 63,
@@ -423,7 +472,8 @@
       "meaning": "一生挚爱",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "只引用正常词块；后续lifes of my love为口误，不作模板。",
-      "quote": "You are the love of my life and lifes of my love."
+      "quote": "You are the love of my life and lifes of my love.",
+      "quote_sha256": "4c38ca03757b0017fe6d5b742784f3089ba72f20f5965c2b3798c17983895230"
     },
     {
       "paragraph": 65,
@@ -431,7 +481,8 @@
       "meaning": "守卫、保持警戒",
       "register": "正式／演讲",
       "note": "演讲中作守护价值的比喻。",
-      "quote": "Now it's your turn to stand guard."
+      "quote": "Now it's your turn to stand guard.",
+      "quote_sha256": "0e9cc6c24b0b06aefd2a5492a28f4314e9bd4a5ac908a2af4aa99ad56053b733"
     }
   ],
   "duplicates_skipped": [
@@ -493,5 +544,6 @@
       "quote": "And in a democracy, there's another danger to the concentration of power and wealth. It erodes a sense of unity and common purpose. It causes distrust and division. Participating in our democracy becomes exhausting and even disillusioning, and people don't feel like they have a fair shot."
     }
   ],
-  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。"
+  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-202500078.htm"
 }

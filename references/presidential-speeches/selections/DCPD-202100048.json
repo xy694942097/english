@@ -31,7 +31,8 @@
       "meaning": "迎接挑战，表现出应对能力",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Through a crucible for the ages America has been tested anew, and America has risen to the challenge."
+      "quote": "Through a crucible for the ages America has been tested anew, and America has risen to the challenge.",
+      "quote_sha256": "72e044c58969319906e5664780133d6fdec222b5884aa2e1d95e86292e729a75"
     },
     {
       "paragraph": 4,
@@ -39,7 +40,8 @@
       "meaning": "把目标定在……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "As we look ahead in our uniquely American way—restless, bold, optimistic—and set our sights on the Nation we know we can be and we must be, I thank my predecessors of both parties for their presence here today."
+      "quote": "As we look ahead in our uniquely American way—restless, bold, optimistic—and set our sights on the Nation we know we can be and we must be, I thank my predecessors of both parties for their presence here today.",
+      "quote_sha256": "6c9c3075fac0c750195bd55d3603c660509dc62a0f72e45db771fe90c341261c"
     },
     {
       "paragraph": 4,
@@ -47,7 +49,8 @@
       "meaning": "发自内心地",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "I thank them from the bottom of my heart."
+      "quote": "I thank them from the bottom of my heart.",
+      "quote_sha256": "1318710d78321e9afb9804306720909ac16b9626f5d96e6236274e372a6c7591"
     },
     {
       "paragraph": 5,
@@ -55,7 +58,8 @@
       "meaning": "所依靠的不是A，而是B",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "重定因果或责任来源的外层骨架。",
-      "quote": "I have just taken the sacred oath each of these patriots have taken, the oath first sworn by George Washington. But the American story depends not on any one of us, not on some of us, but on all of us, on \"We the People,\" who seek a more perfect Union."
+      "quote": "I have just taken the sacred oath each of these patriots have taken, the oath first sworn by George Washington. But the American story depends not on any one of us, not on some of us, but on all of us, on \"We the People,\" who seek a more perfect Union.",
+      "quote_sha256": "844c7711d14ed7cd855d3e26a2df055b25c40cfddf2dbe86283a03d155caa8e1"
     },
     {
       "paragraph": 6,
@@ -63,7 +67,8 @@
       "meaning": "还有很长的路要走",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "指目标尚未达到，可比喻用于项目与学习。",
-      "quote": "But we still have far to go."
+      "quote": "But we still have far to go.",
+      "quote_sha256": "42dc39613a8acc9e339a803692901facb5f94208b7dbb9586a0496156f97d360"
     },
     {
       "paragraph": 6,
@@ -71,7 +76,8 @@
       "meaning": "继续坚定推进",
       "register": "正式／演讲",
       "note": "正式；带决心。",
-      "quote": "We'll press forward with speed and urgency, for we have much to do in this winter of peril and significant possibilities: much to repair, much to restore, much to heal, much to build, and much to gain."
+      "quote": "We'll press forward with speed and urgency, for we have much to do in this winter of peril and significant possibilities: much to repair, much to restore, much to heal, much to build, and much to gain.",
+      "quote_sha256": "a6e884844fb26bb8a74f3e89186dcb3f8e5fdb50a4a556299491d417bfe38486"
     },
     {
       "paragraph": 7,
@@ -79,7 +85,8 @@
       "meaning": "酝酿／形成了多年",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "不能译为未来要花多年。",
-      "quote": "A cry for racial justice some 400 years in the making moves us."
+      "quote": "A cry for racial justice some 400 years in the making moves us.",
+      "quote_sha256": "e77c48b325044ecf6948fb47185ec40b7fe752ef847fd788102edfbaef9b77b5"
     },
     {
       "paragraph": 8,
@@ -87,7 +94,8 @@
       "meaning": "需要的不只是口头表态",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "To overcome these challenges—to restore the soul and secure the future of America— requires so much more than words. It requires the most elusive of all things in a democracy: unity. Unity."
+      "quote": "To overcome these challenges—to restore the soul and secure the future of America— requires so much more than words. It requires the most elusive of all things in a democracy: unity. Unity.",
+      "quote_sha256": "38be545cc7e3f4401b8cef60af99e5dbcb2e425687a273cd91f09cd4a9f6686e"
     },
     {
       "paragraph": 9,
@@ -95,7 +103,8 @@
       "meaning": "提笔写下／签署",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "语境是签署；书面表达。",
-      "quote": "When he put pen to paper, the President said, and I quote, \"If my name ever goes down into history it will be for this act, and my whole soul is in it.\" My whole soul is in it."
+      "quote": "When he put pen to paper, the President said, and I quote, \"If my name ever goes down into history it will be for this act, and my whole soul is in it.\" My whole soul is in it.",
+      "quote_sha256": "9039bb758063a02cafb3bcf96e14ab9d3a51157f6d5e0fd1de60c2aa4860f153"
     },
     {
       "paragraph": 12,
@@ -103,7 +112,8 @@
       "meaning": "纠正不公或错误",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "We can right wrongs."
+      "quote": "We can right wrongs.",
+      "quote_sha256": "9cfa5ef937c957372fbe2a0da75628728d31df5a46a2d8e581cb55127d69ca5f"
     },
     {
       "paragraph": 12,
@@ -111,7 +121,8 @@
       "meaning": "让某人投入工作",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "With unity we can do great things, important things. We can right wrongs. We can put people to work in good jobs. We can teach our children in safe schools. We can overcome the deadly virus. We can reward work and rebuild the middle class and make health care secure for all. We can deliver racial justice, and we can make America, once again, the leading force for good in the world."
+      "quote": "With unity we can do great things, important things. We can right wrongs. We can put people to work in good jobs. We can teach our children in safe schools. We can overcome the deadly virus. We can reward work and rebuild the middle class and make health care secure for all. We can deliver racial justice, and we can make America, once again, the leading force for good in the world.",
+      "quote_sha256": "99e9f483dbe64ad679d3c209512f89e25f2a899c26c8c0b4bf1f7685b4dfc6fb"
     },
     {
       "paragraph": 13,
@@ -119,7 +130,8 @@
       "meaning": "在某人听来像……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "表达对一种说法的感受，而非声音音色。",
-      "quote": "I know speaking of unity can sound to some like a foolish fantasy these days. I know the forces that divide us are deep and they are real. But I also know they are not new. Our history has been a constant struggle between the American ideal that we all are created equal and the harsh, ugly reality that racism, nativism, fear, demonization have long torn us apart. The battle is perennial. And victory is never assured."
+      "quote": "I know speaking of unity can sound to some like a foolish fantasy these days. I know the forces that divide us are deep and they are real. But I also know they are not new. Our history has been a constant struggle between the American ideal that we all are created equal and the harsh, ugly reality that racism, nativism, fear, demonization have long torn us apart. The battle is perennial. And victory is never assured.",
+      "quote_sha256": "848b40f3424e11a739ba94a4bc2ef3e3c272b1176f7ce1ef5ebca677fcff9995"
     },
     {
       "paragraph": 13,
@@ -127,7 +139,8 @@
       "meaning": "使人分裂／疏远",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "本句指社会被分裂；与悲痛义区分。",
-      "quote": "I know speaking of unity can sound to some like a foolish fantasy these days. I know the forces that divide us are deep and they are real. But I also know they are not new. Our history has been a constant struggle between the American ideal that we all are created equal and the harsh, ugly reality that racism, nativism, fear, demonization have long torn us apart. The battle is perennial. And victory is never assured."
+      "quote": "I know speaking of unity can sound to some like a foolish fantasy these days. I know the forces that divide us are deep and they are real. But I also know they are not new. Our history has been a constant struggle between the American ideal that we all are created equal and the harsh, ugly reality that racism, nativism, fear, demonization have long torn us apart. The battle is perennial. And victory is never assured.",
+      "quote_sha256": "848b40f3424e11a739ba94a4bc2ef3e3c272b1176f7ce1ef5ebca677fcff9995"
     },
     {
       "paragraph": 14,
@@ -135,7 +148,8 @@
       "meaning": "联合起来做某事",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "In each of these moments, enough of us—enough of us—have come together to carry all of us forward."
+      "quote": "In each of these moments, enough of us—enough of us—have come together to carry all of us forward.",
+      "quote_sha256": "23981633a092daec826c9bcfd1ad8806c4a3d08b0e80bc486d670ba0781076e5"
     },
     {
       "paragraph": 15,
@@ -143,7 +157,8 @@
       "meaning": "指明方向",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "History, faith, and reason show the way: the way of unity."
+      "quote": "History, faith, and reason show the way: the way of unity.",
+      "quote_sha256": "5ee19b47813c05911bf94bca3ad6454c229b0b2d6aaeb99644dc9d1c479dc7cb"
     },
     {
       "paragraph": 16,
@@ -151,7 +166,8 @@
       "meaning": "以尊严与尊重对待某人",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "We can treat each other with dignity and respect."
+      "quote": "We can treat each other with dignity and respect.",
+      "quote_sha256": "3b7378576a2870365f07d9a794d394119fd1c431da4b8cd50914169b301e40c2"
     },
     {
       "paragraph": 16,
@@ -159,7 +175,8 @@
       "meaning": "联手、合作",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "We can join forces, stop the shouting, and lower the temperature."
+      "quote": "We can join forces, stop the shouting, and lower the temperature.",
+      "quote_sha256": "674fdbe39042cfad5bab5c280973a7aa0a034e0136f8ea0417bba51d55a25497"
     },
     {
       "paragraph": 17,
@@ -167,7 +184,8 @@
       "meaning": "我向你保证……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "明确的强承诺。",
-      "quote": "If we do that, I guarantee you, we will not fail."
+      "quote": "If we do that, I guarantee you, we will not fail.",
+      "quote_sha256": "3bae0fff1f5befd02ac3b22d02afc672392817d24145eeae9852fbcfc7e66c59"
     },
     {
       "paragraph": 18,
@@ -175,7 +193,8 @@
       "meaning": "重新开始",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "And so today, at this time, in this place, let's start afresh, all of us."
+      "quote": "And so today, at this time, in this place, let's start afresh, all of us.",
+      "quote_sha256": "60e2a5c8f7ba2bd85ba043b7f8454a87f243d48a095e4d9a9d0c416c68ebe36e"
     },
     {
       "paragraph": 18,
@@ -183,7 +202,8 @@
       "meaning": "某事不必成为……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "说明更坏的结果并非必然；与禁止不同。",
-      "quote": "Politics doesn't have to be a raging fire destroying everything in its path."
+      "quote": "Politics doesn't have to be a raging fire destroying everything in its path.",
+      "quote_sha256": "f5360b0058c3ad3b84b49c352563324fbcccac40d5f82bef17fa72e6bd523be6"
     },
     {
       "paragraph": 21,
@@ -191,7 +211,8 @@
       "meaning": "处于未定的紧要关头",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "结果可能向任一方向发展，较书面。",
-      "quote": "Just look around. Here we stand, in the shadow of the Capitol dome, as was mentioned earlier, completed amid the Civil War, when the Union itself was literally hanging in the balance. Yet we endured, we prevailed."
+      "quote": "Just look around. Here we stand, in the shadow of the Capitol dome, as was mentioned earlier, completed amid the Civil War, when the Union itself was literally hanging in the balance. Yet we endured, we prevailed.",
+      "quote_sha256": "62ca04addf9fbe29646661240e172406d519041fb1b0f1cfb736a1a8fc7f2780"
     },
     {
       "paragraph": 23,
@@ -199,7 +220,8 @@
       "meaning": "别跟我说……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "本句为强势驳斥并非寻求信息。",
-      "quote": "And today we mark the swearing-in of the first woman in American history elected to national office: Vice President Kamala Harris. Don't tell me things can't change."
+      "quote": "And today we mark the swearing-in of the first woman in American history elected to national office: Vice President Kamala Harris. Don't tell me things can't change.",
+      "quote_sha256": "ebdb73edfa4a418f924335da2f04c400df131e932d4112db1e5f04ab4aaf02e0"
     },
     {
       "paragraph": 26,
@@ -207,7 +229,8 @@
       "meaning": "相信、信任某人",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "To all those who supported our campaign, I am humbled by the faith you've placed in us. To all those who did not support us, let me say this: Hear me out as we move forward. Take a"
+      "quote": "To all those who supported our campaign, I am humbled by the faith you've placed in us. To all those who did not support us, let me say this: Hear me out as we move forward. Take a",
+      "quote_sha256": "89ef69b8285fcec73ac18cf12db3d76c0cec324a17f950d7de31714d0215f9f2"
     },
     {
       "paragraph": 26,
@@ -215,7 +238,8 @@
       "meaning": "听某人把话说完",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "To all those who supported our campaign, I am humbled by the faith you've placed in us. To all those who did not support us, let me say this: Hear me out as we move forward. Take a"
+      "quote": "To all those who supported our campaign, I am humbled by the faith you've placed in us. To all those who did not support us, let me say this: Hear me out as we move forward. Take a",
+      "quote_sha256": "89ef69b8285fcec73ac18cf12db3d76c0cec324a17f950d7de31714d0215f9f2"
     },
     {
       "paragraph": 27,
@@ -223,7 +247,8 @@
       "meaning": "那就这样吧／就接受这个结果",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "带接受而不再强求的语气。",
-      "quote": "measure of me and my heart. And if you still disagree, so be it. That's democracy. That's America. The right to dissent peaceably, within the guardrails of our Republic, is perhaps this Nation's greatest strength. Yet hear me clearly: Disagreement must not lead to disunion. And I pledge this to you: I will be a President for all Americans—all Americans. And I promise you, I will fight as hard for those who did not support me as for those who did."
+      "quote": "measure of me and my heart. And if you still disagree, so be it. That's democracy. That's America. The right to dissent peaceably, within the guardrails of our Republic, is perhaps this Nation's greatest strength. Yet hear me clearly: Disagreement must not lead to disunion. And I pledge this to you: I will be a President for all Americans—all Americans. And I promise you, I will fight as hard for those who did not support me as for those who did.",
+      "quote_sha256": "83bfdeb93d38b03d3d3cbab1c3b5d4b2edab6ec0dd34d5daf22a37598fb62dc2"
     },
     {
       "paragraph": 27,
@@ -231,7 +256,8 @@
       "meaning": "为A和B同样努力争取",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "保留比较骨架；fight 可指积极争取。",
-      "quote": "And I promise you, I will fight as hard for those who did not support me as for those who did."
+      "quote": "And I promise you, I will fight as hard for those who did not support me as for those who did.",
+      "quote_sha256": "0692ccd06c30fba37e3edbe70d63f387aea26cc3656d1fb55e16ba7763dcd8e9"
     },
     {
       "paragraph": 29,
@@ -239,7 +265,8 @@
       "meaning": "让某人吃到教训",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Recent weeks and months have taught us a painful lesson."
+      "quote": "Recent weeks and months have taught us a painful lesson.",
+      "quote_sha256": "47f36d35219af0c9533597fd569381e6cb77055096d4b6fdea6c25663ec85180"
     },
     {
       "paragraph": 30,
@@ -247,7 +274,8 @@
       "meaning": "我理解／我懂你的处境",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "同理回应；此处不是收到了物品。",
-      "quote": "Look, I understand that many of my fellow Americans view the future with fear and trepidation. I understand they worry about their jobs. I understand, like my dad, they lay at bed at night staring at the ceiling, wondering: \"Can I keep my health care? Can I pay my mortgage?\" Thinking about their families, about what comes next. I promise you, I get it. But the answer is not to turn inward, to retreat into competing factions, distrusting those who don't look like you or worship the way you do or don't get their news from the same sources you do. We must end this uncivil war that pits red against blue, rural versus urban, conservative versus liberal. We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment. Stand in their shoes."
+      "quote": "Look, I understand that many of my fellow Americans view the future with fear and trepidation. I understand they worry about their jobs. I understand, like my dad, they lay at bed at night staring at the ceiling, wondering: \"Can I keep my health care? Can I pay my mortgage?\" Thinking about their families, about what comes next. I promise you, I get it. But the answer is not to turn inward, to retreat into competing factions, distrusting those who don't look like you or worship the way you do or don't get their news from the same sources you do. We must end this uncivil war that pits red against blue, rural versus urban, conservative versus liberal. We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment. Stand in their shoes.",
+      "quote_sha256": "76d6d907f984c4a1c81972b2db1280d10cd328a2d7c86f34c489126c80bfe249"
     },
     {
       "paragraph": 30,
@@ -255,7 +283,8 @@
       "meaning": "使A与B对立",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Look, I understand that many of my fellow Americans view the future with fear and trepidation. I understand they worry about their jobs. I understand, like my dad, they lay at bed at night staring at the ceiling, wondering: \"Can I keep my health care? Can I pay my mortgage?\" Thinking about their families, about what comes next. I promise you, I get it. But the answer is not to turn inward, to retreat into competing factions, distrusting those who don't look like you or worship the way you do or don't get their news from the same sources you do. We must end this uncivil war that pits red against blue, rural versus urban, conservative versus liberal. We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment. Stand in their shoes."
+      "quote": "Look, I understand that many of my fellow Americans view the future with fear and trepidation. I understand they worry about their jobs. I understand, like my dad, they lay at bed at night staring at the ceiling, wondering: \"Can I keep my health care? Can I pay my mortgage?\" Thinking about their families, about what comes next. I promise you, I get it. But the answer is not to turn inward, to retreat into competing factions, distrusting those who don't look like you or worship the way you do or don't get their news from the same sources you do. We must end this uncivil war that pits red against blue, rural versus urban, conservative versus liberal. We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment. Stand in their shoes.",
+      "quote_sha256": "76d6d907f984c4a1c81972b2db1280d10cd328a2d7c86f34c489126c80bfe249"
     },
     {
       "paragraph": 30,
@@ -263,7 +292,8 @@
       "meaning": "站在对方的立场考虑",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "常见变体put oneself in sb.'s shoes，原文stand照录。",
-      "quote": "We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment."
+      "quote": "We can do this if we open our souls instead of hardening our hearts, if we show a little tolerance and humility, and if we're willing to stand in the other person's shoes, as my mom would say, just for a moment.",
+      "quote_sha256": "72308b6c237abda4ab27b860a1c775a59858994acb5551f1e3c831ff9dea9bcc"
     },
     {
       "paragraph": 31,
@@ -271,7 +301,8 @@
       "meaning": "关于某事，关键在于……",
       "register": "口语；原素材为公开演讲",
       "note": "口语引出解释。",
-      "quote": "Because here is the thing about life: There is no accounting for what fate will deal you."
+      "quote": "Because here is the thing about life: There is no accounting for what fate will deal you.",
+      "quote_sha256": "df48c37b5c62ffb27099c90f2550df7ff736d8e7458f63bcd8e1105f86fe908a"
     },
     {
       "paragraph": 31,
@@ -279,7 +310,8 @@
       "meaning": "无法解释／预测某事",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "本句面对命运的不可预知；固定说法并非会计。",
-      "quote": "Because here is the thing about life: There is no accounting for what fate will deal you."
+      "quote": "Because here is the thing about life: There is no accounting for what fate will deal you.",
+      "quote_sha256": "df48c37b5c62ffb27099c90f2550df7ff736d8e7458f63bcd8e1105f86fe908a"
     },
     {
       "paragraph": 32,
@@ -287,7 +319,8 @@
       "meaning": "帮一把、提供帮助",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "There are other days when we're called to lend a hand."
+      "quote": "There are other days when we're called to lend a hand.",
+      "quote_sha256": "d6a13c8b63fdacbc3baffadc2ece2ddf691309f9e9970d3da1e9b5df4cdac1b2"
     },
     {
       "paragraph": 33,
@@ -295,7 +328,8 @@
       "meaning": "暂放一边，不让其干扰当前任务",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "We must set aside politics and finally face this pandemic as one Nation."
+      "quote": "We must set aside politics and finally face this pandemic as one Nation.",
+      "quote_sha256": "e99189c5befd129202f0d745ea021e50f9fa4bc8430dc670b952546b4039b03a"
     },
     {
       "paragraph": 33,
@@ -303,7 +337,8 @@
       "meaning": "撑过、度过困难",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "And I promise you this: As the Bible says, \"Weeping may endure for a night, but joy cometh in the morning.\" We will get through this, together—together."
+      "quote": "And I promise you this: As the Bible says, \"Weeping may endure for a night, but joy cometh in the morning.\" We will get through this, together—together.",
+      "quote_sha256": "ce5ad8f9cae1365c67ee7504a7fba6fccc8abe258a223d8ebecec658fbdb0464"
     },
     {
       "paragraph": 34,
@@ -311,7 +346,8 @@
       "meaning": "经历此事后反而更强",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "for it 指因为经历了考验。",
-      "quote": "So here is my message to those beyond our borders: America has been tested, and we have come out stronger for it."
+      "quote": "So here is my message to those beyond our borders: America has been tested, and we have come out stronger for it.",
+      "quote_sha256": "5884de1d9dbcaf9c6264c0f008cd6d3161a5711198254e0f94e2fb932456f22d"
     },
     {
       "paragraph": 35,
@@ -319,7 +355,8 @@
       "meaning": "经历过很多艰难事情",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Look, you all know, we have been through so much in this Nation."
+      "quote": "Look, you all know, we have been through so much in this Nation.",
+      "quote_sha256": "6e01112c8415f5579a1a407f059a4157ccc6e158fc4f03383c0dcb22178e71f3"
     },
     {
       "paragraph": 36,
@@ -327,7 +364,8 @@
       "meaning": "丧生",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "So I ask you, let's say a silent prayer for those who have lost their lives, for those they left behind, and for our country."
+      "quote": "So I ask you, let's say a silent prayer for those who have lost their lives, for those they left behind, and for our country.",
+      "quote_sha256": "cb4c87e7371fd36e644e3c2737a5d868dea2a77007dca636766f5e7b7f270fb4"
     },
     {
       "paragraph": 38,
@@ -335,7 +373,8 @@
       "meaning": "同时，一起",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "But the fact is, we face them all at once, presenting this Nation with one of the gravest of responsibilities we've had."
+      "quote": "But the fact is, we face them all at once, presenting this Nation with one of the gravest of responsibilities we've had.",
+      "quote_sha256": "f63050a774b867888bc28903138bc6f503ddba367f51ba2fd564dc5d744c56b2"
     },
     {
       "paragraph": 39,
@@ -343,7 +382,8 @@
       "meaning": "主动承担责任",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Now we're going to be tested. Are we going to step up? All of us? It is time for boldness, for there is so much to do. And this is certain, I promise you: We will be judged, you and I, by how we resolve these cascading crises of our era. Will we rise to the occasion, is the question. Will we master this rare and difficult hour? Will we meet our obligations and pass along a new and better world to our children? I believe we must; I'm sure you do as well. I believe we will."
+      "quote": "Now we're going to be tested. Are we going to step up? All of us? It is time for boldness, for there is so much to do. And this is certain, I promise you: We will be judged, you and I, by how we resolve these cascading crises of our era. Will we rise to the occasion, is the question. Will we master this rare and difficult hour? Will we meet our obligations and pass along a new and better world to our children? I believe we must; I'm sure you do as well. I believe we will.",
+      "quote_sha256": "f2f86ea6c619016d6ac8cb310c1f29c41f2e6c304836ca1e833477d4ba6798d0"
     },
     {
       "paragraph": 39,
@@ -351,7 +391,8 @@
       "meaning": "在关键时刻发挥出应有能力",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "与rise to the challenge近义，场合触发点有独立边界。",
-      "quote": "Will we rise to the occasion, is the question."
+      "quote": "Will we rise to the occasion, is the question.",
+      "quote_sha256": "96642ed383d33ba1ed571d7d7a7e4f07ee1ddf6fba528f4efbba066bd8298161"
     },
     {
       "paragraph": 40,
@@ -359,7 +400,8 @@
       "meaning": "突出、引人注意",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "And when we do, we will write the next great chapter in the history of the United States of America: the American story, a story that might sound something like a song that means a lot to me. It's called \"American Anthem,\" and there's one verse that stands out, at least for me, and it goes like this:"
+      "quote": "And when we do, we will write the next great chapter in the history of the United States of America: the American story, a story that might sound something like a song that means a lot to me. It's called \"American Anthem,\" and there's one verse that stands out, at least for me, and it goes like this:",
+      "quote_sha256": "90fd8d678b104afcb88b64c3623588710e5c78ebfa085bfe6a85d823b9484c35"
     },
     {
       "paragraph": 43,
@@ -367,7 +409,8 @@
       "meaning": "尽自己最大的努力",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Let's add—let's us add our own work and prayers to the unfolding story of our great Nation. If we do this, then when our days are through, our children and our children's children will say of us: \"They gave their best. They did their duty. They healed a broken land.\""
+      "quote": "Let's add—let's us add our own work and prayers to the unfolding story of our great Nation. If we do this, then when our days are through, our children and our children's children will say of us: \"They gave their best. They did their duty. They healed a broken land.\"",
+      "quote_sha256": "e3056b13223d939ea47992755cb45119eead5a9567f968c59901088626f98082"
     },
     {
       "paragraph": 44,
@@ -375,7 +418,8 @@
       "meaning": "向某人郑重保证",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "My fellow Americans, I close today where I began, with a sacred oath. Before God and all of you I give you my word: I will always level with you. I will defend the Constitution. I will defend our democracy. I will defend America. And I will give all, all of you, keep everything you—I do, in your service, thinking not of power, but of possibilities; not of personal interest, but of the public good. And together, we shall write an American story of hope, not fear; of unity, not division; of light, not darkness. A story of decency and dignity, love and healing, greatness and goodness."
+      "quote": "My fellow Americans, I close today where I began, with a sacred oath. Before God and all of you I give you my word: I will always level with you. I will defend the Constitution. I will defend our democracy. I will defend America. And I will give all, all of you, keep everything you—I do, in your service, thinking not of power, but of possibilities; not of personal interest, but of the public good. And together, we shall write an American story of hope, not fear; of unity, not division; of light, not darkness. A story of decency and dignity, love and healing, greatness and goodness.",
+      "quote_sha256": "6761bbde595f451b546ad88f990cf15b82a15448be7e2a25b69e4448b41a1c9d"
     },
     {
       "paragraph": 44,
@@ -383,7 +427,8 @@
       "meaning": "对某人坦诚相告",
       "register": "口语；原素材为公开演讲",
       "note": "口语；不是与某人保持水平。",
-      "quote": "Before God and all of you I give you my word: I will always level with you."
+      "quote": "Before God and all of you I give you my word: I will always level with you.",
+      "quote_sha256": "fbadd9507e685c9d2b92659e5b6f0f621c731e68a983c78eeeb81800f57b3e75"
     },
     {
       "paragraph": 45,
@@ -391,7 +436,8 @@
       "meaning": "在某人负责／任职期间",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "强调负责期间发生的事情。",
-      "quote": "May this be the story that guides us, the story that inspires us, and the story that tells ages yet to come that we answered the call of history, we met the moment; democracy and hope, truth and justice, did not die on our watch, but thrived; that America secured liberty at home and stood once again as a beacon to the world. That is what we owe our forebearers, one another, and generations to follow."
+      "quote": "May this be the story that guides us, the story that inspires us, and the story that tells ages yet to come that we answered the call of history, we met the moment; democracy and hope, truth and justice, did not die on our watch, but thrived; that America secured liberty at home and stood once again as a beacon to the world. That is what we owe our forebearers, one another, and generations to follow.",
+      "quote_sha256": "b08b3574edbd3a34b200e97a6b303edd3af657578978815afcab5d4376664e11"
     },
     {
       "paragraph": 46,
@@ -399,7 +445,8 @@
       "meaning": "全心全意地",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "So with purpose and resolve we turn to those tasks of our time, sustained by faith, driven by conviction, and devoted to one another and the country we love with all our hearts."
+      "quote": "So with purpose and resolve we turn to those tasks of our time, sustained by faith, driven by conviction, and devoted to one another and the country we love with all our hearts.",
+      "quote_sha256": "6fa94b00eacebcc6e29ce3495e82420f87104a6730b27887eeb803629bdbcc91"
     }
   ],
   "duplicates_skipped": [
@@ -441,5 +488,6 @@
       "quote": "Now we're going to be tested. Are we going to step up? All of us? It is time for boldness, for there is so much to do. And this is certain, I promise you: We will be judged, you and I, by how we resolve these cascading crises of our era. Will we rise to the occasion, is the question. Will we master this rare and difficult hour? Will we meet our obligations and pass along a new and better world to our children? I believe we must; I'm sure you do as well. I believe we will."
     }
   ],
-  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。"
+  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-202100048.htm"
 }

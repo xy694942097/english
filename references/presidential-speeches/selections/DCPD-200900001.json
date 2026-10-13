@@ -671,5 +671,6 @@
       "quote_sha256": "eb1e366f0a2bf262e91392f1e738906330008948f573f03f1b979475f27d91e9"
     }
   ],
-  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-200900001.htm"
 }

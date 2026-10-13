@@ -1,0 +1,242 @@
+{
+  "chunks": [
+    {
+      "chunk": "bring down the temperature",
+      "category": "习语与固定表达",
+      "meaning": "缓和紧张局面；给争论降温",
+      "register": "中性／公开讨论",
+      "note": "这里的 temperature 是冲突强度，不是实际温度；说话时还需把前面的口语长句整理清楚。",
+      "source_id": "DCPD-202400984",
+      "paragraph": 9,
+      "quote": "bring down the temperature.",
+      "transfer": "Let's bring down the temperature and focus on what we can fix."
+    },
+    {
+      "chunk": "lay [something] to rest",
+      "category": "习语与固定表达",
+      "meaning": "消除疑虑、结束争论，使某个问题不再反复被提起",
+      "register": "中性偏正式",
+      "note": "不等于每一种 solve；常配 doubts、fears、rumors、questions。原句用 lay to rest the question，宾语较长所以后置。",
+      "source_id": "DCPD-202400984",
+      "paragraph": 10,
+      "quote": "I also hope we can lay to rest the question about the integrity of the American electoral system.",
+      "transfer": "The new evidence should lay those doubts to rest."
+    },
+    {
+      "chunk": "make every [day/moment] count",
+      "category": "句式骨架",
+      "meaning": "让每一天／每一刻都有价值；充分利用时间",
+      "register": "日常与鼓励性表达",
+      "note": "count 在此是有价值、产生作用，不是计数；不是 every 后可随意装任何名词的万能结构。",
+      "source_id": "DCPD-202400984",
+      "paragraph": 20,
+      "quote": "Let's make every day count.",
+      "transfer": "We only have a week left, so let's make every day count."
+    },
+    {
+      "chunk": "keep the faith",
+      "category": "习语与固定表达",
+      "meaning": "保持信心，别因受挫而放弃相信",
+      "register": "鼓励／略带演讲色彩",
+      "note": "faith 在此可指信心，不必指宗教；日常更直白可说 don't lose hope。",
+      "source_id": "DCPD-202400984",
+      "paragraph": 25,
+      "quote": "And above all, we need to keep the faith.",
+      "transfer": "It's been a difficult year, but I'm trying to keep the faith."
+    },
+    {
+      "chunk": "win or lose",
+      "category": "话语套语",
+      "meaning": "不论输赢；输赢都一样适用",
+      "register": "日常／口语与书面",
+      "note": "可放句首或句尾补充条件；不是句式骨架 only when 的同义替换，而是把相反条件都纳入。",
+      "source_id": "DCPD-202400984",
+      "paragraph": 10,
+      "quote": "And it can be trusted, win or lose.",
+      "transfer": "Win or lose, I'm glad we gave it a try."
+    },
+    {
+      "chunk": "live up to [an ideal/expectations]",
+      "category": "短语动词与动词结构",
+      "meaning": "达到理想、承诺或期待的标准",
+      "register": "中性",
+      "note": "不是住在某地；常说 live up to expectations 或 live up to a promise。",
+      "source_id": "DCPD-202300848",
+      "paragraph": 12,
+      "quote": "We've never fully lived up to that idea, but we've never walked away from it.",
+      "transfer": "The product didn't live up to my expectations."
+    },
+    {
+      "chunk": "at one's own peril",
+      "category": "习语与固定表达",
+      "meaning": "这么做会自担危险／后果；带警告",
+      "register": "正式／郑重警告",
+      "note": "比 at one's own risk 更带危险感，不宜用于每件小事。",
+      "source_id": "DCPD-202300848",
+      "paragraph": 60,
+      "quote": "We lose these institutions of our government at our own peril.",
+      "transfer": "We ignore these warning signs at our own peril."
+    },
+    {
+      "chunk": "I'd be surprised if [S V]",
+      "category": "句式骨架",
+      "meaning": "如果……我会很意外；间接表示自己觉得那不太可能",
+      "register": "日常与工作讨论",
+      "note": "if 从句的肯定／否定决定预测方向；原句的 anything different 表示预计别人也听到相同担忧。",
+      "source_id": "DCPD-202300848",
+      "paragraph": 59,
+      "quote": "I'd be surprised if you heard anything different than the concern about: Are we okay?",
+      "transfer": "I'd be surprised if we finished this by Friday."
+    },
+    {
+      "chunk": "for all its faults",
+      "category": "句式骨架",
+      "meaning": "尽管它有种种缺点，仍然……",
+      "register": "评价／口语书面均可",
+      "note": "for all 在此表达让步，不是为了全部；换对象时可用 for all his/her/their faults。原文 pass 后附官方 path 更正，照录。",
+      "source_id": "DCPD-202300848",
+      "paragraph": 104,
+      "quote": "For all its faults though, American democracy remains the best pass [path; White House correction] forward to prosperity, possibilities, progress, fair play, equality.",
+      "transfer": "For all its faults, this is still the tool I use most."
+    },
+    {
+      "chunk": "all kidding aside",
+      "category": "话语套语",
+      "meaning": "玩笑归玩笑，认真地说……",
+      "register": "口语／对话与公开讲话",
+      "note": "用来从玩笑切回认真话题；没有玩笑铺垫时不必硬用。原句后续 more ... as ... 是口语中的不整齐比较结构，不作为模板；这里只收话题切换词块。",
+      "source_id": "DCPD-202300848",
+      "paragraph": 109,
+      "quote": "But, all kidding aside, I've never been more optimistic about America's chances in domestic and foreign policy as I am today.",
+      "transfer": "All kidding aside, I really appreciate your help."
+    },
+    {
+      "chunk": "The real credit doesn't go to [X]",
+      "category": "句式骨架",
+      "meaning": "真正的功劳不属于 X（而应归给别人）",
+      "register": "感谢／评价与公开讲话",
+      "note": "credit 是功劳、认可，不是贷款额度；原段下一句把认可给了听众。",
+      "source_id": "DCPD-202300848",
+      "paragraph": 98,
+      "quote": "But the real credit doesn't go to me and my administration for the progress—for this progress.",
+      "transfer": "The real credit doesn't go to me; it goes to the people who tested it."
+    },
+    {
+      "chunk": "[X] is never a given",
+      "category": "句式骨架",
+      "meaning": "X 从来不是理所当然或自动有保证的",
+      "register": "中性／论述",
+      "note": "a given 作名词指可当成既定事实的东西；不能理解为过去分词被给予。",
+      "source_id": "DCPD-200900001",
+      "paragraph": 7,
+      "quote": "greatness is never a given.",
+      "transfer": "Trust is never a given; you have to earn it."
+    },
+    {
+      "chunk": "settle for less",
+      "category": "短语动词与动词结构",
+      "meaning": "接受更低的标准或次一等的结果；将就",
+      "register": "日常／鼓励或评价",
+      "note": "settle for 指接受不那么理想的选项；less 的比较标准由语境给出。",
+      "source_id": "DCPD-200900001",
+      "paragraph": 7,
+      "quote": "Our journey has never been one of shortcuts or settling for less.",
+      "transfer": "We don't have to settle for less just because we're in a hurry."
+    },
+    {
+      "chunk": "The question is not whether [A], but whether [B]",
+      "category": "句式骨架",
+      "meaning": "真正要问的不是 A，而是 B；重新界定讨论焦点",
+      "register": "工作讨论／论述",
+      "note": "whether A/B 可各接一个完整判断；不只是替换 but，而是在转移判定标准。",
+      "source_id": "DCPD-200900001",
+      "paragraph": 13,
+      "quote": "The question we ask today is not whether our Government is too big or too small, but whether it works;",
+      "transfer": "The question is not whether we can build it, but whether anyone needs it."
+    },
+    {
+      "chunk": "not out of [X], but because [Y]",
+      "category": "句式骨架",
+      "meaning": "不是出于 X，而是因为 Y；澄清动机",
+      "register": "口语书面均可／解释",
+      "note": "out of 在此引出动机，X 常为情绪或态度名词，Y 为从句；不要照抄原政治主张。",
+      "source_id": "DCPD-200900001",
+      "paragraph": 14,
+      "quote": "not out of charity, but because it is the surest route to our common good.",
+      "transfer": "I asked not out of curiosity, but because I needed to make a decision."
+    },
+    {
+      "chunk": "see [someone] through [a difficult period]",
+      "category": "短语动词与动词结构",
+      "meaning": "帮助某人撑过困难时期",
+      "register": "中性",
+      "note": "不是看穿某人；与 see through an excuse（识破借口）区分。原句包含 which 回指，不能把截取片段当完整句。",
+      "source_id": "DCPD-200900001",
+      "paragraph": 22,
+      "quote": "which sees us through our darkest hours.",
+      "transfer": "Her support saw me through a very difficult year."
+    },
+    {
+      "chunk": "all talk and no action",
+      "category": "习语与固定表达",
+      "meaning": "光说不做；只会嘴上说",
+      "register": "日常／直接批评",
+      "note": "带明确负面评价；评价同事时可能显得尖锐。",
+      "source_id": "DCPD-201700058",
+      "paragraph": 25,
+      "quote": "We will no longer accept politicians who are all talk and no action, constantly complaining, but never doing anything about it.",
+      "transfer": "He makes big promises, but he's all talk and no action."
+    },
+    {
+      "chunk": "get the job done",
+      "category": "常用搭配",
+      "meaning": "把任务完成；重点在结果",
+      "register": "日常／工作",
+      "note": "job 可以是具体任务，不一定是职业岗位；不自动表示完成得好。",
+      "source_id": "DCPD-201700058",
+      "paragraph": 2,
+      "quote": "We will face challenges, we will confront hardships, but we will get the job done.",
+      "transfer": "It isn't perfect, but it gets the job done."
+    },
+    {
+      "chunk": "let [someone] down",
+      "category": "短语动词与动词结构",
+      "meaning": "让某人失望；辜负其期待",
+      "register": "日常",
+      "note": "此处不是物理上放下人；ever 强化原句的承诺。",
+      "source_id": "DCPD-201700058",
+      "paragraph": 17,
+      "quote": "I will fight for you with every breath in my body, and I will never, ever let you down.",
+      "transfer": "I know you were counting on me, and I'm sorry I let you down."
+    },
+    {
+      "chunk": "no room for [X]",
+      "category": "常用搭配",
+      "meaning": "没有容纳 X 的余地；某种态度或行为不应存在",
+      "register": "中性／立场表达",
+      "note": "可字面指空间，也可抽象表达不容许；no room for error 表示不允许出错。",
+      "source_id": "DCPD-201700058",
+      "paragraph": 23,
+      "quote": "When you open your heart to patriotism, there is no room for prejudice.",
+      "transfer": "There's no room for personal attacks in this discussion."
+    }
+  ],
+  "skipped": [
+    {
+      "text": "You can't love your country only when you win. / You can't love your neighbor only when you agree.",
+      "reason": "收集箱已有同一 You can't ... only when ... 骨架；保留旧例句，邻居变体不重复计数。"
+    },
+    {
+      "text": "What truly matters is not which party controls our Government, but whether our Government is controlled by the people.",
+      "reason": "与本批 The question is not whether ... but whether ... 同属重新定焦动作；保留一条代表，此句留作变体。"
+    },
+    {
+      "text": "Make America great again / America first",
+      "reason": "依赖特定政治运动的口号；不适合作为日常表达的默认学习项。"
+    },
+    {
+      "text": "not simply because ... but because ... / not only ... but ...",
+      "reason": "常见对比与成对连接，已有一般性教材；本批优先选更有独立使用边界的表达。"
+    }
+  ]
+}

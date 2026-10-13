@@ -167,15 +167,6 @@
       "quote_sha256": "fec2255f8c9f456759e4108d64a6d160a03926238ce3b6be3effd13fb014a2ae"
     },
     {
-      "chunk": "be well served to do sth.",
-      "meaning": "做某事会有益／值得做",
-      "register": "正式／建议",
-      "note": "原文形式保留，正式教学前核对常见 be well served by doing 的接法。",
-      "paragraph": 14,
-      "quote": "As we commemorate their achievement, we are well served to remember that, at the time of the marches, many in power condemned rather than praised them.",
-      "quote_sha256": "fcc4766ffcd13e50221c8277e954d53d4b6bbf7b8b4bd29e91d5767c9a10611d"
-    },
-    {
       "chunk": "Back then",
       "meaning": "那时候；当年",
       "register": "中性／叙事",
@@ -783,8 +774,19 @@
       "quote": "As we commemorate their achievement, we are well served to remember that, at the time of the marches, many in power condemned rather than praised them.",
       "quote_sha256": "fcc4766ffcd13e50221c8277e954d53d4b6bbf7b8b4bd29e91d5767c9a10611d",
       "status": "候选接法待核：常见表述为be well served by doing；尚未查词典，不作正确模板教学。"
+    },
+    {
+      "chunk": "be well served to do sth.",
+      "meaning": "做某事会有益／值得做",
+      "register": "正式／建议",
+      "note": "原文形式保留，正式教学前核对常见 be well served by doing 的接法。",
+      "paragraph": 14,
+      "quote": "As we commemorate their achievement, we are well served to remember that, at the time of the marches, many in power condemned rather than praised them.",
+      "quote_sha256": "fcc4766ffcd13e50221c8277e954d53d4b6bbf7b8b4bd29e91d5767c9a10611d",
+      "reason": "原句存在，但接法或现场重启不适合作为默认规范模板；待回源／词典核实"
     }
   ],
   "vocabulary_candidates": [],
-  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-201500157.htm"
 }

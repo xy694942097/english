@@ -81,8 +81,8 @@ const assert = require('node:assert/strict');
     assert.equal(await page.locator('#article h3').count(), 63, '收集箱63个候选均保留为纵向条目');
 
     await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/总统演讲 Chunks：坚持原则、澄清判断与回应挫折.md'));
-    await page.getByRole('heading', {name: '总统演讲 Chunks：坚持原则、澄清判断与回应挫折', exact: true}).waitFor();
-    assert.equal(await page.locator('#article h3').count(), 20, '总统演讲精选二十个纵向 chunks');
+    await page.getByRole('heading', {name: '总统演讲：Chunks 积累', exact: true}).waitFor();
+    assert.equal(await page.locator('#article h3').count(), require('../references/presidential-speeches/chunks.json').chunks.length, '总统演讲候选全部渲染为纵向条目');
     await page.goto(base + '#' + encodeURIComponent('course/原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md'));
     await page.getByRole('heading', {name: '总统演讲原文合集：GovInfo', exact: true}).waitFor();
 

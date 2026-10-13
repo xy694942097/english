@@ -27,11 +27,12 @@
   "items": [
     {
       "paragraph": 1,
-      "chunk": "Good to see sb. together",
+      "chunk": "Good to see sb.",
       "meaning": "很高兴看到大家聚在一起",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "见面与团体开场；不是认定用户已掌握的基础问候。",
-      "quote": "Thank you. Good to see this Cabinet and staff together here."
+      "note": "见面与团体开场；不是认定用户已掌握的基础问候。together是本次聚会情境修饰，不是固定必要部分。",
+      "quote": "Thank you. Good to see this Cabinet and staff together here.",
+      "quote_sha256": "fdfbbf82129a7d3f1c8300e0a2ac5893b940ee48f87c0ea1b3883df184775478"
     },
     {
       "paragraph": 4,
@@ -39,7 +40,8 @@
       "meaning": "继续开展某项活动",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "For over 200 years, America has carried on the greatest experiment in self-government in the history of the world—and that's not hyperbole, that's a fact—where the people—the people—vote and choose their own leaders, and they do it peacefully; and where, in a democracy, the will of the people always prevails."
+      "quote": "For over 200 years, America has carried on the greatest experiment in self-government in the history of the world—and that's not hyperbole, that's a fact—where the people—the people—vote and choose their own leaders, and they do it peacefully; and where, in a democracy, the will of the people always prevails.",
+      "quote_sha256": "de0166104c894d3bf464815a97f78b9b5680dd4fc57189d17be59acb9daa2e8b"
     },
     {
       "paragraph": 5,
@@ -47,7 +49,8 @@
       "meaning": "向某人保证……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Yesterday I spoke with President-elect Trump to congratulate him on his victory. And I assured him that I would direct my entire administration to work with his team to ensure a peaceful and orderly transition. That's what the American people deserve."
+      "quote": "Yesterday I spoke with President-elect Trump to congratulate him on his victory. And I assured him that I would direct my entire administration to work with his team to ensure a peaceful and orderly transition. That's what the American people deserve.",
+      "quote_sha256": "4eb24954fcd9a6cd55ae0d4efd6bdcafd74d7b498dc5742a416eaf4c24edc804"
     },
     {
       "paragraph": 5,
@@ -55,7 +58,8 @@
       "meaning": "与某人合作来完成……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "And I assured him that I would direct my entire administration to work with his team to ensure a peaceful and orderly transition."
+      "quote": "And I assured him that I would direct my entire administration to work with his team to ensure a peaceful and orderly transition.",
+      "quote_sha256": "edfbfeef3dcf13b51936d3dbda6144908ba040f561d6091ce57d82b0cdf6071e"
     },
     {
       "paragraph": 7,
@@ -63,7 +67,8 @@
       "meaning": "在早期；一开始",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "She ran an inspiring campaign, and everyone got to see something that I learned early on to respect so much: her character. She has a backbone like a ramrod. She has great character, true character. She gave her whole heart and effort, and she and her entire team should be proud of the campaign they ran."
+      "quote": "She ran an inspiring campaign, and everyone got to see something that I learned early on to respect so much: her character. She has a backbone like a ramrod. She has great character, true character. She gave her whole heart and effort, and she and her entire team should be proud of the campaign they ran.",
+      "quote_sha256": "f18fee7cb4e3e2c12373c07aee9cbf1044a20f18439732e238a088f8ab0f93d1"
     },
     {
       "paragraph": 8,
@@ -71,7 +76,8 @@
       "meaning": "说一句显而易见的话",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "话语套语；点明明摆着的事实，有时带强调或讽刺。",
-      "quote": "I know, for some people, it's a time for victory, to state the obvious."
+      "quote": "I know, for some people, it's a time for victory, to state the obvious.",
+      "quote_sha256": "be66efc56a35683588313b24240c114665202b76ff397f2e4d5d2d8452a6eaff"
     },
     {
       "paragraph": 9,
@@ -79,7 +85,8 @@
       "meaning": "不能仅在某种条件满足时才做……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "外层立场骨架；不可因此前教材已出现而删去。",
-      "quote": "I've said many times you can't love your country only when you win."
+      "quote": "I've said many times you can't love your country only when you win.",
+      "quote_sha256": "398bbe5136d863f1b390f8f771823c76cc1b66021ce85f9b50df213dd0adade0"
     },
     {
       "paragraph": 9,
@@ -87,7 +94,8 @@
       "meaning": "不论是谁……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Something I hope we can do no matter who you voted for is see each other not as adversaries, but as fellow Americans, bring down the temperature."
+      "quote": "Something I hope we can do no matter who you voted for is see each other not as adversaries, but as fellow Americans, bring down the temperature.",
+      "quote_sha256": "88c68ba0d864c0df141e74140e73afd93a6e28b724b3a0f0d4f160bd74210ca9"
     },
     {
       "paragraph": 9,
@@ -95,7 +103,8 @@
       "meaning": "将某人看成B而非A",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "重新界定看待对象的方式；不是任意名词串。",
-      "quote": "Campaigns are contests of competing visions. The country chooses one or the other. And we accept the choice the country made. I've said many times you can't love your country only when you win. You can't love your neighbor only when you agree. Something I hope we can do no matter who you voted for is see each other not as adversaries, but as fellow Americans, bring down the temperature."
+      "quote": "Campaigns are contests of competing visions. The country chooses one or the other. And we accept the choice the country made. I've said many times you can't love your country only when you win. You can't love your neighbor only when you agree. Something I hope we can do no matter who you voted for is see each other not as adversaries, but as fellow Americans, bring down the temperature.",
+      "quote_sha256": "528b8d4f3d348e8fa6e61820028abe987175b525a2be7e7801d540c2d7dacc21"
     },
     {
       "chunk": "bring down the temperature",
@@ -104,7 +113,8 @@
       "register": "口语；原素材为公开演讲",
       "note": "这里的 temperature 是冲突强度，不是实际温度；说话时还需把前面的口语长句整理清楚。",
       "paragraph": 9,
-      "quote": "bring down the temperature."
+      "quote": "bring down the temperature.",
+      "quote_sha256": "273adb6783a25e0c9aeaa4f759c4c9b1351f3e26744df1d933eb21813dbbb08d"
     },
     {
       "chunk": "lay sth. to rest",
@@ -113,7 +123,8 @@
       "register": "中性偏正式",
       "note": "不等于每一种 solve；常配 doubts、fears、rumors、questions。原句用 lay to rest the question，宾语较长所以后置。",
       "paragraph": 10,
-      "quote": "I also hope we can lay to rest the question about the integrity of the American electoral system."
+      "quote": "I also hope we can lay to rest the question about the integrity of the American electoral system.",
+      "quote_sha256": "0c4c23a024d8696ef6c30c48db1038f842dcbda70efb7f5725b75e2e6a6cd72a"
     },
     {
       "chunk": "win or lose",
@@ -122,7 +133,8 @@
       "register": "日常／口语与书面",
       "note": "可放句首或句尾补充条件；不是句式骨架 only when 的同义替换，而是把相反条件都纳入。",
       "paragraph": 10,
-      "quote": "And it can be trusted, win or lose."
+      "quote": "And it can be trusted, win or lose.",
+      "quote_sha256": "003053ac606cf986cde88f6a589c9df74c6af17731be13659ceb6f693ecd5eb7"
     },
     {
       "paragraph": 11,
@@ -130,7 +142,8 @@
       "meaning": "冒风险",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "I also hope we can restore the respect for all our election workers, who busted their necks and took risks at the outset. We should thank them, thank them for staffing voting sites, counting the votes, protecting the very integrity of the election. Many of them are volunteers who do it simply out of love for their country."
+      "quote": "I also hope we can restore the respect for all our election workers, who busted their necks and took risks at the outset. We should thank them, thank them for staffing voting sites, counting the votes, protecting the very integrity of the election. Many of them are volunteers who do it simply out of love for their country.",
+      "quote_sha256": "d85bdd02093065346edebde1d093eaecc6068d7a2cce076cf437cb7747880af1"
     },
     {
       "paragraph": 11,
@@ -138,7 +151,8 @@
       "meaning": "在开始时",
       "register": "正式／演讲",
       "note": "较正式的时间套语。",
-      "quote": "I also hope we can restore the respect for all our election workers, who busted their necks and took risks at the outset."
+      "quote": "I also hope we can restore the respect for all our election workers, who busted their necks and took risks at the outset.",
+      "quote_sha256": "515444319f78a8f367f69ae27fd5b7a2f15416dc80abfba4fb7fff992b70dbae"
     },
     {
       "paragraph": 11,
@@ -146,7 +160,8 @@
       "meaning": "出于对……的爱",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "动机结构，不是空间方向。",
-      "quote": "Many of them are volunteers who do it simply out of love for their country."
+      "quote": "Many of them are volunteers who do it simply out of love for their country.",
+      "quote_sha256": "113cf456f8c7c8696ae0dd171cdf92f031e2361f758592d1068086e01d05140c"
     },
     {
       "paragraph": 12,
@@ -154,7 +169,8 @@
       "meaning": "尽自己的职责",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "And as they did their duty as citizens, I will do my duty as President. I will fulfill my oath, and I will honor the Constitution. On January 20, we'll have a peaceful transfer of power here in America."
+      "quote": "And as they did their duty as citizens, I will do my duty as President. I will fulfill my oath, and I will honor the Constitution. On January 20, we'll have a peaceful transfer of power here in America.",
+      "quote_sha256": "c652552a7ed0eac1d75cd98818a61066f3b78d69c8a08402a6318d9c5365c458"
     },
     {
       "paragraph": 13,
@@ -162,7 +178,8 @@
       "meaning": "和某人待在一起、相处",
       "register": "口语；原素材为公开演讲",
       "note": "口语；此处幽默地称与自己共事。",
-      "quote": "To all our incredible staff, supporters, Cabinet members, all the people who have been hanging out with me for the last 4 years—[laughter]—\"God love you,\" as my mother would say—thank you so much."
+      "quote": "To all our incredible staff, supporters, Cabinet members, all the people who have been hanging out with me for the last 4 years—[laughter]—\"God love you,\" as my mother would say—thank you so much.",
+      "quote_sha256": "62aa206c62e2cd94fb782e9571ad9e87a5413b881e32f27c7e2270ee4cd4ac6d"
     },
     {
       "paragraph": 14,
@@ -170,7 +187,8 @@
       "meaning": "为某事投入很多精力",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "You put so much into the past 4 years."
+      "quote": "You put so much into the past 4 years.",
+      "quote_sha256": "d537bfe3f55b5ca8b742b177c292f740abe8827cf982b6d28bc0457fe1f67bd2"
     },
     {
       "paragraph": 14,
@@ -178,7 +196,8 @@
       "meaning": "我听到了你的感受／我理解你",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "此处为认可痛苦；不自动表示同意对方观点。",
-      "quote": "You're hurting. I hear you, and I see you."
+      "quote": "You're hurting. I hear you, and I see you.",
+      "quote_sha256": "7c13620d4224dbdb185ca884119462b4e88660ff851b3968c19baad20e13d70c"
     },
     {
       "paragraph": 16,
@@ -186,7 +205,8 @@
       "meaning": "开始发挥作用",
       "register": "口语；原素材为公开演讲",
       "note": "此处法律效果开始显现，口语。",
-      "quote": "Much of the work we've done is already being felt by the American people. But the vast majority of it will not be felt—be felt over the next 10 years. We have a—we have legislation we passed that's just—only now just really kicking in."
+      "quote": "Much of the work we've done is already being felt by the American people. But the vast majority of it will not be felt—be felt over the next 10 years. We have a—we have legislation we passed that's just—only now just really kicking in.",
+      "quote_sha256": "b84a3084185d8000ebe001226c15119fc2e62144c62b57ca33cf967278bfba7c"
     },
     {
       "paragraph": 17,
@@ -194,7 +214,8 @@
       "meaning": "做某事需要时间",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "We're going to see over a trillion dollars' worth of infrastructure work done, changing people's lives in rural communities and communities that are in real difficulty, because it takes time to get it done, and so much more that's going to take time."
+      "quote": "We're going to see over a trillion dollars' worth of infrastructure work done, changing people's lives in rural communities and communities that are in real difficulty, because it takes time to get it done, and so much more that's going to take time.",
+      "quote_sha256": "0e40262ba770aa725e7fc2acbdb42588ea1f0ecb99f9e1c4ff036d037b4fc741"
     },
     {
       "paragraph": 18,
@@ -202,7 +223,8 @@
       "meaning": "假设……；在……前提下",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "限定判断成立的条件。",
-      "quote": "The road ahead is clear, assuming we sustain it. There's so much—so much—we can get done and will get done based the way the legislation was passed. And it's truly historic."
+      "quote": "The road ahead is clear, assuming we sustain it. There's so much—so much—we can get done and will get done based the way the legislation was passed. And it's truly historic.",
+      "quote_sha256": "9708fa62af91d15a4412705bc2fa3a59154b865cc5ea41cafec97d00b4329ac8"
     },
     {
       "paragraph": 19,
@@ -210,7 +232,8 @@
       "meaning": "使某事向好的方向改变",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "Together, we've changed America for the better."
+      "quote": "Together, we've changed America for the better.",
+      "quote_sha256": "cb093412f18db43e9e08691e4a35f17f582639359ec256bd06963cec558a94a9"
     },
     {
       "chunk": "make every day/moment count",
@@ -219,7 +242,8 @@
       "register": "日常与鼓励性表达",
       "note": "count 在此是有价值、产生作用，不是计数；不是 every 后可随意装任何名词的万能结构。",
       "paragraph": 20,
-      "quote": "Let's make every day count."
+      "quote": "Let's make every day count.",
+      "quote_sha256": "fc6227a8429528bfbb81cf00232e2c5ef3e93234eeeb3673b9894eff45ea0b39"
     },
     {
       "paragraph": 21,
@@ -227,7 +251,8 @@
       "meaning": "受挫后重新振作",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "原文为比喻用法；也可字面指跌倒与起身。",
-      "quote": "Look, folks, you all know it in your lives: Setbacks are unavoidable, but giving up is unforgivable. Setbacks are unavoidable, but giving up is unforgivable. We all get knocked down, but the measure of our character, as my dad would say, is how quickly we get back up."
+      "quote": "Look, folks, you all know it in your lives: Setbacks are unavoidable, but giving up is unforgivable. Setbacks are unavoidable, but giving up is unforgivable. We all get knocked down, but the measure of our character, as my dad would say, is how quickly we get back up.",
+      "quote_sha256": "cc5dcc88ef9b970c5bef6940d3071d9a445136996f9987ebdb38c9e5e4763867"
     },
     {
       "paragraph": 21,
@@ -235,7 +260,8 @@
       "meaning": "衡量……的标准是如何……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "评判标准骨架，原句含插入语。",
-      "quote": "We all get knocked down, but the measure of our character, as my dad would say, is how quickly we get back up."
+      "quote": "We all get knocked down, but the measure of our character, as my dad would say, is how quickly we get back up.",
+      "quote_sha256": "775cc18e4242b00081d5fd59b5e163ea99fa9549b2b8ed53dbf07871a288b091"
     },
     {
       "paragraph": 22,
@@ -243,7 +269,8 @@
       "meaning": "一次失败并不意味着……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "区分一次结果与持续状态；结构候选，非整句政治口号。",
-      "quote": "Remember, a defeat does not mean we are defeated."
+      "quote": "Remember, a defeat does not mean we are defeated.",
+      "quote_sha256": "afb1b8899e9b8a61e0998f16962f3bf37f0af15d23687e509223c315e6f4a3b1"
     },
     {
       "paragraph": 23,
@@ -251,7 +278,8 @@
       "meaning": "而且数字还在增加",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "放在数字后说明仍在累积。",
-      "quote": "That's the story of America for over 240 years and counting."
+      "quote": "That's the story of America for over 240 years and counting.",
+      "quote_sha256": "e2343b739b00230385712b2c8e1834ddf4e8b2d23daa991e9246d6cd5724bb2f"
     },
     {
       "paragraph": 24,
@@ -259,7 +287,8 @@
       "meaning": "保持投入、持续参与",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "The American experiment endures, and we're going to be okay, but we need to stay engaged."
+      "quote": "The American experiment endures, and we're going to be okay, but we need to stay engaged.",
+      "quote_sha256": "faf44d999136355db842a6b2b36f7aa2a80b0134d72bad8b65e77cb5fd49b103"
     },
     {
       "paragraph": 25,
@@ -267,7 +296,8 @@
       "meaning": "最重要的是",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
       "note": "候选：保留本句语境；尚未作跨语料频率与教学用法审校。",
-      "quote": "And above all, we need to keep the faith."
+      "quote": "And above all, we need to keep the faith.",
+      "quote_sha256": "28598b43ba55f22d876fb0e66d0ed4212dd0daf6c8fb6ca85b162e7ad6f465ef"
     },
     {
       "paragraph": 25,
@@ -275,7 +305,8 @@
       "meaning": "继续坚持下去",
       "register": "中性／口语、工作；原素材为演讲",
       "note": "第二遍补充：内部动词词块／义务表达骨架。",
-      "quote": "We need to keep going."
+      "quote": "We need to keep going.",
+      "quote_sha256": "be0a8309207eab67a26e4c3217dec2bb8d33cda0dd1c8aa23140966d436aae21"
     },
     {
       "chunk": "keep the faith",
@@ -284,7 +315,8 @@
       "register": "鼓励／略带演讲色彩",
       "note": "faith 在此可指信心，不必指宗教；日常更直白可说 don't lose hope。",
       "paragraph": 25,
-      "quote": "And above all, we need to keep the faith."
+      "quote": "And above all, we need to keep the faith.",
+      "quote_sha256": "28598b43ba55f22d876fb0e66d0ed4212dd0daf6c8fb6ca85b162e7ad6f465ef"
     },
     {
       "paragraph": 26,
@@ -292,7 +324,8 @@
       "meaning": "我是认真的／我是真心这么说的",
       "register": "口语；原素材为公开演讲",
       "note": "口语确认真诚。",
-      "quote": "I'm so proud to have worked with all of you. I really mean it."
+      "quote": "I'm so proud to have worked with all of you. I really mean it.",
+      "quote_sha256": "51204c2635b90789b7ee4f07dc04d4e9fecd259c2f1527233efd8e0c08fcb3c7"
     }
   ],
   "duplicates_skipped": [],
@@ -323,5 +356,6 @@
       "quote": "I also hope we can restore the respect for all our election workers, who busted their necks and took risks at the outset. We should thank them, thank them for staffing voting sites, counting the votes, protecting the very integrity of the election. Many of them are volunteers who do it simply out of love for their country."
     }
   ],
-  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。"
+  "selection_scope": "候选；没有跨语料频率验证，不代表用户已掌握；政治口号、人名、一次性成绩数字不列为chunks。正式教学再核语域和泛化边界。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-202400984.htm"
 }

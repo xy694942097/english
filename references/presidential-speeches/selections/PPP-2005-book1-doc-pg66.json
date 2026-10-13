@@ -59,15 +59,6 @@
       "quote_sha256": "b575df526f49d41c65daf6ff4588811fded2084c7633fb11b97b9c431cb0bf5f"
     },
     {
-      "chunk": "raise a threat",
-      "meaning": "带来或造成一种威胁",
-      "register": "正式／安全",
-      "note": "原句 mortal threat 为致命危险。",
-      "paragraph": 4,
-      "quote": "violence will gather and multiply in destructive power and cross the most defended borders and raise a mortal threat.",
-      "quote_sha256": "124e2d3fb4aad5432dcce90a9e036a014e1d35d1052bfaabb07765f96da45e90"
-    },
-    {
       "chunk": "for as long as 从句",
       "meaning": "只要某状态还持续，就……",
       "register": "中性／条件持续",
@@ -383,15 +374,6 @@
       "quote_sha256": "fb60a9326d668f02bc54f7aa8dface08dcf3fcfe6d07a2b933cd1a192897436d"
     },
     {
-      "chunk": "have worth",
-      "meaning": "有价值；值得被珍视",
-      "register": "中性／人际评价",
-      "note": "人的价值，不仅财产价格。",
-      "paragraph": 23,
-      "quote": "Americans, at our best, value the life we see in one another and must always remember that even the unwanted have worth.",
-      "quote_sha256": "126cea6609ef51f0d7e006f317cce755d7c0860dbcac16b3b05f5c6d1d50f872"
-    },
-    {
       "chunk": "at the same time",
       "meaning": "同时",
       "register": "中性／约束",
@@ -456,9 +438,9 @@
     },
     {
       "chunk": "be meant to do sth.",
-      "meaning": "被期待／注定要做某事",
+      "meaning": "被寄望／本应／旨在做某事",
       "register": "中性／目的",
-      "note": "原句 hope ... meant to be fulfilled 含使命意味，不是已证实必然。",
+      "note": "原句说一种希望理应得到实现，带使命感；不是事实已经兑现。",
       "paragraph": 26,
       "quote": "When our Founders declared a new order of the ages, when soldiers died in wave upon wave for a union based on liberty, when citizens marched in peaceful outrage under the banner ``Freedom Now,'' they were acting on an ancient hope that is meant to be fulfilled.",
       "quote_sha256": "48d1c00ce38871408cd8fc82b0acb621ca34b3b103e04a5288f6fcd267a15499"
@@ -502,7 +484,30 @@
       "quote_sha256": "d41d1abdf0e21fb2eefc83ab827cdd2984b1e10a674dd19c2ffe15db21844138"
     }
   ],
-  "pending": [],
-  "vocabulary_candidates": [],
-  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+  "pending": [
+    {
+      "chunk": "raise a threat",
+      "meaning": "带来或造成一种威胁",
+      "register": "正式／安全",
+      "note": "原句 mortal threat 为致命危险。",
+      "paragraph": 4,
+      "quote": "violence will gather and multiply in destructive power and cross the most defended borders and raise a mortal threat.",
+      "quote_sha256": "124e2d3fb4aad5432dcce90a9e036a014e1d35d1052bfaabb07765f96da45e90",
+      "reason": "原句存在，但接法或现场重启不适合作为默认规范模板；待回源／词典核实"
+    }
+  ],
+  "vocabulary_candidates": [
+    {
+      "chunk": "have worth",
+      "meaning": "有价值；值得被珍视",
+      "register": "中性／人际评价",
+      "note": "人的价值，不仅财产价格。",
+      "paragraph": 23,
+      "quote": "Americans, at our best, value the life we see in one another and must always remember that even the unwanted have worth.",
+      "quote_sha256": "126cea6609ef51f0d7e006f317cce755d7c0860dbcac16b3b05f5c6d1d50f872",
+      "reason": "本条主要学习点为复合词或单词义项，转词汇候选，避免伪装习语"
+    }
+  ],
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/PPP-2005-book1-doc-pg66.htm"
 }

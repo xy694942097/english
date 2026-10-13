@@ -447,9 +447,9 @@
     },
     {
       "chunk": "act knowing that 从句",
-      "meaning": "明知……仍采取行动",
+      "meaning": "在知道／清楚……的情况下行动",
       "register": "中性偏正式／立场",
-      "note": "knowing 为伴随状态，原句接受不完美结果。",
+      "note": "knowing本身不自动等于明知却仍；原句承认行动的成果可能不完美。",
       "paragraph": 26,
       "quote": "We must act, knowing that our work will be imperfect.",
       "quote_sha256": "ce12d97601149000a4fb92c859055d81bcc8a7d6e464963b5d80ae7095594e97"
@@ -494,5 +494,6 @@
   "duplicates_skipped": [],
   "pending": [],
   "vocabulary_candidates": [],
-  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。"
+  "quote_recovery": "已确认候选的原例收为目标所在完整原句或必要连续片段；只回收原文子串，没有发现新项或改写。原精选精确引文保留。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-201300032.htm"
 }

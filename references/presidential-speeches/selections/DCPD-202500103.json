@@ -18,7 +18,8 @@
       ]
     ],
     "method": "逐段通读整体交际动作及内部词块；回看未选段与已选段，补充解释、对比、条件、叙事、工作与生活结构。观众插话单独识别，分页断句核对连续原段。未用词表筛选代替通读。",
-    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。"
+    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。",
+    "added": 2
   },
   "items": [
     {
@@ -281,6 +282,24 @@
       "paragraph": 64,
       "quote": "After all we have been through together, we stand on the verge of the 4 greatest years in American history.",
       "quote_sha256": "da3984d3620bb8b753b2d5e051c6710a42988e7f08341592e972d598f14b2a86"
+    },
+    {
+      "chunk": "that I can tell you",
+      "meaning": "这点我可以明确告诉你",
+      "register": "口语／基于亲历强调",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 19,
+      "quote": "The journey to reclaim our Republic has not been an easy one, that I can tell you.",
+      "quote_sha256": "32f4a15d9d4abeeaff2ac5bad9182cb5674c0dec170cdebf5f5802d90107be7e"
+    },
+    {
+      "chunk": "a pursuit of excellence",
+      "meaning": "追求卓越",
+      "register": "中性偏正式／标准",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 26,
+      "quote": "In everything we do, my administration will be inspired by a strong pursuit of excellence and unrelenting success.",
+      "quote_sha256": "d56e84b9613a5a96c280f28b905d9371f3124a87fb7df0b242741fc3ab820e26"
     }
   ],
   "duplicates_skipped": [
@@ -337,5 +356,6 @@
   ],
   "pending": [],
   "vocabulary_candidates": [],
-  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。"
+  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-202500103.htm"
 }

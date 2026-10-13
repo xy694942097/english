@@ -18,7 +18,8 @@
       ]
     ],
     "method": "逐段通读整体交际动作及内部词块；回看未选段与已选段，补充解释、对比、条件、叙事、工作与生活结构。观众插话单独识别，分页断句核对连续原段。未用词表筛选代替通读。",
-    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。"
+    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。",
+    "added": 18
   },
   "items": [
     {
@@ -767,6 +768,168 @@
       "paragraph": 309,
       "quote": "The President. My fellow Americans, get ready for an incredible future, because the golden age of America has only just begun.",
       "quote_sha256": "e74d873008537008f485783c7e6b054cad641579e1dd0999ed5d9f0841aba690"
+    },
+    {
+      "chunk": "in comparison",
+      "meaning": "相比之下",
+      "register": "中性／对比",
+      "note": "原句贬斥性总统评价保留作原例，不将其视为事实核证。",
+      "paragraph": 38,
+      "quote": "In comparison, under Joe Biden, the worst President in American history, there were hundreds of thousands of illegal crossings a month, and virtually all of them, including murderers, drug dealers, gang members, and people from mental institutions and insane asylums, were released into our country. Who would want to do that?",
+      "quote_sha256": "3aa5b46788a5ff409e5feebe0f0aef93e7f63d0be6138f749747670a595ff5ec"
+    },
+    {
+      "chunk": "prepare for a future in sth.",
+      "meaning": "为在某领域的未来发展作准备",
+      "register": "中性／生涯计划",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 55,
+      "quote": "Three years ago, Payton McNabb was an all-star high school athlete—one of the best— preparing for a future in college sports.",
+      "quote_sha256": "8f345c036e37bdfed27b9b43535e32c6c947a6c9d2105a0508b011240e59d998"
+    },
+    {
+      "chunk": "work hard to get sth. back down",
+      "meaning": "努力让某个升高的数值回落",
+      "register": "中性／解决问题",
+      "note": "原句 egg price；get ... back down 体现恢复方向。",
+      "paragraph": 65,
+      "quote": "The President. The egg price is out of control, and we're working hard to get it back down.",
+      "quote_sha256": "9cd6829d81244562bc45faf841ae96deee3732d0a922cfcbaec99287fd55cd77"
+    },
+    {
+      "chunk": "find out where sth. is going",
+      "meaning": "查明某物去了哪里",
+      "register": "中性／调查去向",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 99,
+      "quote": "But we're going to find out where that money is going, and it's not going to be pretty.",
+      "quote_sha256": "07c41d79ac311a783eb232b141e99177fb29f581cf3404e93d792051d25c9acf"
+    },
+    {
+      "chunk": "be forced out",
+      "meaning": "被迫离开／被赶出去",
+      "register": "中性／处境",
+      "note": "原句 forced out 出现在下一段，因此引用该段。",
+      "paragraph": 105,
+      "quote": "They'll also be taking people out of colleges and paying for them so that we can keep them in our country, instead of having them being forced out.",
+      "quote_sha256": "f288c379390dde5e45d7eb89fea994995ecbc2d3dedcb5496cf71308c027db5f"
+    },
+    {
+      "chunk": "on average",
+      "meaning": "平均而言",
+      "register": "中性／数量概括",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 124,
+      "quote": "On average, the European Union, China, Brazil, India, Mexico, and Canada—have you heard of them?—and countless other nations charge us tremendously higher tariffs than we charge them.",
+      "quote_sha256": "d161bbd899126697d999c3d45dfb01c1a7b4359ec46dccbe1fb471ce9112ccff"
+    },
+    {
+      "chunk": "It won't be much",
+      "meaning": "程度不会太大",
+      "register": "口语／缓和影响",
+      "note": "it 指前句 disturbance，不是无需语境的独立指代。",
+      "paragraph": 145,
+      "quote": "There will be a little disturbance, but we're okay with that. It won't be much.",
+      "quote_sha256": "634a1072cd213e65bd11e63c908abaa97f3c4ca02b182ea95cde414d7233f9fb"
+    },
+    {
+      "chunk": "enter the workforce",
+      "meaning": "进入职场",
+      "register": "中性偏正式／就业",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 149,
+      "quote": "Melania's work has yielded incredible results, helping prepare our Nation's future leaders as they enter the workforce.",
+      "quote_sha256": "1db94360c50b9d7b7338d86ef104c058543f1adb64ab24eefad1b5dbe3b4f4a6"
+    },
+    {
+      "chunk": "benefit from sth.",
+      "meaning": "从某事中受益",
+      "register": "中性／结果",
+      "note": "必要连续片段；后文人物名不作新词块。",
+      "paragraph": 150,
+      "quote": "Haley Ferguson, who benefited from the First Lady's Fostering the Future initiative and is poised to complete her education and become a teacher,",
+      "quote_sha256": "61df41fa92131e90a18b2a9476edd99f4c16ccca8d37830a59b073844d2ae108"
+    },
+    {
+      "chunk": "get to know sb.",
+      "meaning": "逐渐认识／了解某人",
+      "register": "中性／观点、工作或叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 170,
+      "quote": "Here tonight is a woman I have gotten to know: Alexis Nungaray from Houston.",
+      "quote_sha256": "4f17424a63a6bc4946b89848ad0937de2c21f679e251be1de22269b9d87d2d89"
+    },
+    {
+      "chunk": "every last one",
+      "meaning": "每一个，无一遗漏",
+      "register": "中性偏口语／范围强调",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 177,
+      "quote": "Countless thousands of these terrorists were welcomed into the U.S. by the Biden administration, but now every last one will be rounded up and forcibly removed from our country, or, if they're too dangerous, put in jails, standing trial in this country, because we don't want them to come back ever.",
+      "quote_sha256": "f5a26a05e79861b9730ceaee22e0775f3e3add88441cd222f5e51a19e81d9e00"
+    },
+    {
+      "chunk": "in the same category as sth.",
+      "meaning": "与某事属于同一类",
+      "register": "中性／分类",
+      "note": "目标在上一段；引文定位按实际段176。",
+      "paragraph": 176,
+      "quote": "They are now officially in the same category as ISIS, and that's not good for them.",
+      "quote_sha256": "8fb049082aa913b9bd23175e06e285b8f9a77e31233f2815c6974774ce7c295b"
+    },
+    {
+      "chunk": "make sure that ...",
+      "meaning": "确保……",
+      "register": "中性／承诺",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 199,
+      "quote": "Stephanie, we're going to make sure that Ryan knows his dad was a true hero—New York's Finest.",
+      "quote_sha256": "87c6a7215b2664509083466ed12a4c56346d9c270151d1fe70fc131bb8caa0bb"
+    },
+    {
+      "chunk": "shortly after doing sth.",
+      "meaning": "在做某事后不久",
+      "register": "中性／时间叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 226,
+      "quote": "Stories like this are why, shortly after taking office, I signed an Executive order banning public schools from indoctrinating our children with transgender ideology.",
+      "quote_sha256": "59f4cc119c0230738c6089492a4f17bb268d07c544b91ebe684adf54e424970a"
+    },
+    {
+      "chunk": "not even close",
+      "meaning": "相差很远／远远未到",
+      "register": "口语／否定程度",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 245,
+      "quote": "And Ronald Reagan wanted to do it long ago, but the technology just wasn't there, not even close.",
+      "quote_sha256": "3d3ac9e5240ae7b5e5aebcef339bb16fe553d701ed3ac066226cea7f445d602f"
+    },
+    {
+      "chunk": "come to the negotiating table",
+      "meaning": "开始／愿意参与谈判",
+      "register": "正式／协商",
+      "note": "这是演讲中引述来信，非特朗普原创措辞。",
+      "paragraph": 279,
+      "quote": "Ukraine is ready to come to the negotiating table as soon as possible to bring lasting peace closer.",
+      "quote_sha256": "53ec9d0280d9f10992a27c1c79a25b9fc295b67c4ada060bc96b0cf592da2bf6"
+    },
+    {
+      "chunk": "be sentenced to ...",
+      "meaning": "被判处……",
+      "register": "正式／法律叙事",
+      "note": "按原句语境记录可替换槽位；候选待核，不以演讲出现推定日常高频。",
+      "paragraph": 284,
+      "quote": "Nearly 4 years ago, amid rising tensions, a history teacher named Marc Fogel was detained in Russia and sentenced to 14 years in a penal colony.",
+      "quote_sha256": "8fc4aed6ed3a2c55ff91a663fa2245a9e968718764c08dfe41b3e6bcedde1f39"
+    },
+    {
+      "chunk": "much too soon",
+      "meaning": "远早于应有的时间／太早了",
+      "register": "中性／惋惜",
+      "note": "此处悼念，不能脱离语境理解成时间表提早。",
+      "paragraph": 294,
+      "quote": "Corey was taken from us much too soon, but his destiny was to leave us all with a shining example of the selfless devotion of a true American patriot.",
+      "quote_sha256": "cb86753c872fae752f01cc2d922b44d0cf6045eb75d9be12d70be3a58d48a3e9"
     }
   ],
   "duplicates_skipped": [
@@ -875,5 +1038,6 @@
   ],
   "pending": [],
   "vocabulary_candidates": [],
-  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。"
+  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-202500325.htm"
 }

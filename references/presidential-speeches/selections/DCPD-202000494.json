@@ -18,7 +18,8 @@
       ]
     ],
     "method": "逐段通读整体交际动作及内部词块；回看未选段与已选段，补充解释、对比、条件、叙事、工作与生活结构。观众插话单独识别，分页断句核对连续原段。未用词表筛选代替通读。",
-    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。"
+    "intentionally_omitted": "政治口号、人物与地名罗列、观众口号、单词义项、临时长比喻及无独立迁移价值的泛化碎片。候选表达不代表日常高频或已掌握。",
+    "added": 3
   },
   "items": [
     {
@@ -300,6 +301,34 @@
       "paragraph": 79,
       "quote": "And ladies and gentlemen: the best is yet to come.",
       "quote_sha256": "0fb4e3b9435fa904439d7c4d54d41f0a830719c0c84595d4d3b2a392320d2375"
+    },
+    {
+      "chunk": "be alien to sth.",
+      "meaning": "与某种文化／价值不相容",
+      "register": "正式／价值评价",
+      "note": "不是外星人的意思；与 have no place 表达的界限动作不同。",
+      "paragraph": 18,
+      "quote": "This is the very definition of totalitarianism, and it is completely alien to our culture and our values, and it has absolutely no place in the United States of America.",
+      "quote_sha256": "ce0563e837be6aa1558bddd17f2d9222a50380e77e8bc69d26d2478b8cb42adb"
+    },
+    {
+      "chunk": "be proud of the fact that ...",
+      "meaning": "为……这一事实感到自豪",
+      "register": "中性／态度说明",
+      "note": "此处完整句在48–49段之间被分页打断。",
+      "paragraph": 48,
+      "quote": "We are proud of the fact that our country was founded on Judeo-Christian principles, and we understand that these values have dramatically advanced the cause of peace and justice throughout the world.",
+      "quote_sha256": "9ae71c9beb7f1e9abd4c3194900fcd8e1696fec55b069bb5de5f86b319affea4",
+      "end_paragraph": 49
+    },
+    {
+      "chunk": "so that ... can no longer ...",
+      "meaning": "使得……不再能够……",
+      "register": "中性／目的或结果",
+      "note": "原句指控他人的目的，不证明归因。",
+      "paragraph": 55,
+      "quote": "Those who seek to erase our heritage want Americans to forget our pride and our great dignity, so that we can no longer understand ourselves or America's destiny.",
+      "quote_sha256": "0655ce946dd89f6c0f5911800c04ef9dda0cb98bbb433b3460497e248ad40828"
     }
   ],
   "duplicates_skipped": [
@@ -346,5 +375,6 @@
   ],
   "pending": [],
   "vocabulary_candidates": [],
-  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。"
+  "quote_recovery": "逐项核对引文是目标原段子串（跨段按 end_paragraph 空格连接）；source_sha256 为原 HTML 字节哈希，quote_sha256 为 UTF-8 引文哈希。2017年四项旧精选保持原引文。",
+  "source_file": "materials/corpus/presidential-speeches/govinfo/DCPD-202000494.htm"
 }
