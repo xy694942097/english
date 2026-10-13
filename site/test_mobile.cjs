@@ -11,8 +11,12 @@ const assert = require('node:assert/strict');
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
    if(width<760){
     assert.equal(await page.locator('.sidebar').isVisible(),false);
+    await page.locator('.home-more').first().click();
+    assert.equal(await page.locator('.sidebar').isVisible(),true);
+    await page.locator('#nav-backdrop').click({position:{x:width-10,y:10}});
     await page.locator('#mobile-nav').click();
-    await page.locator('#nav a').first().click();
+    await page.locator('#nav .nav-fold').first().locator('summary').click();
+    await page.locator('#nav a.nav-link').first().click();
     await page.waitForFunction(()=>location.hash.length>1);
     assert.equal(await page.locator('.sidebar').isVisible(),false);
     await page.locator('#right-toggle').click();

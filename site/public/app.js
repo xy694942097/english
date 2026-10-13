@@ -192,7 +192,7 @@ function nav() {
   const cur=state.current?.id;
   const itemHTML=(id)=>{const x=byId[id];return x?link(x.id,x.title):''};
   const renderItems=(items)=>items.map(it=>typeof it==='string'?itemHTML(it):`<div class="nav-sub">${it.sub}</div>`+it.items.map(itemHTML).join('')).join('');
-  let html='';
+  let html=`<a class="nav-home ${!state.current && !state.searching ? 'active' : ''}" href="#">首页</a>`;
   for(const group of (state.nav.groups||[])) {
     const entries=group.items.flatMap(it=>typeof it==='string'?[it]:it.items);
     html+=fold(entries.some(id=>id===cur),group.title,entries.length,renderItems(group.items));
@@ -204,6 +204,86 @@ function nav() {
   $('nav').innerHTML=html;
 }
 
+function showHome() {
+  state.current = null;
+  state.searching = false;
+  $('search').value = '';
+  closeOutline();
+  $('right-toggle').hidden = true;
+  $('outline-links').replaceChildren();
+  $('breadcrumb').textContent = '首页';
+  $('source').textContent = '';
+  const article = $('article');
+  article.classList.add('home-page');
+  article.replaceChildren();
+  const element = (tag, text, className) => {
+    const node = document.createElement(tag);
+    if (text) node.textContent = text;
+    if (className) node.className = className;
+    return node;
+  };
+  const byId = new Map(state.items.map(item => [item.id, item]));
+  const link = (item, className) => {
+    const anchor = element('a', item.title, className);
+    anchor.href = docHash(item.id);
+    return anchor;
+  };
+  const lead = element('header', '', 'home-lead');
+  lead.append(element('p', 'ENGLISH BOOK', 'home-label'),
+    element('h1', '读懂整句，也把意思说出来。'),
+    element('p', '从真实语境积累词汇和 Chunks，用翻译与情境练习，把理解变成自己的表达。', 'home-intro'));
+  const actions = element('div', '', 'home-actions');
+  for (const [id, label, className] of [
+    ['course/Chunks 收集/精选 Chunks.md', '阅读精选 Chunks', 'home-primary'],
+    ['course/表达练习/Better Call Saul S01 中译英练习.md', '试一组中译英练习', 'home-secondary'],
+  ]) {
+    const item = byId.get(id);
+    if (!item) continue;
+    const anchor = link(item, className); anchor.textContent = label; actions.append(anchor);
+  }
+  lead.append(actions); article.append(lead);
+  article.append(element('h2', '选择想看的内容', 'home-directory-title'));
+  const descriptions = {
+    '词汇': '熟词的新意思、生词和常用接法，放回句子中理解。',
+    'Chunks 收集': '精选表达与作品中的词块积累，从整块意思进入。',
+    '表达练习': '从中文情境到自然英文，练习完整的表达。',
+    '原文与参考资料': '影视、演讲、教材和语法资料，按阅读需要查阅。',
+    '我的学习': '学习背景、方法与当前记录。',
+    '编纂与维护': '资料来源、编纂规则，以及教学和出题 Skills。',
+  };
+  const grid = element('div', '', 'home-grid');
+  for (const group of [...state.nav.groups, ...(state.nav.maintenance || [])]) {
+    const ids = group.items.flatMap(entry => typeof entry === 'string' ? [entry] : entry.items);
+    const items = ids.map(id => byId.get(id)).filter(Boolean);
+    if (!items.length) continue;
+    const section = element('section', '', 'home-section');
+    const heading = element('div', '', 'home-section-heading');
+    heading.append(element('h3', group.title), element('span', `${items.length} 篇`, 'home-count'));
+    section.append(heading, element('p', descriptions[group.title] || '浏览这个分区的阅读文档。'));
+    const list = element('ul');
+    const previews = items.slice(0, 3);
+    if (group.title === '编纂与维护') {
+      const skill = items.find(item => item.id.includes('/Skills/'));
+      if (skill && !previews.includes(skill)) previews[previews.length - 1] = skill;
+    }
+    for (const item of previews) { const row = element('li'); row.append(link(item)); list.append(row); }
+    section.append(list);
+    if (items.length > previews.length) {
+      const more = element('button', '查看全部', 'home-more'); more.type = 'button';
+      more.onclick = () => {
+        const entry = [...$('nav').querySelectorAll('details')].find(node =>
+          node.querySelector('summary')?.textContent.trim().startsWith(group.title));
+        if (entry) { entry.open = true; setLeftSidebarOpen(true); entry.scrollIntoView({block: 'nearest'}); }
+      };
+      section.append(more);
+    }
+    grid.append(section);
+  }
+  article.append(grid, element('p', '可以直接阅读，也可以用顶部搜索查找词语、句式或章节。', 'home-note'));
+  nav();
+  window.scrollTo(0, 0);
+}
+
 function route({force = false, preserveScroll = false, fromHash = false} = {}) {
   const previousScroll = window.scrollY;
   const [rawId, rawAnchor=''] = location.hash.slice(1).split('::');
@@ -212,7 +292,8 @@ function route({force = false, preserveScroll = false, fromHash = false} = {}) {
     id = state.aliases[id];
     history.replaceState(null, '', docHash(id, anchor));
   }
-  const item = state.items.find(x=>x.id===id) || state.items[0];
+  if (!id || id === 'home') { showHome(); return; }
+  const item = state.items.find(x=>x.id===id);
   // A delayed anchor event must not erase text entered into search meanwhile.
   if (fromHash && state.searching && rawAnchor && item?.id === state.current?.id) return;
   $('search').value = '';
@@ -221,7 +302,14 @@ function route({force = false, preserveScroll = false, fromHash = false} = {}) {
   }
   state.current = item;
   state.searching = false;
-  if (!state.current) return;
+  $('article').classList.remove('home-page');
+  if (!state.current) {
+    $('article').replaceChildren();
+    const title = document.createElement('h1'); title.textContent = '未找到这篇文章';
+    const back = document.createElement('a'); back.href = '#'; back.textContent = '返回首页';
+    $('article').append(title, back); closeOutline(); $('right-toggle').hidden = true;
+    $('breadcrumb').textContent = '文章未找到'; $('source').textContent = ''; nav(); return;
+  }
   $('article').innerHTML = renderDoc(item);
   addDocumentContents(item);
   foldDocumentSections();
@@ -243,12 +331,14 @@ async function loadBook() {
 $('search').oninput=()=>{
   const query=$('search').value.trim().toLowerCase(); if(!query)return route();
   state.searching = true;
+  $('article').classList.remove('home-page');
   closeOutline();
   $('right-toggle').hidden = true;
   const results=state.items.filter(x=>(x.title+'\n'+x.body).toLowerCase().includes(query));
   $('article').innerHTML=`<h1>搜索知识书</h1><p>${results.length} 个结果</p>`+results.map(x=>{const at=x.body.toLowerCase().indexOf(query);return `<a class="search-result" href="#${encodeURIComponent(x.id)}"><strong>${x.title}</strong><small>${x.body.slice(Math.max(0,at-30),Math.max(0,at-30)+150)}</small></a>`;}).join('');
   $('breadcrumb').textContent='全文搜索';$('source').textContent='';
 };
+document.querySelector('.brand').addEventListener('click', () => {if (!location.hash || location.hash === '#') showHome();});
 $('article').addEventListener('click', e => {
   if (e.target.closest('a')?.hash === location.hash) route();
 });

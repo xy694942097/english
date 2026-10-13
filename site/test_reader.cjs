@@ -10,8 +10,17 @@ const assert = require('node:assert/strict');
     page.on('pageerror', error => errors.push(error.message));
     const base = (process.env.ENGLISH_TEST_URL || 'http://127.0.0.1:4174') + '/';
 
-    // 打开即第一份文档（nav.json 第一项），marked 渲染出标题
+    // 无文档深链时打开首页，显式点击后才进入文章。
     await page.goto(base);
+    await page.getByRole('heading', {name:'读懂整句，也把意思说出来。',exact:true}).waitFor();
+    assert.equal(await page.locator('#right-toggle').isVisible(), false);
+    await page.locator('#article a').filter({hasText:'阅读精选 Chunks'}).click();
+    await page.getByRole('heading', {name:'精选 Chunks',exact:true}).waitFor();
+    await page.locator('.brand').click();
+    await page.getByRole('heading', {name:'读懂整句，也把意思说出来。',exact:true}).waitFor();
+    await page.reload();
+    await page.getByRole('heading', {name:'读懂整句，也把意思说出来。',exact:true}).waitFor();
+    await page.locator('#article a').filter({hasText:'生词与熟词新义'}).click();
     await page.getByRole('heading', {name: '生词与熟词新义', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
     assert.equal(await page.locator('#nav .nav-fold').count(), 5, '五个学习导航分组');
@@ -190,6 +199,11 @@ const assert = require('node:assert/strict');
     await page.locator('#search').fill('');
     await page.getByRole('heading', {name:'目录测试',exact:true}).waitFor();
     await page.unroute('**/catalog.json');
+
+    await page.goto(base + '#missing-document.md');
+    await page.getByRole('heading', {name:'未找到这篇文章',exact:true}).waitFor();
+    await page.getByRole('link', {name:'返回首页',exact:true}).click();
+    await page.getByRole('heading', {name:'读懂整句，也把意思说出来。',exact:true}).waitFor();
 
     assert.deepEqual(errors, []);
     console.log('PASS: read-only viewer, reader, nav, TOC, links, search, theme, /files/, mobile width; no page errors.');
