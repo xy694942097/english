@@ -6,47 +6,25 @@ import server
 
 
 class ViewerTests(unittest.TestCase):
-    def make_edit_root(self, root):
-        (root / 'nav.json').write_text(json.dumps({'groups': [
-            {'title': '组', 'items': ['chapter.md']}]}), encoding='utf-8')
-        (root / 'chapter.md').write_text('# 原标题\n旧正文\n', encoding='utf-8')
-        return server.catalog(root)[0]
+    def test_reader_has_no_editing_components(self):
+        html = (server.STATIC / 'index.html').read_text()
+        js = (server.STATIC / 'app.js').read_text()
+        self.assertNotIn('edit-document', html)
+        self.assertNotIn('contentEditable', js)
+        self.assertFalse(hasattr(server, 'save_document'))
 
-    def test_save_registered_markdown_and_refresh_title(self):
+    def test_static_publication_uses_explicit_document_list(self):
+        import build_static
         with tempfile.TemporaryDirectory() as temp:
-            root = Path(temp)
-            item = self.make_edit_root(root)
-            result = server.save_document('chapter.md', '# 新标题\n新正文\n', item['sha256'], root)
-            self.assertEqual(result['title'], '新标题')
-            self.assertEqual((root / 'chapter.md').read_text(encoding='utf-8'), '# 新标题\n新正文\n')
-            self.assertEqual(server.catalog(root)[0]['sha256'], result['sha256'])
-
-    def test_save_refuses_stale_version_and_unregistered_path(self):
-        with tempfile.TemporaryDirectory() as temp:
-            root = Path(temp)
-            item = self.make_edit_root(root)
-            (root / 'chapter.md').write_text('# 外部修改\n', encoding='utf-8')
-            with self.assertRaises(server.SaveError) as error:
-                server.save_document('chapter.md', '# 网页修改\n', item['sha256'], root)
-            self.assertEqual(error.exception.status, 409)
-            self.assertEqual((root / 'chapter.md').read_text(encoding='utf-8'), '# 外部修改\n')
-            for bad_id in ('../chapter.md', 'unknown.md'):
-                with self.assertRaises(server.SaveError) as error:
-                    server.save_document(bad_id, 'bad', item['sha256'], root)
-                self.assertEqual(error.exception.status, 404)
-
-    def test_save_rejects_registered_symlink_outside_root(self):
-        with tempfile.TemporaryDirectory() as temp, tempfile.TemporaryDirectory() as outside:
-            root = Path(temp)
-            external = Path(outside) / 'external.md'
-            external.write_text('# Outside\n', encoding='utf-8')
-            (root / 'chapter.md').symlink_to(external)
-            (root / 'nav.json').write_text(json.dumps({'groups': [
-                {'title': '组', 'items': ['chapter.md']}]}), encoding='utf-8')
-            with self.assertRaises(server.SaveError) as error:
-                server.save_document('chapter.md', 'changed', server.digest(external.read_bytes()), root)
-            self.assertEqual(error.exception.status, 404)
-            self.assertEqual(external.read_text(encoding='utf-8'), '# Outside\n')
+            output = Path(temp) / 'english'
+            count = build_static.build(output, server.ROOT / 'site/publish-nav.json')
+            data = json.loads((output / 'catalog.json').read_text())
+            self.assertEqual(count, 33)
+            self.assertFalse(any('/我的学习/' in item['id'] or '/编纂与维护/' in item['id'] for item in data['items']))
+            self.assertFalse((output / 'materials').exists())
+            self.assertFalse((output / 'vendor/toastui').exists())
+            self.assertTrue((output / '.nojekyll').is_file())
+            self.assertIn('src="./app.js"', (output / 'index.html').read_text())
 
     def test_catalog_lists_only_registered_docs_with_md_titles(self):
         with tempfile.TemporaryDirectory() as temp:
@@ -97,13 +75,23 @@ class ViewerTests(unittest.TestCase):
         nav = server.read_nav()
         for group in nav['groups'] + nav.get('maintenance', []):
             for item in group['items']:
-                parent = Path(group['title'])
+                parent = Path('course') / group['title']
                 paths = [item] if isinstance(item, str) else item['items']
                 if isinstance(item, dict):
                     parent /= item['sub']
                 for path in paths:
                     self.assertEqual(Path(path).parent, parent)
                     self.assertTrue((server.ROOT / path).is_file())
+
+    def test_old_document_aliases_resolve_directly_to_course(self):
+        aliases = server.read_aliases()
+        documents = {item['id'] for item in server.catalog()}
+        old = '学习章节/句式与结构/nothing but：几个小词，意思为什么差这么多.md'
+        self.assertEqual(aliases[old], 'course/' + old)
+        self.assertEqual(aliases['book/05-patterns/01-nothing-but.md'], 'course/' + old)
+        for target in aliases.values():
+            self.assertTrue((server.ROOT / target).is_file(), target)
+        self.assertIn(aliases[old], documents)
 
     def test_missing_registered_doc_is_reported(self):
         with tempfile.TemporaryDirectory() as temp:

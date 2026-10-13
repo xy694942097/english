@@ -1,6 +1,6 @@
 # English Book 本地站点
 
-本地 Markdown 阅读与编辑站点：侧边栏目录、全文搜索、右侧自动目录、标题折叠、深浅主题和手动编辑。仍无学习记录、词典或对话后端；2026-09-23 的查看器收敛见 `engineering/design/site-simplification-v2.md`，2026-10-12 按用户要求加入编辑源文件。
+只读 Markdown 站点：侧边栏目录、全文搜索、右侧自动目录、标题折叠与深浅主题。2026-10-13 按用户要求移除编辑功能，支持生成 GitHub Pages 静态网站。
 
 ## 运行
 
@@ -9,7 +9,7 @@ cd /Users/xianyi/workspace/learn/english
 python3 site/server.py            # http://127.0.0.1:4174，可用 --port 换端口
 ```
 
-只监听回环地址。Python 3.10+，无其他运行依赖；前端零安装、无 CDN（marked、highlight.js 和 TOAST UI Editor 在 `site/public/vendor/`）。
+只监听回环地址。Python 3.10+，无其他运行依赖；前端零安装、无 CDN（marked 和 highlight.js 在 `site/public/vendor/`）。
 
 ## 配置 nav.json
 
@@ -18,16 +18,16 @@ python3 site/server.py            # http://127.0.0.1:4174，可用 --port 换端
 ```json
 {
   "groups": [
-    {"title": "组名", "items": ["book/xxx/yyy.md"]},
+    {"title": "组名", "items": ["course/组名/yyy.md"]},
     {"title": "有子标签的组", "items": [
-      "a.md",
-      {"sub": "子标签", "items": ["sub/b.md"]}
+      "course/有子标签的组/a.md",
+      {"sub": "子标签", "items": ["course/有子标签的组/子标签/b.md"]}
     ]}
   ]
 }
 ```
 
-- 前端组名／子标签与实际父目录同名；目录结构决定归属，nav.json 只控制排序与可见性。
+- 教程统一放在 `course/`；其下前端组名／子标签与实际父目录同名。nav.json 使用相对项目根目录的 `course/...` 路径，只控制排序与可见性。
 - 路径相对仓库根；**标题自动取自文档的一级标题 `# `**，无需手写
 - 未登记的文件不会出现在站点里（搜索也搜不到）
 - 学习顶层统一为：学习章节、表达练习、Chunks 收集、原文与参考资料、我的学习；知识类型用组内子标签表示。
@@ -43,15 +43,11 @@ python3 site/server.py            # http://127.0.0.1:4174，可用 --port 换端
 - **参考答案**：正文 `## 参考答案` 之后的内容默认折叠
 - **渲染**：marked（GFM：表格、删除线、嵌套列表等）+ highlight.js 代码高亮；不执行原始 HTML
 - **主题**：跟随系统深浅色，可手动切换并记忆
-- **快速原位编辑**：点「编辑本文」后直接在当前正文中修改，页面与阅读位置保留；顶部提供加粗、斜体、删除线和链接，常用键盘编辑也可使用。打开时不再转换整篇 Markdown 或要求先选小节。保存只序列化实际改动的标题、段落、引用、列表、表格或代码块，再写回原 `.md` 文件；未改块的源码保持原样。需要重构表格等复杂格式时可主动进入「高级格式」全文编辑器。取消或离开时提示未保存内容。完整设计与边界见 `engineering/design/2026-10-12-fast-inline-editing.md`。
-- **特殊格式**：若文档中可可靠定位的正文不足 80%，自动回退到原全文编辑器；复杂结构可能在改动块内重排 Markdown。图片暂不支持直接上传。
-- **保存边界**：`POST /api/document` 只接受 `nav.json` 登记的现有 `.md` 路径、同源浏览器请求和 8 MB 以内正文；服务端校验打开时的 SHA-256，若磁盘文件已被其他工具修改会返回 409，保留浏览器内编辑内容供复制。保存是直接改源文件，不代表教材已审校。建议让 Git 负责版本回退。
-- **编辑器来源**：TOAST UI Editor 3.2.2（MIT，[项目仓库](https://github.com/nhn/tui.editor)），运行包已本地打包，许可证见 `public/vendor/toastui/LICENSE`。该上游仓库已归档；以后若升级编辑器，需重新验证 Markdown 往返与浏览器兼容性。
 
 ## 验证
 
 ```bash
-python3 site/test_server.py        # 单元：目录、路径、保存及冲突检查
+python3 site/test_server.py        # 单元：目录、路径、只读界面与静态构建
 python3 site/server.py &
 ENGLISH_TEST_URL=http://127.0.0.1:4174 node site/test_reader.cjs   # Playwright 冒烟
 ```
@@ -64,8 +60,22 @@ ENGLISH_TEST_URL=http://127.0.0.1:4174 node site/test_reader.cjs   # Playwright 
 
 ## 2026-10-11 文档目录迁移
 
-面向学习的文档位于“学习章节／表达练习／Chunks 收集／原文与参考资料／我的学习／编纂与维护”六个同名前端目录。旧书签通过 API 的 aliases 映射转向新路径；原始下载数据和工程工具保留在后台目录。
+面向学习的文档位于“学习章节／表达练习／Chunks 收集／原文与参考资料／我的学习／编纂与维护”六个同名前端目录。2026-10-13 六个目录统一移入 `course/`。旧书签（包括迁移前根目录路径和更早的 book/ 路径）通过 aliases 直接映射到现址；原始下载数据和工程工具保留在后台目录。
 
 ## 标题折叠
 
 文章的二级及以下标题可以点击收起其正文与子标题；“展开正文／收起正文”控制当前文章的标题块。右侧目录定位时会展开目标的父级。参考答案保持单独折叠。
+
+## GitHub Pages 发布
+
+先审阅 `site/publish-nav.json` 的公开清单（当前33篇），再运行：
+
+```bash
+python3 site/build_static.py
+```
+
+输出为 `site/dist/`，只包含选中的文章正文、阅读器资源及明确引用的图片。不会复制仓库全部文件或原始材料。构建目录须为空；可用 `--output` 指定新目录。
+
+正式发布使用 `python3 site/deploy_pages.py`，它只将静态公开清单推到独立的 `gh-pages` 分支。仓库 Settings → Pages 选择 Deploy from a branch、gh-pages、/(root)。后续更新运行同一脚本，保留静态发布分支历史，不强制推送。
+
+公开仓库可使用免费 Pages，地址为 `https://xy694942097.github.io/english/`。另保留手动 GitHub Actions 工作流作为替代方式；使用该方式前需将 Pages Source 切到 GitHub Actions。

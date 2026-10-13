@@ -1,0 +1,27 @@
+name: Publish reading site
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Build explicit publication list
+        run: python3 site/build_static.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

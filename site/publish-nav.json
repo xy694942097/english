@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "title": "学习章节",
+      "items": [
+        {
+          "sub": "词义与搭配",
+          "items": [
+            "course/学习章节/词义与搭配/从 resigned 理解词义与搭配.md",
+            "course/学习章节/词义与搭配/01 熟悉动词，陌生宾语.md",
+            "course/学习章节/词义与搭配/08 六级深化：抽象语境中的熟词.md",
+            "course/学习章节/词义与搭配/四六级词汇：学习路线与词汇索引.md",
+            "course/学习章节/词义与搭配/take 专题：从“拿”到理解、接管与想当然.md",
+            "course/学习章节/词义与搭配/06 别把所有评价都读成“很大、很好”.md",
+            "course/学习章节/词义与搭配/02 证据究竟说明了什么.md",
+            "course/学习章节/词义与搭配/03 原因、影响与结果.md",
+            "course/学习章节/词义与搭配/04 介词改变了句子的意思.md",
+            "course/学习章节/词义与搭配/05 变化、改进与持续.md",
+            "course/学习章节/词义与搭配/07 评估、估算与论证.md",
+            "course/学习章节/词义与搭配/在语境中理解表达.md",
+            "course/学习章节/词义与搭配/讨论证据与分歧.md",
+            "course/学习章节/词义与搭配/表达进展与效果.md"
+          ]
+        },
+        {
+          "sub": "句式与结构",
+          "items": [
+            "course/学习章节/句式与结构/nothing but：几个小词，意思为什么差这么多.md",
+            "course/学习章节/句式与结构/not until：先弄清“什么时候才”，再看倒装.md",
+            "course/学习章节/句式与结构/句子不长，为什么结构看着很奇怪.md",
+            "course/学习章节/句式与结构/句式骨架（Frames）：比语法分析高一层的学习单位.md",
+            "course/学习章节/句式与结构/家族A：程度与比较.md",
+            "course/学习章节/句式与结构/家族B：强调与聚焦.md",
+            "course/学习章节/句式与结构/家族C：让步与对照.md",
+            "course/学习章节/句式与结构/家族D：评述与立场（Stance）.md",
+            "course/学习章节/句式与结构/家族E：叙事与逻辑推进.md",
+            "course/学习章节/句式与结构/家族F：条件与虚拟（书面高频）.md",
+            "course/学习章节/句式与结构/真题回收：四六级考研句式骨架.md"
+          ]
+        },
+        {
+          "sub": "口语表达",
+          "items": [
+            "course/学习章节/口语表达/脱口秀口语 Chunks：把观察、反问和不确定说出来.md"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "表达练习",
+      "items": [
+        "course/表达练习/每日逐句精读与迁移.md",
+        "course/表达练习/中文到英文表达：关系还有没有挽回余地.md",
+        "course/表达练习/中译英校准素材 P001：中文情境任务.md"
+      ]
+    },
+    {
+      "title": "Chunks 收集",
+      "items": [
+        "course/Chunks 收集/Better Call Saul：Chunks 积累.md",
+        "course/Chunks 收集/Better Call Saul：词汇与搭配积累.md",
+        "course/Chunks 收集/Chunks 收集箱.md",
+        "course/Chunks 收集/总统演讲 Chunks：坚持原则、澄清判断与回应挫折.md"
+      ]
+    }
+  ],
+  "maintenance": []
+}

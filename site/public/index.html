@@ -3,32 +3,31 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="你的英语知识书：Markdown 阅读、编辑与关键词搜索。">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'">
+  <meta name="description" content="你的英语知识书：Markdown 阅读与关键词搜索。">
   <title>English Book</title>
-  <link rel="stylesheet" href="/styles.css">
-  <link rel="stylesheet" href="/vendor/github-dark.min.css">
-  <script defer src="/vendor/marked.min.js"></script>
-  <script defer src="/vendor/highlight.min.js"></script>
-  <script defer src="/app.js"></script>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./vendor/github-dark.min.css">
+  <script defer src="./vendor/marked.min.js"></script>
+  <script defer src="./vendor/highlight.min.js"></script>
+  <script defer src="./app.js"></script>
 </head>
 <body>
   <header class="topbar">
     <a class="brand" href="#"><span class="brand-mark">E</span><span><strong>English Book</strong><small>A personal reading practice</small></span></a>
     <input id="search" type="search" aria-label="搜索知识书" placeholder="搜索词组、知识点或章节…">
+    <button id="mobile-nav" type="button" aria-controls="nav" aria-expanded="false">章节</button>
     <button id="theme" aria-label="切换深浅主题">切换主题</button>
   </header>
+  <button id="nav-backdrop" aria-label="关闭章节导航" hidden></button>
   <div class="shell">
     <aside class="sidebar">
       <div class="nav-heading">目录</div>
       <nav id="nav" aria-label="知识目录"></nav>
     </aside>
     <main id="main">
-      <div class="reading-top"><span id="breadcrumb">学习起点</span><div class="reading-actions"><button id="edit-document" type="button" hidden>编辑本文</button><div id="edit-actions" class="edit-actions" hidden><div id="quick-format" class="quick-format" aria-label="文字格式" hidden><button type="button" data-format="bold" aria-label="加粗"><strong>B</strong></button><button type="button" data-format="italic" aria-label="斜体"><em>I</em></button><button type="button" data-format="strikeThrough" aria-label="删除线"><s>S</s></button><button type="button" data-format="link" aria-label="插入链接">链接</button></div><button id="advanced-edit" type="button" hidden>高级格式</button><span id="edit-status" role="status"></span><button id="cancel-edit" type="button">取消</button><button id="save-edit" type="button" class="primary" disabled>保存修改</button></div></div></div>
+      <div class="reading-top"><span id="breadcrumb">学习起点</span></div>
       <article id="article" class="prose"><p>正在打开知识书…</p></article>
-      <section id="edit-panel" class="edit-panel" aria-label="Markdown 编辑器" hidden>
-        <div id="markdown-editor"></div>
-        <p class="edit-hint">直接在正文中编辑；底部可切换 Markdown 源码，保存前可检查复杂排版。</p>
-      </section>
       <footer id="source"></footer>
     </main>
     <aside id="outline" class="outline" aria-label="本篇目录" hidden>
