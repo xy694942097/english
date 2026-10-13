@@ -34,8 +34,8 @@ class ViewerTests(unittest.TestCase):
             self.assertIn('course/Chunks 收集/精选 Chunks.md', {item['id'] for item in data['items']})
             self.assertIn('course/表达练习/Better Call Saul S01 中译英练习.md', {item['id'] for item in data['items']})
             self.assertFalse(any('/我的学习/' in item['id'] for item in data['items']))
-            self.assertTrue(any('/编纂与维护/Skills/' in item['id'] for item in data['items']))
-            self.assertIn('course/编纂与维护/Skills/根据 Chunks 编写中译英练习.md',
+            self.assertTrue(any('/编纂与维护/' in item['id'] for item in data['items']))
+            self.assertIn('course/编纂与维护/中译英训练与编题.md',
                           {item['id'] for item in data['items']})
             self.assertIn('原文与参考资料', {group['title'] for group in data['nav']['groups']})
             self.assertEqual(sum(item.get('referenceOnly', False) for item in data['items']), 8)

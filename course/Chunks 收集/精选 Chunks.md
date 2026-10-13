@@ -6,9 +6,15 @@
 
 ## 对话与表达动作
 
-### take for granted：当作理所当然
+### 1. take for granted
+
+**意思：** 当作理所当然
 
 > I took it for granted that the price included delivery.
+
+**来源：** 例句为教学自造；用法参考 [Collins：take for granted](https://www.collinsdictionary.com/dictionary/english/take-for-granted)；[take in](https://www.collinsdictionary.com/dictionary/english/take-in)
+
+**补充：**
 
 我想当然地以为价格包含配送。
 
@@ -16,9 +22,15 @@
 
 另一种常见语气：Don't take her help for granted（别把她的帮助当成理所当然）。重点可以是不加核实地假定，也可以是因为习以为常而没有珍惜。
 
-### take in：把信息理解、消化进去
+### 2. take in
+
+**意思：** 把信息理解、消化进去
 
 > There was too much information for me to take in at once.
+
+**来源：** 例句为教学自造；用法参考 [Collins：take for granted](https://www.collinsdictionary.com/dictionary/english/take-for-granted)；[take in](https://www.collinsdictionary.com/dictionary/english/take-in)
+
+**补充：**
 
 信息太多，我一下子消化不了。
 
@@ -26,17 +38,29 @@
 
 take in 还有收留、欺骗等其他义项，不能用“吸收”解释全部。She was taken in by the story 通常是“她被那个故事骗了”；阅读时要看主语、被动和语境。
 
-### take over：接管原本由别人负责的事
+### 3. take over
+
+**意思：** 接管原本由别人负责的事
 
 > Could you take over the discussion while I answer this call?
+
+**来源：** 例句为教学自造；用法参考 [Collins：take for granted](https://www.collinsdictionary.com/dictionary/english/take-for-granted)；[take in](https://www.collinsdictionary.com/dictionary/english/take-in)
+
+**补充：**
 
 我接这个电话时，你能接着主持讨论吗？
 
 对象明确时可以只说 Could you take over?；也可说 take over from Maya（接替Maya）。take over a company 在商业语境还可表示接管、收购公司，具体看情境。
 
-### take for：把某人或某事当成……
+### 4. take for
+
+**意思：** 把某人或某事当成……
 
 > I took him for a member of staff because he was wearing a badge.
+
+**来源：** [Collins：take for granted](https://www.collinsdictionary.com/dictionary/english/take-for-granted)；[take in](https://www.collinsdictionary.com/dictionary/english/take-in)
+
+**补充：**
 
 我见他戴着证件，把他当成了工作人员。
 
@@ -46,87 +70,167 @@ take in 还有收留、欺骗等其他义项，不能用“吸收”解释全部
 
 **来源补记（take 专题：从“拿”到理解、接管与想当然）：** [Collins：take for granted](https://www.collinsdictionary.com/dictionary/english/take-for-granted)、[take in](https://www.collinsdictionary.com/dictionary/english/take-in)。其他搭配按具体语境讲解，例句与中文意图对照均为自造。
 
-### bear out · 支持、证实
+### 5. bear out
+
+**意思：** 支持、证实
+
+> The data bears out her prediction that demand would fall.
+
+**来源：** 例句为教学自造；用法参考 [Collins：take for granted](https://www.collinsdictionary.com/dictionary/english/take-for-granted)；[take in](https://www.collinsdictionary.com/dictionary/english/take-in)
+
+**补充：**
 
 英文释义：provide evidence that a claim or belief is correct。
 
 常见结构：evidence / results bear out a claim / prediction。代词放中间：The results bear it out。
 
-> The data bears out her prediction that demand would fall.
+
 
 数据支持了她关于需求会下降的预测。不是“承担预测”。支持的力度取决于证据和上下文；句子本身不保证科学意义上的最终证明。
 
-### call into question · 使受到质疑
+### 6. call into question
 
-英文释义：raise doubts about whether something is true, valid, or reliable。
+**意思：** 使受到质疑
 
 > The missing records call the accuracy of the report into question.
 
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
+
+英文释义：raise doubts about whether something is true, valid, or reliable。
+
+
+
 记录缺失让报告的准确性受到质疑。也可以说 call into question the accuracy of the report。质疑不等于已经推翻。
 
-### take issue with · 对……提出异议
+### 7. take issue with
 
-英文释义：disagree with and object to something。
+**意思：** 对……提出异议
 
 > I take issue with your assumption that faster always means better.
 
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
+
+英文释义：disagree with and object to something。
+
+
+
 我不赞同你关于“更快总是更好”的假设。通常针对说法、结论或做法，比 have questions about 更明确表达反对；不必理解为情绪激烈的争吵。
 
-### draw criticism · 招致批评
+### 8. draw criticism
 
-英文释义：attract critical comments or disapproval。
+**意思：** 招致批评
 
 > The decision drew criticism from several teachers.
 
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
+
+英文释义：attract critical comments or disapproval。
+
+
+
 这一决定招致几位老师批评。from 指批评来自谁；for 指批评原因：draw criticism for ignoring feedback。
 
-### gain traction · 开始获得支持或实际进展
+### 9. gain traction
 
-英文释义：begin to attract support or acceptance and make progress。
+**意思：** 开始获得支持或实际进展
 
 > The idea gained traction after two teams tried it successfully.
 
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
+
+英文释义：begin to attract support or acceptance and make progress。
+
+
+
 两个团队试用成功后，这个想法开始得到支持。traction 的物理义与抓地力有关；这里可借“推动得起来”理解，但实际应按关注、接受或推进来翻译。
 
-### fall flat · 未产生预期效果
+### 10. fall flat
 
-英文释义：fail to produce the intended effect or response。
+**意思：** 未产生预期效果
 
 > His joke fell flat. Nobody laughed, and the conversation moved on.
 
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
+
+英文释义：fail to produce the intended effect or response。
+
+
+
 他的笑话没逗笑任何人，话题很快过去了。a joke / speech / performance falls flat 都可以；不要求字面上跌倒。
 
-### compound a problem · 加重问题
+### 11. compound a problem
 
-英文释义：make an existing problem worse。
+**意思：** 加重问题
 
 > The delay was bad enough; poor communication compounded the problem.
 
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
+
+英文释义：make an existing problem worse。
+
+
+
 延期本来就够糟，沟通不畅又让问题雪上加霜。此处 compound 是动词。常见宾语还有 confusion、difficulties、losses。
 
-### leave much to be desired · 很不理想
+### 12. leave much to be desired
 
-英文释义：be far from satisfactory。
+**意思：** 很不理想
 
 > The tool is powerful, but its documentation leaves much to be desired.
 
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
+
+英文释义：be far from satisfactory。
+
+
+
 工具功能强大，但文档很不理想。不是“有很多不被期望的东西”。这是一种常见的委婉负面评价，批评力度仍可能很强。
 
-### strike a nerve · 触及敏感处
+### 13. strike a nerve
 
-英文释义：touch a sensitive issue and provoke a strong emotional reaction。
+**意思：** 触及敏感处
 
 > Her question about fairness struck a nerve with the team.
 
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
+
+英文释义：touch a sensitive issue and provoke a strong emotional reaction。
+
+
+
 她关于公平的问题触动了团队的敏感处。反应可能是受伤、防御或强烈共鸣，具体看语境；不要把它永远翻译成愤怒。
 
-### Did you ever notice (that/how) ...?
+### 14. Did you ever notice (that/how) ...?
 
-**语义：把听者拉进一项共同观察，而非真的调查他过去是否“注意过”。** Carlin 用它打开一段日常现象的观察；自己说话时适合接轻微反常、好笑或值得讨论的细节。[演出字幕 09:33](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)
+**意思：** 把听者拉进一项共同观察，而非真的调查他过去是否“注意过”。
 
 > Did you ever notice that “quick calls” often last half an hour?（教学自造）
 >
 > 你有没有发现，“很快打个电话”常常一打就是半小时？
+
+**来源：** [演出字幕 09:33](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；教学自造
+
+**补充：**
+
+Carlin 用它打开一段日常现象的观察；自己说话时适合接轻微反常、好笑或值得讨论的细节。[演出字幕 09:33](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)
+
+
 
 > Did you ever notice how quiet the office gets just before a deadline?（教学自造）
 >
@@ -141,13 +245,21 @@ Did you ever notice ...? 是引题框架；真正的新信息在后面的观察�
 
 **边界：** `Have you noticed ...?` 也自然，更像询问最近的变化；`Did you ever notice ...?` 在这里更有“说个你也遇过的现象”的讲述感。不能把每个 `did you` 都当作过去时间调查。
 
-### Wouldn't you think (that) ...?
+### 15. Wouldn't you think (that) ...?
 
-**语义：按常理本该如此，却未必如此；反问把落差留给听者。** 原段落里，Carlin 质疑一项规则为何没有被说清楚。[演出字幕 54:56](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)
+**意思：** 按常理本该如此，却未必如此；反问把落差留给听者。
 
 > Wouldn't you think they'd tell us before changing the schedule?（教学自造）
 >
 > 改日程之前，按理说他们不会先告诉我们吗？
+
+**来源：** [演出字幕 54:56](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；教学自造
+
+**补充：**
+
+原段落里，Carlin 质疑一项规则为何没有被说清楚。[演出字幕 54:56](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)
+
+
 
 > Wouldn't you think this would be easier by now?（教学自造）
 >
@@ -162,13 +274,21 @@ Wouldn't you think (that) + 一个“理应成立”的判断？
 
 **边界：** 它可能带抱怨或讽刺；需要中性求证时说 `Do you think ...?`。`wouldn't` 不是断言对方“不会思考”。
 
-### It's bad enough ... without ...
+### 16. It's bad enough ... without ...
 
-**语义：一件事已经够糟，再加上另一件就更难承受。** Carlin 用层层叠加制造笑点；日常可以用来指出额外负担，不必模仿他的夸张内容。[1990 演出字幕 15:22](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本核对](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)。
+**意思：** 一件事已经够糟，再加上另一件就更难承受。
 
 > It's bad enough that the train is late without the app giving us the wrong platform.（教学自造）
 >
 > 火车晚点已经够糟了，App 还给我们错误的站台信息。
+
+**来源：** [1990 演出字幕 15:22](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本核对](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；教学自造
+
+**补充：**
+
+Carlin 用层层叠加制造笑点；日常可以用来指出额外负担，不必模仿他的夸张内容。[1990 演出字幕 15:22](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本核对](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)。
+
+
 
 > The task is hard enough without constant interruptions.（教学自造）
 >
@@ -184,13 +304,21 @@ without 后面是“又额外添上的麻烦”。
 
 **边界：** `without` 不是单纯的“缺少”；在这里是“本来就够……了，不需要再来……”。对人说可能带责备，工作讨论中可改成 `The timeline is tight enough without adding another review step.`
 
-### Do you know what I mean?
+### 17. Do you know what I mean?
 
-**语义：我这样说，你能领会我的意思吗？** 它也可以是说话中的共鸣提示，并不总要求对方正式回答。Carlin 用它维持听众跟随。[1990 演出字幕 19:13](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)。
+**意思：** 我这样说，你能领会我的意思吗？
 
 > I want the message to sound firm, but not cold. Do you know what I mean?（教学自造）
 >
 > 我希望这条消息态度坚定，但不要显得冷冰冰的。你懂我的意思吗？
+
+**来源：** [1990 演出字幕 19:13](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；教学自造
+
+**补充：**
+
+它也可以是说话中的共鸣提示，并不总要求对方正式回答。Carlin 用它维持听众跟随。[1990 演出字幕 19:13](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)。
+
+
 
 > The plan works on paper, but it feels fragile, you know what I mean?（教学自造）
 >
@@ -205,13 +333,21 @@ what I mean = “我真正想表达的意思”，不是逐词问 mean 的词义
 
 **边界：** 第二种更口语。真正需要确认具体要求时，直接问 `Does that make sense?` 或说出要确认的事项；反复加 `you know what I mean` 会让话变得含糊。
 
-### When you get right down to it, ...
+### 18. When you get right down to it, ...
 
-**语义：把枝节剥开，落到最核心的判断。** 原段落用它从一串细节切回真正想说的事。[演出字幕 1:10:18](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)
+**意思：** 把枝节剥开，落到最核心的判断。
 
 > When you get right down to it, we need more time.（教学自造）
 >
 > 说到底，我们需要更多时间。
+
+**来源：** [演出字幕 1:10:18](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；教学自造
+
+**补充：**
+
+原段落用它从一串细节切回真正想说的事。[演出字幕 1:10:18](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)
+
+
 
 > When you get right down to it, the question is whether anyone will use this feature.（教学自造）
 >
@@ -226,13 +362,21 @@ When you get right down to it, + 核心判断
 
 **边界：** 和 `get down to work`（开始干活）不同；它不表示真的“走下来”。比 `basically` 更有“想过各种细节之后”的收束感。
 
-### For all we know, ...
+### 19. For all we know, ...
 
-**语义：凭我们目前掌握的信息，某种可能性并不能排除。** Carlin 用它把“不知道”推到夸张的想象；普通交流中只保留不确定性。[演出字幕 17:01](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[词典义项参照](https://www.dictionary.com/browse/for-all?q=for+all)。
+**意思：** 凭我们目前掌握的信息，某种可能性并不能排除。
 
 > For all we know, the meeting could be canceled.（教学自造）
 >
 > 说不定会议已经取消了；我们现在掌握的信息还不足以排除这种情况。
+
+**来源：** [演出字幕 17:01](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[词典义项参照](https://www.dictionary.com/browse/for-all?q=for+all)；教学自造
+
+**补充：**
+
+Carlin 用它把“不知道”推到夸张的想象；普通交流中只保留不确定性。[演出字幕 17:01](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[词典义项参照](https://www.dictionary.com/browse/for-all?q=for+all)。
+
+
 
 > She might already have seen the message, for all we know.（教学自造）
 >
@@ -247,13 +391,21 @@ For all we know, + 可能性（常和 could / might / may 连用）
 
 **常见误读：** 它不等于 `as far as we know`。后者偏“据我们所知，情况是这样”；前者常表示“我们所知太少，这种情况也可能”。也不同于已收集的 `Not that I know of`，后者是在回答问题时给出有保留的否定。
 
-### Before you know it, ...
+### 20. Before you know it, ...
 
-**语义：快到还没反应过来，事情就发生了。** 原演出讨论模糊的时间说法；日常既能说令人期待的事，也能说时间飞逝。[演出字幕 21:36](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[Cambridge](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)。
+**意思：** 快到还没反应过来，事情就发生了。
 
 > Keep at it, and before you know it, you'll have a working version.（教学自造）
 >
 > 坚持做下去，不知不觉你就会有个能运行的版本。
+
+**来源：** [演出字幕 21:36](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[Cambridge](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；教学自造
+
+**补充：**
+
+原演出讨论模糊的时间说法；日常既能说令人期待的事，也能说时间飞逝。[演出字幕 21:36](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[Cambridge](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)。
+
+
 
 > I put off one task, and before I knew it, the whole afternoon was gone.（教学自造）
 >
@@ -269,13 +421,21 @@ it 在这里不是回指某个具体物品。
 
 **边界：** 不是逐字的“在你知道这件事之前”。只表示主观上来得快，并非精确的时间承诺。
 
-### One of these days, ...
+### 21. One of these days, ...
 
-**语义：将来某一天；可以是愿望，也可以是提醒或警告。** 原演出把它放在一串模糊时间说法里。[演出字幕 21:57](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[Cambridge](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)。
+**意思：** 将来某一天；可以是愿望，也可以是提醒或警告。
 
 > One of these days, I'll finally organize all my notes.（教学自造）
 >
 > 总有一天，我会把所有笔记整理好。
+
+**来源：** [演出字幕 21:57](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[Cambridge](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)；教学自造
+
+**补充：**
+
+原演出把它放在一串模糊时间说法里。[演出字幕 21:57](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[Cambridge](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)。
+
+
 
 > Keep skipping backups, and one of these days you'll lose a file.（教学自造）
 >
@@ -294,11 +454,19 @@ One of these days, + 尚未发生的事
 
 ## 小词与句子读法
 
-### nothing but：除了这个，别的都没有
+### 1. nothing but
+
+**意思：** 除了这个，别的都没有
+
+> The folder contains nothing but old photos.
+
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
 
 **读成 only / nothing other than**。核心是限制范围，不是把后面的东西否定掉。
 
-> The folder contains nothing but old photos.
+
 
 文件夹里只有旧照片。照片是有的，其他东西没有。
 
@@ -312,11 +480,19 @@ One of these days, + 尚未发生的事
 
 结构提示：do nothing but 后面常接动词原形，如 He did nothing but complain（他只是在抱怨）。先把这个常见结构记完整，不要据此推出“任何 but 后面都不带 to”。
 
-### anything but：唯独不是那个样子
+### 2. anything but
+
+**意思：** 唯独不是那个样子
+
+> The explanation was anything but clear.
+
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
 
 **常见评价用法是强调 not at all**，尤其出现在 anything but + 形容词中。
 
-> The explanation was anything but clear.
+
 
 解释一点也不清楚。并非“任何事情都清楚”。
 
@@ -324,11 +500,19 @@ One of these days, + 尚未发生的事
 
 注意它也能按字面表示“除了……什么都行”：I'll eat anything but mushrooms（除了蘑菇，我什么都吃）。应结合整个句子，不把每一处 anything but 都机械译成“一点也不”。
 
-### all but：先看是在排除对象，还是说程度
+### 3. all but
+
+**意思：** 先看是在排除对象，还是说程度
+
+> The project is all but finished.
+
+**来源：** [Collins：nothing but](https://www.collinsdictionary.com/dictionary/english/nothing-but)；[anything but](https://www.collinsdictionary.com/dictionary/english/anything-but)；[all but](https://www.collinsdictionary.com/us/dictionary/english/all-but)
+
+**补充：**
 
 **all but + 状态／动作** 常表示 nearly / almost：
 
-> The project is all but finished.
+
 
 项目几乎完成了。方向靠近“完成”，不是“一点也没完成”。
 
@@ -342,9 +526,15 @@ One of these days, + 尚未发生的事
 
 **来源补记（nothing but：几个小词，意思为什么差这么多）：** [Collins：nothing but](https://www.collinsdictionary.com/dictionary/english/nothing-but)、[anything but](https://www.collinsdictionary.com/dictionary/english/anything-but)、[all but](https://www.collinsdictionary.com/us/dictionary/english/all-but)。释义经教学整理，例句自造。
 
-### not until：动作何时才发生
+### 4. not until
+
+**意思：** 动作何时才发生
 
 > He didn't leave until the meeting ended.
+
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
 
 他直到会议结束才离开。在会议结束之前，leave 没有发生。
 
@@ -352,9 +542,15 @@ One of these days, + 尚未发生的事
 
 “才”是这个语境的自然中文，不是每个 until 都要补一个“才”。
 
-### Not until：移到开头后，主句怎样变
+### 5. Not until
+
+**意思：** 移到开头后，主句怎样变
 
 > Not until the meeting ended did he leave.
+
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
 
 分成两块：**[Not until the meeting ended] [did he leave]**。
 
@@ -366,9 +562,15 @@ One of these days, + 尚未发生的事
 
 直到她解释背景，我才明白那句话。理解动作的主语是 I，发生倒装的是 did I understand。
 
-### It was not until：另一种突出时间的结构
+### 6. It was not until
+
+**意思：** 另一种突出时间的结构
 
 > It wasn't until the meeting ended that he left.
+
+**来源：** [British Council：否定状语置前后的倒装](https://learnenglish.britishcouncil.org/grammar/c1-grammar/inversion-after-negative-adverbials)
+
+**补充：**
 
 分成 **[It wasn't until the meeting ended] [that he left]**。这里用 it…that…突出时间，that 后面是正常语序 he left，不再使用 did he leave。
 
@@ -376,9 +578,15 @@ One of these days, + 尚未发生的事
 
 **来源补记（not until：先弄清“什么时候才”，再看倒装）：** [British Council：否定状语置前后的倒装](https://learnenglish.britishcouncil.org/grammar/c1-grammar/inversion-after-negative-adverbials)。例句和对照为教学自造。
 
-### used to be：be 后面为什么好像缺了东西
+### 7. used to be
+
+**意思：** be 后面为什么好像缺了东西
 
 > After years of working abroad, he is not the man he used to be.
+
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
 
 他在国外工作多年后，已经不是从前的那个他了。
 
@@ -388,9 +596,15 @@ One of these days, + 尚未发生的事
 
 注意两种 used to：used to be 表示过去是；be used to living abroad 表示习惯在国外生活。不要因为都出现 used 和 to 就混在一起。
 
-### what little：整个部分可以充当主语
+### 8. what little
+
+**意思：** 整个部分可以充当主语
 
 > What little money he had went on rent.
+
+**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
+
+**补充：**
 
 他仅有的那点钱全花在房租上了。
 
@@ -404,11 +618,19 @@ what little money he had 可以按“他所拥有的那一点钱”理解，不�
 
 ## 句子级 Chunks
 
-### more [A] than anyone had thought [B]
+### 1. more [A] than anyone had thought [B]
 
-**语义：超出所有人的预期上限。** A 是被比较的属性，B 是人们原本以为的上限。
+**意思：** 超出所有人的预期上限。
 
 > Training is often much less effective than expected.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+A 是被比较的属性，B 是人们原本以为的上限。
+
+
 
 训练的效果往往远低于预期。最简形态：比较级 + than expected。
 
@@ -429,17 +651,24 @@ than 从句里藏着省略：
 
 **变体采集：**
 
-| 变体 | 比较基准 | 例 |
-|---|---|---|
-| more than words can express | 言语能表达的 | 比言语能表达的更多 |
-| harder than it looks | 表象 | 比看上去难 |
-| less effective than expected | 预期 | 比预期的效果差 |
+- 变体：more than words can express；比较基准：言语能表达的；例：比言语能表达的更多
+- 变体：harder than it looks；比较基准：表象；例：比看上去难
+- 变体：less effective than expected；比较基准：预期；例：比预期的效果差
 
-### [前项], let alone [后项]
 
-**语义：前项尚且达不到，后项更别提。** 递进否定。
+### 2. [前项], let alone [后项]
+
+**意思：** 前项尚且达不到，后项更别提。
 
 > Mr. Barret is not proficient in diagnosis, let alone investigation.（语料）
+
+**来源：** 语料
+
+**补充：**
+
+递进否定。
+
+
 
 巴瑞特先生连诊断都不擅长，更不必提研究了。
 
@@ -459,16 +688,23 @@ let alone = 并列连词（同族 not to mention / to say nothing of）
 
 **常见误读：**
 
-| 误读 | 正解 |
-|---|---|
-| 当成 leave sb alone"让…独处" | 句中逗号后的 let alone 几乎总是"更别提" |
-| 后项与前项不对等 | 后项必须与前项同语法位置成分平行 |
+- 误读：当成 leave sb alone"让…独处"；正解：句中逗号后的 let alone 几乎总是"更别提"
+- 误读：后项与前项不对等；正解：后项必须与前项同语法位置成分平行
 
-### not so much [A] as [B]
 
-**语义：与其说[A]不如说[B]。** 否定 A 的定性，重心落在 B。
+### 3. not so much [A] as [B]
+
+**意思：** 与其说[A]不如说[B]。
 
 > His manner is not so much regal as professorial.（语料）
+
+**来源：** 语料
+
+**补充：**
+
+否定 A 的定性，重心落在 B。
+
+
 
 他的举止与其说帝王气派，不如说学者派头。
 
@@ -486,11 +722,19 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **与 more B than A 的关系：** 同义两把刀，选哪个看想先提哪个。
 
-### nothing less than [X] / nothing short of [X]
+### 4. nothing less than [X] / nothing short of [X]
 
-**语义：简直是X、不折不扣的X。** 双重否定顶出强肯定，评价性强。
+**意思：** 简直是X、不折不扣的X。
 
 > The way the whales are killed is nothing short of barbaric.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+双重否定顶出强肯定，评价性强。
+
+
 
 捕鲸的方式简直就是野蛮。
 
@@ -504,11 +748,19 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** 后接名词或形容词（nothing short of barbaric / nothing less than a disaster）。语气重，正式评论用；日常口语用 simply / outright 更自然。
 
-### if anything
+### 5. if anything
 
-**语义：甚至可以说恰恰相反；要我说的话。** 修正或加强前句的评注语。
+**意思：** 甚至可以说恰恰相反；要我说的话。
 
 > I owe you nothing. If anything, the reverse is true.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+修正或加强前句的评注语。
+
+
 
 我不欠你什么。如果说欠，是你欠我才对。
 
@@ -518,11 +770,19 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** 不占句子成分的插入语。典型用法：先摆预期，再用 if anything 反向修正。阅读线索：见到它，先找它修正的是前文哪个判断。
 
-### all the more [A] because [B]
+### 6. all the more [A] because [B]
 
-**语义：正因[B]而更[A]。** 因果叠加到程度。
+**意思：** 正因[B]而更[A]。
 
 > The very compactness of the cottage made it all the more snug and appealing.（语料）
+
+**来源：** 语料
+
+**补充：**
+
+因果叠加到程度。
+
+
 
 正是村舍的小巧紧凑让它格外温暖宜人。
 
@@ -532,11 +792,19 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** all the more 直接修饰比较级。because 从句可省，靠语境补。
 
-### What … is/was …
+### 7. What … is/was …
 
-**语义：把"…的"推到句子焦点位置。** 书面语最常用的强调骨架，诊断句 Q2/Q10 都是它。
+**意思：** 把"…的"推到句子焦点位置。
 
 > What he felt was more akin to pity than love.（语料）
+
+**来源：** 语料
+
+**补充：**
+
+书面语最常用的强调骨架，诊断句 Q2/Q10 都是它。
+
+
 
 他感受到的更像怜悯，而不是爱。
 
@@ -556,24 +824,29 @@ was                 → 是
 
 **诊断句还原：**
 
-| 原句 | 还原成普通句 |
-|---|---|
-| What the committee failed to anticipate was how quickly costs would escalate.（Q2） | The committee failed to anticipate something. |
-| What began as a debugging exercise ended up revealing a design flaw.（Q10） | Something began as a debugging exercise. |
+- 原句：What the committee failed to anticipate was how quickly costs would escalate.（Q2）；还原成普通句：The committee failed to anticipate something.
+- 原句：What began as a debugging exercise ended up revealing a design flaw.（Q10）；还原成普通句：Something began as a debugging exercise.
 
 **变体采集：**
 
-| 变体 | 焦点位置 | 例 |
-|---|---|---|
-| What S V is/was … | 句尾 | What matters is the interface. |
-| What happened was (that) … | 句尾从句 | What happened was that the disk filled up. |
-| All (that) S V is … | 句尾 | All you need is one clean backup. |
+- 变体：What S V is/was …；焦点位置：句尾；例：What matters is the interface.
+- 变体：What happened was (that) …；焦点位置：句尾从句；例：What happened was that the disk filled up.
+- 变体：All (that) S V is …；焦点位置：句尾；例：All you need is one clean backup.
 
-### It was [X] that …
 
-**语义：正是X（不是别的）。** 分裂句，强调句中某个成分。
+### 8. It was [X] that …
+
+**意思：** 正是X（不是别的）。
 
 > It was only later that the drug was shown to be addictive.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+分裂句，强调句中某个成分。
+
+
 
 直到后来才证明该药会成瘾。
 
@@ -594,16 +867,23 @@ was                 → 是
 
 **常见误读：**
 
-| 误读 | 正解 |
-|---|---|
-| 见到 It was…that 就当"正是" | 先做还原测试，可能只是形式主语 |
-| 强调主语时动词跟着改 | It was he who…（强调主语用 who，正式） |
+- 误读：见到 It was…that 就当"正是"；正解：先做还原测试，可能只是形式主语
+- 误读：强调主语时动词跟着改；正解：It was he who…（强调主语用 who，正式）
 
-### Only [状语] did …
 
-**语义：只有到/只有在…才…。** only + 状语放句首，触发部分倒装。诊断句 Q4。
+### 9. Only [状语] did …
+
+**意思：** 只有到/只有在…才…。
 
 > Only when the last children had disappeared did Sister Agatha break her rigid pose.（语料）
+
+**来源：** 语料
+
+**补充：**
+
+only + 状语放句首，触发部分倒装。诊断句 Q4。
+
+
 
 直到最后一个孩子走远，阿加莎修女才放开她那僵硬的姿态。
 
@@ -622,11 +902,19 @@ was                 → 是
 
 **与 not until 的关系：** 同属"否定/限制状语前置→倒装"家族。not until 详见 05-patterns/02-not-until。
 
-### do/does/did + 动词原形
+### 10. do/does/did + 动词原形
 
-**语义：确实…（口语与书信中的强调）。** 助动词强调，不倒装、不加否定。
+**意思：** 确实…（口语与书信中的强调）。
 
 > The test did pass yesterday — I checked twice.（自造）
+
+**来源：** 自造
+
+**补充：**
+
+助动词强调，不倒装、不加否定。
+
+
 
 测试昨天确实通过了——我查了两遍。
 
@@ -636,11 +924,19 @@ was                 → 是
 
 **结构注：** 只强调现在/过去单次的确定语气，不用于进行时。书面正式文里少见，邮件和口语高频。与 really 强调的区别：do 强调的是"事实与预期相反或值得确认"，语气更硬。
 
-### [A/Adv/N] as/though [S V]
+### 11. [A/Adv/N] as/though [S V]
 
-**语义：尽管…（倒装让步）。** 把表语/状语/名词提到句首，语气比 although 强。
+**意思：** 尽管…（倒装让步）。
 
 > Strange as it sounds, the bug only appears on Tuesdays.（自造）
+
+**来源：** 自造
+
+**补充：**
+
+把表语/状语/名词提到句首，语气比 although 强。
+
+
 
 听着再奇怪，这个 bug 只在周二出现。
 
@@ -660,16 +956,23 @@ as 换成 though 也可以；换although 则必须恢复正常语序
 
 **常见误读：**
 
-| 误读 | 正解 |
-|---|---|
-| 把句首 Strange 当主语补语理解反 | 先识别 as=though 的让步倒装，再读主干 |
-| Child as he was 加冠词 | 名词提前时冠词消失（Child as he was，不是 A child） |
+- 误读：把句首 Strange 当主语补语理解反；正解：先识别 as=though 的让步倒装，再读主干
+- 误读：Child as he was 加冠词；正解：名词提前时冠词消失（Child as he was，不是 A child）
 
-### much as [S V]
 
-**语义：尽管…（带“虽然很…”的让步分量）。** 语料库中让步用法无干净例句，主例句为自造，比拟用法对照例附后。
+### 12. much as [S V]
+
+**意思：** 尽管…（带“虽然很…”的让步分量）。
 
 > Much as I admire the design, I can't defend the cost.（自造）
+
+**来源：** 自造；语料
+
+**补充：**
+
+语料库中让步用法无干净例句，主例句为自造，比拟用法对照例附后。
+
+
 
 尽管我很欣赏这个设计，我没法为这个成本辩护。
 
@@ -697,11 +1000,19 @@ much as 整体 = although（让步连词）
 
 正如相对论包容了牛顿物理，量子引力理论终将包容相对论。——从句与主句是同类关系，这是比拟不是让步。
 
-### for all [X]
+### 13. for all [X]
 
-**语义：尽管[有]X。** for all + 名词短语，让步埋在介词里，正式书面。
+**意思：** 尽管[有]X。
 
 > For all the forced badinage, it was an awkward meal.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+for all + 名词短语，让步埋在介词里，正式书面。
+
+
 
 尽管满是刻意的打趣，这顿饭还是吃得尴尬。
 
@@ -718,11 +1029,19 @@ for all + 名词短语 = despite
 陷阱：不是"为了所有X"——见到 for all + 抽象名词 + 逗号 + 转折，按 despite 读
 ```
 
-### far from [A/V-ing]
+### 14. far from [A/V-ing]
 
-**语义：不但没有…反而…。** 否定一个预期，引出相反事实。
+**意思：** 不但没有…反而…。
 
 > Far from being a dreamer, she's a level-headed pragmatist.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+否定一个预期，引出相反事实。
+
+
 
 她远非空想家，而是个头脑清醒的实用主义者。
 
@@ -739,11 +1058,19 @@ far from + 形容词/动名词/名词
 暗含比较：实际离预期"很远"（far）
 ```
 
-### so to speak / as it were / if you will
+### 15. so to speak / as it were / if you will
 
-**语义：可以这么说；打个比方。** 提醒读者：前面的话是比喻或夸张，别按字面抠。
+**意思：** 可以这么说；打个比方。
 
 > We painted ourselves into a corner, so to speak.（自造）
+
+**来源：** 自造；语料，梭罗《瓦尔登湖》
+
+**补充：**
+
+提醒读者：前面的话是比喻或夸张，别按字面抠。
+
+
 
 可以这么说，我们把自己刷进了死角（比喻：自断退路）。
 
@@ -768,16 +1095,23 @@ far from + 形容词/动名词/名词
 
 **常见误读：**
 
-| 误读 | 正解 |
-|---|---|
-| 把 if you will 一律当“可以这么说” | 语料库 2 条命中全是字面义“如果你（们）愿意”（If you will just sign here…）；立场句式骨架用法在词典例句库中为 0，几乎只活在真实口语/书面议论里 |
-| 见到 as it were 当动词过去式 | 冻结虚拟式插入语，与 were 的时态无关 |
+- 误读：把 if you will 一律当“可以这么说”；正解：语料库 2 条命中全是字面义“如果你（们）愿意”（If you will just sign here…）；立场句式骨架用法在词典例句库中为 0，几乎只活在真实口语/书面议论里
+- 误读：见到 as it were 当动词过去式；正解：冻结虚拟式插入语，与 were 的时态无关
 
-### admittedly / granted / to be sure
 
-**语义：诚然…（先让后转）。** 论证套路：先承认对方一个点，再转折反击。
+### 16. admittedly / granted / to be sure
+
+**意思：** 诚然…（先让后转）。
 
 > Admittedly, it is rather expensive but you don't need to use much.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+论证套路：先承认对方一个点，再转折反击。
+
+
 
 诚然它相当贵，但你的用量并不大。
 
@@ -795,17 +1129,24 @@ far from + 形容词/动名词/名词
 
 **变体采集：**
 
-| 变体 | 语域 | 例 |
-|---|---|---|
-| admittedly | 书面通用 | 最常用 |
-| granted | 口语到书面 | Granted, it works. But at what cost? |
-| to be sure | 较文 | 先让步，常接 but then |
+- 变体：admittedly；语域：书面通用；例：最常用
+- 变体：granted；语域：口语到书面；例：Granted, it works. But at what cost?
+- 变体：to be sure；语域：较文；例：先让步，常接 but then
 
-### There is no [V-ing]
 
-**语义：…是不可能的/不容否认的。** no + 动名词，存现句否定。
+### 17. There is no [V-ing]
+
+**意思：** …是不可能的/不容否认的。
 
 > There is no denying the mightiness of the sea.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+no + 动名词，存现句否定。
+
+
 
 大海的威力不容否认。
 
@@ -823,11 +1164,15 @@ There is no + V-ing = 某事无法被做
 后接名词短语（the sea）或 V-ing 短语（arguing with…）
 ```
 
-### [X] is one thing; [Y] is another
+### 18. [X] is one thing; [Y] is another
 
-**语义：X是一回事，Y是另一回事（不可混同）。**
+**意思：** X是一回事，Y是另一回事（不可混同）。
 
 > A man of talent is one thing, and a pedant another.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
 
 有才华的人是一回事，学究是另一回事。
 
@@ -843,11 +1188,19 @@ There is no + V-ing = 某事无法被做
 套路：别人说 A 证明 B → 你回 "A is one thing; B is another"
 ```
 
-### What began as [X] ended up [Y]
+### 19. What began as [X] ended up [Y]
 
-**语义：始于X而终于Y。** 叙事反差句式骨架：起点与终点落差越大，语气越强。
+**意思：** 始于X而终于Y。
 
 > What began as a debugging exercise ended up revealing a design flaw.（自造，Q10 原型）
+
+**来源：** 自造，Q10 原型；自造
+
+**补充：**
+
+叙事反差句式骨架：起点与终点落差越大，语气越强。
+
+
 
 始于一次调试练习，最终揭示了一个设计缺陷。
 
@@ -864,11 +1217,19 @@ ended up + V-ing = 以…告终（end up 后接动名词，不接不定式）
 变体：What started as … / ended in + 名词（ended in disaster）
 ```
 
-### What [S] failed to anticipate was [Y]
+### 20. What [S] failed to anticipate was [Y]
 
-**语义：没料到的是Y。** 复盘文的标配开场，聚焦"预期的盲区"。
+**意思：** 没料到的是Y。
 
 > What we failed to anticipate was how fast the event stream would grow.（自造，Q2 同构）
+
+**来源：** 自造，Q2 同构；自造，Q2 原型
+
+**补充：**
+
+复盘文的标配开场，聚焦"预期的盲区"。
+
+
 
 我们没料到的是事件流会涨得这么快。
 
@@ -887,11 +1248,15 @@ was 后接焦点，两种形态：
 写作模板：复盘 = What we failed to anticipate was X. Now we…
 ```
 
-### not least because / not least of which
+### 21. not least because / not least of which
 
-**语义：尤其是因为…（不是"最不"——反而是加重）。**
+**意思：** 尤其是因为…（不是"最不"——反而是加重）。
 
 > The plan survived, not least because two engineers refused to let it die.（自造）
+
+**来源：** 自造
+
+**补充：**
 
 方案活了下来，很大程度上是因为两个工程师拒绝让它死掉。
 
@@ -907,16 +1272,23 @@ not least = 特别是（否定+最高级的反直觉组合：不是"最不重要
 
 **常见误读：**
 
-| 误读 | 正解 |
-|---|---|
-| 读成"最不重要的是因为" | not least=especially，是加重不是削弱 |
-| 和 last but not least 混淆 | 后者管列举位序，前者管原因分量 |
+- 误读：读成"最不重要的是因为"；正解：not least=especially，是加重不是削弱
+- 误读：和 last but not least 混淆；正解：后者管列举位序，前者管原因分量
 
-### insofar as
 
-**语义：在…范围内；就…而言。** 限定程度的从句连词。
+### 22. insofar as
+
+**意思：** 在…范围内；就…而言。
 
 > The tool helps, insofar as you already know what to look for.（自造）
+
+**来源：** 自造；语料
+
+**补充：**
+
+限定程度的从句连词。
+
+
 
 这个工具有用——但前提是你已经知道要找什么。
 
@@ -932,11 +1304,19 @@ insofar as + 从句 = 主张的成立范围被限定在从句内
 近义：to the extent that（更直白）；in that（更书面简短）
 ```
 
-### Were it not for [X] / But for [X]
+### 23. Were it not for [X] / But for [X]
 
-**语义：若非X（早就…了）。** 省 if 的虚拟倒装，感恩/复盘两用。
+**意思：** 若非X（早就…了）。
 
 > Were it not for the backup, we would have lost everything.（自造）
+
+**来源：** 自造；语料，改写自汤姆·潘恩
+
+**补充：**
+
+省 if 的虚拟倒装，感恩/复盘两用。
+
+
 
 若非有备份，我们早就全丢了。
 
@@ -960,17 +1340,24 @@ insofar as + 从句 = 主张的成立范围被限定在从句内
 
 **变体采集：**
 
-| 变体 | 时间指向 | 例 |
-|---|---|---|
-| Were it not for | 现在 | 若非…（现在就不会…） |
-| Had it not been for | 过去 | 若非…（当时早就…） |
-| But for / Without | 通用 | 最简形态 |
+- 变体：Were it not for；时间指向：现在；例：若非…（现在就不会…）
+- 变体：Had it not been for；时间指向：过去；例：若非…（当时早就…）
+- 变体：But for / Without；时间指向：通用；例：最简形态
 
-### Should you [V]
 
-**语义：若您（万一）…。** 省 if 的条件倒装，技术文档和客服邮件最高频。
+### 24. Should you [V]
+
+**意思：** 若您（万一）…。
 
 > Should you encounter this error, file a ticket immediately.（自造）
+
+**来源：** 自造；语料
+
+**补充：**
+
+省 if 的条件倒装，技术文档和客服邮件最高频。
+
+
 
 若您遇到此错误，请立即提工单。
 
@@ -989,17 +1376,24 @@ should 在这里不是"应该"，是虚拟语气助动词（低概率假设）
 
 **常见误读：**
 
-| 误读 | 正解 |
-|---|---|
-| 把 should 读成“应该” | 此处是虚拟假设助动词：万一 |
-| 以为是疑问句倒装 | 无疑问词、句首 Should + 主语 → 条件句 |
-| 见到 had it not been 当条件句 | 语料库唯一命中 “Why had it not been possible…” 是真疑问句过去完成时；条件用法需倒装语序（Had it not been for…） |
+- 误读：把 should 读成“应该”；正解：此处是虚拟假设助动词：万一
+- 误读：以为是疑问句倒装；正解：无疑问词、句首 Should + 主语 → 条件句
+- 误读：见到 had it not been 当条件句；正解：语料库唯一命中 “Why had it not been possible…” 是真疑问句过去完成时；条件用法需倒装语序（Had it not been for…）
 
-### as it stands
 
-**语义：以现状而论；照目前这样。** 独立评注语，常预告批评或改动。
+### 25. as it stands
+
+**意思：** 以现状而论；照目前这样。
 
 > The law as it stands is unworkable.（语料）
+
+**来源：** 语料；自造
+
+**补充：**
+
+独立评注语，常预告批评或改动。
+
+
 
 这部法律照现状来看是行不通的。
 
@@ -1019,11 +1413,19 @@ should 在这里不是"应该"，是虚拟语气助动词（低概率假设）
 
 ## 真题里可复用的表达
 
-### as long as [S V], [主句]
+### 1. as long as [S V], [主句]
 
-**语义：只要…（就）…。** 条件句式骨架，划定主句成立的范围边界；比 if 更强调"边界感"而非"假设"。
+**意思：** 只要…（就）…。
 
 > I could come and go as I please, as long as I was getting the work done.（真题·四级 2022-06）
+
+**来源：** 真题·四级 2022-06；真题·六级 2018-06
+
+**补充：**
+
+条件句式骨架，划定主句成立的范围边界；比 if 更强调"边界感"而非"假设"。
+
+
 
 我可以来去自如，只要我把活儿干完。
 
@@ -1042,11 +1444,19 @@ as long as + 从句，主句          ：从句给条件边界，主句是该边
 
 **常见误读：** 读到 as long as 先判断是条件还是时长——后面接从句（有主谓）是条件句式骨架，接名词/时间量是"长达"。条件义中主句常用情态或一般现在时表常态。
 
-### [do A] rather than [do B]
+### 2. [do A] rather than [do B]
 
-**语义：做 A 而不是 B。** 取舍衔接骨架，语义重心在 rather than 之前；两边成分必须平行。
+**意思：** 做 A 而不是 B。
 
 > Students simply complete their assignments to receive credit for a passing grade rather than genuinely engage with the course material.（真题·四级 2022-06）
+
+**来源：** 真题·四级 2022-06；真题·英一 2019
+
+**补充：**
+
+取舍衔接骨架，语义重心在 rather than 之前；两边成分必须平行。
+
+
 
 学生只是把作业交齐、拿到及格学分，而不是真正钻进课程内容里。
 
@@ -1065,11 +1475,19 @@ B 端动词形态跟随 A 端：eat them at once（原形）↔ putting them asi
 
 **常见误读：** than 后动词不带 to（would rather 同理）；rather than 不是"而不是"的连词加否定——它不做句子成分，只标记取舍方向。与 instead of（介词，后只接名词/动名词）区分：rather than 两端可接动词原形。
 
-### end up [V-ing / with N / 补语]
+### 3. end up [V-ing / with N / 补语]
 
-**语义：最后落得…／绕一圈最终…。** 结果落点句式骨架：起点常是一个动作或计划，end up 给出与预期有落差的终点。
+**意思：** 最后落得…／绕一圈最终…。
 
 > Even when you win, you end up no better off.（真题·英一 2019）
+
+**来源：** 真题·英一 2019；真题·英二 2017
+
+**补充：**
+
+结果落点句式骨架：起点常是一个动作或计划，end up 给出与预期有落差的终点。
+
+
 
 就算你赢了，到头来也没好到哪儿去。
 
@@ -1092,11 +1510,19 @@ end up + 形容词/介短 ：end up no better off（终点=评价性补语）
 
 **常见误读：** up 是小品词不是介词——end up changing 不是"结束于改变"的字面组合，整块当"落得"记。后面不能直接跟 to 不定式（不说 end up to change）。
 
-### it turns out (that) [S V]
+### 4. it turns out (that) [S V]
 
-**语义：事实证明…／（原来）…。** 叙事揭晓句式骨架：先有普遍预期或表面现象，turns out 推出与预期不同的实情。
+**意思：** 事实证明…／（原来）…。
 
 > In spite of our ___ discomfort, it turns out there's a good reason our teeth are so sensitive.（真题·四级 2022-06 完形）
+
+**来源：** 真题·四级 2022-06 完形；真题·英一 2017 完形
+
+**补充：**
+
+叙事揭晓句式骨架：先有普遍预期或表面现象，turns out 推出与预期不同的实情。
+
+
 
 尽管我们（牙齿）不舒服，但事实证明牙齿这么敏感是有充分理由的。
 
@@ -1115,11 +1541,19 @@ It turns out (that) + 从句：it 是虚主语，真信息在从句；that 常�
 
 **常见误读：** turns out 不是"轮流出去"。它常挂在段首做话语标记，后面整句才是信息本体——遇到时先找从句主语，别把 turns out 后第一个名词误当主语。
 
-### when it comes to [N / V-ing]
+### 5. when it comes to [N / V-ing]
 
-**语义：说到…／一到…这件事上。** 话题聚焦句式骨架：把叙述切换到某个具体领域，常暗含"这个领域情况特殊"。
+**意思：** 说到…／一到…这件事上。
 
 > When it comes to looking for a new job, you already know that a big part of the interview process involves the company evaluating whether or not you're a good fit.（真题·四级 2022-06）
+
+**来源：** 真题·四级 2022-06；真题·英二 2017
+
+**补充：**
+
+话题聚焦句式骨架：把叙述切换到某个具体领域，常暗含"这个领域情况特殊"。
+
+
 
 说到找工作这件事，你其实早就清楚：面试的很大一部分，是公司在评估你到底合不合适。
 
@@ -1138,11 +1572,19 @@ when it comes to + 名词/动名词：to 是介词，后接 V-ing（adjusting to
 
 **常见误读：** to 后面必须接名词或动名词，不接动词原形（不说 when it comes to adjust）。comes 不随主语变化——固定骨架 it comes，主语永远是 it。
 
-### be (more / less) likely to [V]
+### 6. be (more / less) likely to [V]
 
-**语义：很可能／不太可能…。** 概率立场句式骨架：把判断包装成可能性陈述，学术和新闻文体的默认语气。
+**意思：** 很可能／不太可能…。
 
 > The long-term costs of using simple quantitative metrics to assess researcher merit are likely to be quite great.（真题·英一 2019）
+
+**来源：** 真题·英一 2019；真题·英一 2017；真题·英一 2017 完形
+
+**补充：**
+
+概率立场句式骨架：把判断包装成可能性陈述，学术和新闻文体的默认语气。
+
+
 
 用简单量化指标评估研究者价值的长期代价，很可能会相当大。
 
@@ -1165,11 +1607,19 @@ S + be + (more/less/twice as …) likely to V：可能性强度可调
 
 **常见误读：** likely 是形容词不是副词——不说 likely go，必须 be likely to go。句子主语通常是人/事/数字，不是形式 it（表可能性用 it is likely that，另一骨架）。
 
-### even if [S V] / even though [S V] / Even so
+### 7. even if [S V] / even though [S V] / Even so
 
-**语义：即便…（也）…／即便如此。** 退一步让步句式骨架：先承认一个不利或相反的事实，主句立场不动摇。
+**意思：** 即便…（也）…／即便如此。
 
 > None of these will be easy but you can start even if others refuse to.（真题·英一 2019）
+
+**来源：** 真题·英一 2019；真题·英二 2019
+
+**补充：**
+
+退一步让步句式骨架：先承认一个不利或相反的事实，主句立场不动摇。
+
+
 
 这些没有一件容易，但你可以先动起来，哪怕别人都拒绝。
 

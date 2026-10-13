@@ -3,7 +3,8 @@
     {
       "title": "词汇",
       "items": [
-        "course/词汇/生词与熟词新义.md"
+        "course/词汇/生词与熟词新义.md",
+        "course/词汇/Better Call Saul：词汇与搭配积累.md"
       ]
     },
     {
@@ -11,7 +12,6 @@
       "items": [
         "course/Chunks 收集/精选 Chunks.md",
         "course/Chunks 收集/Better Call Saul：Chunks 积累.md",
-        "course/Chunks 收集/Better Call Saul：词汇与搭配积累.md",
         "course/Chunks 收集/Chunks 收集箱.md",
         "course/Chunks 收集/总统演讲 Chunks：坚持原则、澄清判断与回应挫折.md"
       ]
@@ -20,9 +20,7 @@
       "title": "表达练习",
       "items": [
         "course/表达练习/Better Call Saul S01 中译英练习.md",
-        "course/表达练习/每日逐句精读与迁移.md",
-        "course/表达练习/中文到英文表达：关系还有没有挽回余地.md",
-        "course/表达练习/中译英校准素材 P001：中文情境任务.md"
+        "course/表达练习/每日逐句精读与迁移.md"
       ]
     },
     {
@@ -70,22 +68,10 @@
     {
       "title": "编纂与维护",
       "items": [
-        "course/编纂与维护/Chunks 收集箱格式与录入规则.md",
-        "course/编纂与维护/资料来源.md",
-        "course/编纂与维护/English Book 编辑分层清单.md",
-        "course/编纂与维护/TED 资料收集经验与维护.md",
-        "course/编纂与维护/TED 100 篇英文原文 TXT 清单.md",
-        {
-          "sub": "Skills",
-          "items": [
-            "course/编纂与维护/Skills/拆句式骨架（Frame Mining）.md",
-            "course/编纂与维护/Skills/英语学习内容锻造器.md",
-            "course/编纂与维护/Skills/中文到英文表达训练.md",
-            "course/编纂与维护/Skills/中文到英文表达训练计划.md",
-            "course/编纂与维护/Skills/训练素材采集与核对.md",
-            "course/编纂与维护/Skills/根据 Chunks 编写中译英练习.md"
-          ]
-        }
+        "course/编纂与维护/编纂约定.md",
+        "course/编纂与维护/Chunks 收集与排版.md",
+        "course/编纂与维护/中译英训练与编题.md",
+        "course/编纂与维护/资料来源.md"
       ]
     }
   ],

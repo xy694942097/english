@@ -42,8 +42,8 @@ const assert = require('node:assert/strict');
     assert.equal(await page.locator('.sidebar').isVisible(), true);
 
     // 新表达章可由深链打开，且练习答案仍保持折叠
-    await page.goto(base + '#' + encodeURIComponent('course/表达练习/中文到英文表达：关系还有没有挽回余地.md'));
-    await page.getByRole('heading', {name: '中文到英文表达：关系还有没有挽回余地', exact: true}).waitFor();
+    await page.goto(base + '#' + encodeURIComponent('course/表达练习/Better Call Saul S01 中译英练习.md'));
+    await page.getByRole('heading', {name: 'Better Call Saul S01 中译英练习', exact: true}).waitFor();
     assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '表达章答案默认折叠');
 
     // 自动目录锚点不会被当成文档路由；跳到折叠答案时自动打开。
@@ -59,37 +59,37 @@ const assert = require('node:assert/strict');
     assert.equal(await closeToggle.getAttribute('data-tip'), '收起目录');
     const contents = page.locator('#outline-links a');
     assert.ok(await contents.count() >= 8);
-    await contents.filter({hasText: '参考答案'}).click();
+    await contents.filter({hasText: '参考 Chunk'}).click();
     assert.equal(await page.locator('#outline').isVisible(), false, '点击目录后抽屉关闭');
     await page.waitForFunction(() => location.hash.includes('::'));
     await page.waitForFunction(() => document.querySelector('.reference-answers')?.open === true);
     await page.reload();
-    await page.getByRole('heading', {name: '参考答案', exact: true}).waitFor();
+    await page.getByRole('heading', {name: '参考 Chunk', exact: true}).waitFor();
     assert.notEqual(await page.locator('.reference-answers').getAttribute('open'), null);
-    assert.equal(await page.locator('#article h1').innerText(), '中文到英文表达：关系还有没有挽回余地');
+    assert.equal(await page.locator('#article h1').innerText(), 'Better Call Saul S01 中译英练习');
 
     // 项目内 Skill 和学习计划在只读站点中可读
     await page.goto(base + '#' + encodeURIComponent('course/编纂与维护/Skills/中文到英文表达训练计划.md'));
-    await page.getByRole('heading', {name: '中文到英文表达训练计划', exact: true}).waitFor();
+    await page.getByRole('heading', {name: '中译英训练与编题', exact: true}).waitFor();
 
-    await page.goto(base + '#' + encodeURIComponent('course/表达练习/中译英校准素材 P001：中文情境任务.md'));
-    await page.getByRole('heading', {name: '中译英校准素材 P001：中文情境任务', exact: true}).waitFor();
+    await page.goto(base + '#' + encodeURIComponent('course/表达练习/每日逐句精读与迁移.md'));
+    await page.getByRole('heading', {name: '每日逐句精读与迁移', exact: true}).waitFor();
 
     await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/Chunks 收集箱.md'));
     await page.getByRole('heading', {name: 'Chunks 收集箱', exact: true}).waitFor();
-    assert.equal(await page.locator('#article table').count(), 6, '六个分类各有一张收集表');
-    assert.equal(await page.locator('#article table').first().locator('th').count(), 3, '收集表固定三列');
+    assert.equal(await page.locator('#article table').count(), 0, '收集箱不使用长表格');
+    assert.equal(await page.locator('#article h3').count(), 63, '收集箱63个候选均保留为纵向条目');
 
     await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/总统演讲 Chunks：坚持原则、澄清判断与回应挫折.md'));
     await page.getByRole('heading', {name: '总统演讲 Chunks：坚持原则、澄清判断与回应挫折', exact: true}).waitFor();
-    assert.equal(await page.locator('#article tbody tr').count(), 20, '总统演讲精选二十个 chunks');
+    assert.equal(await page.locator('#article h3').count(), 20, '总统演讲精选二十个纵向 chunks');
     await page.goto(base + '#' + encodeURIComponent('course/原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md'));
     await page.getByRole('heading', {name: '总统演讲原文合集：GovInfo', exact: true}).waitFor();
 
     await page.goto(base + '#' + encodeURIComponent('course/学习章节/口语表达/脱口秀口语 Chunks：把观察、反问和不确定说出来.md'));
     await page.getByRole('heading', {name: '精选 Chunks', exact: true}).waitFor();
-    await page.getByRole('heading', {name: 'Did you ever notice (that/how) ...?', exact: true}).waitFor();
-    await page.getByRole('heading', {name: 'One of these days, ...', exact: true}).waitFor();
+    await page.getByRole('heading', {name: /Did you ever notice \(that\/how\) \.\.\.\?/ }).waitFor();
+    await page.getByRole('heading', {name: /One of these days, \.\.\./ }).waitFor();
 
     // 中译英题目先独立呈现，目标 Chunk 仅在主动查看提示后显示
     await page.goto(base + '#' + encodeURIComponent('course/表达练习/Better Call Saul S01 中译英练习.md'));
@@ -110,9 +110,9 @@ const assert = require('node:assert/strict');
     // 精选 Chunks 已合并原有短专题；练习页仍保留答案折叠
     await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/精选 Chunks.md'));
     await page.getByRole('heading', {name: '精选 Chunks', exact: true}).waitFor();
-    await page.getByRole('heading', {name: /^nothing but：/}).waitFor();
-    await page.goto(base + '#' + encodeURIComponent('course/表达练习/中文到英文表达：关系还有没有挽回余地.md'));
-    await page.getByRole('heading', {name: '中文到英文表达：关系还有没有挽回余地', exact: true}).waitFor();
+    await page.getByRole('heading', {name: /^\d+\. nothing but$/}).waitFor();
+    await page.goto(base + '#' + encodeURIComponent('course/表达练习/Better Call Saul S01 中译英练习.md'));
+    await page.getByRole('heading', {name: 'Better Call Saul S01 中译英练习', exact: true}).waitFor();
     assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '参考答案默认折叠');
     await page.locator('#article .reference-answers summary').click();
     assert.notEqual(await page.locator('#article .reference-answers').getAttribute('open'), null);
