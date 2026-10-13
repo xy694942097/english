@@ -1,5 +1,7 @@
 name: Publish reading site
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
@@ -17,6 +19,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Verify reader and publication boundaries
+        working-directory: site
+        run: python3 -m unittest test_server.ViewerTests.test_reader_has_no_editing_components test_server.ViewerTests.test_static_publication_uses_explicit_document_list
       - name: Build explicit publication list
         run: python3 site/build_static.py
       - uses: actions/upload-pages-artifact@v3

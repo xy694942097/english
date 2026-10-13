@@ -69,7 +69,7 @@ ENGLISH_TEST_URL=http://127.0.0.1:4174 node site/test_reader.cjs   # Playwright 
 
 ## GitHub Pages 发布
 
-先审阅 `site/publish-nav.json` 的公开清单（当前45个入口，含原文与参考资料、编纂与维护／Skills），再运行：
+先审阅 `site/publish-nav.json` 的公开清单（含原文与参考资料、编纂与维护／Skills），再运行：
 
 ```bash
 python3 site/build_static.py
@@ -77,6 +77,8 @@ python3 site/build_static.py
 
 输出为 `site/dist/`，只包含选中的文章正文、阅读器资源及明确引用的图片。八篇本地全文合集以来源入口页展示，其他选中文档正常阅读；个人档案和原始材料不进入站点。构建目录须为空；可用 `--output` 指定新目录。
 
-正式发布使用 `python3 site/deploy_pages.py`，它只将静态公开清单推到独立的 `gh-pages` 分支。仓库 Settings → Pages 选择 Deploy from a branch、gh-pages、/(root)。后续更新运行同一脚本，保留静态发布分支历史，不强制推送。
+正式发布由 `.github/workflows/pages.yml` 自动执行：提交改动并 `git push origin main` 后，GitHub Actions 先运行只读界面与公开清单的专项测试（完整本地测试包含未入 Git 的原文合集），再按 `site/publish-nav.json` 构建并发布。也可在 Actions 中手动运行 Publish reading site。
 
-公开仓库可使用免费 Pages，地址为 `https://xy694942097.github.io/english/`。另保留手动 GitHub Actions 工作流作为替代方式；使用该方式前需将 Pages Source 切到 GitHub Actions。
+仓库 Settings → Pages 的 Source 设为 **GitHub Actions**。构建失败不会替换现有网站；更新结果可在 Actions 的 Publish reading site 查看。推送其他分支不会发布。
+
+公开仓库可使用免费 Pages，地址为 `https://xy694942097.github.io/english/`。`site/deploy_pages.py` 是旧的 gh-pages 分支发布工具，日常发布无需运行；不要与 Actions 发布混用。
