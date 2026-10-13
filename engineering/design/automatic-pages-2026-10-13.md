@@ -9,4 +9,11 @@
 - 当前其他任务未提交的教材与导航修改不随本次工程改动提交。
 - 日常更新：提交需要发布的改动后 `git push origin main`；查看 Actions 运行结果。
 
-验证状态：待完成干净提交构建与线上工作流验证。
+验证状态：已完成。
+
+- 干净检出：只读界面与公开清单专项测试通过，构建 46 篇公开文档。
+- GitHub Pages 设置已保存 Source = GitHub Actions。
+- 提交 b519738 推送 main 自动触发工作流，状态 Success，耗时 20 秒。
+- 运行证据：https://github.com/xy694942097/english/actions/runs/38379196114
+- 发布地址：https://xy694942097.github.io/english/
+
