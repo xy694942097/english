@@ -49,6 +49,8 @@ def extract_semantics(body: str) -> dict:
 
 for name in CHAPTERS:
     path = document_path("book/08-frames/" + name)
+    if path.name == '精选 Chunks.md':
+        raise SystemExit('旧句式分章已收拢进精选 Chunks；本脚本不能改写合并后的文档。')
     text = path.read_text(encoding="utf-8")
 
     # 幂等：删除已存在的预览节（表头列名兼容 框架/句式骨架 两种措辞）

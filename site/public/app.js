@@ -39,7 +39,7 @@ function renderMarkdownPart(source) {
 }
 
 function renderDoc(item) {
-  const answer = /^## 参考答案\s*$/m.exec(item.body);
+  const answer = /^## (参考答案|参考 Chunk)\s*$/m.exec(item.body);
   const contentEl = renderMarkdownPart(answer ? item.body.slice(0, answer.index) : item.body, 0);
   if (window.hljs) contentEl.querySelectorAll('pre code').forEach(el => hljs.highlightElement(el));
   fixAssets(contentEl, item.id);
@@ -48,7 +48,8 @@ function renderDoc(item) {
     const answerStart = answer.index + answer[0].length;
     const answerEl = renderMarkdownPart(item.body.slice(answerStart), answerStart);
     fixAssets(answerEl, item.id);
-    html += `<details class="reference-answers"><summary>查看参考答案</summary><h2>参考答案</h2>${answerEl.innerHTML}</details>`;
+    const label = answer[1];
+    html += `<details class="reference-answers"><summary>查看${label}</summary><h2>${label}</h2>${answerEl.innerHTML}</details>`;
   }
   return html;
 }
@@ -190,15 +191,15 @@ function nav() {
   const byId={}; state.items.forEach(x=>byId[x.id]=x);
   const cur=state.current?.id;
   const itemHTML=(id)=>{const x=byId[id];return x?link(x.id,x.title):''};
+  const renderItems=(items)=>items.map(it=>typeof it==='string'?itemHTML(it):`<div class="nav-sub">${it.sub}</div>`+it.items.map(itemHTML).join('')).join('');
   let html='';
   for(const group of (state.nav.groups||[])) {
-    const renderItems=(items)=>items.map(it=>typeof it==='string'?itemHTML(it):`<div class="nav-sub">${it.sub}</div>`+it.items.map(itemHTML).join('')).join('');
     const entries=group.items.flatMap(it=>typeof it==='string'?[it]:it.items);
     html+=fold(entries.some(id=>id===cur),group.title,entries.length,renderItems(group.items));
   }
   for(const group of (state.nav.maintenance||[])) {
     const entries=group.items.flatMap(it=>typeof it==='string'?[it]:it.items);
-    html+=`<details class="nav-maintenance" ${entries.includes(cur)?'open':''}><summary>${group.title}</summary>${entries.map(itemHTML).join('')}</details>`;
+    html+=`<details class="nav-maintenance" ${entries.includes(cur)?'open':''}><summary>${group.title}</summary>${renderItems(group.items)}</details>`;
   }
   $('nav').innerHTML=html;
 }

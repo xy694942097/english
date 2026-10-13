@@ -54,6 +54,8 @@ def main():
     parts = []
     for filename, title, solves in CHAPTERS:
         path = document_path("book/08-frames/" + filename)
+        if path.name == '精选 Chunks.md':
+            raise SystemExit('旧句式分章已收拢进精选 Chunks；不能把合并页当作每个分章重建总集。')
         if not path.is_file():
             raise SystemExit(f"缺少章节文件: {path}")
         body = path.read_text(encoding="utf-8").strip()

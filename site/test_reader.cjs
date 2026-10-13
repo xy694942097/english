@@ -12,7 +12,7 @@ const assert = require('node:assert/strict');
 
     // 打开即第一份文档（nav.json 第一项），marked 渲染出标题
     await page.goto(base);
-    await page.getByRole('heading', {name: '从 resigned 理解词义与搭配', exact: true}).waitFor();
+    await page.getByRole('heading', {name: '生词与熟词新义', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
     assert.equal(await page.locator('#nav .nav-fold').count(), 5, '五个学习导航分组');
     const registeredCount = (await (await page.request.get(base + 'api/catalog')).json()).items.length;
@@ -60,7 +60,7 @@ const assert = require('node:assert/strict');
     assert.equal(await page.locator('#article h1').innerText(), '中文到英文表达：关系还有没有挽回余地');
 
     // 项目内 Skill 和学习计划在只读站点中可读
-    await page.goto(base + '#' + encodeURIComponent('course/编纂与维护/中文到英文表达训练计划.md'));
+    await page.goto(base + '#' + encodeURIComponent('course/编纂与维护/Skills/中文到英文表达训练计划.md'));
     await page.getByRole('heading', {name: '中文到英文表达训练计划', exact: true}).waitFor();
 
     await page.goto(base + '#' + encodeURIComponent('course/表达练习/中译英校准素材 P001：中文情境任务.md'));
@@ -78,33 +78,47 @@ const assert = require('node:assert/strict');
     await page.getByRole('heading', {name: '总统演讲原文合集：GovInfo', exact: true}).waitFor();
 
     await page.goto(base + '#' + encodeURIComponent('course/学习章节/口语表达/脱口秀口语 Chunks：把观察、反问和不确定说出来.md'));
-    await page.getByRole('heading', {name: '脱口秀口语 Chunks：把观察、反问和不确定说出来', exact: true}).waitFor();
-    assert.equal(await page.locator('#article h2').filter({hasText: /^\d+\. /}).count(), 8, '脱口秀章展示八个知识点');
-    assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '脱口秀章答案默认折叠');
+    await page.getByRole('heading', {name: '精选 Chunks', exact: true}).waitFor();
+    await page.getByRole('heading', {name: 'Did you ever notice (that/how) ...?', exact: true}).waitFor();
+    await page.getByRole('heading', {name: 'One of these days, ...', exact: true}).waitFor();
+
+    // 中译英题目先独立呈现，目标 Chunk 仅在主动查看提示后显示
+    await page.goto(base + '#' + encodeURIComponent('course/表达练习/Better Call Saul S01 中译英练习.md'));
+    await page.getByRole('heading', {name: 'Better Call Saul S01 中译英练习', exact: true}).waitFor();
+    assert.equal(await page.locator('#article h3').count(), 31, 'S01E01 试跑31题');
+    const chunkReference = page.locator('#article .reference-answers');
+    assert.equal(await chunkReference.getAttribute('open'), null, '参考 Chunk 默认关闭');
+    assert.equal(await chunkReference.locator('li').first().isVisible(), false, '题目页不显示英文提示');
+    assert.ok(!(await page.locator('#article').innerText()).includes('bully sb. into doing sth.'));
+    assert.ok(!(await page.locator('#outline-links').innerText()).includes('bully sb. into doing sth.'), '目录不泄露目标词块');
+    await chunkReference.locator('summary').click();
+    assert.equal(await chunkReference.locator('li').first().isVisible(), true, '主动查看后显示关联词块');
 
     await page.goto(base + '#' + encodeURIComponent('course/编纂与维护/资料来源.md'));
     await page.getByRole('heading', {name: '资料来源', exact: true}).waitFor();
     assert.ok((await page.locator('#article').innerText()).includes('English → Download'), '字幕来源操作说明可读');
 
-    // 深链 + 参考答案折叠
-    await page.goto(base + '#' + encodeURIComponent('course/学习章节/句式与结构/nothing but：几个小词，意思为什么差这么多.md'));
-    await page.getByRole('heading', {name: 'nothing but：几个小词，意思为什么差这么多', exact: true}).waitFor();
+    // 精选 Chunks 已合并原有短专题；练习页仍保留答案折叠
+    await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/精选 Chunks.md'));
+    await page.getByRole('heading', {name: '精选 Chunks', exact: true}).waitFor();
+    await page.getByRole('heading', {name: /^nothing but：/}).waitFor();
+    await page.goto(base + '#' + encodeURIComponent('course/表达练习/中文到英文表达：关系还有没有挽回余地.md'));
+    await page.getByRole('heading', {name: '中文到英文表达：关系还有没有挽回余地', exact: true}).waitFor();
     assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '参考答案默认折叠');
     await page.locator('#article .reference-answers summary').click();
     assert.notEqual(await page.locator('#article .reference-answers').getAttribute('open'), null);
 
-    // 文内相对 .md 链接改写为 hash 深链（句式骨架导览含家族章链接）
-    await page.goto(base + '#' + encodeURIComponent('course/学习章节/句式与结构/句式骨架（Frames）：比语法分析高一层的学习单位.md'));
-    await page.getByRole('heading', {name: '句式骨架（Frames）：比语法分析高一层的学习单位', exact: true}).waitFor();
-    const relLink = await page.locator('#article a[href^="#"]').evaluateAll(links => links.some(a => decodeURIComponent(a.hash.slice(1)).startsWith('course/学习章节/') && !a.hash.includes('::')));
+    // 文内相对 .md 链接改写为 hash 深链
+    await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/Chunks 收集箱.md'));
+    await page.getByRole('heading', {name: 'Chunks 收集箱', exact: true}).waitFor();
+    const relLink = await page.locator('#article a[href^="#"]').evaluateAll(links => links.some(a => decodeURIComponent(a.hash.slice(1)).startsWith('course/编纂与维护/') && !a.hash.includes('::')));
     assert.ok(relLink, '文档间相对链接改写为新目录深链');
     await page.goto(base + '#' + encodeURIComponent('book/01-reading/02-resigned.md'));
-    await page.getByRole('heading', {name:'从 resigned 理解词义与搭配',exact:true}).waitFor();
-    assert.ok(decodeURIComponent(await page.evaluate(()=>location.hash)).startsWith('#course/学习章节/'), '旧文档书签自动转向新路径');
+    await page.getByRole('heading', {name:'生词与熟词新义',exact:true}).waitFor();
+    assert.ok(decodeURIComponent(await page.evaluate(()=>location.hash)).startsWith('#course/词汇/生词与熟词新义.md'), '旧生词书签转向词汇页');
     await page.goto(base + '#' + encodeURIComponent('学习章节/句式与结构/nothing but：几个小词，意思为什么差这么多.md') + '::' + encodeURIComponent('参考答案'));
-    await page.getByRole('heading', {name:'nothing but：几个小词，意思为什么差这么多',exact:true}).waitFor();
-    assert.ok(decodeURIComponent(await page.evaluate(()=>location.hash)).startsWith('#course/学习章节/句式与结构/nothing but'), '迁入 course 前的根目录书签转到现址');
-    assert.equal(await page.locator('#article .reference-answers').evaluate(node => node.open), true, '旧深链保留小节定位');
+    await page.getByRole('heading', {name:'精选 Chunks',exact:true}).waitFor();
+    assert.ok(decodeURIComponent(await page.evaluate(()=>location.hash)).startsWith('#course/Chunks 收集/精选 Chunks.md'), '旧 chunk 书签转到精选页');
 
     // 搜索
     await page.locator('#search').fill('qualified support');

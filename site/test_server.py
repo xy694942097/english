@@ -19,8 +19,14 @@ class ViewerTests(unittest.TestCase):
             output = Path(temp) / 'english'
             count = build_static.build(output, server.ROOT / 'site/publish-nav.json')
             data = json.loads((output / 'catalog.json').read_text())
-            self.assertEqual(count, 33)
-            self.assertFalse(any('/我的学习/' in item['id'] or '/编纂与维护/' in item['id'] for item in data['items']))
+            self.assertEqual(count, 44)
+            self.assertIn('course/词汇/生词与熟词新义.md', {item['id'] for item in data['items']})
+            self.assertIn('course/Chunks 收集/精选 Chunks.md', {item['id'] for item in data['items']})
+            self.assertIn('course/表达练习/Better Call Saul S01 中译英练习.md', {item['id'] for item in data['items']})
+            self.assertFalse(any('/我的学习/' in item['id'] for item in data['items']))
+            self.assertTrue(any('/编纂与维护/Skills/' in item['id'] for item in data['items']))
+            self.assertIn('原文与参考资料', {group['title'] for group in data['nav']['groups']})
+            self.assertEqual(sum(item.get('referenceOnly', False) for item in data['items']), 8)
             self.assertFalse((output / 'materials').exists())
             self.assertFalse((output / 'vendor/toastui').exists())
             self.assertTrue((output / '.nojekyll').is_file())
@@ -73,6 +79,7 @@ class ViewerTests(unittest.TestCase):
 
     def test_project_navigation_matches_filesystem(self):
         nav = server.read_nav()
+        self.assertEqual([g['title'] for g in nav['groups'][:3]], ['词汇', 'Chunks 收集', '表达练习'])
         for group in nav['groups'] + nav.get('maintenance', []):
             for item in group['items']:
                 parent = Path('course') / group['title']
@@ -87,8 +94,9 @@ class ViewerTests(unittest.TestCase):
         aliases = server.read_aliases()
         documents = {item['id'] for item in server.catalog()}
         old = '学习章节/句式与结构/nothing but：几个小词，意思为什么差这么多.md'
-        self.assertEqual(aliases[old], 'course/' + old)
-        self.assertEqual(aliases['book/05-patterns/01-nothing-but.md'], 'course/' + old)
+        self.assertEqual(aliases[old], 'course/Chunks 收集/精选 Chunks.md')
+        self.assertEqual(aliases['book/05-patterns/01-nothing-but.md'], 'course/Chunks 收集/精选 Chunks.md')
+        self.assertEqual(aliases['book/01-reading/02-resigned.md'], 'course/词汇/生词与熟词新义.md')
         for target in aliases.values():
             self.assertTrue((server.ROOT / target).is_file(), target)
         self.assertIn(aliases[old], documents)

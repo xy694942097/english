@@ -10,6 +10,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 FRAMES = ROOT / "book" / "08-frames"
+if not FRAMES.is_dir():
+    raise SystemExit('旧 book/08-frames 已归档；本编号脚本不适用于精选 Chunks。')
 CHAPTERS = [
     "01-degree-comparison.md", "02-emphasis-focus.md", "03-concession-contrast.md",
     "04-stance-commentary.md", "05-narrative-logic.md", "06-condition-subjunctive.md",
