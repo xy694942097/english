@@ -68,7 +68,7 @@ ENGLISH_TEST_URL=http://127.0.0.1:4174 node site/test_reader.cjs   # Playwright 
 
 ## GitHub Pages 发布
 
-先审阅 `site/publish-nav.json` 的公开清单（当前44个入口，含原文与参考资料、编纂与维护／Skills），再运行：
+先审阅 `site/publish-nav.json` 的公开清单（当前45个入口，含原文与参考资料、编纂与维护／Skills），再运行：
 
 ```bash
 python3 site/build_static.py

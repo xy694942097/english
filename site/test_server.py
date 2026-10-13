@@ -19,7 +19,17 @@ class ViewerTests(unittest.TestCase):
             output = Path(temp) / 'english'
             count = build_static.build(output, server.ROOT / 'site/publish-nav.json')
             data = json.loads((output / 'catalog.json').read_text())
-            self.assertEqual(count, 44)
+            publish_nav = json.loads((server.ROOT / 'site/publish-nav.json').read_text())
+            def paths(entries):
+                for entry in entries:
+                    if isinstance(entry, str):
+                        yield entry
+                    else:
+                        yield from paths(entry['items'])
+            expected = {p for group in publish_nav['groups'] + publish_nav.get('maintenance', [])
+                        for p in paths(group['items'])}
+            self.assertEqual(count, len(expected))
+            self.assertEqual({item['id'] for item in data['items']}, expected)
             self.assertIn('course/词汇/生词与熟词新义.md', {item['id'] for item in data['items']})
             self.assertIn('course/Chunks 收集/精选 Chunks.md', {item['id'] for item in data['items']})
             self.assertIn('course/表达练习/Better Call Saul S01 中译英练习.md', {item['id'] for item in data['items']})
