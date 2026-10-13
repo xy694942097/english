@@ -1,6 +1,6 @@
 # Better Call Saul S02 Chunks：全集选材与核查
 
-日期：2026-10-12。沿用 `engineering/agents/chunks-expression-coach-prompt.md` 的全集流程：按 cue 顺序分段通读，检查每句的表达动作与内部搭配，再回看未选字幕。原件是 `materials/corpus/tv-subtitles/better-call-saul/S02/` 中十集本地英文社区字幕；没有听音校对。读者页是 `Chunks 收集/Better Call Saul：Chunks 积累.md` 的 S02E01–S02E10 小节，逐条出处在 `references/chunks/better-call-saul-s02e01-selection.json` 至 `better-call-saul-s02e10-selection.json`。
+日期：2026-10-12。沿用 `engineering/agents/chunks-expression-coach-prompt.md` 的全集流程：按 cue 顺序分段通读，检查每句的表达动作与内部搭配，再回看未选字幕。原件是 `materials/corpus/tv-subtitles/better-call-saul/S02/` 中十集本地英文社区字幕；没有听音校对。读者页是 `course/Chunks 收集/Better Call Saul：Chunks 积累.md` 的 S02E01–S02E10 小节，逐条出处在 `references/chunks/better-call-saul-s02e01-selection.json` 至 `better-call-saul-s02e10-selection.json`。
 
 | 集数 | 连续字幕 cue | 保留候选 |
 |---|---:|---:|

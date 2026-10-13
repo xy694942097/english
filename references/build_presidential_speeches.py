@@ -9,7 +9,7 @@ from document_paths import write_document
 ROOT = Path(__file__).resolve().parent.parent
 META = ROOT / 'references/presidential-speeches'
 RAW = ROOT / 'materials/corpus/presidential-speeches/govinfo'
-OUT = ROOT / '原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md'
+OUT = ROOT / 'course/原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md'
 
 
 def source_url(src):
@@ -135,7 +135,7 @@ def main():
         for item in selection['skipped']:
             report.append(f"- `{item['text']}`：{item['reason']}")
         report += ['', '最长保留项是“重新界定问题”的半固定骨架，完整原句仅作证据；不把整段政治论证当一个 chunk。演讲有正式、鼓动和郑重语气，日常使用时应按对象与场景调低力度。', '']
-        write_document(ROOT / 'Chunks 收集/总统演讲 Chunks：坚持原则、澄清判断与回应挫折.md', '\n'.join(report), encoding='utf-8')
+        write_document(ROOT / 'course/Chunks 收集/总统演讲 Chunks：坚持原则、澄清判断与回应挫折.md', '\n'.join(report), encoding='utf-8')
     OUT.parent.mkdir(parents=True, exist_ok=True)
     write_document(OUT, '\n'.join(lines).rstrip() + '\n', encoding='utf-8')
 

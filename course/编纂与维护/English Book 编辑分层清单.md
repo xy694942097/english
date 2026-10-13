@@ -13,11 +13,11 @@
 
 | 方向 | 文件 |
 |---|---|
-| 阅读与熟词生义 | `学习章节/词义与搭配/在语境中理解表达.md`；`02-resigned.md`；`03-evidence.md`；`04-outcomes.md` |
-| 单词专题与辨析 | `学习章节/词义与搭配/四六级词汇：学习路线与词汇索引.md`；`01-familiar-verbs.md`；`02-evidence-claims.md`；`03-causes-effects.md`；`04-preposition-patterns.md`；`05-change-development.md`；`06-degree-quality.md`；`07-judgment-reasoning.md`；`08-abstract-meanings.md`；`10-take.md` |
-| 句型与特殊句子 | `学习章节/句式与结构/nothing but：几个小词，意思为什么差这么多.md`；`02-not-until.md`；`03-unfamiliar-shapes.md` |
-| 句式骨架小章 | `学习章节/句式与结构/句式骨架（Frames）：比语法分析高一层的学习单位.md`；`01-degree-comparison.md`；`02-emphasis-focus.md`；`03-concession-contrast.md`；`04-stance-commentary.md`；`05-narrative-logic.md`；`06-condition-subjunctive.md`；`09-exam-recall.md` |
-| 中文到英文表达 | `表达练习/中文到英文表达：关系还有没有挽回余地.md` |
+| 阅读与熟词生义 | `course/学习章节/词义与搭配/在语境中理解表达.md`；`02-resigned.md`；`03-evidence.md`；`04-outcomes.md` |
+| 单词专题与辨析 | `course/学习章节/词义与搭配/四六级词汇：学习路线与词汇索引.md`；`01-familiar-verbs.md`；`02-evidence-claims.md`；`03-causes-effects.md`；`04-preposition-patterns.md`；`05-change-development.md`；`06-degree-quality.md`；`07-judgment-reasoning.md`；`08-abstract-meanings.md`；`10-take.md` |
+| 句型与特殊句子 | `course/学习章节/句式与结构/nothing but：几个小词，意思为什么差这么多.md`；`02-not-until.md`；`03-unfamiliar-shapes.md` |
+| 句式骨架小章 | `course/学习章节/句式与结构/句式骨架（Frames）：比语法分析高一层的学习单位.md`；`01-degree-comparison.md`；`02-emphasis-focus.md`；`03-concession-contrast.md`；`04-stance-commentary.md`；`05-narrative-logic.md`；`06-condition-subjunctive.md`；`09-exam-recall.md` |
+| 中文到英文表达 | `course/表达练习/中文到英文表达：关系还有没有挽回余地.md` |
 
 这里保留章节导览页。对部分四、六级词汇章和家族骨架章尚未做完整的逐条词典复核；“可试教”只表示没有本次抽查已确认的阻断错误，并有相对完整的教学形态。实际练习从用户原答决定是否需降级或修订。
 
@@ -25,10 +25,10 @@
 
 | 类别 | 文件 | 放在查阅区的原因 |
 |---|---|---|
-| 词组与介词指南 | `原文与参考资料/表达与语法查阅/英语短语动词完全指南.md`；`06-phrase-structures-guide.md`；`原文与参考资料/表达与语法查阅/词组速查与结构对照.md`；`11-prepositions-guide.md` | 体量或目录型用途高于单次教学用途；需要按真实卡点抽取小章 |
-| 教材与真题骨架 | `原文与参考资料/表达与语法查阅/教材回收：初高中句式骨架.md`；`12-readthrough-recall.md`；`13-cet4-readthrough.md`；`15-kaoyan-readthrough.md` | 每章条目多，章末迁移题覆盖少；先作有出处的检索库，使用前核对原文与语域 |
-| 口语、叙事、长句 | `原文与参考资料/表达与语法查阅/口语对话动作：攻防与体面.md`；`17-narrative-cognition-actions.md`；`19-long-sentences-guide.md` | 单条例句与实践密度不均，需挑重点形成短课 |
-| 千句解析 | `原文与参考资料/表达与语法查阅/雅思级别英语1000句——生活化场景含逐句解析.md` | 体量大，部分“解析”仅标语法类别；可查阅，不能把题量当已学知识 |
+| 词组与介词指南 | `course/原文与参考资料/表达与语法查阅/英语短语动词完全指南.md`；`06-phrase-structures-guide.md`；`course/原文与参考资料/表达与语法查阅/词组速查与结构对照.md`；`11-prepositions-guide.md` | 体量或目录型用途高于单次教学用途；需要按真实卡点抽取小章 |
+| 教材与真题骨架 | `course/原文与参考资料/表达与语法查阅/教材回收：初高中句式骨架.md`；`12-readthrough-recall.md`；`13-cet4-readthrough.md`；`15-kaoyan-readthrough.md` | 每章条目多，章末迁移题覆盖少；先作有出处的检索库，使用前核对原文与语域 |
+| 口语、叙事、长句 | `course/原文与参考资料/表达与语法查阅/口语对话动作：攻防与体面.md`；`17-narrative-cognition-actions.md`；`19-long-sentences-guide.md` | 单条例句与实践密度不均，需挑重点形成短课 |
+| 千句解析 | `course/原文与参考资料/表达与语法查阅/雅思级别英语1000句——生活化场景含逐句解析.md` | 体量大，部分“解析”仅标语法类别；可查阅，不能把题量当已学知识 |
 
 “待审校”是明确状态：来源可查不等于用法、难度和练习都已核准。查阅资料可以帮助编课和解答，但不作为按顺序学完的课程。
 

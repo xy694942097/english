@@ -7,7 +7,7 @@ import re
 import urllib.request
 
 ROOT = Path(__file__).resolve().parents[2]
-CATALOG = ROOT / '原文与参考资料/原文、教材与影视/TED 英语选材目录：100 个演讲与对谈.md'
+CATALOG = ROOT / 'course/原文与参考资料/原文、教材与影视/TED 英语选材目录：100 个演讲与对谈.md'
 OUT = ROOT / 'materials/corpus/ted/english'
 
 

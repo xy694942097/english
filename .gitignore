@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+/site/dist/
 
 # 原始下载语料不入库（来源与哈希见 materials/downloads-manifest.json；规则见 materials/HANDBOOK.md）
 materials/*
@@ -15,11 +16,11 @@ sessions/web/
 /tmp-*
 
 # Generated reading corpora keep their previous local-only status after document relocation.
-/原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md
-/原文与参考资料/原文、教材与影视/四级真题合集.md
-/原文与参考资料/原文、教材与影视/六级真题合集.md
-/原文与参考资料/原文、教材与影视/考研真题合集.md
-/原文与参考资料/原文、教材与影视/考研精翻合集.md
-/原文与参考资料/原文、教材与影视/雅思真题合集.md
-/原文与参考资料/原文、教材与影视/雅思资料合集.md
-/原文与参考资料/原文、教材与影视/初中英语教材合集.md
+/course/原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md
+/course/原文与参考资料/原文、教材与影视/四级真题合集.md
+/course/原文与参考资料/原文、教材与影视/六级真题合集.md
+/course/原文与参考资料/原文、教材与影视/考研真题合集.md
+/course/原文与参考资料/原文、教材与影视/考研精翻合集.md
+/course/原文与参考资料/原文、教材与影视/雅思真题合集.md
+/course/原文与参考资料/原文、教材与影视/雅思资料合集.md
+/course/原文与参考资料/原文、教材与影视/初中英语教材合集.md

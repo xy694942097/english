@@ -4,7 +4,7 @@
 
 ## 执行与结果
 
-按 `engineering/agents/chunks-expression-coach-prompt.md` 的新流程，依编号顺序分七段读完整集，合并跨字幕行的句子；分别检查表达骨架和句内搭配。随后重看未选字幕，重点回查短回应、普通搭配、服务场景套语和同句中的另一层表达。保留 92 项候选，按时间排序，已写入 `Chunks 收集/Better Call Saul：Chunks 积累.md` 的 `S02E01` 小节；每条的 cue、时间码和原句存 `references/chunks/better-call-saul-s02e01-selection.json`。
+按 `engineering/agents/chunks-expression-coach-prompt.md` 的新流程，依编号顺序分七段读完整集，合并跨字幕行的句子；分别检查表达骨架和句内搭配。随后重看未选字幕，重点回查短回应、普通搭配、服务场景套语和同句中的另一层表达。保留 92 项候选，按时间排序，已写入 `course/Chunks 收集/Better Call Saul：Chunks 积累.md` 的 `S02E01` 小节；每条的 cue、时间码和原句存 `references/chunks/better-call-saul-s02e01-selection.json`。
 
 第一遍先列 82 项；第二遍及筛选修订后，最终新增了 20 个第一遍未留下的有效条目，并移除了重复项与单词义项，落地 92 项。第二遍补进的类型包括 `It's got no legs.`（cue 260）、`if you get a chance`（427）、`dole out assignments`（520）、`be exposed to the elements`（561–562）、`the more…, the less…`（567–568）、`Just wondering your thoughts.`（575）、`change sth. out`（670–671）。这说明补漏步骤确有实际作用；它不能证明没有其他遗漏。
 

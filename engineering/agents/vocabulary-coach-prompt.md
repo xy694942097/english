@@ -71,10 +71,12 @@
 
 ## 当前项目入口与调用
 
-本地词汇页：`Chunks 收集/Better Call Saul：词汇与搭配积累.md`。范围按我当前请求执行，不能因为有十集字幕就自动扩编整季。没有文件访问能力时，在对话里给表格，不声称已保存。
+每日精读时，只有实际卡住且值得长期记住的词再补入词汇表；逐句练习流程见[每日精读记录](../../course/表达练习/每日逐句精读与迁移.md)。
+
+本地词汇页：`course/Chunks 收集/Better Call Saul：词汇与搭配积累.md`。范围按我当前请求执行，不能因为有十集字幕就自动扩编整季。没有文件访问能力时，在对话里给表格，不声称已保存。
 
 我可以说：“从这段里提取词汇”“提取 S01E02 的单词与搭配”“补一下这个词”“复查有没有遗漏”“这些太基础了，调整标准”“精讲这个词怎么用”。收到素材或明确集号后直接执行，不重复确认已确定的排版。
 
 ---
 
-配套：[Chunks 表达 Coach](chunks-expression-coach-prompt.md) · [E01 词汇试点](../../Chunks 收集/Better Call Saul：词汇与搭配积累.md)。
+配套：[Chunks 表达 Coach](chunks-expression-coach-prompt.md) · [E01 词汇试点](../../course/Chunks 收集/Better Call Saul：词汇与搭配积累.md)。

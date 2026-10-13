@@ -301,7 +301,7 @@ was                 → 是
 陷阱：only 修饰的不是状语时不倒装：Only he did it（= 是他做的，不倒装）
 ```
 
-**与 not until 的关系：** 同属"否定/限制状语前置→倒装"家族。not until 详见 [05-patterns/02-not-until](../../../../学习章节/句式与结构/not until：先弄清“什么时候才”，再看倒装.md)。
+**与 not until 的关系：** 同属"否定/限制状语前置→倒装"家族。not until 详见 [05-patterns/02-not-until](../../../../course/学习章节/句式与结构/not until：先弄清“什么时候才”，再看倒装.md)。
 
 ### 4. That [X], rather than [Y], was [Z]
 
