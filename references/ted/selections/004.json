@@ -1,0 +1,1841 @@
+{
+  "source": {
+    "path": "materials/corpus/ted/english/004-brene_brown_the_power_of_vulnerability.txt",
+    "sha256": "b1f4c307785b8c632fea95f7733f66fe2acd4762e1494f9a6d8e636a04e30251",
+    "metadata": {
+      "Title": "The power of vulnerability",
+      "中文标题": "脆弱的力量",
+      "Speaker": "Brené Brown",
+      "Year": "2010",
+      "Duration (official metadata)": "20:02",
+      "TED ID": "1042",
+      "Language": "English",
+      "Official URL": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
+      "Caption source": "https://www.ted.com/talks/subtitles/id/1042/lang/en"
+    }
+  },
+  "paragraphs_read": 66,
+  "read_ranges": [
+    [
+      1,
+      66
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "ranges": [
+      [
+        1,
+        66
+      ]
+    ],
+    "checks": [
+      "外层表达骨架",
+      "内部搭配与短语动词",
+      "短回应与话语套语",
+      "普通实词和熟词新义",
+      "未选段落和笑声掌声之间的接续"
+    ],
+    "additional_candidates": {
+      "chunks": 14,
+      "vocabulary": 30
+    }
+  },
+  "chunks": [
+    {
+      "chunk": "I'll start with this",
+      "meaning": "我先从这件事说起",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 1,
+      "quote": "So, I'll start with this: a couple years ago, an event planner called me because I was going to do a speaking event."
+    },
+    {
+      "chunk": "struggle with how to do sth.",
+      "meaning": "苦于不知道怎样做某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 1,
+      "quote": "And she called, and she said, \"I'm really struggling with how to write about you on the little flyer.\" And I thought, \"Well, what's the struggle?\" And she said, \"Well, I saw you speak, and I'm going to call you a researcher, I think, but I'm afraid if I call you a researcher, no one will come, because they'll think you're boring and irrelevant.\""
+    },
+    {
+      "chunk": "I'm afraid if …",
+      "meaning": "我担心如果……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 1,
+      "quote": "And she called, and she said, \"I'm really struggling with how to write about you on the little flyer.\" And I thought, \"Well, what's the struggle?\" And she said, \"Well, I saw you speak, and I'm going to call you a researcher, I think, but I'm afraid if I call you a researcher, no one will come, because they'll think you're boring and irrelevant.\""
+    },
+    {
+      "chunk": "The thing I liked about sth. is …",
+      "meaning": "我喜欢某事的一点是……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 3,
+      "quote": "And I was like, \"Okay.\" And she said, \"But the thing I liked about your talk is you're a storyteller."
+    },
+    {
+      "chunk": "I was like …",
+      "meaning": "我当时就想／我当时说……",
+      "register": "演讲口语",
+      "note": "口语引出自己的反应或话语。",
+      "paragraph": 3,
+      "quote": "And I was like, \"Okay.\" And she said, \"But the thing I liked about your talk is you're a storyteller."
+    },
+    {
+      "chunk": "You're going to call me a what?",
+      "meaning": "你要叫我什么来着？",
+      "register": "演讲口语",
+      "note": "重复疑问词表达惊讶或不满。",
+      "paragraph": 3,
+      "quote": "So I think what I'll do is just call you a storyteller.\" And of course, the academic, insecure part of me was like, \"You're going to call me a what?\" And she said, \"I'm going to call you a storyteller.\" And I was like, \"Why not 'magic pixie'?\""
+    },
+    {
+      "chunk": "Let me think about this for a second",
+      "meaning": "让我稍微想一想",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "I was like, \"Let me think about this for a second.\" I tried to call deep on my courage."
+    },
+    {
+      "chunk": "You know what?",
+      "meaning": "你知道吗／我想到个办法",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "And so I said, \"You know what?"
+    },
+    {
+      "chunk": "Why don't you just do sth.?",
+      "meaning": "你何不直接……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "Why don't you just say I'm a researcher-storyteller.\" And she went, \"Ha ha."
+    },
+    {
+      "chunk": "There's no such thing",
+      "meaning": "没有这种东西／不存在这种说法",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "There's no such thing.\""
+    },
+    {
+      "chunk": "change the way (that) sb. does sth.",
+      "meaning": "改变某人做某事的方式",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 7,
+      "quote": "So I'm a researcher-storyteller, and I'm going to talk to you today -- we're talking about expanding perception -- and so I want to talk to you and tell some stories about a piece of my research that fundamentally expanded my perception and really actually changed the way that I live and love and work and parent."
+    },
+    {
+      "chunk": "Here's the thing",
+      "meaning": "关键是／情况是这样",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 8,
+      "quote": "When I was a young researcher, doctoral student, my first year, I had a research professor who said to us, \"Here's the thing, if you cannot measure it, it does not exist.\" And I thought he was just sweet-talking me."
+    },
+    {
+      "chunk": "be more of the …",
+      "meaning": "更属于……这一类",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 8,
+      "quote": "I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\""
+    },
+    {
+      "chunk": "be surrounded by sb.",
+      "meaning": "身边都是某类人",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 8,
+      "quote": "I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\""
+    },
+    {
+      "chunk": "lean into sth.",
+      "meaning": "主动迎向／投入到某事",
+      "register": "演讲口语",
+      "note": "此处迎向不适，不是字面身体倾斜。",
+      "paragraph": 10,
+      "quote": "And so to think that I had found my way, to found a career that takes me -- really, one of the big sayings in social work is, \"Lean into the discomfort of the work.\" And I'm like, knock discomfort upside the head and move it over and get all A's."
+    },
+    {
+      "chunk": "find one's way",
+      "meaning": "找到适合自己的道路",
+      "register": "演讲口语",
+      "note": "原句后续to found有口语语法疑点，仅保留已成立的表达。",
+      "paragraph": 10,
+      "quote": "And so to think that I had found my way, to found a career that takes me -- really, one of the big sayings in social work is, \"Lean into the discomfort of the work.\" And I'm like, knock discomfort upside the head and move it over and get all A's."
+    },
+    {
+      "chunk": "what sth. is all about",
+      "meaning": "某事的核心意义所在",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 11,
+      "quote": "This is what it's all about."
+    },
+    {
+      "chunk": "that's how we're wired",
+      "meaning": "我们天生就是这样运作的",
+      "register": "演讲口语",
+      "note": "wired为比喻的内在倾向，不是电线连接。",
+      "paragraph": 11,
+      "quote": "It doesn't matter whether you talk to people who work in social justice, mental health and abuse and neglect, what we know is that connection, the ability to feel connected, is -- neurobiologically that's how we're wired -- it's why we're here."
+    },
+    {
+      "chunk": "It doesn't matter whether …",
+      "meaning": "不管是否……都无关紧要",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 11,
+      "quote": "It doesn't matter whether you talk to people who work in social justice, mental health and abuse and neglect, what we know is that connection, the ability to feel connected, is -- neurobiologically that's how we're wired -- it's why we're here."
+    },
+    {
+      "chunk": "opportunity for growth",
+      "meaning": "成长／改进的空间",
+      "register": "演讲口语",
+      "note": "职场评价中的委婉说法。",
+      "paragraph": 12,
+      "quote": "Well, you know that situation where you get an evaluation from your boss, and she tells you 37 things that you do really awesome, and one \"opportunity for growth?\""
+    },
+    {
+      "chunk": "all sb. can think about is …",
+      "meaning": "某人满脑子只能想着……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 14,
+      "quote": "And all you can think about is that opportunity for growth, right?"
+    },
+    {
+      "chunk": "run into sth.",
+      "meaning": "碰上／遇到某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 15,
+      "quote": "So very quickly -- really about six weeks into this research -- I ran into this unnamed thing that absolutely unraveled connection in a way that I didn't understand or had never seen."
+    },
+    {
+      "chunk": "figure out what sth. is",
+      "meaning": "弄清某事到底是什么",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And so I pulled back out of the research and thought, I need to figure out what this is."
+    },
+    {
+      "chunk": "turn out to be …",
+      "meaning": "结果发现是……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And it turned out to be shame."
+    },
+    {
+      "chunk": "be worthy of sth.",
+      "meaning": "值得获得／配得上某物",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And shame is really easily understood as the fear of disconnection: Is there something about me that, if other people know it or see it, that I won't be worthy of connection?"
+    },
+    {
+      "chunk": "pull back out of sth.",
+      "meaning": "从某事中暂时抽身退出",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And so I pulled back out of the research and thought, I need to figure out what this is."
+    },
+    {
+      "chunk": "Is there something about me that …?",
+      "meaning": "我身上是否有什么……？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And shame is really easily understood as the fear of disconnection: Is there something about me that, if other people know it or see it, that I won't be worthy of connection?"
+    },
+    {
+      "chunk": "have no capacity for sth.",
+      "meaning": "不具备……的能力",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 16,
+      "quote": "The only people who don't experience shame have no capacity for human empathy or connection."
+    },
+    {
+      "chunk": "The less …, the more …",
+      "meaning": "越少……就越……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 16,
+      "quote": "No one wants to talk about it, and the less you talk about it, the more you have it."
+    },
+    {
+      "chunk": "allow oneself to be …",
+      "meaning": "允许自己被……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 16,
+      "quote": "This idea of, in order for connection to happen, we have to allow ourselves to be seen, really seen."
+    },
+    {
+      "chunk": "beat sth. back",
+      "meaning": "击退／压制某事",
+      "register": "演讲口语",
+      "note": "此处把脆弱感当作对手。",
+      "paragraph": 17,
+      "quote": "And so I thought, this is my chance to beat it back with my measuring stick."
+    },
+    {
+      "chunk": "figure this stuff out",
+      "meaning": "把这些事弄明白",
+      "register": "演讲口语",
+      "note": "stuff口语概括未细列的事情。",
+      "paragraph": 17,
+      "quote": "I'm going in, I'm going to figure this stuff out, I'm going to spend a year, I'm going to totally deconstruct shame, I'm going to understand how vulnerability works, and I'm going to outsmart it."
+    },
+    {
+      "chunk": "turn out well",
+      "meaning": "最终结果不错",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 17,
+      "quote": "As you know, it's not going to turn out well."
+    },
+    {
+      "chunk": "boil down to sth.",
+      "meaning": "归根结底就是……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 19,
+      "quote": "But here's what I can tell you that it boils down to -- and this may be one of the most important things that I've ever learned in the decade of doing this research."
+    },
+    {
+      "chunk": "turn into sth.",
+      "meaning": "变成……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 20,
+      "quote": "My one year turned into six years: Thousands of stories, hundreds of long interviews, focus groups."
+    },
+    {
+      "chunk": "at one point",
+      "meaning": "曾有那么一个时候",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 20,
+      "quote": "At one point, people were sending me journal pages and sending me their stories -- thousands of pieces of data in six years."
+    },
+    {
+      "chunk": "get a handle on sth.",
+      "meaning": "逐渐掌握／弄懂某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 20,
+      "quote": "And I kind of got a handle on it."
+    },
+    {
+      "chunk": "come down to sth.",
+      "meaning": "归结到某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 20,
+      "quote": "I wrote a book, I published a theory, but something was not okay -- and what it was is that, if I roughly took the people I interviewed and divided them into people who really have a sense of worthiness -- that's what this comes down to, a sense of worthiness -- they have a strong sense of love and belonging -- and folks who struggle for it, and folks who are always wondering if they're good enough."
+    },
+    {
+      "chunk": "a sense of belonging",
+      "meaning": "归属感",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 20,
+      "quote": "I wrote a book, I published a theory, but something was not okay -- and what it was is that, if I roughly took the people I interviewed and divided them into people who really have a sense of worthiness -- that's what this comes down to, a sense of worthiness -- they have a strong sense of love and belonging -- and folks who struggle for it, and folks who are always wondering if they're good enough."
+    },
+    {
+      "chunk": "keep sb. out of sth.",
+      "meaning": "使某人无法进入／参与某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 21,
+      "quote": "And to me, the hard part of the one thing that keeps us out of connection is our fear that we're not worthy of connection, was something that, personally and professionally, I felt like I needed to understand better."
+    },
+    {
+      "chunk": "What do … have in common?",
+      "meaning": "……有什么共同点？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 22,
+      "quote": "What do these people have in common?"
+    },
+    {
+      "chunk": "come to mind",
+      "meaning": "浮现在脑海里",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 22,
+      "quote": "And the first words that came to my mind were \"whole-hearted.\" These are whole-hearted people, living from this deep sense of worthiness."
+    },
+    {
+      "chunk": "be in … mode",
+      "meaning": "处于……状态／模式",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 22,
+      "quote": "My husband left town with the kids because I always go into this Jackson Pollock crazy thing, where I'm just writing and in my researcher mode."
+    },
+    {
+      "chunk": "as it turns out",
+      "meaning": "事实证明／结果发现",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 23,
+      "quote": "They had the compassion to be kind to themselves first and then to others, because, as it turns out, we can't practice compassion with other people if we can't treat ourselves kindly."
+    },
+    {
+      "chunk": "let go of sth.",
+      "meaning": "放下／不再抓住某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And the last was they had connection, and -- this was the hard part -- as a result of authenticity, they were willing to let go of who they thought they should be in order to be who they were, which you have to absolutely do that for connection."
+    },
+    {
+      "chunk": "have the courage to do sth.",
+      "meaning": "有勇气做某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And so these folks had, very simply, the courage to be imperfect."
+    },
+    {
+      "chunk": "as a result of sth.",
+      "meaning": "由于某事／作为某事的结果",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And the last was they had connection, and -- this was the hard part -- as a result of authenticity, they were willing to let go of who they thought they should be in order to be who they were, which you have to absolutely do that for connection."
+    },
+    {
+      "chunk": "be willing to do sth.",
+      "meaning": "愿意做某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And the last was they had connection, and -- this was the hard part -- as a result of authenticity, they were willing to let go of who they thought they should be in order to be who they were, which you have to absolutely do that for connection."
+    },
+    {
+      "chunk": "may or may not work out",
+      "meaning": "可能成功，也可能不成功",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 24,
+      "quote": "They're willing to invest in a relationship that may or may not work out."
+    },
+    {
+      "chunk": "invest in a relationship",
+      "meaning": "投入精力经营一段关系",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 24,
+      "quote": "They're willing to invest in a relationship that may or may not work out."
+    },
+    {
+      "chunk": "pledge allegiance to sth.",
+      "meaning": "宣誓效忠／坚定拥护某事",
+      "register": "演讲口语",
+      "note": "较正式；此处夸张描述对研究方法的忠诚。",
+      "paragraph": 25,
+      "quote": "I could not believe I had pledged allegiance to research, where our job -- you know, the definition of research is to control and predict, to study phenomena for the explicit reason to control and predict."
+    },
+    {
+      "chunk": "turn up the answer",
+      "meaning": "找出／发现答案",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 25,
+      "quote": "And now my mission to control and predict had turned up the answer that the way to live is with vulnerability and to stop controlling and predicting."
+    },
+    {
+      "chunk": "lead to sth.",
+      "meaning": "导致某结果",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 25,
+      "quote": "This led to a little breakdown --"
+    },
+    {
+      "chunk": "look more like …",
+      "meaning": "看起来更像……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 27,
+      "quote": "-- which actually looked more like this."
+    },
+    {
+      "chunk": "I assure you",
+      "meaning": "我向你保证／可以肯定地告诉你",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 32,
+      "quote": "A spiritual awakening sounds better than breakdown, but I assure you, it was a breakdown."
+    },
+    {
+      "chunk": "put sth. away",
+      "meaning": "把某物收起来",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 32,
+      "quote": "And I had to put my data away and go find a therapist."
+    },
+    {
+      "chunk": "see somebody",
+      "meaning": "找人咨询／接受专业帮助",
+      "register": "演讲口语",
+      "note": "结合therapist语境，此处不是普通拜访。",
+      "paragraph": 32,
+      "quote": "Let me tell you something: you know who you are when you call your friends and say, \"I think I need to see somebody."
+    },
+    {
+      "chunk": "I wouldn't want to be sb.",
+      "meaning": "换作我可不想当某人",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 32,
+      "quote": "Do you have any recommendations?\" Because about five of my friends were like, \"Wooo, I wouldn't want to be your therapist.\""
+    },
+    {
+      "chunk": "I'm just saying",
+      "meaning": "我只是说说／提醒一下",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 34,
+      "quote": "I was like, \"What does that mean?\" And they're like, \"I'm just saying, you know."
+    },
+    {
+      "chunk": "What's going on?",
+      "meaning": "发生什么事了／现在情况如何",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 36,
+      "quote": "I'm okay.\" She said, \"What's going on?\" And this is a therapist who sees therapists, because we have to go to those, because their B.S. meters are good."
+    },
+    {
+      "chunk": "It appears that …",
+      "meaning": "看来……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 38,
+      "quote": "And I know that vulnerability is the core of shame and fear and our struggle for worthiness, but it appears that it's also the birthplace of joy, of creativity, of belonging, of love."
+    },
+    {
+      "chunk": "the core of sth.",
+      "meaning": "某事的核心",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 38,
+      "quote": "And I know that vulnerability is the core of shame and fear and our struggle for worthiness, but it appears that it's also the birthplace of joy, of creativity, of belonging, of love."
+    },
+    {
+      "chunk": "neither good nor bad",
+      "meaning": "既不好也不坏",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 45,
+      "quote": "And then I said, \"It's bad, right?\" And she said, \"It's neither good nor bad.\""
+    },
+    {
+      "chunk": "It is what it is",
+      "meaning": "事情就是这样，只能接受现实",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 47,
+      "quote": "\"It just is what it is.\" And I said, \"Oh my God, this is going to suck.\""
+    },
+    {
+      "chunk": "This is going to suck",
+      "meaning": "这会很难受／糟透了",
+      "register": "演讲口语",
+      "note": "随意口语。",
+      "paragraph": 47,
+      "quote": "\"It just is what it is.\" And I said, \"Oh my God, this is going to suck.\""
+    },
+    {
+      "chunk": "hang out with sb.",
+      "meaning": "和某人待在一起／来往",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 49,
+      "quote": "A: that's not me, and B: I don't even hang out with people like that."
+    },
+    {
+      "chunk": "push back",
+      "meaning": "反抗／顶回去",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 51,
+      "quote": "Vulnerability pushed, I pushed back."
+    },
+    {
+      "chunk": "win sth. back",
+      "meaning": "重新夺回某物",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 51,
+      "quote": "I lost the fight, but probably won my life back."
+    },
+    {
+      "chunk": "Am I alone in doing sth.?",
+      "meaning": "只有我一个人在……吗？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 52,
+      "quote": "Am I alone in struggling with vulnerability?"
+    },
+    {
+      "chunk": "be turned down",
+      "meaning": "被拒绝",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 53,
+      "quote": "Having to ask my husband for help because I'm sick, and we're newly married; initiating sex with my husband; initiating sex with my wife; being turned down; asking someone out; waiting for the doctor to call back; getting laid off; laying off people."
+    },
+    {
+      "chunk": "ask sb. out",
+      "meaning": "约某人出去（通常指约会）",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 53,
+      "quote": "Having to ask my husband for help because I'm sick, and we're newly married; initiating sex with my husband; initiating sex with my wife; being turned down; asking someone out; waiting for the doctor to call back; getting laid off; laying off people."
+    },
+    {
+      "chunk": "get laid off / lay sb. off",
+      "meaning": "被裁员／裁掉某人",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 53,
+      "quote": "Having to ask my husband for help because I'm sick, and we're newly married; initiating sex with my husband; initiating sex with my wife; being turned down; asking someone out; waiting for the doctor to call back; getting laid off; laying off people."
+    },
+    {
+      "chunk": "deal with sth.",
+      "meaning": "应对／处理某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 53,
+      "quote": "And one of the ways we deal with it is we numb vulnerability."
+    },
+    {
+      "chunk": "What makes you feel …?",
+      "meaning": "什么会让你感到……？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 53,
+      "quote": "What makes you feel vulnerable?\" And within an hour and a half, I had 150 responses."
+    },
+    {
+      "chunk": "for a living",
+      "meaning": "作为谋生职业",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 56,
+      "quote": "I hack into your lives for a living."
+    },
+    {
+      "chunk": "You can't … without …",
+      "meaning": "你不可能……而又不……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 58,
+      "quote": "You can't numb those hard feelings without numbing the other affects, our emotions."
+    },
+    {
+      "chunk": "go from … to …",
+      "meaning": "从……转变成……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 59,
+      "quote": "Religion has gone from a belief in faith and mystery to certainty."
+    },
+    {
+      "chunk": "look back and …",
+      "meaning": "回头看过去并……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 61,
+      "quote": "Which just, I hope in 100 years, people will look back and go, \"Wow.\""
+    },
+    {
+      "chunk": "make the team",
+      "meaning": "入选球队",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 63,
+      "quote": "My job is just to keep her perfect -- make sure she makes the tennis team by fifth grade and Yale by seventh.\" That's not our job."
+    },
+    {
+      "chunk": "have an effect on sb.",
+      "meaning": "对某人产生影响",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 63,
+      "quote": "We pretend that what we do doesn't have an effect on people."
+    },
+    {
+      "chunk": "have a huge impact on sb.",
+      "meaning": "对某人产生巨大影响",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 63,
+      "quote": "We pretend like what we're doing doesn't have a huge impact on other people."
+    },
+    {
+      "chunk": "This is not our first rodeo",
+      "meaning": "我们不是第一次处理这种事／我们有经验",
+      "register": "演讲口语",
+      "note": "美式随意习语。",
+      "paragraph": 63,
+      "quote": "I would say to companies, this is not our first rodeo, people."
+    },
+    {
+      "chunk": "make sure …",
+      "meaning": "确保……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 63,
+      "quote": "My job is just to keep her perfect -- make sure she makes the tennis team by fifth grade and Yale by seventh.\" That's not our job."
+    },
+    {
+      "chunk": "Show me …, and …",
+      "meaning": "只要有……，就能……",
+      "register": "演讲口语",
+      "note": "演讲中提出条件来强调结果，语气笃定。",
+      "paragraph": 63,
+      "quote": "Show me a generation of kids raised like that, and we'll end the problems, I think, that we see today."
+    },
+    {
+      "chunk": "I'll leave you with this",
+      "meaning": "最后留给你们这样一个想法",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 64,
+      "quote": "But there's another way, and I'll leave you with this."
+    },
+    {
+      "chunk": "with one's whole heart",
+      "meaning": "全心全意地",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 64,
+      "quote": "This is what I have found: To let ourselves be seen, deeply seen, vulnerably seen ... to love with our whole hearts, even though there's no guarantee -- and that's really hard, and I can tell you as a parent, that's excruciatingly difficult -- to practice gratitude and joy in those moments of terror, when we're wondering, \"Can I love you this much?"
+    },
+    {
+      "chunk": "work from a place that says …",
+      "meaning": "从……的内在立场／心态出发",
+      "register": "演讲口语",
+      "note": "比喻心理出发点，不是物理地点。",
+      "paragraph": 64,
+      "quote": "Because when we work from a place, I believe, that says, \"I'm enough\" ... then we stop screaming and start listening, we're kinder and gentler to the people around us, and we're kinder and gentler to ourselves."
+    },
+    {
+      "chunk": "That's all I have",
+      "meaning": "我想说的就是这些",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 65,
+      "quote": "That's all I have."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "flyer",
+      "pos": "n.",
+      "meaning": "宣传单",
+      "note": "",
+      "paragraph": 1,
+      "quote": "And she called, and she said, \"I'm really struggling with how to write about you on the little flyer.\" And I thought, \"Well, what's the struggle?\" And she said, \"Well, I saw you speak, and I'm going to call you a researcher, I think, but I'm afraid if I call you a researcher, no one will come, because they'll think you're boring and irrelevant.\""
+    },
+    {
+      "word": "irrelevant",
+      "pos": "adj.",
+      "meaning": "无关紧要的／不切题的",
+      "note": "",
+      "paragraph": 1,
+      "quote": "And she called, and she said, \"I'm really struggling with how to write about you on the little flyer.\" And I thought, \"Well, what's the struggle?\" And she said, \"Well, I saw you speak, and I'm going to call you a researcher, I think, but I'm afraid if I call you a researcher, no one will come, because they'll think you're boring and irrelevant.\""
+    },
+    {
+      "word": "planner",
+      "pos": "n.",
+      "meaning": "策划人员",
+      "note": "",
+      "paragraph": 1,
+      "quote": "So, I'll start with this: a couple years ago, an event planner called me because I was going to do a speaking event."
+    },
+    {
+      "word": "struggle",
+      "pos": "n./v.",
+      "meaning": "困难／挣扎",
+      "note": "",
+      "paragraph": 1,
+      "quote": "And she called, and she said, \"I'm really struggling with how to write about you on the little flyer.\" And I thought, \"Well, what's the struggle?\" And she said, \"Well, I saw you speak, and I'm going to call you a researcher, I think, but I'm afraid if I call you a researcher, no one will come, because they'll think you're boring and irrelevant.\""
+    },
+    {
+      "word": "academic",
+      "pos": "adj./n.",
+      "meaning": "学术的；学者这一面",
+      "note": "",
+      "paragraph": 3,
+      "quote": "So I think what I'll do is just call you a storyteller.\" And of course, the academic, insecure part of me was like, \"You're going to call me a what?\" And she said, \"I'm going to call you a storyteller.\" And I was like, \"Why not 'magic pixie'?\""
+    },
+    {
+      "word": "insecure",
+      "pos": "adj.",
+      "meaning": "不自信的／没有安全感的",
+      "note": "",
+      "paragraph": 3,
+      "quote": "So I think what I'll do is just call you a storyteller.\" And of course, the academic, insecure part of me was like, \"You're going to call me a what?\" And she said, \"I'm going to call you a storyteller.\" And I was like, \"Why not 'magic pixie'?\""
+    },
+    {
+      "word": "storyteller",
+      "pos": "n.",
+      "meaning": "讲故事的人",
+      "note": "",
+      "paragraph": 3,
+      "quote": "And I was like, \"Okay.\" And she said, \"But the thing I liked about your talk is you're a storyteller."
+    },
+    {
+      "word": "pixie",
+      "pos": "n.",
+      "meaning": "小精灵",
+      "note": "用于调侃的幻想生物。",
+      "paragraph": 3,
+      "quote": "So I think what I'll do is just call you a storyteller.\" And of course, the academic, insecure part of me was like, \"You're going to call me a what?\" And she said, \"I'm going to call you a storyteller.\" And I was like, \"Why not 'magic pixie'?\""
+    },
+    {
+      "word": "qualitative",
+      "pos": "adj.",
+      "meaning": "定性的",
+      "note": "研究方法用词。",
+      "paragraph": 5,
+      "quote": "I'm a qualitative researcher."
+    },
+    {
+      "word": "soul",
+      "pos": "n.",
+      "meaning": "灵魂／人性的内核",
+      "note": "比喻用法。",
+      "paragraph": 5,
+      "quote": "And maybe stories are just data with a soul."
+    },
+    {
+      "word": "courage",
+      "pos": "n.",
+      "meaning": "勇气",
+      "note": "",
+      "paragraph": 5,
+      "quote": "I was like, \"Let me think about this for a second.\" I tried to call deep on my courage."
+    },
+    {
+      "word": "perception",
+      "pos": "n.",
+      "meaning": "感知／看待事物的方式",
+      "note": "",
+      "paragraph": 7,
+      "quote": "So I'm a researcher-storyteller, and I'm going to talk to you today -- we're talking about expanding perception -- and so I want to talk to you and tell some stories about a piece of my research that fundamentally expanded my perception and really actually changed the way that I live and love and work and parent."
+    },
+    {
+      "word": "fundamentally",
+      "pos": "adv.",
+      "meaning": "根本上地",
+      "note": "",
+      "paragraph": 7,
+      "quote": "So I'm a researcher-storyteller, and I'm going to talk to you today -- we're talking about expanding perception -- and so I want to talk to you and tell some stories about a piece of my research that fundamentally expanded my perception and really actually changed the way that I live and love and work and parent."
+    },
+    {
+      "word": "parent",
+      "pos": "v.",
+      "meaning": "养育／做父母",
+      "note": "此处不是名词父母。",
+      "paragraph": 7,
+      "quote": "So I'm a researcher-storyteller, and I'm going to talk to you today -- we're talking about expanding perception -- and so I want to talk to you and tell some stories about a piece of my research that fundamentally expanded my perception and really actually changed the way that I live and love and work and parent."
+    },
+    {
+      "word": "doctoral",
+      "pos": "adj.",
+      "meaning": "博士阶段的",
+      "note": "",
+      "paragraph": 8,
+      "quote": "When I was a young researcher, doctoral student, my first year, I had a research professor who said to us, \"Here's the thing, if you cannot measure it, it does not exist.\" And I thought he was just sweet-talking me."
+    },
+    {
+      "word": "measure",
+      "pos": "v.",
+      "meaning": "测量／衡量",
+      "note": "",
+      "paragraph": 8,
+      "quote": "When I was a young researcher, doctoral student, my first year, I had a research professor who said to us, \"Here's the thing, if you cannot measure it, it does not exist.\" And I thought he was just sweet-talking me."
+    },
+    {
+      "word": "sweet-talk",
+      "pos": "v.",
+      "meaning": "甜言蜜语地哄说",
+      "note": "",
+      "paragraph": 8,
+      "quote": "When I was a young researcher, doctoral student, my first year, I had a research professor who said to us, \"Here's the thing, if you cannot measure it, it does not exist.\" And I thought he was just sweet-talking me."
+    },
+    {
+      "word": "messy",
+      "pos": "adj.",
+      "meaning": "混乱复杂的",
+      "note": "",
+      "paragraph": 8,
+      "quote": "I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\""
+    },
+    {
+      "word": "bento",
+      "pos": "n.",
+      "meaning": "日式便当",
+      "note": "",
+      "paragraph": 8,
+      "quote": "I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\""
+    },
+    {
+      "word": "bachelor's",
+      "pos": "n.",
+      "meaning": "学士学位",
+      "note": "",
+      "paragraph": 8,
+      "quote": "I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\""
+    },
+    {
+      "word": "master's",
+      "pos": "n.",
+      "meaning": "硕士学位",
+      "note": "",
+      "paragraph": 8,
+      "quote": "I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\""
+    },
+    {
+      "word": "career",
+      "pos": "n.",
+      "meaning": "职业／学术生涯",
+      "note": "",
+      "paragraph": 8,
+      "quote": "I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\""
+    },
+    {
+      "word": "organize",
+      "pos": "v.",
+      "meaning": "整理／组织",
+      "note": "",
+      "paragraph": 8,
+      "quote": "I was like, \"Really?\" and he was like, \"Absolutely.\" And so you have to understand that I have a bachelor's and a master's in social work, and I was getting my Ph.D. in social work, so my entire academic career was surrounded by people who kind of believed in the \"life's messy, love it.\" And I'm more of the, \"life's messy, clean it up, organize it and put it into a bento box.\""
+    },
+    {
+      "word": "discomfort",
+      "pos": "n.",
+      "meaning": "不适／难受",
+      "note": "",
+      "paragraph": 10,
+      "quote": "And so to think that I had found my way, to found a career that takes me -- really, one of the big sayings in social work is, \"Lean into the discomfort of the work.\" And I'm like, knock discomfort upside the head and move it over and get all A's."
+    },
+    {
+      "word": "mantra",
+      "pos": "n.",
+      "meaning": "常挂在嘴边的信条",
+      "note": "借用反复诵念的词义。",
+      "paragraph": 10,
+      "quote": "That was my mantra."
+    },
+    {
+      "word": "hack",
+      "pos": "v.",
+      "meaning": "侵入／深入破解",
+      "note": "此处是比喻研究剖析。",
+      "paragraph": 10,
+      "quote": "I want to hack into these things that I know are important and lay the code out for everyone to see."
+    },
+    {
+      "word": "connection",
+      "pos": "n.",
+      "meaning": "与人的情感联结",
+      "note": "",
+      "paragraph": 11,
+      "quote": "Because, by the time you're a social worker for 10 years, what you realize is that connection is why we're here."
+    },
+    {
+      "word": "abuse",
+      "pos": "n.",
+      "meaning": "虐待",
+      "note": "",
+      "paragraph": 11,
+      "quote": "It doesn't matter whether you talk to people who work in social justice, mental health and abuse and neglect, what we know is that connection, the ability to feel connected, is -- neurobiologically that's how we're wired -- it's why we're here."
+    },
+    {
+      "word": "neglect",
+      "pos": "n.",
+      "meaning": "忽视／疏于照料",
+      "note": "",
+      "paragraph": 11,
+      "quote": "It doesn't matter whether you talk to people who work in social justice, mental health and abuse and neglect, what we know is that connection, the ability to feel connected, is -- neurobiologically that's how we're wired -- it's why we're here."
+    },
+    {
+      "word": "wire",
+      "pos": "v.",
+      "meaning": "使形成某种内在机制",
+      "note": "被动wired指人天生的倾向。",
+      "paragraph": 11,
+      "quote": "It doesn't matter whether you talk to people who work in social justice, mental health and abuse and neglect, what we know is that connection, the ability to feel connected, is -- neurobiologically that's how we're wired -- it's why we're here."
+    },
+    {
+      "word": "purpose",
+      "pos": "n.",
+      "meaning": "人生目标／意义",
+      "note": "",
+      "paragraph": 11,
+      "quote": "It's what gives purpose and meaning to our lives."
+    },
+    {
+      "word": "neurobiologically",
+      "pos": "adv.",
+      "meaning": "从神经生物学上说",
+      "note": "",
+      "paragraph": 11,
+      "quote": "It doesn't matter whether you talk to people who work in social justice, mental health and abuse and neglect, what we know is that connection, the ability to feel connected, is -- neurobiologically that's how we're wired -- it's why we're here."
+    },
+    {
+      "word": "evaluation",
+      "pos": "n.",
+      "meaning": "评估／工作评价",
+      "note": "",
+      "paragraph": 12,
+      "quote": "Well, you know that situation where you get an evaluation from your boss, and she tells you 37 things that you do really awesome, and one \"opportunity for growth?\""
+    },
+    {
+      "word": "heartbreak",
+      "pos": "n.",
+      "meaning": "心碎／极度伤心",
+      "note": "",
+      "paragraph": 14,
+      "quote": "Well, apparently this is the way my work went as well, because, when you ask people about love, they tell you about heartbreak."
+    },
+    {
+      "word": "belonging",
+      "pos": "n.",
+      "meaning": "归属感",
+      "note": "",
+      "paragraph": 14,
+      "quote": "When you ask people about belonging, they'll tell you their most excruciating experiences of being excluded."
+    },
+    {
+      "word": "excruciating",
+      "pos": "adj.",
+      "meaning": "极其痛苦的",
+      "note": "",
+      "paragraph": 14,
+      "quote": "When you ask people about belonging, they'll tell you their most excruciating experiences of being excluded."
+    },
+    {
+      "word": "exclude",
+      "pos": "v.",
+      "meaning": "排斥／将某人排除在外",
+      "note": "",
+      "paragraph": 14,
+      "quote": "When you ask people about belonging, they'll tell you their most excruciating experiences of being excluded."
+    },
+    {
+      "word": "apparently",
+      "pos": "adv.",
+      "meaning": "看来／显然",
+      "note": "",
+      "paragraph": 14,
+      "quote": "Well, apparently this is the way my work went as well, because, when you ask people about love, they tell you about heartbreak."
+    },
+    {
+      "word": "disconnection",
+      "pos": "n.",
+      "meaning": "失去联结／疏离",
+      "note": "",
+      "paragraph": 14,
+      "quote": "And when you ask people about connection, the stories they told me were about disconnection."
+    },
+    {
+      "word": "unravel",
+      "pos": "v.",
+      "meaning": "使瓦解／拆散",
+      "note": "不是字面拆毛线。",
+      "paragraph": 15,
+      "quote": "So very quickly -- really about six weeks into this research -- I ran into this unnamed thing that absolutely unraveled connection in a way that I didn't understand or had never seen."
+    },
+    {
+      "word": "shame",
+      "pos": "n.",
+      "meaning": "羞耻感",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And it turned out to be shame."
+    },
+    {
+      "word": "worthy",
+      "pos": "adj.",
+      "meaning": "值得／配得上",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And shame is really easily understood as the fear of disconnection: Is there something about me that, if other people know it or see it, that I won't be worthy of connection?"
+    },
+    {
+      "word": "universal",
+      "pos": "adj.",
+      "meaning": "普遍存在的",
+      "note": "",
+      "paragraph": 16,
+      "quote": "The things I can tell you about it: It's universal; we all have it."
+    },
+    {
+      "word": "capacity",
+      "pos": "n.",
+      "meaning": "能力",
+      "note": "",
+      "paragraph": 16,
+      "quote": "The only people who don't experience shame have no capacity for human empathy or connection."
+    },
+    {
+      "word": "empathy",
+      "pos": "n.",
+      "meaning": "共情能力",
+      "note": "",
+      "paragraph": 16,
+      "quote": "The only people who don't experience shame have no capacity for human empathy or connection."
+    },
+    {
+      "word": "underpin",
+      "pos": "v.",
+      "meaning": "支撑／构成某事的深层基础",
+      "note": "",
+      "paragraph": 16,
+      "quote": "What underpinned this shame, this \"I'm not good enough,\" -- which, we all know that feeling: \"I'm not blank enough."
+    },
+    {
+      "word": "vulnerability",
+      "pos": "n.",
+      "meaning": "脆弱；暴露自己、可能受伤的状态",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'm not thin enough, rich enough, beautiful enough, smart enough, promoted enough.\" The thing that underpinned this was excruciating vulnerability."
+    },
+    {
+      "word": "promoted",
+      "pos": "adj./过去分词",
+      "meaning": "得到晋升的",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'm not thin enough, rich enough, beautiful enough, smart enough, promoted enough.\" The thing that underpinned this was excruciating vulnerability."
+    },
+    {
+      "word": "measuring stick",
+      "pos": "n.",
+      "meaning": "尺子；衡量标准",
+      "note": "此处带把情绪量化控制的比喻。",
+      "paragraph": 17,
+      "quote": "And so I thought, this is my chance to beat it back with my measuring stick."
+    },
+    {
+      "word": "deconstruct",
+      "pos": "v.",
+      "meaning": "拆解／解构",
+      "note": "",
+      "paragraph": 17,
+      "quote": "I'm going in, I'm going to figure this stuff out, I'm going to spend a year, I'm going to totally deconstruct shame, I'm going to understand how vulnerability works, and I'm going to outsmart it."
+    },
+    {
+      "word": "outsmart",
+      "pos": "v.",
+      "meaning": "智胜／用聪明办法战胜",
+      "note": "",
+      "paragraph": 17,
+      "quote": "I'm going in, I'm going to figure this stuff out, I'm going to spend a year, I'm going to totally deconstruct shame, I'm going to understand how vulnerability works, and I'm going to outsmart it."
+    },
+    {
+      "word": "decade",
+      "pos": "n.",
+      "meaning": "十年",
+      "note": "",
+      "paragraph": 19,
+      "quote": "But here's what I can tell you that it boils down to -- and this may be one of the most important things that I've ever learned in the decade of doing this research."
+    },
+    {
+      "word": "focus group",
+      "pos": "n.",
+      "meaning": "焦点小组访谈",
+      "note": "研究方法名词。",
+      "paragraph": 20,
+      "quote": "My one year turned into six years: Thousands of stories, hundreds of long interviews, focus groups."
+    },
+    {
+      "word": "journal",
+      "pos": "n.",
+      "meaning": "日记",
+      "note": "此处不是期刊。",
+      "paragraph": 20,
+      "quote": "At one point, people were sending me journal pages and sending me their stories -- thousands of pieces of data in six years."
+    },
+    {
+      "word": "roughly",
+      "pos": "adv.",
+      "meaning": "大致地",
+      "note": "",
+      "paragraph": 20,
+      "quote": "I wrote a book, I published a theory, but something was not okay -- and what it was is that, if I roughly took the people I interviewed and divided them into people who really have a sense of worthiness -- that's what this comes down to, a sense of worthiness -- they have a strong sense of love and belonging -- and folks who struggle for it, and folks who are always wondering if they're good enough."
+    },
+    {
+      "word": "worthiness",
+      "pos": "n.",
+      "meaning": "值得被爱／有价值的感觉",
+      "note": "",
+      "paragraph": 20,
+      "quote": "I wrote a book, I published a theory, but something was not okay -- and what it was is that, if I roughly took the people I interviewed and divided them into people who really have a sense of worthiness -- that's what this comes down to, a sense of worthiness -- they have a strong sense of love and belonging -- and folks who struggle for it, and folks who are always wondering if they're good enough."
+    },
+    {
+      "word": "sense",
+      "pos": "n.",
+      "meaning": "感觉／意识",
+      "note": "",
+      "paragraph": 20,
+      "quote": "I wrote a book, I published a theory, but something was not okay -- and what it was is that, if I roughly took the people I interviewed and divided them into people who really have a sense of worthiness -- that's what this comes down to, a sense of worthiness -- they have a strong sense of love and belonging -- and folks who struggle for it, and folks who are always wondering if they're good enough."
+    },
+    {
+      "word": "variable",
+      "pos": "n.",
+      "meaning": "变量／差异因素",
+      "note": "",
+      "paragraph": 21,
+      "quote": "There was only one variable that separated the people who have a strong sense of love and belonging and the people who really struggle for it."
+    },
+    {
+      "word": "professionally",
+      "pos": "adv.",
+      "meaning": "在职业上",
+      "note": "",
+      "paragraph": 21,
+      "quote": "And to me, the hard part of the one thing that keeps us out of connection is our fear that we're not worthy of connection, was something that, personally and professionally, I felt like I needed to understand better."
+    },
+    {
+      "word": "slight",
+      "pos": "adj.",
+      "meaning": "轻微的",
+      "note": "",
+      "paragraph": 22,
+      "quote": "I have a slight office supply addiction, but that's another talk."
+    },
+    {
+      "word": "supply",
+      "pos": "n.",
+      "meaning": "用品",
+      "note": "",
+      "paragraph": 22,
+      "quote": "I have a slight office supply addiction, but that's another talk."
+    },
+    {
+      "word": "addiction",
+      "pos": "n.",
+      "meaning": "成瘾；此处夸张指痴迷",
+      "note": "",
+      "paragraph": 22,
+      "quote": "I have a slight office supply addiction, but that's another talk."
+    },
+    {
+      "word": "manila",
+      "pos": "adj.",
+      "meaning": "马尼拉纸制的",
+      "note": "",
+      "paragraph": 22,
+      "quote": "So I had a manila folder, and I had a Sharpie, and I was like, what am I going to call this research?"
+    },
+    {
+      "word": "whole-hearted",
+      "pos": "adj.",
+      "meaning": "全心投入的／真诚完整地活着的",
+      "note": "讲者用作其研究人群标签，保留原文拼法。",
+      "paragraph": 22,
+      "quote": "And the first words that came to my mind were \"whole-hearted.\" These are whole-hearted people, living from this deep sense of worthiness."
+    },
+    {
+      "word": "intensive",
+      "pos": "adj.",
+      "meaning": "密集的／深入集中的",
+      "note": "",
+      "paragraph": 22,
+      "quote": "In fact, I did it first in a four-day, very intensive data analysis, where I went back, pulled the interviews, the stories, pulled the incidents."
+    },
+    {
+      "word": "incident",
+      "pos": "n.",
+      "meaning": "具体事件",
+      "note": "",
+      "paragraph": 22,
+      "quote": "In fact, I did it first in a four-day, very intensive data analysis, where I went back, pulled the interviews, the stories, pulled the incidents."
+    },
+    {
+      "word": "folder",
+      "pos": "n.",
+      "meaning": "文件夹",
+      "note": "",
+      "paragraph": 22,
+      "quote": "So I had a manila folder, and I had a Sharpie, and I was like, what am I going to call this research?"
+    },
+    {
+      "word": "compassion",
+      "pos": "n.",
+      "meaning": "同情心／关怀",
+      "note": "",
+      "paragraph": 23,
+      "quote": "They had the compassion to be kind to themselves first and then to others, because, as it turns out, we can't practice compassion with other people if we can't treat ourselves kindly."
+    },
+    {
+      "word": "authenticity",
+      "pos": "n.",
+      "meaning": "真实、不伪装的状态",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And the last was they had connection, and -- this was the hard part -- as a result of authenticity, they were willing to let go of who they thought they should be in order to be who they were, which you have to absolutely do that for connection."
+    },
+    {
+      "word": "bravery",
+      "pos": "n.",
+      "meaning": "勇敢",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And I want to separate courage and bravery for you for a minute."
+    },
+    {
+      "word": "imperfect",
+      "pos": "adj.",
+      "meaning": "不完美的",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And so these folks had, very simply, the courage to be imperfect."
+    },
+    {
+      "word": "embrace",
+      "pos": "v.",
+      "meaning": "欣然接纳",
+      "note": "非拥抱身体义。",
+      "paragraph": 24,
+      "quote": "The other thing that they had in common was this: They fully embraced vulnerability."
+    },
+    {
+      "word": "guarantee",
+      "pos": "n.",
+      "meaning": "保证",
+      "note": "",
+      "paragraph": 24,
+      "quote": "They talked about the willingness to say, \"I love you\" first ... the willingness to do something where there are no guarantees ... the willingness to breathe through waiting for the doctor to call after your mammogram."
+    },
+    {
+      "word": "mammogram",
+      "pos": "n.",
+      "meaning": "乳房X线检查",
+      "note": "医疗语境词汇，不构成检查建议。",
+      "paragraph": 24,
+      "quote": "They talked about the willingness to say, \"I love you\" first ... the willingness to do something where there are no guarantees ... the willingness to breathe through waiting for the doctor to call after your mammogram."
+    },
+    {
+      "word": "fundamental",
+      "pos": "adj.",
+      "meaning": "根本的／至关重要的",
+      "note": "",
+      "paragraph": 24,
+      "quote": "They thought this was fundamental."
+    },
+    {
+      "word": "willingness",
+      "pos": "n.",
+      "meaning": "愿意做某事的意愿",
+      "note": "",
+      "paragraph": 24,
+      "quote": "They talked about the willingness to say, \"I love you\" first ... the willingness to do something where there are no guarantees ... the willingness to breathe through waiting for the doctor to call after your mammogram."
+    },
+    {
+      "word": "betrayal",
+      "pos": "n.",
+      "meaning": "背叛",
+      "note": "",
+      "paragraph": 25,
+      "quote": "I personally thought it was betrayal."
+    },
+    {
+      "word": "allegiance",
+      "pos": "n.",
+      "meaning": "效忠／忠诚",
+      "note": "",
+      "paragraph": 25,
+      "quote": "I could not believe I had pledged allegiance to research, where our job -- you know, the definition of research is to control and predict, to study phenomena for the explicit reason to control and predict."
+    },
+    {
+      "word": "phenomenon",
+      "pos": "n.",
+      "meaning": "现象",
+      "note": "原文为复数phenomena。",
+      "paragraph": 25,
+      "quote": "I could not believe I had pledged allegiance to research, where our job -- you know, the definition of research is to control and predict, to study phenomena for the explicit reason to control and predict."
+    },
+    {
+      "word": "explicit",
+      "pos": "adj.",
+      "meaning": "明确的",
+      "note": "",
+      "paragraph": 25,
+      "quote": "I could not believe I had pledged allegiance to research, where our job -- you know, the definition of research is to control and predict, to study phenomena for the explicit reason to control and predict."
+    },
+    {
+      "word": "breakdown",
+      "pos": "n.",
+      "meaning": "精神崩溃",
+      "note": "",
+      "paragraph": 25,
+      "quote": "This led to a little breakdown --"
+    },
+    {
+      "word": "predict",
+      "pos": "v.",
+      "meaning": "预测",
+      "note": "",
+      "paragraph": 25,
+      "quote": "I could not believe I had pledged allegiance to research, where our job -- you know, the definition of research is to control and predict, to study phenomena for the explicit reason to control and predict."
+    },
+    {
+      "word": "mission",
+      "pos": "n.",
+      "meaning": "使命／任务",
+      "note": "",
+      "paragraph": 25,
+      "quote": "And now my mission to control and predict had turned up the answer that the way to live is with vulnerability and to stop controlling and predicting."
+    },
+    {
+      "word": "therapist",
+      "pos": "n.",
+      "meaning": "心理治疗师",
+      "note": "",
+      "paragraph": 30,
+      "quote": "I call it a breakdown; my therapist calls it a spiritual awakening."
+    },
+    {
+      "word": "awakening",
+      "pos": "n.",
+      "meaning": "觉醒",
+      "note": "",
+      "paragraph": 30,
+      "quote": "I call it a breakdown; my therapist calls it a spiritual awakening."
+    },
+    {
+      "word": "spiritual",
+      "pos": "adj.",
+      "meaning": "精神／心灵层面的",
+      "note": "",
+      "paragraph": 30,
+      "quote": "I call it a breakdown; my therapist calls it a spiritual awakening."
+    },
+    {
+      "word": "B.S.",
+      "pos": "n.",
+      "meaning": "胡扯／废话",
+      "note": "bullshit的缩写；粗俗说法的委婉缩写。",
+      "paragraph": 36,
+      "quote": "I'm okay.\" She said, \"What's going on?\" And this is a therapist who sees therapists, because we have to go to those, because their B.S. meters are good."
+    },
+    {
+      "word": "birthplace",
+      "pos": "n.",
+      "meaning": "发源地／根源",
+      "note": "此处比喻喜悦等产生的地方。",
+      "paragraph": 38,
+      "quote": "And I know that vulnerability is the core of shame and fear and our struggle for worthiness, but it appears that it's also the birthplace of joy, of creativity, of belonging, of love."
+    },
+    {
+      "word": "shit",
+      "pos": "n.",
+      "meaning": "破事／烦人的东西",
+      "note": "粗俗；此处指童年相关问题。",
+      "paragraph": 38,
+      "quote": "And I think I have a problem, and I need some help.\" And I said, \"But here's the thing: no family stuff, no childhood shit.\""
+    },
+    {
+      "word": "strategy",
+      "pos": "n.",
+      "meaning": "应对策略",
+      "note": "",
+      "paragraph": 40,
+      "quote": "\"I just need some strategies.\""
+    },
+    {
+      "word": "tenderness",
+      "pos": "n.",
+      "meaning": "温柔／柔软的情感",
+      "note": "",
+      "paragraph": 49,
+      "quote": "And you know how there are people that, when they realize that vulnerability and tenderness are important, that they surrender and walk into it."
+    },
+    {
+      "word": "surrender",
+      "pos": "v.",
+      "meaning": "放下抵抗／顺服",
+      "note": "",
+      "paragraph": 49,
+      "quote": "And you know how there are people that, when they realize that vulnerability and tenderness are important, that they surrender and walk into it."
+    },
+    {
+      "word": "slugfest",
+      "pos": "n.",
+      "meaning": "激烈的殴斗；艰苦拉锯",
+      "note": "口语比喻。",
+      "paragraph": 51,
+      "quote": "It was a slugfest."
+    },
+    {
+      "word": "yearlong",
+      "pos": "adj.",
+      "meaning": "持续一年的",
+      "note": "",
+      "paragraph": 51,
+      "quote": "For me, it was a yearlong street fight."
+    },
+    {
+      "word": "numb",
+      "pos": "v.",
+      "meaning": "使麻木／麻痹感受",
+      "note": "",
+      "paragraph": 53,
+      "quote": "We numb vulnerability -- when we're waiting for the call."
+    },
+    {
+      "word": "initiate",
+      "pos": "v.",
+      "meaning": "发起／主动开始",
+      "note": "",
+      "paragraph": 53,
+      "quote": "Having to ask my husband for help because I'm sick, and we're newly married; initiating sex with my husband; initiating sex with my wife; being turned down; asking someone out; waiting for the doctor to call back; getting laid off; laying off people."
+    },
+    {
+      "word": "newly",
+      "pos": "adv.",
+      "meaning": "新近地",
+      "note": "",
+      "paragraph": 53,
+      "quote": "Having to ask my husband for help because I'm sick, and we're newly married; initiating sex with my husband; initiating sex with my wife; being turned down; asking someone out; waiting for the doctor to call back; getting laid off; laying off people."
+    },
+    {
+      "word": "cohort",
+      "pos": "n.",
+      "meaning": "同一时期或特征的人群",
+      "note": "研究及统计语域。",
+      "paragraph": 54,
+      "quote": "And I think there's evidence -- and it's not the only reason this evidence exists, but I think it's a huge cause -- We are the most in-debt ... obese ... addicted and medicated adult cohort in U.S. history."
+    },
+    {
+      "word": "medicated",
+      "pos": "adj.",
+      "meaning": "服药的／用药物治疗的",
+      "note": "",
+      "paragraph": 54,
+      "quote": "And I think there's evidence -- and it's not the only reason this evidence exists, but I think it's a huge cause -- We are the most in-debt ... obese ... addicted and medicated adult cohort in U.S. history."
+    },
+    {
+      "word": "obese",
+      "pos": "adj.",
+      "meaning": "肥胖的",
+      "note": "",
+      "paragraph": 54,
+      "quote": "And I think there's evidence -- and it's not the only reason this evidence exists, but I think it's a huge cause -- We are the most in-debt ... obese ... addicted and medicated adult cohort in U.S. history."
+    },
+    {
+      "word": "selectively",
+      "pos": "adv.",
+      "meaning": "有选择地",
+      "note": "",
+      "paragraph": 54,
+      "quote": "The problem is -- and I learned this from the research -- that you cannot selectively numb emotion."
+    },
+    {
+      "word": "grief",
+      "pos": "n.",
+      "meaning": "悲痛",
+      "note": "",
+      "paragraph": 54,
+      "quote": "Here's vulnerability, here's grief, here's shame, here's fear, here's disappointment."
+    },
+    {
+      "word": "muffin",
+      "pos": "n.",
+      "meaning": "松饼",
+      "note": "",
+      "paragraph": 54,
+      "quote": "I'm going to have a couple of beers and a banana nut muffin."
+    },
+    {
+      "word": "in-debt",
+      "pos": "adj.",
+      "meaning": "负债的",
+      "note": "原文连字符形式保留；常规短语in debt。",
+      "paragraph": 54,
+      "quote": "And I think there's evidence -- and it's not the only reason this evidence exists, but I think it's a huge cause -- We are the most in-debt ... obese ... addicted and medicated adult cohort in U.S. history."
+    },
+    {
+      "word": "addicted",
+      "pos": "adj.",
+      "meaning": "成瘾的",
+      "note": "",
+      "paragraph": 54,
+      "quote": "And I think there's evidence -- and it's not the only reason this evidence exists, but I think it's a huge cause -- We are the most in-debt ... obese ... addicted and medicated adult cohort in U.S. history."
+    },
+    {
+      "word": "disappointment",
+      "pos": "n.",
+      "meaning": "失望",
+      "note": "",
+      "paragraph": 54,
+      "quote": "Here's vulnerability, here's grief, here's shame, here's fear, here's disappointment."
+    },
+    {
+      "word": "knowing",
+      "pos": "adj.",
+      "meaning": "会意的／心领神会的",
+      "note": "",
+      "paragraph": 56,
+      "quote": "And I know that's knowing laughter."
+    },
+    {
+      "word": "affect",
+      "pos": "n.",
+      "meaning": "情感／情绪反应",
+      "note": "原文affects为心理学名词，不是动词影响。",
+      "paragraph": 58,
+      "quote": "You can't numb those hard feelings without numbing the other affects, our emotions."
+    },
+    {
+      "word": "gratitude",
+      "pos": "n.",
+      "meaning": "感激之情",
+      "note": "",
+      "paragraph": 58,
+      "quote": "So when we numb those, we numb joy, we numb gratitude, we numb happiness."
+    },
+    {
+      "word": "miserable",
+      "pos": "adj.",
+      "meaning": "痛苦的／很不好受的",
+      "note": "",
+      "paragraph": 58,
+      "quote": "And then, we are miserable, and we are looking for purpose and meaning, and then we feel vulnerable, so then we have a couple of beers and a banana nut muffin."
+    },
+    {
+      "word": "cycle",
+      "pos": "n.",
+      "meaning": "循环",
+      "note": "",
+      "paragraph": 58,
+      "quote": "And it becomes this dangerous cycle."
+    },
+    {
+      "word": "certainty",
+      "pos": "n.",
+      "meaning": "确定性／确信",
+      "note": "",
+      "paragraph": 59,
+      "quote": "Religion has gone from a belief in faith and mystery to certainty."
+    },
+    {
+      "word": "faith",
+      "pos": "n.",
+      "meaning": "信仰／信念",
+      "note": "",
+      "paragraph": 59,
+      "quote": "Religion has gone from a belief in faith and mystery to certainty."
+    },
+    {
+      "word": "mystery",
+      "pos": "n.",
+      "meaning": "不可知的奥秘",
+      "note": "",
+      "paragraph": 59,
+      "quote": "Religion has gone from a belief in faith and mystery to certainty."
+    },
+    {
+      "word": "discourse",
+      "pos": "n.",
+      "meaning": "讨论／理性公共对话",
+      "note": "",
+      "paragraph": 59,
+      "quote": "There's no discourse anymore."
+    },
+    {
+      "word": "blame",
+      "pos": "n.",
+      "meaning": "责备／归咎",
+      "note": "",
+      "paragraph": 59,
+      "quote": "There's just blame."
+    },
+    {
+      "word": "discharge",
+      "pos": "v.",
+      "meaning": "释放／发泄",
+      "note": "",
+      "paragraph": 59,
+      "quote": "A way to discharge pain and discomfort."
+    },
+    {
+      "word": "perfect",
+      "pos": "v.",
+      "meaning": "使完美／一味完善",
+      "note": "此处动词，不是形容词。",
+      "paragraph": 59,
+      "quote": "We perfect."
+    },
+    {
+      "word": "butt",
+      "pos": "n.",
+      "meaning": "屁股",
+      "note": "随意口语。",
+      "paragraph": 59,
+      "quote": "Because what we do is we take fat from our butts and put it in our cheeks."
+    },
+    {
+      "word": "cheek",
+      "pos": "n.",
+      "meaning": "脸颊",
+      "note": "",
+      "paragraph": 59,
+      "quote": "Because what we do is we take fat from our butts and put it in our cheeks."
+    },
+    {
+      "word": "hardwired",
+      "pos": "adj.",
+      "meaning": "与生俱来地设定好的",
+      "note": "",
+      "paragraph": 63,
+      "quote": "They're hardwired for struggle when they get here."
+    },
+    {
+      "word": "bailout",
+      "pos": "n.",
+      "meaning": "紧急援助／纾困",
+      "note": "企业语境。",
+      "paragraph": 63,
+      "quote": "We do that corporate -- whether it's a bailout, an oil spill ... a recall."
+    },
+    {
+      "word": "spill",
+      "pos": "n.",
+      "meaning": "泄漏",
+      "note": "",
+      "paragraph": 63,
+      "quote": "We do that corporate -- whether it's a bailout, an oil spill ... a recall."
+    },
+    {
+      "word": "recall",
+      "pos": "n.",
+      "meaning": "产品召回",
+      "note": "企业语境，非记忆义。",
+      "paragraph": 63,
+      "quote": "We do that corporate -- whether it's a bailout, an oil spill ... a recall."
+    },
+    {
+      "word": "authentic",
+      "pos": "adj.",
+      "meaning": "真实真诚的",
+      "note": "",
+      "paragraph": 63,
+      "quote": "We just need you to be authentic and real and say ..."
+    },
+    {
+      "word": "corporate",
+      "pos": "adj./原文修饰语",
+      "meaning": "企业层面的",
+      "note": "原文此处副词用法不标准，词义可留，整句不作模板。",
+      "paragraph": 63,
+      "quote": "We do that corporate -- whether it's a bailout, an oil spill ... a recall."
+    },
+    {
+      "word": "rodeo",
+      "pos": "n.",
+      "meaning": "牛仔竞技表演",
+      "note": "在not our first rodeo中比喻有类似经验。",
+      "paragraph": 63,
+      "quote": "I would say to companies, this is not our first rodeo, people."
+    },
+    {
+      "word": "terror",
+      "pos": "n.",
+      "meaning": "强烈恐惧",
+      "note": "",
+      "paragraph": 64,
+      "quote": "This is what I have found: To let ourselves be seen, deeply seen, vulnerably seen ... to love with our whole hearts, even though there's no guarantee -- and that's really hard, and I can tell you as a parent, that's excruciatingly difficult -- to practice gratitude and joy in those moments of terror, when we're wondering, \"Can I love you this much?"
+    },
+    {
+      "word": "passionately",
+      "pos": "adv.",
+      "meaning": "热切地／强烈地",
+      "note": "",
+      "paragraph": 64,
+      "quote": "Can I believe in this this passionately?"
+    },
+    {
+      "word": "fierce",
+      "pos": "adj.",
+      "meaning": "强烈而坚定的",
+      "note": "",
+      "paragraph": 64,
+      "quote": "Can I be this fierce about this?\" just to be able to stop and, instead of catastrophizing what might happen, to say, \"I'm just so grateful, because to feel this vulnerable means I'm alive.\" And the last, which I think is probably the most important, is to believe that we're enough."
+    },
+    {
+      "word": "catastrophize",
+      "pos": "v.",
+      "meaning": "把可能结果想得灾难性严重",
+      "note": "描述讲者原文语言，不提供心理治疗建议。",
+      "paragraph": 64,
+      "quote": "Can I be this fierce about this?\" just to be able to stop and, instead of catastrophizing what might happen, to say, \"I'm just so grateful, because to feel this vulnerable means I'm alive.\" And the last, which I think is probably the most important, is to believe that we're enough."
+    },
+    {
+      "word": "gentle",
+      "pos": "adj.",
+      "meaning": "温和的",
+      "note": "",
+      "paragraph": 64,
+      "quote": "Because when we work from a place, I believe, that says, \"I'm enough\" ... then we stop screaming and start listening, we're kinder and gentler to the people around us, and we're kinder and gentler to ourselves."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "scope": "same_talk",
+      "reason": "同形同义重复用例保留首次或语境最完整的一例，不重复新增。",
+      "examples": [
+        "vulnerability",
+        "shame",
+        "worthy of",
+        "have in common",
+        "numb",
+        "Here's the thing"
+      ]
+    }
+  ],
+  "pending": [
+    {
+      "paragraph": 5,
+      "text": "call deep on my courage",
+      "reason": "措辞疑似口语临时表达，未作标准chunk。"
+    },
+    {
+      "paragraph": 10,
+      "text": "to found a career",
+      "reason": "原文口语语法疑点，不修正文句、不收为模板。"
+    }
+  ],
+  "validation": {
+    "quote_exact_substrings": true,
+    "source_sha256_matches": true,
+    "paragraph_indices_valid": true,
+    "within_talk_labels_unique": true,
+    "timecodes": "not provided; none invented"
+  }
+}

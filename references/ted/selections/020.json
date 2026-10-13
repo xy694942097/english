@@ -1,0 +1,1170 @@
+{
+  "source": {
+    "path": "materials/corpus/ted/english/020-angela_lee_duckworth_grit_the_power_of_passion_and_perseverance.txt",
+    "sha256": "0f9da7b4cec2bef831701ddfd14c2adaf0de91727c6f3d07a60bb4849ea4b97f",
+    "title": "Grit: The power of passion and perseverance",
+    "title_zh": "坚毅：热情与坚持的力量",
+    "speaker": "Angela Lee Duckworth",
+    "year": 2013,
+    "official_url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+    "caption_source": "https://www.ted.com/talks/subtitles/id/1733/lang/en",
+    "ted_id": "1733",
+    "duration": "5:59",
+    "language": "English"
+  },
+  "paragraphs_read": 14,
+  "read_ranges": [
+    [
+      1,
+      14
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        14
+      ]
+    ],
+    "checks": [
+      "外层表达动作与骨架",
+      "内部搭配和短语动词",
+      "短回应与口语小句",
+      "普通实词与熟词新义",
+      "未选段落与长空白区回看"
+    ],
+    "note": "两遍通读含笑声与掌声段；仅明显功能词与专名不单列；词义候选不等于用户不认识或已掌握。 第二遍新增项目保留在对应轨道；同形新义／新词性另列。讲者心理学与社会观点仅作原文语言语境，不代表全部经过科学独立核实。",
+    "added_chunks": 7,
+    "added_vocabulary": 18
+  },
+  "chunks": [
+    {
+      "paragraph": 1,
+      "quote": "When I was 27 years old, I left a very demanding job in management consulting for a job that was even more demanding: teaching.",
+      "meaning": "离开A转去B",
+      "note": "",
+      "chunk": "leave A for B",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 1,
+      "quote": "When I was 27 years old, I left a very demanding job in management consulting for a job that was even more demanding: teaching.",
+      "meaning": "管理咨询",
+      "note": "",
+      "chunk": "management consulting",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 1,
+      "quote": "I gave out homework assignments.",
+      "meaning": "分发某物",
+      "note": "",
+      "chunk": "give out sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 1,
+      "quote": "I went to teach seventh graders math in the New York City public schools.",
+      "meaning": "公立学校",
+      "note": "美国语境；英国public school可能指私立学校。",
+      "chunk": "public schools",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 2,
+      "quote": "What struck me was that IQ was not the only difference between my best and my worst students.",
+      "meaning": "让我印象深刻／惊讶的是……",
+      "note": "",
+      "chunk": "What struck me was that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 2,
+      "quote": "And that got me thinking.",
+      "meaning": "让某人开始思考",
+      "note": "",
+      "chunk": "get sb. thinking",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 2,
+      "quote": "But these concepts are not impossible, and I was firmly convinced that every one of my students could learn the material if they worked hard and long enough.",
+      "meaning": "坚信……",
+      "note": "",
+      "chunk": "be firmly convinced that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 3,
+      "quote": "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students and learning from a motivational perspective, from a psychological perspective.",
+      "meaning": "得出……结论",
+      "note": "",
+      "chunk": "come to the conclusion that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 3,
+      "quote": "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students and learning from a motivational perspective, from a psychological perspective.",
+      "meaning": "从某种角度来看",
+      "note": "",
+      "chunk": "from a ... perspective",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 3,
+      "quote": "But what if doing well in school and in life depends on much more than your ability to learn quickly and easily?",
+      "meaning": "如果……会怎样？／有没有可能……？",
+      "note": "此处挑战现有假设。",
+      "chunk": "What if ...?",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 3,
+      "quote": "But what if doing well in school and in life depends on much more than your ability to learn quickly and easily?",
+      "meaning": "取决于远不止……",
+      "note": "",
+      "chunk": "depend on much more than ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 3,
+      "quote": "But what if doing well in school and in life depends on much more than your ability to learn quickly and easily?",
+      "meaning": "在某方面表现良好",
+      "note": "",
+      "chunk": "do well in sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "I started studying kids and adults in all kinds of super challenging settings, and in every study my question was, who is successful here and why?",
+      "meaning": "在各种……环境中",
+      "note": "",
+      "chunk": "in all kinds of ... settings",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "We tried to predict which cadets would stay in military training and which would drop out.",
+      "meaning": "中途退出／辍学",
+      "note": "",
+      "chunk": "drop out",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students?",
+      "meaning": "到……结束时",
+      "note": "",
+      "chunk": "by the end of ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students?",
+      "meaning": "在做某事方面有效",
+      "note": "",
+      "chunk": "be effective at doing sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students?",
+      "meaning": "学习成效",
+      "note": "",
+      "chunk": "learning outcomes",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "We partnered with private companies, asking, which of these salespeople is going to keep their jobs?",
+      "meaning": "与某人合作",
+      "note": "",
+      "chunk": "partner with sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "In all those very different contexts, one characteristic emerged as a significant predictor of success.",
+      "meaning": "显现为／成为……",
+      "note": "",
+      "chunk": "emerge as sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "It wasn't good looks, physical health, and it wasn't IQ.",
+      "meaning": "好看的外貌",
+      "note": "",
+      "chunk": "good looks",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "So I left the classroom, and I went to graduate school to become a psychologist.",
+      "meaning": "研究生院／研究生教育阶段",
+      "note": "",
+      "chunk": "graduate school",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "We partnered with private companies, asking, which of these salespeople is going to keep their jobs?",
+      "meaning": "保住工作",
+      "note": "",
+      "chunk": "keep one's job",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "And who's going to earn the most money?",
+      "meaning": "挣钱",
+      "note": "",
+      "chunk": "earn money",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality.",
+      "meaning": "坚持，不放弃",
+      "note": "",
+      "chunk": "stick with sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality.",
+      "meaning": "日复一日",
+      "note": "",
+      "chunk": "day in, day out",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality.",
+      "meaning": "使某事成为现实",
+      "note": "",
+      "chunk": "make sth. a reality",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is living life like it's a marathon, not a sprint.",
+      "meaning": "是长跑而非短跑；强调持久投入",
+      "note": "比喻性对照，可用于长期工作。",
+      "chunk": "a marathon, not a sprint",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "I asked thousands of high school juniors to take grit questionnaires, and then waited around more than a year to see who would graduate.",
+      "meaning": "一直等着，等待结果",
+      "note": "",
+      "chunk": "wait around",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school.",
+      "meaning": "结果发现……",
+      "note": "口语省略It。",
+      "chunk": "Turns out that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school.",
+      "meaning": "按某种特征把A与B配对比较",
+      "note": "研究比较语境。",
+      "chunk": "match A and B on sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "So it's not just at West Point or the National Spelling Bee that grit matters.",
+      "meaning": "不仅在……如此，在……也如此",
+      "note": "",
+      "chunk": "It's not just ... that ...; it's also ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "It's also in school, especially for kids at risk for dropping out.",
+      "meaning": "有可能遭遇……的风险",
+      "note": "",
+      "chunk": "be at risk for doing sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "What do I do to teach kids a solid work ethic?",
+      "meaning": "踏实的工作态度／勤勉习惯",
+      "note": "",
+      "chunk": "a solid work ethic",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "How do I keep them motivated for the long run?\"",
+      "meaning": "使某人保持动力",
+      "note": "",
+      "chunk": "keep sb. motivated",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "How do I keep them motivated for the long run?\"",
+      "meaning": "从长期来看／保持长久",
+      "note": "",
+      "chunk": "for the long run",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "The honest answer is, I don't know.",
+      "meaning": "坦诚的答案是……",
+      "note": "",
+      "chunk": "The honest answer is ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "To me, the most shocking thing about grit is how little we know, how little science knows, about building it.",
+      "meaning": "我们对……所知是多么少",
+      "note": "",
+      "chunk": "How little we know about ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 9,
+      "quote": "What I do know is that talent doesn't make you gritty.",
+      "meaning": "我确实知道的是……",
+      "note": "do强调确认知道的部分。",
+      "chunk": "What I do know is that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 9,
+      "quote": "Our data show very clearly that there are many talented individuals who simply do not follow through on their commitments.",
+      "meaning": "把承诺落实到底",
+      "note": "",
+      "chunk": "follow through on one's commitments",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 9,
+      "quote": "In fact, in our data, grit is usually unrelated or even inversely related to measures of talent.",
+      "meaning": "与某事呈反向关系",
+      "note": "",
+      "chunk": "be inversely related to sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "So far, the best idea I've heard about building grit in kids is something called \"growth mindset.\"",
+      "meaning": "到目前为止",
+      "note": "",
+      "chunk": "so far",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "So far, the best idea I've heard about building grit in kids is something called \"growth mindset.\"",
+      "meaning": "成长型思维；认为能力可发展",
+      "note": "心理学术语，属于讲者引用的理论。",
+      "chunk": "growth mindset",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.",
+      "meaning": "作为对某事的回应",
+      "note": "",
+      "chunk": "in response to sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "And that's where I'm going to end my remarks, because that's where we are.",
+      "meaning": "这就是我们当前所处的阶段",
+      "note": "",
+      "chunk": "that's where we are",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "That's the work that stands before us.",
+      "meaning": "摆在某人面前／等待某人去做",
+      "note": "正式或演讲表达。",
+      "chunk": "stand before sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "We need to measure whether we've been successful, and we have to be willing to fail, to be wrong, to start over again with lessons learned.",
+      "meaning": "愿意做某事",
+      "note": "",
+      "chunk": "be willing to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "We need to measure whether we've been successful, and we have to be willing to fail, to be wrong, to start over again with lessons learned.",
+      "meaning": "从头再来",
+      "note": "",
+      "chunk": "start over (again)",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "We need to measure whether we've been successful, and we have to be willing to fail, to be wrong, to start over again with lessons learned.",
+      "meaning": "带着从经历中得到的教训",
+      "note": "",
+      "chunk": "with lessons learned",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "But we need more.",
+      "meaning": "但我们还需要更多；指出目前还不够",
+      "note": "",
+      "chunk": "But we need more.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "In other words, we need to be gritty about getting our kids grittier.",
+      "meaning": "换句话说",
+      "note": "",
+      "chunk": "In other words",
+      "register": "演讲；可迁移到日常交流或讨论"
+    }
+  ],
+  "vocabulary": [
+    {
+      "paragraph": 1,
+      "quote": "When I was 27 years old, I left a very demanding job in management consulting for a job that was even more demanding: teaching.",
+      "meaning": "要求高、费精力的",
+      "note": "",
+      "word": "demanding",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 1,
+      "quote": "When I was 27 years old, I left a very demanding job in management consulting for a job that was even more demanding: teaching.",
+      "meaning": "咨询业务",
+      "note": "",
+      "word": "consulting",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "I went to teach seventh graders math in the New York City public schools.",
+      "meaning": "某年级的学生",
+      "note": "",
+      "word": "grader",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "And like any teacher, I made quizzes and tests.",
+      "meaning": "小测验",
+      "note": "",
+      "word": "quiz",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "I gave out homework assignments.",
+      "meaning": "布置的任务／作业",
+      "note": "",
+      "word": "assignment",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "When the work came back, I calculated grades.",
+      "meaning": "计算",
+      "note": "",
+      "word": "calculate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 1,
+      "quote": "When the work came back, I calculated grades.",
+      "meaning": "成绩／评分",
+      "note": "此处不是年级义。",
+      "word": "grade",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "I went to teach seventh graders math in the New York City public schools.",
+      "meaning": "公立的",
+      "note": "",
+      "word": "public",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 2,
+      "quote": "What struck me was that IQ was not the only difference between my best and my worst students.",
+      "meaning": "使突然想到／引起强烈印象",
+      "note": "",
+      "word": "strike",
+      "pos": "v."
+    },
+    {
+      "paragraph": 2,
+      "quote": "Some of my strongest performers did not have stratospheric IQ scores.",
+      "meaning": "表现出某种水平的人",
+      "note": "不是舞台演员义。",
+      "word": "performer",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "Some of my strongest performers did not have stratospheric IQ scores.",
+      "meaning": "极高的",
+      "note": "字面平流层的，比喻数量极高。",
+      "word": "stratospheric",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 2,
+      "quote": "The kinds of things you need to learn in seventh grade math, sure, they're hard: ratios, decimals, the area of a parallelogram.",
+      "meaning": "比，比率",
+      "note": "",
+      "word": "ratio",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "The kinds of things you need to learn in seventh grade math, sure, they're hard: ratios, decimals, the area of a parallelogram.",
+      "meaning": "小数",
+      "note": "",
+      "word": "decimal",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "The kinds of things you need to learn in seventh grade math, sure, they're hard: ratios, decimals, the area of a parallelogram.",
+      "meaning": "面积",
+      "note": "",
+      "word": "area",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "The kinds of things you need to learn in seventh grade math, sure, they're hard: ratios, decimals, the area of a parallelogram.",
+      "meaning": "平行四边形",
+      "note": "",
+      "word": "parallelogram",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "But these concepts are not impossible, and I was firmly convinced that every one of my students could learn the material if they worked hard and long enough.",
+      "meaning": "概念",
+      "note": "",
+      "word": "concept",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "But these concepts are not impossible, and I was firmly convinced that every one of my students could learn the material if they worked hard and long enough.",
+      "meaning": "坚定地",
+      "note": "",
+      "word": "firmly",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 2,
+      "quote": "But these concepts are not impossible, and I was firmly convinced that every one of my students could learn the material if they worked hard and long enough.",
+      "meaning": "确信的",
+      "note": "",
+      "word": "convinced",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 2,
+      "quote": "But these concepts are not impossible, and I was firmly convinced that every one of my students could learn the material if they worked hard and long enough.",
+      "meaning": "学习内容／教材中的知识",
+      "note": "不可数，并非物质材料义。",
+      "word": "material",
+      "pos": "n."
+    },
+    {
+      "paragraph": 3,
+      "quote": "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students and learning from a motivational perspective, from a psychological perspective.",
+      "meaning": "与动机／学习动力有关的",
+      "note": "",
+      "word": "motivational",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 3,
+      "quote": "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students and learning from a motivational perspective, from a psychological perspective.",
+      "meaning": "心理学的／心理方面的",
+      "note": "",
+      "word": "psychological",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 3,
+      "quote": "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students and learning from a motivational perspective, from a psychological perspective.",
+      "meaning": "视角，看问题的角度",
+      "note": "",
+      "word": "perspective",
+      "pos": "n."
+    },
+    {
+      "paragraph": 3,
+      "quote": "In education, the one thing we know how to measure best is IQ.",
+      "meaning": "测量，衡量",
+      "note": "",
+      "word": "measure",
+      "pos": "v."
+    },
+    {
+      "paragraph": 4,
+      "quote": "So I left the classroom, and I went to graduate school to become a psychologist.",
+      "meaning": "心理学家",
+      "note": "",
+      "word": "psychologist",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "I started studying kids and adults in all kinds of super challenging settings, and in every study my question was, who is successful here and why?",
+      "meaning": "充满挑战、难度高的",
+      "note": "",
+      "word": "challenging",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "I started studying kids and adults in all kinds of super challenging settings, and in every study my question was, who is successful here and why?",
+      "meaning": "环境，场景",
+      "note": "不是设备设置义。",
+      "word": "setting",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We tried to predict which cadets would stay in military training and which would drop out.",
+      "meaning": "军校学员",
+      "note": "",
+      "word": "cadet",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We went to the National Spelling Bee and tried to predict which children would advance farthest in competition.",
+      "meaning": "在竞争中晋级／前进",
+      "note": "",
+      "word": "advance",
+      "pos": "v."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students?",
+      "meaning": "新入行的；新手",
+      "note": "口语，此处作修饰语。",
+      "word": "rookie",
+      "pos": "adj./n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students?",
+      "meaning": "艰难的／条件恶劣的",
+      "note": "",
+      "word": "tough",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students?",
+      "meaning": "有效的，能取得成效的",
+      "note": "",
+      "word": "effective",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students?",
+      "meaning": "结果，成效",
+      "note": "",
+      "word": "outcome",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We partnered with private companies, asking, which of these salespeople is going to keep their jobs?",
+      "meaning": "与他人合作",
+      "note": "",
+      "word": "partner",
+      "pos": "v."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We partnered with private companies, asking, which of these salespeople is going to keep their jobs?",
+      "meaning": "销售人员",
+      "note": "",
+      "word": "salesperson",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "In all those very different contexts, one characteristic emerged as a significant predictor of success.",
+      "meaning": "具体背景／情境",
+      "note": "",
+      "word": "context",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "In all those very different contexts, one characteristic emerged as a significant predictor of success.",
+      "meaning": "特征",
+      "note": "",
+      "word": "characteristic",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "In all those very different contexts, one characteristic emerged as a significant predictor of success.",
+      "meaning": "显现，被识别出来",
+      "note": "",
+      "word": "emerge",
+      "pos": "v."
+    },
+    {
+      "paragraph": 4,
+      "quote": "In all those very different contexts, one characteristic emerged as a significant predictor of success.",
+      "meaning": "显著的；有实质作用的",
+      "note": "这里为研究陈述，不单凭措辞确认统计证据。",
+      "word": "significant",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "In all those very different contexts, one characteristic emerged as a significant predictor of success.",
+      "meaning": "用于预测的因素／指标",
+      "note": "",
+      "word": "predictor",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "It was grit.",
+      "meaning": "坚毅；为长期目标持续投入的韧性",
+      "note": "本演讲的核心定义见第5段，不等于砂砾义。",
+      "word": "grit",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We tried to predict which cadets would stay in military training and which would drop out.",
+      "meaning": "预测",
+      "note": "",
+      "word": "predict",
+      "pos": "v."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We tried to predict which cadets would stay in military training and which would drop out.",
+      "meaning": "军事的",
+      "note": "",
+      "word": "military",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We went to the National Spelling Bee and tried to predict which children would advance farthest in competition.",
+      "meaning": "竞赛／竞争",
+      "note": "",
+      "word": "competition",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We studied rookie teachers working in really tough neighborhoods, asking which teachers are still going to be here in teaching by the end of the school year, and of those, who will be the most effective at improving learning outcomes for their students?",
+      "meaning": "社区／街区",
+      "note": "",
+      "word": "neighborhood",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "We partnered with private companies, asking, which of these salespeople is going to keep their jobs?",
+      "meaning": "私营的",
+      "note": "",
+      "word": "private",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "And it wasn't social intelligence.",
+      "meaning": "智力；理解处理信息的能力",
+      "note": "",
+      "word": "intelligence",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "It wasn't good looks, physical health, and it wasn't IQ.",
+      "meaning": "身体的",
+      "note": "",
+      "word": "physical",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is passion and perseverance for very long-term goals.",
+      "meaning": "热情，强烈兴趣",
+      "note": "",
+      "word": "passion",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is passion and perseverance for very long-term goals.",
+      "meaning": "坚持不懈",
+      "note": "",
+      "word": "perseverance",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is having stamina.",
+      "meaning": "耐力；持续投入的精力",
+      "note": "",
+      "word": "stamina",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality.",
+      "meaning": "现实",
+      "note": "",
+      "word": "reality",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is living life like it's a marathon, not a sprint.",
+      "meaning": "马拉松长跑",
+      "note": "",
+      "word": "marathon",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is living life like it's a marathon, not a sprint.",
+      "meaning": "短距离冲刺",
+      "note": "",
+      "word": "sprint",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is passion and perseverance for very long-term goals.",
+      "meaning": "长期的",
+      "note": "",
+      "word": "long-term",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Grit is passion and perseverance for very long-term goals.",
+      "meaning": "目标",
+      "note": "",
+      "word": "goal",
+      "pos": "n."
+    },
+    {
+      "paragraph": 6,
+      "quote": "I asked thousands of high school juniors to take grit questionnaires, and then waited around more than a year to see who would graduate.",
+      "meaning": "高中三年级学生",
+      "note": "美国学制倒数第二年，不是低年级泛称。",
+      "word": "junior",
+      "pos": "n."
+    },
+    {
+      "paragraph": 6,
+      "quote": "I asked thousands of high school juniors to take grit questionnaires, and then waited around more than a year to see who would graduate.",
+      "meaning": "问卷",
+      "note": "",
+      "word": "questionnaire",
+      "pos": "n."
+    },
+    {
+      "paragraph": 6,
+      "quote": "Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school.",
+      "meaning": "有坚毅品质的",
+      "note": "此处不是粗粝质感义。",
+      "word": "gritty",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 6,
+      "quote": "Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school.",
+      "meaning": "显著地，明显地",
+      "note": "",
+      "word": "significantly",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 6,
+      "quote": "Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school.",
+      "meaning": "按某特征配对比较",
+      "note": "研究语境，不是比赛或相似义。",
+      "word": "match",
+      "pos": "v."
+    },
+    {
+      "paragraph": 6,
+      "quote": "Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school.",
+      "meaning": "收入",
+      "note": "",
+      "word": "income",
+      "pos": "n."
+    },
+    {
+      "paragraph": 6,
+      "quote": "Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school.",
+      "meaning": "采用统一标准的",
+      "note": "",
+      "word": "standardized",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 6,
+      "quote": "Turns out that grittier kids were significantly more likely to graduate, even when I matched them on every characteristic I could measure, things like family income, standardized achievement test scores, even how safe kids felt when they were at school.",
+      "meaning": "已获得的成绩／学业水平",
+      "note": "",
+      "word": "achievement",
+      "pos": "n."
+    },
+    {
+      "paragraph": 6,
+      "quote": "I asked thousands of high school juniors to take grit questionnaires, and then waited around more than a year to see who would graduate.",
+      "meaning": "毕业",
+      "note": "",
+      "word": "graduate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 7,
+      "quote": "To me, the most shocking thing about grit is how little we know, how little science knows, about building it.",
+      "meaning": "令人震惊的",
+      "note": "",
+      "word": "shocking",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 7,
+      "quote": "What do I do to teach kids a solid work ethic?",
+      "meaning": "扎实可靠的",
+      "note": "不是固态物质义。",
+      "word": "solid",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 7,
+      "quote": "What do I do to teach kids a solid work ethic?",
+      "meaning": "道德原则／行为准则",
+      "note": "",
+      "word": "ethic",
+      "pos": "n."
+    },
+    {
+      "paragraph": 7,
+      "quote": "How do I keep them motivated for the long run?\"",
+      "meaning": "有动力的",
+      "note": "",
+      "word": "motivated",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 7,
+      "quote": "To me, the most shocking thing about grit is how little we know, how little science knows, about building it.",
+      "meaning": "培养，逐步建立",
+      "note": "it指grit，不是建造实物。",
+      "word": "build",
+      "pos": "v."
+    },
+    {
+      "paragraph": 9,
+      "quote": "What I do know is that talent doesn't make you gritty.",
+      "meaning": "天赋",
+      "note": "",
+      "word": "talent",
+      "pos": "n."
+    },
+    {
+      "paragraph": 9,
+      "quote": "Our data show very clearly that there are many talented individuals who simply do not follow through on their commitments.",
+      "meaning": "个人",
+      "note": "",
+      "word": "individual",
+      "pos": "n."
+    },
+    {
+      "paragraph": 9,
+      "quote": "Our data show very clearly that there are many talented individuals who simply do not follow through on their commitments.",
+      "meaning": "承诺；承担的责任",
+      "note": "",
+      "word": "commitment",
+      "pos": "n."
+    },
+    {
+      "paragraph": 9,
+      "quote": "In fact, in our data, grit is usually unrelated or even inversely related to measures of talent.",
+      "meaning": "没有关联的",
+      "note": "",
+      "word": "unrelated",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 9,
+      "quote": "In fact, in our data, grit is usually unrelated or even inversely related to measures of talent.",
+      "meaning": "反向地／呈反比地",
+      "note": "",
+      "word": "inversely",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 9,
+      "quote": "In fact, in our data, grit is usually unrelated or even inversely related to measures of talent.",
+      "meaning": "衡量指标",
+      "note": "与第3段动词词性不同。",
+      "word": "measure",
+      "pos": "n."
+    },
+    {
+      "paragraph": 10,
+      "quote": "So far, the best idea I've heard about building grit in kids is something called \"growth mindset.\"",
+      "meaning": "思维模式，心态",
+      "note": "",
+      "word": "mindset",
+      "pos": "n."
+    },
+    {
+      "paragraph": 10,
+      "quote": "This is an idea developed at Stanford University by Carol Dweck, and it is the belief that the ability to learn is not fixed, that it can change with your effort.",
+      "meaning": "固定不变的",
+      "note": "",
+      "word": "fixed",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.",
+      "meaning": "坚持不懈",
+      "note": "",
+      "word": "persevere",
+      "pos": "v."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.",
+      "meaning": "永久的，不会改变的",
+      "note": "",
+      "word": "permanent",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.",
+      "meaning": "状态／状况",
+      "note": "此处不是条件从句意义。",
+      "word": "condition",
+      "pos": "n."
+    },
+    {
+      "paragraph": 10,
+      "quote": "This is an idea developed at Stanford University by Carol Dweck, and it is the belief that the ability to learn is not fixed, that it can change with your effort.",
+      "meaning": "提出／发展出理论",
+      "note": "",
+      "word": "develop",
+      "pos": "v."
+    },
+    {
+      "paragraph": 10,
+      "quote": "This is an idea developed at Stanford University by Carol Dweck, and it is the belief that the ability to learn is not fixed, that it can change with your effort.",
+      "meaning": "信念／看法",
+      "note": "",
+      "word": "belief",
+      "pos": "n."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.",
+      "meaning": "挑战，困难任务",
+      "note": "",
+      "word": "challenge",
+      "pos": "n."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition.",
+      "meaning": "失败",
+      "note": "",
+      "word": "failure",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "And that's where I'm going to end my remarks, because that's where we are.",
+      "meaning": "发言，讲话内容",
+      "note": "",
+      "word": "remark",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "We need to take our best ideas, our strongest intuitions, and we need to test them.",
+      "meaning": "直觉判断",
+      "note": "",
+      "word": "intuition",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "We need to measure whether we've been successful, and we have to be willing to fail, to be wrong, to start over again with lessons learned.",
+      "meaning": "经验教训",
+      "note": "不是课堂课时义。",
+      "word": "lesson",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "We need to measure whether we've been successful, and we have to be willing to fail, to be wrong, to start over again with lessons learned.",
+      "meaning": "成功的，达到预期效果的",
+      "note": "",
+      "word": "successful",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 11,
+      "quote": "We need to take our best ideas, our strongest intuitions, and we need to test them.",
+      "meaning": "通过实际检验验证",
+      "note": "them指ideas和intuitions。",
+      "word": "test",
+      "pos": "v."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 6,
+      "item": "drop out",
+      "reason": "第4段已有，同为中途退出；本段保留at risk for dropping out的风险骨架。"
+    },
+    {
+      "paragraph": 12,
+      "item": "gritty",
+      "reason": "第6段已有同义形容词，比较级重复不另收。"
+    }
+  ],
+  "pending": []
+}

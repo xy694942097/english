@@ -1,0 +1,1419 @@
+{
+  "source": {
+    "path": "materials/corpus/ted/english/005-robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness.txt",
+    "sha256": "2cd2e32e776c1fdbe2dbfce900bd55c88b39b6f0cbc5a74be91fb0f3c5eaf226",
+    "metadata": {
+      "Title": "What makes a good life? Lessons from the longest study on happiness",
+      "中文标题": "什么造就美好生活？最长幸福研究的启示",
+      "Speaker": "Robert Waldinger",
+      "Year": "2015",
+      "Duration (official metadata)": "12:37",
+      "TED ID": "2399",
+      "Language": "English",
+      "Official URL": "https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness",
+      "Caption source": "https://www.ted.com/talks/subtitles/id/2399/lang/en"
+    }
+  },
+  "paragraphs_read": 25,
+  "read_ranges": [
+    [
+      1,
+      25
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "ranges": [
+      [
+        1,
+        25
+      ]
+    ],
+    "checks": [
+      "外层表达骨架",
+      "内部搭配与短语动词",
+      "短回应与话语套语",
+      "普通实词和熟词新义",
+      "未选段落和笑声掌声之间的接续"
+    ],
+    "additional_candidates": {
+      "chunks": 7,
+      "vocabulary": 19
+    }
+  },
+  "chunks": [
+    {
+      "chunk": "go through life",
+      "meaning": "经历人生／度过一生",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 1,
+      "quote": "What keeps us healthy and happy as we go through life?"
+    },
+    {
+      "chunk": "invest in sth.",
+      "meaning": "把时间精力等投入某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 1,
+      "quote": "If you were going to invest now in your future best self, where would you put your time and your energy?"
+    },
+    {
+      "chunk": "be given the impression that …",
+      "meaning": "被引导产生……的印象",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 3,
+      "quote": "We're given the impression that these are the things that we need to go after in order to have a good life."
+    },
+    {
+      "chunk": "lean in to sth.",
+      "meaning": "积极投入某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 3,
+      "quote": "And we're constantly told to lean in to work, to push harder and achieve more."
+    },
+    {
+      "chunk": "push harder",
+      "meaning": "更加努力／加大力度",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 3,
+      "quote": "And we're constantly told to lean in to work, to push harder and achieve more."
+    },
+    {
+      "chunk": "go after sth.",
+      "meaning": "追求某个目标",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 3,
+      "quote": "We're given the impression that these are the things that we need to go after in order to have a good life."
+    },
+    {
+      "chunk": "work out for sb.",
+      "meaning": "事情对某人产生某种结果",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 3,
+      "quote": "Pictures of entire lives, of the choices that people make and how those choices work out for them, those pictures are almost impossible to get."
+    },
+    {
+      "chunk": "anything but …",
+      "meaning": "绝不／远非……",
+      "register": "演讲口语",
+      "note": "anything but强调与后面描述相反。",
+      "paragraph": 3,
+      "quote": "Most of what we know about human life we know from asking people to remember the past, and as we know, hindsight is anything but 20/20."
+    },
+    {
+      "chunk": "What if we could …?",
+      "meaning": "如果我们能……会怎样？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 4,
+      "quote": "But what if we could watch entire lives as they unfold through time?"
+    },
+    {
+      "chunk": "all the way into …",
+      "meaning": "一直延续到……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 4,
+      "quote": "What if we could study people from the time that they were teenagers all the way into old age to see what really keeps people happy and healthy?"
+    },
+    {
+      "chunk": "from the time that …",
+      "meaning": "从……的时候起",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 4,
+      "quote": "What if we could study people from the time that they were teenagers all the way into old age to see what really keeps people happy and healthy?"
+    },
+    {
+      "chunk": "may be the … that's ever been done",
+      "meaning": "可能是有史以来最……的",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "The Harvard Study of Adult Development may be the longest study of adult life that's ever been done."
+    },
+    {
+      "chunk": "year after year",
+      "meaning": "年复一年",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "For 75 years, we've tracked the lives of 724 men, year after year, asking about their work, their home lives, their health, and of course asking all along the way without knowing how their life stories were going to turn out."
+    },
+    {
+      "chunk": "all along the way",
+      "meaning": "在整个过程中一路",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "For 75 years, we've tracked the lives of 724 men, year after year, asking about their work, their home lives, their health, and of course asking all along the way without knowing how their life stories were going to turn out."
+    },
+    {
+      "chunk": "fall apart",
+      "meaning": "失败瓦解／无法维持",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 6,
+      "quote": "Almost all projects of this kind fall apart within a decade because too many people drop out of the study, or funding for the research dries up, or the researchers get distracted, or they die, and nobody moves the ball further down the field."
+    },
+    {
+      "chunk": "drop out of sth.",
+      "meaning": "退出某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 6,
+      "quote": "Almost all projects of this kind fall apart within a decade because too many people drop out of the study, or funding for the research dries up, or the researchers get distracted, or they die, and nobody moves the ball further down the field."
+    },
+    {
+      "chunk": "dry up",
+      "meaning": "枯竭／耗尽",
+      "register": "演讲口语",
+      "note": "此处指资金。",
+      "paragraph": 6,
+      "quote": "Almost all projects of this kind fall apart within a decade because too many people drop out of the study, or funding for the research dries up, or the researchers get distracted, or they die, and nobody moves the ball further down the field."
+    },
+    {
+      "chunk": "move the ball further down the field",
+      "meaning": "推进事情／让项目继续取得进展",
+      "register": "演讲口语",
+      "note": "来自球类运动的比喻。",
+      "paragraph": 6,
+      "quote": "Almost all projects of this kind fall apart within a decade because too many people drop out of the study, or funding for the research dries up, or the researchers get distracted, or they die, and nobody moves the ball further down the field."
+    },
+    {
+      "chunk": "through a combination of …",
+      "meaning": "通过……共同作用",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 6,
+      "quote": "But through a combination of luck and the persistence of several generations of researchers, this study has survived."
+    },
+    {
+      "chunk": "in one's 90s",
+      "meaning": "在九十多岁时",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 6,
+      "quote": "About 60 of our original 724 men are still alive, still participating in the study, most of them in their 90s."
+    },
+    {
+      "chunk": "get distracted",
+      "meaning": "分心",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 6,
+      "quote": "Almost all projects of this kind fall apart within a decade because too many people drop out of the study, or funding for the research dries up, or the researchers get distracted, or they die, and nobody moves the ball further down the field."
+    },
+    {
+      "chunk": "go off to do sth.",
+      "meaning": "离开原处去做某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 7,
+      "quote": "They all finished college during World War II, and then most went off to serve in the war."
+    },
+    {
+      "chunk": "running water",
+      "meaning": "自来水／流动供水",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 7,
+      "quote": "Most lived in tenements, many without hot and cold running water."
+    },
+    {
+      "chunk": "all walks of life",
+      "meaning": "各行各业／社会各界",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 8,
+      "quote": "And then these teenagers grew up into adults who entered all walks of life."
+    },
+    {
+      "chunk": "climb the social ladder",
+      "meaning": "提升社会地位",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 8,
+      "quote": "Some climbed the social ladder from the bottom all the way to the very top, and some made that journey in the opposite direction."
+    },
+    {
+      "chunk": "in the opposite direction",
+      "meaning": "朝相反方向",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 8,
+      "quote": "Some climbed the social ladder from the bottom all the way to the very top, and some made that journey in the opposite direction."
+    },
+    {
+      "chunk": "from the bottom … to the very top",
+      "meaning": "从最底层一直到最高层",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 8,
+      "quote": "Some climbed the social ladder from the bottom all the way to the very top, and some made that journey in the opposite direction."
+    },
+    {
+      "chunk": "never in one's wildest dreams",
+      "meaning": "做梦也想不到",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 9,
+      "quote": "The founders of this study would never in their wildest dreams have imagined that I would be standing here today, 75 years later, telling you that the study still continues."
+    },
+    {
+      "chunk": "call sb. up",
+      "meaning": "给某人打电话",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 9,
+      "quote": "Every two years, our patient and dedicated research staff calls up our men and asks them if we can send them yet one more set of questions about their lives."
+    },
+    {
+      "chunk": "yet one more …",
+      "meaning": "再多一个／又一次……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 9,
+      "quote": "Every two years, our patient and dedicated research staff calls up our men and asks them if we can send them yet one more set of questions about their lives."
+    },
+    {
+      "chunk": "keep wanting to do sth.",
+      "meaning": "持续想要做某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 10,
+      "quote": "Many of the inner city Boston men ask us, \"Why do you keep wanting to study me?"
+    },
+    {
+      "chunk": "get the clearest picture of sth.",
+      "meaning": "最清楚地了解某事的全貌",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 12,
+      "quote": "To get the clearest picture of these lives, we don't just send them questionnaires."
+    },
+    {
+      "chunk": "draw sb.'s blood",
+      "meaning": "为某人抽血",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 12,
+      "quote": "We draw their blood, we scan their brains, we talk to their children."
+    },
+    {
+      "chunk": "It's about time",
+      "meaning": "早该这样了",
+      "register": "演讲口语",
+      "note": "此处略带终于轮到我们了的调侃。",
+      "paragraph": 12,
+      "quote": "And when, about a decade ago, we finally asked the wives if they would join us as members of the study, many of the women said, \"You know, it's about time.\""
+    },
+    {
+      "chunk": "The clearest message … is this",
+      "meaning": "最明确的启示是……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 14,
+      "quote": "The clearest message that we get from this 75-year study is this: Good relationships keep us happier and healthier."
+    },
+    {
+      "chunk": "at any given time",
+      "meaning": "在任何一个给定时点",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And the sad fact is that at any given time, more than one in five Americans will report that they're lonely."
+    },
+    {
+      "chunk": "more than one in five",
+      "meaning": "每五个里不止一个",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And the sad fact is that at any given time, more than one in five Americans will report that they're lonely."
+    },
+    {
+      "chunk": "It's not …, but … that matters",
+      "meaning": "重要的不是……而是……",
+      "register": "演讲口语",
+      "note": "这里长句先排除数量与关系身份，再强调质量。",
+      "paragraph": 16,
+      "quote": "And we know that you can be lonely in a crowd and you can be lonely in a marriage, so the second big lesson that we learned is that it's not just the number of friends you have, and it's not whether or not you're in a committed relationship, but it's the quality of your close relationships that matters."
+    },
+    {
+      "chunk": "in the midst of sth.",
+      "meaning": "处于……之中",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 16,
+      "quote": "It turns out that living in the midst of conflict is really bad for our health."
+    },
+    {
+      "chunk": "whether or not …",
+      "meaning": "是否……／无论是否……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 16,
+      "quote": "And we know that you can be lonely in a crowd and you can be lonely in a marriage, so the second big lesson that we learned is that it's not just the number of friends you have, and it's not whether or not you're in a committed relationship, but it's the quality of your close relationships that matters."
+    },
+    {
+      "chunk": "look back at sth.",
+      "meaning": "回头审视某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 17,
+      "quote": "Once we had followed our men all the way into their 80s, we wanted to look back at them at midlife and to see if we could predict who was going to grow into a happy, healthy octogenarian and who wasn't."
+    },
+    {
+      "chunk": "buffer sb. from sth.",
+      "meaning": "缓冲某事对某人的伤害",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 17,
+      "quote": "And good, close relationships seem to buffer us from some of the slings and arrows of getting old."
+    },
+    {
+      "chunk": "slings and arrows",
+      "meaning": "人生的磨难／打击",
+      "register": "演讲口语",
+      "note": "文学典故式表达，用于老龄化的不幸。",
+      "paragraph": 17,
+      "quote": "And good, close relationships seem to buffer us from some of the slings and arrows of getting old."
+    },
+    {
+      "chunk": "seem to do sth.",
+      "meaning": "似乎会做某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 17,
+      "quote": "And good, close relationships seem to buffer us from some of the slings and arrows of getting old."
+    },
+    {
+      "chunk": "It wasn't …; it was …",
+      "meaning": "不是……，而是……",
+      "register": "演讲口语",
+      "note": "重心对照骨架。",
+      "paragraph": 17,
+      "quote": "And when we gathered together everything we knew about them at age 50, it wasn't their middle age cholesterol levels that predicted how they were going to grow old."
+    },
+    {
+      "chunk": "count on sb.",
+      "meaning": "依靠／指望某人",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 18,
+      "quote": "It turns out that being in a securely attached relationship to another person in your 80s is protective, that the people who are in relationships where they really feel they can count on the other person in times of need, those people's memories stay sharper longer."
+    },
+    {
+      "chunk": "in times of need",
+      "meaning": "在需要帮助的时候",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 18,
+      "quote": "It turns out that being in a securely attached relationship to another person in your 80s is protective, that the people who are in relationships where they really feel they can count on the other person in times of need, those people's memories stay sharper longer."
+    },
+    {
+      "chunk": "day in and day out",
+      "meaning": "天天／日复一日",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 18,
+      "quote": "Some of our octogenarian couples could bicker with each other day in and day out, but as long as they felt that they could really count on the other when the going got tough, those arguments didn't take a toll on their memories."
+    },
+    {
+      "chunk": "as long as …",
+      "meaning": "只要……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 18,
+      "quote": "Some of our octogenarian couples could bicker with each other day in and day out, but as long as they felt that they could really count on the other when the going got tough, those arguments didn't take a toll on their memories."
+    },
+    {
+      "chunk": "when the going gets tough",
+      "meaning": "当事情变得艰难时",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 18,
+      "quote": "Some of our octogenarian couples could bicker with each other day in and day out, but as long as they felt that they could really count on the other when the going got tough, those arguments didn't take a toll on their memories."
+    },
+    {
+      "chunk": "take a toll on sth.",
+      "meaning": "对某事造成损害／消耗",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 18,
+      "quote": "Some of our octogenarian couples could bicker with each other day in and day out, but as long as they felt that they could really count on the other when the going got tough, those arguments didn't take a toll on their memories."
+    },
+    {
+      "chunk": "as old as the hills",
+      "meaning": "老掉牙／早已为人所知",
+      "register": "演讲口语",
+      "note": "随意夸张说法。",
+      "paragraph": 19,
+      "quote": "So this message, that good, close relationships are good for our health and well-being, this is wisdom that's as old as the hills."
+    },
+    {
+      "chunk": "a quick fix",
+      "meaning": "能迅速奏效的权宜办法",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 19,
+      "quote": "What we'd really like is a quick fix, something we can get that'll make our lives good and keep them that way."
+    },
+    {
+      "chunk": "tend to sb./sth.",
+      "meaning": "照料／用心维护某人某事",
+      "register": "演讲口语",
+      "note": "此处不是tend to do的倾向义。",
+      "paragraph": 19,
+      "quote": "Relationships are messy and they're complicated and the hard work of tending to family and friends, it's not sexy or glamorous."
+    },
+    {
+      "chunk": "start out",
+      "meaning": "开始人生／事业某个阶段",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 19,
+      "quote": "Just like the millennials in that recent survey, many of our men when they were starting out as young adults really believed that fame and wealth and high achievement were what they needed to go after to have a good life."
+    },
+    {
+      "chunk": "fare the best",
+      "meaning": "境况最好／过得最好",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 19,
+      "quote": "But over and over, over these 75 years, our study has shown that the people who fared the best were the people who leaned in to relationships, with family, with friends, with community."
+    },
+    {
+      "chunk": "over and over",
+      "meaning": "反复地",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 19,
+      "quote": "But over and over, over these 75 years, our study has shown that the people who fared the best were the people who leaned in to relationships, with family, with friends, with community."
+    },
+    {
+      "chunk": "keep sth. that way",
+      "meaning": "让某事保持那样",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 19,
+      "quote": "What we'd really like is a quick fix, something we can get that'll make our lives good and keep them that way."
+    },
+    {
+      "chunk": "It's so hard to … and so easy to …",
+      "meaning": "……这么难，……却这么容易",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 19,
+      "quote": "Why is this so hard to get and so easy to ignore?"
+    },
+    {
+      "chunk": "So what about you?",
+      "meaning": "那你呢？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 20,
+      "quote": "So what about you?"
+    },
+    {
+      "chunk": "Let's say …",
+      "meaning": "假设……／比如说……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 20,
+      "quote": "Let's say you're 25, or you're 40, or you're 60."
+    },
+    {
+      "chunk": "What might … look like?",
+      "meaning": "……实际可能是什么样子？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 20,
+      "quote": "What might leaning in to relationships even look like?"
+    },
+    {
+      "chunk": "something as simple as …",
+      "meaning": "像……这样简单的事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "chunk": "replace sth. with sth.",
+      "meaning": "用另一事物代替某事物",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "chunk": "liven up sth.",
+      "meaning": "使某事重新活跃／有生气",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "chunk": "reach out to sb.",
+      "meaning": "主动联系某人",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "chunk": "date night",
+      "meaning": "伴侣安排的约会之夜",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "chunk": "hold a grudge",
+      "meaning": "怀恨在心",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "chunk": "I'd like to close with …",
+      "meaning": "我想以……结束",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 22,
+      "quote": "I'd like to close with a quote from Mark Twain."
+    },
+    {
+      "chunk": "so to speak",
+      "meaning": "可以这样说／姑且这样说",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 22,
+      "quote": "There is only time for loving, and but an instant, so to speak, for that.\""
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "millennial",
+      "pos": "n.",
+      "meaning": "千禧一代成员",
+      "note": "",
+      "paragraph": 1,
+      "quote": "There was a recent survey of millennials asking them what their most important life goals were, and over 80 percent said that a major life goal for them was to get rich."
+    },
+    {
+      "word": "survey",
+      "pos": "n.",
+      "meaning": "调查",
+      "note": "",
+      "paragraph": 1,
+      "quote": "There was a recent survey of millennials asking them what their most important life goals were, and over 80 percent said that a major life goal for them was to get rich."
+    },
+    {
+      "word": "goal",
+      "pos": "n.",
+      "meaning": "目标",
+      "note": "",
+      "paragraph": 1,
+      "quote": "There was a recent survey of millennials asking them what their most important life goals were, and over 80 percent said that a major life goal for them was to get rich."
+    },
+    {
+      "word": "impression",
+      "pos": "n.",
+      "meaning": "印象／观念",
+      "note": "",
+      "paragraph": 3,
+      "quote": "We're given the impression that these are the things that we need to go after in order to have a good life."
+    },
+    {
+      "word": "hindsight",
+      "pos": "n.",
+      "meaning": "事后认识／回头看的判断",
+      "note": "",
+      "paragraph": 3,
+      "quote": "Most of what we know about human life we know from asking people to remember the past, and as we know, hindsight is anything but 20/20."
+    },
+    {
+      "word": "20/20",
+      "pos": "adj./表达",
+      "meaning": "完全清晰准确的",
+      "note": "原指标准视力；这里比喻事后判断清楚。",
+      "paragraph": 3,
+      "quote": "Most of what we know about human life we know from asking people to remember the past, and as we know, hindsight is anything but 20/20."
+    },
+    {
+      "word": "vast",
+      "pos": "adj.",
+      "meaning": "大量的／广大的",
+      "note": "",
+      "paragraph": 3,
+      "quote": "We forget vast amounts of what happens to us in life, and sometimes memory is downright creative."
+    },
+    {
+      "word": "downright",
+      "pos": "adv.",
+      "meaning": "简直／彻头彻尾",
+      "note": "",
+      "paragraph": 3,
+      "quote": "We forget vast amounts of what happens to us in life, and sometimes memory is downright creative."
+    },
+    {
+      "word": "creative",
+      "pos": "adj.",
+      "meaning": "会创造／编造的",
+      "note": "此处幽默说记忆会添油加醋。",
+      "paragraph": 3,
+      "quote": "We forget vast amounts of what happens to us in life, and sometimes memory is downright creative."
+    },
+    {
+      "word": "constantly",
+      "pos": "adv.",
+      "meaning": "不断地／总是",
+      "note": "",
+      "paragraph": 3,
+      "quote": "And we're constantly told to lean in to work, to push harder and achieve more."
+    },
+    {
+      "word": "achieve",
+      "pos": "v.",
+      "meaning": "取得／实现",
+      "note": "",
+      "paragraph": 3,
+      "quote": "And we're constantly told to lean in to work, to push harder and achieve more."
+    },
+    {
+      "word": "choice",
+      "pos": "n.",
+      "meaning": "选择",
+      "note": "",
+      "paragraph": 3,
+      "quote": "Pictures of entire lives, of the choices that people make and how those choices work out for them, those pictures are almost impossible to get."
+    },
+    {
+      "word": "unfold",
+      "pos": "v.",
+      "meaning": "逐渐展开／发生",
+      "note": "",
+      "paragraph": 4,
+      "quote": "But what if we could watch entire lives as they unfold through time?"
+    },
+    {
+      "word": "development",
+      "pos": "n.",
+      "meaning": "发展／成长",
+      "note": "",
+      "paragraph": 5,
+      "quote": "The Harvard Study of Adult Development may be the longest study of adult life that's ever been done."
+    },
+    {
+      "word": "track",
+      "pos": "v.",
+      "meaning": "长期跟踪观察",
+      "note": "",
+      "paragraph": 5,
+      "quote": "For 75 years, we've tracked the lives of 724 men, year after year, asking about their work, their home lives, their health, and of course asking all along the way without knowing how their life stories were going to turn out."
+    },
+    {
+      "word": "exceedingly",
+      "pos": "adv.",
+      "meaning": "极其",
+      "note": "",
+      "paragraph": 6,
+      "quote": "Studies like this are exceedingly rare."
+    },
+    {
+      "word": "funding",
+      "pos": "n.",
+      "meaning": "资金资助",
+      "note": "",
+      "paragraph": 6,
+      "quote": "Almost all projects of this kind fall apart within a decade because too many people drop out of the study, or funding for the research dries up, or the researchers get distracted, or they die, and nobody moves the ball further down the field."
+    },
+    {
+      "word": "persistence",
+      "pos": "n.",
+      "meaning": "坚持／持续投入",
+      "note": "",
+      "paragraph": 6,
+      "quote": "But through a combination of luck and the persistence of several generations of researchers, this study has survived."
+    },
+    {
+      "word": "original",
+      "pos": "adj.",
+      "meaning": "最初的",
+      "note": "",
+      "paragraph": 6,
+      "quote": "About 60 of our original 724 men are still alive, still participating in the study, most of them in their 90s."
+    },
+    {
+      "word": "participate",
+      "pos": "v.",
+      "meaning": "参与",
+      "note": "",
+      "paragraph": 6,
+      "quote": "About 60 of our original 724 men are still alive, still participating in the study, most of them in their 90s."
+    },
+    {
+      "word": "rare",
+      "pos": "adj.",
+      "meaning": "罕见的",
+      "note": "",
+      "paragraph": 6,
+      "quote": "Studies like this are exceedingly rare."
+    },
+    {
+      "word": "distracted",
+      "pos": "adj.",
+      "meaning": "分心的",
+      "note": "",
+      "paragraph": 6,
+      "quote": "Almost all projects of this kind fall apart within a decade because too many people drop out of the study, or funding for the research dries up, or the researchers get distracted, or they die, and nobody moves the ball further down the field."
+    },
+    {
+      "word": "survive",
+      "pos": "v.",
+      "meaning": "持续存在／存续",
+      "note": "",
+      "paragraph": 6,
+      "quote": "But through a combination of luck and the persistence of several generations of researchers, this study has survived."
+    },
+    {
+      "word": "sophomore",
+      "pos": "n.",
+      "meaning": "大学二年级学生",
+      "note": "美式教育用语。",
+      "paragraph": 7,
+      "quote": "The first group started in the study when they were sophomores at Harvard College."
+    },
+    {
+      "word": "serve",
+      "pos": "v.",
+      "meaning": "服役",
+      "note": "",
+      "paragraph": 7,
+      "quote": "They all finished college during World War II, and then most went off to serve in the war."
+    },
+    {
+      "word": "troubled",
+      "pos": "adj.",
+      "meaning": "问题多的／处境困难的",
+      "note": "",
+      "paragraph": 7,
+      "quote": "And the second group that we've followed was a group of boys from Boston's poorest neighborhoods, boys who were chosen for the study specifically because they were from some of the most troubled and disadvantaged families in the Boston of the 1930s."
+    },
+    {
+      "word": "disadvantaged",
+      "pos": "adj.",
+      "meaning": "社会经济条件不利的",
+      "note": "",
+      "paragraph": 7,
+      "quote": "And the second group that we've followed was a group of boys from Boston's poorest neighborhoods, boys who were chosen for the study specifically because they were from some of the most troubled and disadvantaged families in the Boston of the 1930s."
+    },
+    {
+      "word": "tenement",
+      "pos": "n.",
+      "meaning": "贫民区公寓／简陋出租住宅",
+      "note": "",
+      "paragraph": 7,
+      "quote": "Most lived in tenements, many without hot and cold running water."
+    },
+    {
+      "word": "neighborhood",
+      "pos": "n.",
+      "meaning": "街区／社区",
+      "note": "",
+      "paragraph": 7,
+      "quote": "And the second group that we've followed was a group of boys from Boston's poorest neighborhoods, boys who were chosen for the study specifically because they were from some of the most troubled and disadvantaged families in the Boston of the 1930s."
+    },
+    {
+      "word": "bricklayer",
+      "pos": "n.",
+      "meaning": "砌砖工",
+      "note": "",
+      "paragraph": 8,
+      "quote": "They became factory workers and lawyers and bricklayers and doctors, one President of the United States."
+    },
+    {
+      "word": "alcoholism",
+      "pos": "n.",
+      "meaning": "酒精依赖／酗酒问题",
+      "note": "",
+      "paragraph": 8,
+      "quote": "Some developed alcoholism."
+    },
+    {
+      "word": "schizophrenia",
+      "pos": "n.",
+      "meaning": "精神分裂症",
+      "note": "原文研究对象的诊断名，仅作语言材料。",
+      "paragraph": 8,
+      "quote": "A few developed schizophrenia."
+    },
+    {
+      "word": "develop",
+      "pos": "v.",
+      "meaning": "患上／逐渐出现",
+      "note": "不是开发义。",
+      "paragraph": 8,
+      "quote": "Some developed alcoholism."
+    },
+    {
+      "word": "founder",
+      "pos": "n.",
+      "meaning": "创立者",
+      "note": "",
+      "paragraph": 9,
+      "quote": "The founders of this study would never in their wildest dreams have imagined that I would be standing here today, 75 years later, telling you that the study still continues."
+    },
+    {
+      "word": "patient",
+      "pos": "adj.",
+      "meaning": "有耐心的",
+      "note": "此处不是名词患者。",
+      "paragraph": 9,
+      "quote": "Every two years, our patient and dedicated research staff calls up our men and asks them if we can send them yet one more set of questions about their lives."
+    },
+    {
+      "word": "dedicated",
+      "pos": "adj.",
+      "meaning": "尽心尽力的",
+      "note": "",
+      "paragraph": 9,
+      "quote": "Every two years, our patient and dedicated research staff calls up our men and asks them if we can send them yet one more set of questions about their lives."
+    },
+    {
+      "word": "staff",
+      "pos": "n.",
+      "meaning": "工作人员",
+      "note": "",
+      "paragraph": 9,
+      "quote": "Every two years, our patient and dedicated research staff calls up our men and asks them if we can send them yet one more set of questions about their lives."
+    },
+    {
+      "word": "inner city",
+      "pos": "n./修饰语",
+      "meaning": "内城／城市贫困老城区",
+      "note": "",
+      "paragraph": 10,
+      "quote": "Many of the inner city Boston men ask us, \"Why do you keep wanting to study me?"
+    },
+    {
+      "word": "questionnaire",
+      "pos": "n.",
+      "meaning": "调查问卷",
+      "note": "",
+      "paragraph": 12,
+      "quote": "To get the clearest picture of these lives, we don't just send them questionnaires."
+    },
+    {
+      "word": "record",
+      "pos": "n.",
+      "meaning": "记录／档案",
+      "note": "",
+      "paragraph": 12,
+      "quote": "We get their medical records from their doctors."
+    },
+    {
+      "word": "scan",
+      "pos": "v.",
+      "meaning": "扫描检查",
+      "note": "",
+      "paragraph": 12,
+      "quote": "We draw their blood, we scan their brains, we talk to their children."
+    },
+    {
+      "word": "videotape",
+      "pos": "v.",
+      "meaning": "录像",
+      "note": "",
+      "paragraph": 12,
+      "quote": "We videotape them talking with their wives about their deepest concerns."
+    },
+    {
+      "word": "concern",
+      "pos": "n.",
+      "meaning": "担忧／关切",
+      "note": "",
+      "paragraph": 12,
+      "quote": "We videotape them talking with their wives about their deepest concerns."
+    },
+    {
+      "word": "generate",
+      "pos": "v.",
+      "meaning": "产生／收集形成",
+      "note": "",
+      "paragraph": 14,
+      "quote": "What are the lessons that come from the tens of thousands of pages of information that we've generated on these lives?"
+    },
+    {
+      "word": "wealth",
+      "pos": "n.",
+      "meaning": "财富",
+      "note": "",
+      "paragraph": 14,
+      "quote": "Well, the lessons aren't about wealth or fame or working harder and harder."
+    },
+    {
+      "word": "fame",
+      "pos": "n.",
+      "meaning": "名气",
+      "note": "",
+      "paragraph": 14,
+      "quote": "Well, the lessons aren't about wealth or fame or working harder and harder."
+    },
+    {
+      "word": "period",
+      "pos": "话语标记",
+      "meaning": "就是这样／没什么可争论的",
+      "note": "用来断然收束观点，不是时间段。",
+      "paragraph": 14,
+      "quote": "Period."
+    },
+    {
+      "word": "loneliness",
+      "pos": "n.",
+      "meaning": "孤独感",
+      "note": "",
+      "paragraph": 15,
+      "quote": "The first is that social connections are really good for us, and that loneliness kills."
+    },
+    {
+      "word": "socially",
+      "pos": "adv.",
+      "meaning": "在社会交往方面",
+      "note": "",
+      "paragraph": 15,
+      "quote": "It turns out that people who are more socially connected to family, to friends, to community, are happier, they're physically healthier, and they live longer than people who are less well connected."
+    },
+    {
+      "word": "toxic",
+      "pos": "adj.",
+      "meaning": "有害的",
+      "note": "原文比喻孤独的负面影响。",
+      "paragraph": 15,
+      "quote": "And the experience of loneliness turns out to be toxic."
+    },
+    {
+      "word": "isolated",
+      "pos": "adj.",
+      "meaning": "孤立的／与人疏离的",
+      "note": "",
+      "paragraph": 15,
+      "quote": "People who are more isolated than they want to be from others find that they are less happy, their health declines earlier in midlife, their brain functioning declines sooner and they live shorter lives than people who are not lonely."
+    },
+    {
+      "word": "decline",
+      "pos": "v./n.",
+      "meaning": "衰退／下降",
+      "note": "",
+      "paragraph": 15,
+      "quote": "People who are more isolated than they want to be from others find that they are less happy, their health declines earlier in midlife, their brain functioning declines sooner and they live shorter lives than people who are not lonely."
+    },
+    {
+      "word": "midlife",
+      "pos": "n.",
+      "meaning": "中年",
+      "note": "",
+      "paragraph": 15,
+      "quote": "People who are more isolated than they want to be from others find that they are less happy, their health declines earlier in midlife, their brain functioning declines sooner and they live shorter lives than people who are not lonely."
+    },
+    {
+      "word": "functioning",
+      "pos": "n.",
+      "meaning": "功能运作",
+      "note": "",
+      "paragraph": 15,
+      "quote": "People who are more isolated than they want to be from others find that they are less happy, their health declines earlier in midlife, their brain functioning declines sooner and they live shorter lives than people who are not lonely."
+    },
+    {
+      "word": "physically",
+      "pos": "adv.",
+      "meaning": "身体上地",
+      "note": "",
+      "paragraph": 15,
+      "quote": "It turns out that people who are more socially connected to family, to friends, to community, are happier, they're physically healthier, and they live longer than people who are less well connected."
+    },
+    {
+      "word": "community",
+      "pos": "n.",
+      "meaning": "社区／共同体",
+      "note": "",
+      "paragraph": 15,
+      "quote": "It turns out that people who are more socially connected to family, to friends, to community, are happier, they're physically healthier, and they live longer than people who are less well connected."
+    },
+    {
+      "word": "committed",
+      "pos": "adj.",
+      "meaning": "稳定投入、认真的",
+      "note": "",
+      "paragraph": 16,
+      "quote": "And we know that you can be lonely in a crowd and you can be lonely in a marriage, so the second big lesson that we learned is that it's not just the number of friends you have, and it's not whether or not you're in a committed relationship, but it's the quality of your close relationships that matters."
+    },
+    {
+      "word": "conflict",
+      "pos": "n.",
+      "meaning": "冲突",
+      "note": "",
+      "paragraph": 16,
+      "quote": "It turns out that living in the midst of conflict is really bad for our health."
+    },
+    {
+      "word": "affection",
+      "pos": "n.",
+      "meaning": "爱意／亲昵感",
+      "note": "",
+      "paragraph": 16,
+      "quote": "High-conflict marriages, for example, without much affection, turn out to be very bad for our health, perhaps worse than getting divorced."
+    },
+    {
+      "word": "protective",
+      "pos": "adj.",
+      "meaning": "起保护作用的",
+      "note": "",
+      "paragraph": 16,
+      "quote": "And living in the midst of good, warm relationships is protective."
+    },
+    {
+      "word": "crowd",
+      "pos": "n.",
+      "meaning": "人群",
+      "note": "",
+      "paragraph": 16,
+      "quote": "And we know that you can be lonely in a crowd and you can be lonely in a marriage, so the second big lesson that we learned is that it's not just the number of friends you have, and it's not whether or not you're in a committed relationship, but it's the quality of your close relationships that matters."
+    },
+    {
+      "word": "divorced",
+      "pos": "adj./过去分词",
+      "meaning": "离婚的",
+      "note": "",
+      "paragraph": 16,
+      "quote": "High-conflict marriages, for example, without much affection, turn out to be very bad for our health, perhaps worse than getting divorced."
+    },
+    {
+      "word": "octogenarian",
+      "pos": "n.",
+      "meaning": "八十多岁的人",
+      "note": "",
+      "paragraph": 17,
+      "quote": "Once we had followed our men all the way into their 80s, we wanted to look back at them at midlife and to see if we could predict who was going to grow into a happy, healthy octogenarian and who wasn't."
+    },
+    {
+      "word": "cholesterol",
+      "pos": "n.",
+      "meaning": "胆固醇",
+      "note": "仅解释原文词义。",
+      "paragraph": 17,
+      "quote": "And when we gathered together everything we knew about them at age 50, it wasn't their middle age cholesterol levels that predicted how they were going to grow old."
+    },
+    {
+      "word": "satisfied",
+      "pos": "adj.",
+      "meaning": "满意的",
+      "note": "",
+      "paragraph": 17,
+      "quote": "It was how satisfied they were in their relationships."
+    },
+    {
+      "word": "buffer",
+      "pos": "v.",
+      "meaning": "缓冲／减轻影响",
+      "note": "",
+      "paragraph": 17,
+      "quote": "And good, close relationships seem to buffer us from some of the slings and arrows of getting old."
+    },
+    {
+      "word": "partnered",
+      "pos": "adj.",
+      "meaning": "有伴侣的",
+      "note": "",
+      "paragraph": 17,
+      "quote": "Our most happily partnered men and women reported, in their 80s, that on the days when they had more physical pain, their mood stayed just as happy."
+    },
+    {
+      "word": "mood",
+      "pos": "n.",
+      "meaning": "心情／情绪",
+      "note": "",
+      "paragraph": 17,
+      "quote": "Our most happily partnered men and women reported, in their 80s, that on the days when they had more physical pain, their mood stayed just as happy."
+    },
+    {
+      "word": "magnify",
+      "pos": "v.",
+      "meaning": "加重／放大",
+      "note": "",
+      "paragraph": 17,
+      "quote": "But the people who were in unhappy relationships, on the days when they reported more physical pain, it was magnified by more emotional pain."
+    },
+    {
+      "word": "emotional",
+      "pos": "adj.",
+      "meaning": "情绪方面的",
+      "note": "形容词，修饰pain；不是身体疼痛。",
+      "paragraph": 17,
+      "quote": "But the people who were in unhappy relationships, on the days when they reported more physical pain, it was magnified by more emotional pain."
+    },
+    {
+      "word": "attached",
+      "pos": "adj.",
+      "meaning": "存在依恋关系的",
+      "note": "心理学语境，不是粘贴。",
+      "paragraph": 18,
+      "quote": "It turns out that being in a securely attached relationship to another person in your 80s is protective, that the people who are in relationships where they really feel they can count on the other person in times of need, those people's memories stay sharper longer."
+    },
+    {
+      "word": "sharp",
+      "pos": "adj.",
+      "meaning": "敏锐的／清晰的",
+      "note": "这里指记忆能力。",
+      "paragraph": 18,
+      "quote": "It turns out that being in a securely attached relationship to another person in your 80s is protective, that the people who are in relationships where they really feel they can count on the other person in times of need, those people's memories stay sharper longer."
+    },
+    {
+      "word": "smooth",
+      "pos": "adj.",
+      "meaning": "顺利、无摩擦的",
+      "note": "",
+      "paragraph": 18,
+      "quote": "And those good relationships, they don't have to be smooth all the time."
+    },
+    {
+      "word": "bicker",
+      "pos": "v.",
+      "meaning": "为小事争吵／拌嘴",
+      "note": "",
+      "paragraph": 18,
+      "quote": "Some of our octogenarian couples could bicker with each other day in and day out, but as long as they felt that they could really count on the other when the going got tough, those arguments didn't take a toll on their memories."
+    },
+    {
+      "word": "argument",
+      "pos": "n.",
+      "meaning": "争执",
+      "note": "此处不是论证。",
+      "paragraph": 18,
+      "quote": "Some of our octogenarian couples could bicker with each other day in and day out, but as long as they felt that they could really count on the other when the going got tough, those arguments didn't take a toll on their memories."
+    },
+    {
+      "word": "securely",
+      "pos": "adv.",
+      "meaning": "稳固、安心地",
+      "note": "",
+      "paragraph": 18,
+      "quote": "It turns out that being in a securely attached relationship to another person in your 80s is protective, that the people who are in relationships where they really feel they can count on the other person in times of need, those people's memories stay sharper longer."
+    },
+    {
+      "word": "well-being",
+      "pos": "n.",
+      "meaning": "身心安康",
+      "note": "",
+      "paragraph": 19,
+      "quote": "So this message, that good, close relationships are good for our health and well-being, this is wisdom that's as old as the hills."
+    },
+    {
+      "word": "wisdom",
+      "pos": "n.",
+      "meaning": "智慧／经验之谈",
+      "note": "",
+      "paragraph": 19,
+      "quote": "So this message, that good, close relationships are good for our health and well-being, this is wisdom that's as old as the hills."
+    },
+    {
+      "word": "complicated",
+      "pos": "adj.",
+      "meaning": "复杂的",
+      "note": "",
+      "paragraph": 19,
+      "quote": "Relationships are messy and they're complicated and the hard work of tending to family and friends, it's not sexy or glamorous."
+    },
+    {
+      "word": "sexy",
+      "pos": "adj.",
+      "meaning": "有吸引力、令人向往的",
+      "note": "此处不指性意味。",
+      "paragraph": 19,
+      "quote": "Relationships are messy and they're complicated and the hard work of tending to family and friends, it's not sexy or glamorous."
+    },
+    {
+      "word": "glamorous",
+      "pos": "adj.",
+      "meaning": "光鲜迷人的",
+      "note": "",
+      "paragraph": 19,
+      "quote": "Relationships are messy and they're complicated and the hard work of tending to family and friends, it's not sexy or glamorous."
+    },
+    {
+      "word": "lifelong",
+      "pos": "adj.",
+      "meaning": "持续一生的",
+      "note": "",
+      "paragraph": 19,
+      "quote": "It's also lifelong."
+    },
+    {
+      "word": "retirement",
+      "pos": "n.",
+      "meaning": "退休生活",
+      "note": "",
+      "paragraph": 19,
+      "quote": "The people in our 75-year study who were the happiest in retirement were the people who had actively worked to replace workmates with new playmates."
+    },
+    {
+      "word": "workmate",
+      "pos": "n.",
+      "meaning": "同事",
+      "note": "",
+      "paragraph": 19,
+      "quote": "The people in our 75-year study who were the happiest in retirement were the people who had actively worked to replace workmates with new playmates."
+    },
+    {
+      "word": "playmate",
+      "pos": "n.",
+      "meaning": "一起娱乐的伙伴",
+      "note": "此处指成年退休者的伙伴，不限儿童。",
+      "paragraph": 19,
+      "quote": "The people in our 75-year study who were the happiest in retirement were the people who had actively worked to replace workmates with new playmates."
+    },
+    {
+      "word": "fare",
+      "pos": "v.",
+      "meaning": "过得怎样／境况如何",
+      "note": "",
+      "paragraph": 19,
+      "quote": "But over and over, over these 75 years, our study has shown that the people who fared the best were the people who leaned in to relationships, with family, with friends, with community."
+    },
+    {
+      "word": "ignore",
+      "pos": "v.",
+      "meaning": "忽略／不理会",
+      "note": "",
+      "paragraph": 19,
+      "quote": "Why is this so hard to get and so easy to ignore?"
+    },
+    {
+      "word": "achievement",
+      "pos": "n.",
+      "meaning": "成就",
+      "note": "",
+      "paragraph": 19,
+      "quote": "Just like the millennials in that recent survey, many of our men when they were starting out as young adults really believed that fame and wealth and high achievement were what they needed to go after to have a good life."
+    },
+    {
+      "word": "actively",
+      "pos": "adv.",
+      "meaning": "主动地／积极地",
+      "note": "",
+      "paragraph": 19,
+      "quote": "The people in our 75-year study who were the happiest in retirement were the people who had actively worked to replace workmates with new playmates."
+    },
+    {
+      "word": "practically",
+      "pos": "adv.",
+      "meaning": "几乎／实际上",
+      "note": "",
+      "paragraph": 21,
+      "quote": "Well, the possibilities are practically endless."
+    },
+    {
+      "word": "stale",
+      "pos": "adj.",
+      "meaning": "失去活力、乏味的",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "word": "feud",
+      "pos": "n.",
+      "meaning": "长期不和／积怨",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "word": "grudge",
+      "pos": "n.",
+      "meaning": "怨恨",
+      "note": "",
+      "paragraph": 21,
+      "quote": "It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds take a terrible toll on the people who hold the grudges."
+    },
+    {
+      "word": "endless",
+      "pos": "adj.",
+      "meaning": "无穷的",
+      "note": "",
+      "paragraph": 21,
+      "quote": "Well, the possibilities are practically endless."
+    },
+    {
+      "word": "brief",
+      "pos": "adj.",
+      "meaning": "短暂的",
+      "note": "",
+      "paragraph": 22,
+      "quote": "More than a century ago, he was looking back on his life, and he wrote this: \"There isn't time, so brief is life, for bickerings, apologies, heartburnings, callings to account."
+    },
+    {
+      "word": "heartburning",
+      "pos": "n.",
+      "meaning": "嫉恨／内心痛苦",
+      "note": "旧式文学词，不是身体烧心；原文引述Mark Twain。",
+      "paragraph": 22,
+      "quote": "More than a century ago, he was looking back on his life, and he wrote this: \"There isn't time, so brief is life, for bickerings, apologies, heartburnings, callings to account."
+    },
+    {
+      "word": "instant",
+      "pos": "n.",
+      "meaning": "片刻",
+      "note": "",
+      "paragraph": 22,
+      "quote": "There is only time for loving, and but an instant, so to speak, for that.\""
+    },
+    {
+      "word": "apology",
+      "pos": "n.",
+      "meaning": "道歉",
+      "note": "",
+      "paragraph": 22,
+      "quote": "More than a century ago, he was looking back on his life, and he wrote this: \"There isn't time, so brief is life, for bickerings, apologies, heartburnings, callings to account."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "scope": "same_talk",
+      "reason": "同形同义重复用例保留首次或语境最完整的一例，不重复新增。",
+      "examples": [
+        "count on",
+        "go after",
+        "in the midst of",
+        "take a toll",
+        "octogenarian"
+      ]
+    }
+  ],
+  "pending": [
+    {
+      "paragraph": 22,
+      "text": "heartburnings / callings to account",
+      "reason": "文学引文旧式措辞；heartburnings暂按内心痛苦／嫉恨理解，正式教学前核权威词典。"
+    }
+  ],
+  "validation": {
+    "quote_exact_substrings": true,
+    "source_sha256_matches": true,
+    "paragraph_indices_valid": true,
+    "within_talk_labels_unique": true,
+    "timecodes": "not provided; none invented"
+  }
+}

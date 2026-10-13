@@ -1,0 +1,2288 @@
+{
+  "source": "materials/corpus/ted/english/003-sir_ken_robinson_do_schools_kill_creativity.txt",
+  "sha256": "a00548cfdb80628bfb7b163a5bcef367f5f67b2904d91f5a54a1313f1baa1e43",
+  "metadata": {
+    "Title": "Do schools kill creativity?",
+    "中文标题": "学校扼杀创造力吗？",
+    "Speaker": "Sir Ken Robinson",
+    "Year": "2006",
+    "Duration (official metadata)": "19:11",
+    "TED ID": "66",
+    "Language": "English",
+    "Official URL": "https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity",
+    "Caption source": "https://www.ted.com/talks/subtitles/id/66/lang/en",
+    "title": "Do schools kill creativity?",
+    "zh_title": "学校扼杀创造力吗？",
+    "speaker": "Sir Ken Robinson",
+    "official_url": "https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity"
+  },
+  "paragraphs_read": 105,
+  "read_ranges": [
+    [
+      1,
+      105
+    ]
+  ],
+  "second_pass": {
+    "read_ranges": [
+      [
+        1,
+        105
+      ]
+    ],
+    "focus": "逐段回看未选段、普通实词、外层框架及句内词块；笑声掌声段计号，不收作学习条目",
+    "additions": [
+      "5 play out / range",
+      "14 vested interest / grasp",
+      "36 外层澄清与准备",
+      "58 hierarchy / otherwise",
+      "73 predicated / benignly",
+      "80 come about / disciplinary",
+      "97 简短回应",
+      "101 开采隐喻词义",
+      "103 make something of"
+    ],
+    "added_chunks": [
+      "pin sb. to the wall",
+      "You OK with that?",
+      "What we do know is ...",
+      "so is ...",
+      "focus on",
+      "head home",
+      "be divided into",
+      "deal with",
+      "a series of",
+      "How did you get to be ...?"
+    ],
+    "added_vocabulary": [
+      "nonetheless",
+      "drawing",
+      "bit",
+      "run",
+      "creative",
+      "mathematics",
+      "planet",
+      "professor",
+      "typically",
+      "intelligence",
+      "brilliant",
+      "entrance",
+      "combination",
+      "beneath",
+      "fry",
+      "ballet",
+      "multimillionaire",
+      "insect",
+      "wisely"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk": "be blown away by",
+      "meaning": "被……震撼",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 3,
+      "quote": "I've been blown away by the whole thing."
+    },
+    {
+      "chunk": "run through",
+      "meaning": "贯穿",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 5,
+      "quote": "There have been three themes running through the conference, which are relevant to what I want to talk about."
+    },
+    {
+      "chunk": "be relevant to",
+      "meaning": "与……有关",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 5,
+      "quote": "There have been three themes running through the conference, which are relevant to what I want to talk about."
+    },
+    {
+      "chunk": "have no idea",
+      "meaning": "完全不知道",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 5,
+      "quote": "The second is that it's put us in a place where we have no idea what's going to happen in terms of the future."
+    },
+    {
+      "chunk": "in terms of",
+      "meaning": "就……而言",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 5,
+      "quote": "The second is that it's put us in a place where we have no idea what's going to happen in terms of the future."
+    },
+    {
+      "chunk": "play out",
+      "meaning": "展开；结果如何",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 5,
+      "quote": "No idea how this may play out."
+    },
+    {
+      "chunk": "have an interest in",
+      "meaning": "对……感兴趣",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 6,
+      "quote": "I have an interest in education."
+    },
+    {
+      "chunk": "What do you do?",
+      "meaning": "你从事什么工作？",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 10,
+      "quote": "But if you are, and you say to somebody, you know, they say, \"What do you do?\" and you say you work in education, you can see the blood run from their face."
+    },
+    {
+      "chunk": "a night out",
+      "meaning": "外出消遣的晚上",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 12,
+      "quote": "\"My one night out all week.\""
+    },
+    {
+      "chunk": "go deep with sb.",
+      "meaning": "对某人有很深的触动",
+      "register": "TED演讲；中性口语/论述",
+      "note": "此处描述教育话题牵涉深层感受，候选表达",
+      "paragraph": 14,
+      "quote": "But if you ask about their education, they pin you to the wall, because it's one of those things that goes deep with people, am I right?"
+    },
+    {
+      "chunk": "pin sb. to the wall",
+      "meaning": "使某人难以脱身；此处拉住谈教育",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 14,
+      "quote": "But if you ask about their education, they pin you to the wall, because it's one of those things that goes deep with people, am I right?"
+    },
+    {
+      "chunk": "have a vested interest in",
+      "meaning": "与……有切身利益关系",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 14,
+      "quote": "We have a huge vested interest in it, partly because it's education that's meant to take us into this future that we can't grasp."
+    },
+    {
+      "chunk": "be meant to do sth.",
+      "meaning": "本应；按目的应当做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 14,
+      "quote": "We have a huge vested interest in it, partly because it's education that's meant to take us into this future that we can't grasp."
+    },
+    {
+      "chunk": "not have a clue",
+      "meaning": "毫无头绪",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 14,
+      "quote": "Nobody has a clue, despite all the expertise that's been on parade for the past four days, what the world will look like in five years' time."
+    },
+    {
+      "chunk": "in five years' time",
+      "meaning": "五年后",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 14,
+      "quote": "Nobody has a clue, despite all the expertise that's been on parade for the past four days, what the world will look like in five years' time."
+    },
+    {
+      "chunk": "so to speak",
+      "meaning": "可以这么说；姑且这样说",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And she's exceptional, but I think she's not, so to speak, exceptional in the whole of childhood."
+    },
+    {
+      "chunk": "My contention is ...",
+      "meaning": "我的观点是……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And my contention is, all kids have tremendous talents, and we squander them, pretty ruthlessly."
+    },
+    {
+      "chunk": "as important ... as ...",
+      "meaning": "与……同样重要",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 16,
+      "quote": "My contention is that creativity now is as important in education as literacy, and we should treat it with the same status."
+    },
+    {
+      "chunk": "by the way",
+      "meaning": "顺便说一句",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 20,
+      "quote": "That was it, by the way."
+    },
+    {
+      "chunk": "hardly ever",
+      "meaning": "几乎从不",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 26,
+      "quote": "She was six, and she was at the back, drawing, and the teacher said this girl hardly ever paid attention, and in this drawing lesson, she did."
+    },
+    {
+      "chunk": "pay attention",
+      "meaning": "注意",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 26,
+      "quote": "She was six, and she was at the back, drawing, and the teacher said this girl hardly ever paid attention, and in this drawing lesson, she did."
+    },
+    {
+      "chunk": "in a minute",
+      "meaning": "一会儿之后",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 26,
+      "quote": "She went over to her, and she said, \"What are you drawing?\" And the girl said, \"I'm drawing a picture of God.\" And the teacher said, \"But nobody knows what God looks like.\" And the girl said, \"They will in a minute.\""
+    },
+    {
+      "chunk": "to be honest",
+      "meaning": "老实说",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 28,
+      "quote": "When my son was four in England -- actually, he was four everywhere, to be honest."
+    },
+    {
+      "chunk": "If we're being strict about it ...",
+      "meaning": "严格说来……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 30,
+      "quote": "If we're being strict about it, wherever he went, he was four that year."
+    },
+    {
+      "chunk": "get the part of",
+      "meaning": "获得某角色",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 34,
+      "quote": "\"Nativity II.\" But James got the part of Joseph, which we were thrilled about."
+    },
+    {
+      "chunk": "be thrilled about",
+      "meaning": "对……非常兴奋",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 34,
+      "quote": "\"Nativity II.\" But James got the part of Joseph, which we were thrilled about."
+    },
+    {
+      "chunk": "crammed full of",
+      "meaning": "挤满了",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 34,
+      "quote": "We had the place crammed full of agents in T-shirts: \"James Robinson IS Joseph!\" (Laughter) He didn't have to speak, but you know the bit where the three kings come in?"
+    },
+    {
+      "chunk": "out of sequence",
+      "meaning": "顺序乱了",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 34,
+      "quote": "We were sitting there, and I think they just went out of sequence, because we talked to the little boy afterward and said, \"You OK with that?\" They said, \"Yeah, why?"
+    },
+    {
+      "chunk": "You OK with that?",
+      "meaning": "你对此没问题吧？（省略Are）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 34,
+      "quote": "We were sitting there, and I think they just went out of sequence, because we talked to the little boy afterward and said, \"You OK with that?\" They said, \"Yeah, why?"
+    },
+    {
+      "chunk": "have sth. in common",
+      "meaning": "有某共同点",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "What these things have in common is that kids will take a chance."
+    },
+    {
+      "chunk": "take a chance",
+      "meaning": "冒险试一下",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "What these things have in common is that kids will take a chance."
+    },
+    {
+      "chunk": "have a go",
+      "meaning": "试试看",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "If they don't know, they'll have a go."
+    },
+    {
+      "chunk": "be frightened of doing sth.",
+      "meaning": "害怕做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "They're not frightened of being wrong."
+    },
+    {
+      "chunk": "I don't mean to say that ...",
+      "meaning": "我并不是说……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "I don't mean to say that being wrong is the same thing as being creative."
+    },
+    {
+      "chunk": "be prepared to do sth.",
+      "meaning": "愿意、做好心理准备做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "What we do know is, if you're not prepared to be wrong, you'll never come up with anything original -- if you're not prepared to be wrong."
+    },
+    {
+      "chunk": "come up with",
+      "meaning": "想出",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "What we do know is, if you're not prepared to be wrong, you'll never come up with anything original -- if you're not prepared to be wrong."
+    },
+    {
+      "chunk": "What we do know is ...",
+      "meaning": "我们确实知道的是……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "What we do know is, if you're not prepared to be wrong, you'll never come up with anything original -- if you're not prepared to be wrong."
+    },
+    {
+      "chunk": "by the time ...",
+      "meaning": "到……的时候",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 36,
+      "quote": "And by the time they get to be adults, most kids have lost that capacity."
+    },
+    {
+      "chunk": "educate sb. out of sth.",
+      "meaning": "通过教育使人丧失某能力",
+      "register": "TED演讲；中性口语/论述",
+      "note": "讲者对educate sb. out of的创造性运用，勿当固定搭配",
+      "paragraph": 36,
+      "quote": "And the result is that we are educating people out of their creative capacities."
+    },
+    {
+      "chunk": "grow into",
+      "meaning": "逐渐发展出；成长为",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 37,
+      "quote": "I believe this passionately, that we don't grow into creativity, we grow out of it."
+    },
+    {
+      "chunk": "grow out of",
+      "meaning": "随着成长而不再具有；脱离",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 37,
+      "quote": "I believe this passionately, that we don't grow into creativity, we grow out of it."
+    },
+    {
+      "chunk": "Or rather ...",
+      "meaning": "更确切地说……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 37,
+      "quote": "Or rather, we get educated out of it."
+    },
+    {
+      "chunk": "a seamless transition",
+      "meaning": "平顺无缝的转变",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 38,
+      "quote": "So you can imagine what a seamless transition this was."
+    },
+    {
+      "chunk": "be struck by a thought",
+      "meaning": "被某个想法触动",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "Are you struck by a new thought?"
+    },
+    {
+      "chunk": "at some point",
+      "meaning": "在某个时候",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "I mean, he was seven at some point."
+    },
+    {
+      "chunk": "How ... would that be?",
+      "meaning": "那该多……？（设想反问）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 42,
+      "quote": "How annoying would that be?"
+    },
+    {
+      "chunk": "say a word about",
+      "meaning": "简短谈一下",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 52,
+      "quote": "Anyway, we moved from Stratford to Los Angeles, and I just want to say a word about the transition."
+    },
+    {
+      "chunk": "the love of one's life",
+      "meaning": "一生挚爱",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 52,
+      "quote": "This was the love of his life, Sarah."
+    },
+    {
+      "chunk": "Mind you",
+      "meaning": "不过；提醒你注意",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 54,
+      "quote": "Mind you, they'd had their fourth anniversary, because it's a long time when you're 16."
+    },
+    {
+      "chunk": "on earth",
+      "meaning": "世上；地球上",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 58,
+      "quote": "But something strikes you when you move to America and travel around the world: every education system on earth has the same hierarchy of subjects."
+    },
+    {
+      "chunk": "You'd think ... but ...",
+      "meaning": "你可能会以为……，但……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 58,
+      "quote": "You'd think it would be otherwise, but it isn't."
+    },
+    {
+      "chunk": "pretty much",
+      "meaning": "几乎；基本上",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 58,
+      "quote": "And in pretty much every system, too, there's a hierarchy within the arts."
+    },
+    {
+      "chunk": "be given a higher status than",
+      "meaning": "被赋予比……更高的地位",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 58,
+      "quote": "Art and music are normally given a higher status in schools than drama and dance."
+    },
+    {
+      "chunk": "so is ...",
+      "meaning": "……也是如此（肯定倒装承接）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 58,
+      "quote": "I think math is very important, but so is dance."
+    },
+    {
+      "chunk": "from the waist up",
+      "meaning": "从腰部往上",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 60,
+      "quote": "Truthfully, what happens is, as children grow up, we start to educate them progressively from the waist up."
+    },
+    {
+      "chunk": "focus on",
+      "meaning": "集中注意于",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 60,
+      "quote": "And then we focus on their heads."
+    },
+    {
+      "chunk": "get brownie points",
+      "meaning": "得到赞许/表现分",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 61,
+      "quote": "If you were to visit education as an alien and say \"What's it for, public education?\" I think you'd have to conclude, if you look at the output, who really succeeds by this, who does everything they should, who gets all the brownie points, who are the winners -- I think you'd have to conclude the whole purpose of public education throughout the world is to produce university professors."
+    },
+    {
+      "chunk": "so there",
+      "meaning": "就是这样，怎么样（孩子气得意/挑衅）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 61,
+      "quote": "And I used to be one, so there."
+    },
+    {
+      "chunk": "hold sb. up as sth.",
+      "meaning": "把某人树立为某种典范",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And I like university professors, but, you know, we shouldn't hold them up as the high-water mark of all human achievement."
+    },
+    {
+      "chunk": "the high-water mark of",
+      "meaning": "……的最高水平",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And I like university professors, but, you know, we shouldn't hold them up as the high-water mark of all human achievement."
+    },
+    {
+      "chunk": "out of affection for",
+      "meaning": "出于对……的喜爱",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And I say this out of affection for them: there's something curious about professors."
+    },
+    {
+      "chunk": "In my experience",
+      "meaning": "根据我的经验",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "In my experience -- not all of them, but typically -- they live in their heads."
+    },
+    {
+      "chunk": "look upon A as B",
+      "meaning": "把A看作B",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "They look upon their body as a form of transport for their heads."
+    },
+    {
+      "chunk": "pop into",
+      "meaning": "顺路走进",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 67,
+      "quote": "If you want real evidence of out-of-body experiences, by the way, get yourself along to a residential conference of senior academics and pop into the discotheque on the final night."
+    },
+    {
+      "chunk": "off the beat",
+      "meaning": "不合拍",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 69,
+      "quote": "Grown men and women writhing uncontrollably, off the beat."
+    },
+    {
+      "chunk": "be predicated on",
+      "meaning": "以……为前提",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 73,
+      "quote": "Our education system is predicated on the idea of academic ability."
+    },
+    {
+      "chunk": "come into being",
+      "meaning": "产生；建立",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 73,
+      "quote": "They all came into being to meet the needs of industrialism."
+    },
+    {
+      "chunk": "meet the needs of",
+      "meaning": "满足……的需要",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 73,
+      "quote": "They all came into being to meet the needs of industrialism."
+    },
+    {
+      "chunk": "steer sb. away from",
+      "meaning": "引导某人远离",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 74,
+      "quote": "So you were probably steered benignly away from things at school when you were a kid, things you liked, on the grounds you would never get a job doing that."
+    },
+    {
+      "chunk": "on the grounds (that) ...",
+      "meaning": "理由是……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 74,
+      "quote": "So you were probably steered benignly away from things at school when you were a kid, things you liked, on the grounds you would never get a job doing that."
+    },
+    {
+      "chunk": "in one's image",
+      "meaning": "照某人的模式",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 75,
+      "quote": "And the second is academic ability, which has really come to dominate our view of intelligence, because the universities design the system in their image."
+    },
+    {
+      "chunk": "can't afford to do sth.",
+      "meaning": "不能承受做某事的后果",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 75,
+      "quote": "And I think we can't afford to go on that way."
+    },
+    {
+      "chunk": "go on that way",
+      "meaning": "继续按那种方式行事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 75,
+      "quote": "And I think we can't afford to go on that way."
+    },
+    {
+      "chunk": "carry on doing sth.",
+      "meaning": "继续做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 79,
+      "quote": "But now kids with degrees are often heading home to carry on playing video games, because you need an MA where the previous job required a BA, and now you need a PhD for the other."
+    },
+    {
+      "chunk": "head home",
+      "meaning": "回家",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 79,
+      "quote": "But now kids with degrees are often heading home to carry on playing video games, because you need an MA where the previous job required a BA, and now you need a PhD for the other."
+    },
+    {
+      "chunk": "in abstract terms",
+      "meaning": "以抽象概念的方式",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 80,
+      "quote": "We think in abstract terms, we think in movement."
+    },
+    {
+      "chunk": "be divided into",
+      "meaning": "被划分为",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 80,
+      "quote": "The brain isn't divided into compartments."
+    },
+    {
+      "chunk": "define A as B",
+      "meaning": "将A定义为B",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 80,
+      "quote": "In fact, creativity -- which I define as the process of having original ideas that have value -- more often than not comes about through the interaction of different disciplinary ways of seeing things."
+    },
+    {
+      "chunk": "more often than not",
+      "meaning": "多半；往往",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 80,
+      "quote": "In fact, creativity -- which I define as the process of having original ideas that have value -- more often than not comes about through the interaction of different disciplinary ways of seeing things."
+    },
+    {
+      "chunk": "come about",
+      "meaning": "发生；产生",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 80,
+      "quote": "In fact, creativity -- which I define as the process of having original ideas that have value -- more often than not comes about through the interaction of different disciplinary ways of seeing things."
+    },
+    {
+      "chunk": "a raft of",
+      "meaning": "大量的",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 81,
+      "quote": "There's a raft of research, but I know it from my personal life."
+    },
+    {
+      "chunk": "deal with",
+      "meaning": "应付；处理",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 83,
+      "quote": "But if she's cooking, she's dealing with people on the phone, she's talking to the kids, she's painting the ceiling --"
+    },
+    {
+      "chunk": "Give me a break",
+      "meaning": "饶了我吧；别打扰我",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 87,
+      "quote": "\"Give me a break.\""
+    },
+    {
+      "chunk": "old chestnut",
+      "meaning": "老掉牙的说法/话题",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 89,
+      "quote": "Actually, do you know that old philosophical thing, \"If a tree falls in a forest, and nobody hears it, did it happen?\" Remember that old chestnut?"
+    },
+    {
+      "chunk": "speak one's mind",
+      "meaning": "直抒己见",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 89,
+      "quote": "I saw a great T-shirt recently, which said, \"If a man speaks his mind in a forest, and no woman hears him, is he still wrong?\""
+    },
+    {
+      "chunk": "be based on",
+      "meaning": "以……为基础",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 91,
+      "quote": "I'm doing a new book at the moment called \"Epiphany,\" which is based on a series of interviews with people about how they discovered their talent."
+    },
+    {
+      "chunk": "a series of",
+      "meaning": "一系列",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 91,
+      "quote": "I'm doing a new book at the moment called \"Epiphany,\" which is based on a series of interviews with people about how they discovered their talent."
+    },
+    {
+      "chunk": "have never heard of",
+      "meaning": "从没听说过",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 91,
+      "quote": "It's really prompted by a conversation I had with a wonderful woman who maybe most people have never heard of, Gillian Lynne."
+    },
+    {
+      "chunk": "on the board of",
+      "meaning": "在……董事会任职",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 91,
+      "quote": "I used to be on the board of The Royal Ballet, as you can see."
+    },
+    {
+      "chunk": "How did you get to be ...?",
+      "meaning": "你是怎样成为……的？",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 93,
+      "quote": "I said, \"How did you get to be a dancer?\" It was interesting."
+    },
+    {
+      "chunk": "learning disorder",
+      "meaning": "学习障碍",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 93,
+      "quote": "And the school, in the '30s, wrote to her parents and said, \"We think Gillian has a learning disorder.\" She couldn't concentrate; she was fidgeting."
+    },
+    {
+      "chunk": "at this point",
+      "meaning": "在当时这个阶段",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 93,
+      "quote": "But this was the 1930s, and ADHD hadn't been invented at this point."
+    },
+    {
+      "chunk": "and so on",
+      "meaning": "等等",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 97,
+      "quote": "So, this oak-paneled room, and she was there with her mother, and she was led and sat on this chair at the end, and she sat on her hands for 20 minutes, while this man talked to her mother about all the problems Gillian was having at school, because she was disturbing people, her homework was always late, and so on."
+    },
+    {
+      "chunk": "We won't be very long",
+      "meaning": "我们不会花很久",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 97,
+      "quote": "We won't be very long,\" and they went and left her."
+    },
+    {
+      "chunk": "the minute ...",
+      "meaning": "一……就……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 98,
+      "quote": "And when they got out of the room, he said to her mother, \"Just stand and watch her.\" And the minute they left the room, she was on her feet, moving to the music."
+    },
+    {
+      "chunk": "on one's feet",
+      "meaning": "站起来",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 98,
+      "quote": "And when they got out of the room, he said to her mother, \"Just stand and watch her.\" And the minute they left the room, she was on her feet, moving to the music."
+    },
+    {
+      "chunk": "move to the music",
+      "meaning": "随音乐舞动",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 98,
+      "quote": "And when they got out of the room, he said to her mother, \"Just stand and watch her.\" And the minute they left the room, she was on her feet, moving to the music."
+    },
+    {
+      "chunk": "I can't tell you how ...",
+      "meaning": "难以形容有多……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 99,
+      "quote": "I can't tell you how wonderful it was."
+    },
+    {
+      "chunk": "sit still",
+      "meaning": "坐着不动",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 99,
+      "quote": "We walked in this room, and it was full of people like me -- people who couldn't sit still, people who had to move to think.\" Who had to move to think."
+    },
+    {
+      "chunk": "be responsible for",
+      "meaning": "负责；促成",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 99,
+      "quote": "She's been responsible for some of the most successful musical theater productions in history, she's given pleasure to millions, and she's a multimillionaire."
+    },
+    {
+      "chunk": "put sb. on medication",
+      "meaning": "让某人服药治疗",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 99,
+      "quote": "Somebody else might have put her on medication and told her to calm down."
+    },
+    {
+      "chunk": "calm down",
+      "meaning": "平静下来",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 99,
+      "quote": "Somebody else might have put her on medication and told her to calm down."
+    },
+    {
+      "chunk": "What ... comes to is this",
+      "meaning": "归结起来就是这样",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 101,
+      "quote": "What I think it comes to is this: Al Gore spoke the other night about ecology and the revolution that was triggered by Rachel Carson."
+    },
+    {
+      "chunk": "be triggered by",
+      "meaning": "由……引发",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 101,
+      "quote": "What I think it comes to is this: Al Gore spoke the other night about ecology and the revolution that was triggered by Rachel Carson."
+    },
+    {
+      "chunk": "adopt a new conception of",
+      "meaning": "采用对……的新认识",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 101,
+      "quote": "I believe our only hope for the future is to adopt a new conception of human ecology, one in which we start to reconstitute our conception of the richness of human capacity."
+    },
+    {
+      "chunk": "fundamental principles",
+      "meaning": "基本原则",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 101,
+      "quote": "We have to rethink the fundamental principles on which we're educating our children."
+    },
+    {
+      "chunk": "be careful that ...",
+      "meaning": "注意确保……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 103,
+      "quote": "We have to be careful now that we use this gift wisely, and that we avert some of the scenarios that we've talked about."
+    },
+    {
+      "chunk": "face the future",
+      "meaning": "面对未来",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 103,
+      "quote": "And our task is to educate their whole being, so they can face this future."
+    },
+    {
+      "chunk": "make something of sth.",
+      "meaning": "把某事物发展出有价值的成果",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 103,
+      "quote": "And our job is to help them make something of it."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "theme",
+      "pos": "n.",
+      "meaning": "主题",
+      "note": "",
+      "paragraph": 5,
+      "quote": "There have been three themes running through the conference, which are relevant to what I want to talk about."
+    },
+    {
+      "word": "relevant",
+      "pos": "adj.",
+      "meaning": "相关的",
+      "note": "",
+      "paragraph": 5,
+      "quote": "There have been three themes running through the conference, which are relevant to what I want to talk about."
+    },
+    {
+      "word": "extraordinary",
+      "pos": "adj.",
+      "meaning": "非凡的",
+      "note": "",
+      "paragraph": 5,
+      "quote": "One is the extraordinary evidence of human creativity in all of the presentations that we've had and in all of the people here; just the variety of it and the range of it."
+    },
+    {
+      "word": "evidence",
+      "pos": "n.",
+      "meaning": "证据",
+      "note": "",
+      "paragraph": 5,
+      "quote": "One is the extraordinary evidence of human creativity in all of the presentations that we've had and in all of the people here; just the variety of it and the range of it."
+    },
+    {
+      "word": "creativity",
+      "pos": "n.",
+      "meaning": "创造力",
+      "note": "",
+      "paragraph": 5,
+      "quote": "One is the extraordinary evidence of human creativity in all of the presentations that we've had and in all of the people here; just the variety of it and the range of it."
+    },
+    {
+      "word": "variety",
+      "pos": "n.",
+      "meaning": "多样性",
+      "note": "",
+      "paragraph": 5,
+      "quote": "One is the extraordinary evidence of human creativity in all of the presentations that we've had and in all of the people here; just the variety of it and the range of it."
+    },
+    {
+      "word": "range",
+      "pos": "n.",
+      "meaning": "范围；种类之广",
+      "note": "",
+      "paragraph": 5,
+      "quote": "One is the extraordinary evidence of human creativity in all of the presentations that we've had and in all of the people here; just the variety of it and the range of it."
+    },
+    {
+      "word": "frankly",
+      "pos": "adv.",
+      "meaning": "坦率说",
+      "note": "",
+      "paragraph": 6,
+      "quote": "If you're at a dinner party, and you say you work in education -- actually, you're not often at dinner parties, frankly."
+    },
+    {
+      "word": "curiously",
+      "pos": "adv.",
+      "meaning": "奇怪的是",
+      "note": "",
+      "paragraph": 10,
+      "quote": "And you're never asked back, curiously."
+    },
+    {
+      "word": "vested",
+      "pos": "adj.",
+      "meaning": "既定、切身的（vested interest）",
+      "note": "",
+      "paragraph": 14,
+      "quote": "We have a huge vested interest in it, partly because it's education that's meant to take us into this future that we can't grasp."
+    },
+    {
+      "word": "grasp",
+      "pos": "v.",
+      "meaning": "理解；把握",
+      "note": "",
+      "paragraph": 14,
+      "quote": "We have a huge vested interest in it, partly because it's education that's meant to take us into this future that we can't grasp."
+    },
+    {
+      "word": "retire",
+      "pos": "v.",
+      "meaning": "退休",
+      "note": "",
+      "paragraph": 14,
+      "quote": "If you think of it, children starting school this year will be retiring in 2065."
+    },
+    {
+      "word": "expertise",
+      "pos": "n.",
+      "meaning": "专门知识/技能",
+      "note": "",
+      "paragraph": 14,
+      "quote": "Nobody has a clue, despite all the expertise that's been on parade for the past four days, what the world will look like in five years' time."
+    },
+    {
+      "word": "parade",
+      "pos": "n.",
+      "meaning": "展示；此处指各种专家知识登场",
+      "note": "",
+      "paragraph": 14,
+      "quote": "Nobody has a clue, despite all the expertise that's been on parade for the past four days, what the world will look like in five years' time."
+    },
+    {
+      "word": "unpredictability",
+      "pos": "n.",
+      "meaning": "无法预测的特性",
+      "note": "",
+      "paragraph": 14,
+      "quote": "So the unpredictability, I think, is extraordinary."
+    },
+    {
+      "word": "capacity",
+      "pos": "n.",
+      "meaning": "能力；潜能",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And the third part of this is that we've all agreed, nonetheless, on the really extraordinary capacities that children have -- their capacities for innovation."
+    },
+    {
+      "word": "innovation",
+      "pos": "n.",
+      "meaning": "创新",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And the third part of this is that we've all agreed, nonetheless, on the really extraordinary capacities that children have -- their capacities for innovation."
+    },
+    {
+      "word": "nonetheless",
+      "pos": "adv.",
+      "meaning": "尽管如此",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And the third part of this is that we've all agreed, nonetheless, on the really extraordinary capacities that children have -- their capacities for innovation."
+    },
+    {
+      "word": "marvel",
+      "pos": "n.",
+      "meaning": "令人惊叹的人/事",
+      "note": "",
+      "paragraph": 15,
+      "quote": "I mean, Sirena last night was a marvel, wasn't she?"
+    },
+    {
+      "word": "exceptional",
+      "pos": "adj.",
+      "meaning": "出众的；也可指例外的",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And she's exceptional, but I think she's not, so to speak, exceptional in the whole of childhood."
+    },
+    {
+      "word": "dedication",
+      "pos": "n.",
+      "meaning": "投入；奉献",
+      "note": "",
+      "paragraph": 15,
+      "quote": "What you have there is a person of extraordinary dedication who found a talent."
+    },
+    {
+      "word": "talent",
+      "pos": "n.",
+      "meaning": "天赋",
+      "note": "",
+      "paragraph": 15,
+      "quote": "What you have there is a person of extraordinary dedication who found a talent."
+    },
+    {
+      "word": "contention",
+      "pos": "n.",
+      "meaning": "论点；主张",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And my contention is, all kids have tremendous talents, and we squander them, pretty ruthlessly."
+    },
+    {
+      "word": "tremendous",
+      "pos": "adj.",
+      "meaning": "极大的",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And my contention is, all kids have tremendous talents, and we squander them, pretty ruthlessly."
+    },
+    {
+      "word": "squander",
+      "pos": "v.",
+      "meaning": "浪费",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And my contention is, all kids have tremendous talents, and we squander them, pretty ruthlessly."
+    },
+    {
+      "word": "ruthlessly",
+      "pos": "adv.",
+      "meaning": "毫不留情地",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And my contention is, all kids have tremendous talents, and we squander them, pretty ruthlessly."
+    },
+    {
+      "word": "literacy",
+      "pos": "n.",
+      "meaning": "读写能力",
+      "note": "",
+      "paragraph": 16,
+      "quote": "My contention is that creativity now is as important in education as literacy, and we should treat it with the same status."
+    },
+    {
+      "word": "status",
+      "pos": "n.",
+      "meaning": "地位",
+      "note": "",
+      "paragraph": 16,
+      "quote": "My contention is that creativity now is as important in education as literacy, and we should treat it with the same status."
+    },
+    {
+      "word": "drawing",
+      "pos": "n.",
+      "meaning": "绘画",
+      "note": "",
+      "paragraph": 26,
+      "quote": "I heard a great story recently -- I love telling it -- of a little girl who was in a drawing lesson."
+    },
+    {
+      "word": "fascinate",
+      "pos": "v.",
+      "meaning": "使着迷",
+      "note": "",
+      "paragraph": 26,
+      "quote": "The teacher was fascinated."
+    },
+    {
+      "word": "strict",
+      "pos": "adj.",
+      "meaning": "严格、严谨的",
+      "note": "",
+      "paragraph": 30,
+      "quote": "If we're being strict about it, wherever he went, he was four that year."
+    },
+    {
+      "word": "Nativity",
+      "pos": "n.",
+      "meaning": "耶稣诞生（圣诞剧题材）",
+      "note": "",
+      "paragraph": 30,
+      "quote": "He was in the Nativity play."
+    },
+    {
+      "word": "sequel",
+      "pos": "n.",
+      "meaning": "续集",
+      "note": "",
+      "paragraph": 32,
+      "quote": "Mel Gibson did the sequel, you may have seen it."
+    },
+    {
+      "word": "part",
+      "pos": "n.",
+      "meaning": "戏剧角色",
+      "note": "",
+      "paragraph": 34,
+      "quote": "\"Nativity II.\" But James got the part of Joseph, which we were thrilled about."
+    },
+    {
+      "word": "lead",
+      "pos": "adj.",
+      "meaning": "主要的（lead parts主角）",
+      "note": "",
+      "paragraph": 34,
+      "quote": "We considered this to be one of the lead parts."
+    },
+    {
+      "word": "agent",
+      "pos": "n.",
+      "meaning": "经纪人",
+      "note": "",
+      "paragraph": 34,
+      "quote": "We had the place crammed full of agents in T-shirts: \"James Robinson IS Joseph!\" (Laughter) He didn't have to speak, but you know the bit where the three kings come in?"
+    },
+    {
+      "word": "bit",
+      "pos": "n.",
+      "meaning": "（故事里的）那一段",
+      "note": "",
+      "paragraph": 34,
+      "quote": "We had the place crammed full of agents in T-shirts: \"James Robinson IS Joseph!\" (Laughter) He didn't have to speak, but you know the bit where the three kings come in?"
+    },
+    {
+      "word": "bear",
+      "pos": "v.",
+      "meaning": "携带",
+      "note": "",
+      "paragraph": 34,
+      "quote": "They come in bearing gifts, gold, frankincense and myrrh."
+    },
+    {
+      "word": "frankincense",
+      "pos": "n.",
+      "meaning": "乳香",
+      "note": "",
+      "paragraph": 34,
+      "quote": "They come in bearing gifts, gold, frankincense and myrrh."
+    },
+    {
+      "word": "myrrh",
+      "pos": "n.",
+      "meaning": "没药（一种香树脂）",
+      "note": "",
+      "paragraph": 34,
+      "quote": "They come in bearing gifts, gold, frankincense and myrrh."
+    },
+    {
+      "word": "sequence",
+      "pos": "n.",
+      "meaning": "先后顺序",
+      "note": "",
+      "paragraph": 34,
+      "quote": "We were sitting there, and I think they just went out of sequence, because we talked to the little boy afterward and said, \"You OK with that?\" They said, \"Yeah, why?"
+    },
+    {
+      "word": "tea towel",
+      "pos": "n.",
+      "meaning": "擦碗巾",
+      "note": "",
+      "paragraph": 34,
+      "quote": "The three boys came in, four-year-olds with tea towels on their heads."
+    },
+    {
+      "word": "creative",
+      "pos": "adj.",
+      "meaning": "有创造力的",
+      "note": "",
+      "paragraph": 36,
+      "quote": "I don't mean to say that being wrong is the same thing as being creative."
+    },
+    {
+      "word": "original",
+      "pos": "adj.",
+      "meaning": "原创的",
+      "note": "",
+      "paragraph": 36,
+      "quote": "What we do know is, if you're not prepared to be wrong, you'll never come up with anything original -- if you're not prepared to be wrong."
+    },
+    {
+      "word": "run",
+      "pos": "v.",
+      "meaning": "经营；运作",
+      "note": "",
+      "paragraph": 36,
+      "quote": "And we run our companies like this."
+    },
+    {
+      "word": "stigmatize",
+      "pos": "v.",
+      "meaning": "使受到污名；视为耻辱",
+      "note": "",
+      "paragraph": 36,
+      "quote": "We stigmatize mistakes."
+    },
+    {
+      "word": "passionately",
+      "pos": "adv.",
+      "meaning": "热烈坚定地",
+      "note": "",
+      "paragraph": 37,
+      "quote": "I believe this passionately, that we don't grow into creativity, we grow out of it."
+    },
+    {
+      "word": "seamless",
+      "pos": "adj.",
+      "meaning": "无缝的；顺畅无碍的",
+      "note": "",
+      "paragraph": 38,
+      "quote": "So you can imagine what a seamless transition this was."
+    },
+    {
+      "word": "transition",
+      "pos": "n.",
+      "meaning": "转变；搬迁后的适应",
+      "note": "",
+      "paragraph": 38,
+      "quote": "So you can imagine what a seamless transition this was."
+    },
+    {
+      "word": "annoying",
+      "pos": "adj.",
+      "meaning": "惹人烦的",
+      "note": "",
+      "paragraph": 42,
+      "quote": "How annoying would that be?"
+    },
+    {
+      "word": "anniversary",
+      "pos": "n.",
+      "meaning": "周年纪念日",
+      "note": "",
+      "paragraph": 54,
+      "quote": "Mind you, they'd had their fourth anniversary, because it's a long time when you're 16."
+    },
+    {
+      "word": "upset",
+      "pos": "adj.",
+      "meaning": "难过、心烦的",
+      "note": "",
+      "paragraph": 54,
+      "quote": "He was really upset on the plane."
+    },
+    {
+      "word": "pleased",
+      "pos": "adj.",
+      "meaning": "高兴的",
+      "note": "",
+      "paragraph": 54,
+      "quote": "He said, \"I'll never find another girl like Sarah.\" And we were rather pleased about that, frankly --"
+    },
+    {
+      "word": "hierarchy",
+      "pos": "n.",
+      "meaning": "等级体系",
+      "note": "",
+      "paragraph": 58,
+      "quote": "But something strikes you when you move to America and travel around the world: every education system on earth has the same hierarchy of subjects."
+    },
+    {
+      "word": "subject",
+      "pos": "n.",
+      "meaning": "学科",
+      "note": "",
+      "paragraph": 58,
+      "quote": "But something strikes you when you move to America and travel around the world: every education system on earth has the same hierarchy of subjects."
+    },
+    {
+      "word": "otherwise",
+      "pos": "adv.",
+      "meaning": "并非如此；另一种情况",
+      "note": "",
+      "paragraph": 58,
+      "quote": "You'd think it would be otherwise, but it isn't."
+    },
+    {
+      "word": "humanities",
+      "pos": "n.",
+      "meaning": "人文学科",
+      "note": "",
+      "paragraph": 58,
+      "quote": "At the top are mathematics and languages, then the humanities."
+    },
+    {
+      "word": "mathematics",
+      "pos": "n.",
+      "meaning": "数学",
+      "note": "",
+      "paragraph": 58,
+      "quote": "At the top are mathematics and languages, then the humanities."
+    },
+    {
+      "word": "arts",
+      "pos": "n.",
+      "meaning": "艺术类学科",
+      "note": "",
+      "paragraph": 58,
+      "quote": "At the bottom are the arts."
+    },
+    {
+      "word": "drama",
+      "pos": "n.",
+      "meaning": "戏剧",
+      "note": "",
+      "paragraph": 58,
+      "quote": "Art and music are normally given a higher status in schools than drama and dance."
+    },
+    {
+      "word": "planet",
+      "pos": "n.",
+      "meaning": "星球",
+      "note": "",
+      "paragraph": 58,
+      "quote": "There isn't an education system on the planet that teaches dance every day to children the way we teach them mathematics."
+    },
+    {
+      "word": "progressively",
+      "pos": "adv.",
+      "meaning": "逐步地",
+      "note": "",
+      "paragraph": 60,
+      "quote": "Truthfully, what happens is, as children grow up, we start to educate them progressively from the waist up."
+    },
+    {
+      "word": "waist",
+      "pos": "n.",
+      "meaning": "腰",
+      "note": "",
+      "paragraph": 60,
+      "quote": "Truthfully, what happens is, as children grow up, we start to educate them progressively from the waist up."
+    },
+    {
+      "word": "alien",
+      "pos": "n.",
+      "meaning": "外星人",
+      "note": "",
+      "paragraph": 61,
+      "quote": "If you were to visit education as an alien and say \"What's it for, public education?\" I think you'd have to conclude, if you look at the output, who really succeeds by this, who does everything they should, who gets all the brownie points, who are the winners -- I think you'd have to conclude the whole purpose of public education throughout the world is to produce university professors."
+    },
+    {
+      "word": "conclude",
+      "pos": "v.",
+      "meaning": "得出结论",
+      "note": "",
+      "paragraph": 61,
+      "quote": "If you were to visit education as an alien and say \"What's it for, public education?\" I think you'd have to conclude, if you look at the output, who really succeeds by this, who does everything they should, who gets all the brownie points, who are the winners -- I think you'd have to conclude the whole purpose of public education throughout the world is to produce university professors."
+    },
+    {
+      "word": "output",
+      "pos": "n.",
+      "meaning": "产出；培养出来的人",
+      "note": "",
+      "paragraph": 61,
+      "quote": "If you were to visit education as an alien and say \"What's it for, public education?\" I think you'd have to conclude, if you look at the output, who really succeeds by this, who does everything they should, who gets all the brownie points, who are the winners -- I think you'd have to conclude the whole purpose of public education throughout the world is to produce university professors."
+    },
+    {
+      "word": "brownie point",
+      "pos": "n.",
+      "meaning": "因讨好或表现得到的认可",
+      "note": "",
+      "paragraph": 61,
+      "quote": "If you were to visit education as an alien and say \"What's it for, public education?\" I think you'd have to conclude, if you look at the output, who really succeeds by this, who does everything they should, who gets all the brownie points, who are the winners -- I think you'd have to conclude the whole purpose of public education throughout the world is to produce university professors."
+    },
+    {
+      "word": "professor",
+      "pos": "n.",
+      "meaning": "大学教授",
+      "note": "",
+      "paragraph": 61,
+      "quote": "If you were to visit education as an alien and say \"What's it for, public education?\" I think you'd have to conclude, if you look at the output, who really succeeds by this, who does everything they should, who gets all the brownie points, who are the winners -- I think you'd have to conclude the whole purpose of public education throughout the world is to produce university professors."
+    },
+    {
+      "word": "high-water mark",
+      "pos": "n.",
+      "meaning": "最高水平",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And I like university professors, but, you know, we shouldn't hold them up as the high-water mark of all human achievement."
+    },
+    {
+      "word": "achievement",
+      "pos": "n.",
+      "meaning": "成就",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And I like university professors, but, you know, we shouldn't hold them up as the high-water mark of all human achievement."
+    },
+    {
+      "word": "curious",
+      "pos": "adj.",
+      "meaning": "奇怪的",
+      "note": "",
+      "paragraph": 63,
+      "quote": "But they're rather curious."
+    },
+    {
+      "word": "affection",
+      "pos": "n.",
+      "meaning": "喜爱；感情",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And I say this out of affection for them: there's something curious about professors."
+    },
+    {
+      "word": "typically",
+      "pos": "adv.",
+      "meaning": "通常地；典型地",
+      "note": "",
+      "paragraph": 63,
+      "quote": "In my experience -- not all of them, but typically -- they live in their heads."
+    },
+    {
+      "word": "disembodied",
+      "pos": "adj.",
+      "meaning": "脱离身体的；此处戏称只在头脑里生活",
+      "note": "",
+      "paragraph": 63,
+      "quote": "They're disembodied, you know, in a kind of literal way."
+    },
+    {
+      "word": "literal",
+      "pos": "adj.",
+      "meaning": "字面的；实际的",
+      "note": "",
+      "paragraph": 63,
+      "quote": "They're disembodied, you know, in a kind of literal way."
+    },
+    {
+      "word": "transport",
+      "pos": "n.",
+      "meaning": "运输工具；运输",
+      "note": "",
+      "paragraph": 63,
+      "quote": "They look upon their body as a form of transport for their heads."
+    },
+    {
+      "word": "residential",
+      "pos": "adj.",
+      "meaning": "提供住宿的",
+      "note": "",
+      "paragraph": 67,
+      "quote": "If you want real evidence of out-of-body experiences, by the way, get yourself along to a residential conference of senior academics and pop into the discotheque on the final night."
+    },
+    {
+      "word": "academic",
+      "pos": "n.",
+      "meaning": "学者",
+      "note": "",
+      "paragraph": 67,
+      "quote": "If you want real evidence of out-of-body experiences, by the way, get yourself along to a residential conference of senior academics and pop into the discotheque on the final night."
+    },
+    {
+      "word": "discotheque",
+      "pos": "n.",
+      "meaning": "迪斯科舞厅",
+      "note": "",
+      "paragraph": 67,
+      "quote": "If you want real evidence of out-of-body experiences, by the way, get yourself along to a residential conference of senior academics and pop into the discotheque on the final night."
+    },
+    {
+      "word": "writhe",
+      "pos": "v.",
+      "meaning": "扭动身体",
+      "note": "",
+      "paragraph": 69,
+      "quote": "Grown men and women writhing uncontrollably, off the beat."
+    },
+    {
+      "word": "uncontrollably",
+      "pos": "adv.",
+      "meaning": "无法控制地",
+      "note": "",
+      "paragraph": 69,
+      "quote": "Grown men and women writhing uncontrollably, off the beat."
+    },
+    {
+      "word": "predicate",
+      "pos": "v.",
+      "meaning": "使基于某前提",
+      "note": "",
+      "paragraph": 73,
+      "quote": "Our education system is predicated on the idea of academic ability."
+    },
+    {
+      "word": "academic",
+      "pos": "adj.",
+      "meaning": "学术/学业的",
+      "note": "",
+      "paragraph": 73,
+      "quote": "Our education system is predicated on the idea of academic ability."
+    },
+    {
+      "word": "industrialism",
+      "pos": "n.",
+      "meaning": "工业主义；工业化体制",
+      "note": "",
+      "paragraph": 73,
+      "quote": "They all came into being to meet the needs of industrialism."
+    },
+    {
+      "word": "steer",
+      "pos": "v.",
+      "meaning": "引导",
+      "note": "",
+      "paragraph": 74,
+      "quote": "So you were probably steered benignly away from things at school when you were a kid, things you liked, on the grounds you would never get a job doing that."
+    },
+    {
+      "word": "benignly",
+      "pos": "adv.",
+      "meaning": "善意地",
+      "note": "",
+      "paragraph": 74,
+      "quote": "So you were probably steered benignly away from things at school when you were a kid, things you liked, on the grounds you would never get a job doing that."
+    },
+    {
+      "word": "ground",
+      "pos": "n.",
+      "meaning": "理由；依据",
+      "note": "",
+      "paragraph": 74,
+      "quote": "So you were probably steered benignly away from things at school when you were a kid, things you liked, on the grounds you would never get a job doing that."
+    },
+    {
+      "word": "profoundly",
+      "pos": "adv.",
+      "meaning": "极其；深刻地",
+      "note": "",
+      "paragraph": 74,
+      "quote": "\"Don't do music, you're not going to be a musician; don't do art, you won't be an artist.\" Benign advice -- now, profoundly mistaken."
+    },
+    {
+      "word": "mistaken",
+      "pos": "adj.",
+      "meaning": "错误的",
+      "note": "",
+      "paragraph": 74,
+      "quote": "\"Don't do music, you're not going to be a musician; don't do art, you won't be an artist.\" Benign advice -- now, profoundly mistaken."
+    },
+    {
+      "word": "engulf",
+      "pos": "v.",
+      "meaning": "吞没；使全面卷入",
+      "note": "",
+      "paragraph": 74,
+      "quote": "The whole world is engulfed in a revolution."
+    },
+    {
+      "word": "revolution",
+      "pos": "n.",
+      "meaning": "巨大变革",
+      "note": "",
+      "paragraph": 74,
+      "quote": "The whole world is engulfed in a revolution."
+    },
+    {
+      "word": "dominate",
+      "pos": "v.",
+      "meaning": "主导",
+      "note": "",
+      "paragraph": 75,
+      "quote": "And the second is academic ability, which has really come to dominate our view of intelligence, because the universities design the system in their image."
+    },
+    {
+      "word": "intelligence",
+      "pos": "n.",
+      "meaning": "智力",
+      "note": "",
+      "paragraph": 75,
+      "quote": "And the second is academic ability, which has really come to dominate our view of intelligence, because the universities design the system in their image."
+    },
+    {
+      "word": "protracted",
+      "pos": "adj.",
+      "meaning": "拖长的",
+      "note": "",
+      "paragraph": 75,
+      "quote": "If you think of it, the whole system of public education around the world is a protracted process of university entrance."
+    },
+    {
+      "word": "entrance",
+      "pos": "n.",
+      "meaning": "入学",
+      "note": "",
+      "paragraph": 75,
+      "quote": "If you think of it, the whole system of public education around the world is a protracted process of university entrance."
+    },
+    {
+      "word": "value",
+      "pos": "v.",
+      "meaning": "重视；认为有价值",
+      "note": "",
+      "paragraph": 75,
+      "quote": "And the consequence is that many highly talented, brilliant, creative people think they're not, because the thing they were good at at school wasn't valued, or was actually stigmatized."
+    },
+    {
+      "word": "brilliant",
+      "pos": "adj.",
+      "meaning": "才华出众的",
+      "note": "",
+      "paragraph": 75,
+      "quote": "And the consequence is that many highly talented, brilliant, creative people think they're not, because the thing they were good at at school wasn't valued, or was actually stigmatized."
+    },
+    {
+      "word": "transformational",
+      "pos": "adj.",
+      "meaning": "引起根本改变的",
+      "note": "",
+      "paragraph": 76,
+      "quote": "And it's the combination of all the things we've talked about: technology and its transformational effect on work, and demography and the huge explosion in population."
+    },
+    {
+      "word": "demography",
+      "pos": "n.",
+      "meaning": "人口学；人口结构变化",
+      "note": "",
+      "paragraph": 76,
+      "quote": "And it's the combination of all the things we've talked about: technology and its transformational effect on work, and demography and the huge explosion in population."
+    },
+    {
+      "word": "explosion",
+      "pos": "n.",
+      "meaning": "迅猛增长",
+      "note": "",
+      "paragraph": 76,
+      "quote": "And it's the combination of all the things we've talked about: technology and its transformational effect on work, and demography and the huge explosion in population."
+    },
+    {
+      "word": "combination",
+      "pos": "n.",
+      "meaning": "多种因素的结合",
+      "note": "",
+      "paragraph": 76,
+      "quote": "And it's the combination of all the things we've talked about: technology and its transformational effect on work, and demography and the huge explosion in population."
+    },
+    {
+      "word": "degree",
+      "pos": "n.",
+      "meaning": "学位",
+      "note": "",
+      "paragraph": 77,
+      "quote": "Suddenly, degrees aren't worth anything."
+    },
+    {
+      "word": "inflation",
+      "pos": "n.",
+      "meaning": "膨胀；此处学历贬值",
+      "note": "",
+      "paragraph": 79,
+      "quote": "It's a process of academic inflation."
+    },
+    {
+      "word": "shift",
+      "pos": "v.",
+      "meaning": "改变；移动",
+      "note": "",
+      "paragraph": 79,
+      "quote": "And it indicates the whole structure of education is shifting beneath our feet."
+    },
+    {
+      "word": "beneath",
+      "pos": "prep.",
+      "meaning": "在……下面",
+      "note": "",
+      "paragraph": 79,
+      "quote": "And it indicates the whole structure of education is shifting beneath our feet."
+    },
+    {
+      "word": "radically",
+      "pos": "adv.",
+      "meaning": "根本地",
+      "note": "",
+      "paragraph": 79,
+      "quote": "We need to radically rethink our view of intelligence."
+    },
+    {
+      "word": "rethink",
+      "pos": "v.",
+      "meaning": "重新思考",
+      "note": "",
+      "paragraph": 79,
+      "quote": "We need to radically rethink our view of intelligence."
+    },
+    {
+      "word": "diverse",
+      "pos": "adj.",
+      "meaning": "多样的",
+      "note": "",
+      "paragraph": 80,
+      "quote": "One, it's diverse."
+    },
+    {
+      "word": "kinesthetically",
+      "pos": "adv.",
+      "meaning": "通过身体运动感觉地",
+      "note": "",
+      "paragraph": 80,
+      "quote": "We think visually, we think in sound, we think kinesthetically."
+    },
+    {
+      "word": "abstract",
+      "pos": "adj.",
+      "meaning": "抽象的",
+      "note": "",
+      "paragraph": 80,
+      "quote": "We think in abstract terms, we think in movement."
+    },
+    {
+      "word": "dynamic",
+      "pos": "adj.",
+      "meaning": "动态变化的",
+      "note": "",
+      "paragraph": 80,
+      "quote": "Secondly, intelligence is dynamic."
+    },
+    {
+      "word": "interaction",
+      "pos": "n.",
+      "meaning": "相互作用",
+      "note": "",
+      "paragraph": 80,
+      "quote": "If you look at the interactions of a human brain, as we heard yesterday from a number of presentations, intelligence is wonderfully interactive."
+    },
+    {
+      "word": "interactive",
+      "pos": "adj.",
+      "meaning": "彼此作用的",
+      "note": "",
+      "paragraph": 80,
+      "quote": "If you look at the interactions of a human brain, as we heard yesterday from a number of presentations, intelligence is wonderfully interactive."
+    },
+    {
+      "word": "compartment",
+      "pos": "n.",
+      "meaning": "分隔开的空间",
+      "note": "",
+      "paragraph": 80,
+      "quote": "The brain isn't divided into compartments."
+    },
+    {
+      "word": "disciplinary",
+      "pos": "adj.",
+      "meaning": "学科的",
+      "note": "",
+      "paragraph": 80,
+      "quote": "In fact, creativity -- which I define as the process of having original ideas that have value -- more often than not comes about through the interaction of different disciplinary ways of seeing things."
+    },
+    {
+      "word": "shaft",
+      "pos": "n.",
+      "meaning": "长条束状结构（此处神经束）",
+      "note": "",
+      "paragraph": 81,
+      "quote": "By the way, there's a shaft of nerves that joins the two halves of the brain, called the corpus callosum."
+    },
+    {
+      "word": "nerve",
+      "pos": "n.",
+      "meaning": "神经",
+      "note": "",
+      "paragraph": 81,
+      "quote": "By the way, there's a shaft of nerves that joins the two halves of the brain, called the corpus callosum."
+    },
+    {
+      "word": "corpus callosum",
+      "pos": "n.",
+      "meaning": "胼胝体",
+      "note": "",
+      "paragraph": 81,
+      "quote": "By the way, there's a shaft of nerves that joins the two halves of the brain, called the corpus callosum."
+    },
+    {
+      "word": "multitasking",
+      "pos": "n.",
+      "meaning": "同时处理多个任务",
+      "note": "",
+      "paragraph": 81,
+      "quote": "Following off from Helen yesterday, this is probably why women are better at multitasking."
+    },
+    {
+      "word": "raft",
+      "pos": "n.",
+      "meaning": "大量（a raft of）",
+      "note": "",
+      "paragraph": 81,
+      "quote": "There's a raft of research, but I know it from my personal life."
+    },
+    {
+      "word": "ceiling",
+      "pos": "n.",
+      "meaning": "天花板",
+      "note": "",
+      "paragraph": 83,
+      "quote": "But if she's cooking, she's dealing with people on the phone, she's talking to the kids, she's painting the ceiling --"
+    },
+    {
+      "word": "open-heart",
+      "pos": "adj.",
+      "meaning": "开胸心脏手术的",
+      "note": "",
+      "paragraph": 85,
+      "quote": "she's doing open-heart surgery over here."
+    },
+    {
+      "word": "hook",
+      "pos": "n.",
+      "meaning": "电话挂钩；旧式电话放下的位置",
+      "note": "",
+      "paragraph": 85,
+      "quote": "If I'm cooking, the door is shut, the kids are out, the phone's on the hook, if she comes in, I get annoyed."
+    },
+    {
+      "word": "fry",
+      "pos": "v.",
+      "meaning": "煎",
+      "note": "",
+      "paragraph": 85,
+      "quote": "I say, \"Terry, please, I'm trying to fry an egg in here.\""
+    },
+    {
+      "word": "philosophical",
+      "pos": "adj.",
+      "meaning": "哲学的",
+      "note": "",
+      "paragraph": 89,
+      "quote": "Actually, do you know that old philosophical thing, \"If a tree falls in a forest, and nobody hears it, did it happen?\" Remember that old chestnut?"
+    },
+    {
+      "word": "chestnut",
+      "pos": "n.",
+      "meaning": "陈旧常谈（old chestnut）",
+      "note": "",
+      "paragraph": 89,
+      "quote": "Actually, do you know that old philosophical thing, \"If a tree falls in a forest, and nobody hears it, did it happen?\" Remember that old chestnut?"
+    },
+    {
+      "word": "distinct",
+      "pos": "adj.",
+      "meaning": "各有特点的；独特的",
+      "note": "",
+      "paragraph": 91,
+      "quote": "And the third thing about intelligence is, it's distinct."
+    },
+    {
+      "word": "epiphany",
+      "pos": "n.",
+      "meaning": "顿悟",
+      "note": "",
+      "paragraph": 91,
+      "quote": "I'm doing a new book at the moment called \"Epiphany,\" which is based on a series of interviews with people about how they discovered their talent."
+    },
+    {
+      "word": "prompt",
+      "pos": "v.",
+      "meaning": "促使；引起",
+      "note": "",
+      "paragraph": 91,
+      "quote": "It's really prompted by a conversation I had with a wonderful woman who maybe most people have never heard of, Gillian Lynne."
+    },
+    {
+      "word": "choreographer",
+      "pos": "n.",
+      "meaning": "编舞者",
+      "note": "",
+      "paragraph": 91,
+      "quote": "She's a choreographer, and everybody knows her work."
+    },
+    {
+      "word": "board",
+      "pos": "n.",
+      "meaning": "董事会/理事会",
+      "note": "",
+      "paragraph": 91,
+      "quote": "I used to be on the board of The Royal Ballet, as you can see."
+    },
+    {
+      "word": "hopeless",
+      "pos": "adj.",
+      "meaning": "表现差得无可救药的（讲者转述学校看法）",
+      "note": "",
+      "paragraph": 93,
+      "quote": "When she was at school, she was really hopeless."
+    },
+    {
+      "word": "disorder",
+      "pos": "n.",
+      "meaning": "障碍；失调",
+      "note": "",
+      "paragraph": 93,
+      "quote": "And the school, in the '30s, wrote to her parents and said, \"We think Gillian has a learning disorder.\" She couldn't concentrate; she was fidgeting."
+    },
+    {
+      "word": "concentrate",
+      "pos": "v.",
+      "meaning": "集中注意力",
+      "note": "",
+      "paragraph": 93,
+      "quote": "And the school, in the '30s, wrote to her parents and said, \"We think Gillian has a learning disorder.\" She couldn't concentrate; she was fidgeting."
+    },
+    {
+      "word": "fidget",
+      "pos": "v.",
+      "meaning": "坐立不安；不断小动作",
+      "note": "",
+      "paragraph": 93,
+      "quote": "And the school, in the '30s, wrote to her parents and said, \"We think Gillian has a learning disorder.\" She couldn't concentrate; she was fidgeting."
+    },
+    {
+      "word": "condition",
+      "pos": "n.",
+      "meaning": "医学上的疾病/状态",
+      "note": "",
+      "paragraph": 93,
+      "quote": "It wasn't an available condition."
+    },
+    {
+      "word": "specialist",
+      "pos": "n.",
+      "meaning": "专科专家/医生",
+      "note": "",
+      "paragraph": 97,
+      "quote": "Anyway, she went to see this specialist."
+    },
+    {
+      "word": "oak-paneled",
+      "pos": "adj.",
+      "meaning": "用橡木板装饰的",
+      "note": "",
+      "paragraph": 97,
+      "quote": "So, this oak-paneled room, and she was there with her mother, and she was led and sat on this chair at the end, and she sat on her hands for 20 minutes, while this man talked to her mother about all the problems Gillian was having at school, because she was disturbing people, her homework was always late, and so on."
+    },
+    {
+      "word": "disturb",
+      "pos": "v.",
+      "meaning": "打扰",
+      "note": "",
+      "paragraph": 97,
+      "quote": "So, this oak-paneled room, and she was there with her mother, and she was led and sat on this chair at the end, and she sat on her hands for 20 minutes, while this man talked to her mother about all the problems Gillian was having at school, because she was disturbing people, her homework was always late, and so on."
+    },
+    {
+      "word": "tap",
+      "pos": "n.",
+      "meaning": "踢踏舞",
+      "note": "",
+      "paragraph": 99,
+      "quote": "They did ballet, they did tap, jazz; they did modern; they did contemporary."
+    },
+    {
+      "word": "contemporary",
+      "pos": "adj./n.",
+      "meaning": "当代的；此处当代舞",
+      "note": "",
+      "paragraph": 99,
+      "quote": "They did ballet, they did tap, jazz; they did modern; they did contemporary."
+    },
+    {
+      "word": "ballet",
+      "pos": "n.",
+      "meaning": "芭蕾舞",
+      "note": "",
+      "paragraph": 99,
+      "quote": "They did ballet, they did tap, jazz; they did modern; they did contemporary."
+    },
+    {
+      "word": "audition",
+      "pos": "v.",
+      "meaning": "接受试演/选拔",
+      "note": "",
+      "paragraph": 99,
+      "quote": "She was eventually auditioned for the Royal Ballet School."
+    },
+    {
+      "word": "soloist",
+      "pos": "n.",
+      "meaning": "独舞者",
+      "note": "",
+      "paragraph": 99,
+      "quote": "She became a soloist; she had a wonderful career at the Royal Ballet."
+    },
+    {
+      "word": "production",
+      "pos": "n.",
+      "meaning": "舞台作品/制作",
+      "note": "",
+      "paragraph": 99,
+      "quote": "She's been responsible for some of the most successful musical theater productions in history, she's given pleasure to millions, and she's a multimillionaire."
+    },
+    {
+      "word": "multimillionaire",
+      "pos": "n.",
+      "meaning": "拥有数百万财富的人",
+      "note": "",
+      "paragraph": 99,
+      "quote": "She's been responsible for some of the most successful musical theater productions in history, she's given pleasure to millions, and she's a multimillionaire."
+    },
+    {
+      "word": "medication",
+      "pos": "n.",
+      "meaning": "药物治疗",
+      "note": "",
+      "paragraph": 99,
+      "quote": "Somebody else might have put her on medication and told her to calm down."
+    },
+    {
+      "word": "ecology",
+      "pos": "n.",
+      "meaning": "生态学；此处人类能力的整体生态",
+      "note": "",
+      "paragraph": 101,
+      "quote": "What I think it comes to is this: Al Gore spoke the other night about ecology and the revolution that was triggered by Rachel Carson."
+    },
+    {
+      "word": "trigger",
+      "pos": "v.",
+      "meaning": "引发",
+      "note": "",
+      "paragraph": 101,
+      "quote": "What I think it comes to is this: Al Gore spoke the other night about ecology and the revolution that was triggered by Rachel Carson."
+    },
+    {
+      "word": "conception",
+      "pos": "n.",
+      "meaning": "理解；观念",
+      "note": "",
+      "paragraph": 101,
+      "quote": "I believe our only hope for the future is to adopt a new conception of human ecology, one in which we start to reconstitute our conception of the richness of human capacity."
+    },
+    {
+      "word": "reconstitute",
+      "pos": "v.",
+      "meaning": "重新构建",
+      "note": "",
+      "paragraph": 101,
+      "quote": "I believe our only hope for the future is to adopt a new conception of human ecology, one in which we start to reconstitute our conception of the richness of human capacity."
+    },
+    {
+      "word": "richness",
+      "pos": "n.",
+      "meaning": "丰富性",
+      "note": "",
+      "paragraph": 101,
+      "quote": "I believe our only hope for the future is to adopt a new conception of human ecology, one in which we start to reconstitute our conception of the richness of human capacity."
+    },
+    {
+      "word": "mine",
+      "pos": "v.",
+      "meaning": "开采；此处比喻提取心智中的少数能力",
+      "note": "",
+      "paragraph": 101,
+      "quote": "Our education system has mined our minds in the way that we strip-mine the earth for a particular commodity."
+    },
+    {
+      "word": "strip-mine",
+      "pos": "v.",
+      "meaning": "露天开采",
+      "note": "",
+      "paragraph": 101,
+      "quote": "Our education system has mined our minds in the way that we strip-mine the earth for a particular commodity."
+    },
+    {
+      "word": "commodity",
+      "pos": "n.",
+      "meaning": "商品；可开采的资源",
+      "note": "",
+      "paragraph": 101,
+      "quote": "Our education system has mined our minds in the way that we strip-mine the earth for a particular commodity."
+    },
+    {
+      "word": "fundamental",
+      "pos": "adj.",
+      "meaning": "根本的",
+      "note": "",
+      "paragraph": 101,
+      "quote": "We have to rethink the fundamental principles on which we're educating our children."
+    },
+    {
+      "word": "insect",
+      "pos": "n.",
+      "meaning": "昆虫",
+      "note": "",
+      "paragraph": 102,
+      "quote": "There was a wonderful quote by Jonas Salk, who said, \"If all the insects were to disappear from the Earth, within 50 years, all life on Earth would end."
+    },
+    {
+      "word": "flourish",
+      "pos": "v.",
+      "meaning": "繁荣；蓬勃生长",
+      "note": "",
+      "paragraph": 102,
+      "quote": "If all human beings disappeared from the Earth, within 50 years, all forms of life would flourish.\" And he's right."
+    },
+    {
+      "word": "celebrate",
+      "pos": "v.",
+      "meaning": "赞扬；颂扬",
+      "note": "",
+      "paragraph": 103,
+      "quote": "What TED celebrates is the gift of the human imagination."
+    },
+    {
+      "word": "imagination",
+      "pos": "n.",
+      "meaning": "想象力",
+      "note": "",
+      "paragraph": 103,
+      "quote": "What TED celebrates is the gift of the human imagination."
+    },
+    {
+      "word": "avert",
+      "pos": "v.",
+      "meaning": "避免；防止",
+      "note": "",
+      "paragraph": 103,
+      "quote": "We have to be careful now that we use this gift wisely, and that we avert some of the scenarios that we've talked about."
+    },
+    {
+      "word": "scenario",
+      "pos": "n.",
+      "meaning": "可能出现的情形",
+      "note": "",
+      "paragraph": 103,
+      "quote": "We have to be careful now that we use this gift wisely, and that we avert some of the scenarios that we've talked about."
+    },
+    {
+      "word": "wisely",
+      "pos": "adv.",
+      "meaning": "明智地",
+      "note": "",
+      "paragraph": 103,
+      "quote": "We have to be careful now that we use this gift wisely, and that we avert some of the scenarios that we've talked about."
+    },
+    {
+      "word": "being",
+      "pos": "n.",
+      "meaning": "人的整个存在/身心",
+      "note": "",
+      "paragraph": 103,
+      "quote": "And our task is to educate their whole being, so they can face this future."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "track": "vocabulary",
+      "item": "transition",
+      "paragraph": 52,
+      "kept": "003:38",
+      "reason": "同一搬迁话题的相同词义"
+    }
+  ],
+  "pending": [
+    {
+      "paragraph": 81,
+      "text": "Following off from Helen yesterday",
+      "reason": "衔接表达措辞待核，未作为标准框架收录。"
+    },
+    {
+      "paragraph": 81,
+      "text": "corpus callosum / multitasking",
+      "reason": "仅记录词义；演讲中的脑部性别与多任务能力因果说法未科学核验，不作为知识事实教学。"
+    }
+  ]
+}

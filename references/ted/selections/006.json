@@ -1,0 +1,1359 @@
+{
+  "source": {
+    "path": "materials/corpus/ted/english/006-james_veitch_this_is_what_happens_when_you_reply_to_spam_email.txt",
+    "sha256": "9312a7dc1264577cf7e42af321b71eb3f21121e286a136e5dd75c12554a42cc6",
+    "metadata": {
+      "Title": "This is what happens when you reply to spam email",
+      "中文标题": "回复垃圾邮件会发生什么？",
+      "Speaker": "James Veitch",
+      "Year": "2015",
+      "Duration (official metadata)": "9:38",
+      "TED ID": "2405",
+      "Language": "English",
+      "Official URL": "https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email",
+      "Caption source": "https://www.ted.com/talks/subtitles/id/2405/lang/en"
+    }
+  },
+  "paragraphs_read": 114,
+  "read_ranges": [
+    [
+      1,
+      114
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "ranges": [
+      [
+        1,
+        114
+      ]
+    ],
+    "checks": [
+      "外层表达骨架",
+      "内部搭配与短语动词",
+      "短回应与话语套语",
+      "普通实词和熟词新义",
+      "未选段落和笑声掌声之间的接续"
+    ],
+    "additional_candidates": {
+      "chunks": 5,
+      "vocabulary": 12
+    }
+  },
+  "chunks": [
+    {
+      "chunk": "get through sth.",
+      "meaning": "通过／穿过某个屏障",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 1,
+      "quote": "And it managed to get through my spam filter."
+    },
+    {
+      "chunk": "I'm not quite sure how",
+      "meaning": "我也不太清楚是怎么做到的",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 1,
+      "quote": "I'm not quite sure how, but it turned up in my inbox, and it was from a guy called Solomon Odonkoh."
+    },
+    {
+      "chunk": "turn up in one's inbox",
+      "meaning": "出现在某人的收件箱里",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 1,
+      "quote": "I'm not quite sure how, but it turned up in my inbox, and it was from a guy called Solomon Odonkoh."
+    },
+    {
+      "chunk": "I know",
+      "meaning": "我知道／是啊，我懂你们的反应",
+      "register": "演讲口语",
+      "note": "观众笑后顺势回应，不是单纯告知知识。",
+      "paragraph": 3,
+      "quote": "I know."
+    },
+    {
+      "chunk": "It went like this",
+      "meaning": "内容是这样的／事情是这样展开的",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "It went like this: it said, \"Hello James Veitch, I have an interesting business proposal I want to share with you, Solomon.\" Now, my hand was kind of hovering on the delete button, right?"
+    },
+    {
+      "chunk": "share sth. with sb.",
+      "meaning": "和某人分享某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 5,
+      "quote": "It went like this: it said, \"Hello James Veitch, I have an interesting business proposal I want to share with you, Solomon.\" Now, my hand was kind of hovering on the delete button, right?"
+    },
+    {
+      "chunk": "The game is afoot",
+      "meaning": "游戏／行动开始了",
+      "register": "演讲口语",
+      "note": "文学式幽默套语，非一般日常说法。",
+      "paragraph": 10,
+      "quote": "And the game was afoot."
+    },
+    {
+      "chunk": "be dealing with sb.",
+      "meaning": "正在和某人打交道",
+      "register": "演讲口语",
+      "note": "此处讽刺诈骗者并不专业。",
+      "paragraph": 15,
+      "quote": "So I knew I was dealing with a professional."
+    },
+    {
+      "chunk": "How much is it worth?",
+      "meaning": "它值多少钱？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 17,
+      "quote": "I said, \"How much is it worth?\""
+    },
+    {
+      "chunk": "let's go big",
+      "meaning": "咱们干大一点／放开规模做",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 21,
+      "quote": "I said, \"Solomon, if we're going to do it, let's go big."
+    },
+    {
+      "chunk": "I can handle it",
+      "meaning": "我能应付／处理得来",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 23,
+      "quote": "I can handle it."
+    },
+    {
+      "chunk": "It's not a matter of …; what matters is …",
+      "meaning": "问题不在于……，关键在于……",
+      "register": "演讲口语",
+      "note": "原引文为诈骗者邮件，后半句capability of handling不作为标准接法。",
+      "paragraph": 25,
+      "quote": "He said, \"It is not a matter of how much gold I have, what matters is your capability of handling."
+    },
+    {
+      "chunk": "There's no point doing sth. unless …",
+      "meaning": "除非……，否则做这事毫无意义",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 26,
+      "quote": "There's no point doing this at all unless you're shipping at least a metric ton.\""
+    },
+    {
+      "chunk": "at least",
+      "meaning": "至少",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 26,
+      "quote": "There's no point doing this at all unless you're shipping at least a metric ton.\""
+    },
+    {
+      "chunk": "What do you do for a living?",
+      "meaning": "你是做什么工作的？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 29,
+      "quote": "He said, \"What do you do for a living?\""
+    },
+    {
+      "chunk": "This isn't the first time I've …",
+      "meaning": "这不是我第一次……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 33,
+      "quote": "This isn't the first time I've shipped bullion, my friend, no no no."
+    },
+    {
+      "chunk": "Where are you based?",
+      "meaning": "你在哪里／常驻哪里？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 34,
+      "quote": "I was like, \"Where are you based?\" I don't know about you, but I think if we're going via the postal service, it ought to be signed for."
+    },
+    {
+      "chunk": "I don't know about you, but …",
+      "meaning": "我不知道你怎么想，不过我……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 34,
+      "quote": "I was like, \"Where are you based?\" I don't know about you, but I think if we're going via the postal service, it ought to be signed for."
+    },
+    {
+      "chunk": "ought to be signed for",
+      "meaning": "应该由收件人签收",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 34,
+      "quote": "I was like, \"Where are you based?\" I don't know about you, but I think if we're going via the postal service, it ought to be signed for."
+    },
+    {
+      "chunk": "It will not be easy to convince sb. to do sth.",
+      "meaning": "要说服某人做某事并不容易",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 35,
+      "quote": "He said, \"It will not be easy to convince my company to do larger quantity shipment.\""
+    },
+    {
+      "chunk": "I'm completely with you on this one",
+      "meaning": "这件事我完全赞同你",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 36,
+      "quote": "I said, \"Solomon, I'm completely with you on this one."
+    },
+    {
+      "chunk": "put together sth.",
+      "meaning": "整理制作／拼成某物",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 36,
+      "quote": "I'm putting together a visual for you to take into the board meeting."
+    },
+    {
+      "chunk": "Hold tight",
+      "meaning": "稍等一下／等我消息",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 36,
+      "quote": "Hold tight.\""
+    },
+    {
+      "chunk": "in the house",
+      "meaning": "在场的／现场的",
+      "register": "演讲口语",
+      "note": "舞台口语召唤观众。",
+      "paragraph": 41,
+      "quote": "I don't know if we have any statisticians in the house, but there's definitely something going on."
+    },
+    {
+      "chunk": "there's something going on",
+      "meaning": "情况有门道／有某种现象",
+      "register": "演讲口语",
+      "note": "此处对荒谬图表作幽默评论。",
+      "paragraph": 41,
+      "quote": "I don't know if we have any statisticians in the house, but there's definitely something going on."
+    },
+    {
+      "chunk": "attached to this email you'll find …",
+      "meaning": "本邮件附件里有……",
+      "register": "邮件书面语（演讲引用）",
+      "note": "邮件书面套语。",
+      "paragraph": 43,
+      "quote": "I said, \"Solomon, attached to this email you'll find a helpful chart."
+    },
+    {
+      "chunk": "have sb. do sth.",
+      "meaning": "让某人做某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 43,
+      "quote": "I've had one of my assistants run the numbers."
+    },
+    {
+      "chunk": "run the numbers",
+      "meaning": "计算／核算数字",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 43,
+      "quote": "I've had one of my assistants run the numbers."
+    },
+    {
+      "chunk": "tug one's heartstrings",
+      "meaning": "触动某人的情感／打感情牌",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 46,
+      "quote": "There's always a moment where they try to tug your heartstrings, and this was it for Solomon."
+    },
+    {
+      "chunk": "go well",
+      "meaning": "进展顺利",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 46,
+      "quote": "He said, \"I will be so much happy if the deal goes well, because I'm going to get a very good commission as well.\" And I said, \"That's amazing, What are you going to spend your cut on?\" And he said, \"On RealEstate, what about you?\""
+    },
+    {
+      "chunk": "spend one's cut on sth.",
+      "meaning": "把自己的那份钱花在某物上",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 46,
+      "quote": "He said, \"I will be so much happy if the deal goes well, because I'm going to get a very good commission as well.\" And I said, \"That's amazing, What are you going to spend your cut on?\" And he said, \"On RealEstate, what about you?\""
+    },
+    {
+      "chunk": "It's going places",
+      "meaning": "它前景很好／会大有发展",
+      "register": "演讲口语",
+      "note": "用来夸张吹捧鹰嘴豆泥。",
+      "paragraph": 49,
+      "quote": "\"It's going places."
+    },
+    {
+      "chunk": "the other day",
+      "meaning": "前几天",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 51,
+      "quote": "I was in Sainsbury's the other day and there were like 30 different varieties."
+    },
+    {
+      "chunk": "cut up sth.",
+      "meaning": "切碎／切成块",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 51,
+      "quote": "Also you can cut up carrots, and you can dip them."
+    },
+    {
+      "chunk": "I didn't know what to say",
+      "meaning": "我不知道该说什么",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 57,
+      "quote": "I didn't know what to say!"
+    },
+    {
+      "chunk": "knock it on the head",
+      "meaning": "把这事停掉／结束它",
+      "register": "演讲口语",
+      "note": "英式随意口语。",
+      "paragraph": 59,
+      "quote": "Guys, you have to understand, this had been going for, like, weeks, albeit hitherto the greatest weeks of my life, but I had to knock it on the head."
+    },
+    {
+      "chunk": "get out of hand",
+      "meaning": "失去控制／一发不可收拾",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 59,
+      "quote": "It was getting a bit out of hand."
+    },
+    {
+      "chunk": "take sth. to a … conclusion",
+      "meaning": "把某事推向某种结局",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 60,
+      "quote": "I had to take it to a ridiculous conclusion."
+    },
+    {
+      "chunk": "be concerned about sth.",
+      "meaning": "担心某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 60,
+      "quote": "I said, \"Solomon, I'm concerned about security."
+    },
+    {
+      "chunk": "spend all night doing sth.",
+      "meaning": "花整夜做某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 62,
+      "quote": "I said, \"Solomon, I spent all night coming up with this code we need to use in all further correspondence:"
+    },
+    {
+      "chunk": "come up with sth.",
+      "meaning": "想出某事",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 62,
+      "quote": "I said, \"Solomon, I spent all night coming up with this code we need to use in all further correspondence:"
+    },
+    {
+      "chunk": "in all further correspondence",
+      "meaning": "在今后的所有通信中",
+      "register": "正式邮件用语（演讲引用）",
+      "note": "正式邮件用语。",
+      "paragraph": 62,
+      "quote": "I said, \"Solomon, I spent all night coming up with this code we need to use in all further correspondence:"
+    },
+    {
+      "chunk": "hear back",
+      "meaning": "收到回复",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 71,
+      "quote": "I didn't hear back."
+    },
+    {
+      "chunk": "go too far",
+      "meaning": "做得过火／太过分",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 71,
+      "quote": "I thought, I've gone too far."
+    },
+    {
+      "chunk": "Is the deal still on?",
+      "meaning": "这笔交易还算数／还继续吗？",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 71,
+      "quote": "I said, \"Solomon, Is the deal still on?"
+    },
+    {
+      "chunk": "What followed is …",
+      "meaning": "接下来发生的是……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 74,
+      "quote": "I said, \"Dude, you have to use the code!\" What followed is the greatest email I've ever received."
+    },
+    {
+      "chunk": "I'm not joking",
+      "meaning": "我不是开玩笑的",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 76,
+      "quote": "I'm not joking, this is what turned up in my inbox."
+    },
+    {
+      "chunk": "get sb. thinking",
+      "meaning": "使某人开始思考",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 82,
+      "quote": "And that was so much fun, right, that it got me thinking: like, what would happen if I just spent as much time as could replying to as many scam emails as I could?"
+    },
+    {
+      "chunk": "on sb.'s behalf",
+      "meaning": "代表某人／为了某人的利益",
+      "register": "演讲口语",
+      "note": "此处带玩笑口吻。",
+      "paragraph": 82,
+      "quote": "And that's what I've been doing for three years on your behalf."
+    },
+    {
+      "chunk": "as much time as … / as many … as …",
+      "meaning": "尽可能多的时间／尽可能多的……",
+      "register": "演讲口语",
+      "note": "原句as much time as could缺主语，标为口语省漏；as many结构本身成立。",
+      "paragraph": 82,
+      "quote": "And that was so much fun, right, that it got me thinking: like, what would happen if I just spent as much time as could replying to as many scam emails as I could?"
+    },
+    {
+      "chunk": "scam sb. out of sth.",
+      "meaning": "诈骗某人的某物",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 85,
+      "quote": "And I think any time they're spending with me is time they're not spending scamming vulnerable adults out of their savings, right?"
+    },
+    {
+      "chunk": "All I'm doing is …",
+      "meaning": "我所做的只是……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 85,
+      "quote": "All I'm doing is wasting their time."
+    },
+    {
+      "chunk": "I highly recommend …",
+      "meaning": "我非常推荐……",
+      "register": "演讲口语",
+      "note": "保留讲者语言立场，不视为实际操作建议。",
+      "paragraph": 85,
+      "quote": "It's really difficult, and I highly recommend we do it."
+    },
+    {
+      "chunk": "get yourself a …",
+      "meaning": "给自己弄一个……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 86,
+      "quote": "And if you're going to do this -- and I highly recommend you do -- get yourself a pseudonymous email address."
+    },
+    {
+      "chunk": "at the start",
+      "meaning": "一开始",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 86,
+      "quote": "That's what I was doing at the start and it was a nightmare."
+    },
+    {
+      "chunk": "only one of which …",
+      "meaning": "其中只有一个……",
+      "register": "演讲口语",
+      "note": "引文的完整后接部分在88段，当前保留可定位片段。",
+      "paragraph": 86,
+      "quote": "And if you're going to do this -- and I highly recommend you do -- get yourself a pseudonymous email address. Don't use your own email address. That's what I was doing at the start and it was a nightmare. I'd wake up in the morning and have a thousand emails about penis enlargements, only one of which was a legitimate response -- (Laughter) to a medical question I had.",
+      "end_paragraph": 88
+    },
+    {
+      "chunk": "That's what I was doing",
+      "meaning": "我之前就是这么做的",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 86,
+      "quote": "That's what I was doing at the start and it was a nightmare."
+    },
+    {
+      "chunk": "I'll tell you what",
+      "meaning": "听我说／我跟你说",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 89,
+      "quote": "But I'll tell you what, though, guys, I'll tell you what: any day is a good day, any day is a good day if you receive an email that begins like this:"
+    },
+    {
+      "chunk": "Let that sink in",
+      "meaning": "让这件事在脑子里消化一下",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 95,
+      "quote": "Let that sink in."
+    },
+    {
+      "chunk": "a letter of authorization",
+      "meaning": "授权书",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 97,
+      "quote": "And this looks fairly legitimate, this is a letter of authorization."
+    },
+    {
+      "chunk": "to be honest",
+      "meaning": "坦白说",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 97,
+      "quote": "But to be honest, if there's nothing written on it, it's just a shape!"
+    },
+    {
+      "chunk": "I'm sorry to hear of this",
+      "meaning": "听到这事我很遗憾",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 99,
+      "quote": "I said, \"Winnie, I'm really sorry to hear of this."
+    },
+    {
+      "chunk": "Given that …",
+      "meaning": "考虑到／鉴于……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 99,
+      "quote": "Given that Nelson died three months ago, I'd describe his health condition as fairly serious.\""
+    },
+    {
+      "chunk": "I'd describe sth. as …",
+      "meaning": "我会把某事称为……",
+      "register": "演讲口语",
+      "note": "",
+      "paragraph": 99,
+      "quote": "Given that Nelson died three months ago, I'd describe his health condition as fairly serious.\""
+    },
+    {
+      "chunk": "comply with sth.",
+      "meaning": "遵照／服从某事",
+      "register": "演讲口语",
+      "note": "原邮件BANKERS缺所有格撇号；不把错误词形作模板。",
+      "paragraph": 102,
+      "quote": "She said, \"KINDLY COMPLY WITH MY BANKERS INSTRUCTIONS."
+    },
+    {
+      "chunk": "no problemo",
+      "meaning": "没问题",
+      "register": "演讲口语",
+      "note": "戏谑随意说法，非正式邮件标准用语。",
+      "paragraph": 109,
+      "quote": "I said, \"no problemo."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "spam",
+      "pos": "n.",
+      "meaning": "垃圾邮件",
+      "note": "",
+      "paragraph": 1,
+      "quote": "A few years ago, I got one of those spam emails."
+    },
+    {
+      "word": "filter",
+      "pos": "n.",
+      "meaning": "过滤器",
+      "note": "",
+      "paragraph": 1,
+      "quote": "And it managed to get through my spam filter."
+    },
+    {
+      "word": "inbox",
+      "pos": "n.",
+      "meaning": "收件箱",
+      "note": "",
+      "paragraph": 1,
+      "quote": "I'm not quite sure how, but it turned up in my inbox, and it was from a guy called Solomon Odonkoh."
+    },
+    {
+      "word": "proposal",
+      "pos": "n.",
+      "meaning": "提议／方案",
+      "note": "",
+      "paragraph": 5,
+      "quote": "It went like this: it said, \"Hello James Veitch, I have an interesting business proposal I want to share with you, Solomon.\" Now, my hand was kind of hovering on the delete button, right?"
+    },
+    {
+      "word": "hover",
+      "pos": "v.",
+      "meaning": "悬停／犹豫停在某处",
+      "note": "此处手停在删除按钮上方。",
+      "paragraph": 5,
+      "quote": "It went like this: it said, \"Hello James Veitch, I have an interesting business proposal I want to share with you, Solomon.\" Now, my hand was kind of hovering on the delete button, right?"
+    },
+    {
+      "word": "delete",
+      "pos": "v.",
+      "meaning": "删除",
+      "note": "",
+      "paragraph": 5,
+      "quote": "I thought, I could just delete this."
+    },
+    {
+      "word": "business",
+      "pos": "n.",
+      "meaning": "生意／交易",
+      "note": "",
+      "paragraph": 5,
+      "quote": "It went like this: it said, \"Hello James Veitch, I have an interesting business proposal I want to share with you, Solomon.\" Now, my hand was kind of hovering on the delete button, right?"
+    },
+    {
+      "word": "intrigue",
+      "pos": "v.",
+      "meaning": "引起兴趣／好奇",
+      "note": "",
+      "paragraph": 7,
+      "quote": "And I said, \"Solomon, Your email intrigues me.\""
+    },
+    {
+      "word": "afoot",
+      "pos": "adj./adv.",
+      "meaning": "正在进行／开始行动",
+      "note": "文学式语域。",
+      "paragraph": 10,
+      "quote": "And the game was afoot."
+    },
+    {
+      "word": "ship",
+      "pos": "v.",
+      "meaning": "运输／发货",
+      "note": "",
+      "paragraph": 11,
+      "quote": "He said, \"Dear James Veitch, We shall be shipping Gold to you.\""
+    },
+    {
+      "word": "gold",
+      "pos": "n.",
+      "meaning": "黄金",
+      "note": "",
+      "paragraph": 11,
+      "quote": "He said, \"Dear James Veitch, We shall be shipping Gold to you.\""
+    },
+    {
+      "word": "earn",
+      "pos": "v.",
+      "meaning": "赚取",
+      "note": "原邮件后文distributes语法错误不改写。",
+      "paragraph": 13,
+      "quote": "\"You will earn 10% of any gold you distributes.\""
+    },
+    {
+      "word": "professional",
+      "pos": "n.",
+      "meaning": "专业人士",
+      "note": "此处反讽。",
+      "paragraph": 15,
+      "quote": "So I knew I was dealing with a professional."
+    },
+    {
+      "word": "worth",
+      "pos": "adj.",
+      "meaning": "值……钱",
+      "note": "",
+      "paragraph": 17,
+      "quote": "I said, \"How much is it worth?\""
+    },
+    {
+      "word": "quantity",
+      "pos": "n.",
+      "meaning": "数量",
+      "note": "原邮件缺冠词，不收其整句为标准语法。",
+      "paragraph": 18,
+      "quote": "He said, \"We will start with smaller quantity,\" -- I was like, aww -- and then he said, \"of 25 kgs."
+    },
+    {
+      "word": "handle",
+      "pos": "v.",
+      "meaning": "处理／应付",
+      "note": "",
+      "paragraph": 23,
+      "quote": "I can handle it."
+    },
+    {
+      "word": "capability",
+      "pos": "n.",
+      "meaning": "能力",
+      "note": "",
+      "paragraph": 25,
+      "quote": "He said, \"It is not a matter of how much gold I have, what matters is your capability of handling."
+    },
+    {
+      "word": "trial",
+      "pos": "adj./n.",
+      "meaning": "试验性的／试用",
+      "note": "",
+      "paragraph": 25,
+      "quote": "We can start with 50 kgs as trial shipment.\""
+    },
+    {
+      "word": "shipment",
+      "pos": "n.",
+      "meaning": "运输的一批货／发货",
+      "note": "",
+      "paragraph": 25,
+      "quote": "We can start with 50 kgs as trial shipment.\""
+    },
+    {
+      "word": "metric",
+      "pos": "adj.",
+      "meaning": "公制的",
+      "note": "",
+      "paragraph": 26,
+      "quote": "There's no point doing this at all unless you're shipping at least a metric ton.\""
+    },
+    {
+      "word": "ton",
+      "pos": "n.",
+      "meaning": "吨",
+      "note": "",
+      "paragraph": 26,
+      "quote": "There's no point doing this at all unless you're shipping at least a metric ton.\""
+    },
+    {
+      "word": "hedge fund",
+      "pos": "n.",
+      "meaning": "对冲基金",
+      "note": "金融词义，不作投资建议。",
+      "paragraph": 31,
+      "quote": "I said, \"I'm a hedge fund executive bank manager.\""
+    },
+    {
+      "word": "executive",
+      "pos": "n./修饰语",
+      "meaning": "高级管理人员",
+      "note": "此处堆砌金融职衔作笑话，不将全头衔作标准职业名。",
+      "paragraph": 31,
+      "quote": "I said, \"I'm a hedge fund executive bank manager.\""
+    },
+    {
+      "word": "bullion",
+      "pos": "n.",
+      "meaning": "金条／金银块",
+      "note": "",
+      "paragraph": 33,
+      "quote": "This isn't the first time I've shipped bullion, my friend, no no no."
+    },
+    {
+      "word": "panic",
+      "pos": "v.",
+      "meaning": "慌张／恐慌",
+      "note": "",
+      "paragraph": 34,
+      "quote": "Then I started to panic."
+    },
+    {
+      "word": "based",
+      "pos": "adj.",
+      "meaning": "驻扎／工作所在地在……的",
+      "note": "",
+      "paragraph": 34,
+      "quote": "I was like, \"Where are you based?\" I don't know about you, but I think if we're going via the postal service, it ought to be signed for."
+    },
+    {
+      "word": "via",
+      "pos": "prep.",
+      "meaning": "经由／通过",
+      "note": "",
+      "paragraph": 34,
+      "quote": "I was like, \"Where are you based?\" I don't know about you, but I think if we're going via the postal service, it ought to be signed for."
+    },
+    {
+      "word": "postal",
+      "pos": "adj.",
+      "meaning": "邮政的",
+      "note": "",
+      "paragraph": 34,
+      "quote": "I was like, \"Where are you based?\" I don't know about you, but I think if we're going via the postal service, it ought to be signed for."
+    },
+    {
+      "word": "convince",
+      "pos": "v.",
+      "meaning": "说服",
+      "note": "",
+      "paragraph": 35,
+      "quote": "He said, \"It will not be easy to convince my company to do larger quantity shipment.\""
+    },
+    {
+      "word": "visual",
+      "pos": "n.",
+      "meaning": "用于说明的图像／图表",
+      "note": "",
+      "paragraph": 36,
+      "quote": "I'm putting together a visual for you to take into the board meeting."
+    },
+    {
+      "word": "board",
+      "pos": "n.",
+      "meaning": "董事会",
+      "note": "",
+      "paragraph": 36,
+      "quote": "I'm putting together a visual for you to take into the board meeting."
+    },
+    {
+      "word": "statistician",
+      "pos": "n.",
+      "meaning": "统计学家",
+      "note": "",
+      "paragraph": 41,
+      "quote": "I don't know if we have any statisticians in the house, but there's definitely something going on."
+    },
+    {
+      "word": "attached",
+      "pos": "adj./过去分词",
+      "meaning": "作为附件附上的",
+      "note": "",
+      "paragraph": 43,
+      "quote": "I said, \"Solomon, attached to this email you'll find a helpful chart."
+    },
+    {
+      "word": "chart",
+      "pos": "n.",
+      "meaning": "图表",
+      "note": "",
+      "paragraph": 43,
+      "quote": "I said, \"Solomon, attached to this email you'll find a helpful chart."
+    },
+    {
+      "word": "assistant",
+      "pos": "n.",
+      "meaning": "助理",
+      "note": "",
+      "paragraph": 43,
+      "quote": "I've had one of my assistants run the numbers."
+    },
+    {
+      "word": "heartstrings",
+      "pos": "n.",
+      "meaning": "心弦／深层情感",
+      "note": "",
+      "paragraph": 46,
+      "quote": "There's always a moment where they try to tug your heartstrings, and this was it for Solomon."
+    },
+    {
+      "word": "commission",
+      "pos": "n.",
+      "meaning": "佣金",
+      "note": "",
+      "paragraph": 46,
+      "quote": "He said, \"I will be so much happy if the deal goes well, because I'm going to get a very good commission as well.\" And I said, \"That's amazing, What are you going to spend your cut on?\" And he said, \"On RealEstate, what about you?\""
+    },
+    {
+      "word": "cut",
+      "pos": "n.",
+      "meaning": "分得的一份钱／收益份额",
+      "note": "不是切割。",
+      "paragraph": 46,
+      "quote": "He said, \"I will be so much happy if the deal goes well, because I'm going to get a very good commission as well.\" And I said, \"That's amazing, What are you going to spend your cut on?\" And he said, \"On RealEstate, what about you?\""
+    },
+    {
+      "word": "real estate",
+      "pos": "n.",
+      "meaning": "房地产",
+      "note": "原邮件连写并大写；标准拼法分为两词。",
+      "paragraph": 46,
+      "quote": "He said, \"I will be so much happy if the deal goes well, because I'm going to get a very good commission as well.\" And I said, \"That's amazing, What are you going to spend your cut on?\" And he said, \"On RealEstate, what about you?\""
+    },
+    {
+      "word": "hummus",
+      "pos": "n.",
+      "meaning": "鹰嘴豆泥",
+      "note": "",
+      "paragraph": 47,
+      "quote": "And I said, \"One word; Hummus.\""
+    },
+    {
+      "word": "variety",
+      "pos": "n.",
+      "meaning": "品种／种类",
+      "note": "",
+      "paragraph": 51,
+      "quote": "I was in Sainsbury's the other day and there were like 30 different varieties."
+    },
+    {
+      "word": "carrot",
+      "pos": "n.",
+      "meaning": "胡萝卜",
+      "note": "",
+      "paragraph": 51,
+      "quote": "Also you can cut up carrots, and you can dip them."
+    },
+    {
+      "word": "dip",
+      "pos": "v.",
+      "meaning": "蘸",
+      "note": "",
+      "paragraph": 51,
+      "quote": "Also you can cut up carrots, and you can dip them."
+    },
+    {
+      "word": "nugget",
+      "pos": "n.",
+      "meaning": "小金块",
+      "note": "此处调侃性称呼；不提取法语bonsoir为英语词条。",
+      "paragraph": 57,
+      "quote": "I said, \"Bonsoir my golden nugget, bonsoir.\""
+    },
+    {
+      "word": "albeit",
+      "pos": "conj.",
+      "meaning": "尽管／虽然",
+      "note": "",
+      "paragraph": 59,
+      "quote": "Guys, you have to understand, this had been going for, like, weeks, albeit hitherto the greatest weeks of my life, but I had to knock it on the head."
+    },
+    {
+      "word": "hitherto",
+      "pos": "adv.",
+      "meaning": "迄今为止",
+      "note": "较正式，与喜剧口语形成反差。",
+      "paragraph": 59,
+      "quote": "Guys, you have to understand, this had been going for, like, weeks, albeit hitherto the greatest weeks of my life, but I had to knock it on the head."
+    },
+    {
+      "word": "ridiculous",
+      "pos": "adj.",
+      "meaning": "荒唐可笑的",
+      "note": "",
+      "paragraph": 60,
+      "quote": "I had to take it to a ridiculous conclusion."
+    },
+    {
+      "word": "concoct",
+      "pos": "v.",
+      "meaning": "编造／精心想出",
+      "note": "",
+      "paragraph": 60,
+      "quote": "So I concocted a plan."
+    },
+    {
+      "word": "security",
+      "pos": "n.",
+      "meaning": "安全／保密性",
+      "note": "",
+      "paragraph": 60,
+      "quote": "I said, \"Solomon, I'm concerned about security."
+    },
+    {
+      "word": "code",
+      "pos": "n.",
+      "meaning": "暗号／密码体系",
+      "note": "",
+      "paragraph": 60,
+      "quote": "When we email each other, we need to use a code.\" And he agreed."
+    },
+    {
+      "word": "correspondence",
+      "pos": "n.",
+      "meaning": "通信／信件往来",
+      "note": "",
+      "paragraph": 62,
+      "quote": "I said, \"Solomon, I spent all night coming up with this code we need to use in all further correspondence:"
+    },
+    {
+      "word": "gummy",
+      "pos": "adj.",
+      "meaning": "软糖质地的／有嚼劲的",
+      "note": "",
+      "paragraph": 63,
+      "quote": "Lawyer: Gummy Bear."
+    },
+    {
+      "word": "lawyer",
+      "pos": "n.",
+      "meaning": "律师",
+      "note": "",
+      "paragraph": 63,
+      "quote": "Lawyer: Gummy Bear."
+    },
+    {
+      "word": "fizzy",
+      "pos": "adj.",
+      "meaning": "起泡的／带汽的",
+      "note": "糖果名称指汽水口味。",
+      "paragraph": 65,
+      "quote": "Legal: Fizzy Cola Bottle."
+    },
+    {
+      "word": "claim",
+      "pos": "n.",
+      "meaning": "申领／认领请求",
+      "note": "暗号表的孤立词；具体手续待核。",
+      "paragraph": 65,
+      "quote": "Claim: Peanut M&amp;Ms."
+    },
+    {
+      "word": "legal",
+      "pos": "adj.",
+      "meaning": "法律的",
+      "note": "",
+      "paragraph": 65,
+      "quote": "Legal: Fizzy Cola Bottle."
+    },
+    {
+      "word": "document",
+      "pos": "n.",
+      "meaning": "文件",
+      "note": "",
+      "paragraph": 66,
+      "quote": "Documents: Jelly Beans."
+    },
+    {
+      "word": "lizard",
+      "pos": "n.",
+      "meaning": "蜥蜴",
+      "note": "",
+      "paragraph": 67,
+      "quote": "Western Union: A Giant Gummy Lizard.\""
+    },
+    {
+      "word": "backpedal",
+      "pos": "v.",
+      "meaning": "退缩／收回先前的过火做法",
+      "note": "",
+      "paragraph": 71,
+      "quote": "So I had to backpedal a little."
+    },
+    {
+      "word": "consistent",
+      "pos": "adj.",
+      "meaning": "一致的／前后一贯的",
+      "note": "",
+      "paragraph": 73,
+      "quote": "Because you have to be consistent."
+    },
+    {
+      "word": "balance",
+      "pos": "n.",
+      "meaning": "差额／尚需筹集的余款",
+      "note": "诈骗邮件金额语境；确切收费名目未给。",
+      "paragraph": 76,
+      "quote": "I'm not joking, this is what turned up in my inbox. This was a good day. \"The business is on. I am trying to raise the balance for the Gummy Bear -- (Laughter) so he can submit all the needed Fizzy Cola Bottle Jelly Beans to the Creme Egg, for the Peanut M&amp;Ms process to start.",
+      "end_paragraph": 78
+    },
+    {
+      "word": "raise",
+      "pos": "v.",
+      "meaning": "筹集",
+      "note": "不是抬高。",
+      "paragraph": 76,
+      "quote": "I'm not joking, this is what turned up in my inbox. This was a good day. \"The business is on. I am trying to raise the balance for the Gummy Bear -- (Laughter) so he can submit all the needed Fizzy Cola Bottle Jelly Beans to the Creme Egg, for the Peanut M&amp;Ms process to start.",
+      "end_paragraph": 78
+    },
+    {
+      "word": "submit",
+      "pos": "v.",
+      "meaning": "提交",
+      "note": "",
+      "paragraph": 78,
+      "quote": "so he can submit all the needed Fizzy Cola Bottle Jelly Beans to the Creme Egg, for the Peanut M&amp;Ms process to start."
+    },
+    {
+      "word": "needed",
+      "pos": "adj.",
+      "meaning": "所需的",
+      "note": "",
+      "paragraph": 78,
+      "quote": "so he can submit all the needed Fizzy Cola Bottle Jelly Beans to the Creme Egg, for the Peanut M&amp;Ms process to start."
+    },
+    {
+      "word": "process",
+      "pos": "n.",
+      "meaning": "流程／手续",
+      "note": "",
+      "paragraph": 78,
+      "quote": "so he can submit all the needed Fizzy Cola Bottle Jelly Beans to the Creme Egg, for the Peanut M&amp;Ms process to start."
+    },
+    {
+      "word": "pound",
+      "pos": "n.",
+      "meaning": "英镑",
+      "note": "英式货币，不是重量磅。",
+      "paragraph": 80,
+      "quote": "Send 1,500 pounds via a Giant Gummy Lizard.\""
+    },
+    {
+      "word": "scam",
+      "pos": "n./v.",
+      "meaning": "骗局；诈骗",
+      "note": "",
+      "paragraph": 82,
+      "quote": "And that was so much fun, right, that it got me thinking: like, what would happen if I just spent as much time as could replying to as many scam emails as I could?"
+    },
+    {
+      "word": "behalf",
+      "pos": "n.",
+      "meaning": "代表／利益",
+      "note": "见on your behalf。",
+      "paragraph": 82,
+      "quote": "And that's what I've been doing for three years on your behalf."
+    },
+    {
+      "word": "mean",
+      "pos": "adj.",
+      "meaning": "刻薄的／恶意的",
+      "note": "非动词意味着。",
+      "paragraph": 85,
+      "quote": "There are a lot of people who do mean things to scammers."
+    },
+    {
+      "word": "scammer",
+      "pos": "n.",
+      "meaning": "诈骗者",
+      "note": "",
+      "paragraph": 85,
+      "quote": "There are a lot of people who do mean things to scammers."
+    },
+    {
+      "word": "vulnerable",
+      "pos": "adj.",
+      "meaning": "容易受伤害／易受骗的",
+      "note": "",
+      "paragraph": 85,
+      "quote": "And I think any time they're spending with me is time they're not spending scamming vulnerable adults out of their savings, right?"
+    },
+    {
+      "word": "savings",
+      "pos": "n.",
+      "meaning": "积蓄",
+      "note": "",
+      "paragraph": 85,
+      "quote": "And I think any time they're spending with me is time they're not spending scamming vulnerable adults out of their savings, right?"
+    },
+    {
+      "word": "pseudonymous",
+      "pos": "adj.",
+      "meaning": "使用化名的",
+      "note": "",
+      "paragraph": 86,
+      "quote": "And if you're going to do this -- and I highly recommend you do -- get yourself a pseudonymous email address."
+    },
+    {
+      "word": "nightmare",
+      "pos": "n.",
+      "meaning": "糟糕得像噩梦的处境",
+      "note": "",
+      "paragraph": 86,
+      "quote": "That's what I was doing at the start and it was a nightmare."
+    },
+    {
+      "word": "penis",
+      "pos": "n.",
+      "meaning": "阴茎",
+      "note": "性器官词，原文垃圾广告语境。",
+      "paragraph": 86,
+      "quote": "I'd wake up in the morning and have a thousand emails about penis enlargements, only one of which was a legitimate response --"
+    },
+    {
+      "word": "enlargement",
+      "pos": "n.",
+      "meaning": "增大／扩大",
+      "note": "",
+      "paragraph": 86,
+      "quote": "I'd wake up in the morning and have a thousand emails about penis enlargements, only one of which was a legitimate response --"
+    },
+    {
+      "word": "legitimate",
+      "pos": "adj.",
+      "meaning": "正当真实的",
+      "note": "",
+      "paragraph": 86,
+      "quote": "And if you're going to do this -- and I highly recommend you do -- get yourself a pseudonymous email address. Don't use your own email address. That's what I was doing at the start and it was a nightmare. I'd wake up in the morning and have a thousand emails about penis enlargements, only one of which was a legitimate response -- (Laughter) to a medical question I had.",
+      "end_paragraph": 88
+    },
+    {
+      "word": "response",
+      "pos": "n.",
+      "meaning": "回复／回应",
+      "note": "",
+      "paragraph": 86,
+      "quote": "I'd wake up in the morning and have a thousand emails about penis enlargements, only one of which was a legitimate response --"
+    },
+    {
+      "word": "former",
+      "pos": "adj.",
+      "meaning": "前任的／从前的",
+      "note": "",
+      "paragraph": 91,
+      "quote": "\"I AM WINNIE MANDELA, THE SECOND WIFE OF NELSON MANDELA THE FORMER SOUTH AFRICAN PRESIDENT.\" I was like, oh! -- that Winnie Mandela."
+    },
+    {
+      "word": "transfer",
+      "pos": "v.",
+      "meaning": "转移／汇出",
+      "note": "",
+      "paragraph": 94,
+      "quote": "\"I NEED TO TRANSFER 45 MILLION DOLLARS OUT OF THE COUNTRY BECAUSE OF MY HUSBAND NELSON MANDELA'S HEALTH CONDITION.\""
+    },
+    {
+      "word": "condition",
+      "pos": "n.",
+      "meaning": "健康状况",
+      "note": "不是条件义。",
+      "paragraph": 94,
+      "quote": "\"I NEED TO TRANSFER 45 MILLION DOLLARS OUT OF THE COUNTRY BECAUSE OF MY HUSBAND NELSON MANDELA'S HEALTH CONDITION.\""
+    },
+    {
+      "word": "hysterical",
+      "pos": "adj.",
+      "meaning": "非常好笑的",
+      "note": "此处不是歇斯底里。",
+      "paragraph": 95,
+      "quote": "She sent me this, which is hysterical."
+    },
+    {
+      "word": "fairly",
+      "pos": "adv.",
+      "meaning": "相当／颇",
+      "note": "",
+      "paragraph": 97,
+      "quote": "And this looks fairly legitimate, this is a letter of authorization."
+    },
+    {
+      "word": "authorization",
+      "pos": "n.",
+      "meaning": "授权",
+      "note": "",
+      "paragraph": 97,
+      "quote": "And this looks fairly legitimate, this is a letter of authorization."
+    },
+    {
+      "word": "shape",
+      "pos": "n.",
+      "meaning": "形状／外形",
+      "note": "",
+      "paragraph": 97,
+      "quote": "But to be honest, if there's nothing written on it, it's just a shape!"
+    },
+    {
+      "word": "kindly",
+      "pos": "adv.",
+      "meaning": "请／劳驾",
+      "note": "正式请求用语，非亲切地。",
+      "paragraph": 102,
+      "quote": "She said, \"KINDLY COMPLY WITH MY BANKERS INSTRUCTIONS."
+    },
+    {
+      "word": "comply",
+      "pos": "v.",
+      "meaning": "遵照／服从",
+      "note": "",
+      "paragraph": 102,
+      "quote": "She said, \"KINDLY COMPLY WITH MY BANKERS INSTRUCTIONS."
+    },
+    {
+      "word": "banker",
+      "pos": "n.",
+      "meaning": "银行业从业者",
+      "note": "",
+      "paragraph": 102,
+      "quote": "She said, \"KINDLY COMPLY WITH MY BANKERS INSTRUCTIONS."
+    },
+    {
+      "word": "instruction",
+      "pos": "n.",
+      "meaning": "指示",
+      "note": "",
+      "paragraph": 102,
+      "quote": "She said, \"KINDLY COMPLY WITH MY BANKERS INSTRUCTIONS."
+    },
+    {
+      "word": "sheriff",
+      "pos": "n.",
+      "meaning": "郡治安官",
+      "note": "歌词引用语境，不另扩展歌词。",
+      "paragraph": 110,
+      "quote": "I SHOT THE SHERIFF.\""
+    },
+    {
+      "word": "deputy",
+      "pos": "n.",
+      "meaning": "副治安官／副手",
+      "note": "",
+      "paragraph": 111,
+      "quote": "[ (BUT I DID NOT SHOOT THE DEPUTY) ]"
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "scope": "same_talk",
+      "reason": "同形同义重复用例保留首次或语境最完整的一例，不重复新增。",
+      "examples": [
+        "knock it on the head",
+        "go too far",
+        "in all further correspondence",
+        "turn up in my inbox"
+      ]
+    },
+    {
+      "word": "enlarge",
+      "reason": "原文只有派生名词enlargements，已以enlargement记录；不重复增加动词条目。"
+    }
+  ],
+  "pending": [
+    {
+      "paragraph": 13,
+      "text": "any gold you distributes",
+      "reason": "诈骗邮件语法错误，不作为标准chunk。"
+    },
+    {
+      "paragraph": 53,
+      "text": "I have to go bed now.",
+      "reason": "缺to，不作为标准模板。"
+    },
+    {
+      "paragraph": 56,
+      "text": "Till morrow. Have sweet dream.",
+      "reason": "诈骗邮件非标准措辞，未作为常规chunk。"
+    },
+    {
+      "paragraph": 65,
+      "text": "M&amp;Ms",
+      "reason": "源TXT保留HTML实体；引用不解码、不擅自改原文。"
+    },
+    {
+      "paragraph": 76,
+      "end_paragraph": 80,
+      "text": "Gummy Bear / Fizzy Cola Bottle Jelly Beans / Creme Egg / Peanut M&amp;Ms / Giant Gummy Lizard",
+      "reason": "暗号替换造成非字面糖果组合，按前文暗号理解，不作现实金融术语。"
+    }
+  ],
+  "validation": {
+    "quote_exact_substrings": true,
+    "source_sha256_matches": true,
+    "paragraph_indices_valid": true,
+    "within_talk_labels_unique": true,
+    "timecodes": "not provided; none invented"
+  }
+}

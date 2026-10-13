@@ -1,0 +1,2079 @@
+{
+  "source": {
+    "path": "materials/corpus/ted/english/013-sherry_turkle_connected_but_alone.txt",
+    "sha256": "73c7ab6af8f91cc6c333bd6187853f073c3efbd83c0997c6ae9167a2a644ef13",
+    "title": "Connected, but alone?",
+    "title_zh": "连接着，却孤独着？",
+    "speaker": "Sherry Turkle",
+    "year": 2012,
+    "official_url": "https://www.ted.com/talks/sherry_turkle_connected_but_alone",
+    "caption_source": "https://www.ted.com/talks/subtitles/id/1409/lang/en",
+    "ted_id": "1409",
+    "duration": "19:31",
+    "language": "English"
+  },
+  "paragraphs_read": 26,
+  "read_ranges": [
+    [
+      1,
+      26
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        26
+      ]
+    ],
+    "checks": [
+      "外层表达动作与骨架",
+      "内部搭配和短语动词",
+      "短回应与口语小句",
+      "普通实词与熟词新义",
+      "未选段落与长空白区回看"
+    ],
+    "note": "两遍通读含笑声与掌声段；仅明显功能词与专名不单列；词义候选不等于用户不认识或已掌握。 第二遍新增项目保留在对应轨道；同形新义／新词性另列。讲者心理学与社会观点仅作原文语言语境，不代表全部经过科学独立核实。",
+    "added_chunks": 14,
+    "added_vocabulary": 32
+  },
+  "chunks": [
+    {
+      "paragraph": 1,
+      "quote": "Her text said, \"Mom, you will rock.\"",
+      "meaning": "你会表现得很棒",
+      "note": "随意的鼓励；rock作动词。",
+      "chunk": "You will rock.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 1,
+      "quote": "And so there you have it.",
+      "meaning": "情况就是这样；这就是例证",
+      "note": "",
+      "chunk": "there you have it",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 1,
+      "quote": "Just a moment ago, my daughter Rebecca texted me for good luck.",
+      "meaning": "就在刚才",
+      "note": "",
+      "chunk": "just a moment ago",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 2,
+      "quote": "Actually that reminder of my daughter brings me to the beginning of my story.",
+      "meaning": "把话题带到……",
+      "note": "演讲衔接。",
+      "chunk": "bring sb. to ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 2,
+      "quote": "I had just written a book that celebrated our life on the internet and I was about to be on the cover of Wired magazine.",
+      "meaning": "正要／即将做某事",
+      "note": "",
+      "chunk": "be about to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 2,
+      "quote": "I had just written a book that celebrated our life on the internet and I was about to be on the cover of Wired magazine.",
+      "meaning": "登上……的封面",
+      "note": "",
+      "chunk": "on the cover of ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 2,
+      "quote": "In those heady days, we were experimenting with chat rooms and online virtual communities.",
+      "meaning": "尝试／试验某种事物",
+      "note": "",
+      "chunk": "experiment with sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 3,
+      "quote": "Now fast-forward to 2012.",
+      "meaning": "把时间快进到……",
+      "note": "叙事转换。",
+      "chunk": "fast-forward to ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 3,
+      "quote": "She sleeps with her cellphone, so do I.",
+      "meaning": "我也一样",
+      "note": "",
+      "chunk": "so do I",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 3,
+      "quote": "I'm still excited by technology, but I believe, and I'm here to make the case, that we're letting it take us places that we don't want to go.",
+      "meaning": "提出论据说明／论证……",
+      "note": "",
+      "chunk": "make the case that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.",
+      "meaning": "我发现的是……",
+      "note": "",
+      "chunk": "what I've found is that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.",
+      "meaning": "不仅改变A，还改变B",
+      "note": "原文不用but also，保留论述骨架。",
+      "chunk": "not only ...; ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "Some of the things we do now with our devices are things that, only a few years ago, we would have found odd or disturbing, but they've quickly come to seem familiar, just how we do things.",
+      "meaning": "逐渐显得／变得……",
+      "note": "",
+      "chunk": "come to seem ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "Over the past 15 years, I've studied technologies of mobile communication and I've interviewed hundreds and hundreds of people, young and old, about their plugged in lives.",
+      "meaning": "数以百计，许许多多的……",
+      "note": "",
+      "chunk": "hundreds and hundreds of ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 4,
+      "quote": "Over the past 15 years, I've studied technologies of mobile communication and I've interviewed hundreds and hundreds of people, young and old, about their plugged in lives.",
+      "meaning": "始终连接设备／网络的生活",
+      "note": "泛化拼写加连字符；原文plugged in保留。",
+      "chunk": "plugged-in lives",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "People talk to me about the important new skill of making eye contact while you're texting.",
+      "meaning": "眼神交流／对视",
+      "note": "",
+      "chunk": "make eye contact",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "Parents text and do email at breakfast and at dinner while their children complain about not having their parents' full attention.",
+      "meaning": "得到某人的全部注意力／让某人全神贯注地关注",
+      "note": "原文not having their parents' full attention，说明孩子未获得家长的全部关注。",
+      "chunk": "have sb.'s full attention",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "We remove ourselves from our grief or from our revery and we go into our phones.",
+      "meaning": "从某种体验／处境中抽离",
+      "note": "",
+      "chunk": "remove oneself from sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "Parents text and do email at breakfast and at dinner while their children complain about not having their parents' full attention.",
+      "meaning": "抱怨某种情况",
+      "note": "",
+      "chunk": "complain about doing sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "Why does this matter?",
+      "meaning": "这为什么重要？",
+      "note": "",
+      "chunk": "Why does this matter?",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "It matters to me because I think we're setting ourselves up for trouble -- trouble certainly in how we relate to each other, but also trouble in how we relate to ourselves and our capacity for self-reflection.",
+      "meaning": "使自己陷入麻烦／埋下隐患",
+      "note": "",
+      "chunk": "set oneself up for trouble",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "It matters to me because I think we're setting ourselves up for trouble -- trouble certainly in how we relate to each other, but also trouble in how we relate to ourselves and our capacity for self-reflection.",
+      "meaning": "与某人相处／建立联系",
+      "note": "",
+      "chunk": "relate to sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "We're getting used to a new way of being alone together.",
+      "meaning": "逐渐习惯某事",
+      "note": "",
+      "chunk": "get used to sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "They want to go in and out of all the places they are because the thing that matters most to them is control over where they put their attention.",
+      "meaning": "对某事的控制权",
+      "note": "",
+      "chunk": "control over sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 6,
+      "quote": "But you can end up hiding from each other, even as we're all constantly connected to each other.",
+      "meaning": "最后变成／结果在做某事",
+      "note": "",
+      "chunk": "end up doing sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "When he goes to work, he doesn't stop by to talk to anybody, he doesn't call.",
+      "meaning": "顺路／短暂停留做某事",
+      "note": "",
+      "chunk": "stop by to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "I think I should want to, but actually I'd rather just do things on my Blackberry.\"",
+      "meaning": "我宁愿／更想做某事",
+      "note": "",
+      "chunk": "I'd rather (just) do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "I'm the one who doesn't want to be interrupted.",
+      "meaning": "真正……的人是我",
+      "note": "",
+      "chunk": "I'm the one who ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 8,
+      "quote": "Across the generations, I see that people can't get enough of each other, if and only if they can have each other at a distance, in amounts they can control.",
+      "meaning": "怎么也不满足；总想得到更多",
+      "note": "",
+      "chunk": "can't get enough of sb./sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 8,
+      "quote": "Across the generations, I see that people can't get enough of each other, if and only if they can have each other at a distance, in amounts they can control.",
+      "meaning": "当且仅当……",
+      "note": "",
+      "chunk": "if and only if ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 8,
+      "quote": "Across the generations, I see that people can't get enough of each other, if and only if they can have each other at a distance, in amounts they can control.",
+      "meaning": "保持一定距离",
+      "note": "",
+      "chunk": "at a distance",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 8,
+      "quote": "I call it the Goldilocks effect: not too close, not too far, just right.",
+      "meaning": "不太……也不太……，恰到好处",
+      "note": "",
+      "chunk": "not too ..., not too ..., just right",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 8,
+      "quote": "Across the generations, I see that people can't get enough of each other, if and only if they can have each other at a distance, in amounts they can control.",
+      "meaning": "跨越不同世代／各个年龄层",
+      "note": "",
+      "chunk": "across the generations",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 9,
+      "quote": "When I ask people \"What's wrong with having a conversation?\"",
+      "meaning": "做某事有什么问题？",
+      "note": "",
+      "chunk": "What's wrong with doing sth.?",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 9,
+      "quote": "It takes place in real time and you can't control what you're going to say.\"",
+      "meaning": "实时发生",
+      "note": "",
+      "chunk": "take place in real time",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 9,
+      "quote": "So that's the bottom line.",
+      "meaning": "关键／根本原因就是这个",
+      "note": "",
+      "chunk": "that's the bottom line",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 9,
+      "quote": "We get to edit, and that means we get to delete, and that means we get to retouch, the face, the voice, the flesh, the body -- not too little, not too much, just right.",
+      "meaning": "有机会／可以做某事",
+      "note": "",
+      "chunk": "get to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "And we clean them up with technology.",
+      "meaning": "整理，使变得不那么杂乱复杂",
+      "note": "此处指用技术消除关系的复杂性，不是物理清扫。",
+      "chunk": "clean sth. up",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "And when we do, one of the things that can happen is that we sacrifice conversation for mere connection.",
+      "meaning": "牺牲A来换取B",
+      "note": "",
+      "chunk": "sacrifice A for B",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "We short-change ourselves.",
+      "meaning": "使自己应得的体验／利益缩水",
+      "note": "",
+      "chunk": "short-change oneself",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "And over time, we seem to forget this, or we seem to stop caring.",
+      "meaning": "随着时间推移",
+      "note": "",
+      "chunk": "over time",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "I was caught off guard when Stephen Colbert asked me a profound question, a profound question.",
+      "meaning": "措手不及，毫无准备",
+      "note": "",
+      "chunk": "be caught off guard",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "He said, \"Don't all those little tweets, don't all those little sips of online communication, add up to one big gulp of real conversation?\"",
+      "meaning": "累积成／合起来达到某物",
+      "note": "",
+      "chunk": "add up to sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "Connecting in sips may work for gathering discrete bits of information, they may work for saying, \"I'm thinking about you,\" or even for saying, \"I love you,\" -- I mean, look at how I felt when I got that text from my daughter -- but they don't really work for learning about each other, for really coming to know and understand each other.",
+      "meaning": "逐渐了解并理解某人",
+      "note": "",
+      "chunk": "come to know and understand sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "Connecting in sips may work for gathering discrete bits of information, they may work for saying, \"I'm thinking about you,\" or even for saying, \"I love you,\" -- I mean, look at how I felt when I got that text from my daughter -- but they don't really work for learning about each other, for really coming to know and understand each other.",
+      "meaning": "我在想着你；表达关心／惦记",
+      "note": "",
+      "chunk": "I'm thinking about you.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "And what I'm seeing is that people get so used to being short-changed out of real conversation, so used to getting by with less, that they've become almost willing to dispense with people altogether.",
+      "meaning": "靠较少的东西勉强过得去",
+      "note": "",
+      "chunk": "get by with less",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "And what I'm seeing is that people get so used to being short-changed out of real conversation, so used to getting by with less, that they've become almost willing to dispense with people altogether.",
+      "meaning": "不再需要／免去某人或某物",
+      "note": "",
+      "chunk": "dispense with sb./sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "And the feeling that no one is listening to me make us want to spend time with machines that seem to care about us.",
+      "meaning": "花时间与某人相处",
+      "note": "",
+      "chunk": "spend time with sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "Over and over I hear, \"I would rather text than talk.\"",
+      "meaning": "我宁愿做A也不做B",
+      "note": "",
+      "chunk": "I would rather do A than do B",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 13,
+      "quote": "Have we so lost confidence that we will be there for each other?",
+      "meaning": "在需要时互相陪伴和支持",
+      "note": "",
+      "chunk": "be there for each other",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 13,
+      "quote": "And one day I came in and a woman who had lost a child was talking to a robot in the shape of a baby seal.",
+      "meaning": "呈……的形状",
+      "note": "",
+      "chunk": "in the shape of ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 13,
+      "quote": "It seemed to be following the conversation.",
+      "meaning": "听懂／跟上谈话",
+      "note": "",
+      "chunk": "follow the conversation",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 13,
+      "quote": "We're developing robots, they call them sociable robots, that are specifically designed to be companions -- to the elderly, to our children, to us.",
+      "meaning": "被设计来做某事",
+      "note": "",
+      "chunk": "be designed to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 14,
+      "quote": "But that woman was trying to make sense of her life with a machine that had no experience of the arc of a human life.",
+      "meaning": "理解／理清某事",
+      "note": "",
+      "chunk": "make sense of sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 14,
+      "quote": "That robot put on a great show.",
+      "meaning": "做出一场精彩表演／表现得像真的",
+      "note": "这里含对机器人表面共情的保留态度。",
+      "chunk": "put on a great show",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 14,
+      "quote": "People experience pretend empathy as though it were the real thing.",
+      "meaning": "仿佛……",
+      "note": "",
+      "chunk": "as though ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 14,
+      "quote": "People experience pretend empathy as though it were the real thing.",
+      "meaning": "真的东西；货真价实的体验",
+      "note": "",
+      "chunk": "the real thing",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 15,
+      "quote": "And as that woman took comfort in her robot companion, I didn't find it amazing; I found it one of the most wrenching, complicated moments in my 15 years of work.",
+      "meaning": "从某事获得安慰",
+      "note": "",
+      "chunk": "take comfort in sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 15,
+      "quote": "But when I stepped back, I felt myself at the cold, hard center of a perfect storm.",
+      "meaning": "退一步审视",
+      "note": "",
+      "chunk": "step back",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 15,
+      "quote": "But when I stepped back, I felt myself at the cold, hard center of a perfect storm.",
+      "meaning": "多种不利因素汇合的危机",
+      "note": "比喻义。",
+      "chunk": "a perfect storm",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 15,
+      "quote": "We expect more from technology and less from each other.",
+      "meaning": "对A期待更多，对B期待更少",
+      "note": "",
+      "chunk": "expect more from A and less from B",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 15,
+      "quote": "And I ask myself, \"Why have things come to this?\"",
+      "meaning": "事情怎么会发展到这个地步？",
+      "note": "",
+      "chunk": "Why have things come to this?",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 16,
+      "quote": "And I believe it's because technology appeals to us most where we are most vulnerable.",
+      "meaning": "对某人有吸引力",
+      "note": "",
+      "chunk": "appeal to sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 16,
+      "quote": "And so from social networks to sociable robots, we're designing technologies that will give us the illusion of companionship without the demands of friendship.",
+      "meaning": "某事存在的假象／错觉",
+      "note": "",
+      "chunk": "the illusion of sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 16,
+      "quote": "We turn to technology to help us feel connected in ways we can comfortably control.",
+      "meaning": "转而依靠某人／某事来做……",
+      "note": "",
+      "chunk": "turn to sb./sth. to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 17,
+      "quote": "Because the moment that people are alone, even for a few seconds, they become anxious, they panic, they fidget, they reach for a device.",
+      "meaning": "一……就……",
+      "note": "",
+      "chunk": "the moment (that) 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 17,
+      "quote": "Because the moment that people are alone, even for a few seconds, they become anxious, they panic, they fidget, they reach for a device.",
+      "meaning": "伸手拿某物",
+      "note": "",
+      "chunk": "reach for sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 17,
+      "quote": "But here, connection is more like a symptom than a cure.",
+      "meaning": "更像A而非B",
+      "note": "",
+      "chunk": "more like A than B",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 18,
+      "quote": "We use technology to define ourselves by sharing our thoughts and feelings even as we're having them.",
+      "meaning": "以做某事来界定自己",
+      "note": "",
+      "chunk": "define oneself by doing sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 18,
+      "quote": "But in the process, we set ourselves up to be isolated.",
+      "meaning": "在这个过程中",
+      "note": "",
+      "chunk": "in the process",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 18,
+      "quote": "The problem with this new regime of \"I share therefore I am\" is that, if we don't have connection, we don't feel like ourselves.",
+      "meaning": "感觉自己不像平时的自己",
+      "note": "",
+      "chunk": "not feel like oneself",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "You end up isolated if you don't cultivate the capacity for solitude, the ability to be separate, to gather yourself.",
+      "meaning": "培养某种能力",
+      "note": "",
+      "chunk": "cultivate the capacity for sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "You end up isolated if you don't cultivate the capacity for solitude, the ability to be separate, to gather yourself.",
+      "meaning": "使自己沉静下来／重整自己",
+      "note": "",
+      "chunk": "gather oneself",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "Solitude is where you find yourself so that you can reach out to other people and form real attachments.",
+      "meaning": "主动与某人建立联系",
+      "note": "",
+      "chunk": "reach out to sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "Solitude is where you find yourself so that you can reach out to other people and form real attachments.",
+      "meaning": "建立真正的情感联系",
+      "note": "",
+      "chunk": "form real attachments",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "We slip into thinking that always being connected is going to make us feel less alone.",
+      "meaning": "不知不觉开始做某事",
+      "note": "",
+      "chunk": "slip into doing sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "But we're at risk, because actually it's the opposite that's true.",
+      "meaning": "处于风险之中",
+      "note": "",
+      "chunk": "be at risk",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "But we're at risk, because actually it's the opposite that's true.",
+      "meaning": "实际情况恰恰相反",
+      "note": "",
+      "chunk": "it's the opposite that's true",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "It's as though we're using them as spare parts to support our fragile sense of self.",
+      "meaning": "自我认同感",
+      "note": "",
+      "chunk": "a sense of self",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "When I spoke at TED in 1996, reporting on my studies of the early virtual communities, I said, \"Those who make the most of their lives on the screen come to it in a spirit of self-reflection.\"",
+      "meaning": "充分利用某事",
+      "note": "",
+      "chunk": "make the most of sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "When I spoke at TED in 1996, reporting on my studies of the early virtual communities, I said, \"Those who make the most of their lives on the screen come to it in a spirit of self-reflection.\"",
+      "meaning": "本着……的态度",
+      "note": "",
+      "chunk": "in a spirit of ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "And that's what I'm calling for here, now: reflection and, more than that, a conversation about where our current use of technology may be taking us, what it might be costing us.",
+      "meaning": "呼吁／要求某事",
+      "note": "",
+      "chunk": "call for sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "We're smitten with technology.",
+      "meaning": "对某物十分着迷",
+      "note": "",
+      "chunk": "be smitten with sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "But it's not, it's early days.",
+      "meaning": "还处于初期，尚早",
+      "note": "",
+      "chunk": "it's early days",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "There's plenty of time for us to reconsider how we use it, how we build it.",
+      "meaning": "还有充足时间做某事",
+      "note": "",
+      "chunk": "There's plenty of time to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "I'm not suggesting that we turn away from our devices, just that we develop a more self-aware relationship with them, with each other and with ourselves.",
+      "meaning": "背离／放弃某物",
+      "note": "",
+      "chunk": "turn away from sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "I'm not suggesting that we turn away from our devices, just that we develop a more self-aware relationship with them, with each other and with ourselves.",
+      "meaning": "我不是建议……，只是建议……",
+      "note": "",
+      "chunk": "I'm not suggesting that ..., just that ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "We grew up with digital technology and so we see it as all grown up.",
+      "meaning": "已经长大／成熟了",
+      "note": "这里比喻技术的成熟度。",
+      "chunk": "all grown up",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 21,
+      "quote": "Make room for it.",
+      "meaning": "给某事腾出空间／安排时间",
+      "note": "",
+      "chunk": "make room for sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 21,
+      "quote": "Because it's when we stumble or hesitate or lose our words that we reveal ourselves to each other.",
+      "meaning": "一时说不出话／找不到合适的话",
+      "note": "本句口语用法，正式教学前可另核更常见的be lost for words。",
+      "chunk": "lose one's words",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 22,
+      "quote": "Technology is making a bid to redefine human connection -- how we care for each other, how we care for ourselves -- but it's also giving us the opportunity to affirm our values and our direction.",
+      "meaning": "试图／努力做某事",
+      "note": "",
+      "chunk": "make a bid to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 22,
+      "quote": "Technology is making a bid to redefine human connection -- how we care for each other, how we care for ourselves -- but it's also giving us the opportunity to affirm our values and our direction.",
+      "meaning": "照顾／关心某人",
+      "note": "",
+      "chunk": "care for sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 23,
+      "quote": "It's like calling in the cavalry.",
+      "meaning": "召来救兵／援助",
+      "note": "比喻义，带幽默色彩。",
+      "chunk": "call in the cavalry",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 23,
+      "quote": "We're drawn to virtual romance, to computer games that seem like worlds, to the idea that robots, robots, will someday be our true companions.",
+      "meaning": "受到某物吸引",
+      "note": "",
+      "chunk": "be drawn to sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 23,
+      "quote": "We spend an evening on the social network instead of going to the pub with friends.",
+      "meaning": "代替／而非做某事",
+      "note": "",
+      "chunk": "instead of doing sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 23,
+      "quote": "So in my work, I hear that life is hard, relationships are filled with risk.",
+      "meaning": "充满风险",
+      "note": "",
+      "chunk": "be filled with risk",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 24,
+      "quote": "Now we all need to focus on the many, many ways technology can lead us back to our real lives, our own bodies, our own communities, our own politics, our own planet.",
+      "meaning": "把某人带回到某处／某种生活",
+      "note": "",
+      "chunk": "lead sb. back to sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 24,
+      "quote": "Now we all need to focus on the many, many ways technology can lead us back to our real lives, our own bodies, our own communities, our own politics, our own planet.",
+      "meaning": "把关注／精力集中到某事",
+      "note": "",
+      "chunk": "focus on sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    }
+  ],
+  "vocabulary": [
+    {
+      "paragraph": 1,
+      "quote": "Her text said, \"Mom, you will rock.\"",
+      "meaning": "短信／文字消息",
+      "note": "",
+      "word": "text",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "Her text said, \"Mom, you will rock.\"",
+      "meaning": "表现出色，干得很棒",
+      "note": "口语鼓励。",
+      "word": "rock",
+      "pos": "v."
+    },
+    {
+      "paragraph": 1,
+      "quote": "I embody the central paradox.",
+      "meaning": "体现；成为某种概念的具体实例",
+      "note": "",
+      "word": "embody",
+      "pos": "v."
+    },
+    {
+      "paragraph": 1,
+      "quote": "I embody the central paradox.",
+      "meaning": "看似矛盾却并存的情况",
+      "note": "",
+      "word": "paradox",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "Getting that text was like getting a hug.",
+      "meaning": "拥抱",
+      "note": "",
+      "word": "hug",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "I embody the central paradox.",
+      "meaning": "核心的",
+      "note": "",
+      "word": "central",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 2,
+      "quote": "I had just written a book that celebrated our life on the internet and I was about to be on the cover of Wired magazine.",
+      "meaning": "赞颂，肯定",
+      "note": "不是举行庆祝活动义。",
+      "word": "celebrate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 2,
+      "quote": "In those heady days, we were experimenting with chat rooms and online virtual communities.",
+      "meaning": "令人兴奋陶醉的",
+      "note": "",
+      "word": "heady",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 2,
+      "quote": "In those heady days, we were experimenting with chat rooms and online virtual communities.",
+      "meaning": "虚拟的，网络模拟的",
+      "note": "",
+      "word": "virtual",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 2,
+      "quote": "We were exploring different aspects of ourselves.",
+      "meaning": "方面，侧面",
+      "note": "",
+      "word": "aspect",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "And then we unplugged.",
+      "meaning": "断开网络／设备连接",
+      "note": "此处从网络生活抽身。",
+      "word": "unplug",
+      "pos": "v."
+    },
+    {
+      "paragraph": 2,
+      "quote": "And, as a psychologist, what excited me most was the idea that we would use what we learned in the virtual world about ourselves, about our identity, to live better lives in the real world.",
+      "meaning": "自我身份与认同",
+      "note": "",
+      "word": "identity",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "Actually that reminder of my daughter brings me to the beginning of my story.",
+      "meaning": "让人想起某事的提示／事物",
+      "note": "",
+      "word": "reminder",
+      "pos": "n."
+    },
+    {
+      "paragraph": 2,
+      "quote": "We were exploring different aspects of ourselves.",
+      "meaning": "探索，探究",
+      "note": "",
+      "word": "explore",
+      "pos": "v."
+    },
+    {
+      "paragraph": 3,
+      "quote": "I'm still excited by technology, but I believe, and I'm here to make the case, that we're letting it take us places that we don't want to go.",
+      "meaning": "论证／支持某立场的理由",
+      "note": "",
+      "word": "case",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.",
+      "meaning": "电子设备",
+      "note": "",
+      "word": "device",
+      "pos": "n."
+    },
+    {
+      "paragraph": 4,
+      "quote": "And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.",
+      "meaning": "在心理方面",
+      "note": "",
+      "word": "psychologically",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 4,
+      "quote": "Some of the things we do now with our devices are things that, only a few years ago, we would have found odd or disturbing, but they've quickly come to seem familiar, just how we do things.",
+      "meaning": "奇怪的，不寻常的",
+      "note": "",
+      "word": "odd",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "Some of the things we do now with our devices are things that, only a few years ago, we would have found odd or disturbing, but they've quickly come to seem familiar, just how we do things.",
+      "meaning": "令人不安的",
+      "note": "",
+      "word": "disturbing",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.",
+      "meaning": "有巨大影响力的",
+      "note": "",
+      "word": "powerful",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 4,
+      "quote": "Some of the things we do now with our devices are things that, only a few years ago, we would have found odd or disturbing, but they've quickly come to seem familiar, just how we do things.",
+      "meaning": "熟悉、已习惯的",
+      "note": "",
+      "word": "familiar",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 5,
+      "quote": "So just to take some quick examples: People text or do email during corporate board meetings.",
+      "meaning": "公司的／企业的",
+      "note": "",
+      "word": "corporate",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 5,
+      "quote": "So just to take some quick examples: People text or do email during corporate board meetings.",
+      "meaning": "董事会",
+      "note": "",
+      "word": "board",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "They text and shop and go on Facebook during classes, during presentations, actually during all meetings.",
+      "meaning": "报告／演示",
+      "note": "",
+      "word": "presentation",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "But then these same children deny each other their full attention.",
+      "meaning": "不把应得的东西给予某人",
+      "note": "deny sb. sth.；此处不是否认义。",
+      "word": "deny",
+      "pos": "v."
+    },
+    {
+      "paragraph": 5,
+      "quote": "This is a recent shot of my daughter and her friends being together while not being together.",
+      "meaning": "照片",
+      "note": "不是射击义。",
+      "word": "shot",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "And we even text at funerals.",
+      "meaning": "葬礼",
+      "note": "",
+      "word": "funeral",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "We remove ourselves from our grief or from our revery and we go into our phones.",
+      "meaning": "悲伤；尤指丧亲之痛",
+      "note": "",
+      "word": "grief",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "We remove ourselves from our grief or from our revery and we go into our phones.",
+      "meaning": "沉思／遐想",
+      "note": "原文拼写，亦作reverie。",
+      "word": "revery",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "Parents text and do email at breakfast and at dinner while their children complain about not having their parents' full attention.",
+      "meaning": "注意力／关注",
+      "note": "",
+      "word": "attention",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "We remove ourselves from our grief or from our revery and we go into our phones.",
+      "meaning": "使离开／抽离",
+      "note": "",
+      "word": "remove",
+      "pos": "v."
+    },
+    {
+      "paragraph": 6,
+      "quote": "It matters to me because I think we're setting ourselves up for trouble -- trouble certainly in how we relate to each other, but also trouble in how we relate to ourselves and our capacity for self-reflection.",
+      "meaning": "能力",
+      "note": "",
+      "word": "capacity",
+      "pos": "n."
+    },
+    {
+      "paragraph": 6,
+      "quote": "It matters to me because I think we're setting ourselves up for trouble -- trouble certainly in how we relate to each other, but also trouble in how we relate to ourselves and our capacity for self-reflection.",
+      "meaning": "自我反思",
+      "note": "",
+      "word": "self-reflection",
+      "pos": "n."
+    },
+    {
+      "paragraph": 6,
+      "quote": "People want to be with each other, but also elsewhere -- connected to all the different places they want to be.",
+      "meaning": "在别处",
+      "note": "",
+      "word": "elsewhere",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 6,
+      "quote": "People want to customize their lives.",
+      "meaning": "按自己的需要调整／定制",
+      "note": "",
+      "word": "customize",
+      "pos": "v."
+    },
+    {
+      "paragraph": 6,
+      "quote": "So you want to go to that board meeting, but you only want to pay attention to the bits that interest you.",
+      "meaning": "一小部分／片段",
+      "note": "",
+      "word": "bit",
+      "pos": "n."
+    },
+    {
+      "paragraph": 6,
+      "quote": "But you can end up hiding from each other, even as we're all constantly connected to each other.",
+      "meaning": "持续地，不断地",
+      "note": "",
+      "word": "constantly",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 6,
+      "quote": "Why does this matter?",
+      "meaning": "重要；产生影响",
+      "note": "",
+      "word": "matter",
+      "pos": "v."
+    },
+    {
+      "paragraph": 6,
+      "quote": "They want to go in and out of all the places they are because the thing that matters most to them is control over where they put their attention.",
+      "meaning": "控制权",
+      "note": "",
+      "word": "control",
+      "pos": "n."
+    },
+    {
+      "paragraph": 7,
+      "quote": "A 50-year-old business man lamented to me that he feels he doesn't have colleagues anymore at work.",
+      "meaning": "感叹／哀叹",
+      "note": "",
+      "word": "lament",
+      "pos": "v."
+    },
+    {
+      "paragraph": 7,
+      "quote": "A 50-year-old business man lamented to me that he feels he doesn't have colleagues anymore at work.",
+      "meaning": "同事",
+      "note": "",
+      "word": "colleague",
+      "pos": "n."
+    },
+    {
+      "paragraph": 7,
+      "quote": "And he says he doesn't want to interrupt his colleagues because, he says, \"They're too busy on their email.\"",
+      "meaning": "打断，打扰",
+      "note": "",
+      "word": "interrupt",
+      "pos": "v."
+    },
+    {
+      "paragraph": 8,
+      "quote": "Across the generations, I see that people can't get enough of each other, if and only if they can have each other at a distance, in amounts they can control.",
+      "meaning": "一代人／年龄世代",
+      "note": "",
+      "word": "generation",
+      "pos": "n."
+    },
+    {
+      "paragraph": 8,
+      "quote": "But what might feel just right for that middle-aged executive can be a problem for an adolescent who needs to develop face-to-face relationships.",
+      "meaning": "企业管理人员／高管",
+      "note": "",
+      "word": "executive",
+      "pos": "n."
+    },
+    {
+      "paragraph": 8,
+      "quote": "But what might feel just right for that middle-aged executive can be a problem for an adolescent who needs to develop face-to-face relationships.",
+      "meaning": "青少年",
+      "note": "",
+      "word": "adolescent",
+      "pos": "n."
+    },
+    {
+      "paragraph": 8,
+      "quote": "An 18-year-old boy who uses texting for almost everything says to me wistfully, \"Someday, someday, but certainly not now, I'd like to learn how to have a conversation.\"",
+      "meaning": "带着遗憾或向往地",
+      "note": "",
+      "word": "wistfully",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 8,
+      "quote": "Across the generations, I see that people can't get enough of each other, if and only if they can have each other at a distance, in amounts they can control.",
+      "meaning": "数量／分量",
+      "note": "",
+      "word": "amount",
+      "pos": "n."
+    },
+    {
+      "paragraph": 9,
+      "quote": "We get to edit, and that means we get to delete, and that means we get to retouch, the face, the voice, the flesh, the body -- not too little, not too much, just right.",
+      "meaning": "编辑，修改内容",
+      "note": "",
+      "word": "edit",
+      "pos": "v."
+    },
+    {
+      "paragraph": 9,
+      "quote": "We get to edit, and that means we get to delete, and that means we get to retouch, the face, the voice, the flesh, the body -- not too little, not too much, just right.",
+      "meaning": "修饰／修图润色",
+      "note": "",
+      "word": "retouch",
+      "pos": "v."
+    },
+    {
+      "paragraph": 9,
+      "quote": "We get to edit, and that means we get to delete, and that means we get to retouch, the face, the voice, the flesh, the body -- not too little, not too much, just right.",
+      "meaning": "肉体／身体的实体部分",
+      "note": "",
+      "word": "flesh",
+      "pos": "n."
+    },
+    {
+      "paragraph": 9,
+      "quote": "Texting, email, posting, all of these things let us present the self as we want to be.",
+      "meaning": "在网络发布内容",
+      "note": "",
+      "word": "post",
+      "pos": "v."
+    },
+    {
+      "paragraph": 9,
+      "quote": "Texting, email, posting, all of these things let us present the self as we want to be.",
+      "meaning": "展示／呈现",
+      "note": "与形容词present区分。",
+      "word": "present",
+      "pos": "v."
+    },
+    {
+      "paragraph": 9,
+      "quote": "We get to edit, and that means we get to delete, and that means we get to retouch, the face, the voice, the flesh, the body -- not too little, not too much, just right.",
+      "meaning": "删除",
+      "note": "",
+      "word": "delete",
+      "pos": "v."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Human relationships are rich and they're messy and they're demanding.",
+      "meaning": "丰富、多层次的",
+      "note": "不是有钱义。",
+      "word": "rich",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Human relationships are rich and they're messy and they're demanding.",
+      "meaning": "复杂凌乱、难以理清的",
+      "note": "",
+      "word": "messy",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Human relationships are rich and they're messy and they're demanding.",
+      "meaning": "要求高、需要投入很多的",
+      "note": "",
+      "word": "demanding",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "And when we do, one of the things that can happen is that we sacrifice conversation for mere connection.",
+      "meaning": "舍弃一种价值以换取另一种",
+      "note": "",
+      "word": "sacrifice",
+      "pos": "v."
+    },
+    {
+      "paragraph": 10,
+      "quote": "And when we do, one of the things that can happen is that we sacrifice conversation for mere connection.",
+      "meaning": "仅仅的；不过是",
+      "note": "",
+      "word": "mere",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "We short-change ourselves.",
+      "meaning": "使获得的少于应得的；亏待",
+      "note": "源自少找钱，此处比喻义。",
+      "word": "short-change",
+      "pos": "v."
+    },
+    {
+      "paragraph": 10,
+      "quote": "And when we do, one of the things that can happen is that we sacrifice conversation for mere connection.",
+      "meaning": "连接／保持联络",
+      "note": "此处与深入conversation对照。",
+      "word": "connection",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "I was caught off guard when Stephen Colbert asked me a profound question, a profound question.",
+      "meaning": "深刻的",
+      "note": "",
+      "word": "profound",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 11,
+      "quote": "He said, \"Don't all those little tweets, don't all those little sips of online communication, add up to one big gulp of real conversation?\"",
+      "meaning": "一小口；比喻零碎交流",
+      "note": "",
+      "word": "sip",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "He said, \"Don't all those little tweets, don't all those little sips of online communication, add up to one big gulp of real conversation?\"",
+      "meaning": "一大口",
+      "note": "",
+      "word": "gulp",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "Connecting in sips may work for gathering discrete bits of information, they may work for saying, \"I'm thinking about you,\" or even for saying, \"I love you,\" -- I mean, look at how I felt when I got that text from my daughter -- but they don't really work for learning about each other, for really coming to know and understand each other.",
+      "meaning": "各自独立、分开的",
+      "note": "",
+      "word": "discrete",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 11,
+      "quote": "So a flight from conversation can really matter because it can compromise our capacity for self-reflection.",
+      "meaning": "逃离／回避",
+      "note": "不是乘机旅行义。",
+      "word": "flight",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "So a flight from conversation can really matter because it can compromise our capacity for self-reflection.",
+      "meaning": "损害，削弱",
+      "note": "不是妥协义。",
+      "word": "compromise",
+      "pos": "v."
+    },
+    {
+      "paragraph": 11,
+      "quote": "For kids growing up, that skill is the bedrock of development.",
+      "meaning": "根基，坚实基础",
+      "note": "比喻义。",
+      "word": "bedrock",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "Connecting in sips may work for gathering discrete bits of information, they may work for saying, \"I'm thinking about you,\" or even for saying, \"I love you,\" -- I mean, look at how I felt when I got that text from my daughter -- but they don't really work for learning about each other, for really coming to know and understand each other.",
+      "meaning": "收集",
+      "note": "",
+      "word": "gather",
+      "pos": "v."
+    },
+    {
+      "paragraph": 12,
+      "quote": "And what I'm seeing is that people get so used to being short-changed out of real conversation, so used to getting by with less, that they've become almost willing to dispense with people altogether.",
+      "meaning": "完全，彻底",
+      "note": "",
+      "word": "altogether",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 12,
+      "quote": "So for example, many people share with me this wish, that some day a more advanced version of Siri, the digital assistant on Apple's iPhone, will be more like a best friend, someone who will listen when others won't.",
+      "meaning": "更先进的",
+      "note": "",
+      "word": "advanced",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 12,
+      "quote": "So for example, many people share with me this wish, that some day a more advanced version of Siri, the digital assistant on Apple's iPhone, will be more like a best friend, someone who will listen when others won't.",
+      "meaning": "版本",
+      "note": "",
+      "word": "version",
+      "pos": "n."
+    },
+    {
+      "paragraph": 12,
+      "quote": "I believe this wish reflects a painful truth that I've learned in the past 15 years.",
+      "meaning": "反映，体现",
+      "note": "",
+      "word": "reflect",
+      "pos": "v."
+    },
+    {
+      "paragraph": 12,
+      "quote": "That's why it's so appealing to have a Facebook page or a Twitter feed -- so many automatic listeners.",
+      "meaning": "有吸引力的",
+      "note": "",
+      "word": "appealing",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 12,
+      "quote": "That's why it's so appealing to have a Facebook page or a Twitter feed -- so many automatic listeners.",
+      "meaning": "社交平台动态流",
+      "note": "不是喂养义。",
+      "word": "feed",
+      "pos": "n."
+    },
+    {
+      "paragraph": 12,
+      "quote": "And what I'm seeing is that people get so used to being short-changed out of real conversation, so used to getting by with less, that they've become almost willing to dispense with people altogether.",
+      "meaning": "愿意的",
+      "note": "",
+      "word": "willing",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 12,
+      "quote": "So for example, many people share with me this wish, that some day a more advanced version of Siri, the digital assistant on Apple's iPhone, will be more like a best friend, someone who will listen when others won't.",
+      "meaning": "助手",
+      "note": "",
+      "word": "assistant",
+      "pos": "n."
+    },
+    {
+      "paragraph": 12,
+      "quote": "That's why it's so appealing to have a Facebook page or a Twitter feed -- so many automatic listeners.",
+      "meaning": "自动的，无需主动招揽的",
+      "note": "",
+      "word": "automatic",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 13,
+      "quote": "We're developing robots, they call them sociable robots, that are specifically designed to be companions -- to the elderly, to our children, to us.",
+      "meaning": "善于社交／能互动的",
+      "note": "此处机器人类别称谓。",
+      "word": "sociable",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 13,
+      "quote": "We're developing robots, they call them sociable robots, that are specifically designed to be companions -- to the elderly, to our children, to us.",
+      "meaning": "陪伴者／伙伴",
+      "note": "",
+      "word": "companion",
+      "pos": "n."
+    },
+    {
+      "paragraph": 13,
+      "quote": "We're developing robots, they call them sociable robots, that are specifically designed to be companions -- to the elderly, to our children, to us.",
+      "meaning": "年长的；the elderly指老年人群",
+      "note": "",
+      "word": "elderly",
+      "pos": "adj./n."
+    },
+    {
+      "paragraph": 13,
+      "quote": "During my research I worked in nursing homes, and I brought in these sociable robots that were designed to give the elderly the feeling that they were understood.",
+      "meaning": "养老护理机构",
+      "note": "",
+      "word": "nursing home",
+      "pos": "n."
+    },
+    {
+      "paragraph": 13,
+      "quote": "And one day I came in and a woman who had lost a child was talking to a robot in the shape of a baby seal.",
+      "meaning": "海豹",
+      "note": "不是密封或印章义。",
+      "word": "seal",
+      "pos": "n."
+    },
+    {
+      "paragraph": 13,
+      "quote": "It comforted her.",
+      "meaning": "安慰",
+      "note": "",
+      "word": "comfort",
+      "pos": "v."
+    },
+    {
+      "paragraph": 13,
+      "quote": "We're developing robots, they call them sociable robots, that are specifically designed to be companions -- to the elderly, to our children, to us.",
+      "meaning": "专门地",
+      "note": "",
+      "word": "specifically",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 13,
+      "quote": "Have we so lost confidence that we will be there for each other?",
+      "meaning": "信心，确信",
+      "note": "",
+      "word": "confidence",
+      "pos": "n."
+    },
+    {
+      "paragraph": 14,
+      "quote": "But that woman was trying to make sense of her life with a machine that had no experience of the arc of a human life.",
+      "meaning": "发展轨迹／完整历程",
+      "note": "比喻义。",
+      "word": "arc",
+      "pos": "n."
+    },
+    {
+      "paragraph": 14,
+      "quote": "And we're vulnerable.",
+      "meaning": "容易受伤害／受影响的",
+      "note": "",
+      "word": "vulnerable",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 14,
+      "quote": "People experience pretend empathy as though it were the real thing.",
+      "meaning": "假装的，不是真的",
+      "note": "本句前置修饰用法。",
+      "word": "pretend",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 14,
+      "quote": "People experience pretend empathy as though it were the real thing.",
+      "meaning": "理解并感受他人情绪的共情",
+      "note": "",
+      "word": "empathy",
+      "pos": "n."
+    },
+    {
+      "paragraph": 14,
+      "quote": "So during that moment when that woman was experiencing that pretend empathy, I was thinking, \"That robot can't empathize.",
+      "meaning": "与人共情",
+      "note": "",
+      "word": "empathize",
+      "pos": "v."
+    },
+    {
+      "paragraph": 14,
+      "quote": "It doesn't face death.",
+      "meaning": "面对；不得不应对",
+      "note": "",
+      "word": "face",
+      "pos": "v."
+    },
+    {
+      "paragraph": 15,
+      "quote": "And as that woman took comfort in her robot companion, I didn't find it amazing; I found it one of the most wrenching, complicated moments in my 15 years of work.",
+      "meaning": "令人极度痛苦、心酸的",
+      "note": "",
+      "word": "wrenching",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 15,
+      "quote": "But when I stepped back, I felt myself at the cold, hard center of a perfect storm.",
+      "meaning": "比喻多重冲击的危机",
+      "note": "",
+      "word": "storm",
+      "pos": "n."
+    },
+    {
+      "paragraph": 15,
+      "quote": "And as that woman took comfort in her robot companion, I didn't find it amazing; I found it one of the most wrenching, complicated moments in my 15 years of work.",
+      "meaning": "复杂、难以简单评判的",
+      "note": "",
+      "word": "complicated",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 16,
+      "quote": "And I believe it's because technology appeals to us most where we are most vulnerable.",
+      "meaning": "吸引",
+      "note": "",
+      "word": "appeal",
+      "pos": "v."
+    },
+    {
+      "paragraph": 16,
+      "quote": "We're lonely, but we're afraid of intimacy.",
+      "meaning": "亲密关系／亲密接触",
+      "note": "",
+      "word": "intimacy",
+      "pos": "n."
+    },
+    {
+      "paragraph": 16,
+      "quote": "And so from social networks to sociable robots, we're designing technologies that will give us the illusion of companionship without the demands of friendship.",
+      "meaning": "错觉，假象",
+      "note": "",
+      "word": "illusion",
+      "pos": "n."
+    },
+    {
+      "paragraph": 16,
+      "quote": "And so from social networks to sociable robots, we're designing technologies that will give us the illusion of companionship without the demands of friendship.",
+      "meaning": "陪伴，伙伴情谊",
+      "note": "",
+      "word": "companionship",
+      "pos": "n."
+    },
+    {
+      "paragraph": 16,
+      "quote": "And so from social networks to sociable robots, we're designing technologies that will give us the illusion of companionship without the demands of friendship.",
+      "meaning": "需要付出的要求",
+      "note": "",
+      "word": "demand",
+      "pos": "n."
+    },
+    {
+      "paragraph": 16,
+      "quote": "We're lonely, but we're afraid of intimacy.",
+      "meaning": "感到孤独的",
+      "note": "",
+      "word": "lonely",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 17,
+      "quote": "These days, those phones in our pockets are changing our minds and hearts because they offer us three gratifying fantasies.",
+      "meaning": "令人满足的",
+      "note": "",
+      "word": "gratifying",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 17,
+      "quote": "These days, those phones in our pockets are changing our minds and hearts because they offer us three gratifying fantasies.",
+      "meaning": "美好但不切实际的幻想",
+      "note": "",
+      "word": "fantasy",
+      "pos": "n."
+    },
+    {
+      "paragraph": 17,
+      "quote": "And that third idea, that we will never have to be alone, is central to changing our psyches.",
+      "meaning": "心灵／精神世界",
+      "note": "",
+      "word": "psyche",
+      "pos": "n."
+    },
+    {
+      "paragraph": 17,
+      "quote": "Because the moment that people are alone, even for a few seconds, they become anxious, they panic, they fidget, they reach for a device.",
+      "meaning": "焦虑的",
+      "note": "",
+      "word": "anxious",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 17,
+      "quote": "Because the moment that people are alone, even for a few seconds, they become anxious, they panic, they fidget, they reach for a device.",
+      "meaning": "恐慌",
+      "note": "",
+      "word": "panic",
+      "pos": "v."
+    },
+    {
+      "paragraph": 17,
+      "quote": "Because the moment that people are alone, even for a few seconds, they become anxious, they panic, they fidget, they reach for a device.",
+      "meaning": "不安地动来动去",
+      "note": "",
+      "word": "fidget",
+      "pos": "v."
+    },
+    {
+      "paragraph": 17,
+      "quote": "Just think of people at a checkout line or at a red light.",
+      "meaning": "付款结账处",
+      "note": "",
+      "word": "checkout",
+      "pos": "n."
+    },
+    {
+      "paragraph": 17,
+      "quote": "But here, connection is more like a symptom than a cure.",
+      "meaning": "症状；问题的表现",
+      "note": "",
+      "word": "symptom",
+      "pos": "n."
+    },
+    {
+      "paragraph": 17,
+      "quote": "But here, connection is more like a symptom than a cure.",
+      "meaning": "治愈方法；解决办法",
+      "note": "",
+      "word": "cure",
+      "pos": "n."
+    },
+    {
+      "paragraph": 17,
+      "quote": "It expresses, but it doesn't solve, an underlying problem.",
+      "meaning": "潜在／根本的",
+      "note": "",
+      "word": "underlying",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 17,
+      "quote": "It's shaping a new way of being.",
+      "meaning": "塑造",
+      "note": "",
+      "word": "shape",
+      "pos": "v."
+    },
+    {
+      "paragraph": 18,
+      "quote": "The problem with this new regime of \"I share therefore I am\" is that, if we don't have connection, we don't feel like ourselves.",
+      "meaning": "运作模式／支配性规则",
+      "note": "此处并非政府政权义。",
+      "word": "regime",
+      "pos": "n."
+    },
+    {
+      "paragraph": 18,
+      "quote": "But in the process, we set ourselves up to be isolated.",
+      "meaning": "孤立的，与人隔绝的",
+      "note": "",
+      "word": "isolated",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 19,
+      "quote": "How do you get from connection to isolation?",
+      "meaning": "孤立／隔绝状态",
+      "note": "",
+      "word": "isolation",
+      "pos": "n."
+    },
+    {
+      "paragraph": 19,
+      "quote": "You end up isolated if you don't cultivate the capacity for solitude, the ability to be separate, to gather yourself.",
+      "meaning": "培养，逐步发展",
+      "note": "",
+      "word": "cultivate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 19,
+      "quote": "You end up isolated if you don't cultivate the capacity for solitude, the ability to be separate, to gather yourself.",
+      "meaning": "独处",
+      "note": "与带不愉快感的loneliness不完全等同。",
+      "word": "solitude",
+      "pos": "n."
+    },
+    {
+      "paragraph": 19,
+      "quote": "Solitude is where you find yourself so that you can reach out to other people and form real attachments.",
+      "meaning": "情感依恋／联系",
+      "note": "不是邮件附件义。",
+      "word": "attachment",
+      "pos": "n."
+    },
+    {
+      "paragraph": 19,
+      "quote": "When this happens, we're not able to appreciate who they are.",
+      "meaning": "真正理解并珍视",
+      "note": "",
+      "word": "appreciate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 19,
+      "quote": "It's as though we're using them as spare parts to support our fragile sense of self.",
+      "meaning": "备用的",
+      "note": "",
+      "word": "spare",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 19,
+      "quote": "It's as though we're using them as spare parts to support our fragile sense of self.",
+      "meaning": "脆弱的",
+      "note": "",
+      "word": "fragile",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 19,
+      "quote": "We slip into thinking that always being connected is going to make us feel less alone.",
+      "meaning": "不知不觉陷入",
+      "note": "",
+      "word": "slip",
+      "pos": "v."
+    },
+    {
+      "paragraph": 19,
+      "quote": "You end up isolated if you don't cultivate the capacity for solitude, the ability to be separate, to gather yourself.",
+      "meaning": "与他人分开的／独立的",
+      "note": "",
+      "word": "separate",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 19,
+      "quote": "When we don't have the capacity for solitude, we turn to other people in order to feel less anxious or in order to feel alive.",
+      "meaning": "有生命力、有真实存在感的",
+      "note": "",
+      "word": "alive",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 20,
+      "quote": "And that's what I'm calling for here, now: reflection and, more than that, a conversation about where our current use of technology may be taking us, what it might be costing us.",
+      "meaning": "反思，思考",
+      "note": "",
+      "word": "reflection",
+      "pos": "n."
+    },
+    {
+      "paragraph": 20,
+      "quote": "We're smitten with technology.",
+      "meaning": "着迷的，迷恋的",
+      "note": "",
+      "word": "smitten",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 20,
+      "quote": "And we're afraid, like young lovers, that too much talking might spoil the romance.",
+      "meaning": "破坏／败坏",
+      "note": "",
+      "word": "spoil",
+      "pos": "v."
+    },
+    {
+      "paragraph": 20,
+      "quote": "And we're afraid, like young lovers, that too much talking might spoil the romance.",
+      "meaning": "浪漫情怀／爱情关系",
+      "note": "",
+      "word": "romance",
+      "pos": "n."
+    },
+    {
+      "paragraph": 20,
+      "quote": "There's plenty of time for us to reconsider how we use it, how we build it.",
+      "meaning": "重新考虑",
+      "note": "",
+      "word": "reconsider",
+      "pos": "v."
+    },
+    {
+      "paragraph": 20,
+      "quote": "I'm not suggesting that we turn away from our devices, just that we develop a more self-aware relationship with them, with each other and with ourselves.",
+      "meaning": "能觉察自身状态的",
+      "note": "",
+      "word": "self-aware",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 20,
+      "quote": "And that's what I'm calling for here, now: reflection and, more than that, a conversation about where our current use of technology may be taking us, what it might be costing us.",
+      "meaning": "当前的",
+      "note": "",
+      "word": "current",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 21,
+      "quote": "Find ways to demonstrate this as a value to your children.",
+      "meaning": "用行为显示／示范",
+      "note": "",
+      "word": "demonstrate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 21,
+      "quote": "Create sacred spaces at home -- the kitchen, the dining room -- and reclaim them for conversation.",
+      "meaning": "神圣不可侵犯的；此处比喻受保护的",
+      "note": "",
+      "word": "sacred",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 21,
+      "quote": "Create sacred spaces at home -- the kitchen, the dining room -- and reclaim them for conversation.",
+      "meaning": "收回／重新取得用途",
+      "note": "",
+      "word": "reclaim",
+      "pos": "v."
+    },
+    {
+      "paragraph": 21,
+      "quote": "Because it's when we stumble or hesitate or lose our words that we reveal ourselves to each other.",
+      "meaning": "说话磕绊／卡壳",
+      "note": "",
+      "word": "stumble",
+      "pos": "v."
+    },
+    {
+      "paragraph": 21,
+      "quote": "Because it's when we stumble or hesitate or lose our words that we reveal ourselves to each other.",
+      "meaning": "迟疑，犹豫",
+      "note": "",
+      "word": "hesitate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 21,
+      "quote": "Because it's when we stumble or hesitate or lose our words that we reveal ourselves to each other.",
+      "meaning": "显露，使被了解",
+      "note": "",
+      "word": "reveal",
+      "pos": "v."
+    },
+    {
+      "paragraph": 22,
+      "quote": "Technology is making a bid to redefine human connection -- how we care for each other, how we care for ourselves -- but it's also giving us the opportunity to affirm our values and our direction.",
+      "meaning": "争取／尝试",
+      "note": "不是拍卖出价义。",
+      "word": "bid",
+      "pos": "n."
+    },
+    {
+      "paragraph": 22,
+      "quote": "Technology is making a bid to redefine human connection -- how we care for each other, how we care for ourselves -- but it's also giving us the opportunity to affirm our values and our direction.",
+      "meaning": "重新界定",
+      "note": "",
+      "word": "redefine",
+      "pos": "v."
+    },
+    {
+      "paragraph": 22,
+      "quote": "Technology is making a bid to redefine human connection -- how we care for each other, how we care for ourselves -- but it's also giving us the opportunity to affirm our values and our direction.",
+      "meaning": "确认，坚定地表达",
+      "note": "",
+      "word": "affirm",
+      "pos": "v."
+    },
+    {
+      "paragraph": 22,
+      "quote": "I'm optimistic.",
+      "meaning": "乐观的",
+      "note": "",
+      "word": "optimistic",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 22,
+      "quote": "And we have the greatest chance of success if we recognize our vulnerability.",
+      "meaning": "脆弱性／容易受伤害之处",
+      "note": "",
+      "word": "vulnerability",
+      "pos": "n."
+    },
+    {
+      "paragraph": 22,
+      "quote": "And we have the greatest chance of success if we recognize our vulnerability.",
+      "meaning": "认识到，承认",
+      "note": "",
+      "word": "recognize",
+      "pos": "v."
+    },
+    {
+      "paragraph": 22,
+      "quote": "Technology is making a bid to redefine human connection -- how we care for each other, how we care for ourselves -- but it's also giving us the opportunity to affirm our values and our direction.",
+      "meaning": "前进方向／目标取向",
+      "note": "",
+      "word": "direction",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "It's like calling in the cavalry.",
+      "meaning": "骑兵；比喻救援力量",
+      "note": "",
+      "word": "cavalry",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "An ad campaign promises that online and with avatars, you can \"Finally, love your friends love your body, love your life, online and with avatars.\"",
+      "meaning": "宣传活动",
+      "note": "",
+      "word": "campaign",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "An ad campaign promises that online and with avatars, you can \"Finally, love your friends love your body, love your life, online and with avatars.\"",
+      "meaning": "虚拟化身",
+      "note": "",
+      "word": "avatar",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "We spend an evening on the social network instead of going to the pub with friends.",
+      "meaning": "酒吧",
+      "note": "",
+      "word": "pub",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "And then there's technology -- simpler, hopeful, optimistic, ever-young.",
+      "meaning": "给人希望／有希望的",
+      "note": "",
+      "word": "hopeful",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 24,
+      "quote": "But our fantasies of substitution have cost us.",
+      "meaning": "替代，以一种东西代另一种",
+      "note": "",
+      "word": "substitution",
+      "pos": "n."
+    },
+    {
+      "paragraph": 24,
+      "quote": "But our fantasies of substitution have cost us.",
+      "meaning": "使付出代价／造成损失",
+      "note": "宾语省略具体代价。",
+      "word": "cost",
+      "pos": "v."
+    },
+    {
+      "paragraph": 24,
+      "quote": "Now we all need to focus on the many, many ways technology can lead us back to our real lives, our own bodies, our own communities, our own politics, our own planet.",
+      "meaning": "社区／共同生活的群体",
+      "note": "",
+      "word": "community",
+      "pos": "n."
+    },
+    {
+      "paragraph": 24,
+      "quote": "Now we all need to focus on the many, many ways technology can lead us back to our real lives, our own bodies, our own communities, our own politics, our own planet.",
+      "meaning": "行星；此处地球",
+      "note": "",
+      "word": "planet",
+      "pos": "n."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 9,
+      "item": "not too ..., not too ..., just right",
+      "reason": "第8段同一可迁移对照骨架。"
+    },
+    {
+      "paragraph": 19,
+      "item": "turn to sb./sth.",
+      "reason": "第16段同义结构，未另新增chunk。"
+    },
+    {
+      "paragraph": 17,
+      "item": "underlying",
+      "reason": "第二遍回查确认与本篇首遍同词同义，无独立学习点。"
+    },
+    {
+      "paragraph": 21,
+      "item": "reveal",
+      "reason": "第二遍回查确认与本篇首遍同词同义，无独立学习点。"
+    }
+  ],
+  "pending": [
+    {
+      "paragraph": 21,
+      "item": "lose one's words",
+      "reason": "原文口语表达；已保留原句语境义，作为标准迁移模板前需核用法。"
+    },
+    {
+      "paragraph": 5,
+      "item": "revery",
+      "reason": "原文拼写保留，常见异体reverie；正式教学前核词形。"
+    }
+  ]
+}

@@ -1,0 +1,1095 @@
+{
+  "source": "materials/corpus/ted/english/007-aravind_srinivas_how_ai_will_answer_questions_we_haven_t_thought_to_ask.txt",
+  "sha256": "f4088e789547ba1d857a93bbb1697ab98b82302a59cedc3a30868e323d8e25da",
+  "metadata": {
+    "Title": "How AI will answer questions we haven't thought to ask",
+    "中文标题": "AI 如何回答我们尚未想到的问题",
+    "Speaker": "Aravind Srinivas",
+    "Year": "2024",
+    "Duration (official metadata)": "11:35",
+    "TED ID": "144591",
+    "Language": "English",
+    "Official URL": "https://www.ted.com/talks/aravind_srinivas_how_ai_will_answer_questions_we_haven_t_thought_to_ask",
+    "Caption source": "https://www.ted.com/talks/subtitles/id/144591/lang/en"
+  },
+  "paragraphs_read": 27,
+  "read_ranges": [
+    [
+      1,
+      27
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        27
+      ]
+    ],
+    "method": "回看未选句段并复核已有引文内的普通实词；补充比例、目的、状态与评注词块和assistant/full等语境词义",
+    "chunks_added": 8,
+    "vocabulary_added": 11
+  },
+  "chunks": [
+    {
+      "chunk": "drop out of college",
+      "meaning": "大学辍学；drop out of后接退出的机构或活动",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 1,
+      "quote": "I never dropped out of college."
+    },
+    {
+      "chunk": "keep going",
+      "meaning": "继续走下去／继续做某事",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 3,
+      "quote": "In fact, I kept going."
+    },
+    {
+      "chunk": "be proud that …",
+      "meaning": "为某个事实感到自豪",
+      "register": "中性",
+      "note": "原文语境候选，不因出现一次声称高频。",
+      "paragraph": 3,
+      "quote": "And it’s OK to be proud that I have a PhD in AI from Berkeley, right here in the Bay Area."
+    },
+    {
+      "chunk": "Only time will tell.",
+      "meaning": "只有时间能说明答案；对未来判断留余地",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 5,
+      "quote": "Only time will tell if this is a new trend of seeing academics in technology startups."
+    },
+    {
+      "chunk": "get curious",
+      "meaning": "产生好奇心；原句to find out if ...交代好奇后想弄清什么",
+      "register": "中性",
+      "note": "get + 形容词表示状态变化；此处保留表达动作，不把to find out if后面的内容当固定词块。",
+      "paragraph": 5,
+      "quote": "But I got pretty curious to find out if this is common or new."
+    },
+    {
+      "chunk": "It turns out (that) …",
+      "meaning": "后来发现／结果是……",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 5,
+      "quote": "And it turns out this is somewhat new."
+    },
+    {
+      "chunk": "correlate with sth.",
+      "meaning": "与某事相关联；相关不等于因果",
+      "register": "学术",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 5,
+      "quote": "Yet our attendance here today and the trend in AI technology broadly does not seem to correlate with this finding."
+    },
+    {
+      "chunk": "A out of B",
+      "meaning": "B个中有A个；比例或人数表达",
+      "register": "中性",
+      "note": "原文语境候选，不因出现一次声称高频。",
+      "paragraph": 5,
+      "quote": "I mean, quite a lot. 11 out of 24 speakers just at this conference have PhDs, and over a third are assistant, associate or full professors with major universities."
+    },
+    {
+      "chunk": "in the meantime",
+      "meaning": "与此同时／在等待期间",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 6,
+      "quote": "In the meantime, my curiosity led me to another question: What was the last major technology company founded by academics?"
+    },
+    {
+      "chunk": "get accused of doing sth.",
+      "meaning": "被指责做某事",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 7,
+      "quote": "At Perplexity, we get accused of trying to kill Google a lot."
+    },
+    {
+      "chunk": "Trust me, …",
+      "meaning": "相信我／听我的……；强调说话人确信",
+      "register": "口语",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 9,
+      "quote": "But trust me, we're not really trying to kill things."
+    },
+    {
+      "chunk": "hear from sb.",
+      "meaning": "听某人说／了解某人的观点；本句引入视频发言",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 9,
+      "quote": "Let's hear from Larry Page."
+    },
+    {
+      "chunk": "back then",
+      "meaning": "在那时／当年",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 11,
+      "quote": "I was only six back then."
+    },
+    {
+      "chunk": "have thoughts about sth.",
+      "meaning": "对某事有想法／看法",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 14,
+      "quote": "I'm sure a lot of you have lots of thoughts about these questions."
+    },
+    {
+      "chunk": "in some sense",
+      "meaning": "在某种意义上／从某个角度来说",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 14,
+      "quote": "In some sense, that is the purpose of technology: to keep us thinking and to keep us evolving."
+    },
+    {
+      "chunk": "in a vacuum",
+      "meaning": "脱离背景、孤立地；本句非真空实验环境",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 14,
+      "quote": "But people like Larry, or people like you or people like me, we are not building technology in a vacuum."
+    },
+    {
+      "chunk": "keep sb. doing sth.",
+      "meaning": "使某人持续做某事",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 14,
+      "quote": "In some sense, that is the purpose of technology: to keep us thinking and to keep us evolving."
+    },
+    {
+      "chunk": "how little we know",
+      "meaning": "我们知道的有多么少；强调知识有限",
+      "register": "论述",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 15,
+      "quote": "Socrates, the Greek philosopher, is famous for saying that wisdom comes from realizing how little we know, or that progress can only be made by asking better questions."
+    },
+    {
+      "chunk": "make progress by doing sth.",
+      "meaning": "通过做某事取得进步；原句被动",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 15,
+      "quote": "Socrates, the Greek philosopher, is famous for saying that wisdom comes from realizing how little we know, or that progress can only be made by asking better questions."
+    },
+    {
+      "chunk": "be core to sth.",
+      "meaning": "是某事的核心／对其至关重要",
+      "register": "正式",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 15,
+      "quote": "It has been core to the progress of human intellect over the past 1,000 years."
+    },
+    {
+      "chunk": "orders of magnitude better",
+      "meaning": "好出好几个数量级；在本演讲中是强调能力差距的说法",
+      "register": "技术／演讲",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 15,
+      "quote": "Relentless questioning is also a practice that can be done orders of magnitude better with the power of AI."
+    },
+    {
+      "chunk": "jokes aside",
+      "meaning": "玩笑归玩笑，认真地说……",
+      "register": "口语",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 17,
+      "quote": "So, jokes aside, relentless questioning is something fundamentally human."
+    },
+    {
+      "chunk": "lead to sth.",
+      "meaning": "引出、导致某结果；本句是引出新的一组问题",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 17,
+      "quote": "It seems like for humans, every answer leads to a new set of questions."
+    },
+    {
+      "chunk": "That is what … should be about.",
+      "meaning": "这才应当是……的核心／真正要做的事",
+      "register": "中性",
+      "note": "原文语境候选，不因出现一次声称高频。",
+      "paragraph": 17,
+      "quote": "That, to me, is what the future of technology should be about."
+    },
+    {
+      "chunk": "enter the real world",
+      "meaning": "走进真实社会／离开受保护的学习环境",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 18,
+      "quote": "So when I actually entered the real world and tried to do my own company, I had an endless set of questions."
+    },
+    {
+      "chunk": "figure sth. out",
+      "meaning": "弄清／搞明白某事",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 18,
+      "quote": "I needed to figure all these things out."
+    },
+    {
+      "chunk": "leave sb. lost",
+      "meaning": "让某人无所适从、不知怎么判断",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 18,
+      "quote": "And traditional search engines left me lost."
+    },
+    {
+      "chunk": "have access to sth.",
+      "meaning": "能够接触、获得或使用某种资源",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 18,
+      "quote": "And neither did I have access to all of the experts on all these topics."
+    },
+    {
+      "chunk": "a ton of sth.",
+      "meaning": "大量的某物；随意口语",
+      "register": "中性",
+      "note": "原文语境候选，不因出现一次声称高频。",
+      "paragraph": 18,
+      "quote": "There was a ton of information and very little time to evaluate any of it."
+    },
+    {
+      "chunk": "be in a state of sth.",
+      "meaning": "处于某种状态",
+      "register": "中性",
+      "note": "原文语境候选，不因出现一次声称高频。",
+      "paragraph": 18,
+      "quote": "So I was actually truly in a state of perplexity."
+    },
+    {
+      "chunk": "have sb./sth. do sth.",
+      "meaning": "让某人／某物做某事；本句安排AI代做研究",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 19,
+      "quote": "So that's when I thought, maybe I could have an AI do this for me."
+    },
+    {
+      "chunk": "pull information from sth.",
+      "meaning": "从某处获取信息",
+      "register": "技术／中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 19,
+      "quote": "Maybe I could go ask an AI all these questions, if it was able to pull information from the web and answer all my questions."
+    },
+    {
+      "chunk": "no matter one's level of expertise",
+      "meaning": "不论专业水平高低",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 19,
+      "quote": "For the first time, I had the ability to go ask whatever question I wanted about any topic, no matter my level of expertise in it, and get a well-researched answer from the web."
+    },
+    {
+      "chunk": "come with sources",
+      "meaning": "附有来源／出处",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 19,
+      "quote": "In this case, every answer in Perplexity comes with sources from the web in the form of citations, just like academics cite their sources."
+    },
+    {
+      "chunk": "in the form of sth.",
+      "meaning": "以某种形式呈现",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 19,
+      "quote": "In this case, every answer in Perplexity comes with sources from the web in the form of citations, just like academics cite their sources."
+    },
+    {
+      "chunk": "cite one's sources",
+      "meaning": "引用／注明自己的信息来源",
+      "register": "学术",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 19,
+      "quote": "In this case, every answer in Perplexity comes with sources from the web in the form of citations, just like academics cite their sources."
+    },
+    {
+      "chunk": "follow-up questions",
+      "meaning": "后续追问／跟进问题",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 20,
+      "quote": "In the case of humans, an answer you could trust allows you to ask better follow-up questions."
+    },
+    {
+      "chunk": "ever since the beginning",
+      "meaning": "从一开始就一直如此",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 20,
+      "quote": "And in Perplexity, ever since the beginning, every answer has always come with sources that allows you to ask more questions."
+    },
+    {
+      "chunk": "benefit from doing sth.",
+      "meaning": "从做某事中获益",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 20,
+      "quote": "What areas outside of insurance could I benefit from having access to better answers?"
+    },
+    {
+      "chunk": "be unique to sth.",
+      "meaning": "某特征只存在于某类事物／为其所独有；原句否定",
+      "register": "中性",
+      "note": "原文语境候选，不因出现一次声称高频。",
+      "paragraph": 20,
+      "quote": "Now this is pretty powerful because trust is not unique to animals or humans, but it empowers us pretty differently."
+    },
+    {
+      "chunk": "until recently",
+      "meaning": "直到不久前；用于旧情况最近才改变",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 21,
+      "quote": "Until recently, if you wanted the best answers, you had to be someone who could afford it."
+    },
+    {
+      "chunk": "the greatest minds",
+      "meaning": "最优秀的头脑／杰出的思想家、专家",
+      "register": "正式",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 21,
+      "quote": "You had to be someone who had access to the greatest minds in the world or the best materials, libraries, expertise."
+    },
+    {
+      "chunk": "It doesn't matter if …",
+      "meaning": "即使……也不影响这里的判断／不论是否……",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 23,
+      "quote": "It doesn't matter if you're a Harvard professor or an underserved student in a developing nation, we all get access to the same answers."
+    },
+    {
+      "chunk": "get better and better at doing sth.",
+      "meaning": "越来越擅长做某事",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 23,
+      "quote": "With AI that keeps getting better and better at answering all our questions, the marginal cost of research is rapidly approaching zero."
+    },
+    {
+      "chunk": "approach zero",
+      "meaning": "趋近于零；原句rapidly补充迅速这一速度信息",
+      "register": "技术",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 23,
+      "quote": "With AI that keeps getting better and better at answering all our questions, the marginal cost of research is rapidly approaching zero."
+    },
+    {
+      "chunk": "What matters is …",
+      "meaning": "重要的是……；突出判断重点",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 23,
+      "quote": "Rather, what matters is the next question you're going to ask."
+    },
+    {
+      "chunk": "one can only wonder …",
+      "meaning": "不禁要问／只能好奇……；引出开放问题",
+      "register": "论述",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 23,
+      "quote": "When all of the world's answers are available to all of the world's people, one can only wonder: What will the best questions be, and how many such questions will get asked?"
+    },
+    {
+      "chunk": "the sky is the limit",
+      "meaning": "潜力没有上限／大有可为；鼓励性比喻",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 23,
+      "quote": "As long as we keep engaging in relentless questioning and keep asking an interesting set of questions, the sky is the limit in terms of what we can actually learn."
+    },
+    {
+      "chunk": "in terms of sth.",
+      "meaning": "在某方面／就某标准而言",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 23,
+      "quote": "As long as we keep engaging in relentless questioning and keep asking an interesting set of questions, the sky is the limit in terms of what we can actually learn."
+    },
+    {
+      "chunk": "range from A to B",
+      "meaning": "从A到B，覆盖一段范围",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 24,
+      "quote": "Once I got answers to something like health insurance, I could ask an infinite set of new questions, ranging from very pointed ones, like, what are concrete ways to improve the health care insurance industry, to very broad ones, like, who else would benefit from having access to such a technology?"
+    },
+    {
+      "chunk": "keep track of sth.",
+      "meaning": "持续掌握／追踪某事的进展",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 24,
+      "quote": "It seems to a curious species every question and answer that you get is a lead to the next set of questions, and spawns several paths of curiosity, more than any one person can keep track of."
+    },
+    {
+      "chunk": "It is my strong belief that …",
+      "meaning": "我坚信……；明确陈述个人判断",
+      "register": "正式",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 25,
+      "quote": "It is my strong belief that in an age where AI gets better and better at answering all our questions, this human quality that makes us so human will become even more essential."
+    },
+    {
+      "chunk": "in an age where …",
+      "meaning": "在一个……的时代",
+      "register": "论述",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 25,
+      "quote": "It is my strong belief that in an age where AI gets better and better at answering all our questions, this human quality that makes us so human will become even more essential."
+    },
+    {
+      "chunk": "I, for one, …",
+      "meaning": "至少我个人……；强调自己明确的态度",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 25,
+      "quote": "And I, for one, can't wait to see what you will ask next."
+    },
+    {
+      "chunk": "can't wait to see …",
+      "meaning": "迫不及待想看到……",
+      "register": "中性",
+      "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+      "paragraph": 25,
+      "quote": "And I, for one, can't wait to see what you will ask next."
+    },
+    {
+      "chunk": "more importantly",
+      "meaning": "更重要的是；把话题重心进一步提高",
+      "register": "中性",
+      "note": "原文语境候选，不因出现一次声称高频。",
+      "paragraph": 25,
+      "quote": "And more importantly, that is the future of us, the future of humans."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "founder",
+      "pos": "n.",
+      "meaning": "创始人；tech founder科技企业创办者",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 1,
+      "quote": "There are a couple of ways I'm not a traditional tech founder."
+    },
+    {
+      "word": "academic",
+      "pos": "n.",
+      "meaning": "学者／大学研究人员；本句不是形容词学术的",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 3,
+      "quote": "I'm an academic, you could say."
+    },
+    {
+      "word": "stereotype",
+      "pos": "n.",
+      "meaning": "刻板印象／惯常标签",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "Other stereotypes, at least."
+    },
+    {
+      "word": "hold",
+      "pos": "v.",
+      "meaning": "拥有、持有学位或资格；hold a PhD",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "A lot of us hold PhDs."
+    },
+    {
+      "word": "associate",
+      "pos": "adj.",
+      "meaning": "副职等级的；associate professor副教授",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "I mean, quite a lot. 11 out of 24 speakers just at this conference have PhDs, and over a third are assistant, associate or full professors with major universities."
+    },
+    {
+      "word": "trend",
+      "pos": "n.",
+      "meaning": "趋势／新动向",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "Only time will tell if this is a new trend of seeing academics in technology startups."
+    },
+    {
+      "word": "formation",
+      "pos": "n.",
+      "meaning": "成立、形成；startup formation初创企业的建立",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "Only over a year ago, researchers at the University of Maryland found a 38 percent decline at the rate of startup formation or share of employment by US PhDs over the past 20 years."
+    },
+    {
+      "word": "employment",
+      "pos": "n.",
+      "meaning": "就业、工作人数或雇用情况",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "Only over a year ago, researchers at the University of Maryland found a 38 percent decline at the rate of startup formation or share of employment by US PhDs over the past 20 years."
+    },
+    {
+      "word": "attendance",
+      "pos": "n.",
+      "meaning": "到场、出席；本句指参会人群状况",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "Yet our attendance here today and the trend in AI technology broadly does not seem to correlate with this finding."
+    },
+    {
+      "word": "correlate",
+      "pos": "v.",
+      "meaning": "存在关联／相互相关；不代表有因果关系",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "Yet our attendance here today and the trend in AI technology broadly does not seem to correlate with this finding."
+    },
+    {
+      "word": "finding",
+      "pos": "n.",
+      "meaning": "研究发现／调查结果；不是寻找的动作",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 5,
+      "quote": "Yet our attendance here today and the trend in AI technology broadly does not seem to correlate with this finding."
+    },
+    {
+      "word": "assistant",
+      "pos": "adj.",
+      "meaning": "助理等级的；assistant professor助理教授，不是行政助手",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 5,
+      "quote": "I mean, quite a lot. 11 out of 24 speakers just at this conference have PhDs, and over a third are assistant, associate or full professors with major universities."
+    },
+    {
+      "word": "full",
+      "pos": "adj.",
+      "meaning": "正职的；full professor指正教授，相对于助理教授和副教授，不指吃饱或全职工时",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 5,
+      "quote": "I mean, quite a lot. 11 out of 24 speakers just at this conference have PhDs, and over a third are assistant, associate or full professors with major universities."
+    },
+    {
+      "word": "broadly",
+      "pos": "adv.",
+      "meaning": "广泛地／从整体看",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 5,
+      "quote": "Yet our attendance here today and the trend in AI technology broadly does not seem to correlate with this finding."
+    },
+    {
+      "word": "cofounder",
+      "pos": "n.",
+      "meaning": "联合创始人",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 9,
+      "quote": "The cofounders of Google would probably say the same."
+    },
+    {
+      "word": "ultimate",
+      "pos": "adj.",
+      "meaning": "最终的、理想极致的；ultimate search engine",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 10,
+      "quote": "So if we had the ultimate search engine, it would understand everything on the web."
+    },
+    {
+      "word": "predict",
+      "pos": "v.",
+      "meaning": "预测",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 13,
+      "quote": "One, Larry did accurately predict the future of search almost 25 years ago."
+    },
+    {
+      "word": "theme",
+      "pos": "n.",
+      "meaning": "贯穿多次讨论的共同主题",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 14,
+      "quote": "Second, it's very interesting how a common theme in interviews like those or events like these is us thinking about the future."
+    },
+    {
+      "word": "purpose",
+      "pos": "n.",
+      "meaning": "目的／作用",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 14,
+      "quote": "In some sense, that is the purpose of technology: to keep us thinking and to keep us evolving."
+    },
+    {
+      "word": "evolve",
+      "pos": "v.",
+      "meaning": "逐渐发展、演变；本句指人随技术继续变化",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 14,
+      "quote": "In some sense, that is the purpose of technology: to keep us thinking and to keep us evolving."
+    },
+    {
+      "word": "vacuum",
+      "pos": "n.",
+      "meaning": "真空；in a vacuum在本句比喻脱离实际背景",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 14,
+      "quote": "But people like Larry, or people like you or people like me, we are not building technology in a vacuum."
+    },
+    {
+      "word": "wisdom",
+      "pos": "n.",
+      "meaning": "智慧；不只是知道很多信息",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 15,
+      "quote": "Socrates, the Greek philosopher, is famous for saying that wisdom comes from realizing how little we know, or that progress can only be made by asking better questions."
+    },
+    {
+      "word": "relentless",
+      "pos": "adj.",
+      "meaning": "持续不断、不放松的；本句是不断追问",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 15,
+      "quote": "The Socratic method is essentially the practice of relentless questioning."
+    },
+    {
+      "word": "intellect",
+      "pos": "n.",
+      "meaning": "智力／理性思考能力",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 15,
+      "quote": "It has been core to the progress of human intellect over the past 1,000 years."
+    },
+    {
+      "word": "magnitude",
+      "pos": "n.",
+      "meaning": "量级、规模；order of magnitude数量级",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 15,
+      "quote": "Relentless questioning is also a practice that can be done orders of magnitude better with the power of AI."
+    },
+    {
+      "word": "stable",
+      "pos": "adj.",
+      "meaning": "稳定的；stable job稳定工作",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 15,
+      "quote": "And by the way, relentless questioning is something south Indian parents do when you tell them you're leaving a good university or a stable job to go join a startup."
+    },
+    {
+      "word": "physicist",
+      "pos": "n.",
+      "meaning": "物理学家",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 17,
+      "quote": "The physicist David Deutsch has proposed that we humans are the only species who have curiosity for what is already familiar."
+    },
+    {
+      "word": "species",
+      "pos": "n.",
+      "meaning": "物种；单复数同形",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 17,
+      "quote": "The physicist David Deutsch has proposed that we humans are the only species who have curiosity for what is already familiar."
+    },
+    {
+      "word": "familiar",
+      "pos": "adj.",
+      "meaning": "熟悉的",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 17,
+      "quote": "The physicist David Deutsch has proposed that we humans are the only species who have curiosity for what is already familiar."
+    },
+    {
+      "word": "comforting",
+      "pos": "adj.",
+      "meaning": "给人安慰、让人感到安全的",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 18,
+      "quote": "I was raised as an academic in the comforting arms of universities."
+    },
+    {
+      "word": "insurance",
+      "pos": "n.",
+      "meaning": "保险；health insurance医疗保险",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 18,
+      "quote": "SPVs, SAFE notes, health insurance."
+    },
+    {
+      "word": "evaluate",
+      "pos": "v.",
+      "meaning": "评估、判断价值或可靠性",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 18,
+      "quote": "There was a ton of information and very little time to evaluate any of it."
+    },
+    {
+      "word": "expert",
+      "pos": "n.",
+      "meaning": "专家",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 18,
+      "quote": "And neither did I have access to all of the experts on all these topics."
+    },
+    {
+      "word": "perplexity",
+      "pos": "n.",
+      "meaning": "困惑、迷茫；本句同时呼应产品名",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 18,
+      "quote": "So I was actually truly in a state of perplexity."
+    },
+    {
+      "word": "endless",
+      "pos": "adj.",
+      "meaning": "无穷无尽的；本句形容接连不断的问题",
+      "note": "从普通名词短语转到词汇轨道；不声称用户不认识。",
+      "paragraph": 18,
+      "quote": "So when I actually entered the real world and tried to do my own company, I had an endless set of questions."
+    },
+    {
+      "word": "expertise",
+      "pos": "n.",
+      "meaning": "专业知识／熟练技能",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 19,
+      "quote": "For the first time, I had the ability to go ask whatever question I wanted about any topic, no matter my level of expertise in it, and get a well-researched answer from the web."
+    },
+    {
+      "word": "well-researched",
+      "pos": "adj.",
+      "meaning": "经过充分研究／资料核查的",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 19,
+      "quote": "For the first time, I had the ability to go ask whatever question I wanted about any topic, no matter my level of expertise in it, and get a well-researched answer from the web."
+    },
+    {
+      "word": "citation",
+      "pos": "n.",
+      "meaning": "引文、出处标注",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 19,
+      "quote": "In this case, every answer in Perplexity comes with sources from the web in the form of citations, just like academics cite their sources."
+    },
+    {
+      "word": "ability",
+      "pos": "n.",
+      "meaning": "能力、本领",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 19,
+      "quote": "For the first time, I had the ability to go ask whatever question I wanted about any topic, no matter my level of expertise in it, and get a well-researched answer from the web."
+    },
+    {
+      "word": "empower",
+      "pos": "v.",
+      "meaning": "赋予能力、使人能够做更多事情",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 20,
+      "quote": "Now this is pretty powerful because trust is not unique to animals or humans, but it empowers us pretty differently."
+    },
+    {
+      "word": "ensure",
+      "pos": "v.",
+      "meaning": "确保",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 20,
+      "quote": "That's the point of ensuring that you could always get an answer with well-cited sources."
+    },
+    {
+      "word": "profound",
+      "pos": "adj.",
+      "meaning": "深刻、影响深远的",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 21,
+      "quote": "This is such a profound shift in human history."
+    },
+    {
+      "word": "shift",
+      "pos": "n.",
+      "meaning": "转变／变化；这里不是轮班",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 21,
+      "quote": "This is such a profound shift in human history."
+    },
+    {
+      "word": "material",
+      "pos": "n.",
+      "meaning": "资料／可供学习研究的材料",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 21,
+      "quote": "You had to be someone who had access to the greatest minds in the world or the best materials, libraries, expertise."
+    },
+    {
+      "word": "underserved",
+      "pos": "adj.",
+      "meaning": "未获得足够资源或服务的",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 23,
+      "quote": "It doesn't matter if you're a Harvard professor or an underserved student in a developing nation, we all get access to the same answers."
+    },
+    {
+      "word": "marginal",
+      "pos": "adj.",
+      "meaning": "边际的；marginal cost额外一次研究所增加的成本",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 23,
+      "quote": "With AI that keeps getting better and better at answering all our questions, the marginal cost of research is rapidly approaching zero."
+    },
+    {
+      "word": "humanity",
+      "pos": "n.",
+      "meaning": "人类整体；本句不是仁慈义",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 23,
+      "quote": "In that new era of humanity that AI is powering, knowledge does not really care about who you are, where you’re from or who you have access to."
+    },
+    {
+      "word": "potential",
+      "pos": "n.",
+      "meaning": "潜力",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 23,
+      "quote": "This is again where David Deutsch argues that human potential is infinite."
+    },
+    {
+      "word": "infinite",
+      "pos": "adj.",
+      "meaning": "无限的；这里是讲者对潜能的判断",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 23,
+      "quote": "This is again where David Deutsch argues that human potential is infinite."
+    },
+    {
+      "word": "engage",
+      "pos": "v.",
+      "meaning": "参与、投入某活动；engage in questioning",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 23,
+      "quote": "As long as we keep engaging in relentless questioning and keep asking an interesting set of questions, the sky is the limit in terms of what we can actually learn."
+    },
+    {
+      "word": "era",
+      "pos": "n.",
+      "meaning": "时代／阶段",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 23,
+      "quote": "In that new era of humanity that AI is powering, knowledge does not really care about who you are, where you’re from or who you have access to."
+    },
+    {
+      "word": "crawl",
+      "pos": "v.",
+      "meaning": "爬行；婴儿移动方式",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 24,
+      "quote": "Even before they learn to crawl, they're pretty curious about what's around them."
+    },
+    {
+      "word": "trait",
+      "pos": "n.",
+      "meaning": "特征、特质",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 24,
+      "quote": "That's a natural trait for all of us."
+    },
+    {
+      "word": "pointed",
+      "pos": "adj.",
+      "meaning": "有针对性、直奔具体要点的；本句不指物体尖尖的",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 24,
+      "quote": "Once I got answers to something like health insurance, I could ask an infinite set of new questions, ranging from very pointed ones, like, what are concrete ways to improve the health care insurance industry, to very broad ones, like, who else would benefit from having access to such a technology?"
+    },
+    {
+      "word": "concrete",
+      "pos": "adj.",
+      "meaning": "具体可操作的；本句不是混凝土名词",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 24,
+      "quote": "Once I got answers to something like health insurance, I could ask an infinite set of new questions, ranging from very pointed ones, like, what are concrete ways to improve the health care insurance industry, to very broad ones, like, who else would benefit from having access to such a technology?"
+    },
+    {
+      "word": "lead",
+      "pos": "n.",
+      "meaning": "线索、下一步可探索的方向；本句不是动词引领",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 24,
+      "quote": "It seems to a curious species every question and answer that you get is a lead to the next set of questions, and spawns several paths of curiosity, more than any one person can keep track of."
+    },
+    {
+      "word": "spawn",
+      "pos": "v.",
+      "meaning": "引发／衍生出新的事物；此处不是鱼产卵的字面义",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 24,
+      "quote": "It seems to a curious species every question and answer that you get is a lead to the next set of questions, and spawns several paths of curiosity, more than any one person can keep track of."
+    },
+    {
+      "word": "broad",
+      "pos": "adj.",
+      "meaning": "宽泛的、涉及面广的；问题角度",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 24,
+      "quote": "Once I got answers to something like health insurance, I could ask an infinite set of new questions, ranging from very pointed ones, like, what are concrete ways to improve the health care insurance industry, to very broad ones, like, who else would benefit from having access to such a technology?"
+    },
+    {
+      "word": "merely",
+      "pos": "adv.",
+      "meaning": "仅仅／只不过",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 25,
+      "quote": "So when we are here to wonder about what is the future of technology, or what is the future of AI, we are merely talking about the outputs, the outputs of a much bigger question: What is the future of human curiosity?"
+    },
+    {
+      "word": "output",
+      "pos": "n.",
+      "meaning": "产出、结果；这里指技术呈现出来的成果",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 25,
+      "quote": "So when we are here to wonder about what is the future of technology, or what is the future of AI, we are merely talking about the outputs, the outputs of a much bigger question: What is the future of human curiosity?"
+    },
+    {
+      "word": "essential",
+      "pos": "adj.",
+      "meaning": "不可或缺／非常重要的",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 25,
+      "quote": "It is my strong belief that in an age where AI gets better and better at answering all our questions, this human quality that makes us so human will become even more essential."
+    },
+    {
+      "word": "innate",
+      "pos": "adj.",
+      "meaning": "与生俱来的／天生的",
+      "note": "本句义项候选，熟悉度由学习者实际反馈确认。",
+      "paragraph": 25,
+      "quote": "Our innate curiosity and our relentless questioning."
+    },
+    {
+      "word": "quality",
+      "pos": "n.",
+      "meaning": "特质、特性；本句不是品质优劣",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 25,
+      "quote": "It is my strong belief that in an age where AI gets better and better at answering all our questions, this human quality that makes us so human will become even more essential."
+    },
+    {
+      "word": "curiosity",
+      "pos": "n.",
+      "meaning": "好奇心／探索欲",
+      "note": "本句义项候选，是否熟悉待学习者反馈。",
+      "paragraph": 25,
+      "quote": "Our innate curiosity and our relentless questioning."
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [
+    {
+      "paragraph": 9,
+      "text": "motivated about building things",
+      "reason": "介词接法不作为默认模板，原文保留"
+    },
+    {
+      "paragraph": 18,
+      "text": "all these required to do",
+      "reason": "疑似现场语法／转写问题，不抽规范句型"
+    },
+    {
+      "paragraph": 19,
+      "text": "Sackbot / Once we began using it is when",
+      "reason": "疑似转写及混合句式，不作为标准框架"
+    },
+    {
+      "paragraph": 20,
+      "text": "sources that allows",
+      "reason": "主谓一致不作为模板"
+    }
+  ],
+  "review_notes": [
+    {
+      "action": "clarify_boundary",
+      "reason": "不是整个长串都固定；区分状态变化get curious与目的不定式。",
+      "original": {
+        "chunk": "get curious to find out …",
+        "meaning": "产生好奇，想弄清……",
+        "register": "中性",
+        "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+        "paragraph": 5,
+        "quote": "But I got pretty curious to find out if this is common or new."
+      }
+    },
+    {
+      "action": "refine_chunk",
+      "reason": "将具体宾语标成开放槽位；a new set of questions为本句填入的内容。",
+      "original": {
+        "chunk": "lead to a new set of questions",
+        "meaning": "引出新的一组问题",
+        "register": "中性",
+        "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+        "paragraph": 17,
+        "quote": "It seems like for humans, every answer leads to a new set of questions."
+      }
+    },
+    {
+      "action": "remove_chunk",
+      "reason": "普通名词短语，主要学习点是endless的词义；转到词汇轨道，不当作固定chunk。",
+      "original": {
+        "chunk": "an endless set of questions",
+        "meaning": "一连串似乎问不完的问题",
+        "register": "中性",
+        "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+        "paragraph": 18,
+        "quote": "So when I actually entered the real world and tried to do my own company, I had an endless set of questions."
+      }
+    },
+    {
+      "action": "refine_chunk",
+      "reason": "rapidly为本句速度修饰语，保留可复用搭配approach zero。",
+      "original": {
+        "chunk": "rapidly approach zero",
+        "meaning": "迅速趋近于零",
+        "register": "技术",
+        "note": "按本句语境理解；原文观点不作为频率或效果证明。",
+        "paragraph": 23,
+        "quote": "With AI that keeps getting better and better at answering all our questions, the marginal cost of research is rapidly approaching zero."
+      }
+    },
+    {
+      "action": "remove_chunk",
+      "reason": "普通临时名词组合，且与17段new set of questions内容近重复，没有独立表达结构。",
+      "original": {
+        "chunk": "the next set of questions",
+        "meaning": "下一组、进一步延伸的问题",
+        "register": "中性",
+        "note": "原文语境候选，不因出现一次声称高频。",
+        "paragraph": 25,
+        "quote": "But what we really want are those answers that lead us to the next set of questions."
+      }
+    },
+    {
+      "action": "refine_meaning",
+      "reason": "去掉“正式最高等级”容易引出的泛化，按full professor专业搭配释义。",
+      "original": {
+        "word": "full",
+        "pos": "adj.",
+        "meaning": "正式最高等级的；full professor正教授，不是吃饱",
+        "note": "本句义项候选，是否熟悉待学习者反馈。",
+        "paragraph": 5,
+        "quote": "I mean, quite a lot. 11 out of 24 speakers just at this conference have PhDs, and over a third are assistant, associate or full professors with major universities."
+      }
+    }
+  ]
+}

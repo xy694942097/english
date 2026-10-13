@@ -1,0 +1,1438 @@
+{
+  "source": "materials/corpus/ted/english/002-julian_treasure_how_to_speak_so_that_people_want_to_listen.txt",
+  "sha256": "335e9d2af301babfa3319686a6f90d17b07409d4aa148be5c277b16ffa9ebe71",
+  "metadata": {
+    "Title": "How to speak so that people want to listen",
+    "中文标题": "怎样说话，别人才愿意听",
+    "Speaker": "Julian Treasure",
+    "Year": "2013",
+    "Duration (official metadata)": "9:44",
+    "TED ID": "2034",
+    "Language": "English",
+    "Official URL": "https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen",
+    "Caption source": "https://www.ted.com/talks/subtitles/id/2034/lang/en",
+    "title": "How to speak so that people want to listen",
+    "zh_title": "怎样说话，别人才愿意听",
+    "speaker": "Julian Treasure",
+    "official_url": "https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen"
+  },
+  "paragraphs_read": 37,
+  "read_ranges": [
+    [
+      1,
+      37
+    ]
+  ],
+  "second_pass": {
+    "read_ranges": [
+      [
+        1,
+        37
+      ]
+    ],
+    "focus": "逐段回看未选段、普通实词、外层框架及句内词块；笑声掌声段计号，不收作学习条目",
+    "additions": [
+      "2 fall into / exhaustive",
+      "17 外层澄清与temper",
+      "19 weight / depth",
+      "25 silence框架",
+      "30 owe it to oneself",
+      "35 虚拟设问及norm"
+    ],
+    "added_chunks": [
+      "It's hard to do sth. when ...",
+      "another form of",
+      "We've all ...; maybe we've all been ..."
+    ],
+    "added_vocabulary": [
+      "coach",
+      "breathing",
+      "communicate",
+      "silence",
+      "carelessly",
+      "marriage",
+      "phase"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk": "And yet ...",
+      "meaning": "然而却……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 1,
+      "quote": "It's the only one that can start a war or say \"I love you.\" And yet many people have the experience that when they speak, people don't listen to them."
+    },
+    {
+      "chunk": "have the experience that ...",
+      "meaning": "有过这样的经历：……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 1,
+      "quote": "It's the only one that can start a war or say \"I love you.\" And yet many people have the experience that when they speak, people don't listen to them."
+    },
+    {
+      "chunk": "How can we ...?",
+      "meaning": "我们怎样才能……？（引出方法问题）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 1,
+      "quote": "How can we speak powerfully to make change in the world?"
+    },
+    {
+      "chunk": "What I'd like to suggest ...",
+      "meaning": "我想建议的是……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 2,
+      "quote": "What I'd like to suggest, there are a number of habits that we need to move away from."
+    },
+    {
+      "chunk": "a number of",
+      "meaning": "若干；一些",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 2,
+      "quote": "What I'd like to suggest, there are a number of habits that we need to move away from."
+    },
+    {
+      "chunk": "move away from",
+      "meaning": "摆脱某种习惯",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 2,
+      "quote": "What I'd like to suggest, there are a number of habits that we need to move away from."
+    },
+    {
+      "chunk": "I'm not pretending ...",
+      "meaning": "我并不是声称……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 2,
+      "quote": "I'm not pretending this is an exhaustive list, but these seven, I think, are pretty large habits that we can all fall into."
+    },
+    {
+      "chunk": "an exhaustive list",
+      "meaning": "穷尽所有可能性的清单",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 2,
+      "quote": "I'm not pretending this is an exhaustive list, but these seven, I think, are pretty large habits that we can all fall into."
+    },
+    {
+      "chunk": "fall into a habit",
+      "meaning": "陷入某种习惯",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 2,
+      "quote": "I'm not pretending this is an exhaustive list, but these seven, I think, are pretty large habits that we can all fall into."
+    },
+    {
+      "chunk": "speak ill of sb.",
+      "meaning": "说某人的坏话",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 3,
+      "quote": "Speaking ill of somebody who's not present."
+    },
+    {
+      "chunk": "know perfectly well",
+      "meaning": "心里很清楚",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 3,
+      "quote": "Not a nice habit, and we know perfectly well the person gossiping, five minutes later, will be gossiping about us."
+    },
+    {
+      "chunk": "find sb. wanting",
+      "meaning": "认为某人不够好",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 4,
+      "quote": "We know people who are like this in conversation, and it's very hard to listen to somebody if you know that you're being judged and found wanting at the same time."
+    },
+    {
+      "chunk": "at the same time",
+      "meaning": "与此同时",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 4,
+      "quote": "We know people who are like this in conversation, and it's very hard to listen to somebody if you know that you're being judged and found wanting at the same time."
+    },
+    {
+      "chunk": "It's hard to do sth. when ...",
+      "meaning": "当……时，很难做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 7,
+      "quote": "It's hard to listen when somebody's that negative."
+    },
+    {
+      "chunk": "another form of",
+      "meaning": "……的另一种形式",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 9,
+      "quote": "And another form of negativity, complaining."
+    },
+    {
+      "chunk": "complain about",
+      "meaning": "抱怨……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 9,
+      "quote": "We complain about the weather, sport, about politics, about everything, but actually, complaining is viral misery."
+    },
+    {
+      "chunk": "We've all ...; maybe we've all been ...",
+      "meaning": "我们都遇过这种人，也许我们自己也这样过",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 11,
+      "quote": "We've all met this guy. Maybe we've all been this guy."
+    },
+    {
+      "chunk": "pass sth. on to sb.",
+      "meaning": "把某事传给他人；此处转嫁责任",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 11,
+      "quote": "They just pass it on to everybody else and don't take responsibility for their actions, and again, hard to listen to somebody who is being like that."
+    },
+    {
+      "chunk": "take responsibility for",
+      "meaning": "对……承担责任",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 11,
+      "quote": "They just pass it on to everybody else and don't take responsibility for their actions, and again, hard to listen to somebody who is being like that."
+    },
+    {
+      "chunk": "confuse facts with opinions",
+      "meaning": "把事实与观点混淆",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 15,
+      "quote": "The confusion of facts with opinions."
+    },
+    {
+      "chunk": "bombard sb. with sth.",
+      "meaning": "用大量信息轰炸某人",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 15,
+      "quote": "You know, somebody is bombarding you with their opinions as if they were true."
+    },
+    {
+      "chunk": "as if ...",
+      "meaning": "仿佛……（此处暗示并非事实）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 15,
+      "quote": "You know, somebody is bombarding you with their opinions as if they were true."
+    },
+    {
+      "chunk": "I'd like to suggest that ...",
+      "meaning": "我想提出……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'd like to suggest that there are four really powerful cornerstones, foundations, that we can stand on if we want our speech to be powerful and to make change in the world."
+    },
+    {
+      "chunk": "I'm not talking about ...; I'm talking about ...",
+      "meaning": "我说的不是……，我说的是……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'm not talking about the stuff that falls from the sky and hits you on the head."
+    },
+    {
+      "chunk": "stand for",
+      "meaning": "代表某种含义",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "So what do they stand for?"
+    },
+    {
+      "chunk": "be yourself",
+      "meaning": "保持真实的自己",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "The A is authenticity, just being yourself."
+    },
+    {
+      "chunk": "a lovely way to put it",
+      "meaning": "很好的说法",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "A friend of mine described it as standing in your own truth, which I think is a lovely way to put it."
+    },
+    {
+      "chunk": "do what you say",
+      "meaning": "说到做到",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "The I is integrity, being your word, actually doing what you say, and being somebody people can trust."
+    },
+    {
+      "chunk": "wish sb. well",
+      "meaning": "祝愿某人好",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "I don't mean romantic love, but I do mean wishing people well, for two reasons."
+    },
+    {
+      "chunk": "I don't mean ...; I do mean ...",
+      "meaning": "我不是指……；我确实是指……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "I don't mean romantic love, but I do mean wishing people well, for two reasons."
+    },
+    {
+      "chunk": "First of all",
+      "meaning": "首先",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "First of all, I think absolute honesty may not be what we want."
+    },
+    {
+      "chunk": "temper sth. with sth.",
+      "meaning": "用某种因素缓和另一种因素",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "Tempered with love, of course, honesty is a great thing."
+    },
+    {
+      "chunk": "I'm not even sure ...",
+      "meaning": "我甚至不确定……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 17,
+      "quote": "I'm not even sure you can do those two things simultaneously."
+    },
+    {
+      "chunk": "take sth. away",
+      "meaning": "带走；此处带走学到的工具",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 18,
+      "quote": "I'd like to have a little rummage in there with you now and just pull a few tools out that you might like to take away and play with, which will increase the power of your speaking."
+    },
+    {
+      "chunk": "play with sth.",
+      "meaning": "尝试、摆弄某事物",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 18,
+      "quote": "I'd like to have a little rummage in there with you now and just pull a few tools out that you might like to take away and play with, which will increase the power of your speaking."
+    },
+    {
+      "chunk": "get technical",
+      "meaning": "深入技术细节",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 19,
+      "quote": "I'm not going to get very technical about this for any of you who are voice coaches."
+    },
+    {
+      "chunk": "vote for",
+      "meaning": "投票支持",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 19,
+      "quote": "We vote for politicians with lower voices, it's true, because we associate depth with power and with authority."
+    },
+    {
+      "chunk": "associate A with B",
+      "meaning": "把A与B联系起来",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 19,
+      "quote": "We vote for politicians with lower voices, it's true, because we associate depth with power and with authority."
+    },
+    {
+      "chunk": "not the end of the world",
+      "meaning": "不至于天塌下来；并非无法挽回",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 20,
+      "quote": "Well if that's not you, that's not the end of the world, because you can train."
+    },
+    {
+      "chunk": "impart meaning",
+      "meaning": "传达意义",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 21,
+      "quote": "This is the sing-song, the meta-language that we use in order to impart meaning."
+    },
+    {
+      "chunk": "restrict one's ability to do sth.",
+      "meaning": "限制做某事的能力",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And if you repeat that one, it's actually restricting your ability to communicate through prosody, which I think is a shame, so let's try and break that habit."
+    },
+    {
+      "chunk": "a shame",
+      "meaning": "遗憾；可惜",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And if you repeat that one, it's actually restricting your ability to communicate through prosody, which I think is a shame, so let's try and break that habit."
+    },
+    {
+      "chunk": "break a habit",
+      "meaning": "改掉习惯",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And if you repeat that one, it's actually restricting your ability to communicate through prosody, which I think is a shame, so let's try and break that habit."
+    },
+    {
+      "chunk": "slow down",
+      "meaning": "放慢速度",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 25,
+      "quote": "I can get very excited by saying something really quickly, or I can slow right down to emphasize, and at the end of that, of course, is our old friend silence."
+    },
+    {
+      "chunk": "There's nothing wrong with ...",
+      "meaning": "……并没有什么不好",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 25,
+      "quote": "There's nothing wrong with a bit of silence in a talk, is there?"
+    },
+    {
+      "chunk": "go along with",
+      "meaning": "与……相伴出现",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 26,
+      "quote": "Of course, pitch often goes along with pace to indicate arousal, but you can do it just with pitch."
+    },
+    {
+      "chunk": "Sorry about that",
+      "meaning": "对此抱歉",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Sorry about that, if I startled anybody."
+    },
+    {
+      "chunk": "Try not to do sth.",
+      "meaning": "尽量别做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Try not to do that."
+    },
+    {
+      "chunk": "impose sth. on sb.",
+      "meaning": "把某事强加给某人",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 29,
+      "quote": "Imposing your sound on people around you carelessly and inconsiderately."
+    },
+    {
+      "chunk": "come into play",
+      "meaning": "开始发挥作用",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 30,
+      "quote": "Of course, where this all comes into play most of all is when you've got something really important to do."
+    },
+    {
+      "chunk": "give a talk",
+      "meaning": "做演讲",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 30,
+      "quote": "It might be standing on a stage like this and giving a talk to people."
+    },
+    {
+      "chunk": "propose marriage",
+      "meaning": "求婚",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 30,
+      "quote": "It might be proposing marriage, asking for a raise, a wedding speech."
+    },
+    {
+      "chunk": "ask for a raise",
+      "meaning": "要求加薪",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 30,
+      "quote": "It might be proposing marriage, asking for a raise, a wedding speech."
+    },
+    {
+      "chunk": "owe it to oneself to do sth.",
+      "meaning": "应该为自己做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 30,
+      "quote": "Whatever it is, if it's really important, you owe it to yourself to look at this toolbox and the engine that it's going to work on, and no engine works well without being warmed up."
+    },
+    {
+      "chunk": "warm up",
+      "meaning": "热身；准备声音",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 30,
+      "quote": "Warm up your voice."
+    },
+    {
+      "chunk": "let me show you how to ...",
+      "meaning": "让我示范如何……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 31,
+      "quote": "Actually, let me show you how to do that."
+    },
+    {
+      "chunk": "Would you ... like to ...?",
+      "meaning": "你们愿意……吗？礼貌邀请",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 31,
+      "quote": "Would you all like to stand up for a moment?"
+    },
+    {
+      "chunk": "deep breath in",
+      "meaning": "深吸一口气",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 31,
+      "quote": "First, arms up, deep breath in, and sigh out, ahhhhh, like that."
+    },
+    {
+      "chunk": "come alive",
+      "meaning": "活跃起来；此处嘴唇充分活动",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 31,
+      "quote": "Now your lips should be coming alive."
+    },
+    {
+      "chunk": "get good at sth.",
+      "meaning": "变得擅长某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 31,
+      "quote": "You're getting really good at this."
+    },
+    {
+      "chunk": "a round of applause",
+      "meaning": "一阵掌声",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 32,
+      "quote": "Give yourselves a round of applause."
+    },
+    {
+      "chunk": "take a seat",
+      "meaning": "坐下",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 32,
+      "quote": "Take a seat, thank you."
+    },
+    {
+      "chunk": "in advance",
+      "meaning": "事先",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 34,
+      "quote": "Next time you speak, do those in advance."
+    },
+    {
+      "chunk": "put sth. in context",
+      "meaning": "将某事放入更大背景理解",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 35,
+      "quote": "Now let me just put this in context to close."
+    },
+    {
+      "chunk": "What would ... be like if ...?",
+      "meaning": "如果……，会是什么样？",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 35,
+      "quote": "What would the world be like if we were speaking powerfully to people who were listening consciously in environments which were actually fit for purpose?"
+    },
+    {
+      "chunk": "fit for purpose",
+      "meaning": "符合用途；适合所需功能",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 35,
+      "quote": "What would the world be like if we were speaking powerfully to people who were listening consciously in environments which were actually fit for purpose?"
+    },
+    {
+      "chunk": "be the norm",
+      "meaning": "成为常态",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 35,
+      "quote": "That would be a world that does sound beautiful, and one where understanding would be the norm, and that is an idea worth spreading."
+    },
+    {
+      "chunk": "an idea worth spreading",
+      "meaning": "值得传播的想法",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 35,
+      "quote": "That would be a world that does sound beautiful, and one where understanding would be the norm, and that is an idea worth spreading."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "instrument",
+      "pos": "n.",
+      "meaning": "乐器；此处比喻人声",
+      "note": "",
+      "paragraph": 1,
+      "quote": "The human voice: It's the instrument we all play."
+    },
+    {
+      "word": "powerfully",
+      "pos": "adv.",
+      "meaning": "有力量地；有影响力地",
+      "note": "",
+      "paragraph": 1,
+      "quote": "How can we speak powerfully to make change in the world?"
+    },
+    {
+      "word": "habit",
+      "pos": "n.",
+      "meaning": "习惯",
+      "note": "",
+      "paragraph": 2,
+      "quote": "What I'd like to suggest, there are a number of habits that we need to move away from."
+    },
+    {
+      "word": "assemble",
+      "pos": "v.",
+      "meaning": "集合；列出",
+      "note": "",
+      "paragraph": 2,
+      "quote": "I've assembled for your pleasure here seven deadly sins of speaking."
+    },
+    {
+      "word": "deadly",
+      "pos": "adj.",
+      "meaning": "致命的；此处严重的",
+      "note": "",
+      "paragraph": 2,
+      "quote": "I've assembled for your pleasure here seven deadly sins of speaking."
+    },
+    {
+      "word": "sin",
+      "pos": "n.",
+      "meaning": "罪；此处恶习",
+      "note": "",
+      "paragraph": 2,
+      "quote": "I've assembled for your pleasure here seven deadly sins of speaking."
+    },
+    {
+      "word": "exhaustive",
+      "pos": "adj.",
+      "meaning": "全面详尽的",
+      "note": "",
+      "paragraph": 2,
+      "quote": "I'm not pretending this is an exhaustive list, but these seven, I think, are pretty large habits that we can all fall into."
+    },
+    {
+      "word": "gossip",
+      "pos": "n./v.",
+      "meaning": "背后议论他人；说闲话",
+      "note": "",
+      "paragraph": 3,
+      "quote": "First, gossip."
+    },
+    {
+      "word": "ill",
+      "pos": "adv.",
+      "meaning": "恶意地（speak ill of）",
+      "note": "",
+      "paragraph": 3,
+      "quote": "Speaking ill of somebody who's not present."
+    },
+    {
+      "word": "present",
+      "pos": "adj.",
+      "meaning": "在场的",
+      "note": "",
+      "paragraph": 3,
+      "quote": "Speaking ill of somebody who's not present."
+    },
+    {
+      "word": "judge",
+      "pos": "v.",
+      "meaning": "评判人",
+      "note": "",
+      "paragraph": 4,
+      "quote": "Second, judging."
+    },
+    {
+      "word": "wanting",
+      "pos": "adj.",
+      "meaning": "不够格的；有所欠缺的",
+      "note": "",
+      "paragraph": 4,
+      "quote": "We know people who are like this in conversation, and it's very hard to listen to somebody if you know that you're being judged and found wanting at the same time."
+    },
+    {
+      "word": "negativity",
+      "pos": "n.",
+      "meaning": "消极态度",
+      "note": "",
+      "paragraph": 5,
+      "quote": "Third, negativity."
+    },
+    {
+      "word": "dreadful",
+      "pos": "adj.",
+      "meaning": "糟糕的；令人不快的",
+      "note": "",
+      "paragraph": 5,
+      "quote": "I remember one day, I said to her, \"It's October 1 today,\" and she said, \"I know, isn't it dreadful?\""
+    },
+    {
+      "word": "complain",
+      "pos": "v.",
+      "meaning": "抱怨",
+      "note": "",
+      "paragraph": 9,
+      "quote": "And another form of negativity, complaining."
+    },
+    {
+      "word": "viral",
+      "pos": "adj.",
+      "meaning": "像病毒一样传播的",
+      "note": "",
+      "paragraph": 9,
+      "quote": "We complain about the weather, sport, about politics, about everything, but actually, complaining is viral misery."
+    },
+    {
+      "word": "misery",
+      "pos": "n.",
+      "meaning": "痛苦；悲惨情绪",
+      "note": "",
+      "paragraph": 9,
+      "quote": "We complain about the weather, sport, about politics, about everything, but actually, complaining is viral misery."
+    },
+    {
+      "word": "lightness",
+      "pos": "n.",
+      "meaning": "轻松愉快",
+      "note": "",
+      "paragraph": 9,
+      "quote": "It's not spreading sunshine and lightness in the world."
+    },
+    {
+      "word": "excuse",
+      "pos": "n.",
+      "meaning": "借口",
+      "note": "",
+      "paragraph": 10,
+      "quote": "Excuses."
+    },
+    {
+      "word": "blamethrower",
+      "pos": "n.",
+      "meaning": "把责任抛给别人的人（临时造词）",
+      "note": "讲者以flamethrower为底造词，仅按本篇解释",
+      "paragraph": 11,
+      "quote": "Some people have a blamethrower."
+    },
+    {
+      "word": "responsibility",
+      "pos": "n.",
+      "meaning": "责任",
+      "note": "",
+      "paragraph": 11,
+      "quote": "They just pass it on to everybody else and don't take responsibility for their actions, and again, hard to listen to somebody who is being like that."
+    },
+    {
+      "word": "penultimate",
+      "pos": "adj.",
+      "meaning": "倒数第二的",
+      "note": "",
+      "paragraph": 12,
+      "quote": "Penultimate, the sixth of the seven, embroidery, exaggeration."
+    },
+    {
+      "word": "embroidery",
+      "pos": "n.",
+      "meaning": "夸饰、添油加醋；非字面刺绣",
+      "note": "",
+      "paragraph": 12,
+      "quote": "Penultimate, the sixth of the seven, embroidery, exaggeration."
+    },
+    {
+      "word": "exaggeration",
+      "pos": "n.",
+      "meaning": "夸张",
+      "note": "",
+      "paragraph": 12,
+      "quote": "Penultimate, the sixth of the seven, embroidery, exaggeration."
+    },
+    {
+      "word": "demean",
+      "pos": "v.",
+      "meaning": "贬低；降低尊严",
+      "note": "",
+      "paragraph": 12,
+      "quote": "It demeans our language, actually, sometimes."
+    },
+    {
+      "word": "awesome",
+      "pos": "adj.",
+      "meaning": "令人惊叹的",
+      "note": "",
+      "paragraph": 12,
+      "quote": "For example, if I see something that really is awesome, what do I call it?"
+    },
+    {
+      "word": "lie",
+      "pos": "v.",
+      "meaning": "说谎",
+      "note": "",
+      "paragraph": 14,
+      "quote": "And then, of course, this exaggeration becomes lying, and we don't want to listen to people we know are lying to us."
+    },
+    {
+      "word": "dogmatism",
+      "pos": "n.",
+      "meaning": "武断；把观点当作不可争辩事实",
+      "note": "",
+      "paragraph": 15,
+      "quote": "And finally, dogmatism."
+    },
+    {
+      "word": "conflate",
+      "pos": "v.",
+      "meaning": "混为一谈",
+      "note": "",
+      "paragraph": 15,
+      "quote": "When those two things get conflated, you're listening into the wind."
+    },
+    {
+      "word": "bombard",
+      "pos": "v.",
+      "meaning": "连续大量灌输",
+      "note": "",
+      "paragraph": 15,
+      "quote": "You know, somebody is bombarding you with their opinions as if they were true."
+    },
+    {
+      "word": "cornerstone",
+      "pos": "n.",
+      "meaning": "基石；重要基础",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'd like to suggest that there are four really powerful cornerstones, foundations, that we can stand on if we want our speech to be powerful and to make change in the world."
+    },
+    {
+      "word": "foundation",
+      "pos": "n.",
+      "meaning": "基础",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'd like to suggest that there are four really powerful cornerstones, foundations, that we can stand on if we want our speech to be powerful and to make change in the world."
+    },
+    {
+      "word": "spell",
+      "pos": "v.",
+      "meaning": "拼成（一个词）",
+      "note": "",
+      "paragraph": 16,
+      "quote": "Fortunately, these things spell a word."
+    },
+    {
+      "word": "hail",
+      "pos": "v.",
+      "meaning": "热烈欢迎；赞扬",
+      "note": "",
+      "paragraph": 16,
+      "quote": "The word is \"hail,\" and it has a great definition as well."
+    },
+    {
+      "word": "greet",
+      "pos": "v.",
+      "meaning": "迎接；打招呼",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'm talking about this definition, to greet or acclaim enthusiastically, which is how I think our words will be received if we stand on these four things."
+    },
+    {
+      "word": "acclaim",
+      "pos": "v.",
+      "meaning": "公开赞誉",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'm talking about this definition, to greet or acclaim enthusiastically, which is how I think our words will be received if we stand on these four things."
+    },
+    {
+      "word": "enthusiastically",
+      "pos": "adv.",
+      "meaning": "热情地",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'm talking about this definition, to greet or acclaim enthusiastically, which is how I think our words will be received if we stand on these four things."
+    },
+    {
+      "word": "receive",
+      "pos": "v.",
+      "meaning": "接受；此处他人对言语的反应",
+      "note": "",
+      "paragraph": 16,
+      "quote": "I'm talking about this definition, to greet or acclaim enthusiastically, which is how I think our words will be received if we stand on these four things."
+    },
+    {
+      "word": "honesty",
+      "pos": "n.",
+      "meaning": "诚实",
+      "note": "",
+      "paragraph": 17,
+      "quote": "The H, honesty, of course, being true in what you say, being straight and clear."
+    },
+    {
+      "word": "straight",
+      "pos": "adj.",
+      "meaning": "坦诚直接的",
+      "note": "",
+      "paragraph": 17,
+      "quote": "The H, honesty, of course, being true in what you say, being straight and clear."
+    },
+    {
+      "word": "authenticity",
+      "pos": "n.",
+      "meaning": "真实、不伪装",
+      "note": "",
+      "paragraph": 17,
+      "quote": "The A is authenticity, just being yourself."
+    },
+    {
+      "word": "integrity",
+      "pos": "n.",
+      "meaning": "诚信；言行一致",
+      "note": "",
+      "paragraph": 17,
+      "quote": "The I is integrity, being your word, actually doing what you say, and being somebody people can trust."
+    },
+    {
+      "word": "absolute",
+      "pos": "adj.",
+      "meaning": "绝对的；不加缓和的",
+      "note": "",
+      "paragraph": 17,
+      "quote": "First of all, I think absolute honesty may not be what we want."
+    },
+    {
+      "word": "temper",
+      "pos": "v.",
+      "meaning": "使缓和",
+      "note": "",
+      "paragraph": 17,
+      "quote": "Tempered with love, of course, honesty is a great thing."
+    },
+    {
+      "word": "simultaneously",
+      "pos": "adv.",
+      "meaning": "同时",
+      "note": "",
+      "paragraph": 17,
+      "quote": "I'm not even sure you can do those two things simultaneously."
+    },
+    {
+      "word": "toolbox",
+      "pos": "n.",
+      "meaning": "工具箱；此处比喻可调用的说话方法",
+      "note": "",
+      "paragraph": 18,
+      "quote": "You have an amazing toolbox."
+    },
+    {
+      "word": "rummage",
+      "pos": "n.",
+      "meaning": "翻找",
+      "note": "",
+      "paragraph": 18,
+      "quote": "I'd like to have a little rummage in there with you now and just pull a few tools out that you might like to take away and play with, which will increase the power of your speaking."
+    },
+    {
+      "word": "register",
+      "pos": "n.",
+      "meaning": "声区",
+      "note": "",
+      "paragraph": 19,
+      "quote": "Register, for example."
+    },
+    {
+      "word": "falsetto",
+      "pos": "n./adj.",
+      "meaning": "假声（的）",
+      "note": "",
+      "paragraph": 19,
+      "quote": "Now, falsetto register may not be very useful most of the time, but there's a register in between."
+    },
+    {
+      "word": "coach",
+      "pos": "n.",
+      "meaning": "指导教练",
+      "note": "",
+      "paragraph": 19,
+      "quote": "I'm not going to get very technical about this for any of you who are voice coaches."
+    },
+    {
+      "word": "locate",
+      "pos": "v.",
+      "meaning": "确定发声位置",
+      "note": "",
+      "paragraph": 19,
+      "quote": "You can locate your voice, however."
+    },
+    {
+      "word": "throat",
+      "pos": "n.",
+      "meaning": "喉咙",
+      "note": "",
+      "paragraph": 19,
+      "quote": "If I go down here in my throat, which is where most of us speak from most of the time."
+    },
+    {
+      "word": "chest",
+      "pos": "n.",
+      "meaning": "胸部",
+      "note": "",
+      "paragraph": 19,
+      "quote": "But if you want weight, you need to go down here to the chest."
+    },
+    {
+      "word": "weight",
+      "pos": "n.",
+      "meaning": "分量；声音的厚重感",
+      "note": "",
+      "paragraph": 19,
+      "quote": "But if you want weight, you need to go down here to the chest."
+    },
+    {
+      "word": "depth",
+      "pos": "n.",
+      "meaning": "深沉程度",
+      "note": "",
+      "paragraph": 19,
+      "quote": "We vote for politicians with lower voices, it's true, because we associate depth with power and with authority."
+    },
+    {
+      "word": "authority",
+      "pos": "n.",
+      "meaning": "权威感",
+      "note": "",
+      "paragraph": 19,
+      "quote": "We vote for politicians with lower voices, it's true, because we associate depth with power and with authority."
+    },
+    {
+      "word": "timbre",
+      "pos": "n.",
+      "meaning": "音色",
+      "note": "",
+      "paragraph": 20,
+      "quote": "Then we have timbre."
+    },
+    {
+      "word": "rich",
+      "pos": "adj.",
+      "meaning": "声音丰满的",
+      "note": "",
+      "paragraph": 20,
+      "quote": "Again, the research shows that we prefer voices which are rich, smooth, warm, like hot chocolate."
+    },
+    {
+      "word": "smooth",
+      "pos": "adj.",
+      "meaning": "声音圆润平滑的",
+      "note": "",
+      "paragraph": 20,
+      "quote": "Again, the research shows that we prefer voices which are rich, smooth, warm, like hot chocolate."
+    },
+    {
+      "word": "posture",
+      "pos": "n.",
+      "meaning": "身体姿势",
+      "note": "",
+      "paragraph": 20,
+      "quote": "And there are amazing things you can do with breathing, with posture, and with exercises to improve the timbre of your voice."
+    },
+    {
+      "word": "breathing",
+      "pos": "n.",
+      "meaning": "呼吸",
+      "note": "",
+      "paragraph": 20,
+      "quote": "And there are amazing things you can do with breathing, with posture, and with exercises to improve the timbre of your voice."
+    },
+    {
+      "word": "prosody",
+      "pos": "n.",
+      "meaning": "韵律；语音的节奏与音调变化",
+      "note": "",
+      "paragraph": 21,
+      "quote": "Then prosody."
+    },
+    {
+      "word": "sing-song",
+      "pos": "n.",
+      "meaning": "抑扬顿挫的唱腔式声调",
+      "note": "",
+      "paragraph": 21,
+      "quote": "This is the sing-song, the meta-language that we use in order to impart meaning."
+    },
+    {
+      "word": "impart",
+      "pos": "v.",
+      "meaning": "传达；赋予",
+      "note": "",
+      "paragraph": 21,
+      "quote": "This is the sing-song, the meta-language that we use in order to impart meaning."
+    },
+    {
+      "word": "note",
+      "pos": "n.",
+      "meaning": "音符；此处音调",
+      "note": "",
+      "paragraph": 21,
+      "quote": "People who speak all on one note are really quite hard to listen to if they don't have any prosody at all."
+    },
+    {
+      "word": "monotonous",
+      "pos": "adj.",
+      "meaning": "单调的",
+      "note": "",
+      "paragraph": 21,
+      "quote": "That's where the word \"monotonic\" comes from, or monotonous, monotone."
+    },
+    {
+      "word": "repetitive",
+      "pos": "adj.",
+      "meaning": "反复重复的",
+      "note": "",
+      "paragraph": 21,
+      "quote": "Also, we have repetitive prosody now coming in, where every sentence ends as if it were a question when it's actually not a question, it's a statement?"
+    },
+    {
+      "word": "statement",
+      "pos": "n.",
+      "meaning": "陈述句；陈述",
+      "note": "",
+      "paragraph": 21,
+      "quote": "Also, we have repetitive prosody now coming in, where every sentence ends as if it were a question when it's actually not a question, it's a statement?"
+    },
+    {
+      "word": "restrict",
+      "pos": "v.",
+      "meaning": "限制",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And if you repeat that one, it's actually restricting your ability to communicate through prosody, which I think is a shame, so let's try and break that habit."
+    },
+    {
+      "word": "communicate",
+      "pos": "v.",
+      "meaning": "交流、传意",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And if you repeat that one, it's actually restricting your ability to communicate through prosody, which I think is a shame, so let's try and break that habit."
+    },
+    {
+      "word": "pace",
+      "pos": "n.",
+      "meaning": "说话速度",
+      "note": "",
+      "paragraph": 24,
+      "quote": "Pace."
+    },
+    {
+      "word": "emphasize",
+      "pos": "v.",
+      "meaning": "强调",
+      "note": "",
+      "paragraph": 25,
+      "quote": "I can get very excited by saying something really quickly, or I can slow right down to emphasize, and at the end of that, of course, is our old friend silence."
+    },
+    {
+      "word": "silence",
+      "pos": "n.",
+      "meaning": "安静；停顿",
+      "note": "",
+      "paragraph": 25,
+      "quote": "I can get very excited by saying something really quickly, or I can slow right down to emphasize, and at the end of that, of course, is our old friend silence."
+    },
+    {
+      "word": "pitch",
+      "pos": "n.",
+      "meaning": "音高",
+      "note": "",
+      "paragraph": 26,
+      "quote": "Of course, pitch often goes along with pace to indicate arousal, but you can do it just with pitch."
+    },
+    {
+      "word": "arousal",
+      "pos": "n.",
+      "meaning": "兴奋程度",
+      "note": "",
+      "paragraph": 26,
+      "quote": "Of course, pitch often goes along with pace to indicate arousal, but you can do it just with pitch."
+    },
+    {
+      "word": "delivery",
+      "pos": "n.",
+      "meaning": "说话的呈现方式",
+      "note": "",
+      "paragraph": 26,
+      "quote": "So, slightly different meaning in those two deliveries."
+    },
+    {
+      "word": "volume",
+      "pos": "n.",
+      "meaning": "音量",
+      "note": "",
+      "paragraph": 27,
+      "quote": "And finally, volume. (Loud) I can get really excited by using volume."
+    },
+    {
+      "word": "startle",
+      "pos": "v.",
+      "meaning": "使突然受惊",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Sorry about that, if I startled anybody."
+    },
+    {
+      "word": "broadcast",
+      "pos": "v.",
+      "meaning": "大声放送；此处一直高声说话",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Some people broadcast the whole time."
+    },
+    {
+      "word": "sodcasting",
+      "pos": "n.",
+      "meaning": "不顾别人地公开播放声响",
+      "note": "新造口语词；仅按讲者29段解释，不当标准中性用词",
+      "paragraph": 27,
+      "quote": "That's called sodcasting,"
+    },
+    {
+      "word": "inconsiderately",
+      "pos": "adv.",
+      "meaning": "不体谅别人地",
+      "note": "",
+      "paragraph": 29,
+      "quote": "Imposing your sound on people around you carelessly and inconsiderately."
+    },
+    {
+      "word": "carelessly",
+      "pos": "adv.",
+      "meaning": "不顾影响地",
+      "note": "",
+      "paragraph": 29,
+      "quote": "Imposing your sound on people around you carelessly and inconsiderately."
+    },
+    {
+      "word": "raise",
+      "pos": "n.",
+      "meaning": "加薪",
+      "note": "",
+      "paragraph": 30,
+      "quote": "It might be proposing marriage, asking for a raise, a wedding speech."
+    },
+    {
+      "word": "marriage",
+      "pos": "n.",
+      "meaning": "婚姻（求婚语境）",
+      "note": "",
+      "paragraph": 30,
+      "quote": "It might be proposing marriage, asking for a raise, a wedding speech."
+    },
+    {
+      "word": "engine",
+      "pos": "n.",
+      "meaning": "发动机；比喻发声器官系统",
+      "note": "",
+      "paragraph": 30,
+      "quote": "Whatever it is, if it's really important, you owe it to yourself to look at this toolbox and the engine that it's going to work on, and no engine works well without being warmed up."
+    },
+    {
+      "word": "vocal",
+      "pos": "adj.",
+      "meaning": "声音的；发声的",
+      "note": "",
+      "paragraph": 31,
+      "quote": "I'm going to show you the six vocal warm-up exercises that I do before every talk I ever do."
+    },
+    {
+      "word": "sigh",
+      "pos": "v.",
+      "meaning": "叹气；呼气",
+      "note": "",
+      "paragraph": 31,
+      "quote": "First, arms up, deep breath in, and sigh out, ahhhhh, like that."
+    },
+    {
+      "word": "lip",
+      "pos": "n.",
+      "meaning": "嘴唇",
+      "note": "",
+      "paragraph": 31,
+      "quote": "Now we're going to warm up our lips, and we're going to go Ba, Ba, Ba, Ba, Ba, Ba, Ba, Ba."
+    },
+    {
+      "word": "tongue",
+      "pos": "n.",
+      "meaning": "舌头",
+      "note": "",
+      "paragraph": 31,
+      "quote": "We're going to do the tongue next with exaggerated la, la, la, la, la, la, la, la, la."
+    },
+    {
+      "word": "exaggerated",
+      "pos": "adj.",
+      "meaning": "夸大、幅度加大的",
+      "note": "",
+      "paragraph": 31,
+      "quote": "We're going to do the tongue next with exaggerated la, la, la, la, la, la, la, la, la."
+    },
+    {
+      "word": "roll",
+      "pos": "v.",
+      "meaning": "使颤动（roll an R发R颤音）",
+      "note": "",
+      "paragraph": 31,
+      "quote": "And then, roll an R."
+    },
+    {
+      "word": "pro",
+      "pos": "n.",
+      "meaning": "专业人士",
+      "note": "",
+      "paragraph": 31,
+      "quote": "Finally, and if I can only do one, the pros call this the siren."
+    },
+    {
+      "word": "siren",
+      "pos": "n.",
+      "meaning": "警报器；此处高低音滑音练习",
+      "note": "",
+      "paragraph": 31,
+      "quote": "Finally, and if I can only do one, the pros call this the siren."
+    },
+    {
+      "word": "applause",
+      "pos": "n.",
+      "meaning": "掌声",
+      "note": "",
+      "paragraph": 32,
+      "quote": "Give yourselves a round of applause."
+    },
+    {
+      "word": "context",
+      "pos": "n.",
+      "meaning": "背景；语境",
+      "note": "",
+      "paragraph": 35,
+      "quote": "Now let me just put this in context to close."
+    },
+    {
+      "word": "acoustics",
+      "pos": "n.",
+      "meaning": "环境声学效果",
+      "note": "",
+      "paragraph": 35,
+      "quote": "We speak not very well to people who simply aren't listening in an environment that's all about noise and bad acoustics."
+    },
+    {
+      "word": "phase",
+      "pos": "n.",
+      "meaning": "阶段；不同场次",
+      "note": "",
+      "paragraph": 35,
+      "quote": "I have talked about that on this stage in different phases."
+    },
+    {
+      "word": "consciously",
+      "pos": "adv.",
+      "meaning": "有意识地",
+      "note": "",
+      "paragraph": 35,
+      "quote": "What would the world be like if we were speaking powerfully to people who were listening consciously in environments which were actually fit for purpose?"
+    },
+    {
+      "word": "consume",
+      "pos": "v.",
+      "meaning": "消费、接收（声音）",
+      "note": "",
+      "paragraph": 35,
+      "quote": "Or to make that a bit larger, what would the world be like if we were creating sound consciously and consuming sound consciously and designing all our environments consciously for sound?"
+    },
+    {
+      "word": "norm",
+      "pos": "n.",
+      "meaning": "常态；标准",
+      "note": "",
+      "paragraph": 35,
+      "quote": "That would be a world that does sound beautiful, and one where understanding would be the norm, and that is an idea worth spreading."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "track": "chunks",
+      "item": "most of the time",
+      "paragraph": 19,
+      "kept": "001:45",
+      "reason": "同形同义，大部分时候"
+    },
+    {
+      "track": "chunks",
+      "item": "See if you can ...",
+      "paragraph": 17,
+      "kept": "001:23 see if ...",
+      "reason": "同表达功能，没有独立新义"
+    }
+  ],
+  "pending": [
+    {
+      "paragraph": 11,
+      "text": "blamethrower",
+      "reason": "临时造词；已按本篇转嫁责任含义记词汇，正式教学前核对语域。"
+    },
+    {
+      "paragraph": 21,
+      "text": "It's root one for meaning in conversation.",
+      "reason": "root one疑似字幕措辞问题；未作为chunk或标准搭配收录。"
+    },
+    {
+      "paragraph": 27,
+      "text": "sodcasting",
+      "reason": "非标准中性词；已按29段讲者释义记候选，正式教学前需核词典及语域。"
+    }
+  ]
+}

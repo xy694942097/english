@@ -1,0 +1,1582 @@
+{
+  "source": "materials/corpus/ted/english/001-tim_urban_inside_the_mind_of_a_master_procrastinator.txt",
+  "sha256": "3e805337f5e2d929859e968f7b539b106979eec9c7e348286e10430a14e5b3c4",
+  "metadata": {
+    "Title": "Inside the mind of a master procrastinator",
+    "中文标题": "拖延症患者的大脑",
+    "Speaker": "Tim Urban",
+    "Year": "2016",
+    "Duration (official metadata)": "13:54",
+    "TED ID": "2458",
+    "Language": "English",
+    "Official URL": "https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator",
+    "Caption source": "https://www.ted.com/talks/subtitles/id/2458/lang/en",
+    "title": "Inside the mind of a master procrastinator",
+    "zh_title": "拖延症患者的大脑",
+    "speaker": "Tim Urban",
+    "official_url": "https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator"
+  },
+  "paragraphs_read": 72,
+  "read_ranges": [
+    [
+      1,
+      72
+    ]
+  ],
+  "second_pass": {
+    "read_ranges": [
+      [
+        1,
+        72
+      ]
+    ],
+    "focus": "逐段回看未选段、普通实词、外层框架及句内词块；笑声掌声段计号，不收作学习条目",
+    "additions": [
+      "3 get sth. done / civil",
+      "8 bump up / 外层反问",
+      "40 take into account / leisure / overlap",
+      "49 clear on / feel for",
+      "62 momentum / self-starter",
+      "67 stay aware / calendar"
+    ],
+    "added_chunks": [
+      "I want you to do sth.",
+      "see if ...",
+      "What does this mean for ...?",
+      "a perfect time to do sth.",
+      "go over to",
+      "Which is why ...",
+      "It's not pretty, but ...",
+      "be amazed by",
+      "a huge amount of",
+      "achieve one’s dreams"
+    ],
+    "added_vocabulary": [
+      "senior",
+      "behavior",
+      "brain",
+      "compare",
+      "notice",
+      "fridge",
+      "interview",
+      "knowledge",
+      "advanced",
+      "ability",
+      "activity",
+      "character",
+      "heaviness",
+      "career",
+      "relationship",
+      "suffer",
+      "achieve"
+    ]
+  },
+  "chunks": [
+    {
+      "chunk": "spread sth. out",
+      "meaning": "把工作分散到一段时间里做",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 1,
+      "quote": "Now, when a normal student writes a paper, they might spread the work out a little like this."
+    },
+    {
+      "chunk": "get started",
+      "meaning": "着手开始",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 3,
+      "quote": "you get started maybe a little slowly, but you get enough done in the first week that, with some heavier days later on, everything gets done, things stay civil."
+    },
+    {
+      "chunk": "get sth. done",
+      "meaning": "把某事完成",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 3,
+      "quote": "you get started maybe a little slowly, but you get enough done in the first week that, with some heavier days later on, everything gets done, things stay civil."
+    },
+    {
+      "chunk": "later on",
+      "meaning": "稍后；后来",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 3,
+      "quote": "you get started maybe a little slowly, but you get enough done in the first week that, with some heavier days later on, everything gets done, things stay civil."
+    },
+    {
+      "chunk": "ready to go",
+      "meaning": "准备就绪",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 5,
+      "quote": "I would have it all ready to go, but then, actually, the paper would come along, and then I would kind of do this."
+    },
+    {
+      "chunk": "come along",
+      "meaning": "出现；事情来到眼前",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 5,
+      "quote": "I would have it all ready to go, but then, actually, the paper would come along, and then I would kind of do this."
+    },
+    {
+      "chunk": "be supposed to do sth.",
+      "meaning": "按要求应该做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "But then came my 90-page senior thesis, a paper you're supposed to spend a year on."
+    },
+    {
+      "chunk": "not an option",
+      "meaning": "不是可行的选择",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "And I knew for a paper like that, my normal work flow was not an option."
+    },
+    {
+      "chunk": "way too + 形容词",
+      "meaning": "实在太……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "It was way too big a project."
+    },
+    {
+      "chunk": "plan sth. out",
+      "meaning": "仔细规划",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "So I planned things out, and I decided I kind of had to go something like this."
+    },
+    {
+      "chunk": "start off",
+      "meaning": "起步；开头采取某种状态",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "So I'd start off light, and I'd bump it up in the middle months, and then at the end, I would kick it up into high gear just like a little staircase."
+    },
+    {
+      "chunk": "bump sth. up",
+      "meaning": "提高数量或强度",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "So I'd start off light, and I'd bump it up in the middle months, and then at the end, I would kick it up into high gear just like a little staircase."
+    },
+    {
+      "chunk": "kick sth. into high gear",
+      "meaning": "使某事进入全力运转状态",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "So I'd start off light, and I'd bump it up in the middle months, and then at the end, I would kick it up into high gear just like a little staircase."
+    },
+    {
+      "chunk": "How hard could it be to do sth.?",
+      "meaning": "做某事能有多难呢？（这里带反讽伏笔）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "How hard could it be to walk up the stairs?"
+    },
+    {
+      "chunk": "No big deal",
+      "meaning": "没什么大不了",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 8,
+      "quote": "No big deal, right?"
+    },
+    {
+      "chunk": "come and go",
+      "meaning": "到来又过去",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 9,
+      "quote": "They came and went, and I couldn't quite do stuff."
+    },
+    {
+      "chunk": "go by",
+      "meaning": "时间流逝",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 13,
+      "quote": "But then those middle months actually went by, and I didn't really write words, and so we were here."
+    },
+    {
+      "chunk": "turn into",
+      "meaning": "变成；时间倒计时缩短",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And then two months turned into one month, which turned into two weeks."
+    },
+    {
+      "chunk": "not one but two ...",
+      "meaning": "不是一个而是两个……，强调出乎预料",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline."
+    },
+    {
+      "chunk": "pull an all-nighter",
+      "meaning": "熬通宵",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline."
+    },
+    {
+      "chunk": "get sth. in",
+      "meaning": "把作业等交上去",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline."
+    },
+    {
+      "chunk": "what goes on in sb.'s head",
+      "meaning": "某人脑子里在想什么",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "My behavior has always perplexed the non-procrastinators around me, and I wanted to explain to the non-procrastinators of the world what goes on in the heads of procrastinators, and why we are the way we are."
+    },
+    {
+      "chunk": "why we are the way we are",
+      "meaning": "我们为何是现在这个样子",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "My behavior has always perplexed the non-procrastinators around me, and I wanted to explain to the non-procrastinators of the world what goes on in the heads of procrastinators, and why we are the way we are."
+    },
+    {
+      "chunk": "I had a hypothesis that ...",
+      "meaning": "我有一个假设，即……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "Now, I had a hypothesis that the brains of procrastinators were actually different than the brains of other people."
+    },
+    {
+      "chunk": "take a look",
+      "meaning": "看一看",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "I want you to take a look carefully to see if you can notice a difference."
+    },
+    {
+      "chunk": "I want you to do sth.",
+      "meaning": "我希望你做某事；此处请观众观察",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "I want you to take a look carefully to see if you can notice a difference."
+    },
+    {
+      "chunk": "see if ...",
+      "meaning": "看看是否……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 23,
+      "quote": "I want you to take a look carefully to see if you can notice a difference."
+    },
+    {
+      "chunk": "instant gratification",
+      "meaning": "即时满足",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Both brains have a Rational Decision-Maker in them, but the procrastinator's brain also has an Instant Gratification Monkey."
+    },
+    {
+      "chunk": "What does this mean for ...?",
+      "meaning": "这对……意味着什么？",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Now, what does this mean for the procrastinator?"
+    },
+    {
+      "chunk": "a perfect time to do sth.",
+      "meaning": "做某事的理想时机",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 28,
+      "quote": "[This is a perfect time to get some work done.] [Nope!]"
+    },
+    {
+      "chunk": "take the wheel",
+      "meaning": "掌舵；接管控制",
+      "register": "TED演讲；中性口语/论述",
+      "note": "本篇为开车隐喻，不局限于实际驾驶",
+      "paragraph": 29,
+      "quote": "So the Rational Decision-Maker will make the rational decision to do something productive, but the Monkey doesn't like that plan, so he actually takes the wheel, and he says, \"Actually, let's read the entire Wikipedia page of the Nancy Kerrigan/ Tonya Harding scandal, because I just remembered that that happened."
+    },
+    {
+      "chunk": "go over to",
+      "meaning": "走到……去",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 33,
+      "quote": "Then we're going to go over to the fridge, to see if there's anything new in there since 10 minutes ago."
+    },
+    {
+      "chunk": "start with ... and end with ...",
+      "meaning": "从……开始，以……结束",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 33,
+      "quote": "After that, we're going to go on a YouTube spiral that starts with videos of Richard Feynman talking about magnets and ends much, much later with us watching interviews with Justin Bieber's mom."
+    },
+    {
+      "chunk": "take a while",
+      "meaning": "要花些时间",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 35,
+      "quote": "\"All of that's going to take a while, so we're not going to really have room on the schedule for any work today."
+    },
+    {
+      "chunk": "have room for sth.",
+      "meaning": "有空间/余地容纳某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 35,
+      "quote": "\"All of that's going to take a while, so we're not going to really have room on the schedule for any work today."
+    },
+    {
+      "chunk": "behind the wheel",
+      "meaning": "在掌舵；处于控制位置",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 37,
+      "quote": "The Instant Gratification Monkey does not seem like a guy you want behind the wheel."
+    },
+    {
+      "chunk": "live in the present moment",
+      "meaning": "只活在当下",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 37,
+      "quote": "He lives entirely in the present moment."
+    },
+    {
+      "chunk": "nothing other than",
+      "meaning": "除了……以外什么也不",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 38,
+      "quote": "If you're a dog and you spend your whole life doing nothing other than easy and fun things, you're a huge success!"
+    },
+    {
+      "chunk": "Which is why ...",
+      "meaning": "这也就是为什么……（承接前因）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "Which is why we have another guy in our brain, the Rational Decision-Maker, who gives us the ability to do things no other animal can do."
+    },
+    {
+      "chunk": "see the big picture",
+      "meaning": "看全局",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "We can see the big picture."
+    },
+    {
+      "chunk": "make long-term plans",
+      "meaning": "制定长期计划",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "We can make long-term plans."
+    },
+    {
+      "chunk": "take sth. into account",
+      "meaning": "把某事纳入考虑",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "And he wants to take all of that into account."
+    },
+    {
+      "chunk": "make sense",
+      "meaning": "合理；值得这样做",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "And he wants to just have us do whatever makes sense to be doing right now."
+    },
+    {
+      "chunk": "for the sake of",
+      "meaning": "为了……的利益/目的",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "But other times, it makes much more sense to be doing things that are harder and less pleasant, for the sake of the big picture."
+    },
+    {
+      "chunk": "tend to do sth.",
+      "meaning": "往往会做某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 40,
+      "quote": "And for the procrastinator, that conflict tends to end a certain way every time, leaving him spending a lot of time in this orange zone, an easy and fun place that's entirely out of the Makes Sense circle."
+    },
+    {
+      "chunk": "be filled with",
+      "meaning": "充满",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 42,
+      "quote": "The fun you have in the Dark Playground isn't actually fun, because it's completely unearned, and the air is filled with guilt, dread, anxiety, self-hatred -- all of those good procrastinator feelings."
+    },
+    {
+      "chunk": "turns out ...",
+      "meaning": "结果发现……（口语省略it）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 43,
+      "quote": "Well, turns out the procrastinator has a guardian angel, someone who's always looking down on him and watching over him in his darkest moments -- someone called the Panic Monster."
+    },
+    {
+      "chunk": "guardian angel",
+      "meaning": "守护天使；保护者",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 43,
+      "quote": "Well, turns out the procrastinator has a guardian angel, someone who's always looking down on him and watching over him in his darkest moments -- someone called the Panic Monster."
+    },
+    {
+      "chunk": "watch over sb.",
+      "meaning": "照看、守护某人",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 43,
+      "quote": "Well, turns out the procrastinator has a guardian angel, someone who's always looking down on him and watching over him in his darkest moments -- someone called the Panic Monster."
+    },
+    {
+      "chunk": "most of the time",
+      "meaning": "大部分时候",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 45,
+      "quote": "Now, the Panic Monster is dormant most of the time, but he suddenly wakes up anytime a deadline gets too close or there's danger of public embarrassment, a career disaster or some other scary consequence."
+    },
+    {
+      "chunk": "be terrified of",
+      "meaning": "极其害怕",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 45,
+      "quote": "And importantly, he's the only thing the Monkey is terrified of."
+    },
+    {
+      "chunk": "reach out to sb.",
+      "meaning": "主动联系某人",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 45,
+      "quote": "Now, he became very relevant in my life pretty recently, because the people of TED reached out to me about six months ago and invited me to do a TED Talk."
+    },
+    {
+      "chunk": "have sth. on one's mind",
+      "meaning": "心里惦记着某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 49,
+      "quote": "(Applause) But in the middle of all this excitement, the Rational Decision-Maker seemed to have something else on his mind."
+    },
+    {
+      "chunk": "Are we clear on ...?",
+      "meaning": "我们是否弄清楚……？",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 49,
+      "quote": "He was saying, \"Are we clear on what we just accepted?"
+    },
+    {
+      "chunk": "work on sth.",
+      "meaning": "着手做、投入处理某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 49,
+      "quote": "We need to sit down and work on this right now.\" And the Monkey said, \"Totally agree, but let's just open Google Earth and zoom in to the bottom of India, like 200 feet above the ground, and scroll up for two and a half hours til we get to the top of the country, so we can get a better feel for India.\""
+    },
+    {
+      "chunk": "zoom in",
+      "meaning": "拉近画面、放大",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 49,
+      "quote": "We need to sit down and work on this right now.\" And the Monkey said, \"Totally agree, but let's just open Google Earth and zoom in to the bottom of India, like 200 feet above the ground, and scroll up for two and a half hours til we get to the top of the country, so we can get a better feel for India.\""
+    },
+    {
+      "chunk": "get a feel for sth.",
+      "meaning": "对某事形成大致直观印象",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 49,
+      "quote": "We need to sit down and work on this right now.\" And the Monkey said, \"Totally agree, but let's just open Google Earth and zoom in to the bottom of India, like 200 feet above the ground, and scroll up for two and a half hours til we get to the top of the country, so we can get a better feel for India.\""
+    },
+    {
+      "chunk": "guess who ...",
+      "meaning": "猜猜谁……（制造叙述悬念）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 53,
+      "quote": "And guess who woke up?"
+    },
+    {
+      "chunk": "lose one's mind",
+      "meaning": "失去理智；慌得发狂",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 55,
+      "quote": "So the Panic Monster starts losing his mind, and a few seconds later, the whole system's in mayhem."
+    },
+    {
+      "chunk": "work ethic",
+      "meaning": "工作自律与勤奋态度",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 58,
+      "quote": "Now, the Panic Monster explains all kinds of pretty insane procrastinator behavior, like how someone like me could spend two weeks unable to start the opening sentence of a paper, and then miraculously find the unbelievable work ethic to stay up all night and write eight pages."
+    },
+    {
+      "chunk": "stay up all night",
+      "meaning": "整夜不睡",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 58,
+      "quote": "Now, the Panic Monster explains all kinds of pretty insane procrastinator behavior, like how someone like me could spend two weeks unable to start the opening sentence of a paper, and then miraculously find the unbelievable work ethic to stay up all night and write eight pages."
+    },
+    {
+      "chunk": "It's not pretty, but ...",
+      "meaning": "虽然过程不好看，但……（承认缺点后强调效果）",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 58,
+      "quote": "It's not pretty, but in the end, it works."
+    },
+    {
+      "chunk": "be amazed by",
+      "meaning": "对……感到惊讶",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 59,
+      "quote": "When I did, I was amazed by the response."
+    },
+    {
+      "chunk": "what struck me was ...",
+      "meaning": "让我印象深刻的是……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 61,
+      "quote": "And they were all writing, saying the same thing: \"I have this problem too.\" But what struck me was the contrast between the light tone of the post and the heaviness of these emails."
+    },
+    {
+      "chunk": "in a dark place",
+      "meaning": "处于痛苦低落的心理状态",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 61,
+      "quote": "Why are all of these people in such a dark place?"
+    },
+    {
+      "chunk": "It turns out that ...",
+      "meaning": "后来发现……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 62,
+      "quote": "Well, it turns out that there's two kinds of procrastination."
+    },
+    {
+      "chunk": "get things going",
+      "meaning": "使事情启动并推进",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 62,
+      "quote": "So if you wanted a career where you're a self-starter -- something in the arts, something entrepreneurial -- there's no deadlines on those things at first, because nothing's happening, not until you've gone out and done the hard work to get momentum, get things going."
+    },
+    {
+      "chunk": "get out of a relationship",
+      "meaning": "结束一段关系",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 62,
+      "quote": "There's also all kinds of important things outside of your career that don't involve any deadlines, like seeing your family or exercising and taking care of your health, working on your relationship or getting out of a relationship that isn't working."
+    },
+    {
+      "chunk": "show up",
+      "meaning": "出现；发挥作用",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "Now if the procrastinator's only mechanism of doing these hard things is the Panic Monster, that's a problem, because in all of these non-deadline situations, the Panic Monster doesn't show up."
+    },
+    {
+      "chunk": "a huge amount of",
+      "meaning": "大量的",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And it can be the source of a huge amount of long-term unhappiness, and regrets."
+    },
+    {
+      "chunk": "It's not that ...; it's that ...",
+      "meaning": "并不是因为……，而是因为……",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "It's not that they're cramming for some project."
+    },
+    {
+      "chunk": "feel like a spectator in one's own life",
+      "meaning": "觉得自己只是自己生活的旁观者",
+      "register": "TED演讲；中性口语/论述",
+      "note": "隐喻型开放框架，非固定习语",
+      "paragraph": 63,
+      "quote": "It's that long-term procrastination has made them feel like a spectator, at times, in their own lives."
+    },
+    {
+      "chunk": "chase one's dreams",
+      "meaning": "追逐梦想",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "The frustration is not that they couldn't achieve their dreams; it's that they weren't even able to start chasing them."
+    },
+    {
+      "chunk": "achieve one’s dreams",
+      "meaning": "实现梦想",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 63,
+      "quote": "The frustration is not that they couldn't achieve their dreams; it's that they weren't even able to start chasing them."
+    },
+    {
+      "chunk": "have an epiphany",
+      "meaning": "突然领悟",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 64,
+      "quote": "So I read these emails and I had a little bit of an epiphany -- that I don't think non-procrastinators exist."
+    },
+    {
+      "chunk": "be a mess",
+      "meaning": "状态糟糕；一团乱",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 64,
+      "quote": "Now, you might not all be a mess, like some of us,"
+    },
+    {
+      "chunk": "have a healthy relationship with sth.",
+      "meaning": "与某事保持良好的关系/处理方式",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 66,
+      "quote": "and some of you may have a healthy relationship with deadlines, but remember: the Monkey's sneakiest trick is when the deadlines aren't there."
+    },
+    {
+      "chunk": "a bunch of",
+      "meaning": "一堆；不少",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 67,
+      "quote": "That's not that many boxes, especially since we've already used a bunch of those."
+    },
+    {
+      "chunk": "take a long, hard look at sth.",
+      "meaning": "认真、深入审视某事",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 67,
+      "quote": "So I think we need to all take a long, hard look at that calendar."
+    },
+    {
+      "chunk": "stay aware of",
+      "meaning": "持续留意",
+      "register": "TED演讲；中性口语/论述",
+      "note": "",
+      "paragraph": 67,
+      "quote": "We need to stay aware of the Instant Gratification Monkey."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "major",
+      "pos": "n.",
+      "meaning": "大学主修专业",
+      "note": "",
+      "paragraph": 1,
+      "quote": "So in college, I was a government major, which means I had to write a lot of papers."
+    },
+    {
+      "word": "paper",
+      "pos": "n.",
+      "meaning": "课程论文",
+      "note": "",
+      "paragraph": 1,
+      "quote": "So in college, I was a government major, which means I had to write a lot of papers."
+    },
+    {
+      "word": "civil",
+      "pos": "adj.",
+      "meaning": "有秩序、没有闹得不可收拾",
+      "note": "",
+      "paragraph": 3,
+      "quote": "you get started maybe a little slowly, but you get enough done in the first week that, with some heavier days later on, everything gets done, things stay civil."
+    },
+    {
+      "word": "thesis",
+      "pos": "n.",
+      "meaning": "毕业论文",
+      "note": "",
+      "paragraph": 8,
+      "quote": "But then came my 90-page senior thesis, a paper you're supposed to spend a year on."
+    },
+    {
+      "word": "senior",
+      "pos": "adj.",
+      "meaning": "大学最后一年级的",
+      "note": "",
+      "paragraph": 8,
+      "quote": "But then came my 90-page senior thesis, a paper you're supposed to spend a year on."
+    },
+    {
+      "word": "workflow",
+      "pos": "n.",
+      "meaning": "工作流程",
+      "note": "",
+      "paragraph": 8,
+      "quote": "And I knew for a paper like that, my normal work flow was not an option."
+    },
+    {
+      "word": "option",
+      "pos": "n.",
+      "meaning": "可行选择",
+      "note": "",
+      "paragraph": 8,
+      "quote": "And I knew for a paper like that, my normal work flow was not an option."
+    },
+    {
+      "word": "bump",
+      "pos": "v.",
+      "meaning": "提高；增加",
+      "note": "",
+      "paragraph": 8,
+      "quote": "So I'd start off light, and I'd bump it up in the middle months, and then at the end, I would kick it up into high gear just like a little staircase."
+    },
+    {
+      "word": "gear",
+      "pos": "n.",
+      "meaning": "挡位，比喻工作强度",
+      "note": "",
+      "paragraph": 8,
+      "quote": "So I'd start off light, and I'd bump it up in the middle months, and then at the end, I would kick it up into high gear just like a little staircase."
+    },
+    {
+      "word": "staircase",
+      "pos": "n.",
+      "meaning": "楼梯",
+      "note": "",
+      "paragraph": 8,
+      "quote": "So I'd start off light, and I'd bump it up in the middle months, and then at the end, I would kick it up into high gear just like a little staircase."
+    },
+    {
+      "word": "revised",
+      "pos": "adj.",
+      "meaning": "经过修改的",
+      "note": "",
+      "paragraph": 9,
+      "quote": "So we had an awesome new revised plan."
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning": "截止日期",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline."
+    },
+    {
+      "word": "all-nighter",
+      "pos": "n.",
+      "meaning": "通宵工作/学习",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline."
+    },
+    {
+      "word": "sprint",
+      "pos": "v.",
+      "meaning": "全速奔跑",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline."
+    },
+    {
+      "word": "dive",
+      "pos": "v.",
+      "meaning": "扑过去",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline."
+    },
+    {
+      "word": "campus",
+      "pos": "n.",
+      "meaning": "大学校园",
+      "note": "",
+      "paragraph": 13,
+      "quote": "And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline."
+    },
+    {
+      "word": "procrastination",
+      "pos": "n.",
+      "meaning": "拖延",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And a couple of years ago, I decided to write about procrastination."
+    },
+    {
+      "word": "perplex",
+      "pos": "v.",
+      "meaning": "使困惑",
+      "note": "",
+      "paragraph": 23,
+      "quote": "My behavior has always perplexed the non-procrastinators around me, and I wanted to explain to the non-procrastinators of the world what goes on in the heads of procrastinators, and why we are the way we are."
+    },
+    {
+      "word": "behavior",
+      "pos": "n.",
+      "meaning": "行为",
+      "note": "",
+      "paragraph": 23,
+      "quote": "My behavior has always perplexed the non-procrastinators around me, and I wanted to explain to the non-procrastinators of the world what goes on in the heads of procrastinators, and why we are the way we are."
+    },
+    {
+      "word": "hypothesis",
+      "pos": "n.",
+      "meaning": "假设",
+      "note": "",
+      "paragraph": 23,
+      "quote": "Now, I had a hypothesis that the brains of procrastinators were actually different than the brains of other people."
+    },
+    {
+      "word": "brain",
+      "pos": "n.",
+      "meaning": "大脑",
+      "note": "",
+      "paragraph": 23,
+      "quote": "Now, I had a hypothesis that the brains of procrastinators were actually different than the brains of other people."
+    },
+    {
+      "word": "scan",
+      "pos": "v.",
+      "meaning": "进行扫描检查",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And to test this, I found an MRI lab that actually let me scan both my brain and the brain of a proven non-procrastinator, so I could compare them."
+    },
+    {
+      "word": "proven",
+      "pos": "adj.",
+      "meaning": "经确认的；这里指确实不拖延的人",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And to test this, I found an MRI lab that actually let me scan both my brain and the brain of a proven non-procrastinator, so I could compare them."
+    },
+    {
+      "word": "compare",
+      "pos": "v.",
+      "meaning": "比较",
+      "note": "",
+      "paragraph": 23,
+      "quote": "And to test this, I found an MRI lab that actually let me scan both my brain and the brain of a proven non-procrastinator, so I could compare them."
+    },
+    {
+      "word": "notice",
+      "pos": "v.",
+      "meaning": "注意到",
+      "note": "",
+      "paragraph": 23,
+      "quote": "I want you to take a look carefully to see if you can notice a difference."
+    },
+    {
+      "word": "trained",
+      "pos": "adj.",
+      "meaning": "受过专业训练的",
+      "note": "",
+      "paragraph": 23,
+      "quote": "I know that if you're not a trained brain expert, it's not that obvious, but just take a look, OK?"
+    },
+    {
+      "word": "obvious",
+      "pos": "adj.",
+      "meaning": "显而易见的",
+      "note": "",
+      "paragraph": 23,
+      "quote": "I know that if you're not a trained brain expert, it's not that obvious, but just take a look, OK?"
+    },
+    {
+      "word": "rational",
+      "pos": "adj.",
+      "meaning": "理性的",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Both brains have a Rational Decision-Maker in them, but the procrastinator's brain also has an Instant Gratification Monkey."
+    },
+    {
+      "word": "gratification",
+      "pos": "n.",
+      "meaning": "满足感",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Both brains have a Rational Decision-Maker in them, but the procrastinator's brain also has an Instant Gratification Monkey."
+    },
+    {
+      "word": "instant",
+      "pos": "adj.",
+      "meaning": "即时的",
+      "note": "",
+      "paragraph": 27,
+      "quote": "Both brains have a Rational Decision-Maker in them, but the procrastinator's brain also has an Instant Gratification Monkey."
+    },
+    {
+      "word": "productive",
+      "pos": "adj.",
+      "meaning": "有成效的；能产出工作成果的",
+      "note": "",
+      "paragraph": 29,
+      "quote": "So the Rational Decision-Maker will make the rational decision to do something productive, but the Monkey doesn't like that plan, so he actually takes the wheel, and he says, \"Actually, let's read the entire Wikipedia page of the Nancy Kerrigan/ Tonya Harding scandal, because I just remembered that that happened."
+    },
+    {
+      "word": "scandal",
+      "pos": "n.",
+      "meaning": "丑闻",
+      "note": "",
+      "paragraph": 29,
+      "quote": "So the Rational Decision-Maker will make the rational decision to do something productive, but the Monkey doesn't like that plan, so he actually takes the wheel, and he says, \"Actually, let's read the entire Wikipedia page of the Nancy Kerrigan/ Tonya Harding scandal, because I just remembered that that happened."
+    },
+    {
+      "word": "fridge",
+      "pos": "n.",
+      "meaning": "冰箱",
+      "note": "",
+      "paragraph": 33,
+      "quote": "Then we're going to go over to the fridge, to see if there's anything new in there since 10 minutes ago."
+    },
+    {
+      "word": "spiral",
+      "pos": "n.",
+      "meaning": "越陷越深的过程",
+      "note": "临时比喻：视频越看越多",
+      "paragraph": 33,
+      "quote": "After that, we're going to go on a YouTube spiral that starts with videos of Richard Feynman talking about magnets and ends much, much later with us watching interviews with Justin Bieber's mom."
+    },
+    {
+      "word": "magnet",
+      "pos": "n.",
+      "meaning": "磁铁",
+      "note": "",
+      "paragraph": 33,
+      "quote": "After that, we're going to go on a YouTube spiral that starts with videos of Richard Feynman talking about magnets and ends much, much later with us watching interviews with Justin Bieber's mom."
+    },
+    {
+      "word": "interview",
+      "pos": "n.",
+      "meaning": "访谈",
+      "note": "",
+      "paragraph": 33,
+      "quote": "After that, we're going to go on a YouTube spiral that starts with videos of Richard Feynman talking about magnets and ends much, much later with us watching interviews with Justin Bieber's mom."
+    },
+    {
+      "word": "schedule",
+      "pos": "n.",
+      "meaning": "日程；时间安排",
+      "note": "",
+      "paragraph": 35,
+      "quote": "\"All of that's going to take a while, so we're not going to really have room on the schedule for any work today."
+    },
+    {
+      "word": "entirely",
+      "pos": "adv.",
+      "meaning": "完全地",
+      "note": "",
+      "paragraph": 37,
+      "quote": "He lives entirely in the present moment."
+    },
+    {
+      "word": "knowledge",
+      "pos": "n.",
+      "meaning": "知识；认识",
+      "note": "",
+      "paragraph": 37,
+      "quote": "He has no memory of the past, no knowledge of the future, and he only cares about two things: easy and fun."
+    },
+    {
+      "word": "species",
+      "pos": "n.",
+      "meaning": "物种",
+      "note": "",
+      "paragraph": 40,
+      "quote": "And to the Monkey, humans are just another animal species."
+    },
+    {
+      "word": "propagate",
+      "pos": "v.",
+      "meaning": "繁衍",
+      "note": "",
+      "paragraph": 40,
+      "quote": "You have to keep well-slept, well-fed and propagating into the next generation, which in tribal times might have worked OK."
+    },
+    {
+      "word": "generation",
+      "pos": "n.",
+      "meaning": "一代人",
+      "note": "",
+      "paragraph": 40,
+      "quote": "You have to keep well-slept, well-fed and propagating into the next generation, which in tribal times might have worked OK."
+    },
+    {
+      "word": "tribal",
+      "pos": "adj.",
+      "meaning": "部落时期的",
+      "note": "",
+      "paragraph": 40,
+      "quote": "You have to keep well-slept, well-fed and propagating into the next generation, which in tribal times might have worked OK."
+    },
+    {
+      "word": "civilization",
+      "pos": "n.",
+      "meaning": "文明",
+      "note": "",
+      "paragraph": 40,
+      "quote": "We're in an advanced civilization, and the Monkey does not know what that is."
+    },
+    {
+      "word": "advanced",
+      "pos": "adj.",
+      "meaning": "先进、发达的",
+      "note": "",
+      "paragraph": 40,
+      "quote": "We're in an advanced civilization, and the Monkey does not know what that is."
+    },
+    {
+      "word": "ability",
+      "pos": "n.",
+      "meaning": "能力",
+      "note": "",
+      "paragraph": 40,
+      "quote": "Which is why we have another guy in our brain, the Rational Decision-Maker, who gives us the ability to do things no other animal can do."
+    },
+    {
+      "word": "visualize",
+      "pos": "v.",
+      "meaning": "在脑海中想象",
+      "note": "",
+      "paragraph": 40,
+      "quote": "We can visualize the future."
+    },
+    {
+      "word": "leisure",
+      "pos": "n.",
+      "meaning": "休闲",
+      "note": "",
+      "paragraph": 40,
+      "quote": "Now, sometimes it makes sense to be doing things that are easy and fun, like when you're having dinner or going to bed or enjoying well-earned leisure time."
+    },
+    {
+      "word": "well-earned",
+      "pos": "adj.",
+      "meaning": "通过付出应得的",
+      "note": "",
+      "paragraph": 40,
+      "quote": "Now, sometimes it makes sense to be doing things that are easy and fun, like when you're having dinner or going to bed or enjoying well-earned leisure time."
+    },
+    {
+      "word": "overlap",
+      "pos": "n.",
+      "meaning": "重叠；两方意见一致之处",
+      "note": "",
+      "paragraph": 40,
+      "quote": "That's why there's an overlap."
+    },
+    {
+      "word": "pleasant",
+      "pos": "adj.",
+      "meaning": "令人愉快的",
+      "note": "",
+      "paragraph": 40,
+      "quote": "But other times, it makes much more sense to be doing things that are harder and less pleasant, for the sake of the big picture."
+    },
+    {
+      "word": "conflict",
+      "pos": "n.",
+      "meaning": "冲突",
+      "note": "",
+      "paragraph": 40,
+      "quote": "And that's when we have a conflict."
+    },
+    {
+      "word": "activity",
+      "pos": "n.",
+      "meaning": "活动",
+      "note": "",
+      "paragraph": 42,
+      "quote": "It's where leisure activities happen at times when leisure activities are not supposed to be happening."
+    },
+    {
+      "word": "unearned",
+      "pos": "adj.",
+      "meaning": "未经努力得到的",
+      "note": "",
+      "paragraph": 42,
+      "quote": "The fun you have in the Dark Playground isn't actually fun, because it's completely unearned, and the air is filled with guilt, dread, anxiety, self-hatred -- all of those good procrastinator feelings."
+    },
+    {
+      "word": "guilt",
+      "pos": "n.",
+      "meaning": "内疚",
+      "note": "",
+      "paragraph": 42,
+      "quote": "The fun you have in the Dark Playground isn't actually fun, because it's completely unearned, and the air is filled with guilt, dread, anxiety, self-hatred -- all of those good procrastinator feelings."
+    },
+    {
+      "word": "dread",
+      "pos": "n.",
+      "meaning": "恐惧；担忧",
+      "note": "",
+      "paragraph": 42,
+      "quote": "The fun you have in the Dark Playground isn't actually fun, because it's completely unearned, and the air is filled with guilt, dread, anxiety, self-hatred -- all of those good procrastinator feelings."
+    },
+    {
+      "word": "anxiety",
+      "pos": "n.",
+      "meaning": "焦虑",
+      "note": "",
+      "paragraph": 42,
+      "quote": "The fun you have in the Dark Playground isn't actually fun, because it's completely unearned, and the air is filled with guilt, dread, anxiety, self-hatred -- all of those good procrastinator feelings."
+    },
+    {
+      "word": "self-hatred",
+      "pos": "n.",
+      "meaning": "自我厌恶",
+      "note": "",
+      "paragraph": 42,
+      "quote": "The fun you have in the Dark Playground isn't actually fun, because it's completely unearned, and the air is filled with guilt, dread, anxiety, self-hatred -- all of those good procrastinator feelings."
+    },
+    {
+      "word": "guardian",
+      "pos": "n.",
+      "meaning": "守护者",
+      "note": "",
+      "paragraph": 43,
+      "quote": "Well, turns out the procrastinator has a guardian angel, someone who's always looking down on him and watching over him in his darkest moments -- someone called the Panic Monster."
+    },
+    {
+      "word": "panic",
+      "pos": "n.",
+      "meaning": "惊慌",
+      "note": "",
+      "paragraph": 43,
+      "quote": "Well, turns out the procrastinator has a guardian angel, someone who's always looking down on him and watching over him in his darkest moments -- someone called the Panic Monster."
+    },
+    {
+      "word": "dormant",
+      "pos": "adj.",
+      "meaning": "休眠的；暂不活动的",
+      "note": "",
+      "paragraph": 45,
+      "quote": "Now, the Panic Monster is dormant most of the time, but he suddenly wakes up anytime a deadline gets too close or there's danger of public embarrassment, a career disaster or some other scary consequence."
+    },
+    {
+      "word": "embarrassment",
+      "pos": "n.",
+      "meaning": "难堪；出丑",
+      "note": "",
+      "paragraph": 45,
+      "quote": "Now, the Panic Monster is dormant most of the time, but he suddenly wakes up anytime a deadline gets too close or there's danger of public embarrassment, a career disaster or some other scary consequence."
+    },
+    {
+      "word": "disaster",
+      "pos": "n.",
+      "meaning": "灾难；严重失败",
+      "note": "",
+      "paragraph": 45,
+      "quote": "Now, the Panic Monster is dormant most of the time, but he suddenly wakes up anytime a deadline gets too close or there's danger of public embarrassment, a career disaster or some other scary consequence."
+    },
+    {
+      "word": "consequence",
+      "pos": "n.",
+      "meaning": "后果",
+      "note": "",
+      "paragraph": 45,
+      "quote": "Now, the Panic Monster is dormant most of the time, but he suddenly wakes up anytime a deadline gets too close or there's danger of public embarrassment, a career disaster or some other scary consequence."
+    },
+    {
+      "word": "terrified",
+      "pos": "adj.",
+      "meaning": "极其害怕的",
+      "note": "",
+      "paragraph": 45,
+      "quote": "And importantly, he's the only thing the Monkey is terrified of."
+    },
+    {
+      "word": "relevant",
+      "pos": "adj.",
+      "meaning": "与自己切身相关的",
+      "note": "",
+      "paragraph": 45,
+      "quote": "Now, he became very relevant in my life pretty recently, because the people of TED reached out to me about six months ago and invited me to do a TED Talk."
+    },
+    {
+      "word": "accept",
+      "pos": "v.",
+      "meaning": "答应；接受邀请",
+      "note": "",
+      "paragraph": 49,
+      "quote": "He was saying, \"Are we clear on what we just accepted?"
+    },
+    {
+      "word": "scroll",
+      "pos": "v.",
+      "meaning": "滚动页面",
+      "note": "",
+      "paragraph": 49,
+      "quote": "We need to sit down and work on this right now.\" And the Monkey said, \"Totally agree, but let's just open Google Earth and zoom in to the bottom of India, like 200 feet above the ground, and scroll up for two and a half hours til we get to the top of the country, so we can get a better feel for India.\""
+    },
+    {
+      "word": "release",
+      "pos": "v.",
+      "meaning": "公布（演讲者名单）",
+      "note": "",
+      "paragraph": 53,
+      "quote": "As six months turned into four and then two and then one, the people of TED decided to release the speakers."
+    },
+    {
+      "word": "stare",
+      "pos": "v.",
+      "meaning": "盯着看",
+      "note": "",
+      "paragraph": 53,
+      "quote": "And I opened up the website, and there was my face staring right back at me."
+    },
+    {
+      "word": "mayhem",
+      "pos": "n.",
+      "meaning": "混乱",
+      "note": "",
+      "paragraph": 55,
+      "quote": "So the Panic Monster starts losing his mind, and a few seconds later, the whole system's in mayhem."
+    },
+    {
+      "word": "insane",
+      "pos": "adj.",
+      "meaning": "疯狂的；不可思议的",
+      "note": "",
+      "paragraph": 58,
+      "quote": "Now, the Panic Monster explains all kinds of pretty insane procrastinator behavior, like how someone like me could spend two weeks unable to start the opening sentence of a paper, and then miraculously find the unbelievable work ethic to stay up all night and write eight pages."
+    },
+    {
+      "word": "miraculously",
+      "pos": "adv.",
+      "meaning": "奇迹般地",
+      "note": "",
+      "paragraph": 58,
+      "quote": "Now, the Panic Monster explains all kinds of pretty insane procrastinator behavior, like how someone like me could spend two weeks unable to start the opening sentence of a paper, and then miraculously find the unbelievable work ethic to stay up all night and write eight pages."
+    },
+    {
+      "word": "ethic",
+      "pos": "n.",
+      "meaning": "行为准则（work ethic工作态度）",
+      "note": "",
+      "paragraph": 58,
+      "quote": "Now, the Panic Monster explains all kinds of pretty insane procrastinator behavior, like how someone like me could spend two weeks unable to start the opening sentence of a paper, and then miraculously find the unbelievable work ethic to stay up all night and write eight pages."
+    },
+    {
+      "word": "character",
+      "pos": "n.",
+      "meaning": "角色",
+      "note": "",
+      "paragraph": 58,
+      "quote": "And this entire situation, with the three characters -- this is the procrastinator's system."
+    },
+    {
+      "word": "literally",
+      "pos": "adv.",
+      "meaning": "确实；这里强调数千封邮件并非夸张",
+      "note": "",
+      "paragraph": 59,
+      "quote": "Literally thousands of emails came in, from all different kinds of people from all over the world, doing all different kinds of things."
+    },
+    {
+      "word": "strike",
+      "pos": "v.",
+      "meaning": "使印象深刻；使注意到",
+      "note": "",
+      "paragraph": 61,
+      "quote": "And they were all writing, saying the same thing: \"I have this problem too.\" But what struck me was the contrast between the light tone of the post and the heaviness of these emails."
+    },
+    {
+      "word": "contrast",
+      "pos": "n.",
+      "meaning": "反差",
+      "note": "",
+      "paragraph": 61,
+      "quote": "And they were all writing, saying the same thing: \"I have this problem too.\" But what struck me was the contrast between the light tone of the post and the heaviness of these emails."
+    },
+    {
+      "word": "tone",
+      "pos": "n.",
+      "meaning": "文章的语气",
+      "note": "",
+      "paragraph": 61,
+      "quote": "And they were all writing, saying the same thing: \"I have this problem too.\" But what struck me was the contrast between the light tone of the post and the heaviness of these emails."
+    },
+    {
+      "word": "light",
+      "pos": "adj.",
+      "meaning": "轻松的，不沉重的",
+      "note": "",
+      "paragraph": 61,
+      "quote": "And they were all writing, saying the same thing: \"I have this problem too.\" But what struck me was the contrast between the light tone of the post and the heaviness of these emails."
+    },
+    {
+      "word": "heaviness",
+      "pos": "n.",
+      "meaning": "沉重感",
+      "note": "",
+      "paragraph": 61,
+      "quote": "And they were all writing, saying the same thing: \"I have this problem too.\" But what struck me was the contrast between the light tone of the post and the heaviness of these emails."
+    },
+    {
+      "word": "intense",
+      "pos": "adj.",
+      "meaning": "强烈的",
+      "note": "",
+      "paragraph": 61,
+      "quote": "These people were writing with intense frustration about what procrastination had done to their lives, about what this Monkey had done to them."
+    },
+    {
+      "word": "frustration",
+      "pos": "n.",
+      "meaning": "挫败感",
+      "note": "",
+      "paragraph": 61,
+      "quote": "These people were writing with intense frustration about what procrastination had done to their lives, about what this Monkey had done to them."
+    },
+    {
+      "word": "contain",
+      "pos": "v.",
+      "meaning": "把影响限制住",
+      "note": "",
+      "paragraph": 62,
+      "quote": "And when there's deadlines, the effects of procrastination are contained to the short term because the Panic Monster gets involved."
+    },
+    {
+      "word": "involve",
+      "pos": "v.",
+      "meaning": "涉及；包含",
+      "note": "",
+      "paragraph": 62,
+      "quote": "And when there's deadlines, the effects of procrastination are contained to the short term because the Panic Monster gets involved."
+    },
+    {
+      "word": "self-starter",
+      "pos": "n.",
+      "meaning": "能自主发起行动的人",
+      "note": "",
+      "paragraph": 62,
+      "quote": "So if you wanted a career where you're a self-starter -- something in the arts, something entrepreneurial -- there's no deadlines on those things at first, because nothing's happening, not until you've gone out and done the hard work to get momentum, get things going."
+    },
+    {
+      "word": "entrepreneurial",
+      "pos": "adj.",
+      "meaning": "创业性质的",
+      "note": "",
+      "paragraph": 62,
+      "quote": "So if you wanted a career where you're a self-starter -- something in the arts, something entrepreneurial -- there's no deadlines on those things at first, because nothing's happening, not until you've gone out and done the hard work to get momentum, get things going."
+    },
+    {
+      "word": "momentum",
+      "pos": "n.",
+      "meaning": "进展势头",
+      "note": "",
+      "paragraph": 62,
+      "quote": "So if you wanted a career where you're a self-starter -- something in the arts, something entrepreneurial -- there's no deadlines on those things at first, because nothing's happening, not until you've gone out and done the hard work to get momentum, get things going."
+    },
+    {
+      "word": "career",
+      "pos": "n.",
+      "meaning": "职业生涯",
+      "note": "",
+      "paragraph": 62,
+      "quote": "So if you wanted a career where you're a self-starter -- something in the arts, something entrepreneurial -- there's no deadlines on those things at first, because nothing's happening, not until you've gone out and done the hard work to get momentum, get things going."
+    },
+    {
+      "word": "relationship",
+      "pos": "n.",
+      "meaning": "亲密关系",
+      "note": "",
+      "paragraph": 62,
+      "quote": "There's also all kinds of important things outside of your career that don't involve any deadlines, like seeing your family or exercising and taking care of your health, working on your relationship or getting out of a relationship that isn't working."
+    },
+    {
+      "word": "mechanism",
+      "pos": "n.",
+      "meaning": "运作机制",
+      "note": "",
+      "paragraph": 63,
+      "quote": "Now if the procrastinator's only mechanism of doing these hard things is the Panic Monster, that's a problem, because in all of these non-deadline situations, the Panic Monster doesn't show up."
+    },
+    {
+      "word": "extend",
+      "pos": "v.",
+      "meaning": "延伸",
+      "note": "",
+      "paragraph": 63,
+      "quote": "He has nothing to wake up for, so the effects of procrastination, they're not contained; they just extend outward forever."
+    },
+    {
+      "word": "visible",
+      "pos": "adj.",
+      "meaning": "可见的；容易被注意到的",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And it's this long-term kind of procrastination that's much less visible and much less talked about than the funnier, short-term deadline-based kind."
+    },
+    {
+      "word": "privately",
+      "pos": "adv.",
+      "meaning": "私下里；独自承受",
+      "note": "",
+      "paragraph": 63,
+      "quote": "It's usually suffered quietly and privately."
+    },
+    {
+      "word": "suffer",
+      "pos": "v.",
+      "meaning": "承受痛苦",
+      "note": "",
+      "paragraph": 63,
+      "quote": "It's usually suffered quietly and privately."
+    },
+    {
+      "word": "regret",
+      "pos": "n.",
+      "meaning": "遗憾",
+      "note": "",
+      "paragraph": 63,
+      "quote": "And it can be the source of a huge amount of long-term unhappiness, and regrets."
+    },
+    {
+      "word": "cram",
+      "pos": "v.",
+      "meaning": "临时赶工；临时抱佛脚",
+      "note": "",
+      "paragraph": 63,
+      "quote": "It's not that they're cramming for some project."
+    },
+    {
+      "word": "spectator",
+      "pos": "n.",
+      "meaning": "旁观者",
+      "note": "",
+      "paragraph": 63,
+      "quote": "It's that long-term procrastination has made them feel like a spectator, at times, in their own lives."
+    },
+    {
+      "word": "chase",
+      "pos": "v.",
+      "meaning": "追求",
+      "note": "",
+      "paragraph": 63,
+      "quote": "The frustration is not that they couldn't achieve their dreams; it's that they weren't even able to start chasing them."
+    },
+    {
+      "word": "achieve",
+      "pos": "v.",
+      "meaning": "实现",
+      "note": "",
+      "paragraph": 63,
+      "quote": "The frustration is not that they couldn't achieve their dreams; it's that they weren't even able to start chasing them."
+    },
+    {
+      "word": "epiphany",
+      "pos": "n.",
+      "meaning": "突然的顿悟",
+      "note": "",
+      "paragraph": 64,
+      "quote": "So I read these emails and I had a little bit of an epiphany -- that I don't think non-procrastinators exist."
+    },
+    {
+      "word": "mess",
+      "pos": "n.",
+      "meaning": "混乱；糟糕状态",
+      "note": "",
+      "paragraph": 64,
+      "quote": "Now, you might not all be a mess, like some of us,"
+    },
+    {
+      "word": "sneaky",
+      "pos": "adj.",
+      "meaning": "偷偷摸摸、难以察觉的",
+      "note": "",
+      "paragraph": 66,
+      "quote": "and some of you may have a healthy relationship with deadlines, but remember: the Monkey's sneakiest trick is when the deadlines aren't there."
+    },
+    {
+      "word": "trick",
+      "pos": "n.",
+      "meaning": "伎俩",
+      "note": "",
+      "paragraph": 66,
+      "quote": "and some of you may have a healthy relationship with deadlines, but remember: the Monkey's sneakiest trick is when the deadlines aren't there."
+    },
+    {
+      "word": "calendar",
+      "pos": "n.",
+      "meaning": "日历",
+      "note": "",
+      "paragraph": 67,
+      "quote": "I call this a Life Calendar."
+    },
+    {
+      "word": "procrastinate",
+      "pos": "v.",
+      "meaning": "拖着不做",
+      "note": "",
+      "paragraph": 67,
+      "quote": "We need to think about what we're really procrastinating on, because everyone is procrastinating on something in life."
+    },
+    {
+      "word": "aware",
+      "pos": "adj.",
+      "meaning": "意识到的",
+      "note": "",
+      "paragraph": 67,
+      "quote": "We need to stay aware of the Instant Gratification Monkey."
+    }
+  ],
+  "duplicates_skipped": [],
+  "pending": [
+    {
+      "paragraph": 40,
+      "text": "well-slept",
+      "reason": "讲者的组合形式，未作为标准词形收录；引用保留，不改写。"
+    }
+  ]
+}

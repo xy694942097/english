@@ -1,0 +1,1669 @@
+{
+  "source": {
+    "path": "materials/corpus/ted/english/011-celeste_headlee_10_ways_to_have_a_better_conversation.txt",
+    "sha256": "d748897a20977c9c27aeaef79eb105708e6bdf48b9f02ec059a4493ac321a9e9",
+    "title": "10 ways to have a better conversation",
+    "title_zh": "让对话更好的十种方法",
+    "speaker": "Celeste Headlee",
+    "year": 2015,
+    "official_url": "https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation",
+    "caption_source": "https://www.ted.com/talks/subtitles/id/2435/lang/en",
+    "ted_id": "2435",
+    "duration": "11:20",
+    "language": "English"
+  },
+  "paragraphs_read": 44,
+  "read_ranges": [
+    [
+      1,
+      44
+    ]
+  ],
+  "second_pass": {
+    "completed": true,
+    "read_ranges": [
+      [
+        1,
+        44
+      ]
+    ],
+    "checks": [
+      "外层表达动作与骨架",
+      "内部搭配和短语动词",
+      "短回应与口语小句",
+      "普通实词与熟词新义",
+      "未选段落与长空白区回看"
+    ],
+    "note": "两遍通读含笑声与掌声段；仅明显功能词与专名不单列；词义候选不等于用户不认识或已掌握。 第二遍新增项目保留在对应轨道；同形新义／新词性另列。讲者心理学与社会观点仅作原文语言语境，不代表全部经过科学独立核实。",
+    "added_chunks": 10,
+    "added_vocabulary": 36
+  },
+  "chunks": [
+    {
+      "paragraph": 1,
+      "quote": "All right, I want to see a show of hands: how many of you have unfriended someone on Facebook because they said something offensive about politics or religion, childcare, food?",
+      "meaning": "举手示意；用举手来调查意见",
+      "note": "",
+      "chunk": "a show of hands",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "You know, it used to be that in order to have a polite conversation, we just had to follow the advice of Henry Higgins in \"My Fair Lady\": Stick to the weather and your health.",
+      "meaning": "过去的情况是……",
+      "note": "",
+      "chunk": "it used to be that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "You know, it used to be that in order to have a polite conversation, we just had to follow the advice of Henry Higgins in \"My Fair Lady\": Stick to the weather and your health.",
+      "meaning": "只谈／坚持限定在某个话题",
+      "note": "",
+      "chunk": "stick to sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 5,
+      "quote": "You know, it used to be that in order to have a polite conversation, we just had to follow the advice of Henry Higgins in \"My Fair Lady\": Stick to the weather and your health.",
+      "meaning": "听从某人的建议",
+      "note": "",
+      "chunk": "follow sb.'s advice",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "So this world that we live in, this world in which every conversation has the potential to devolve into an argument, where our politicians can't speak to one another and where even the most trivial of issues have someone fighting both passionately for it and against it, it's not normal.",
+      "meaning": "有可能发展成／做到……",
+      "note": "",
+      "chunk": "have the potential to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "So this world that we live in, this world in which every conversation has the potential to devolve into an argument, where our politicians can't speak to one another and where even the most trivial of issues have someone fighting both passionately for it and against it, it's not normal.",
+      "meaning": "演变成争吵",
+      "note": "devolve 带变糟意味。",
+      "chunk": "devolve into an argument",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "We're less likely to compromise, which means we're not listening to each other.",
+      "meaning": "做某事的可能性较小",
+      "note": "",
+      "chunk": "be less likely to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "And we make decisions about where to live, who to marry and even who our friends are going to be, based on what we already believe.",
+      "meaning": "就某事作决定",
+      "note": "",
+      "chunk": "make decisions about sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "A conversation requires a balance between talking and listening, and somewhere along the way, we lost that balance.",
+      "meaning": "A和B之间的平衡",
+      "note": "",
+      "chunk": "a balance between A and B",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "A conversation requires a balance between talking and listening, and somewhere along the way, we lost that balance.",
+      "meaning": "在过程中的某个时候；不知从何时起",
+      "note": "",
+      "chunk": "somewhere along the way",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "So this world that we live in, this world in which every conversation has the potential to devolve into an argument, where our politicians can't speak to one another and where even the most trivial of issues have someone fighting both passionately for it and against it, it's not normal.",
+      "meaning": "为某事争取／反对某事",
+      "note": "",
+      "chunk": "fight for / against sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 7,
+      "quote": "And we make decisions about where to live, who to marry and even who our friends are going to be, based on what we already believe.",
+      "meaning": "以某事为根据",
+      "note": "",
+      "chunk": "be based on sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 8,
+      "quote": "Now, part of that is due to technology.",
+      "meaning": "是由于……",
+      "note": "",
+      "chunk": "be due to sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 8,
+      "quote": "And many of them, almost most of them, are more likely to text their friends than they are to talk to them face to face.",
+      "meaning": "比起B更可能做A",
+      "note": "",
+      "chunk": "be more likely to do A than do B",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 8,
+      "quote": "And many of them, almost most of them, are more likely to text their friends than they are to talk to them face to face.",
+      "meaning": "面对面",
+      "note": "",
+      "chunk": "face to face",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "\"I came to realize that conversational competence might be the single most overlooked skill we fail to teach.",
+      "meaning": "逐渐／后来意识到……",
+      "note": "",
+      "chunk": "come to realize that 从句",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "Kids spend hours each day engaging with ideas and each other through screens, but rarely do they have an opportunity to hone their interpersonal communications skills.",
+      "meaning": "接触并投入思考／互动",
+      "note": "",
+      "chunk": "engage with sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "Kids spend hours each day engaging with ideas and each other through screens, but rarely do they have an opportunity to hone their interpersonal communications skills.",
+      "meaning": "有机会做某事",
+      "note": "",
+      "chunk": "have an opportunity to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "Kids spend hours each day engaging with ideas and each other through screens, but rarely do they have an opportunity to hone their interpersonal communications skills.",
+      "meaning": "磨炼技能",
+      "note": "",
+      "chunk": "hone one's skills",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 10,
+      "quote": "It might sound like a funny question, but we have to ask ourselves: Is there any 21st-century skill more important than being able to sustain coherent, confident conversation?\"",
+      "meaning": "听起来可能……，但……",
+      "note": "",
+      "chunk": "It might sound like ..., but ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "Now, I make my living talking to people: Nobel Prize winners, truck drivers, billionaires, kindergarten teachers, heads of state, plumbers.",
+      "meaning": "靠做某事谋生",
+      "note": "",
+      "chunk": "make one's living doing sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "I talk to some people that I disagree with deeply on a personal level.",
+      "meaning": "在个人层面深深不赞同某人的观点",
+      "note": "此处不是说二人私人有过节。",
+      "chunk": "disagree with sb. on a personal level",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 11,
+      "quote": "So I'd like to spend the next 10 minutes or so teaching you how to talk and how to listen.",
+      "meaning": "接下来的大约……",
+      "note": "",
+      "chunk": "the next ... or so",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "Many of you have already heard a lot of advice on this, things like look the person in the eye, think of interesting topics to discuss in advance, look, nod and smile to show that you're paying attention, repeat back what you just heard or summarize it.",
+      "meaning": "直视对方的眼睛",
+      "note": "",
+      "chunk": "look sb. in the eye",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "Many of you have already heard a lot of advice on this, things like look the person in the eye, think of interesting topics to discuss in advance, look, nod and smile to show that you're paying attention, repeat back what you just heard or summarize it.",
+      "meaning": "事先",
+      "note": "",
+      "chunk": "in advance",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "Many of you have already heard a lot of advice on this, things like look the person in the eye, think of interesting topics to discuss in advance, look, nod and smile to show that you're paying attention, repeat back what you just heard or summarize it.",
+      "meaning": "认真注意／专心听",
+      "note": "",
+      "chunk": "pay attention",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 12,
+      "quote": "Many of you have already heard a lot of advice on this, things like look the person in the eye, think of interesting topics to discuss in advance, look, nod and smile to show that you're paying attention, repeat back what you just heard or summarize it.",
+      "meaning": "把听到的内容复述回去",
+      "note": "",
+      "chunk": "repeat back what ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 14,
+      "quote": "There is no reason to learn how to show you're paying attention if you are in fact paying attention.",
+      "meaning": "如果……，就没有理由／必要做……",
+      "note": "",
+      "chunk": "There is no reason to do sth. if ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 17,
+      "quote": "Learn to have a conversation without wasting your time, without getting bored, and, please God, without offending anybody.",
+      "meaning": "感到无聊",
+      "note": "原文getting bored。",
+      "chunk": "get bored",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 18,
+      "quote": "We know what it's like.",
+      "meaning": "知道那种体验是什么样",
+      "note": "",
+      "chunk": "know what it's like",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 18,
+      "quote": "The kind of conversation where you walk away feeling engaged and inspired, or where you feel like you've made a real connection or you've been perfectly understood.",
+      "meaning": "结束离开时感到……",
+      "note": "",
+      "chunk": "walk away feeling ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 18,
+      "quote": "The kind of conversation where you walk away feeling engaged and inspired, or where you feel like you've made a real connection or you've been perfectly understood.",
+      "meaning": "真正建立联系／产生共鸣",
+      "note": "",
+      "chunk": "make a real connection",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 18,
+      "quote": "There is no reason why most of your interactions can't be like that.",
+      "meaning": "没有理由不能……；理应可以……",
+      "note": "",
+      "chunk": "There is no reason why ... can't ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 19,
+      "quote": "I'm going to walk you through all of them, but honestly, if you just choose one of them and master it, you'll already enjoy better conversations.",
+      "meaning": "带某人逐步了解／讲解某事",
+      "note": "",
+      "chunk": "walk sb. through sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "And I don't mean just set down your cell phone or your tablet or your car keys or whatever is in your hand.",
+      "meaning": "把手里的东西放下",
+      "note": "",
+      "chunk": "set down sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "I mean, be present.",
+      "meaning": "把注意力放在当下，在场且投入",
+      "note": "",
+      "chunk": "be present",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "If you want to get out of the conversation, get out of the conversation, but don't be half in it and half out of it.",
+      "meaning": "退出／结束当前对话",
+      "note": "",
+      "chunk": "get out of the conversation",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "If you want to get out of the conversation, get out of the conversation, but don't be half in it and half out of it.",
+      "meaning": "人在这里心却游离；只投入一半",
+      "note": "it指当前参与的活动。",
+      "chunk": "be half in it and half out of it",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 20,
+      "quote": "And I don't mean just set down your cell phone or your tablet or your car keys or whatever is in your hand. I mean, be present.",
+      "meaning": "我不是指……，我是说……",
+      "note": "",
+      "chunk": "I don't mean ...; I mean ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 21,
+      "quote": "If you want to state your opinion without any opportunity for response or argument or pushback or growth, write a blog.",
+      "meaning": "表明自己的观点",
+      "note": "",
+      "chunk": "state one's opinion",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 23,
+      "quote": "And sometimes that means setting aside your personal opinion.",
+      "meaning": "暂时放下／搁置某事",
+      "note": "",
+      "chunk": "set aside sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 23,
+      "quote": "He said that sensing this acceptance, the speaker will become less and less vulnerable and more and more likely to open up the inner recesses of his or her mind to the listener.",
+      "meaning": "越来越不……／越来越……",
+      "note": "",
+      "chunk": "become less and less ... / more and more ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 23,
+      "quote": "He said that sensing this acceptance, the speaker will become less and less vulnerable and more and more likely to open up the inner recesses of his or her mind to the listener.",
+      "meaning": "向某人敞开／展示内心某部分",
+      "note": "本句为open up the inner recesses of his or her mind to the listener；不是把普通主语包装成chunk。",
+      "chunk": "open up sth. to sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 23,
+      "quote": "Now, there's a really good reason why I don't allow pundits on my show: Because they're really boring.",
+      "meaning": "……是有充分理由的",
+      "note": "",
+      "chunk": "there's a good reason why ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 24,
+      "quote": "I put it this way: Everybody is an expert in something.",
+      "meaning": "这样说／换这种方式表述",
+      "note": "",
+      "chunk": "put it this way",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 24,
+      "quote": "I put it this way: Everybody is an expert in something.",
+      "meaning": "是某方面的专家",
+      "note": "",
+      "chunk": "be an expert in sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 25,
+      "quote": "Number three: Use open-ended questions.",
+      "meaning": "开放式问题；允许展开回答",
+      "note": "",
+      "chunk": "open-ended questions",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 25,
+      "quote": "In this case, take a cue from journalists.",
+      "meaning": "从某人那里得到启发／借鉴做法",
+      "note": "",
+      "chunk": "take a cue from sb.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 25,
+      "quote": "Try asking them things like, \"What was that like?\"",
+      "meaning": "那是怎样的体验？",
+      "note": "",
+      "chunk": "What was that like?",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 25,
+      "quote": "\"How did that feel?\"",
+      "meaning": "当时是什么感受？",
+      "note": "",
+      "chunk": "How did that feel?",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 26,
+      "quote": "Number four: Go with the flow.",
+      "meaning": "顺其自然，跟随对话走向",
+      "note": "",
+      "chunk": "go with the flow",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 26,
+      "quote": "That means thoughts will come into your mind and you need to let them go out of your mind.",
+      "meaning": "浮现在脑海中",
+      "note": "",
+      "chunk": "come into one's mind",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 26,
+      "quote": "We've heard interviews often in which a guest is talking for several minutes and then the host comes back in and asks a question which seems like it comes out of nowhere, or it's already been answered.",
+      "meaning": "突如其来，显得毫无来由",
+      "note": "",
+      "chunk": "come out of nowhere",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 26,
+      "quote": "That means the host probably stopped listening two minutes ago because he thought of this really clever question, and he was just bound and determined to say that.",
+      "meaning": "铁了心要做某事",
+      "note": "",
+      "chunk": "be bound and determined to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 28,
+      "quote": "You need to let them come and let them go.",
+      "meaning": "让念头出现，也让它过去",
+      "note": "",
+      "chunk": "let sth. come and let sth. go",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 29,
+      "quote": "Now, people on the radio, especially on NPR, are much more aware that they're going on the record, and so they're more careful about what they claim to be an expert in and what they claim to know for sure.",
+      "meaning": "发表可被公开引用／正式记录的言论",
+      "note": "",
+      "chunk": "go on the record",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 29,
+      "quote": "Now, people on the radio, especially on NPR, are much more aware that they're going on the record, and so they're more careful about what they claim to be an expert in and what they claim to know for sure.",
+      "meaning": "确定知道",
+      "note": "",
+      "chunk": "know for sure",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 29,
+      "quote": "Err on the side of caution.",
+      "meaning": "拿不准时宁可谨慎一些",
+      "note": "",
+      "chunk": "err on the side of caution",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 29,
+      "quote": "Talk should not be cheap.",
+      "meaning": "话不应随便说；发言要负责任",
+      "note": "对Talk is cheap的改写；非字面价格。",
+      "chunk": "Talk should not be cheap.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 30,
+      "quote": "Number six: Don't equate your experience with theirs.",
+      "meaning": "把A与B等同起来",
+      "note": "",
+      "chunk": "equate A with B",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 30,
+      "quote": "And, more importantly, it is not about you.",
+      "meaning": "这件事的重点不是你／别把焦点转到自己",
+      "note": "",
+      "chunk": "It is not about you.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 30,
+      "quote": "Somebody asked Stephen Hawking once what his IQ was, and he said, \"I have no idea.",
+      "meaning": "我完全不知道",
+      "note": "",
+      "chunk": "I have no idea.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 30,
+      "quote": "People who brag about their IQs are losers.\"",
+      "meaning": "吹嘘某事",
+      "note": "",
+      "chunk": "brag about sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 33,
+      "quote": "Especially in work conversations or in conversations with our kids, we have a point to make, so we just keep rephrasing it over and over.",
+      "meaning": "有某个观点要表达",
+      "note": "",
+      "chunk": "have a point to make",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 33,
+      "quote": "Especially in work conversations or in conversations with our kids, we have a point to make, so we just keep rephrasing it over and over.",
+      "meaning": "一遍又一遍",
+      "note": "",
+      "chunk": "over and over",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 33,
+      "quote": "Number seven: Try not to repeat yourself.",
+      "meaning": "反复说同样的话",
+      "note": "",
+      "chunk": "repeat oneself",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 33,
+      "quote": "It's condescending, and it's really boring, and we tend to do it a lot.",
+      "meaning": "往往会／有做某事的倾向",
+      "note": "",
+      "chunk": "tend to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 34,
+      "quote": "Number eight: Stay out of the weeds.",
+      "meaning": "不要陷入繁杂细节",
+      "note": "此处weeds为细枝末节的比喻。",
+      "chunk": "stay out of the weeds",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 34,
+      "quote": "Frankly, people don't care about the years, the names, the dates, all those details that you're struggling to come up with in your mind.",
+      "meaning": "费劲想出／回想某事",
+      "note": "",
+      "chunk": "struggle to come up with sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 34,
+      "quote": "They care about what you're like, what you have in common.",
+      "meaning": "有共同之处",
+      "note": "",
+      "chunk": "have sth. in common",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 34,
+      "quote": "Leave them out.",
+      "meaning": "省略，不讲某项内容",
+      "note": "",
+      "chunk": "leave sth. out",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 35,
+      "quote": "I cannot tell you how many really important people have said that listening is perhaps the most, the number one most important skill that you could develop.",
+      "meaning": "我真说不尽／数不清有多……",
+      "note": "",
+      "chunk": "I cannot tell you how ...",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 37,
+      "quote": "When I'm talking, I'm in control.",
+      "meaning": "掌控局面",
+      "note": "",
+      "chunk": "be in control",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 37,
+      "quote": "I'm the center of attention.",
+      "meaning": "注意力焦点",
+      "note": "",
+      "chunk": "the center of attention",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 37,
+      "quote": "But there's another reason: We get distracted.",
+      "meaning": "走神／被分散注意力",
+      "note": "",
+      "chunk": "get distracted",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 37,
+      "quote": "And look, I know, it takes effort and energy to actually pay attention to someone, but if you can't do that, you're not in a conversation.",
+      "meaning": "做某事需要努力和精力",
+      "note": "",
+      "chunk": "It takes effort and energy to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 37,
+      "quote": "You're just two people shouting out barely related sentences in the same place.",
+      "meaning": "大声说出／喊出某事",
+      "note": "",
+      "chunk": "shout out sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 39,
+      "quote": "He said, \"Most of us don't listen with the intent to understand.",
+      "meaning": "带着做某事的意图",
+      "note": "",
+      "chunk": "with the intent to do sth.",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 41,
+      "quote": "People would come over to talk to my grandparents, and after they would leave, my mother would come over to us, and she’d say, “Do you know who that was?",
+      "meaning": "过来／来访",
+      "note": "",
+      "chunk": "come over",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 41,
+      "quote": "I keep my mouth shut as often as I possibly can.",
+      "meaning": "闭嘴，暂时不说话",
+      "note": "随意，可能生硬；此处对自己说。",
+      "chunk": "keep one's mouth shut",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 41,
+      "quote": "I keep my mind open.",
+      "meaning": "保持开放心态",
+      "note": "",
+      "chunk": "keep one's mind open",
+      "register": "演讲；可迁移到日常交流或讨论"
+    },
+    {
+      "paragraph": 41,
+      "quote": "And I’m always prepared to be amazed, and I'm never disappointed.",
+      "meaning": "准备好发现令人惊喜的事",
+      "note": "",
+      "chunk": "be prepared to be amazed",
+      "register": "演讲；可迁移到日常交流或讨论"
+    }
+  ],
+  "vocabulary": [
+    {
+      "paragraph": 1,
+      "quote": "All right, I want to see a show of hands: how many of you have unfriended someone on Facebook because they said something offensive about politics or religion, childcare, food?",
+      "meaning": "在社交平台取消好友关系",
+      "note": "",
+      "word": "unfriend",
+      "pos": "v."
+    },
+    {
+      "paragraph": 1,
+      "quote": "All right, I want to see a show of hands: how many of you have unfriended someone on Facebook because they said something offensive about politics or religion, childcare, food?",
+      "meaning": "冒犯人的，令人不快的",
+      "note": "",
+      "word": "offensive",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 1,
+      "quote": "All right, I want to see a show of hands: how many of you have unfriended someone on Facebook because they said something offensive about politics or religion, childcare, food?",
+      "meaning": "儿童照护／育儿",
+      "note": "",
+      "word": "childcare",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "All right, I want to see a show of hands: how many of you have unfriended someone on Facebook because they said something offensive about politics or religion, childcare, food?",
+      "meaning": "政治议题",
+      "note": "",
+      "word": "politics",
+      "pos": "n."
+    },
+    {
+      "paragraph": 1,
+      "quote": "All right, I want to see a show of hands: how many of you have unfriended someone on Facebook because they said something offensive about politics or religion, childcare, food?",
+      "meaning": "宗教",
+      "note": "",
+      "word": "religion",
+      "pos": "n."
+    },
+    {
+      "paragraph": 3,
+      "quote": "And how many of you know at least one person that you avoid because you just don't want to talk to them?",
+      "meaning": "刻意避开",
+      "note": "",
+      "word": "avoid",
+      "pos": "v."
+    },
+    {
+      "paragraph": 5,
+      "quote": "You know, it used to be that in order to have a polite conversation, we just had to follow the advice of Henry Higgins in \"My Fair Lady\": Stick to the weather and your health.",
+      "meaning": "礼貌的",
+      "note": "",
+      "word": "polite",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 5,
+      "quote": "But these days, with climate change and anti-vaxxing, those subjects --",
+      "meaning": "反对接种疫苗的主张或行为",
+      "note": "原文非正式词形，保留；正式表述可用opposition to vaccination。",
+      "word": "anti-vaxxing",
+      "pos": "n."
+    },
+    {
+      "paragraph": 5,
+      "quote": "But these days, with climate change and anti-vaxxing, those subjects --",
+      "meaning": "气候",
+      "note": "",
+      "word": "climate",
+      "pos": "n."
+    },
+    {
+      "paragraph": 7,
+      "quote": "So this world that we live in, this world in which every conversation has the potential to devolve into an argument, where our politicians can't speak to one another and where even the most trivial of issues have someone fighting both passionately for it and against it, it's not normal.",
+      "meaning": "退化；向坏的局面演变",
+      "note": "",
+      "word": "devolve",
+      "pos": "v."
+    },
+    {
+      "paragraph": 7,
+      "quote": "So this world that we live in, this world in which every conversation has the potential to devolve into an argument, where our politicians can't speak to one another and where even the most trivial of issues have someone fighting both passionately for it and against it, it's not normal.",
+      "meaning": "琐碎的，微不足道的",
+      "note": "",
+      "word": "trivial",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 7,
+      "quote": "So this world that we live in, this world in which every conversation has the potential to devolve into an argument, where our politicians can't speak to one another and where even the most trivial of issues have someone fighting both passionately for it and against it, it's not normal.",
+      "meaning": "强烈而热切地",
+      "note": "",
+      "word": "passionately",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 7,
+      "quote": "Pew Research did a study of 10,000 American adults, and they found that at this moment, we are more polarized, we are more divided, than we ever have been in history.",
+      "meaning": "分成对立阵营的；两极分化的",
+      "note": "",
+      "word": "polarized",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 7,
+      "quote": "Pew Research did a study of 10,000 American adults, and they found that at this moment, we are more polarized, we are more divided, than we ever have been in history.",
+      "meaning": "意见分裂的；不团结的",
+      "note": "",
+      "word": "divided",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 7,
+      "quote": "We're less likely to compromise, which means we're not listening to each other.",
+      "meaning": "妥协，折中",
+      "note": "",
+      "word": "compromise",
+      "pos": "v."
+    },
+    {
+      "paragraph": 7,
+      "quote": "A conversation requires a balance between talking and listening, and somewhere along the way, we lost that balance.",
+      "meaning": "两方面的平衡",
+      "note": "",
+      "word": "balance",
+      "pos": "n."
+    },
+    {
+      "paragraph": 7,
+      "quote": "So this world that we live in, this world in which every conversation has the potential to devolve into an argument, where our politicians can't speak to one another and where even the most trivial of issues have someone fighting both passionately for it and against it, it's not normal.",
+      "meaning": "议题／问题",
+      "note": "",
+      "word": "issue",
+      "pos": "n."
+    },
+    {
+      "paragraph": 7,
+      "quote": "A conversation requires a balance between talking and listening, and somewhere along the way, we lost that balance.",
+      "meaning": "需要，要求",
+      "note": "",
+      "word": "require",
+      "pos": "v."
+    },
+    {
+      "paragraph": 8,
+      "quote": "The smartphones that you all either have in your hands or close enough that you could grab them really quickly.",
+      "meaning": "迅速拿起／抓取",
+      "note": "",
+      "word": "grab",
+      "pos": "v."
+    },
+    {
+      "paragraph": 8,
+      "quote": "And many of them, almost most of them, are more likely to text their friends than they are to talk to them face to face.",
+      "meaning": "发短信／文字消息给某人",
+      "note": "",
+      "word": "text",
+      "pos": "v."
+    },
+    {
+      "paragraph": 8,
+      "quote": "There's this great piece in The Atlantic.",
+      "meaning": "一篇文章",
+      "note": "不是碎片义。",
+      "word": "piece",
+      "pos": "n."
+    },
+    {
+      "paragraph": 8,
+      "quote": "He wanted to teach them how to speak on a specific subject without using notes.",
+      "meaning": "话题，讨论的主题",
+      "note": "",
+      "word": "subject",
+      "pos": "n."
+    },
+    {
+      "paragraph": 8,
+      "quote": "He wanted to teach them how to speak on a specific subject without using notes.",
+      "meaning": "具体的，特定的",
+      "note": "",
+      "word": "specific",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 8,
+      "quote": "He wanted to teach them how to speak on a specific subject without using notes.",
+      "meaning": "供发言参考的笔记",
+      "note": "",
+      "word": "note",
+      "pos": "n."
+    },
+    {
+      "paragraph": 10,
+      "quote": "\"I came to realize that conversational competence might be the single most overlooked skill we fail to teach.",
+      "meaning": "与谈话交流有关的",
+      "note": "",
+      "word": "conversational",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "\"I came to realize that conversational competence might be the single most overlooked skill we fail to teach.",
+      "meaning": "胜任能力",
+      "note": "",
+      "word": "competence",
+      "pos": "n."
+    },
+    {
+      "paragraph": 10,
+      "quote": "\"I came to realize that conversational competence might be the single most overlooked skill we fail to teach.",
+      "meaning": "忽视，未重视",
+      "note": "",
+      "word": "overlook",
+      "pos": "v."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Kids spend hours each day engaging with ideas and each other through screens, but rarely do they have an opportunity to hone their interpersonal communications skills.",
+      "meaning": "很少，难得",
+      "note": "",
+      "word": "rarely",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Kids spend hours each day engaging with ideas and each other through screens, but rarely do they have an opportunity to hone their interpersonal communications skills.",
+      "meaning": "磨炼，提升",
+      "note": "",
+      "word": "hone",
+      "pos": "v."
+    },
+    {
+      "paragraph": 10,
+      "quote": "Kids spend hours each day engaging with ideas and each other through screens, but rarely do they have an opportunity to hone their interpersonal communications skills.",
+      "meaning": "人与人之间的",
+      "note": "",
+      "word": "interpersonal",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "It might sound like a funny question, but we have to ask ourselves: Is there any 21st-century skill more important than being able to sustain coherent, confident conversation?\"",
+      "meaning": "维持，使继续下去",
+      "note": "",
+      "word": "sustain",
+      "pos": "v."
+    },
+    {
+      "paragraph": 10,
+      "quote": "It might sound like a funny question, but we have to ask ourselves: Is there any 21st-century skill more important than being able to sustain coherent, confident conversation?\"",
+      "meaning": "连贯而有条理的",
+      "note": "",
+      "word": "coherent",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "It might sound like a funny question, but we have to ask ourselves: Is there any 21st-century skill more important than being able to sustain coherent, confident conversation?\"",
+      "meaning": "奇怪、让人觉得不寻常的",
+      "note": "这里不是逗人笑的意思。",
+      "word": "funny",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 10,
+      "quote": "It might sound like a funny question, but we have to ask ourselves: Is there any 21st-century skill more important than being able to sustain coherent, confident conversation?\"",
+      "meaning": "自信而不慌的",
+      "note": "",
+      "word": "confident",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 11,
+      "quote": "Now, I make my living talking to people: Nobel Prize winners, truck drivers, billionaires, kindergarten teachers, heads of state, plumbers.",
+      "meaning": "水管工",
+      "note": "",
+      "word": "plumber",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "I talk to some people that I disagree with deeply on a personal level.",
+      "meaning": "非常／深刻地",
+      "note": "",
+      "word": "deeply",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 11,
+      "quote": "Now, I make my living talking to people: Nobel Prize winners, truck drivers, billionaires, kindergarten teachers, heads of state, plumbers.",
+      "meaning": "亿万富翁",
+      "note": "",
+      "word": "billionaire",
+      "pos": "n."
+    },
+    {
+      "paragraph": 11,
+      "quote": "Now, I make my living talking to people: Nobel Prize winners, truck drivers, billionaires, kindergarten teachers, heads of state, plumbers.",
+      "meaning": "幼儿园",
+      "note": "",
+      "word": "kindergarten",
+      "pos": "n."
+    },
+    {
+      "paragraph": 12,
+      "quote": "Many of you have already heard a lot of advice on this, things like look the person in the eye, think of interesting topics to discuss in advance, look, nod and smile to show that you're paying attention, repeat back what you just heard or summarize it.",
+      "meaning": "点头",
+      "note": "",
+      "word": "nod",
+      "pos": "v."
+    },
+    {
+      "paragraph": 12,
+      "quote": "Many of you have already heard a lot of advice on this, things like look the person in the eye, think of interesting topics to discuss in advance, look, nod and smile to show that you're paying attention, repeat back what you just heard or summarize it.",
+      "meaning": "概括，总结",
+      "note": "",
+      "word": "summarize",
+      "pos": "v."
+    },
+    {
+      "paragraph": 12,
+      "quote": "It is crap.",
+      "meaning": "废话；没用的东西",
+      "note": "粗俗／强烈否定，不用于正式礼貌表达。",
+      "word": "crap",
+      "pos": "n."
+    },
+    {
+      "paragraph": 17,
+      "quote": "So, I'm going to teach you how to interview people, and that's actually going to help you learn how to be better conversationalists.",
+      "meaning": "善于交谈的人",
+      "note": "",
+      "word": "conversationalist",
+      "pos": "n."
+    },
+    {
+      "paragraph": 17,
+      "quote": "Learn to have a conversation without wasting your time, without getting bored, and, please God, without offending anybody.",
+      "meaning": "冒犯，惹人不快",
+      "note": "",
+      "word": "offend",
+      "pos": "v."
+    },
+    {
+      "paragraph": 17,
+      "quote": "Now, I actually use the exact same skills as a professional interviewer that I do in regular life.",
+      "meaning": "职业的／专业的",
+      "note": "",
+      "word": "professional",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 17,
+      "quote": "So, I'm going to teach you how to interview people, and that's actually going to help you learn how to be better conversationalists.",
+      "meaning": "访谈，采访",
+      "note": "",
+      "word": "interview",
+      "pos": "v."
+    },
+    {
+      "paragraph": 17,
+      "quote": "Now, I actually use the exact same skills as a professional interviewer that I do in regular life.",
+      "meaning": "日常的，平常的",
+      "note": "",
+      "word": "regular",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 17,
+      "quote": "Learn to have a conversation without wasting your time, without getting bored, and, please God, without offending anybody.",
+      "meaning": "感到无聊的",
+      "note": "",
+      "word": "bored",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 18,
+      "quote": "The kind of conversation where you walk away feeling engaged and inspired, or where you feel like you've made a real connection or you've been perfectly understood.",
+      "meaning": "投入、有参与感的",
+      "note": "",
+      "word": "engaged",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 18,
+      "quote": "The kind of conversation where you walk away feeling engaged and inspired, or where you feel like you've made a real connection or you've been perfectly understood.",
+      "meaning": "受到鼓舞／启发的",
+      "note": "",
+      "word": "inspired",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 18,
+      "quote": "There is no reason why most of your interactions can't be like that.",
+      "meaning": "人与人的互动交流",
+      "note": "",
+      "word": "interaction",
+      "pos": "n."
+    },
+    {
+      "paragraph": 19,
+      "quote": "I'm going to walk you through all of them, but honestly, if you just choose one of them and master it, you'll already enjoy better conversations.",
+      "meaning": "熟练掌握",
+      "note": "",
+      "word": "master",
+      "pos": "v."
+    },
+    {
+      "paragraph": 19,
+      "quote": "I'm going to walk you through all of them, but honestly, if you just choose one of them and master it, you'll already enjoy better conversations.",
+      "meaning": "说实话",
+      "note": "",
+      "word": "honestly",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 20,
+      "quote": "Number one: Don't multitask.",
+      "meaning": "同时做几件事",
+      "note": "",
+      "word": "multitask",
+      "pos": "v."
+    },
+    {
+      "paragraph": 20,
+      "quote": "And I don't mean just set down your cell phone or your tablet or your car keys or whatever is in your hand.",
+      "meaning": "平板电脑",
+      "note": "",
+      "word": "tablet",
+      "pos": "n."
+    },
+    {
+      "paragraph": 20,
+      "quote": "I mean, be present.",
+      "meaning": "在场且注意力在此的",
+      "note": "这里强调投入当下，不只是身体到场。",
+      "word": "present",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 20,
+      "quote": "Don't think about your argument you had with your boss.",
+      "meaning": "争吵，口角",
+      "note": "与论证义区分。",
+      "word": "argument",
+      "pos": "n."
+    },
+    {
+      "paragraph": 21,
+      "quote": "Number two: Don't pontificate.",
+      "meaning": "自以为是地发表高论",
+      "note": "贬义。",
+      "word": "pontificate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 21,
+      "quote": "If you want to state your opinion without any opportunity for response or argument or pushback or growth, write a blog.",
+      "meaning": "反对意见／抵触",
+      "note": "",
+      "word": "pushback",
+      "pos": "n."
+    },
+    {
+      "paragraph": 21,
+      "quote": "If you want to state your opinion without any opportunity for response or argument or pushback or growth, write a blog.",
+      "meaning": "争论／反驳意见",
+      "note": "与第20段私人争吵语境有区别。",
+      "word": "argument",
+      "pos": "n."
+    },
+    {
+      "paragraph": 21,
+      "quote": "If you want to state your opinion without any opportunity for response or argument or pushback or growth, write a blog.",
+      "meaning": "回应",
+      "note": "",
+      "word": "response",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "Now, there's a really good reason why I don't allow pundits on my show: Because they're really boring.",
+      "meaning": "经常在媒体发表意见的评论人士",
+      "note": "",
+      "word": "pundit",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "If they're conservative, they're going to hate Obama and food stamps and abortion.",
+      "meaning": "政治上保守的",
+      "note": "",
+      "word": "conservative",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 23,
+      "quote": "If they're liberal, they're going to hate big banks and oil corporations and Dick Cheney.",
+      "meaning": "政治上自由派的",
+      "note": "",
+      "word": "liberal",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 23,
+      "quote": "If they're conservative, they're going to hate Obama and food stamps and abortion.",
+      "meaning": "人工流产／堕胎",
+      "note": "",
+      "word": "abortion",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "If they're liberal, they're going to hate big banks and oil corporations and Dick Cheney.",
+      "meaning": "大型公司／企业法人",
+      "note": "",
+      "word": "corporation",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "Totally predictable.",
+      "meaning": "可预料的；套路固定的",
+      "note": "",
+      "word": "predictable",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 23,
+      "quote": "You need to enter every conversation assuming that you have something to learn.",
+      "meaning": "先认定；未经核实地假定",
+      "note": "",
+      "word": "assume",
+      "pos": "v."
+    },
+    {
+      "paragraph": 23,
+      "quote": "The famed therapist M. Scott Peck said that true listening requires a setting aside of oneself.",
+      "meaning": "著名的",
+      "note": "",
+      "word": "famed",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 23,
+      "quote": "The famed therapist M. Scott Peck said that true listening requires a setting aside of oneself.",
+      "meaning": "治疗师；此处心理治疗师",
+      "note": "",
+      "word": "therapist",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "He said that sensing this acceptance, the speaker will become less and less vulnerable and more and more likely to open up the inner recesses of his or her mind to the listener.",
+      "meaning": "察觉，感受到",
+      "note": "",
+      "word": "sense",
+      "pos": "v."
+    },
+    {
+      "paragraph": 23,
+      "quote": "He said that sensing this acceptance, the speaker will become less and less vulnerable and more and more likely to open up the inner recesses of his or her mind to the listener.",
+      "meaning": "容易受伤害的；缺少心理防备的",
+      "note": "",
+      "word": "vulnerable",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 23,
+      "quote": "He said that sensing this acceptance, the speaker will become less and less vulnerable and more and more likely to open up the inner recesses of his or her mind to the listener.",
+      "meaning": "隐秘深处",
+      "note": "通常复数，文学性比喻。",
+      "word": "recess",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "If they're conservative, they're going to hate Obama and food stamps and abortion.",
+      "meaning": "美国食品补助券",
+      "note": "社会福利语境。",
+      "word": "food stamp",
+      "pos": "n."
+    },
+    {
+      "paragraph": 23,
+      "quote": "He said that sensing this acceptance, the speaker will become less and less vulnerable and more and more likely to open up the inner recesses of his or her mind to the listener.",
+      "meaning": "接纳／接受态度",
+      "note": "",
+      "word": "acceptance",
+      "pos": "n."
+    },
+    {
+      "paragraph": 25,
+      "quote": "In this case, take a cue from journalists.",
+      "meaning": "提示；可供借鉴的线索",
+      "note": "",
+      "word": "cue",
+      "pos": "n."
+    },
+    {
+      "paragraph": 25,
+      "quote": "If I ask you, \"Were you terrified?\"",
+      "meaning": "极度害怕的",
+      "note": "",
+      "word": "terrified",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 25,
+      "quote": "In this case, take a cue from journalists.",
+      "meaning": "新闻记者",
+      "note": "",
+      "word": "journalist",
+      "pos": "n."
+    },
+    {
+      "paragraph": 25,
+      "quote": "If you put in a complicated question, you're going to get a simple answer out.",
+      "meaning": "复杂的",
+      "note": "",
+      "word": "complicated",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 25,
+      "quote": "you're going to respond to the most powerful word in that sentence, which is \"terrified,\" and the answer is \"Yes, I was\" or \"No, I wasn't.\"",
+      "meaning": "回应／对某物作反应",
+      "note": "",
+      "word": "respond",
+      "pos": "v."
+    },
+    {
+      "paragraph": 26,
+      "quote": "Number four: Go with the flow.",
+      "meaning": "自然的发展／推进过程",
+      "note": "",
+      "word": "flow",
+      "pos": "n."
+    },
+    {
+      "paragraph": 26,
+      "quote": "We've heard interviews often in which a guest is talking for several minutes and then the host comes back in and asks a question which seems like it comes out of nowhere, or it's already been answered.",
+      "meaning": "节目主持人",
+      "note": "",
+      "word": "host",
+      "pos": "n."
+    },
+    {
+      "paragraph": 26,
+      "quote": "That means the host probably stopped listening two minutes ago because he thought of this really clever question, and he was just bound and determined to say that.",
+      "meaning": "坚定的，执意的",
+      "note": "这里并非必然发生义。",
+      "word": "bound",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 26,
+      "quote": "We've heard interviews often in which a guest is talking for several minutes and then the host comes back in and asks a question which seems like it comes out of nowhere, or it's already been answered.",
+      "meaning": "节目嘉宾",
+      "note": "",
+      "word": "guest",
+      "pos": "n."
+    },
+    {
+      "paragraph": 26,
+      "quote": "That means the host probably stopped listening two minutes ago because he thought of this really clever question, and he was just bound and determined to say that.",
+      "meaning": "聪明、巧妙的",
+      "note": "",
+      "word": "clever",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 29,
+      "quote": "Now, people on the radio, especially on NPR, are much more aware that they're going on the record, and so they're more careful about what they claim to be an expert in and what they claim to know for sure.",
+      "meaning": "声称；宣称自己具备",
+      "note": "",
+      "word": "claim",
+      "pos": "v."
+    },
+    {
+      "paragraph": 29,
+      "quote": "Err on the side of caution.",
+      "meaning": "犯错／偏向某侧",
+      "note": "",
+      "word": "err",
+      "pos": "v."
+    },
+    {
+      "paragraph": 29,
+      "quote": "Err on the side of caution.",
+      "meaning": "谨慎",
+      "note": "",
+      "word": "caution",
+      "pos": "n."
+    },
+    {
+      "paragraph": 29,
+      "quote": "Talk should not be cheap.",
+      "meaning": "轻率、说了不用负责的",
+      "note": "评价话语的比喻义。",
+      "word": "cheap",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 29,
+      "quote": "Now, people on the radio, especially on NPR, are much more aware that they're going on the record, and so they're more careful about what they claim to be an expert in and what they claim to know for sure.",
+      "meaning": "意识到的",
+      "note": "",
+      "word": "aware",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 30,
+      "quote": "Number six: Don't equate your experience with theirs.",
+      "meaning": "将两者视为相同",
+      "note": "",
+      "word": "equate",
+      "pos": "v."
+    },
+    {
+      "paragraph": 30,
+      "quote": "All experiences are individual.",
+      "meaning": "各自不同的；因人而异的",
+      "note": "",
+      "word": "individual",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 30,
+      "quote": "You don't need to take that moment to prove how amazing you are or how much you've suffered.",
+      "meaning": "受苦，遭受痛苦",
+      "note": "",
+      "word": "suffer",
+      "pos": "v."
+    },
+    {
+      "paragraph": 30,
+      "quote": "People who brag about their IQs are losers.\"",
+      "meaning": "吹嘘，夸耀",
+      "note": "",
+      "word": "brag",
+      "pos": "v."
+    },
+    {
+      "paragraph": 30,
+      "quote": "People who brag about their IQs are losers.\"",
+      "meaning": "没出息／不值得尊重的人",
+      "note": "口语贬损，不只是比赛输家。",
+      "word": "loser",
+      "pos": "n."
+    },
+    {
+      "paragraph": 32,
+      "quote": "Conversations are not a promotional opportunity.",
+      "meaning": "用于宣传／推销自己的",
+      "note": "",
+      "word": "promotional",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 33,
+      "quote": "It's condescending, and it's really boring, and we tend to do it a lot.",
+      "meaning": "居高临下、带优越感的",
+      "note": "",
+      "word": "condescending",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 33,
+      "quote": "Especially in work conversations or in conversations with our kids, we have a point to make, so we just keep rephrasing it over and over.",
+      "meaning": "换一种说法表达",
+      "note": "",
+      "word": "rephrase",
+      "pos": "v."
+    },
+    {
+      "paragraph": 34,
+      "quote": "Number eight: Stay out of the weeds.",
+      "meaning": "比喻杂乱细节",
+      "note": "复数用于in/out of the weeds。",
+      "word": "weed",
+      "pos": "n."
+    },
+    {
+      "paragraph": 34,
+      "quote": "Frankly, people don't care about the years, the names, the dates, all those details that you're struggling to come up with in your mind.",
+      "meaning": "坦白说",
+      "note": "",
+      "word": "frankly",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 34,
+      "quote": "Frankly, people don't care about the years, the names, the dates, all those details that you're struggling to come up with in your mind.",
+      "meaning": "细节",
+      "note": "",
+      "word": "detail",
+      "pos": "n."
+    },
+    {
+      "paragraph": 34,
+      "quote": "Frankly, people don't care about the years, the names, the dates, all those details that you're struggling to come up with in your mind.",
+      "meaning": "费劲努力做某事",
+      "note": "",
+      "word": "struggle",
+      "pos": "v."
+    },
+    {
+      "paragraph": 35,
+      "quote": "Buddha said, and I'm paraphrasing, \"If your mouth is open, you're not learning.\"",
+      "meaning": "用自己的话转述",
+      "note": "",
+      "word": "paraphrase",
+      "pos": "v."
+    },
+    {
+      "paragraph": 37,
+      "quote": "I can bolster my own identity.",
+      "meaning": "增强，巩固",
+      "note": "",
+      "word": "bolster",
+      "pos": "v."
+    },
+    {
+      "paragraph": 37,
+      "quote": "I can bolster my own identity.",
+      "meaning": "身份认同；对自己是谁的认识",
+      "note": "",
+      "word": "identity",
+      "pos": "n."
+    },
+    {
+      "paragraph": 37,
+      "quote": "But there's another reason: We get distracted.",
+      "meaning": "注意力被转移、走神的",
+      "note": "",
+      "word": "distracted",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 37,
+      "quote": "You're just two people shouting out barely related sentences in the same place.",
+      "meaning": "几乎不",
+      "note": "",
+      "word": "barely",
+      "pos": "adv."
+    },
+    {
+      "paragraph": 37,
+      "quote": "The average person talks at about 225 word per minute, but we can listen at up to 500 words per minute.",
+      "meaning": "普通的／一般水平的",
+      "note": "",
+      "word": "average",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 37,
+      "quote": "And look, I know, it takes effort and energy to actually pay attention to someone, but if you can't do that, you're not in a conversation.",
+      "meaning": "努力，投入",
+      "note": "",
+      "word": "effort",
+      "pos": "n."
+    },
+    {
+      "paragraph": 37,
+      "quote": "You're just two people shouting out barely related sentences in the same place.",
+      "meaning": "有联系的",
+      "note": "",
+      "word": "related",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 39,
+      "quote": "He said, \"Most of us don't listen with the intent to understand.",
+      "meaning": "意图，目的",
+      "note": "",
+      "word": "intent",
+      "pos": "n."
+    },
+    {
+      "paragraph": 40,
+      "quote": "One more rule, number 10, and it’s this one: Be brief.",
+      "meaning": "简短的",
+      "note": "",
+      "word": "brief",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 41,
+      "quote": "You know, I grew up with a very famous grandfather, and there was kind of a ritual in my home.",
+      "meaning": "惯常的仪式性做法",
+      "note": "",
+      "word": "ritual",
+      "pos": "n."
+    },
+    {
+      "paragraph": 41,
+      "quote": "She was the runner-up to Miss America.",
+      "meaning": "亚军；次优胜者",
+      "note": "",
+      "word": "runner-up",
+      "pos": "n."
+    },
+    {
+      "paragraph": 41,
+      "quote": "He was the mayor of Sacramento.",
+      "meaning": "市长",
+      "note": "",
+      "word": "mayor",
+      "pos": "n."
+    },
+    {
+      "paragraph": 41,
+      "quote": "He's a Russian ballet dancer.\"",
+      "meaning": "芭蕾舞",
+      "note": "",
+      "word": "ballet",
+      "pos": "n."
+    },
+    {
+      "paragraph": 41,
+      "quote": "And I kind of grew up assuming everyone has some hidden, amazing thing about them.",
+      "meaning": "隐藏的、不为人知的",
+      "note": "",
+      "word": "hidden",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 41,
+      "quote": "And I’m always prepared to be amazed, and I'm never disappointed.",
+      "meaning": "惊喜／惊讶的",
+      "note": "",
+      "word": "amazed",
+      "pos": "adj."
+    },
+    {
+      "paragraph": 41,
+      "quote": "And I’m always prepared to be amazed, and I'm never disappointed.",
+      "meaning": "失望的",
+      "note": "",
+      "word": "disappointed",
+      "pos": "adj."
+    }
+  ],
+  "duplicates_skipped": [
+    {
+      "paragraph": 14,
+      "item": "pay attention",
+      "reason": "同篇第12段同义；无独立新接法。"
+    },
+    {
+      "paragraph": 23,
+      "item": "assume that 从句",
+      "reason": "同段先前已用assuming that；同义重复。"
+    },
+    {
+      "paragraph": 42,
+      "item": "be prepared to be amazed",
+      "reason": "第41段同形同义。"
+    }
+  ],
+  "pending": [
+    {
+      "paragraph": 5,
+      "item": "anti-vaxxing",
+      "reason": "原文非正式词形；已保留本句义，正式词形和语域教学前另核。"
+    }
+  ]
+}
