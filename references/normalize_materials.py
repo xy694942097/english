@@ -4,18 +4,15 @@
 子命令（均幂等可重跑，派生物不登记 manifest，哈希以原件为准）：
   papers    papers/ 真题 txt → 原件旁同名 .md（含 OCR 版，数据层不进目录）；
             wordbooks 词源书三册全文 txt → wordbooks-md/ 每册一个合集 md；
-  ielts     剑4/9/14 + IELTS16体验版（有文字层）→ 原件旁 .txt + .md；
-            fanhongtao 词表 → 原件旁 .md；readable 雅思真题合集 + 资料合集；
   readable  materials/readable/ 汇总层：四/六/考研真题合集、考研精翻合集、
             初中教材合集、词源书说明页、索引页；
   all       全部依次执行。
 
 合集化原则（2026-09-16 用户定版）：学习资料是参考资料，大概率不细读，
 按考试专题各合 1 个文档，宁少而全不多而碎。json/jsonl/csv 按手册豁免
-（结构化数据保原生格式）。扫描件（剑5-8/10-13/15-18 等）无文字层，不派生文本。
+（结构化数据保原生格式）。
 """
 import re
-import subprocess
 import sys
 from pathlib import Path
 from document_paths import document_path, write_document
@@ -112,127 +109,6 @@ def cmd_papers() -> None:
         out = convert_wordbook(book, label)
         print(f"wordbooks {book}: {label} 合集 {out.stat().st_size // 1024}KB")
     print(f"[papers] txt→md: {n_papers} | 词源书合集: 3")
-
-
-# ---------- ielts：文字层分级与可读层 ----------
-
-IELTS = PAPERS / "ielts"
-JY = IELTS / "剑桥雅思真题"
-VOC = MATERIALS / "vocabulary"
-READABLE = OUT / "papers"
-
-# 文字层完好的册子 → (标题, 质量注记)
-TEXT_LAYERED = {
-    "剑桥雅思真题4.pdf": ("剑桥雅思真题 4", "文字层完好，无断字/混淆问题。"),
-    "剑桥雅思真题9.pdf": ("剑桥雅思真题 9", "文字层完好；含沪江水印等中文字符约 9 千（噪音，可过滤）。"),
-    "剑桥雅思真题14.pdf": ("剑桥雅思真题 14", "文字层为 OCR 嵌入层：约 36 处 i/l 混淆（invoIves 类），"
-                                     "完整句约 1900 条可用，用于挖掘时按需校对。"),
-    "IELTS16_体验版.pdf": ("IELTS16 官方体验版", "官方免费样张，文字层完好。"),
-}
-
-
-def pdftotext_layout(pdf: Path, out: Path) -> int:
-    """pdftotext -layout 抽取全文，返回字符数。"""
-    r = subprocess.run(["pdftotext", "-layout", str(pdf), str(out)],
-                       capture_output=True, text=True)
-    if r.returncode != 0:
-        raise RuntimeError(f"pdftotext failed on {pdf}: {r.stderr}")
-    return out.stat().st_size
-
-
-def paper_md(txt: Path, title: str, note: str) -> Path:
-    """原件旁 md：来源头 + 质量注记 + 正文（数据层派生物，不进目录）。"""
-    body = txt.read_text(encoding="utf-8", errors="replace").strip()
-    out = txt.with_suffix(".md")
-    write_document(out,
-        f"# {title}\n\n"
-        f"> 来源：materials/papers/ielts/{txt.parent.name}/{txt.stem}.pdf"
-        f"（原件 PDF 保留在旁，登记哈希见 materials/downloads-manifest.json）。"
-        f"pdftotext -layout 派生物，可由 references/normalize_materials.py 重跑重建。{note}"
-        f"社区整理版，不宣称与官方发行版逐字一致；听力部分音频未收录。\n\n{body}\n",
-        encoding="utf-8")
-    return out
-
-
-def strip_md_head(md_text: str) -> str:
-    """去掉生成物头部的 h1 + 引用块来源行，保留正文（用于并入合集）。"""
-    return re.sub(r"^# .+?\n+> .*?\n\n", "", md_text.strip(), count=1, flags=re.S)
-
-
-def cmd_ielts() -> None:
-    READABLE.mkdir(parents=True, exist_ok=True)
-    report = []
-
-    # 1) 有文字层的册子：派生 txt + 原件旁 md
-    book_bodies = []  # (标题, 注记, 正文)
-    for pdf_name, (title, note) in TEXT_LAYERED.items():
-        pdf = JY / pdf_name
-        if not pdf.exists():
-            report.append(f"MISSING {pdf_name}")
-            continue
-        txt = pdf.with_suffix(".txt")
-        n = pdftotext_layout(pdf, txt)
-        md = paper_md(txt, title, note)
-        book_bodies.append((title, note, strip_md_head(md.read_text(encoding="utf-8"))))
-        report.append(f"TXT+MD {pdf_name}: txt {n}B → {md.name}")
-
-    # 2) 雅思真题合集（readable，4 册合一）
-    out = document_path('materials/readable/papers/雅思真题合集.md')
-    parts = [f"# 雅思真题合集\n\n> 来源：materials/papers/ielts/剑桥雅思真题/（zeeklog/IELTS，"
-             f"原件 PDF 与哈希见 manifest）。剑4/9/14/IELTS16体验版 4 册文字层完好者合一；"
-             f"剑5-8/10-13/15-18 共 12 册为扫描件不可机读，留作人读原件。社区整理版，"
-             f"不宣称与官方发行版逐字一致；听力音频未收录。由 references/normalize_materials.py "
-             f"重跑重建。\n"]
-    for title, note, body in book_bodies:
-        parts.append(f"\n---\n\n## {title}\n\n> {note}\n\n{body}\n")
-    write_document(out, "".join(parts), encoding="utf-8")
-    report.append(f"合集 雅思真题合集.md（{out.stat().st_size // 1024}KB）")
-
-    # 3) 雅思资料合集（介绍 3 + 作文范文 3 + 词表说明）
-    intro = [
-        ("IELTS 整体介绍&考试内容.md", "雅思考试整体介绍与考试内容（社区编写，zeeklog/IELTS）"),
-        ("Readme.md", "IELTS 资料仓库说明（目录索引）"),
-        ("Readme.EN.md", "IELTS 资料仓库说明（英文）"),
-    ]
-    parts = [f"# 雅思资料合集\n\n> 来源：materials/papers/ielts/（zeeklog/IELTS，哈希见 manifest）。"
-             f"考试介绍、剑桥19 类图表作文范文与词表说明合一。由 references/normalize_materials.py "
-             f"重跑重建。\n"]
-    for name, title in intro:
-        src = IELTS / name
-        if not src.exists():
-            report.append(f"MISSING {name}")
-            continue
-        body = re.sub(r"^# .+?\n+", "", src.read_text(encoding="utf-8", errors="replace").strip(), count=1)
-        parts.append(f"\n---\n\n## {title}\n\n{body}\n")
-    for f in sorted((IELTS / "作文案例").glob("*.md")):
-        body = re.sub(r"^# .+?\n+", "", f.read_text(encoding="utf-8", errors="replace").strip(), count=1)
-        parts.append(f"\n---\n\n## 图表作文范文：{f.stem}\n\n{body}\n")
-    wtxt = VOC / "IELTS-wordlist-fanhongtao.txt"
-    if wtxt.exists():
-        wmd = wtxt.with_suffix(".md")
-        if not wmd.exists() or True:
-            body = wtxt.read_text(encoding="utf-8", errors="replace").strip()
-            write_document(wmd,
-                "# 雅思词汇词根+联想记忆法（乱序便携版）单词表\n\n"
-                "> 来源：materials/vocabulary/IELTS-wordlist-fanhongtao.txt（fanhongtao/IELTS，"
-                "作者手抄录入 3722 行，含音标与中文释义；哈希见 manifest）。"
-                "原件 txt 的派生物，references/normalize_materials.py 可重跑重建。仅本地个人学习使用。\n\n"
-                "```text\n" + body + "\n```\n", encoding="utf-8")
-        parts.append("\n---\n\n## 词表\n\n"
-                     "| 词表 | 规模 | 位置 | 说明 |\n| --- | --- | --- | --- |\n"
-                     "| IELTS-rich.jsonl | 7002 词（音标/中译/词组/双语例句） | materials/vocabulary/ | "
-                     "jsonl 结构化豁免转 md；与 CET rich 同构，可直接走导入管线 |\n"
-                     "| IELTS-wordlist-fanhongtao | 3722 行（音标+中文释义） | materials/vocabulary/ | "
-                     "原件 txt + 原件旁 md（代码块包裹保排版） |\n")
-    out = document_path('materials/readable/papers/雅思资料合集.md')
-    write_document(out, "".join(parts), encoding="utf-8")
-    report.append(f"合集 雅思资料合集.md（{out.stat().st_size // 1024}KB）")
-
-    # 4) 汇总：哪些册子是扫描件（未派生）
-    scans = [p.name for p in sorted(JY.glob("*.pdf")) if p.name not in TEXT_LAYERED]
-    report.append(f"扫描件（未派生文本，阅读件）：{len(scans)} 册 → {', '.join(scans)}")
-
-    print("[ielts]\n" + "\n".join(report))
 
 
 # ---------- readable：materials/readable/ 汇总层（合集化） ----------
@@ -405,8 +281,7 @@ def cmd_readable() -> None:
              "数据原件（PDF/JSON/txt）与哈希见 materials/downloads-manifest.json；"
              "本层哈希以原件为准。\n\n",
              "边界：考研手译版 5 册的中文层无法可靠提取（无 ToUnicode 映射），留作原件阅读，"
-             "机读层由 2005-2026 阅读精翻合集替代；考研词频表走学习库查询；"
-             "雅思 12 册扫描真题不可机读，留作人读原件。\n\n"]
+             "机读层由 2005-2026 阅读精翻合集替代。\n\n"]
     for rel, title, size in generated:
         lines.append(f"- {title}（{size // 1024}KB）\n")
     write_document(OUT / "README.md", "".join(lines), encoding="utf-8")
@@ -414,7 +289,7 @@ def cmd_readable() -> None:
     print(f"[readable] generated {len(generated)} 合集 pages + index at materials/readable/")
 
 
-COMMANDS = {"papers": cmd_papers, "ielts": cmd_ielts, "readable": cmd_readable}
+COMMANDS = {"papers": cmd_papers, "readable": cmd_readable}
 
 
 def main() -> None:
@@ -424,7 +299,6 @@ def main() -> None:
         sys.exit(0 if args and args[0] in ("-h", "--help") else 1)
     if args[0] == "all":
         cmd_papers()
-        cmd_ielts()
         cmd_readable()
     else:
         COMMANDS[args[0]]()

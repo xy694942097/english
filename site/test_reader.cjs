@@ -28,7 +28,7 @@ const assert = require('node:assert/strict');
     assert.equal(await page.locator('#nav a.nav-link').count(), registeredCount, '登记文档均有导航入口');
     const navText = await page.locator('#nav').innerText();
     assert.ok(navText.includes('Shadowing') && navText.includes('原文与参考资料'), 'Shadowing与查阅分区可见');
-    assert.ok(!navText.includes('英语固定短语完全指南') && !navText.includes('雅思级别英语1000句 v2'), '隔离文档不在导航');
+    assert.ok(!navText.includes('英语固定短语完全指南') && !navText.includes('雅思'), '隔离文档与已移除的考试资料不在导航');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
 

@@ -75,7 +75,7 @@ ENGLISH_TEST_URL=http://127.0.0.1:4174 node site/test_reader.cjs   # Playwright 
 python3 site/build_static.py
 ```
 
-输出为 `site/dist/`，只包含选中的文章正文、阅读器资源及明确引用的图片。八篇本地全文合集以来源入口页展示，其他选中文档正常阅读；个人档案和原始材料不进入站点。构建目录须为空；可用 `--output` 指定新目录。
+输出为 `site/dist/`，只包含选中的文章正文、阅读器资源及明确引用的图片。六篇本地全文合集以来源入口页展示，其他选中文档正常阅读；个人档案和原始材料不进入站点。构建目录须为空；可用 `--output` 指定新目录。
 
 正式发布由 `.github/workflows/pages.yml` 自动执行：提交改动并 `git push origin main` 后，GitHub Actions 先运行只读界面与公开清单的专项测试（完整本地测试包含未入 Git 的原文合集），再按 `site/publish-nav.json` 构建并发布。也可在 Actions 中手动运行 Publish reading site。
 

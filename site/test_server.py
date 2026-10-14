@@ -38,7 +38,7 @@ class ViewerTests(unittest.TestCase):
             self.assertIn('course/编纂与维护/中译英训练与编题.md',
                           {item['id'] for item in data['items']})
             self.assertIn('原文与参考资料', {group['title'] for group in data['nav']['groups']})
-            self.assertEqual(sum(item.get('referenceOnly', False) for item in data['items']), 8)
+            self.assertEqual(sum(item.get('referenceOnly', False) for item in data['items']), 6)
             self.assertFalse((output / 'materials').exists())
             self.assertFalse((output / 'vendor/toastui').exists())
             self.assertTrue((output / '.nojekyll').is_file())

@@ -39,7 +39,7 @@ PDF 不是好的机器语料源：提取后断字（"fi ve"）、乱序、无 To
 
 materials 顶层 md（README/HANDBOOK）、`readable/` 子树（合集页）、`dictionaries/wordbooks-md/`（合集）入左侧目录；papers 原件旁 md 与 textbooks/ 教材原件不入目录（合集版在 readable/ 下，不重复）；其余数据文件不进目录。改放行范围必须同步 site/test_server.py 用例。
 
-合集化原则（2026-09-16 用户定版）：学习资料是参考资料，大概率不细读，按考试专题各合 1 个文档——词源书三册各一、四/六/考研真题各一、考研精翻一、雅思真题/资料各一、初中教材一；宁少而全不多而碎。
+合集化原则（2026-09-16 用户定版）：学习资料是参考资料，大概率不细读，按考试专题各合 1 个文档——词源书三册各一、四/六/考研真题各一、考研精翻一、初中教材一；宁少而全不多而碎。
 
 学城（km）来源合集（2026-09-21）：个人学城知识库文档经 citadel CLI 导出后按内容主题拆分归入 book/ 各目录（2026-09-24；详见 engineering/agents/book-editorial/CHANGELOG.md 当日条目），按主题各合 1 个文档（语法表达类一、千句库一），每节前带 `<!-- 来源：学城文档 <id> <url> -->` 注释。学城侧为源，本地合集不随后续学城编辑自动更新；无 downloads-manifest 登记（非下载文件），来源 URL 即复核凭证。
 
@@ -50,9 +50,8 @@ PDF 工具经 pdf skill 的 runtime 调用（`catdesk runtime exec --manifest ~/
 归一化统一入口（子命令，幂等可重跑）：
 
 ```bash
-python3 references/normalize_materials.py all      # 全量重建（papers/wordbooks/ielts/readable）
+python3 references/normalize_materials.py all      # 全量重建（papers/wordbooks/readable）
 python3 references/normalize_materials.py papers   # 真题 txt → 原件旁 md + 精翻/词源转换
-python3 references/normalize_materials.py ielts    # 雅思文字层分级与可读层
 python3 references/normalize_materials.py readable # materials/readable/ 汇总层
 ```
 
@@ -63,3 +62,5 @@ manifest 登记 ↔ 实际文件路径一致；改 catalog 白名单 ↔ test_se
 ## 文档展示目录（2026-10-11）
 
 材料原始数据和 manifest 保留在 materials/ 后台目录；前端展示的阅读合集已迁到“course/原文与参考资料/同名前端子目录/”，资料来源操作说明位于“course/编纂与维护/”。生成脚本通过 references/document_paths.py 输出到新位置并重写相对链接，不应重新复制一套旧阅读合集。nav.json 的组名与子标签必须匹配实际父目录；上述规则取代旧说明中对 materials/readable/ 展示位置的约定。
+
+2026-10-14：项目以实际读与说为目标，不围绕雅思备考；雅思专用教材、来源登记及归一化子命令已删除，不自动重新下载或生成。
