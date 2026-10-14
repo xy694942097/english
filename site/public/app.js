@@ -1,5 +1,6 @@
 'use strict';
 const $ = id => document.getElementById(id);
+const homeContent = $('article').innerHTML;
 const state = {items: [], nav: {groups:[]}, aliases: {}, current: null, searching: false};
 
 function fixAssets(contentEl, docPath) {
@@ -215,71 +216,7 @@ function showHome() {
   $('source').textContent = '';
   const article = $('article');
   article.classList.add('home-page');
-  article.replaceChildren();
-  const element = (tag, text, className) => {
-    const node = document.createElement(tag);
-    if (text) node.textContent = text;
-    if (className) node.className = className;
-    return node;
-  };
-  const byId = new Map(state.items.map(item => [item.id, item]));
-  const link = (item, className) => {
-    const anchor = element('a', item.title, className);
-    anchor.href = docHash(item.id);
-    return anchor;
-  };
-  const lead = element('header', '', 'home-lead');
-  lead.append(element('p', 'ENGLISH BOOK', 'home-label'),
-    element('h1', '读懂整句，也把意思说出来。'),
-    element('p', '积累 Chunks 和词汇，在外部视频中做 Shadowing，记录练习并逐渐用熟。', 'home-intro'));
-  const actions = element('div', '', 'home-actions');
-  for (const [id, label, className] of [
-    ['course/Chunks 收集/精选 Chunks.md', '阅读精选 Chunks', 'home-primary'],
-    ['course/Shadowing/Shadowing 记录.md', '记录 Shadowing', 'home-secondary'],
-  ]) {
-    const item = byId.get(id);
-    if (!item) continue;
-    const anchor = link(item, className); anchor.textContent = label; actions.append(anchor);
-  }
-  lead.append(actions); article.append(lead);
-  article.append(element('h2', '选择想看的内容', 'home-directory-title'));
-  const descriptions = {
-    '词汇': '熟词的新意思、生词和常用接法，放回句子中理解。',
-    'Chunks 收集': '精选表达与作品中的词块积累，从整块意思进入。',
-    'Shadowing': '在 YouTube 等外部播放器跟读，这里记录真实练习。',
-    '原文与参考资料': '影视、演讲、教材和语法资料，按阅读需要查阅。',
-    '我的学习': '学习背景、方法与当前记录。',
-    '编纂与维护': '资料来源、编纂规则，以及教学和出题 Skills。',
-  };
-  const grid = element('div', '', 'home-grid');
-  for (const group of [...state.nav.groups, ...(state.nav.maintenance || [])]) {
-    const ids = group.items.flatMap(entry => typeof entry === 'string' ? [entry] : entry.items);
-    const items = ids.map(id => byId.get(id)).filter(Boolean);
-    if (!items.length) continue;
-    const section = element('section', '', 'home-section');
-    const heading = element('div', '', 'home-section-heading');
-    heading.append(element('h3', group.title), element('span', `${items.length} 篇`, 'home-count'));
-    section.append(heading, element('p', descriptions[group.title] || '浏览这个分区的阅读文档。'));
-    const list = element('ul');
-    const previews = items.slice(0, 3);
-    if (group.title === '编纂与维护') {
-      const skill = items.find(item => item.id.includes('/Skills/'));
-      if (skill && !previews.includes(skill)) previews[previews.length - 1] = skill;
-    }
-    for (const item of previews) { const row = element('li'); row.append(link(item)); list.append(row); }
-    section.append(list);
-    if (items.length > previews.length) {
-      const more = element('button', '查看全部', 'home-more'); more.type = 'button';
-      more.onclick = () => {
-        const entry = [...$('nav').querySelectorAll('details')].find(node =>
-          node.querySelector('summary')?.textContent.trim().startsWith(group.title));
-        if (entry) { entry.open = true; setLeftSidebarOpen(true); entry.scrollIntoView({block: 'nearest'}); }
-      };
-      section.append(more);
-    }
-    grid.append(section);
-  }
-  article.append(grid, element('p', '可以直接阅读，也可以用顶部搜索查找词汇、Chunks 或材料。', 'home-note'));
+  article.innerHTML = homeContent;
   nav();
   window.scrollTo(0, 0);
 }
@@ -325,7 +262,8 @@ async function loadBook() {
   if (!response.ok) throw new Error('目录加载失败，请刷新重试。');
   const data = await response.json();
   state.items = data.items; state.nav = data.nav || {groups:[]}; state.aliases = data.aliases || {};
-  route();
+  if ($('search').value.trim()) { nav(); $('search').oninput(); }
+  else route();
 }
 
 $('search').oninput=()=>{
@@ -357,4 +295,7 @@ closeOutline();
 $('theme').onclick=()=>{const current=document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');const next=current==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('english-theme',next);};
 if(localStorage.getItem('english-theme'))document.documentElement.dataset.theme=localStorage.getItem('english-theme');
 addEventListener('hashchange', () => route({fromHash: true}));
-(async()=>{try{await loadBook();}catch(e){$('article').textContent=e.message;}})();
+(async()=>{try{await loadBook();}catch(e){
+  if (location.hash && location.hash !== '#' && location.hash !== '#home') $('article').textContent=e.message;
+  else $('breadcrumb').textContent='首页 · 目录暂时无法加载';
+}})();
