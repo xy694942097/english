@@ -28,7 +28,7 @@
       ]
     ],
     "checks": [
-      "外层表达动作与骨架",
+      "外层表达动作与表达结构",
       "内部搭配和短语动词",
       "短回应与口语小句",
       "普通实词与熟词新义",
@@ -131,7 +131,7 @@
       "paragraph": 4,
       "quote": "And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.",
       "meaning": "不仅改变A，还改变B",
-      "note": "原文不用but also，保留论述骨架。",
+      "note": "原文不用but also，保留论述表达结构。",
       "chunk": "not only ...; ...",
       "register": "演讲；可迁移到日常交流或讨论"
     },
@@ -2046,7 +2046,7 @@
     {
       "paragraph": 9,
       "item": "not too ..., not too ..., just right",
-      "reason": "第8段同一可迁移对照骨架。"
+      "reason": "第8段同一可迁移对照表达结构。"
     },
     {
       "paragraph": 19,

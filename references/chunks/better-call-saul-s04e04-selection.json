@@ -10,7 +10,7 @@
       429
     ]
   ],
-  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与整句表达；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
   "items": [
     {
       "chunk": "make an impression on sb.",
@@ -828,7 +828,7 @@
       "end_time": "00:15:31,932",
       "quote": "You know, speaking of group...",
       "id": "S04E04-034",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "Speaking of sth.,…",
       "matched_source": "references/chunks/better-call-saul-s01e10-selection.json"
     },
@@ -841,7 +841,7 @@
       "end_time": "00:15:34,851",
       "quote": "I've been thinking about reaching out to Henry.",
       "id": "S04E04-035",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "reach out to sb.",
       "matched_source": "references/chunks/better-call-saul-s03e06-selection.json"
     },
@@ -854,7 +854,7 @@
       "end_time": "00:31:56,707",
       "quote": "He's been coming in here for months, selling you a bill of goods...",
       "id": "S04E04-063",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "sell sb. a bill of goods",
       "matched_source": "references/chunks/better-call-saul-s03e05-selection.json"
     },
@@ -867,7 +867,7 @@
       "end_time": "00:44:37,592",
       "quote": "You looked me in the eye, you shook my hand.",
       "id": "S04E04-079",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "look sb. in the eye",
       "matched_source": "references/chunks/better-call-saul-s01e02-selection.json"
     },

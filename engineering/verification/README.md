@@ -1,12 +1,14 @@
-# 2026-09-14 站点验证
+# 来源核验记录
 
-这些是助手执行的工程验证，不是学习者作答，不得计入教学进度或掌握证据。
+保留最终材料报告，数量与范围只属于各报告的日期和版本；不是学习者掌握证明。
 
-- 4 项 Python 测试通过：新章节发现、档案与章节进入提示、会话原答保存及路径边界、HTTP 未授权写入与文件越界拒绝。
-- JavaScript 语法检查通过。
-- Chromium 实测搜索、章节切换、答案初始折叠与展开、教学提问预填、主题切换、390px 宽度无横向溢出、刷新后恢复会话，无浏览器脚本错误。
-- 已目视检查 1440px 桌面浅色与 390px 手机深色截图。
-- 通过 API 真实调用 Codex，回复正确区分 resigned/prepared，并确认听力暂缓。原记录见 2026-09-14-chat-smoke.json。
-- 通过浏览器输入并点击发送真实调用 Codex，回复识别当前章节《讨论证据与分歧》与六级 560 分，刷新后保留回复。原记录见 2026-09-14-browser-chat.json。
+- [better-call-saul-s01-chunks-2026-10-11](better-call-saul-s01-chunks-2026-10-11.md)
+- [better-call-saul-s01-vocabulary-2026-10-13](better-call-saul-s01-vocabulary-2026-10-13.md)
+- [better-call-saul-s02-chunks-2026-10-12](better-call-saul-s02-chunks-2026-10-12.md)
+- [better-call-saul-s03-s06-chunks-2026-10-13](better-call-saul-s03-s06-chunks-2026-10-13.md)
+- [presidential-chunks-2026-10-13](presidential-chunks-2026-10-13.md)
+- [ted-first10-chunks-vocabulary-2026-10-13](ted-first10-chunks-vocabulary-2026-10-13.md)
 
-测试会话从 sessions/web 移至本目录，保持课堂记录干净。未来模型连接状态可能随登录、网络和额度变化；已实现错误显示与重试。
+工程检查入口见[阅读器与发布](../design/reader-and-release.md)。已退出使用的功能测试、首轮试提与网页对话测试记录可查 Git 历史；这里只保留当前核验入口。
+
+结构清理与交付检查见 [三轨 SDLC 核验](three-tracks-sdlc-2026-10-14.md)，含实际测试、审查边界和现存资料缺口。

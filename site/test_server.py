@@ -32,7 +32,7 @@ class ViewerTests(unittest.TestCase):
             self.assertEqual({item['id'] for item in data['items']}, expected)
             self.assertIn('course/词汇/生词与熟词新义.md', {item['id'] for item in data['items']})
             self.assertIn('course/Chunks 收集/精选 Chunks.md', {item['id'] for item in data['items']})
-            self.assertIn('course/表达练习/Better Call Saul S01 中译英练习.md', {item['id'] for item in data['items']})
+            self.assertIn('course/Chunks 收集/Better Call Saul S01 中译英练习.md', {item['id'] for item in data['items']})
             self.assertFalse(any('/我的学习/' in item['id'] for item in data['items']))
             self.assertTrue(any('/编纂与维护/' in item['id'] for item in data['items']))
             self.assertIn('course/编纂与维护/中译英训练与编题.md',
@@ -91,7 +91,7 @@ class ViewerTests(unittest.TestCase):
 
     def test_project_navigation_matches_filesystem(self):
         nav = server.read_nav()
-        self.assertEqual([g['title'] for g in nav['groups'][:3]], ['词汇', 'Chunks 收集', '表达练习'])
+        self.assertEqual([g['title'] for g in nav['groups'][:3]], ['Chunks 收集', 'Shadowing', '词汇'])
         for group in nav['groups'] + nav.get('maintenance', []):
             for item in group['items']:
                 parent = Path('course') / group['title']

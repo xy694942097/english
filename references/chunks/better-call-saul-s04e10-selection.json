@@ -10,7 +10,7 @@
       771
     ]
   ],
-  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与整句表达；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
   "items": [
     {
       "chunk": "That is not a thing.",
@@ -417,7 +417,7 @@
     },
     {
       "chunk": "the higher …, the more …",
-      "meaning": "越高……越……；程度联动骨架",
+      "meaning": "越高……越……；程度联动表达结构",
       "start_cue": 441,
       "end_cue": 441,
       "start_time": "00:31:15,875",
@@ -757,7 +757,7 @@
       "end_time": "00:15:55,956",
       "quote": "For what it's worth, I believe him.",
       "id": "S04E10-026",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "For what it's worth,…",
       "matched_source": "references/chunks/better-call-saul-s02e07-selection.json"
     }

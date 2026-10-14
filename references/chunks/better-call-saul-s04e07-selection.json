@@ -10,7 +10,7 @@
       521
     ]
   ],
-  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与整句表达；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
   "items": [
     {
       "chunk": "You made it.",
@@ -834,7 +834,7 @@
       "end_time": "00:05:49,808",
       "quote": "Right? It's always nice to be greeted by a friendly face.",
       "id": "S04E07-002",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "a friendly face",
       "matched_source": "references/chunks/better-call-saul-s02e02-selection.json"
     },
@@ -847,7 +847,7 @@
       "end_time": "00:09:54,094",
       "quote": "- Hey, Jimmy. - Gotta say, I'm obsessed with your tie.",
       "id": "S04E07-008",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "I gotta say,…",
       "matched_source": "references/chunks/better-call-saul-s02e02-selection.json"
     },
@@ -860,7 +860,7 @@
       "end_time": "00:32:59,770",
       "quote": "I can attest to it, right?",
       "id": "S04E07-057",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "attest to sth.",
       "matched_source": "references/chunks/better-call-saul-s02e08-selection.json"
     },
@@ -873,7 +873,7 @@
       "end_time": "00:33:04,650",
       "quote": "So we get him smelling like a distillery and we piss him off in court.",
       "id": "S04E07-058",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "piss sb. off",
       "matched_source": "references/chunks/better-call-saul-s01e07-selection.json"
     },
@@ -886,7 +886,7 @@
       "end_time": "00:36:11,378",
       "quote": "I did my homework.",
       "id": "S04E07-072",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "do your homework",
       "matched_source": "references/chunks/better-call-saul-s01e09-selection.json"
     },
@@ -899,7 +899,7 @@
       "end_time": "00:38:48,494",
       "quote": "You do your thing, I'll do mine.",
       "id": "S04E07-082",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "Do your thing.",
       "matched_source": "references/chunks/better-call-saul-s02e01-selection.json"
     }

@@ -1,9 +1,10 @@
-# Agent 文档目录说明
+# 教师与编纂执行源
 
-本目录存放根目录 AGENTS.md 之外的所有 agent 文档：从 AGENTS.md 拆分出的专项约定、给 agent 用的操作手册、参考资料索引等。
+任务路由见根目录 [AGENTS](../../AGENTS.md)，维护索引见[编纂约定](../../course/编纂与维护/编纂约定.md)。
 
-约定：
+- Chunks／词汇 Coach prompt 只负责作品提取。
+- skills/ 中三个 Skill 分别负责录入排版、编题、实际教学反馈。
+- book-editorial/ 保存按需讲解模板、内容待办和变更记录。
+- 独立版 Coach 供复制到无项目文件的新对话，不参与项目规则维护。
 
-- AGENTS.md 始终留在仓库根目录，作为 agent 入口；它引用的其它 agent 文档统一放本目录。
-- 每个文档一级标题唯一，前端「工程文档 → Agent 文档」组自动发现，无需改代码。
-- 过时的 agent 文档移入 ../archive/，不直接删除。
+学习原答留 progress/，材料核验留 engineering/verification/；教材与题库都不作为掌握记录。

@@ -21,7 +21,7 @@
         66
       ]
     ],
-    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句整句表达／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
     "added": 5
   },
   "items": [
@@ -219,7 +219,7 @@
       "chunk": "have a fair shot at sth.",
       "meaning": "有公平的机会争取……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "原文fair shot后接for everyone；骨架为可迁移候选。",
+      "note": "原文fair shot后接for everyone；表达结构为可迁移候选。",
       "quote": "Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy, our basic rights and freedoms, and a fair shot for everyone to get ahead.",
       "quote_sha256": "5056afa7c11b06a0f23fb756dcae1618e051671cc9531f34165e4fe4c4dce170"
     },

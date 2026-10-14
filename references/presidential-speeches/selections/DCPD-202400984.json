@@ -21,7 +21,7 @@
         27
       ]
     ],
-    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句整句表达／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
     "added": 5
   },
   "items": [
@@ -84,7 +84,7 @@
       "chunk": "You can't do sth. only when 从句",
       "meaning": "不能仅在某种条件满足时才做……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "外层立场骨架；不可因此前教材已出现而删去。",
+      "note": "外层立场表达结构；不可因此前教材已出现而删去。",
       "quote": "I've said many times you can't love your country only when you win.",
       "quote_sha256": "398bbe5136d863f1b390f8f771823c76cc1b66021ce85f9b50df213dd0adade0"
     },
@@ -131,7 +131,7 @@
       "category": "话语套语",
       "meaning": "不论输赢；输赢都一样适用",
       "register": "日常／口语与书面",
-      "note": "可放句首或句尾补充条件；不是句式骨架 only when 的同义替换，而是把相反条件都纳入。",
+      "note": "可放句首或句尾补充条件；不是 only when 的同义替换，而是把相反条件都纳入。",
       "paragraph": 10,
       "quote": "And it can be trusted, win or lose.",
       "quote_sha256": "003053ac606cf986cde88f6a589c9df74c6af17731be13659ceb6f693ecd5eb7"
@@ -237,7 +237,7 @@
     },
     {
       "chunk": "make every day/moment count",
-      "category": "句式骨架",
+      "category": "整句表达",
       "meaning": "让每一天／每一刻都有价值；充分利用时间",
       "register": "日常与鼓励性表达",
       "note": "count 在此是有价值、产生作用，不是计数；不是 every 后可随意装任何名词的万能结构。",
@@ -259,7 +259,7 @@
       "chunk": "the measure of sth. is how 从句",
       "meaning": "衡量……的标准是如何……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "评判标准骨架，原句含插入语。",
+      "note": "评判标准表达结构，原句含插入语。",
       "quote": "We all get knocked down, but the measure of our character, as my dad would say, is how quickly we get back up.",
       "quote_sha256": "775cc18e4242b00081d5fd59b5e163ea99fa9549b2b8ed53dbf07871a288b091"
     },
@@ -304,7 +304,7 @@
       "chunk": "keep going",
       "meaning": "继续坚持下去",
       "register": "中性／口语、工作；原素材为演讲",
-      "note": "第二遍补充：内部动词词块／义务表达骨架。",
+      "note": "第二遍补充：内部动词词块／义务整句表达。",
       "quote": "We need to keep going.",
       "quote_sha256": "be0a8309207eab67a26e4c3217dec2bb8d33cda0dd1c8aa23140966d436aae21"
     },

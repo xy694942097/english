@@ -1,6 +1,6 @@
 # 总统演讲：Chunks 积累
 
-取自五位总统的 19 篇官方实录，按演讲分组。记录可迁移的搭配、话语套语和句子骨架；正式与演讲语气标在意思中，不把出现次数当作日常高频或掌握证据。
+取自五位总统的 19 篇官方实录，按演讲分组。记录可迁移的搭配、话语套语和整句表达；正式与演讲语气标在意思中，不把出现次数当作日常高频或掌握证据。
 
 原文见 [总统演讲原文合集](../原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md)。以下是候选积累；段号对应本地可读层，原句逐字保留。
 
@@ -2978,7 +2978,7 @@
 
 **来源：** [Barack Obama · P003](https://www.govinfo.gov/content/pkg/DCPD-201300032/html/DCPD-201300032.htm)
 
-**补充：** 原句两次 what makes 重复为演讲强调，骨架可迁移。
+**补充：** 原句两次 what makes 重复为演讲强调，表达结构可迁移。
 
 ### 3. replace sth. with sth.
 
@@ -4566,7 +4566,7 @@
 
 **来源：** [Donald Trump · P008](https://www.govinfo.gov/content/pkg/DCPD-201700058/html/DCPD-201700058.htm)
 
-**补充：** 较长修饰骨架，先行词为 movement；原句数量主张未核证。
+**补充：** 较长修饰表达结构，先行词为 movement；原句数量主张未核证。
 
 ### 12. be deprived of sth.
 
@@ -6420,7 +6420,7 @@
 
 **来源：** [Joe Biden · P005](https://www.govinfo.gov/content/pkg/DCPD-202100048/html/DCPD-202100048.htm)
 
-**补充：** 重定因果或责任来源的外层骨架。
+**补充：** 重定因果或责任来源的整句表达。
 
 ### 3. have far to go
 
@@ -6640,7 +6640,7 @@
 
 **来源：** [Joe Biden · P027](https://www.govinfo.gov/content/pkg/DCPD-202100048/html/DCPD-202100048.htm)
 
-**补充：** 保留比较骨架；fight 可指积极争取。
+**补充：** 保留比较表达结构；fight 可指积极争取。
 
 ### 25. teach sb. a painful lesson
 
@@ -6994,7 +6994,7 @@
 
 **来源：** [Joe Biden · P016](https://www.govinfo.gov/content/pkg/DCPD-202300848/html/DCPD-202300848.htm)
 
-**补充：** 此处含玩笑，骨架可用于表达保留意见。
+**补充：** 此处含玩笑，表达结构可用于表达保留意见。
 
 ### 16. I might add
 
@@ -7360,7 +7360,7 @@
 
 **来源：** [Joe Biden · P099](https://www.govinfo.gov/content/pkg/DCPD-202300848/html/DCPD-202300848.htm)
 
-**补充：** 容纳并列身份选项，外层限定骨架。
+**补充：** 容纳并列身份选项，外层限定表达结构。
 
 ### 52. hold on to sth.
 
@@ -7442,7 +7442,7 @@
 
 **来源：** [Joe Biden · P107](https://www.govinfo.gov/content/pkg/DCPD-202300848/html/DCPD-202300848.htm)
 
-**补充：** 关系骨架；原文连续三个the比较级。
+**补充：** 关系表达结构；原文连续三个the比较级。
 
 ### 60. The answer to sth. is sth.
 
@@ -7576,7 +7576,7 @@
 
 **来源：** [Joe Biden · P006](https://www.govinfo.gov/content/pkg/DCPD-202400170/html/DCPD-202400170.htm)
 
-**补充：** 外层解释骨架。
+**补充：** 外层解释表达结构。
 
 ### 4. I assure you: 从句
 
@@ -8266,7 +8266,7 @@
 
 **来源：** [Joe Biden · P180](https://www.govinfo.gov/content/pkg/DCPD-202400170/html/DCPD-202400170.htm)
 
-**补充：** 本句用争论与行动作选择，属于论述骨架而非习语。
+**补充：** 本句用争论与行动作选择，属于论述表达结构而非习语。
 
 ### 73. leave sb. for dead
 
@@ -8456,7 +8456,7 @@
 
 **来源：** [Joe Biden · P234](https://www.govinfo.gov/content/pkg/DCPD-202400170/html/DCPD-202400170.htm)
 
-**补充：** 正式立场身份；泛化程度待教学审校。lifelong为本句修饰语，不是固定骨架。
+**补充：** 正式立场身份；泛化程度待教学审校。lifelong为本句修饰语，不是固定形式。
 
 ### 92. not hesitate to do sth.
 
@@ -8546,7 +8546,7 @@
 
 **来源：** [Joe Biden · P253](https://www.govinfo.gov/content/pkg/DCPD-202400170/html/DCPD-202400170.htm)
 
-**补充：** 第二遍补充：内部动词词块／义务表达骨架。
+**补充：** 第二遍补充：内部动词词块／义务整句表达。
 
 ### 101. I've been around a while
 
@@ -8586,7 +8586,7 @@
 
 **来源：** [Joe Biden · P260](https://www.govinfo.gov/content/pkg/DCPD-202400170/html/DCPD-202400170.htm)
 
-**补充：** 叙事反应骨架。
+**补充：** 叙事反应表达结构。
 
 ### 105. by accident
 
@@ -8626,7 +8626,7 @@
 
 **来源：** [Joe Biden · P269](https://www.govinfo.gov/content/pkg/DCPD-202400170/html/DCPD-202400170.htm)
 
-**补充：** 正式愿景骨架，非只指眼睛看见。
+**补充：** 正式愿景表达结构，非只指眼睛看见。
 
 ## 2024-11-07 · 拜登：大选后的全国讲话
 
@@ -8700,7 +8700,7 @@
 
 **来源：** [Joe Biden · P009](https://www.govinfo.gov/content/pkg/DCPD-202400984/html/DCPD-202400984.htm)
 
-**补充：** 外层立场骨架；不可因此前教材已出现而删去。
+**补充：** 外层立场表达结构；不可因此前教材已出现而删去。
 
 ### 8. no matter who 从句
 
@@ -8742,7 +8742,7 @@
 
 **来源：** [Joe Biden · P010](https://www.govinfo.gov/content/pkg/DCPD-202400984/html/DCPD-202400984.htm)
 
-**补充：** 可放句首或句尾补充条件；不是句式骨架 only when 的同义替换，而是把相反条件都纳入。
+**补充：** 可放句首或句尾补充条件；不是句子表达 only when 的同义替换，而是把相反条件都纳入。
 
 > Win or lose, I'm glad we gave it a try.（教学自造）
 
@@ -8886,7 +8886,7 @@
 
 **来源：** [Joe Biden · P021](https://www.govinfo.gov/content/pkg/DCPD-202400984/html/DCPD-202400984.htm)
 
-**补充：** 评判标准骨架，原句含插入语。
+**补充：** 评判标准表达结构，原句含插入语。
 
 ### 26. A defeat does not mean ...
 
@@ -8948,7 +8948,7 @@
 
 **来源：** [Joe Biden · P025](https://www.govinfo.gov/content/pkg/DCPD-202400984/html/DCPD-202400984.htm)
 
-**补充：** 第二遍补充：内部动词词块／义务表达骨架。
+**补充：** 第二遍补充：内部动词词块／义务整句表达。
 
 ### 32. I really mean it
 
@@ -9160,7 +9160,7 @@
 
 **来源：** [Joe Biden · P028](https://www.govinfo.gov/content/pkg/DCPD-202500078/html/DCPD-202500078.htm)
 
-**补充：** 原文fair shot后接for everyone；骨架为可迁移候选。
+**补充：** 原文fair shot后接for everyone；表达结构为可迁移候选。
 
 ### 21. get ahead
 

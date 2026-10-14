@@ -1,8 +1,7 @@
 # 精选 Chunks
 
-从原专题中收拢值得整块识别、能够换语境复用的表达：搭配、固定说法、话语套语和句子级骨架。按**表达作用**查找；每条保留原讲解中的语义、例句、结构和边界。纯语法规则与一次性长句不凑成 Chunk。
+从原专题中收拢值得整块识别、能够换语境复用的表达：搭配、固定说法、话语套语和句子级 Chunk。按**表达作用**查找；每条保留原讲解中的语义、例句、结构和边界。纯语法规则与一次性长句不凑成 Chunk。
 
-这是已编讲解的精选页；剧集与演讲积累页仍是原句候选池。看过此页不算掌握，旧专题的完整练习与编纂过程留在工程存档。
 
 ## 对话与表达动作
 
@@ -542,43 +541,7 @@ One of these days, + 尚未发生的事
 
 “才”是这个语境的自然中文，不是每个 until 都要补一个“才”。
 
-### 5. Not until
-
-**意思：** 移到开头后，主句怎样变
-
-> Not until the meeting ended did he leave.
-
-**来源：** 例句为教学自造；用法参考 [带时间码字幕](https://www.subtitlecat.com/subs/1577/George%20Carlin%20-%2002%20-%20Again%20%5B1978%5D.html)；[字幕](https://www.subtitlecat.com/subs/572/George.Carlin.Doin.It.Again.1990.DVDRip.html)；[另一文本转写](https://www.scripts.com/script/george_carlin%3A_doin%27_it_again_8857/2)；[Carlin 官方片段目录](https://georgecarlin.com/media/)；[Cambridge 口语语法](https://dictionary.cambridge.org/us/grammar/british-grammar/mean)；[before you know it](https://dictionary.cambridge.org/dictionary/english/before-you-know-it)；[one of these days](https://dictionary.cambridge.org/dictionary/english/one-of-these-days)；[Dictionary.com 的 for all](https://www.dictionary.com/browse/for-all?q=for+all)
-
-**补充：**
-
-分成两块：**[Not until the meeting ended] [did he leave]**。
-
-前一块是被强调的时间条件，里面仍是 the meeting ended；后面的主句把助动词 did 放到 he 前，leave 回到原形。
-
-对照错误：Not until did the meeting end he left. 错在把倒装放进了 until 从句。你要找的是整句话的主句，不是看到 not 就把紧随其后的动词搬动。
-
-> Not until she explained the context did I understand the remark.
-
-直到她解释背景，我才明白那句话。理解动作的主语是 I，发生倒装的是 did I understand。
-
-### 6. It was not until
-
-**意思：** 另一种突出时间的结构
-
-> It wasn't until the meeting ended that he left.
-
-**来源：** [British Council：否定状语置前后的倒装](https://learnenglish.britishcouncil.org/grammar/c1-grammar/inversion-after-negative-adverbials)
-
-**补充：**
-
-分成 **[It wasn't until the meeting ended] [that he left]**。这里用 it…that…突出时间，that 后面是正常语序 he left，不再使用 did he leave。
-
-三种版本传达相近的时间信息，但表达重心不同：普通版本自然直接；Not until 开头常更强调、偏正式；It wasn't until…that…也突出“直到那个时候”。不必把它们硬分成固定难度等级。
-
-**来源补记（not until：先弄清“什么时候才”，再看倒装）：** [British Council：否定状语置前后的倒装](https://learnenglish.britishcouncil.org/grammar/c1-grammar/inversion-after-negative-adverbials)。例句和对照为教学自造。
-
-### 7. used to be
+### 5. used to be
 
 **意思：** be 后面为什么好像缺了东西
 
@@ -596,7 +559,7 @@ One of these days, + 尚未发生的事
 
 注意两种 used to：used to be 表示过去是；be used to living abroad 表示习惯在国外生活。不要因为都出现 used 和 to 就混在一起。
 
-### 8. what little
+### 6. what little
 
 **意思：** 整个部分可以充当主语
 
@@ -616,47 +579,9 @@ what little money he had 可以按“他所拥有的那一点钱”理解，不�
 
 可数复数对应 what few：What few books she owned were kept in a small box（她仅有的那几本书放在一个小盒子里）。
 
-## 句子级 Chunks
+## 对比、限定与态度
 
-### 1. more [A] than anyone had thought [B]
-
-**意思：** 超出所有人的预期上限。
-
-> Training is often much less effective than expected.（语料）
-
-**来源：** 语料；自造
-
-**补充：**
-
-A 是被比较的属性，B 是人们原本以为的上限。
-
-
-
-训练的效果往往远低于预期。最简形态：比较级 + than expected。
-
-> The results were more dramatic than anyone had thought possible.（自造）
-
-结果比任何人认为可能的都更惊人。
-
-**结构拆解：**
-
-```
-than 从句里藏着省略：
-  anyone had thought *(it)* possible
-                  宾语省略 ↑  宾补
-还原平语序：anyone had thought it was possible
-已知结构 think it + 形容词（I thought it impossible）
-被塞进 than 从句，宾语 it 不说出口
-```
-
-**变体采集：**
-
-- 变体：more than words can express；比较基准：言语能表达的；例：比言语能表达的更多
-- 变体：harder than it looks；比较基准：表象；例：比看上去难
-- 变体：less effective than expected；比较基准：预期；例：比预期的效果差
-
-
-### 2. [前项], let alone [后项]
+### 1. [前项], let alone [后项]
 
 **意思：** 前项尚且达不到，后项更别提。
 
@@ -692,7 +617,7 @@ let alone = 并列连词（同族 not to mention / to say nothing of）
 - 误读：后项与前项不对等；正解：后项必须与前项同语法位置成分平行
 
 
-### 3. not so much [A] as [B]
+### 2. not so much [A] as [B]
 
 **意思：** 与其说[A]不如说[B]。
 
@@ -722,7 +647,7 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **与 more B than A 的关系：** 同义两把刀，选哪个看想先提哪个。
 
-### 4. nothing less than [X] / nothing short of [X]
+### 3. nothing less than [X] / nothing short of [X]
 
 **意思：** 简直是X、不折不扣的X。
 
@@ -748,7 +673,7 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** 后接名词或形容词（nothing short of barbaric / nothing less than a disaster）。语气重，正式评论用；日常口语用 simply / outright 更自然。
 
-### 5. if anything
+### 4. if anything
 
 **意思：** 甚至可以说恰恰相反；要我说的话。
 
@@ -770,7 +695,7 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** 不占句子成分的插入语。典型用法：先摆预期，再用 if anything 反向修正。阅读线索：见到它，先找它修正的是前文哪个判断。
 
-### 6. all the more [A] because [B]
+### 5. all the more [A] because [B]
 
 **意思：** 正因[B]而更[A]。
 
@@ -792,175 +717,7 @@ A、B 必须同类语法单位（形容词对形容词、名词对名词）
 
 **结构注：** all the more 直接修饰比较级。because 从句可省，靠语境补。
 
-### 7. What … is/was …
-
-**意思：** 把"…的"推到句子焦点位置。
-
-> What he felt was more akin to pity than love.（语料）
-
-**来源：** 语料
-
-**补充：**
-
-书面语最常用的强调骨架，诊断句 Q2/Q10 都是它。
-
-
-
-他感受到的更像怜悯，而不是爱。
-
-> What annoyed him most was that he had received no apology.（语料）
-
-最令他生气的是没人向他道歉。
-
-**结构拆解：**
-
-```
-What S V  = 主语从句（"…的东西/事情"）
-What he felt        → 他感受到的（东西）
-was                 → 是
-…                   → 焦点：说话人真正想说的
-套路：把普通句 He felt pity 装进 What…was…，pity 被推到句尾焦点位
-```
-
-**诊断句还原：**
-
-- 原句：What the committee failed to anticipate was how quickly costs would escalate.（Q2）；还原成普通句：The committee failed to anticipate something.
-- 原句：What began as a debugging exercise ended up revealing a design flaw.（Q10）；还原成普通句：Something began as a debugging exercise.
-
-**变体采集：**
-
-- 变体：What S V is/was …；焦点位置：句尾；例：What matters is the interface.
-- 变体：What happened was (that) …；焦点位置：句尾从句；例：What happened was that the disk filled up.
-- 变体：All (that) S V is …；焦点位置：句尾；例：All you need is one clean backup.
-
-
-### 8. It was [X] that …
-
-**意思：** 正是X（不是别的）。
-
-> It was only later that the drug was shown to be addictive.（语料）
-
-**来源：** 语料；自造
-
-**补充：**
-
-分裂句，强调句中某个成分。
-
-
-
-直到后来才证明该药会成瘾。
-
-> It was the config file, not the code, that caused the outage.（自造）
-
-正是配置文件而非代码导致了宕机。
-
-**结构拆解：**
-
-```
-普通句：The config file caused the outage.
-分裂：  It was [the config file] that caused the outage.
-              强调成分为宾语 ↑
-注意：不是所有 It was … that 都是分裂句！
-  It was imperative that he act …（语料）→ that 从句是主语从句（it 形式主语）
-  判别：去掉 it was…that 还能还原成完整句 → 分裂句；不能 → 形式主语
-```
-
-**常见误读：**
-
-- 误读：见到 It was…that 就当"正是"；正解：先做还原测试，可能只是形式主语
-- 误读：强调主语时动词跟着改；正解：It was he who…（强调主语用 who，正式）
-
-
-### 9. Only [状语] did …
-
-**意思：** 只有到/只有在…才…。
-
-> Only when the last children had disappeared did Sister Agatha break her rigid pose.（语料）
-
-**来源：** 语料
-
-**补充：**
-
-only + 状语放句首，触发部分倒装。诊断句 Q4。
-
-
-
-直到最后一个孩子走远，阿加莎修女才放开她那僵硬的姿态。
-
-> Only once did we hit on a question which foxed one of the experts.（语料）
-
-我们只碰到过一个把专家也难住了的问题。
-
-**结构拆解：**
-
-```
-普通句：The true sequence became apparent only after the logs had been correlated.（Q4）
-倒装：  Only after … did the true sequence of events become apparent.
-规则：only + 状语（从句/介词短语/副词）位于句首 → 助动词提前（did/can/have…）
-陷阱：only 修饰的不是状语时不倒装：Only he did it（= 是他做的，不倒装）
-```
-
-**与 not until 的关系：** 同属"否定/限制状语前置→倒装"家族。not until 详见 05-patterns/02-not-until。
-
-### 10. do/does/did + 动词原形
-
-**意思：** 确实…（口语与书信中的强调）。
-
-> The test did pass yesterday — I checked twice.（自造）
-
-**来源：** 自造
-
-**补充：**
-
-助动词强调，不倒装、不加否定。
-
-
-
-测试昨天确实通过了——我查了两遍。
-
-> You do have a choice here.（自造）
-
-你在这里确实有选择。
-
-**结构注：** 只强调现在/过去单次的确定语气，不用于进行时。书面正式文里少见，邮件和口语高频。与 really 强调的区别：do 强调的是"事实与预期相反或值得确认"，语气更硬。
-
-### 11. [A/Adv/N] as/though [S V]
-
-**意思：** 尽管…（倒装让步）。
-
-> Strange as it sounds, the bug only appears on Tuesdays.（自造）
-
-**来源：** 自造
-
-**补充：**
-
-把表语/状语/名词提到句首，语气比 although 强。
-
-
-
-听着再奇怪，这个 bug 只在周二出现。
-
-> Try as he might, he could not open the door.（自造）
-
-他使尽浑身解数，还是打不开门。
-
-**结构拆解：**
-
-```
-倒装 = 把被强调的部分提到句首 + as（=though）
-  形容词：Strange as it sounds（= Though it sounds strange）
-  动词：  Try as he might（= Though he might try）
-  名词：  Child as he was（= Though he was a child，名词前不加冠词）
-as 换成 though 也可以；换although 则必须恢复正常语序
-```
-
-**常见误读：**
-
-- 误读：把句首 Strange 当主语补语理解反；正解：先识别 as=though 的让步倒装，再读主干
-- 误读：Child as he was 加冠词；正解：名词提前时冠词消失（Child as he was，不是 A child）
-
-
-### 12. much as [S V]
+### 6. much as [S V]
 
 **意思：** 尽管…（带“虽然很…”的让步分量）。
 
@@ -1000,7 +757,7 @@ much as 整体 = although（让步连词）
 
 正如相对论包容了牛顿物理，量子引力理论终将包容相对论。——从句与主句是同类关系，这是比拟不是让步。
 
-### 13. for all [X]
+### 7. for all [X]
 
 **意思：** 尽管[有]X。
 
@@ -1018,7 +775,7 @@ for all + 名词短语，让步埋在介词里，正式书面。
 
 > For all its popularity, the framework has serious gaps.（自造）
 
-尽管它流行，这个句式骨架仍有严重缺口。
+尽管它流行，这个句子级 Chunk仍有严重缺口。
 
 **结构拆解：**
 
@@ -1029,7 +786,7 @@ for all + 名词短语 = despite
 陷阱：不是"为了所有X"——见到 for all + 抽象名词 + 逗号 + 转折，按 despite 读
 ```
 
-### 14. far from [A/V-ing]
+### 8. far from [A/V-ing]
 
 **意思：** 不但没有…反而…。
 
@@ -1058,7 +815,7 @@ far from + 形容词/动名词/名词
 暗含比较：实际离预期"很远"（far）
 ```
 
-### 15. so to speak / as it were / if you will
+### 9. so to speak / as it were / if you will
 
 **意思：** 可以这么说；打个比方。
 
@@ -1095,11 +852,11 @@ far from + 形容词/动名词/名词
 
 **常见误读：**
 
-- 误读：把 if you will 一律当“可以这么说”；正解：语料库 2 条命中全是字面义“如果你（们）愿意”（If you will just sign here…）；立场句式骨架用法在词典例句库中为 0，几乎只活在真实口语/书面议论里
+- 误读：把 if you will 一律当“可以这么说”；正解：语料库 2 条命中全是字面义“如果你（们）愿意”（If you will just sign here…）；立场句子级 Chunk用法在词典例句库中为 0，几乎只活在真实口语/书面议论里
 - 误读：见到 as it were 当动词过去式；正解：冻结虚拟式插入语，与 were 的时态无关
 
 
-### 16. admittedly / granted / to be sure
+### 10. admittedly / granted / to be sure
 
 **意思：** 诚然…（先让后转）。
 
@@ -1134,7 +891,7 @@ far from + 形容词/动名词/名词
 - 变体：to be sure；语域：较文；例：先让步，常接 but then
 
 
-### 17. There is no [V-ing]
+### 11. There is no [V-ing]
 
 **意思：** …是不可能的/不容否认的。
 
@@ -1164,7 +921,7 @@ There is no + V-ing = 某事无法被做
 后接名词短语（the sea）或 V-ing 短语（arguing with…）
 ```
 
-### 18. [X] is one thing; [Y] is another
+### 12. [X] is one thing; [Y] is another
 
 **意思：** X是一回事，Y是另一回事（不可混同）。
 
@@ -1188,7 +945,7 @@ There is no + V-ing = 某事无法被做
 套路：别人说 A 证明 B → 你回 "A is one thing; B is another"
 ```
 
-### 19. What began as [X] ended up [Y]
+### 13. What began as [X] ended up [Y]
 
 **意思：** 始于X而终于Y。
 
@@ -1198,7 +955,7 @@ There is no + V-ing = 某事无法被做
 
 **补充：**
 
-叙事反差句式骨架：起点与终点落差越大，语气越强。
+叙事反差句子级 Chunk：起点与终点落差越大，语气越强。
 
 
 
@@ -1213,11 +970,11 @@ There is no + V-ing = 某事无法被做
 ```
 What began as X = 主语从句（"最初作为X开始的东西"）
 ended up + V-ing = 以…告终（end up 后接动名词，不接不定式）
-骨架张力：X（小/轻/临时）→ Y（大/重/永久）
+语义张力：X（小/轻/临时）→ Y（大/重/永久）
 变体：What started as … / ended in + 名词（ended in disaster）
 ```
 
-### 20. What [S] failed to anticipate was [Y]
+### 14. What [S] failed to anticipate was [Y]
 
 **意思：** 没料到的是Y。
 
@@ -1248,7 +1005,7 @@ was 后接焦点，两种形态：
 写作模板：复盘 = What we failed to anticipate was X. Now we…
 ```
 
-### 21. not least because / not least of which
+### 15. not least because / not least of which
 
 **意思：** 尤其是因为…（不是"最不"——反而是加重）。
 
@@ -1266,7 +1023,7 @@ was 后接焦点，两种形态：
 not least = 特别是（否定+最高级的反直觉组合：不是"最不重要"而是"很重要"）
   not least because…      → 尤其因为…
   not least of which is…  → 其中尤其包括…
-易混句式骨架：last but not least（最后但同样重要，列举收尾用）——
+易混句子级 Chunk：last but not least（最后但同样重要，列举收尾用）——
   last but not least 是位序词；not least 是程度加重词
 ```
 
@@ -1276,7 +1033,7 @@ not least = 特别是（否定+最高级的反直觉组合：不是"最不重要
 - 误读：和 last but not least 混淆；正解：后者管列举位序，前者管原因分量
 
 
-### 22. insofar as
+### 16. insofar as
 
 **意思：** 在…范围内；就…而言。
 
@@ -1304,84 +1061,7 @@ insofar as + 从句 = 主张的成立范围被限定在从句内
 近义：to the extent that（更直白）；in that（更书面简短）
 ```
 
-### 23. Were it not for [X] / But for [X]
-
-**意思：** 若非X（早就…了）。
-
-> Were it not for the backup, we would have lost everything.（自造）
-
-**来源：** 自造；语料，改写自汤姆·潘恩
-
-**补充：**
-
-省 if 的虚拟倒装，感恩/复盘两用。
-
-
-
-若非有备份，我们早就全丢了。
-
-> Were it not for that one-line revert, the incident would have run all weekend.（自造）
-
-若非那次一行的回滚，事故会拖过整个周末。
-
-> Mankind would live in harmony were it not for the vested interests.（语料，改写自汤姆·潘恩）
-
-若非既得利益作祟，人类本可和谐共处。——注意变体：倒装不只出现在句首，从句内部也能发生
-
-**结构拆解：**
-
-```
-省 if 虚拟倒装家族：
-  If it were not for X → Were it not for X（对现在的虚拟）
-  If it had not been for X → Had it not been for X（对过去的虚拟）
-  = But for X / Without X（介词版，更简）
-识别：句首 Were/Had/Should + 主语（无 that）→ 虚拟条件句
-```
-
-**变体采集：**
-
-- 变体：Were it not for；时间指向：现在；例：若非…（现在就不会…）
-- 变体：Had it not been for；时间指向：过去；例：若非…（当时早就…）
-- 变体：But for / Without；时间指向：通用；例：最简形态
-
-
-### 24. Should you [V]
-
-**意思：** 若您（万一）…。
-
-> Should you encounter this error, file a ticket immediately.（自造）
-
-**来源：** 自造；语料
-
-**补充：**
-
-省 if 的条件倒装，技术文档和客服邮件最高频。
-
-
-
-若您遇到此错误，请立即提工单。
-
-> Should you buy a home from Lovell, the company promises to buy it back at the same price after three years.（语料）
-
-若您从 Lovell 购房，公司承诺三年后以原价回购。
-
-**结构拆解：**
-
-```
-Should you V = If you (should) V（万一/倘若）
-should 在这里不是"应该"，是虚拟语气助动词（低概率假设）
-语域：正式文档/邮件；日常口语用 if
-位置规则：主句常跟祈使句（Should you…, do X）
-```
-
-**常见误读：**
-
-- 误读：把 should 读成“应该”；正解：此处是虚拟假设助动词：万一
-- 误读：以为是疑问句倒装；正解：无疑问词、句首 Should + 主语 → 条件句
-- 误读：见到 had it not been 当条件句；正解：语料库唯一命中 “Why had it not been possible…” 是真疑问句过去完成时；条件用法需倒装语序（Had it not been for…）
-
-
-### 25. as it stands
+### 17. as it stands
 
 **意思：** 以现状而论；照目前这样。
 
@@ -1408,7 +1088,6 @@ should 在这里不是"应该"，是虚拟语气助动词（低概率假设）
   后置定语：the law as it stands（照现状的这部法律）
   句首评注：As it stands, …（照现状来看，…）
 语用信号：后面常跟 but / however / needs to change
-同族：as it is（事实是）/ as it were（打个比方，见家族D——三个长得像，意思完全不同）
 ```
 
 ## 真题里可复用的表达
@@ -1423,7 +1102,7 @@ should 在这里不是"应该"，是虚拟语气助动词（低概率假设）
 
 **补充：**
 
-条件句式骨架，划定主句成立的范围边界；比 if 更强调"边界感"而非"假设"。
+条件句子级 Chunk，划定主句成立的范围边界；比 if 更强调"边界感"而非"假设"。
 
 
 
@@ -1442,7 +1121,7 @@ as long as + 从句，主句          ：从句给条件边界，主句是该边
 时长用法：It ran for as long as thirty years.（这里的 as long as = 长达，非条件）
 ```
 
-**常见误读：** 读到 as long as 先判断是条件还是时长——后面接从句（有主谓）是条件句式骨架，接名词/时间量是"长达"。条件义中主句常用情态或一般现在时表常态。
+**常见误读：** 读到 as long as 先判断是条件还是时长——后面接从句（有主谓）是条件句子级 Chunk，接名词/时间量是"长达"。条件义中主句常用情态或一般现在时表常态。
 
 ### 2. [do A] rather than [do B]
 
@@ -1454,7 +1133,7 @@ as long as + 从句，主句          ：从句给条件边界，主句是该边
 
 **补充：**
 
-取舍衔接骨架，语义重心在 rather than 之前；两边成分必须平行。
+取舍衔接表达结构，语义重心在 rather than 之前；两边成分必须平行。
 
 
 
@@ -1485,7 +1164,7 @@ B 端动词形态跟随 A 端：eat them at once（原形）↔ putting them asi
 
 **补充：**
 
-结果落点句式骨架：起点常是一个动作或计划，end up 给出与预期有落差的终点。
+结果落点句子级 Chunk：起点常是一个动作或计划，end up 给出与预期有落差的终点。
 
 
 
@@ -1520,7 +1199,7 @@ end up + 形容词/介短 ：end up no better off（终点=评价性补语）
 
 **补充：**
 
-叙事揭晓句式骨架：先有普遍预期或表面现象，turns out 推出与预期不同的实情。
+叙事揭晓句子级 Chunk：先有普遍预期或表面现象，turns out 推出与预期不同的实情。
 
 
 
@@ -1551,7 +1230,7 @@ It turns out (that) + 从句：it 是虚主语，真信息在从句；that 常�
 
 **补充：**
 
-话题聚焦句式骨架：把叙述切换到某个具体领域，常暗含"这个领域情况特殊"。
+话题聚焦句子级 Chunk：把叙述切换到某个具体领域，常暗含"这个领域情况特殊"。
 
 
 
@@ -1570,7 +1249,7 @@ when it comes to + 名词/动名词：to 是介词，后接 V-ing（adjusting to
 近义辨析：as for（口语化、可带轻贬）；in terms of（评估维度）；when it comes to 最中性常用
 ```
 
-**常见误读：** to 后面必须接名词或动名词，不接动词原形（不说 when it comes to adjust）。comes 不随主语变化——固定骨架 it comes，主语永远是 it。
+**常见误读：** to 后面必须接名词或动名词，不接动词原形（不说 when it comes to adjust）。comes 不随主语变化——固定形式 it comes，主语永远是 it。
 
 ### 6. be (more / less) likely to [V]
 
@@ -1582,7 +1261,7 @@ when it comes to + 名词/动名词：to 是介词，后接 V-ing（adjusting to
 
 **补充：**
 
-概率立场句式骨架：把判断包装成可能性陈述，学术和新闻文体的默认语气。
+概率立场句子级 Chunk：把判断包装成可能性陈述，学术和新闻文体的默认语气。
 
 
 
@@ -1605,7 +1284,7 @@ S + be + (more/less/twice as …) likely to V：可能性强度可调
 降级版本：be unlikely to（不可能）= less likely to 的紧缩
 ```
 
-**常见误读：** likely 是形容词不是副词——不说 likely go，必须 be likely to go。句子主语通常是人/事/数字，不是形式 it（表可能性用 it is likely that，另一骨架）。
+**常见误读：** likely 是形容词不是副词——不说 likely go，必须 be likely to go。句子主语通常是人/事/数字，不是形式 it（表可能性用 it is likely that，另一说法）。
 
 ### 7. even if [S V] / even though [S V] / Even so
 
@@ -1617,7 +1296,7 @@ S + be + (more/less/twice as …) likely to V：可能性强度可调
 
 **补充：**
 
-退一步让步句式骨架：先承认一个不利或相反的事实，主句立场不动摇。
+退一步让步句子级 Chunk：先承认一个不利或相反的事实，主句立场不动摇。
 
 
 

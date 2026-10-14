@@ -23,11 +23,11 @@ const assert = require('node:assert/strict');
     await page.locator('#article a').filter({hasText:'生词与熟词新义'}).click();
     await page.getByRole('heading', {name: '生词与熟词新义', exact: true}).waitFor();
     assert.ok((await page.locator('#article h2').count()) > 0, 'marked 渲染出章节小节');
-    assert.equal(await page.locator('#nav .nav-fold').count(), 5, '五个学习导航分组');
+    assert.equal(await page.locator('#nav .nav-fold').count(), 5, '三条学习轨道与两个辅助资料分组');
     const registeredCount = (await (await page.request.get(base + 'api/catalog')).json()).items.length;
     assert.equal(await page.locator('#nav a.nav-link').count(), registeredCount, '登记文档均有导航入口');
     const navText = await page.locator('#nav').innerText();
-    assert.ok(navText.includes('表达练习') && navText.includes('原文与参考资料'), '练习与查阅分区可见');
+    assert.ok(navText.includes('Shadowing') && navText.includes('原文与参考资料'), 'Shadowing与查阅分区可见');
     assert.ok(!navText.includes('英语固定短语完全指南') && !navText.includes('雅思级别英语1000句 v2'), '隔离文档不在导航');
     // 当前文档所在分组展开并高亮
     assert.ok(await page.locator('#nav > details[open] a.active').count() > 0, '当前文档分组展开且高亮');
@@ -42,7 +42,7 @@ const assert = require('node:assert/strict');
     assert.equal(await page.locator('.sidebar').isVisible(), true);
 
     // 新表达章可由深链打开，且练习答案仍保持折叠
-    await page.goto(base + '#' + encodeURIComponent('course/表达练习/Better Call Saul S01 中译英练习.md'));
+    await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/Better Call Saul S01 中译英练习.md'));
     await page.getByRole('heading', {name: 'Better Call Saul S01 中译英练习', exact: true}).waitFor();
     assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '表达章答案默认折叠');
 
@@ -72,7 +72,7 @@ const assert = require('node:assert/strict');
     await page.goto(base + '#' + encodeURIComponent('course/编纂与维护/Skills/中文到英文表达训练计划.md'));
     await page.getByRole('heading', {name: '中译英训练与编题', exact: true}).waitFor();
 
-    await page.goto(base + '#' + encodeURIComponent('course/表达练习/每日逐句精读与迁移.md'));
+    await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/每日逐句精读与迁移.md'));
     await page.getByRole('heading', {name: '每日逐句精读与迁移', exact: true}).waitFor();
 
     await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/Chunks 收集箱.md'));
@@ -92,7 +92,7 @@ const assert = require('node:assert/strict');
     await page.getByRole('heading', {name: /One of these days, \.\.\./ }).waitFor();
 
     // 中译英题目先独立呈现，目标 Chunk 仅在主动查看提示后显示
-    await page.goto(base + '#' + encodeURIComponent('course/表达练习/Better Call Saul S01 中译英练习.md'));
+    await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/Better Call Saul S01 中译英练习.md'));
     await page.getByRole('heading', {name: 'Better Call Saul S01 中译英练习', exact: true}).waitFor();
     assert.equal(await page.locator('#article h3').count(), 31, 'S01E01 试跑31题');
     const chunkReference = page.locator('#article .reference-answers');
@@ -111,7 +111,7 @@ const assert = require('node:assert/strict');
     await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/精选 Chunks.md'));
     await page.getByRole('heading', {name: '精选 Chunks', exact: true}).waitFor();
     await page.getByRole('heading', {name: /^\d+\. nothing but$/}).waitFor();
-    await page.goto(base + '#' + encodeURIComponent('course/表达练习/Better Call Saul S01 中译英练习.md'));
+    await page.goto(base + '#' + encodeURIComponent('course/Chunks 收集/Better Call Saul S01 中译英练习.md'));
     await page.getByRole('heading', {name: 'Better Call Saul S01 中译英练习', exact: true}).waitFor();
     assert.equal(await page.locator('#article .reference-answers').getAttribute('open'), null, '参考答案默认折叠');
     await page.locator('#article .reference-answers summary').click();

@@ -10,7 +10,7 @@
       520
     ]
   ],
-  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与整句表达；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
   "items": [
     {
       "chunk": "Meaning what, exactly?",
@@ -882,7 +882,7 @@
       "end_time": "00:17:51,321",
       "quote": "You can't be serious. What planet would you take this to trial?",
       "id": "S04E05-032",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "You can't be serious.",
       "matched_source": "references/chunks/better-call-saul-s01e06-selection.json"
     },
@@ -895,7 +895,7 @@
       "end_time": "00:20:27,435",
       "quote": "If I may, your honour.",
       "id": "S04E05-045",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "if I may",
       "matched_source": "references/chunks/better-call-saul-s03e03-selection.json"
     },
@@ -908,7 +908,7 @@
       "end_time": "00:31:01,736",
       "quote": "- Hand it over. - Nice try.",
       "id": "S04E05-061",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "hand sth. over",
       "matched_source": "references/chunks/better-call-saul-s01e07-selection.json"
     },
@@ -921,7 +921,7 @@
       "end_time": "00:38:09,079",
       "quote": "I don't know what to tell you, Paige. I just... not right now.",
       "id": "S04E05-073",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "I don't know what to tell you.",
       "matched_source": "references/chunks/better-call-saul-s01e04-selection.json"
     },

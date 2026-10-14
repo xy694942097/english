@@ -7157,7 +7157,7 @@
           "chunk": "It wasn't …; it was …",
           "meaning": "不是……，而是……",
           "register": "演讲口语",
-          "note": "重心对照骨架。",
+          "note": "重心对照表达结构。",
           "paragraph": 17,
           "quote": "And when we gathered together everything we knew about them at age 50, it wasn't their middle age cholesterol levels that predicted how they were going to grow old."
         },
@@ -11809,7 +11809,7 @@
           "paragraph": 4,
           "quote": "And what I've found is that our little devices, those little devices in our pockets, are so psychologically powerful that they don't only change what we do, they change who we are.",
           "meaning": "不仅改变A，还改变B",
-          "note": "原文不用but also，保留论述骨架。",
+          "note": "原文不用but also，保留论述表达结构。",
           "chunk": "not only ...; ...",
           "register": "演讲；可迁移到日常交流或讨论"
         },

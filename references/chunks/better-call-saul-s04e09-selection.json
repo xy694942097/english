@@ -10,7 +10,7 @@
       647
     ]
   ],
-  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与整句表达；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
   "items": [
     {
       "chunk": "float around",
@@ -911,7 +911,7 @@
       "end_time": "00:04:29,854",
       "quote": "Kim: You're supposed to watch a baby for five minutes. How hard is that?",
       "id": "S04E09-011",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "How hard is that?",
       "matched_source": "references/chunks/better-call-saul-s01e04-selection.json"
     },
@@ -924,7 +924,7 @@
       "end_time": "00:05:18,527",
       "quote": "They're exactly the same. No one has to know.",
       "id": "S04E09-012",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "No one has to know.",
       "matched_source": "references/chunks/better-call-saul-s01e04-selection.json"
     },
@@ -937,7 +937,7 @@
       "end_time": "00:27:30,066",
       "quote": "Gus: Is everything to your liking?",
       "id": "S04E09-039",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "to your liking",
       "matched_source": "references/chunks/better-call-saul-s02e04-selection.json"
     },
@@ -950,7 +950,7 @@
       "end_time": "00:34:30,778",
       "quote": "But as I sit here, I can assure you...",
       "id": "S04E09-056",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "I can assure you (that)…",
       "matched_source": "references/chunks/better-call-saul-s01e04-selection.json"
     },
@@ -963,7 +963,7 @@
       "end_time": "00:46:09,559",
       "quote": "I have a job, but I drop everything for you. Every single time.",
       "id": "S04E09-083",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "drop everything",
       "matched_source": "references/chunks/better-call-saul-s03e06-selection.json"
     },

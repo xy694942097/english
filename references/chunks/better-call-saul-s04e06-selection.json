@@ -10,7 +10,7 @@
       592
     ]
   ],
-  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与整句表达；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
   "items": [
     {
       "chunk": "be stuck on sth.",
@@ -945,7 +945,7 @@
       "end_time": "00:02:11,716",
       "quote": "Family tracks down the cfo...",
       "id": "S04E06-009",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "track sb. down",
       "matched_source": "references/chunks/better-call-saul-s01e05-selection.json"
     },
@@ -958,7 +958,7 @@
       "end_time": "00:03:49,730",
       "quote": "I hate to interrupt, but there's a Mr. Bushmills waiting in my office.",
       "id": "S04E06-013",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "I hate to interrupt, but…",
       "matched_source": "references/chunks/better-call-saul-s01e08-selection.json"
     },
@@ -971,7 +971,7 @@
       "end_time": "00:18:15,095",
       "quote": "You may be eligible to receive compensation for a...",
       "id": "S04E06-043",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "be eligible to receive sth.",
       "matched_source": "references/chunks/better-call-saul-s02e03-selection.json"
     },
@@ -984,7 +984,7 @@
       "end_time": "00:20:58,925",
       "quote": "Downtown by the courts. Stick around where all the people who need help are.",
       "id": "S04E06-048",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "stick around",
       "matched_source": "references/chunks/better-call-saul-s01e06-selection.json"
     },
@@ -997,7 +997,7 @@
       "end_time": "00:21:03,346",
       "quote": "Boy. It has a nice ring to it now.",
       "id": "S04E06-049",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "have a nice ring to it",
       "matched_source": "references/chunks/better-call-saul-s03e06-selection.json"
     },
@@ -1010,7 +1010,7 @@
       "end_time": "00:27:36,030",
       "quote": "That and your hair, which, let's face it, the clock's ticking there too, so...",
       "id": "S04E06-065",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "Let's face it,…",
       "matched_source": "references/chunks/better-call-saul-s01e10-selection.json"
     },
@@ -1023,7 +1023,7 @@
       "end_time": "00:44:28,416",
       "quote": "It's gonna hurt like a bitch either way.",
       "id": "S04E06-091",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "Either way,…",
       "matched_source": "references/chunks/better-call-saul-s01e07-selection.json"
     },

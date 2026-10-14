@@ -10,7 +10,7 @@
       417
     ]
   ],
-  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与外层表达骨架；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
+  "second_pass": "从首尾按编号回看全部初选未收录cue（含长空白区、歌词及专门术语段），补入短回应、常用动作／名词搭配与整句表达；再次按相邻对话核对意思。工具输出截断处另分段补读。引用校验不等于无遗漏。",
   "items": [
     {
       "chunk": "pass out",
@@ -850,7 +850,7 @@
       "end_time": "00:06:29,348",
       "quote": "What if I told you, you could turn this into 4 grand?",
       "id": "S04E03-002",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "What if I told you…?",
       "matched_source": "references/chunks/better-call-saul-s02e10-selection.json"
     },
@@ -863,7 +863,7 @@
       "end_time": "00:14:38,128",
       "quote": "Takes your breath away, doesn't it?",
       "id": "S04E03-037",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "take one's breath away",
       "matched_source": "references/chunks/better-call-saul-s03e06-selection.json"
     },
@@ -876,7 +876,7 @@
       "end_time": "00:21:34,669",
       "quote": "It's gonna hurt like hell, and then you're gonna die.",
       "id": "S04E03-048",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "hurt like hell",
       "matched_source": "references/chunks/better-call-saul-s03e05-selection.json"
     },
@@ -889,7 +889,7 @@
       "end_time": "00:31:26,552",
       "quote": "Don't know how you pulled that off.",
       "id": "S04E03-057",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "pull sth. off",
       "matched_source": "references/chunks/better-call-saul-s03e07-selection.json"
     },
@@ -902,7 +902,7 @@
       "end_time": "00:35:44,852",
       "quote": "But I'm afraid I can't allow it. Not yet.",
       "id": "S04E03-068",
-      "reason": "规范化同形／同骨架表达已收录；此处未见独立新义",
+      "reason": "规范化同形／同形式表达已收录；此处未见独立新义",
       "matched": "I'm afraid I can't…",
       "matched_source": "references/chunks/better-call-saul-s01e07-selection.json"
     },

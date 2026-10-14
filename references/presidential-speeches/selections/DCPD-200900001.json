@@ -195,7 +195,7 @@
     },
     {
       "chunk": "[X] is never a given",
-      "category": "句式骨架",
+      "category": "整句表达",
       "meaning": "X 从来不是理所当然或自动有保证的",
       "register": "中性／论述",
       "note": "a given 作名词指可当成既定事实的东西；不能理解为过去分词被给予。",
@@ -368,7 +368,7 @@
     },
     {
       "chunk": "The question is not whether [A], but whether [B]",
-      "category": "句式骨架",
+      "category": "整句表达",
       "meaning": "真正要问的不是 A，而是 B；重新界定讨论焦点",
       "register": "工作讨论／论述",
       "note": "whether A/B 可各接一个完整判断；不只是替换 but，而是在转移判定标准。",
@@ -396,7 +396,7 @@
     },
     {
       "chunk": "not out of [X], but because [Y]",
-      "category": "句式骨架",
+      "category": "整句表达",
       "meaning": "不是出于 X，而是因为 Y；澄清动机",
       "register": "口语书面均可／解释",
       "note": "out of 在此引出动机，X 常为情绪或态度名词，Y 为从句；不要照抄原政治主张。",
@@ -665,7 +665,7 @@
       "chunk": "a given",
       "meaning": "理所当然有保证的东西",
       "register": "中性／论述",
-      "note": "原精选完整骨架另保留；本项不另收，转词汇备注。",
+      "note": "原精选完整表达结构另保留；本项不另收，转词汇备注。",
       "paragraph": 7,
       "quote": "In reaffirming the greatness of our Nation, we understand that greatness is never a given.",
       "quote_sha256": "eb1e366f0a2bf262e91392f1e738906330008948f573f03f1b979475f27d91e9"

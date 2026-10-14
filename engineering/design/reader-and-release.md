@@ -1,0 +1,29 @@
+# 阅读器与发布
+
+现行说明，2026-10-14 整理；实现与配置优先于历史发布记录。
+
+## 本地与公开站点
+
+`python3 site/server.py` 在回环地址4174提供只读阅读器；无编辑、对话、学习记录或写入接口。运行、参数与测试命令见[站点手册](../../site/README.md)。
+
+本地目录由 `nav.json` 显式登记；公开范围由 `site/publish-nav.json` 单独登记。构建器 `site/build_static.py` 输出阅读器、catalog.json、选中的正文和明确引用的图片；原始材料、个人学习档案不因本地可见而自动公开。reference_only 配置的原文合集输出来源入口页，不复制本机全文。资源使用相对URL，支持 `/english/` 子路径。
+
+## 阅读交互
+
+根地址显示首页，分区和数量由实际导航生成；站点名称及侧栏首页可返回。文档深链直接打开正文，未找到文档时显示返回首页入口。
+
+侧栏负责文章导航；右边中部按钮打开由h2/h3自动生成的文章目录，正文无需手写目录。二级及以下标题可折叠，跳转会展开目标层级；参考答案和参考Chunk独立默认折叠。全文搜索、主题切换、旧路径别名和稳定标题锚点继续保留。
+
+手机默认收起章节导航，顶部章节按钮打开抽屉，选文章后关闭；内容按窄屏排版，表格与代码可横向滚动。浏览器检查入口为 `site/test_reader.cjs` 和 `site/test_mobile.cjs`。
+
+## 发布
+
+提交所需改动后 `git push origin main` 即触发 `.github/workflows/pages.yml`：只读界面／公开清单专项检查 → 静态构建 → 上传Pages artifact → 部署。也支持 workflow_dispatch。Pages Source设为GitHub Actions；其他分支push不发布，失败构建不会替换当前网站。旧 `deploy_pages.py` 是gh-pages发布工具，日常无需运行，不与现行流程混用。
+
+网站：https://xy694942097.github.io/english/ 。源码远端使用SSH：`git@github.com:xy694942097/english.git`。
+
+历史发布记录可查 Git；当前数量以实际导航与构建结果为准。
+
+## 验证边界
+
+完整本地检查：`python3 site/test_server.py`；它包含本机未入Git原文合集的目录校验。干净检出与CI运行公开清单和只读界面专项测试，不要求下载这些全文。网站上线须查看Actions部署结果；本地通过不等于已经发布。

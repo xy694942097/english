@@ -21,7 +21,7 @@
         47
       ]
     ],
-    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句整句表达／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
     "added": 6
   },
   "items": [
@@ -57,7 +57,7 @@
       "chunk": "depend not on A, but on B",
       "meaning": "所依靠的不是A，而是B",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "重定因果或责任来源的外层骨架。",
+      "note": "重定因果或责任来源的整句表达。",
       "quote": "I have just taken the sacred oath each of these patriots have taken, the oath first sworn by George Washington. But the American story depends not on any one of us, not on some of us, but on all of us, on \"We the People,\" who seek a more perfect Union.",
       "quote_sha256": "844c7711d14ed7cd855d3e26a2df055b25c40cfddf2dbe86283a03d155caa8e1"
     },
@@ -255,7 +255,7 @@
       "chunk": "fight as hard for A as for B",
       "meaning": "为A和B同样努力争取",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "保留比较骨架；fight 可指积极争取。",
+      "note": "保留比较表达结构；fight 可指积极争取。",
       "quote": "And I promise you, I will fight as hard for those who did not support me as for those who did.",
       "quote_sha256": "0692ccd06c30fba37e3edbe70d63f387aea26cc3656d1fb55e16ba7763dcd8e9"
     },
@@ -458,7 +458,7 @@
     {
       "paragraph": 16,
       "text": "see each other not as adversaries, but as neighbors",
-      "reason": "与202400984 see sb. not as A but as B同一骨架"
+      "reason": "与202400984 see sb. not as A but as B同一表达结构"
     }
   ],
   "pending": [],

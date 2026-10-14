@@ -3126,7 +3126,7 @@ Robert Waldinger · 2015 · What makes a good life? Lessons from the longest stu
 
 **来源：** [Robert Waldinger · TED 005 · P017](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness)
 
-**补充：** 重心对照骨架。
+**补充：** 重心对照表达结构。
 
 ### 44. count on sb.
 
@@ -5062,7 +5062,7 @@ Sherry Turkle · 2012 · Connected, but alone?
 
 **来源：** [Sherry Turkle · TED 013 · P004](https://www.ted.com/talks/sherry_turkle_connected_but_alone)
 
-**补充：** 原文不用but also，保留论述骨架。
+**补充：** 原文不用but also，保留论述表达结构。
 
 ### 13. come to seem ...
 

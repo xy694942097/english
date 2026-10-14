@@ -83,7 +83,7 @@ def render_chunks(sources, selection):
     speakers = ['Bill Clinton', 'George W. Bush', 'Barack Obama', 'Donald Trump', 'Joe Biden']
     ordered = sorted(sources, key=lambda src: (speakers.index(src['speaker']), src['date']))
     lines = ['# 总统演讲：Chunks 积累', '',
-             f"取自五位总统的 {len(groups)} 篇官方实录，按演讲分组。记录可迁移的搭配、话语套语和句子骨架；正式与演讲语气标在意思中，不把出现次数当作日常高频或掌握证据。", '',
+             f"取自五位总统的 {len(groups)} 篇官方实录，按演讲分组。记录可迁移的搭配、话语套语和整句表达；正式与演讲语气标在意思中，不把出现次数当作日常高频或掌握证据。", '',
              '原文见 [总统演讲原文合集](../原文与参考资料/原文、教材与影视/总统演讲原文合集：GovInfo.md)。以下是候选积累；段号对应本地可读层，原句逐字保留。', '']
     for src in ordered:
         if src['id'] not in groups:

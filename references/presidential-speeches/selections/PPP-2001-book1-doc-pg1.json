@@ -17,7 +17,7 @@
         30
       ]
     ],
-    "method": "首轮逐段检查外层表达骨架和内部搭配，二遍回看全部未收段及已收段中的对比、让步、否定、责任和请求动作；只在总统素材内查重，未按组成词简单推定掌握。",
+    "method": "首轮逐段检查整句表达和内部搭配，二遍回看全部未收段及已收段中的对比、让步、否定、责任和请求动作；只在总统素材内查重，未按组成词简单推定掌握。",
     "added": 8,
     "intentionally_omitted": "称呼名单、套式宗教祝福、专名和政治口号、一次性长比喻；单词义项不伪装固定词块。"
   },
@@ -395,7 +395,7 @@
       "chunk": "not because 从句 but because 从句",
       "meaning": "不是因为……而是因为……",
       "register": "中性／澄清理由",
-      "note": "与Obama2013同功能骨架，待全总统范围合并。",
+      "note": "与Obama2013同功能表达结构，待全总统范围合并。",
       "paragraph": 26,
       "quote": "Americans are generous and strong and decent, not because we believe in ourselves but because we hold beliefs beyond ourselves.",
       "quote_sha256": "18effb339a4229090400dd62ec7cdd97d1403c81094cc66f3c217e273efd884c"

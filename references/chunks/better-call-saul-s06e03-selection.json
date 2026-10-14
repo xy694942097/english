@@ -12,7 +12,7 @@
   "selection_status": "Candidates, pending user screening",
   "review": {
     "first_pass": "按字幕顺序完整通读所列实际读取范围；跨cue合并句义，外层表达动作与内部搭配分别检查；输出未截断",
-    "second_pass": "重看未收录cue及长空白区，补查外层骨架、短回应、普通动作搭配；未选歌词只作为场景背景，不采歌词",
+    "second_pass": "重看未收录cue及长空白区，补查整句表达、短回应、普通动作搭配；未选歌词只作为场景背景，不采歌词",
     "second_pass_range": [
       1,
       347

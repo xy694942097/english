@@ -21,7 +21,7 @@
         124
       ]
     ],
-    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句整句表达／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
     "added": 9
   },
   "items": [
@@ -157,7 +157,7 @@
       "chunk": "My only worry is 从句",
       "meaning": "我唯一担心的是……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "此处含玩笑，骨架可用于表达保留意见。",
+      "note": "此处含玩笑，表达结构可用于表达保留意见。",
       "quote": "I talked to him, and I said: \"John, you can do this job. My only worry is, you'll do it too well.\" [Laughter]",
       "quote_sha256": "6b040c19edb0d8a9aa5fbfffd585dfdff3eb35bee8ede6bfa761cee6e056c31c"
     },
@@ -343,7 +343,7 @@
     },
     {
       "chunk": "I'd be surprised if 从句",
-      "category": "句式骨架",
+      "category": "整句表达",
       "meaning": "如果……我会很意外；间接表示自己觉得那不太可能",
       "register": "日常与工作讨论",
       "note": "if 从句的肯定／否定决定预测方向；原句的 anything different 表示预计别人也听到相同担忧。",
@@ -534,7 +534,7 @@
     },
     {
       "chunk": "The real credit doesn't go to sb./sth.",
-      "category": "句式骨架",
+      "category": "整句表达",
       "meaning": "真正的功劳不属于 X（而应归给别人）",
       "register": "感谢／评价与公开讲话",
       "note": "credit 是功劳、认可，不是贷款额度；原段下一句把认可给了听众。 原例对应自己与团队，宾语不限于物。",
@@ -547,7 +547,7 @@
       "chunk": "regardless of whether 从句",
       "meaning": "不论是否……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "容纳并列身份选项，外层限定骨架。",
+      "note": "容纳并列身份选项，外层限定表达结构。",
       "quote": "Which is why I'm asking you that regardless of whether you're a Democrat, Republican, or Independent, put the preservation of our democracy before everything else.",
       "quote_sha256": "d3b9470a4e0b079af0c5cca87713aa53ad809075459a9b9219a95e0eb684964d"
     },
@@ -589,7 +589,7 @@
     },
     {
       "chunk": "for all its faults",
-      "category": "句式骨架",
+      "category": "整句表达",
       "meaning": "尽管它有种种缺点，仍然……",
       "register": "评价／口语书面均可",
       "note": "for all 在此表达让步，不是为了全部；换对象时可用 for all his/her/their faults。原文 pass 后附官方 path 更正，照录。",
@@ -629,7 +629,7 @@
       "chunk": "the more 从句, the stronger 从句",
       "meaning": "越……，就越……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "关系骨架；原文连续三个the比较级。",
+      "note": "关系表达结构；原文连续三个the比较级。",
       "quote": "In my view, the more people vote, the more engaged the whole Nation becomes, the stronger our democracy will be.",
       "quote_sha256": "13eb45ac774945d732a39ff21e02074db7f80bc5ee7ab414880180500ba9225f"
     },
@@ -734,7 +734,7 @@
     {
       "paragraph": 40,
       "text": "you can’t love your country only when you win",
-      "reason": "保留202400984 P9外层骨架"
+      "reason": "保留202400984 P9整句表达"
     },
     {
       "paragraph": 22,

@@ -16465,7 +16465,7 @@
 
 ### 22. what sb. wants and what sb. needs
 
-**意思：** 某人想要的与真正需要的；对照骨架
+**意思：** 某人想要的与真正需要的；对照表达结构
 
 > He doesn't want to be here. What he wants and what he needs are two very different things, Jimmy.
 
@@ -30113,7 +30113,7 @@
 
 ### 41. the higher …, the more …
 
-**意思：** 越高……越……；程度联动骨架
+**意思：** 越高……越……；程度联动表达结构
 
 > The higher you rise, the more they're gonna hate you. Good.
 
@@ -33139,7 +33139,7 @@
 
 ### 64. There's no such thing as nothing.
 
-**意思：** 不存在完全没有信息这种事；可迁移骨架there's no such thing as…
+**意思：** 不存在完全没有信息这种事；可迁移表达结构there's no such thing as…
 
 > No, there's no such thing as nothing.
 
@@ -38303,7 +38303,7 @@
 
 ### 24. What A is to B, C is to D.
 
-**意思：** A之于B，如同C之于D；类比骨架
+**意思：** A之于B，如同C之于D；类比表达结构
 
 > What Colonel Sanders is to chicken, Saul Goodman is to the law.
 
@@ -42575,7 +42575,7 @@
 
 ### 7. V as in Victor
 
-**意思：** V，就是Victor的V；电话拼写澄清骨架
+**意思：** V，就是Victor的V；电话拼写澄清表达结构
 
 > On that 10-29, V as in Victor.
 

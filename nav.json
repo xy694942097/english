@@ -1,28 +1,29 @@
 {
   "groups": [
     {
-      "title": "词汇",
-      "items": [
-        "course/词汇/生词与熟词新义.md",
-        "course/词汇/Better Call Saul：词汇与搭配积累.md",
-        "course/词汇/TED：词汇与搭配积累.md"
-      ]
-    },
-    {
       "title": "Chunks 收集",
       "items": [
         "course/Chunks 收集/精选 Chunks.md",
         "course/Chunks 收集/Better Call Saul：Chunks 积累.md",
         "course/Chunks 收集/Chunks 收集箱.md",
         "course/Chunks 收集/总统演讲：Chunks 积累.md",
-        "course/Chunks 收集/TED：Chunks 积累.md"
+        "course/Chunks 收集/TED：Chunks 积累.md",
+        "course/Chunks 收集/Better Call Saul S01 中译英练习.md",
+        "course/Chunks 收集/每日逐句精读与迁移.md"
       ]
     },
     {
-      "title": "表达练习",
+      "title": "Shadowing",
       "items": [
-        "course/表达练习/Better Call Saul S01 中译英练习.md",
-        "course/表达练习/每日逐句精读与迁移.md"
+        "course/Shadowing/Shadowing 记录.md"
+      ]
+    },
+    {
+      "title": "词汇",
+      "items": [
+        "course/词汇/生词与熟词新义.md",
+        "course/词汇/Better Call Saul：词汇与搭配积累.md",
+        "course/词汇/TED：词汇与搭配积累.md"
       ]
     },
     {
@@ -42,25 +43,16 @@
             "course/原文与参考资料/原文、教材与影视/雅思真题合集.md",
             "course/原文与参考资料/原文、教材与影视/雅思资料合集.md",
             "course/原文与参考资料/原文、教材与影视/初中英语教材合集.md",
-            "course/原文与参考资料/原文、教材与影视/《Normal People》地道表达框架挖掘.md",
             "course/原文与参考资料/原文、教材与影视/TED 英语选材目录：100 个演讲与对谈.md"
           ]
         },
         {
           "sub": "表达与语法查阅",
           "items": [
+            "course/原文与参考资料/表达与语法查阅/词组速查与结构对照.md",
             "course/原文与参考资料/表达与语法查阅/英语短语动词完全指南.md",
             "course/原文与参考资料/表达与语法查阅/英语短语结构完全指南.md",
-            "course/原文与参考资料/表达与语法查阅/词组速查与结构对照.md",
-            "course/原文与参考资料/表达与语法查阅/英语介词完全指南.md",
-            "course/原文与参考资料/表达与语法查阅/教材回收：初高中句式骨架.md",
-            "course/原文与参考资料/表达与语法查阅/教材回收：通读篇.md",
-            "course/原文与参考资料/表达与语法查阅/真题通读：四级篇.md",
-            "course/原文与参考资料/表达与语法查阅/真题通读：考研篇.md",
-            "course/原文与参考资料/表达与语法查阅/口语对话动作：攻防与体面.md",
-            "course/原文与参考资料/表达与语法查阅/叙事与认知动作：讲故事的发动机.md",
-            "course/原文与参考资料/表达与语法查阅/英语中长难句结构完全指南.md",
-            "course/原文与参考资料/表达与语法查阅/雅思级别英语1000句——生活化场景含逐句解析.md"
+            "course/原文与参考资料/表达与语法查阅/英语介词完全指南.md"
           ]
         }
       ]
@@ -70,11 +62,8 @@
       "items": [
         "course/我的学习/学习者背景.md",
         "course/我的学习/学习方法与教学思想.md",
-        "course/我的学习/学习与内容待办.md",
-        "course/我的学习/把 chunks 作为快速理解与表达的学习单位.md",
         "course/我的学习/当前学习状态.md",
-        "course/我的学习/能力诊断基线（第一批真实数据）.md",
-        "course/我的学习/Lesson 001- Reading In Chunks.md"
+        "course/我的学习/能力诊断基线（第一批真实数据）.md"
       ]
     }
   ],

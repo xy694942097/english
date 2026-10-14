@@ -21,7 +21,7 @@
         272
       ]
     ],
-    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句外层骨架／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
+    "description": "回看未选段（包括致谢、政治说明、听众打断、数字段），并复查已选句整句表达／内部词块；已读长段未选部分不凭词简单或课本出现排除。",
     "added": 15
   },
   "items": [
@@ -48,7 +48,7 @@
       "chunk": "What makes sth. ... is that 从句",
       "meaning": "某事之所以……，是因为……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "外层解释骨架。",
+      "note": "外层解释表达结构。",
       "quote": "What makes our moment rare is that freedom and democracy are under attack at—both at home and overseas at the very same time.",
       "quote_sha256": "4bd6ca4a814ab2d1d8bd5739c6364a3210218e7c1ef7b4257528df919eaa868f"
     },
@@ -210,7 +210,7 @@
       "chunk": "more ... than ever before",
       "meaning": "比以往任何时候都更……",
       "register": "正式／演讲",
-      "note": "比较评价骨架，不当演讲事实证明。",
+      "note": "比较评价表达结构，不当演讲事实证明。",
       "quote": "More people have health insurance today than ever before.",
       "quote_sha256": "bf0e3550468a2385f3685cc31fd10a82d932f83276d5bbfbbe036d4e123891cc"
     },
@@ -723,7 +723,7 @@
       "chunk": "We can ... or we can ...",
       "meaning": "我们可以……，也可以……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "本句用争论与行动作选择，属于论述骨架而非习语。",
+      "note": "本句用争论与行动作选择，属于论述表达结构而非习语。",
       "quote": "Look, folks, we have a simple choice: We can fight about fixing the border, or we can fix it.",
       "quote_sha256": "6703f4f8d88991bc91f6167ab6bc0e31132cabc0226c574d3f2245c69fe7ca22"
     },
@@ -894,7 +894,7 @@
       "chunk": "as a supporter of sth.",
       "meaning": "以某事终身支持者的身份",
       "register": "正式／演讲",
-      "note": "正式立场身份；泛化程度待教学审校。lifelong为本句修饰语，不是固定骨架。",
+      "note": "正式立场身份；泛化程度待教学审校。lifelong为本句修饰语，不是固定形式。",
       "quote": "And I say this as a lifelong supporter of Israel, my entire career.",
       "quote_sha256": "a08847adeefa5b9b0bafa1a632343ffe4f2f106dff311cce576504af81b25eb0"
     },
@@ -976,7 +976,7 @@
       "chunk": "owe it to sb. to do sth.",
       "meaning": "有责任为某人做某事",
       "register": "中性／口语、工作；原素材为演讲",
-      "note": "第二遍补充：内部动词词块／义务表达骨架。",
+      "note": "第二遍补充：内部动词词块／义务整句表达。",
       "quote": "And we owe it to ourselves to keep supporting our new health research agency called ARPA–H—and remind us—to remind us that we can do big things, like end cancer as we know it.",
       "quote_sha256": "38ecc156c69c7a6faa00806e980cc74c48983e2e7b2b8777ba6583f4f9e9c8d2"
     },
@@ -1012,7 +1012,7 @@
       "chunk": "watch in horror as 从句",
       "meaning": "惊恐地目睹……",
       "register": "中性／观点表达、工作讨论；原素材为正式演讲",
-      "note": "叙事反应骨架。",
+      "note": "叙事反应表达结构。",
       "quote": "I watched in horror as two of my heroes—like many of you did—Dr. King and Bobby Kennedy, were assassinated. And their legacies inspired me to pursue a career of service.",
       "quote_sha256": "b37f723696c869cc3d7db0e29681be490b247ac312c30b18ffacb9a8b9d2fa6f"
     },
@@ -1048,7 +1048,7 @@
       "chunk": "I see a future where 从句",
       "meaning": "我展望这样一种未来：……",
       "register": "正式／演讲",
-      "note": "正式愿景骨架，非只指眼睛看见。",
+      "note": "正式愿景表达结构，非只指眼睛看见。",
       "quote": "Tonight you've heard mine. I see a future where [we're; White House correction] defending democracy, you don't diminish it.",
       "quote_sha256": "bb080168345657afd18687706c304f51b65e9e2a0242a7dbeb53613f3347f10a"
     }

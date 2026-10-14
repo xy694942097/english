@@ -645,7 +645,7 @@
     },
     {
       "chunk": "There's no such thing as nothing.",
-      "meaning": "不存在完全没有信息这种事；可迁移骨架there's no such thing as…",
+      "meaning": "不存在完全没有信息这种事；可迁移表达结构there's no such thing as…",
       "start_cue": 437,
       "end_cue": 437,
       "start_time": "00:39:52,474",
@@ -944,7 +944,7 @@
       1,
       556
     ],
-    "method": "在首遍完整字幕输出上，从头重新检查未选cue及相邻上下文；再查外层骨架、短回应、普通搭配。二遍不靠regex发现。",
+    "method": "在首遍完整字幕输出上，从头重新检查未选cue及相邻上下文；再查整句表达、短回应、普通搭配。二遍不靠regex发现。",
     "status": "completed",
     "added_candidates": [
       "We good so far?",

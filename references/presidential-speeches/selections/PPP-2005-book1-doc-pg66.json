@@ -17,7 +17,7 @@
         28
       ]
     ],
-    "method": "首轮逐段检查外层表达骨架和内部搭配，二遍回看全部未收段及已收段中的对比、让步、否定、责任和请求动作；只在总统素材内查重，未按组成词简单推定掌握。",
+    "method": "首轮逐段检查整句表达和内部搭配，二遍回看全部未收段及已收段中的对比、让步、否定、责任和请求动作；只在总统素材内查重，未按组成词简单推定掌握。",
     "added": 6,
     "intentionally_omitted": "称呼名单、套式宗教祝福、专名和政治口号、一次性长比喻；单词义项不伪装固定词块。"
   },
@@ -478,7 +478,7 @@
       "chunk": "not because 从句 ... not because 从句 ...",
       "meaning": "并不是因为……也不是因为……",
       "register": "演讲／理由澄清",
-      "note": "之后原句另说 We have confidence because，与其他篇排除理由骨架合并变体。",
+      "note": "之后原句另说 We have confidence because，与其他篇排除理由表达结构合并变体。",
       "paragraph": 26,
       "quote": "We go forward with complete confidence in the eventual triumph of freedom, not because history runs on the wheels of inevitability--it is human choices that move events; not because we consider ourselves a chosen nation--God moves and chooses as He wills.",
       "quote_sha256": "d41d1abdf0e21fb2eefc83ab827cdd2984b1e10a674dd19c2ffe15db21844138"

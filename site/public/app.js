@@ -231,11 +231,11 @@ function showHome() {
   const lead = element('header', '', 'home-lead');
   lead.append(element('p', 'ENGLISH BOOK', 'home-label'),
     element('h1', '读懂整句，也把意思说出来。'),
-    element('p', '从真实语境积累词汇和 Chunks，用翻译与情境练习，把理解变成自己的表达。', 'home-intro'));
+    element('p', '积累 Chunks 和词汇，在外部视频中做 Shadowing，记录练习并逐渐用熟。', 'home-intro'));
   const actions = element('div', '', 'home-actions');
   for (const [id, label, className] of [
     ['course/Chunks 收集/精选 Chunks.md', '阅读精选 Chunks', 'home-primary'],
-    ['course/表达练习/Better Call Saul S01 中译英练习.md', '试一组中译英练习', 'home-secondary'],
+    ['course/Shadowing/Shadowing 记录.md', '记录 Shadowing', 'home-secondary'],
   ]) {
     const item = byId.get(id);
     if (!item) continue;
@@ -246,7 +246,7 @@ function showHome() {
   const descriptions = {
     '词汇': '熟词的新意思、生词和常用接法，放回句子中理解。',
     'Chunks 收集': '精选表达与作品中的词块积累，从整块意思进入。',
-    '表达练习': '从中文情境到自然英文，练习完整的表达。',
+    'Shadowing': '在 YouTube 等外部播放器跟读，这里记录真实练习。',
     '原文与参考资料': '影视、演讲、教材和语法资料，按阅读需要查阅。',
     '我的学习': '学习背景、方法与当前记录。',
     '编纂与维护': '资料来源、编纂规则，以及教学和出题 Skills。',
@@ -279,7 +279,7 @@ function showHome() {
     }
     grid.append(section);
   }
-  article.append(grid, element('p', '可以直接阅读，也可以用顶部搜索查找词语、句式或章节。', 'home-note'));
+  article.append(grid, element('p', '可以直接阅读，也可以用顶部搜索查找词汇、Chunks 或材料。', 'home-note'));
   nav();
   window.scrollTo(0, 0);
 }
